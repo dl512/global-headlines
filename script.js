@@ -133,7 +133,12 @@ function renderHeadlines(data) {
   loadingState.style.display = "none";
   container.innerHTML = "";
 
-  if (data.length === 0) {
+  // Filter to only show items with headlines
+  const dataWithHeadlines = data.filter(
+    (item) => item.headline && item.headline.trim() !== ""
+  );
+
+  if (dataWithHeadlines.length === 0) {
     container.innerHTML = `
             <div class="empty-state">
                 <p>No headlines found matching your search.</p>
@@ -142,7 +147,7 @@ function renderHeadlines(data) {
     return;
   }
 
-  data.forEach((item) => {
+  dataWithHeadlines.forEach((item) => {
     const card = createHeadlineCard(item);
     container.appendChild(card);
   });
