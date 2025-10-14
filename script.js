@@ -395,7 +395,7 @@ async function fetchFromGoogleSheets() {
   const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
   const API_KEY = "AIzaSyCPyerGljBK4JJ-XA3aRr5cRvWssI3rwhI";
   const SHEET_NAME = "Sheet1";
-  const RANGE = `${SHEET_NAME}!A2:F`; // Start from row 2 to skip header
+  const RANGE = `${SHEET_NAME}!A2:F`; // A=Country, B=Newspaper, C=Website, D=Date, E=Headline, F=Link
 
   const sheetLink = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
 
@@ -416,13 +416,67 @@ async function fetchFromGoogleSheets() {
       return [];
     }
 
-    // Map the rows to headline objects
+    // Get today's date (in YYYY-MM-DD format for comparison)
+    const today = new Date();
+    const todayStr = today.toISOString().split("T")[0]; // YYYY-MM-DD
+
+    console.log(`Filtering for today's date: ${todayStr}`);
+
+    // Map the rows to headline objects and filter by today's date
     const headlines = data.values
-      .filter((row) => row[0] && row[1]) // Only include rows with country and newspaper
+      .filter((row) => {
+        // Only include rows with country and newspaper
+        if (!row[0] || !row[1]) return false;
+
+        // Check date column (assuming Column D - index 3)
+        const newsDate = row[3];
+        if (!newsDate) {
+          console.log(`No date for ${row[0]} - ${row[1]}, excluding`);
+          return false;
+        }
+
+        // Parse DD/MM/YYYY format (e.g., 14/10/2025)
+        let newsDateStr;
+        try {
+          // Check if format is DD/MM/YYYY
+          if (newsDate.includes("/")) {
+            const parts = newsDate.split("/");
+            if (parts.length === 3) {
+              const day = parts[0].padStart(2, "0");
+              const month = parts[1].padStart(2, "0");
+              const year = parts[2];
+              // Convert to YYYY-MM-DD for comparison
+              newsDateStr = `${year}-${month}-${day}`;
+            } else {
+              throw new Error("Invalid date format");
+            }
+          } else {
+            // Try parsing as standard date
+            const newsDateObj = new Date(newsDate);
+            newsDateStr = newsDateObj.toISOString().split("T")[0];
+          }
+
+          // Only include today's news
+          const isToday = newsDateStr === todayStr;
+          if (!isToday) {
+            console.log(
+              `${row[0]} - ${row[1]}: Date ${newsDateStr} is not today (${todayStr}), excluding`
+            );
+          }
+          return isToday;
+        } catch (e) {
+          console.log(
+            `Invalid date format for ${row[0]} - ${row[1]}: ${newsDate}`,
+            e
+          );
+          return false;
+        }
+      })
       .map((row) => ({
         country: row[0] || "",
         newspaper: row[1] || "",
         website: row[2] || "",
+        date: row[3] || "",
         headline: row[4] || "", // Column E (index 4)
         link: row[5] || "", // Column F (index 5)
         flag: getFlag(row[0] || ""),
