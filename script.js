@@ -278,6 +278,30 @@ function getFlag(country) {
   return countryFlags[country] || "🌍";
 }
 
+// Toggle summary visibility
+function toggleSummary(button) {
+  const summarySection = button.closest(".summary-section");
+  const summaryContent = summarySection.querySelector(".summary-content");
+  const expandIcon = button.querySelector(".expand-icon");
+  const summaryText = button.querySelector(".summary-text");
+
+  const isExpanded = summaryContent.classList.contains("expanded");
+
+  if (isExpanded) {
+    // Collapse
+    summaryContent.classList.remove("expanded");
+    expandIcon.textContent = "▼";
+    expandIcon.style.transform = "rotate(0deg)";
+    summaryText.textContent = "View Summary";
+  } else {
+    // Expand
+    summaryContent.classList.add("expanded");
+    expandIcon.textContent = "▲";
+    expandIcon.style.transform = "rotate(180deg)";
+    summaryText.textContent = "Hide Summary";
+  }
+}
+
 // Format date
 function formatDate(date) {
   const options = {
@@ -294,6 +318,12 @@ function formatDate(date) {
 // Create headline card
 function createHeadlineCard(data) {
   const hasHeadline = data.headline && data.headline.trim() !== "";
+  const hasSummary = data.summary && data.summary.trim() !== "";
+
+  // Debug logging
+  if (hasSummary) {
+    console.log(`Summary found for ${data.country}:`, data.summary);
+  }
 
   const card = document.createElement("div");
   card.className = `headline-card ${!hasHeadline ? "no-headline" : ""}`;
@@ -317,6 +347,22 @@ function createHeadlineCard(data) {
             }
             <p class="newspaper-name">${data.newspaper}</p>
         </div>
+        ${
+          hasSummary
+            ? `
+            <div class="summary-section">
+                <button class="summary-toggle" onclick="toggleSummary(this)">
+                    <span class="summary-icon">📄</span>
+                    <span class="summary-text">View Summary</span>
+                    <span class="expand-icon">▼</span>
+                </button>
+                <div class="summary-content">
+                    <div class="summary-text-content">${data.summary}</div>
+                </div>
+            </div>
+        `
+            : ""
+        }
         ${
           hasHeadline && data.link
             ? `
@@ -395,7 +441,7 @@ async function fetchFromGoogleSheets() {
   const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
   const API_KEY = "AIzaSyCPyerGljBK4JJ-XA3aRr5cRvWssI3rwhI";
   const SHEET_NAME = "Sheet1";
-  const RANGE = `${SHEET_NAME}!A2:F`; // A=Country, B=Newspaper, C=Website, D=Date, E=Headline, F=Link
+  const RANGE = `${SHEET_NAME}!A2:G`; // A=Country, B=Newspaper, C=Website, D=Date, E=Headline, F=Link, G=Summary
 
   const sheetLink = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
 
@@ -479,6 +525,7 @@ async function fetchFromGoogleSheets() {
         date: row[3] || "",
         headline: row[4] || "", // Column E (index 4)
         link: row[5] || "", // Column F (index 5)
+        summary: row[6] || "", // Column G (index 6) - Summary
         flag: getFlag(row[0] || ""),
       }));
 
@@ -499,8 +546,27 @@ async function initApp() {
   if (googleSheetsData && googleSheetsData.length > 0) {
     headlinesData.splice(0, headlinesData.length, ...googleSheetsData);
     console.log("Using live data from Google Sheets");
+
+    // Debug: Check if any summaries exist
+    const summariesCount = googleSheetsData.filter(
+      (item) => item.summary && item.summary.trim() !== ""
+    ).length;
+    console.log(`Found ${summariesCount} items with summaries`);
   } else {
     console.log("Using embedded sample data");
+
+    // Add a test item with summary for demonstration
+    headlinesData.push({
+      country: "Test Country",
+      newspaper: "Test News",
+      website: "https://example.com",
+      date: new Date().toISOString().split("T")[0],
+      headline: "This is a test headline to demonstrate the summary feature",
+      link: "https://example.com",
+      summary:
+        "• This is a test summary bullet point\n• Here's another important detail\n• And a third key piece of information",
+      flag: "🧪",
+    });
   }
 
   init();
