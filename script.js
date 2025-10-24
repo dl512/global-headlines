@@ -278,6 +278,39 @@ function getFlag(country) {
   return countryFlags[country] || "🌍";
 }
 
+// Format summary text with proper bullet points
+function formatSummaryText(summary) {
+  if (!summary) return "";
+
+  // Split by newlines and format as HTML list
+  const lines = summary.split("\n").filter((line) => line.trim() !== "");
+
+  if (lines.length === 0) return summary;
+
+  // Check if lines start with bullet indicators
+  const hasBullets = lines.some(
+    (line) =>
+      line.trim().startsWith("•") ||
+      line.trim().startsWith("-") ||
+      line.trim().startsWith("*")
+  );
+
+  if (hasBullets) {
+    // Format as HTML list
+    const listItems = lines
+      .map((line) => {
+        const cleanLine = line.trim().replace(/^[•\-*]\s*/, "");
+        return `<li>${cleanLine}</li>`;
+      })
+      .join("");
+
+    return `<ul>${listItems}</ul>`;
+  } else {
+    // If no bullets, just return with line breaks
+    return summary.replace(/\n/g, "<br>");
+  }
+}
+
 // Toggle summary visibility
 function toggleSummary(button) {
   const summarySection = button.closest(".summary-section");
@@ -357,7 +390,9 @@ function createHeadlineCard(data) {
                     <span class="expand-icon">▼</span>
                 </button>
                 <div class="summary-content">
-                    <div class="summary-text-content">${data.summary}</div>
+                    <div class="summary-text-content">${formatSummaryText(
+                      data.summary
+                    )}</div>
                 </div>
             </div>
         `
