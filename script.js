@@ -1,6 +1,73 @@
 // Data will be fetched from Google Sheets
 let headlinesData = [];
 
+// Password protection
+const ACCESS_CODE = "global2025";
+let isAuthenticated = false;
+
+// Password authentication functions
+function checkAuthentication() {
+  // Check if user is already authenticated (stored in sessionStorage)
+  const storedAuth = sessionStorage.getItem("globalHeadlinesAuth");
+  if (storedAuth === ACCESS_CODE) {
+    isAuthenticated = true;
+    showMainContent();
+    return true;
+  }
+  return false;
+}
+
+function showMainContent() {
+  document.getElementById("passwordModal").style.display = "none";
+  document.getElementById("mainContent").style.display = "block";
+  isAuthenticated = true;
+}
+
+function showPasswordModal() {
+  document.getElementById("passwordModal").style.display = "flex";
+  document.getElementById("mainContent").style.display = "none";
+  document.getElementById("passwordInput").focus();
+}
+
+function handlePasswordSubmit() {
+  const passwordInput = document.getElementById("passwordInput");
+  const passwordError = document.getElementById("passwordError");
+  const enteredCode = passwordInput.value.trim();
+
+  if (enteredCode === ACCESS_CODE) {
+    // Correct password
+    sessionStorage.setItem("globalHeadlinesAuth", ACCESS_CODE);
+    showMainContent();
+    // Initialize the app after authentication
+    initApp();
+  } else {
+    // Wrong password
+    passwordError.style.display = "block";
+    passwordInput.value = "";
+    passwordInput.focus();
+  }
+}
+
+function setupPasswordProtection() {
+  const passwordInput = document.getElementById("passwordInput");
+  const passwordSubmit = document.getElementById("passwordSubmit");
+
+  // Handle Enter key press
+  passwordInput.addEventListener("keypress", function (e) {
+    if (e.key === "Enter") {
+      handlePasswordSubmit();
+    }
+  });
+
+  // Handle submit button click
+  passwordSubmit.addEventListener("click", handlePasswordSubmit);
+
+  // Clear error message when user starts typing
+  passwordInput.addEventListener("input", function () {
+    document.getElementById("passwordError").style.display = "none";
+  });
+}
+
 // Country to flag emoji mapping - All UN recognized countries
 const countryFlags = {
   // A
@@ -497,13 +564,19 @@ async function fetchFromGoogleSheets() {
       return [];
     }
 
-    // Get today's date (in YYYY-MM-DD format for comparison)
+    // Get today's and yesterday's dates (in YYYY-MM-DD format for comparison)
     const today = new Date();
+    const yesterday = new Date(today);
+    yesterday.setDate(yesterday.getDate() - 1);
+
     const todayStr = today.toISOString().split("T")[0]; // YYYY-MM-DD
+    const yesterdayStr = yesterday.toISOString().split("T")[0]; // YYYY-MM-DD
 
-    console.log(`Filtering for today's date: ${todayStr}`);
+    console.log(
+      `Filtering for today's date: ${todayStr} and yesterday's date: ${yesterdayStr}`
+    );
 
-    // Map the rows to headline objects and filter by today's date
+    // Map the rows to headline objects and filter by today's or yesterday's date
     const headlines = data.values
       .filter((row) => {
         // Only include rows with country and newspaper
@@ -537,14 +610,15 @@ async function fetchFromGoogleSheets() {
             newsDateStr = newsDateObj.toISOString().split("T")[0];
           }
 
-          // Only include today's news
-          const isToday = newsDateStr === todayStr;
-          if (!isToday) {
+          // Include today's or yesterday's news
+          const isTodayOrYesterday =
+            newsDateStr === todayStr || newsDateStr === yesterdayStr;
+          if (!isTodayOrYesterday) {
             console.log(
-              `${row[0]} - ${row[1]}: Date ${newsDateStr} is not today (${todayStr}), excluding`
+              `${row[0]} - ${row[1]}: Date ${newsDateStr} is not today (${todayStr}) or yesterday (${yesterdayStr}), excluding`
             );
           }
-          return isToday;
+          return isTodayOrYesterday;
         } catch (e) {
           console.log(
             `Invalid date format for ${row[0]} - ${row[1]}: ${newsDate}`,
@@ -609,7 +683,25 @@ async function initApp() {
 
 // Run when DOM is ready
 if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initApp);
+  document.addEventListener("DOMContentLoaded", function () {
+    // Setup password protection first
+    setupPasswordProtection();
+
+    // Check if already authenticated
+    if (!checkAuthentication()) {
+      showPasswordModal();
+    } else {
+      // Already authenticated, initialize the app
+      initApp();
+    }
+  });
 } else {
-  initApp();
+  // DOM already loaded
+  setupPasswordProtection();
+
+  if (!checkAuthentication()) {
+    showPasswordModal();
+  } else {
+    initApp();
+  }
 }

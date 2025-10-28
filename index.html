@@ -11,7 +11,24 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="container">
+    <!-- Password Protection Modal -->
+    <div id="passwordModal" class="password-modal">
+        <div class="password-modal-content">
+            <div class="password-header">
+                <h2>🔒 Access Required</h2>
+                <p>Enter the access code to view global headlines</p>
+            </div>
+            <div class="password-form">
+                <input type="password" id="passwordInput" class="password-input" placeholder="Enter access code" autocomplete="off">
+                <button id="passwordSubmit" class="password-submit">Access Headlines</button>
+            </div>
+            <div id="passwordError" class="password-error" style="display: none;">
+                <p>❌ Incorrect access code. Please try again.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="mainContent" style="display: none;">
         <header class="header">
             <div class="header-content">
                 <h1 class="title">
