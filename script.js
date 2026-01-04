@@ -278,7 +278,16 @@ function init() {
   setupSearch();
 }
 
-// Fetch data from Google Sheets
+// Get today's date in DD/MM/YYYY format (matching the sheet format)
+function getTodayDateString() {
+  const today = new Date();
+  const day = String(today.getDate()).padStart(2, '0');
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const year = today.getFullYear();
+  return `${day}/${month}/${year}`;
+}
+
+// Fetch data from Google Sheets - GlobalNews sheet
 async function fetchFromGoogleSheets() {
   const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
   // TODO: Add your Google Sheets API key here
@@ -286,13 +295,14 @@ async function fetchFromGoogleSheets() {
   // Get your API key from: https://console.cloud.google.com/apis/credentials
   // Make sure to restrict it to Google Sheets API and your domain
   const API_KEY = "YOUR_API_KEY_HERE"; // Replace with your API key
-  const SHEET_NAME = "Sheet1";
+  const SHEET_NAME = "GlobalNews"; // Changed from Sheet1 to GlobalNews
   const RANGE = `${SHEET_NAME}!A2:F`; // Start from row 2 to skip header
+  // Columns: Date, Country, Newspaper, Headline, Link, Summary
 
   const sheetLink = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
 
   try {
-    console.log("Fetching data from Google Sheets...");
+    console.log("Fetching data from Google Sheets (GlobalNews sheet)...");
     const response = await fetch(sheetLink);
 
     if (!response.ok) {
@@ -304,23 +314,33 @@ async function fetchFromGoogleSheets() {
 
     // Check if we got any values
     if (!data.values || data.values.length === 0) {
-      console.warn("No data found in sheet");
+      console.warn("No data found in GlobalNews sheet");
       return [];
     }
 
-    // Map the rows to headline objects
+    // Get today's date for filtering
+    const todayDate = getTodayDateString();
+    console.log(`Filtering for today's date: ${todayDate}`);
+
+    // Map the rows to headline objects and filter for today's news
+    // GlobalNews columns: Date (A), Country (B), Newspaper (C), Headline (D), Link (E), Summary (F)
     const headlines = data.values
-      .filter((row) => row[0] && row[1]) // Only include rows with country and newspaper
+      .filter((row) => {
+        // Filter for today's date (row[0] is Date column)
+        const rowDate = row[0] || "";
+        return rowDate === todayDate && row[1] && row[2] && row[3]; // Must have Country, Newspaper, and Headline
+      })
       .map((row) => ({
-        country: row[0] || "",
-        newspaper: row[1] || "",
-        website: row[2] || "",
-        headline: row[4] || "", // Column E (index 4)
-        link: row[5] || "", // Column F (index 5)
-        flag: getFlag(row[0] || ""),
+        country: row[1] || "", // Column B: Country
+        newspaper: row[2] || "", // Column C: Newspaper
+        website: row[4] || "", // Column E: Link (used as website)
+        headline: row[3] || "", // Column D: Headline
+        link: row[4] || "", // Column E: Link
+        summary: row[5] || "", // Column F: Summary (optional, for future use)
+        flag: getFlag(row[1] || ""), // Get flag based on Country
       }));
 
-    console.log(`Loaded ${headlines.length} headlines from Google Sheets`);
+    console.log(`Loaded ${headlines.length} headlines from GlobalNews sheet for today (${todayDate})`);
     return headlines;
   } catch (error) {
     console.error("Error fetching data from Google Sheets:", error);
