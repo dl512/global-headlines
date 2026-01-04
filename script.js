@@ -290,11 +290,8 @@ function getTodayDateString() {
 // Fetch data from Google Sheets - GlobalNews sheet
 async function fetchFromGoogleSheets() {
   const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
-  // TODO: Add your Google Sheets API key here
-  // IMPORTANT: Use a restricted API key for public websites
-  // Get your API key from: https://console.cloud.google.com/apis/credentials
-  // Make sure to restrict it to Google Sheets API and your domain
-  const API_KEY = "YOUR_API_KEY_HERE"; // Replace with your API key
+  // Google Sheets API key for public access (same key used in event project)
+  const API_KEY = "AIzaSyCPyerGljBK4JJ-XA3aRr5cRvWssI3rwhI";
   const SHEET_NAME = "GlobalNews"; // Changed from Sheet1 to GlobalNews
   const RANGE = `${SHEET_NAME}!A2:F`; // Start from row 2 to skip header
   // Columns: Date, Country, Newspaper, Headline, Link, Summary
