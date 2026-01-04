@@ -1,405 +1,166 @@
-// Data will be fetched from Google Sheets
-let headlinesData = [];
+// Sample data structure - replace with your actual data
+// You can either fetch from Google Sheets API or update this manually
+const headlinesData = [
+  {
+    country: "British",
+    newspaper: "The Sunday Times",
+    website: "https://www.thetimes.com/",
+    headline:
+      "Diane Keaton obituary: Oscar winner who redefined the independent woman",
+    link: "https://www.thetimes.com/uk/obituaries/article/diane-keaton-obituary-death-60sh503dg",
+    flag: "🇬🇧",
+  },
+  {
+    country: "Qatar",
+    newspaper: "Doha News",
+    website: "https://dohanews.co/",
+    headline: "",
+    link: "",
+    flag: "🇶🇦",
+  },
+  {
+    country: "Georgia",
+    newspaper: "Civil Georgia",
+    website: "https://civil.ge/",
+    headline: "",
+    link: "",
+    flag: "🇬🇪",
+  },
+  {
+    country: "The Philippines",
+    newspaper: "Philippine Daily Inquirer",
+    website: "https://www.inquirer.net/",
+    headline: "",
+    link: "",
+    flag: "🇵🇭",
+  },
+  {
+    country: "Puerto Rico",
+    newspaper: "NotiCel",
+    website: "https://noticel.com/",
+    headline: "",
+    link: "",
+    flag: "🇵🇷",
+  },
+  {
+    country: "Jordan",
+    newspaper: "The Jordan Times",
+    website: "https://jordantimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇯🇴",
+  },
+  {
+    country: "Ireland",
+    newspaper: "The Irish Times",
+    website: "https://www.irishtimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇮🇪",
+  },
+  {
+    country: "Australia",
+    newspaper: "The Sydney Morning Herald",
+    website: "https://www.smh.com.au/",
+    headline: "",
+    link: "",
+    flag: "🇦🇺",
+  },
+  {
+    country: "Sweden",
+    newspaper: "Sveriges Television (SVT)",
+    website: "https://www.svt.se/",
+    headline: "",
+    link: "",
+    flag: "🇸🇪",
+  },
+  {
+    country: "Tunisia",
+    newspaper: "Nawaat",
+    website: "https://nawaat.org/",
+    headline: "",
+    link: "",
+    flag: "🇹🇳",
+  },
+  {
+    country: "Albania",
+    newspaper: "Tirana Times",
+    website: "https://www.tiranatimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇦🇱",
+  },
+];
 
-// Password protection
-const ACCESS_CODE = "global2025";
-let isAuthenticated = false;
-
-// Password authentication functions
-function checkAuthentication() {
-  // Check if user is already authenticated (stored in sessionStorage)
-  const storedAuth = sessionStorage.getItem("globalHeadlinesAuth");
-  if (storedAuth === ACCESS_CODE) {
-    isAuthenticated = true;
-    showMainContent();
-    return true;
-  }
-  return false;
-}
-
-function showMainContent() {
-  document.getElementById("passwordModal").style.display = "none";
-  document.getElementById("mainContent").style.display = "block";
-  isAuthenticated = true;
-}
-
-function showPasswordModal() {
-  document.getElementById("passwordModal").style.display = "flex";
-  document.getElementById("mainContent").style.display = "none";
-  document.getElementById("passwordInput").focus();
-}
-
-function handlePasswordSubmit() {
-  const passwordInput = document.getElementById("passwordInput");
-  const passwordError = document.getElementById("passwordError");
-  const enteredCode = passwordInput.value.trim();
-
-  if (enteredCode === ACCESS_CODE) {
-    // Correct password
-    sessionStorage.setItem("globalHeadlinesAuth", ACCESS_CODE);
-    showMainContent();
-    // Initialize the app after authentication
-    initApp();
-  } else {
-    // Wrong password
-    passwordError.style.display = "block";
-    passwordInput.value = "";
-    passwordInput.focus();
-  }
-}
-
-function setupPasswordProtection() {
-  const passwordInput = document.getElementById("passwordInput");
-  const passwordSubmit = document.getElementById("passwordSubmit");
-
-  // Handle Enter key press
-  passwordInput.addEventListener("keypress", function (e) {
-    if (e.key === "Enter") {
-      handlePasswordSubmit();
-    }
-  });
-
-  // Handle submit button click
-  passwordSubmit.addEventListener("click", handlePasswordSubmit);
-
-  // Clear error message when user starts typing
-  passwordInput.addEventListener("input", function () {
-    document.getElementById("passwordError").style.display = "none";
-  });
-}
-
-// Country to flag emoji mapping - All UN recognized countries
+// Country to flag emoji mapping
 const countryFlags = {
-  // A
-  Afghanistan: "🇦🇫",
-  Albania: "🇦🇱",
-  Algeria: "🇩🇿",
-  Andorra: "🇦🇩",
-  Angola: "🇦🇴",
-  "Antigua and Barbuda": "🇦🇬",
-  Argentina: "🇦🇷",
-  Armenia: "🇦🇲",
-  Australia: "🇦🇺",
-  Austria: "🇦🇹",
-  Azerbaijan: "🇦🇿",
-
-  // B
-  Bahamas: "🇧🇸",
-  "The Bahamas": "🇧🇸",
-  Bahrain: "🇧🇭",
-  Bangladesh: "🇧🇩",
-  Barbados: "🇧🇧",
-  Belarus: "🇧🇾",
-  Belgium: "🇧🇪",
-  Belize: "🇧🇿",
-  Benin: "🇧🇯",
-  Bhutan: "🇧🇹",
-  Bolivia: "🇧🇴",
-  "Bosnia and Herzegovina": "🇧🇦",
-  Botswana: "🇧🇼",
-  Brazil: "🇧🇷",
-  Brunei: "🇧🇳",
-  Bulgaria: "🇧🇬",
-  "Burkina Faso": "🇧🇫",
-  Burundi: "🇧🇮",
-
-  // C
-  "Cabo Verde": "🇨🇻",
-  "Cape Verde": "🇨🇻",
-  Cambodia: "🇰🇭",
-  Cameroon: "🇨🇲",
-  Canada: "🇨🇦",
-  "Central African Republic": "🇨🇫",
-  Chad: "🇹🇩",
-  Chile: "🇨🇱",
-  China: "🇨🇳",
-  Colombia: "🇨🇴",
-  Comoros: "🇰🇲",
-  Congo: "🇨🇬",
-  "Republic of the Congo": "🇨🇬",
-  "Democratic Republic of the Congo": "🇨🇩",
-  "DR Congo": "🇨🇩",
-  "Costa Rica": "🇨🇷",
-  Croatia: "🇭🇷",
-  Cuba: "🇨🇺",
-  Cyprus: "🇨🇾",
-  Czechia: "🇨🇿",
-  "Czech Republic": "🇨🇿",
-
-  // D
-  Denmark: "🇩🇰",
-  Djibouti: "🇩🇯",
-  Dominica: "🇩🇲",
-  "Dominican Republic": "🇩🇴",
-
-  // E
-  Ecuador: "🇪🇨",
-  Egypt: "🇪🇬",
-  "El Salvador": "🇸🇻",
-  "Equatorial Guinea": "🇬🇶",
-  Eritrea: "🇪🇷",
-  Estonia: "🇪🇪",
-  Eswatini: "🇸🇿",
-  Swaziland: "🇸🇿",
-  Ethiopia: "🇪🇹",
-
-  // F
-  Fiji: "🇫🇯",
-  Finland: "🇫🇮",
-  France: "🇫🇷",
-
-  // G
-  Gabon: "🇬🇦",
-  Gambia: "🇬🇲",
-  "The Gambia": "🇬🇲",
-  Georgia: "🇬🇪",
-  Germany: "🇩🇪",
-  Ghana: "🇬🇭",
-  Greece: "🇬🇷",
-  Grenada: "🇬🇩",
-  Guatemala: "🇬🇹",
-  Guinea: "🇬🇳",
-  "Guinea-Bissau": "🇬🇼",
-  Guyana: "🇬🇾",
-
-  // H
-  Haiti: "🇭🇹",
-  Honduras: "🇭🇳",
-  Hungary: "🇭🇺",
-
-  // I
-  Iceland: "🇮🇸",
-  India: "🇮🇳",
-  Indonesia: "🇮🇩",
-  Iran: "🇮🇷",
-  Iraq: "🇮🇶",
-  Ireland: "🇮🇪",
-  Israel: "🇮🇱",
-  Italy: "🇮🇹",
-  "Ivory Coast": "🇨🇮",
-  "Côte d'Ivoire": "🇨🇮",
-
-  // J
-  Jamaica: "🇯🇲",
-  Japan: "🇯🇵",
-  Jordan: "🇯🇴",
-
-  // K
-  Kazakhstan: "🇰🇿",
-  Kenya: "🇰🇪",
-  Kiribati: "🇰🇮",
-  Kuwait: "🇰🇼",
-  Kyrgyzstan: "🇰🇬",
-
-  // L
-  Laos: "🇱🇦",
-  Latvia: "🇱🇻",
-  Lebanon: "🇱🇧",
-  Lesotho: "🇱🇸",
-  Liberia: "🇱🇷",
-  Libya: "🇱🇾",
-  Liechtenstein: "🇱🇮",
-  Lithuania: "🇱🇹",
-  Luxembourg: "🇱🇺",
-
-  // M
-  Madagascar: "🇲🇬",
-  Malawi: "🇲🇼",
-  Malaysia: "🇲🇾",
-  Maldives: "🇲🇻",
-  Mali: "🇲🇱",
-  Malta: "🇲🇹",
-  "Marshall Islands": "🇲🇭",
-  Mauritania: "🇲🇷",
-  Mauritius: "🇲🇺",
-  Mexico: "🇲🇽",
-  Micronesia: "🇫🇲",
-  Moldova: "🇲🇩",
-  Monaco: "🇲🇨",
-  Mongolia: "🇲🇳",
-  Montenegro: "🇲🇪",
-  Morocco: "🇲🇦",
-  Mozambique: "🇲🇿",
-  Myanmar: "🇲🇲",
-  Burma: "🇲🇲",
-
-  // N
-  Namibia: "🇳🇦",
-  Nauru: "🇳🇷",
-  Nepal: "🇳🇵",
-  Netherlands: "🇳🇱",
-  "New Zealand": "🇳🇿",
-  Nicaragua: "🇳🇮",
-  Niger: "🇳🇪",
-  Nigeria: "🇳🇬",
-  "North Korea": "🇰🇵",
-  "North Macedonia": "🇲🇰",
-  Macedonia: "🇲🇰",
-  Norway: "🇳🇴",
-
-  // O
-  Oman: "🇴🇲",
-
-  // P
-  Pakistan: "🇵🇰",
-  Palau: "🇵🇼",
-  Palestine: "🇵🇸",
-  Panama: "🇵🇦",
-  "Papua New Guinea": "🇵🇬",
-  Paraguay: "🇵🇾",
-  Peru: "🇵🇪",
-  Philippines: "🇵🇭",
-  "The Philippines": "🇵🇭",
-  Poland: "🇵🇱",
-  Portugal: "🇵🇹",
-  "Puerto Rico": "🇵🇷",
-
-  // Q
-  Qatar: "🇶🇦",
-
-  // R
-  Romania: "🇷🇴",
-  Russia: "🇷🇺",
-  "Russian Federation": "🇷🇺",
-  Rwanda: "🇷🇼",
-
-  // S
-  "Saint Kitts and Nevis": "🇰🇳",
-  "Saint Lucia": "🇱🇨",
-  "Saint Vincent and the Grenadines": "🇻🇨",
-  Samoa: "🇼🇸",
-  "San Marino": "🇸🇲",
-  "Sao Tome and Principe": "🇸🇹",
-  "Saudi Arabia": "🇸🇦",
-  Senegal: "🇸🇳",
-  Serbia: "🇷🇸",
-  Seychelles: "🇸🇨",
-  "Sierra Leone": "🇸🇱",
-  Singapore: "🇸🇬",
-  Slovakia: "🇸🇰",
-  Slovenia: "🇸🇮",
-  "Solomon Islands": "🇸🇧",
-  Somalia: "🇸🇴",
-  "South Africa": "🇿🇦",
-  "South Korea": "🇰🇷",
-  Korea: "🇰🇷",
-  "South Sudan": "🇸🇸",
-  Spain: "🇪🇸",
-  "Sri Lanka": "🇱🇰",
-  Sudan: "🇸🇩",
-  Suriname: "🇸🇷",
-  Sweden: "🇸🇪",
-  Switzerland: "🇨🇭",
-  Syria: "🇸🇾",
-
-  // T
-  Tajikistan: "🇹🇯",
-  Tanzania: "🇹🇿",
-  Thailand: "🇹🇭",
-  "Timor-Leste": "🇹🇱",
-  "East Timor": "🇹🇱",
-  Togo: "🇹🇬",
-  Tonga: "🇹🇴",
-  "Trinidad and Tobago": "🇹🇹",
-  Tunisia: "🇹🇳",
-  Turkey: "🇹🇷",
-  Türkiye: "🇹🇷",
-  Turkmenistan: "🇹🇲",
-  Tuvalu: "🇹🇻",
-
-  // U
-  Uganda: "🇺🇬",
-  Ukraine: "🇺🇦",
-  "United Arab Emirates": "🇦🇪",
-  UAE: "🇦🇪",
+  British: "🇬🇧",
   "United Kingdom": "🇬🇧",
   UK: "🇬🇧",
-  Britain: "🇬🇧",
-  British: "🇬🇧",
+  Qatar: "🇶🇦",
+  Georgia: "🇬🇪",
+  "The Philippines": "🇵🇭",
+  Philippines: "🇵🇭",
+  "Puerto Rico": "🇵🇷",
+  Jordan: "🇯🇴",
+  Ireland: "🇮🇪",
+  Australia: "🇦🇺",
+  Sweden: "🇸🇪",
+  Tunisia: "🇹🇳",
+  Albania: "🇦🇱",
   "United States": "🇺🇸",
-  "United States of America": "🇺🇸",
   USA: "🇺🇸",
-  US: "🇺🇸",
-  America: "🇺🇸",
-  Uruguay: "🇺🇾",
-  Uzbekistan: "🇺🇿",
-
-  // V
-  Vanuatu: "🇻🇺",
-  "Vatican City": "🇻🇦",
-  Vatican: "🇻🇦",
-  Venezuela: "🇻🇪",
+  Canada: "🇨🇦",
+  France: "🇫🇷",
+  Germany: "🇩🇪",
+  Italy: "🇮🇹",
+  Spain: "🇪🇸",
+  Japan: "🇯🇵",
+  China: "🇨🇳",
+  India: "🇮🇳",
+  Brazil: "🇧🇷",
+  Mexico: "🇲🇽",
+  Russia: "🇷🇺",
+  "South Korea": "🇰🇷",
+  Netherlands: "🇳🇱",
+  Belgium: "🇧🇪",
+  Switzerland: "🇨🇭",
+  Austria: "🇦🇹",
+  Poland: "🇵🇱",
+  Turkey: "🇹🇷",
+  Egypt: "🇪🇬",
+  "South Africa": "🇿🇦",
+  Nigeria: "🇳🇬",
+  Kenya: "🇰🇪",
+  Argentina: "🇦🇷",
+  Chile: "🇨🇱",
+  Colombia: "🇨🇴",
+  Peru: "🇵🇪",
+  Thailand: "🇹🇭",
   Vietnam: "🇻🇳",
-  "Viet Nam": "🇻🇳",
-
-  // Y
-  Yemen: "🇾🇪",
-
-  // Z
-  Zambia: "🇿🇲",
-  Zimbabwe: "🇿🇼",
+  Indonesia: "🇮🇩",
+  Malaysia: "🇲🇾",
+  Singapore: "🇸🇬",
+  "New Zealand": "🇳🇿",
+  Norway: "🇳🇴",
+  Denmark: "🇩🇰",
+  Finland: "🇫🇮",
+  Portugal: "🇵🇹",
+  Greece: "🇬🇷",
+  "Czech Republic": "🇨🇿",
+  Hungary: "🇭🇺",
+  Romania: "🇷🇴",
+  Ukraine: "🇺🇦",
+  Israel: "🇮🇱",
+  UAE: "🇦🇪",
+  "Saudi Arabia": "🇸🇦",
+  Pakistan: "🇵🇰",
+  Bangladesh: "🇧🇩",
 };
 
 // Get flag for country
 function getFlag(country) {
   return countryFlags[country] || "🌍";
-}
-
-// Format summary text with proper bullet points
-function formatSummaryText(summary) {
-  if (!summary) return "";
-
-  // Split by newlines and format as HTML list
-  const lines = summary.split("\n").filter((line) => line.trim() !== "");
-
-  if (lines.length === 0) return summary;
-
-  // Check if lines start with bullet indicators
-  const hasBullets = lines.some(
-    (line) =>
-      line.trim().startsWith("•") ||
-      line.trim().startsWith("-") ||
-      line.trim().startsWith("*")
-  );
-
-  if (hasBullets) {
-    // Format as HTML list
-    const listItems = lines
-      .map((line) => {
-        const cleanLine = line.trim().replace(/^[•\-*]\s*/, "");
-        return `<li>${cleanLine}</li>`;
-      })
-      .join("");
-
-    return `<ul>${listItems}</ul>`;
-  } else {
-    // If no bullets, just return with line breaks
-    return summary.replace(/\n/g, "<br>");
-  }
-}
-
-// Toggle summary visibility
-function toggleSummary(button) {
-  const summarySection = button.closest(".summary-section");
-  const summaryContent = summarySection.querySelector(".summary-content");
-  const expandIcon = button.querySelector(".expand-icon");
-  const summaryText = button.querySelector(".summary-text");
-
-  const isExpanded = summaryContent.classList.contains("expanded");
-
-  if (isExpanded) {
-    // Collapse
-    summaryContent.classList.remove("expanded");
-    expandIcon.textContent = "▼";
-    expandIcon.style.transform = "rotate(0deg)";
-    summaryText.textContent = "View Summary";
-  } else {
-    // Expand
-    summaryContent.classList.add("expanded");
-    expandIcon.textContent = "▲";
-    expandIcon.style.transform = "rotate(180deg)";
-    summaryText.textContent = "Hide Summary";
-  }
 }
 
 // Format date
@@ -418,12 +179,6 @@ function formatDate(date) {
 // Create headline card
 function createHeadlineCard(data) {
   const hasHeadline = data.headline && data.headline.trim() !== "";
-  const hasSummary = data.summary && data.summary.trim() !== "";
-
-  // Debug logging
-  if (hasSummary) {
-    console.log(`Summary found for ${data.country}:`, data.summary);
-  }
 
   const card = document.createElement("div");
   card.className = `headline-card ${!hasHeadline ? "no-headline" : ""}`;
@@ -432,39 +187,29 @@ function createHeadlineCard(data) {
 
   card.innerHTML = `
         <div class="card-header">
-            <div class="country-name">${data.country}</div>
+            <div class="country-info">
+                <div class="country-name">${data.country}</div>
+                <div class="newspaper-name">
+                    <a href="${
+                      data.website
+                    }" target="_blank" rel="noopener noreferrer" class="newspaper-link">
+                        ${data.newspaper}
+                    </a>
+                </div>
+            </div>
             <div class="flag-icon">${data.flag || getFlag(data.country)}</div>
         </div>
         <div class="headline-content">
             ${
               hasHeadline
                 ? `
-                <h3 class="headline-text">${data.headline}</h3>
+                <p class="headline-text">${data.headline}</p>
             `
                 : `
-                <h3 class="headline-text no-headline-text">No headline available yet</h3>
+                <p class="headline-text no-headline-text">No headline available yet</p>
             `
             }
-            <p class="newspaper-name">${data.newspaper}</p>
         </div>
-        ${
-          hasSummary
-            ? `
-            <div class="summary-section">
-                <button class="summary-toggle" onclick="toggleSummary(this)">
-                    <span class="summary-icon">📄</span>
-                    <span class="summary-text">View Summary</span>
-                    <span class="expand-icon">▼</span>
-                </button>
-                <div class="summary-content">
-                    <div class="summary-text-content">${formatSummaryText(
-                      data.summary
-                    )}</div>
-                </div>
-            </div>
-        `
-            : ""
-        }
         ${
           hasHeadline && data.link
             ? `
@@ -487,12 +232,7 @@ function renderHeadlines(data) {
   loadingState.style.display = "none";
   container.innerHTML = "";
 
-  // Filter to only show items with headlines
-  const dataWithHeadlines = data.filter(
-    (item) => item.headline && item.headline.trim() !== ""
-  );
-
-  if (dataWithHeadlines.length === 0) {
+  if (data.length === 0) {
     container.innerHTML = `
             <div class="empty-state">
                 <p>No headlines found matching your search.</p>
@@ -501,7 +241,7 @@ function renderHeadlines(data) {
     return;
   }
 
-  dataWithHeadlines.forEach((item) => {
+  data.forEach((item) => {
     const card = createHeadlineCard(item);
     container.appendChild(card);
   });
@@ -541,9 +281,13 @@ function init() {
 // Fetch data from Google Sheets
 async function fetchFromGoogleSheets() {
   const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
-  const API_KEY = "AIzaSyCPyerGljBK4JJ-XA3aRr5cRvWssI3rwhI";
+  // TODO: Add your Google Sheets API key here
+  // IMPORTANT: Use a restricted API key for public websites
+  // Get your API key from: https://console.cloud.google.com/apis/credentials
+  // Make sure to restrict it to Google Sheets API and your domain
+  const API_KEY = "YOUR_API_KEY_HERE"; // Replace with your API key
   const SHEET_NAME = "Sheet1";
-  const RANGE = `${SHEET_NAME}!A2:G`; // A=Country, B=Newspaper, C=Website, D=Date, E=Headline, F=Link, G=Summary
+  const RANGE = `${SHEET_NAME}!A2:F`; // Start from row 2 to skip header
 
   const sheetLink = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
 
@@ -564,77 +308,15 @@ async function fetchFromGoogleSheets() {
       return [];
     }
 
-    // Get today's and yesterday's dates (in YYYY-MM-DD format for comparison)
-    const today = new Date();
-    const yesterday = new Date(today);
-    yesterday.setDate(yesterday.getDate() - 1);
-
-    const todayStr = today.toISOString().split("T")[0]; // YYYY-MM-DD
-    const yesterdayStr = yesterday.toISOString().split("T")[0]; // YYYY-MM-DD
-
-    console.log(
-      `Filtering for today's date: ${todayStr} and yesterday's date: ${yesterdayStr}`
-    );
-
-    // Map the rows to headline objects and filter by today's or yesterday's date
+    // Map the rows to headline objects
     const headlines = data.values
-      .filter((row) => {
-        // Only include rows with country and newspaper
-        if (!row[0] || !row[1]) return false;
-
-        // Check date column (assuming Column D - index 3)
-        const newsDate = row[3];
-        if (!newsDate) {
-          console.log(`No date for ${row[0]} - ${row[1]}, excluding`);
-          return false;
-        }
-
-        // Parse DD/MM/YYYY format (e.g., 14/10/2025)
-        let newsDateStr;
-        try {
-          // Check if format is DD/MM/YYYY
-          if (newsDate.includes("/")) {
-            const parts = newsDate.split("/");
-            if (parts.length === 3) {
-              const day = parts[0].padStart(2, "0");
-              const month = parts[1].padStart(2, "0");
-              const year = parts[2];
-              // Convert to YYYY-MM-DD for comparison
-              newsDateStr = `${year}-${month}-${day}`;
-            } else {
-              throw new Error("Invalid date format");
-            }
-          } else {
-            // Try parsing as standard date
-            const newsDateObj = new Date(newsDate);
-            newsDateStr = newsDateObj.toISOString().split("T")[0];
-          }
-
-          // Include today's or yesterday's news
-          const isTodayOrYesterday =
-            newsDateStr === todayStr || newsDateStr === yesterdayStr;
-          if (!isTodayOrYesterday) {
-            console.log(
-              `${row[0]} - ${row[1]}: Date ${newsDateStr} is not today (${todayStr}) or yesterday (${yesterdayStr}), excluding`
-            );
-          }
-          return isTodayOrYesterday;
-        } catch (e) {
-          console.log(
-            `Invalid date format for ${row[0]} - ${row[1]}: ${newsDate}`,
-            e
-          );
-          return false;
-        }
-      })
+      .filter((row) => row[0] && row[1]) // Only include rows with country and newspaper
       .map((row) => ({
         country: row[0] || "",
         newspaper: row[1] || "",
         website: row[2] || "",
-        date: row[3] || "",
         headline: row[4] || "", // Column E (index 4)
         link: row[5] || "", // Column F (index 5)
-        summary: row[6] || "", // Column G (index 6) - Summary
         flag: getFlag(row[0] || ""),
       }));
 
@@ -655,27 +337,8 @@ async function initApp() {
   if (googleSheetsData && googleSheetsData.length > 0) {
     headlinesData.splice(0, headlinesData.length, ...googleSheetsData);
     console.log("Using live data from Google Sheets");
-
-    // Debug: Check if any summaries exist
-    const summariesCount = googleSheetsData.filter(
-      (item) => item.summary && item.summary.trim() !== ""
-    ).length;
-    console.log(`Found ${summariesCount} items with summaries`);
   } else {
     console.log("Using embedded sample data");
-
-    // Add a test item with summary for demonstration
-    headlinesData.push({
-      country: "Test Country",
-      newspaper: "Test News",
-      website: "https://example.com",
-      date: new Date().toISOString().split("T")[0],
-      headline: "This is a test headline to demonstrate the summary feature",
-      link: "https://example.com",
-      summary:
-        "• This is a test summary bullet point\n• Here's another important detail\n• And a third key piece of information",
-      flag: "🧪",
-    });
   }
 
   init();
@@ -683,25 +346,7 @@ async function initApp() {
 
 // Run when DOM is ready
 if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", function () {
-    // Setup password protection first
-    setupPasswordProtection();
-
-    // Check if already authenticated
-    if (!checkAuthentication()) {
-      showPasswordModal();
-    } else {
-      // Already authenticated, initialize the app
-      initApp();
-    }
-  });
+  document.addEventListener("DOMContentLoaded", initApp);
 } else {
-  // DOM already loaded
-  setupPasswordProtection();
-
-  if (!checkAuthentication()) {
-    showPasswordModal();
-  } else {
-    initApp();
-  }
+  initApp();
 }
