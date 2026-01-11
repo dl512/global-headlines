@@ -315,17 +315,41 @@ async function fetchFromGoogleSheets() {
       return [];
     }
 
-    // Get today's date for filtering
-    const todayDate = getTodayDateString();
-    console.log(`Filtering for today's date: ${todayDate}`);
+    // Get today's date in multiple formats for filtering
+    const today = new Date();
+    const day = String(today.getDate()).padStart(2, '0');
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const year = today.getFullYear();
+    
+    // Format 1: DD/MM/YYYY (original format)
+    const todayDateDDMM = `${day}/${month}/${year}`;
+    
+    // Format 2: Month Day, Year (new unambiguous format, e.g., "January 8, 2025")
+    const monthNames = ["January", "February", "March", "April", "May", "June",
+                       "July", "August", "September", "October", "November", "December"];
+    const todayDateEnglish = `${monthNames[today.getMonth()]} ${today.getDate()}, ${year}`;
+    
+    // Format 3: MM/DD/YYYY (alternative format)
+    const todayDateMMDD = `${month}/${day}/${year}`;
+    
+    // Format 4: YYYY-MM-DD (ISO format)
+    const todayDateISO = `${year}-${month}-${day}`;
+    
+    console.log(`Filtering for today's date in formats: ${todayDateDDMM}, ${todayDateEnglish}, ${todayDateMMDD}, ${todayDateISO}`);
 
     // Map the rows to headline objects and filter for today's news
     // GlobalNews columns: Date (A), Country (B), Newspaper (C), Headline (D), Link (E), Summary (F)
     const headlines = data.values
       .filter((row) => {
-        // Filter for today's date (row[0] is Date column)
-        const rowDate = row[0] || "";
-        return rowDate === todayDate && row[1] && row[2] && row[3]; // Must have Country, Newspaper, and Headline
+        // Filter for today's date (row[0] is Date column) - check multiple formats
+        const rowDate = (row[0] || "").trim();
+        const isToday = rowDate === todayDateDDMM || 
+                       rowDate === todayDateEnglish || 
+                       rowDate === todayDateMMDD ||
+                       rowDate === todayDateISO ||
+                       rowDate.toLowerCase() === todayDateEnglish.toLowerCase();
+        
+        return isToday && row[1] && row[2] && row[3]; // Must have Country, Newspaper, and Headline
       })
       .map((row) => ({
         country: row[1] || "", // Column B: Country
@@ -337,7 +361,7 @@ async function fetchFromGoogleSheets() {
         flag: getFlag(row[1] || ""), // Get flag based on Country
       }));
 
-    console.log(`Loaded ${headlines.length} headlines from GlobalNews sheet for today (${todayDate})`);
+    console.log(`Loaded ${headlines.length} headlines from GlobalNews sheet for today`);
     return headlines;
   } catch (error) {
     console.error("Error fetching data from Google Sheets:", error);
