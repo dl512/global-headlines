@@ -3,285 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Morning Coffee - Your Tailored Daily Newsletter</title>
+    <title>Global Headlines - News from Around the World</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1 class="project-name">Morning Coffee</h1>
+        <header class="header">
+            <div class="header-content">
+                <h1 class="title">
+                    <span class="globe-icon">🌍</span>
+                    Global Headlines
+                </h1>
+                <p class="subtitle">Today's top stories from newspapers around the world</p>
+                <p class="last-updated" id="lastUpdated">Last updated: <span id="updateTime">Loading...</span></p>
+            </div>
         </header>
 
-        <main>
-            <section class="description">
-                <p>
-                    In a world overflowing with information, we spend too much time scrolling aimlessly through our phones. 
-                    <strong>Morning Coffee</strong> delivers a tailored daily newsletter to your inbox, curated just for you. 
-                    Start your day with the news that matters to you—no endless scrolling, no information overload. 
-                    Just your personalized briefing, ready when you wake up.
-                </p>
-            </section>
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-box" placeholder="Search by country or newspaper...">
+        </div>
 
-            <!-- Suitable For Section -->
-            <section class="suitable-for-section">
-                <h2 class="suitable-for-title">Perfect For</h2>
-                <div class="suitable-for-grid">
-                    <div class="suitable-for-card">
-                        <div class="suitable-for-icon">🌍</div>
-                        <h3>Curious Minds</h3>
-                        <p>Stay informed on topics that matter to you—global politics, world events, regional stories. Get regular updates tailored to your interests.</p>
-                    </div>
-                    <div class="suitable-for-card">
-                        <div class="suitable-for-icon">💼</div>
-                        <h3>Busy Professionals</h3>
-                        <p>Keep track of daily news without the noise. Financial markets, capital markets, tech developments—all in one concise briefing.</p>
-                    </div>
-                </div>
-            </section>
+        <div id="loadingState" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Loading headlines...</p>
+        </div>
 
-            <!-- Step 1: Choose Newsletter Template -->
-            <section class="step-section">
-                <div class="step-header">
-                    <span class="step-number">1</span>
-                    <h2>Choose Your Newsletter Template</h2>
-                </div>
-                <p class="step-description">Select a template or create your own custom newsletter</p>
-                
-                <div class="templates-grid">
-                    <div class="template-card">
-                        <div class="template-header">
-                            <h3>Global Headlines</h3>
-                            <button class="expand-toggle" onclick="toggleTemplate(this, 'global-headlines')">
-                                <span>View Sample</span>
-                                <span class="toggle-icon">▼</span>
-                            </button>
-                        </div>
-                        <p class="template-description">
-                            A comprehensive daily newsletter covering the most important global news stories from major international sources and regional news from around the world.
-                        </p>
-                        <div class="template-preview" id="global-headlines-template" style="display: none;">
-                            <div class="preview-content">
-                                <div class="newsletter-loading">Loading newsletter...</div>
-                                <div class="newsletter-content"></div>
-                            </div>
-                            <div class="prompt-section">
-                                <button class="prompt-toggle" onclick="togglePrompt(this, 'global-headlines')">
-                                    <span>💡 View Sample Prompt</span>
-                                    <span class="toggle-icon">▼</span>
-                                </button>
-                                <div class="prompt-box" id="global-headlines-prompt" style="display: none;">
-                                    <p class="prompt-label">Sample Prompt:</p>
-                                    <pre><code>I want a daily newsletter that covers the most important global news stories. 
-I'm interested in:
+        <div id="errorState" class="error-message" style="display: none;">
+            <p>Unable to load headlines. Please try again later.</p>
+        </div>
 
-1. Top breaking news from major international news sources (BBC, CNN, CNBC Politics)
-2. Regional news stories directly from local news sources around the world, organized by geographic regions
+        <div id="headlinesContainer" class="headlines-grid">
+            <!-- Headlines will be loaded here dynamically -->
+        </div>
 
-The newsletter should:
-- Focus on significant global events, politics, conflicts, natural disasters, and major developments
-- Be comprehensive but concise
-- Include links to original sources
-- Be available in both English and Chinese (translate the content)
-
-Send it to my email list with separate English and Chinese recipient lists.</code></pre>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="template-card">
-                        <div class="template-header">
-                            <h3>Market Briefing</h3>
-                            <button class="expand-toggle" onclick="toggleTemplate(this, 'market-briefing')">
-                                <span>View Sample</span>
-                                <span class="toggle-icon">▼</span>
-                            </button>
-                        </div>
-                        <p class="template-description">
-                            A market-focused newsletter for investors, featuring market data, financial news, tech developments, regulatory announcements, and IPO updates.
-                        </p>
-                        <div class="template-preview" id="market-briefing-template" style="display: none;">
-                            <div class="preview-content">
-                                <div class="newsletter-loading">Loading newsletter...</div>
-                                <div class="newsletter-content"></div>
-                            </div>
-                            <div class="prompt-section">
-                                <button class="prompt-toggle" onclick="togglePrompt(this, 'market-briefing')">
-                                    <span>💡 View Sample Prompt</span>
-                                    <span class="toggle-icon">▼</span>
-                                </button>
-                                <div class="prompt-box" id="market-briefing-prompt" style="display: none;">
-                                    <p class="prompt-label">Sample Prompt:</p>
-                                    <pre><code>I need a daily market-focused newsletter for my investment research. It should include:
-
-1. Market snapshot with current prices, percentage changes, and market caps for major indices and stocks I track
-2. Global financial news from financial markets and economic developments
-3. Technology news, especially funding events and AI/robotics developments
-4. Regulatory announcements from Hong Kong-listed companies I'm monitoring
-5. Hong Kong IPO news and updates
-
-The newsletter should:
-- Focus on market-moving information and investment-relevant news
-- Include detailed market data (prices, changes, market caps)
-- Cover tech sector with emphasis on funding and AI/robotics
-- Track specific Hong Kong stocks for regulatory filings
-- Be in English only (no translation needed)
-
-Send it daily to my email.</code></pre>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="template-card">
-                        <div class="template-header">
-                            <h3>Custom</h3>
-                        </div>
-                        <p class="template-description">
-                            Create your own personalized newsletter by describing exactly what you want to read.
-                        </p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Step 2: Subscribe for Free Trial -->
-            <section class="step-section subscribe">
-                <div class="step-header">
-                    <span class="step-number">2</span>
-                    <h2>Subscribe for Free Trial</h2>
-                </div>
-                <p class="step-description">Start your one-month free trial and receive your personalized daily newsletter</p>
-                <div class="subscribe-buttons">
-                    <a href="https://forms.gle/RYC8R6Nzxc4KnLqe6" class="subscribe-button primary" target="_blank" rel="noopener noreferrer">
-                        Start Free Trial
-                    </a>
-                </div>
-                <div class="trial-features">
-                    <p class="trial-features-title">Your free trial includes:</p>
-                    <ul class="trial-features-list">
-                        <li>✓ Personalized daily newsletter</li>
-                        <li>✓ All newsletter components</li>
-                        <li>✓ English & Chinese options</li>
-                        <li>✓ Custom prompts</li>
-                        <li>✓ Up to 3 feedback comments</li>
-                    </ul>
-                </div>
-            </section>
-
-            <!-- Step 3: Choose Premium Plan (if interested) -->
-            <section class="step-section">
-                <div class="step-header">
-                    <span class="step-number">3</span>
-                    <h2>Upgrade to Premium (Optional)</h2>
-                </div>
-                <p class="step-description">Enjoy unlimited access and additional features with our premium plan</p>
-                
-                <div class="pricing-grid single-card">
-                    <div class="pricing-card featured">
-                        <div class="featured-badge">Support the Project</div>
-                        <div class="plan-header">
-                            <h3>Premium</h3>
-                            <div class="plan-price">
-                                <span class="price-amount">US$8</span>
-                                <span class="price-period">/month</span>
-                            </div>
-                            <p class="plan-description">Unlimited access while subscribed</p>
-                        </div>
-                        <ul class="plan-features">
-                            <li>✓ Everything in Free Trial</li>
-                            <li>✓ 10 feedback comments per month</li>
-                            <li>✓ Continues as long as you're subscribed</li>
-                        </ul>
-                        <a href="https://buy.stripe.com/dRm28q9jMbcE48nad48IU00" class="plan-button premium-button" target="_blank" rel="noopener noreferrer">
-                            Subscribe as Premium (US$8/month)
-                        </a>
-                    </div>
-                </div>
-            </section>
-        </main>
-
-        <footer>
-            <p>&copy; 2025 Morning Coffee. Start your day informed.</p>
+        <footer class="footer">
+            <p>&copy; 2025 Global Headlines. All rights reserved.</p>
+            <p class="footer-note">Headlines sourced from major newspapers worldwide</p>
         </footer>
     </div>
 
-    <script>
-        // Newsletter file paths (relative to the public folder)
-        const newsletterPaths = {
-            'global-headlines': 'newsletters/global_headlines_sample.md',
-            'market-briefing': 'newsletters/market_briefing_sample.md'
-        };
-
-        function toggleTemplate(button, templateId) {
-            const templatePreview = document.getElementById(templateId + '-template');
-            const icon = button.querySelector('.toggle-icon');
-            const isOpen = templatePreview.style.display !== 'none';
-
-            if (isOpen) {
-                templatePreview.style.display = 'none';
-                icon.textContent = '▼';
-                button.querySelector('span:first-child').textContent = 'View Sample';
-            } else {
-                templatePreview.style.display = 'block';
-                icon.textContent = '▲';
-                button.querySelector('span:first-child').textContent = 'Hide Sample';
-                
-                // Load newsletter if not already loaded
-                const contentDiv = templatePreview.querySelector('.newsletter-content');
-                const loadingDiv = templatePreview.querySelector('.newsletter-loading');
-                if (contentDiv && !contentDiv.dataset.loaded) {
-                    loadNewsletter(templateId, contentDiv, loadingDiv);
-                }
-            }
-        }
-
-        function togglePrompt(button, newsletterId) {
-            const promptBox = document.getElementById(newsletterId + '-prompt');
-            const icon = button.querySelector('.toggle-icon');
-            const isOpen = promptBox.style.display !== 'none';
-
-            if (isOpen) {
-                promptBox.style.display = 'none';
-                icon.textContent = '▼';
-                button.querySelector('span:first-child').textContent = '💡 View Sample Prompt';
-            } else {
-                promptBox.style.display = 'block';
-                icon.textContent = '▲';
-                button.querySelector('span:first-child').textContent = '💡 Hide Sample Prompt';
-            }
-        }
-
-        async function loadNewsletter(newsletterId, contentDiv, loadingDiv) {
-            try {
-                const filePath = newsletterPaths[newsletterId];
-                const response = await fetch(filePath);
-                
-                if (!response.ok) {
-                    throw new Error('Failed to load newsletter');
-                }
-                
-                const markdown = await response.text();
-                const html = marked.parse(markdown);
-                contentDiv.innerHTML = html;
-                contentDiv.dataset.loaded = 'true';
-                loadingDiv.style.display = 'none';
-            } catch (error) {
-                console.error('Error loading newsletter:', error);
-                loadingDiv.innerHTML = '<p style="color: #ef4444;">Unable to load newsletter preview. Please check the file path.</p>';
-            }
-        }
-
-        // Configure marked for better rendering
-        if (typeof marked !== 'undefined') {
-            marked.setOptions({
-                breaks: true,
-                gfm: true
-            });
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
+
