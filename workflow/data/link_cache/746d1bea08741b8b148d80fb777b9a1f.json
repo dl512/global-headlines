@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00700-HK/announcement",
+  "links": [
+    "https://news.futunn.com/en/post/67167448/article-slug",
+    "https://news.futunn.com/hk/notice/306432770/monthly-return-of-equity-issuer-on-movements-in-securities-for",
+    "https://news.futunn.com/hk/notice/306606598/monthly-return-of-equity-issuer-on-movements-in-securities-for"
+  ],
+  "metadata": {
+    "https://news.futunn.com/en/post/67167448/article-slug": {
+      "headline": "【機會速派】股價升到嘭嘭聲，中芯該「止盈離場」還是「耐心長揸」？",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:14:06.860324",
+      "last_seen": "2026-02-09T21:14:06.860333"
+    },
+    "https://news.futunn.com/hk/notice/306432770/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "騰訊控股 (00700) 最新公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:42:16.252170",
+      "last_seen": "2026-02-10T10:42:16.252184"
+    },
+    "https://news.futunn.com/hk/notice/306606598/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "騰訊控股 (00700) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:11:47.220752",
+      "last_seen": "2026-03-06T11:11:47.220771"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+## Tech News
+
+- **Waymo raises $16B for global robotaxi expansion**: Alphabet’s Waymo secured $16 billion in funding, boosting its valuation to $126 billion and supporting international robotaxi rollout.
+- **SpaceX acquires xAI, plans space-based data centers**: Elon Musk’s SpaceX merged with his AI startup xAI, valuing the combined entity at $1.25 trillion and aiming to develop space-based data centers.
+- **US and India reach trade deal, tariffs lowered**: The US and India agreed to reduce tariffs, with India increasing US imports and committing to cut Russian oil purchases.
+- **China bans hidden car door handles for safety**: China will require all vehicles sold from 2027 to have mechanical door handles, banning electronic hidden handles due to safety concerns.
+- **Chinese crime networks laundered $16B in crypto in 2025**: Chinese organized crime groups moved $16.1 billion in cryptocurrency, mainly via Southeast Asia-based Telegram platforms.
+- **Adobe Animate to shut down as company pivots to AI**: Adobe will discontinue its 2D animation software in March 2026, shifting focus to AI technologies.
+- **Notepad++ software updates hijacked by Chinese government hackers**: Chinese state-linked hackers compromised Notepad++ updates for months, targeting critical sectors before a November fix.
+- **SoftBank’s Saimemory and Intel partner on next-gen AI memory**: SoftBank’s Saimemory and Intel will co-develop advanced memory to address looming AI-driven shortages, with commercialization by 2029.
+- **Meta and YouTube face trial over youth addiction claims**: Both platforms are defending against allegations that their services harm youth mental health and drive addiction.
+- **Palantir posts strong Q4 earnings on AI and defense demand**: Palantir’s revenue jumped 70% year-on-year, driven by US government and commercial AI contracts.
+- **OpenAI launches Codex app for Apple computers**: OpenAI released a standalone Codex app for macOS, enabling parallel agentic coding and automation for developers.
+- **Firefox to allow blocking all generative AI features**: Mozilla’s Firefox will let users disable all current and future generative AI tools starting with version 148.
+- **India’s Nifty 50 surges 5% after US trade deal**: Indian markets rallied as the US lowered tariffs and India agreed to boost US imports and stop Russian oil purchases.
+- **Australia raises interest rates amid six-quarter high inflation**: Australia’s central bank increased rates to 3.85% as inflation hit its highest level since late 2023.
+- **Tether CEO launches US-regulated stablecoin amid regulatory scrutiny**: Tether’s CEO Paolo Ardoino is engaging US regulators and launching a new stablecoin, USAT, to compete with USDC.
+- **Fintech CEO and Forbes 30 Under 30 alum charged with fraud**: Kalder’s CEO Gökçe Güven faces multiple US fraud charges over alleged false fundraising and visa documents.
+- **China’s “crying horse” plushie and “Are You Dead?” app reflect societal gloom**: The viral plushie and now-banned app highlight public anxiety amid China’s economic slowdown.
+- **Nvidia shares fall as $100B OpenAI investment stalls**: Nvidia’s stock dropped after reports of delays and uncertainty in its planned OpenAI investment.
+- **AI layoffs often mask other business issues, report finds**: Many companies citing AI for layoffs lack mature AI applications, raising concerns about “AI-washing.”
+- **DeepMind’s AI pharma company secures over $100M in funding**: DeepMind’s pharmaceutical arm raised over $100 million in two months to advance AI-driven drug development.
+- **Beijing humanoid robot center raises over 700 million yuan**: The Beijing Humaniform Robot Innovation Center completed major financing to boost robotics R&D and commercialization.
+- **Xiaomi’s chip unit completes major funding rounds for global expansion**: Xiaomi’s chip division raised hundreds of millions of yuan to develop next-gen chip architectures and expand overseas.
+- **Grubhub waives delivery fees on orders over $50**: Grubhub will permanently remove delivery and service fees on large orders to compete with DoorDash and Uber Eats.
+- **Ring expands AI-powered lost dog search to all US users**: Ring’s “Search Party” feature is now available to non-Ring camera owners, with $1M pledged for animal shelters.
+- **AI notetaking devices offer recording and transcription for meetings**: New AI-powered hardware devices provide real-time transcription, translation, and meeting summaries.
+- **Carbon Robotics unveils AI model for instant plant identification**: The Large Plant Model enables real-time weed management for farmers using autonomous robots.
+- **Stanford students launch $2M startup accelerator for student founders**: Breakthrough Ventures will fund and mentor student entrepreneurs nationwide, aiming to incubate 100 companies.
+- **Oracle’s credit outlook improves after $50B financing plan**: Oracle’s credit default swaps dropped as it announced major funding for data center and AI expansion.
+- **Moltbook’s “social media for AI agents” sparks tech debate**: Moltbook’s platform for AI agent interactions draws praise and skepticism over AI autonomy and oversight.
+- **Ruimeng Semiconductor and Qianxun AI secure new funding rounds**: Both Chinese tech firms completed significant financings to support semiconductor and AI recruitment platform growth.
+- **NASA mission to study heliosphere aims to unravel cosmic mysteries**: The IMAP spacecraft will explore the heliosphere’s structure and its interactions with cosmic phenomena.
+- **Black hole collision confirms Einstein and Hawking’s predictions**: Recent observations validate decades-old theories on gravitational waves and black hole behavior.
+- **NASA finds strongest evidence yet of ancient life on Mars**: A newly discovered Martian rock may provide the clearest sign of past life on the planet.

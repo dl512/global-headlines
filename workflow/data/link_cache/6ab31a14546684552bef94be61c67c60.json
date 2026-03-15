@@ -1,0 +1,553 @@
+{
+  "website": "https://edition.cnn.com/business/tech",
+  "links": [
+    "https://edition.cnn.com/2026/02/06/tech/ai-entry-level-jobs-teens",
+    "https://edition.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks",
+    "https://edition.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads",
+    "https://edition.cnn.com/2026/02/02/tech/spacex-acquires-xai-elon-musk",
+    "https://edition.cnn.com/2026/01/28/tech/iphone-air-new-apple-17",
+    "https://edition.cnn.com/2026/01/29/tech/apple-earnings-iphone-17-sales-ai",
+    "https://edition.cnn.com/2026/01/28/tech/people-aren-t-buying-into-apple-s-big-bet-on-a-slimmer-iphone-survey-suggests",
+    "https://edition.cnn.com/2026/02/06/tech/uber-sexual-assault-case-verdict",
+    "https://edition.cnn.com/2026/02/09/tech/ai-replacing-jobs-concerns-radiology",
+    "https://edition.cnn.com/2026/02/03/tech/moltbook-explainer-scli-intl",
+    "https://edition.cnn.com/2026/02/09/tech/ai-ads-super-bowl",
+    "https://edition.cnn.com/2026/02/09/tech/instagram-youtube-social-media-trial",
+    "https://edition.cnn.com/2026/02/10/tech/china-us-ai-race-challenges-intl-hnk-dst",
+    "https://edition.cnn.com/2026/02/10/business/video/smart-glasses-covert-filming-women-creators-digvid",
+    "https://edition.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch",
+    "https://edition.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking",
+    "https://edition.cnn.com/politics/state-redistricting-maps-vis/index.html",
+    "https://edition.cnn.com/2026/02/02/tech/enterprise-ai-software-platform-strategic-initiatives",
+    "https://edition.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap",
+    "https://edition.cnn.com/2026/02/10/tech/google-video-nancy-guthrie",
+    "https://edition.cnn.com/2026/02/11/tech/instagram-chief-trial-social-media-addiction",
+    "https://edition.cnn.com/2026/02/11/business/robotics-automation-firms-strategic-acquisitions-ai-capabilities",
+    "https://edition.cnn.com/2026/02/10/tech/costfoto-nurphoto-getty-images",
+    "https://edition.cnn.com/2026/02/10/tech/cnns-major-hardware-startups-secure-series-b-funding-to-scale-ai-chip-production",
+    "https://edition.cnn.com/2026/02/13/tech/openai-political-spending-super-pacs",
+    "https://edition.cnn.com/2026/02/13/tech/amazon-ring-flock-partnership-ice",
+    "https://edition.cnn.com/2026/02/12/tech/russia-whatsapp-social-media-clampdown-intl",
+    "https://edition.cnn.com/2026/02/19/tech/ai-jobs-big-thing-hype",
+    "https://edition.cnn.com/2026/02/18/tech/meta-mark-zuckerberg-testifies-social-media-addiction-trial",
+    "https://edition.cnn.com/2026/02/17/tech/meta-mark-zuckerberg-addiction-trial-testimony",
+    "https://edition.cnn.com/2026/02/19/tech/auto-vehicles-drones-funding-rising-automation-trends",
+    "https://edition.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud",
+    "https://edition.cnn.com/2026/02/22/tech/social-media-addiction-trial-tobacco-moment",
+    "https://edition.cnn.com/2026/02/23/tech/semiconductor-demand-ai-chip-manufacturing-expansion",
+    "https://edition.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs",
+    "https://edition.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+    "https://edition.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs",
+    "https://edition.cnn.com/2026/02/24/tech/are-chinas-ai-tigers-cheating-us-rival-alleges",
+    "https://edition.cnn.com/2026/02/23/tech/facebook-researchers-study-addictive-features",
+    "https://edition.cnn.com/2025/09/10/science/nasa-mars-sapphire-falls-rock-sample",
+    "https://edition.cnn.com/2026/02/24/media/paramount-new-offer-warner-brothers-discovery-netflix",
+    "https://edition.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+    "https://edition.cnn.com/2026/02/25/tech/samsung-galaxy-s26-ai-google-gemini",
+    "https://edition.cnn.com/2026/02/25/tech/ai-regulation-market-valuation-corporate-moves",
+    "https://edition.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer",
+    "https://edition.cnn.com/2026/02/24/tech/anthropic-ai-safety-policy-change",
+    "https://edition.cnn.com/2026/02/19/tech/takeaways-mark-zuckerberg-testifiessocial-media-child-mental-health",
+    "https://edition.cnn.com/2026/02/26/media/netflix-paramount-wbd",
+    "https://edition.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey",
+    "https://edition.cnn.com/business/tech/papa-johns-closes-hundreds-locations-automation-push-impacting-retail-investments",
+    "https://edition.cnn.com/2026/02/26/business/mortgage-rates-fall-influence-fintech-ai-market",
+    "https://edition.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+    "https://edition.cnn.com/2026/03/01/media/trump-iran-media-sunday-shows-white-house",
+    "https://edition.cnn.com/2026/02/27/business/video/ram-memory-price-increase-ai-gaming-creators-intl",
+    "https://edition.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk",
+    "https://edition.cnn.com/2026/02/27/tech/edge-computing-ai-infrastructure-investments",
+    "https://edition.cnn.com/2026/03/02/tech/apple-iphone-17e-launch",
+    "https://edition.cnn.com/2026/03/02/business/staples-baddie-tiktok-sales-nyc-cec",
+    "https://edition.cnn.com/2026/03/02/tech/new-ai-infrastructure-projects-data-hubs-large-scale-models",
+    "https://edition.cnn.com/2026/03/03/tech/anthropic-claude-ai-app-pentagon",
+    "https://edition.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+    "https://edition.cnn.com/2026/03/02/business/video/smartflower-solar-panel-spc-digvid",
+    "https://edition.cnn.com/2026/03/03/tech/hardware-startups-ai-chip-design-funding-rounds",
+    "https://edition.cnn.com/2026/03/03/tech/enterprise-ai-strategic-partnerships-market-share",
+    "https://edition.cnn.com/2026/03/03/tech/major-tech-firms-ai-integration-valuation-impact",
+    "https://edition.cnn.com/2026/03/03/business/regulatory-policy-shifts-ai-semiconductors-investment-landscape",
+    "https://edition.cnn.com/2026/03/04/tech/pentagon-anthropic-openai-staff-reactions",
+    "https://edition.cnn.com/2026/03/04/tech/apple-event-macbook-neo-release",
+    "https://edition.cnn.com/2026/03/04/business/ai-company-funding-valuations-ipos",
+    "https://edition.cnn.com/2026/03/04/business/video/firstlight-fusion-energy-spc-digivid",
+    "https://edition.cnn.com/2026/03/04/business/china-npc-gdp-economy-intl-hnk",
+    "https://edition.cnn.com/2026/03/04/tech/industrial-automation-manufacturing-robots",
+    "https://edition.cnn.com/2026/03/05/tech/pentagon-anthropic-supply-chain-risk",
+    "https://edition.cnn.com/2026/02/27/tech/openai-has-same-redlines-as-anthropic-in-any-deal-with-the-pentagon",
+    "https://edition.cnn.com/2025/09/15/health/tooth-in-eye-surgery",
+    "https://edition.cnn.com/2026/03/09/tech/anthropic-sues-pentagon",
+    "https://edition.cnn.com/2026/03/04/tech/openai-staff-reactions-pentagon-deal",
+    "https://edition.cnn.com/2026/03/09/business/us-stocks-still-havent-gone-into-panic-mode"
+  ],
+  "metadata": {
+    "https://edition.cnn.com/2026/02/06/tech/ai-entry-level-jobs-teens": {
+      "headline": "AI is upending entry-level jobs. Three teens tell us how they’re responding",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:35.747771",
+      "last_seen": "2026-02-09T21:03:35.747779"
+    },
+    "https://edition.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks": {
+      "headline": "The AI that spooked the stock market just got a big update",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:40.619958",
+      "last_seen": "2026-02-09T21:03:40.619966"
+    },
+    "https://edition.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads": {
+      "headline": "Two of the biggest AI companies are feuding over a Super Bowl ad. It’s bigger than you think",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:45.151879",
+      "last_seen": "2026-02-09T21:03:45.151890"
+    },
+    "https://edition.cnn.com/2026/02/02/tech/spacex-acquires-xai-elon-musk": {
+      "headline": "Elon Musk’s SpaceX acquires xAI, merging his two most ambitious companies",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:50.030619",
+      "last_seen": "2026-02-09T21:03:50.030627"
+    },
+    "https://edition.cnn.com/2026/01/28/tech/iphone-air-new-apple-17": {
+      "headline": "Amazon is laying off 16,000 employees as AI battle intensifies",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:54.616633",
+      "last_seen": "2026-02-09T21:03:54.616643"
+    },
+    "https://edition.cnn.com/2026/01/29/tech/apple-earnings-iphone-17-sales-ai": {
+      "headline": "The iPhone 17 is easing Wall Street’s concerns about Apple’s AI troubles",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:59.092458",
+      "last_seen": "2026-02-09T21:03:59.092465"
+    },
+    "https://edition.cnn.com/2026/01/28/tech/people-aren-t-buying-into-apple-s-big-bet-on-a-slimmer-iphone-survey-suggests": {
+      "headline": "People aren’t buying into Apple’s big bet on a slimmer iPhone, survey suggests",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:04:02.712510",
+      "last_seen": "2026-02-09T21:04:02.712516"
+    },
+    "https://edition.cnn.com/2026/02/06/tech/uber-sexual-assault-case-verdict": {
+      "headline": "Uber must pay $8.5 million in driver sexual assault case, jury says. Here’s what it could mean for thousands of similar cases",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:04:07.334525",
+      "last_seen": "2026-02-09T21:04:07.334533"
+    },
+    "https://edition.cnn.com/2026/02/09/tech/ai-replacing-jobs-concerns-radiology": {
+      "headline": "This job has become the ultimate case study for why AI won’t replace human workers",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:04:12.300454",
+      "last_seen": "2026-02-09T21:04:12.300462"
+    },
+    "https://edition.cnn.com/2026/02/03/tech/moltbook-explainer-scli-intl": {
+      "headline": "What is Moltbook, the social networking site for AI bots – and should we be scared?",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:33:06.802995",
+      "last_seen": "2026-02-10T10:33:06.803009"
+    },
+    "https://edition.cnn.com/2026/02/09/tech/ai-ads-super-bowl": {
+      "headline": "AI model releases, updates, and breakthroughs",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:33:16.788063",
+      "last_seen": "2026-02-10T10:33:16.788078"
+    },
+    "https://edition.cnn.com/2026/02/09/tech/instagram-youtube-social-media-trial": {
+      "headline": "AI regulation and policy changes affecting investments",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:33:29.623496",
+      "last_seen": "2026-02-10T10:33:29.623511"
+    },
+    "https://edition.cnn.com/2026/02/10/tech/china-us-ai-race-challenges-intl-hnk-dst": {
+      "headline": "China’s AI industry looks unstoppable in the race to best US rivals. But is it?",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:32:46.012844",
+      "last_seen": "2026-02-11T11:32:46.012860"
+    },
+    "https://edition.cnn.com/2026/02/10/business/video/smart-glasses-covert-filming-women-creators-digvid": {
+      "headline": "These women didn’t know they were being filmed. Smart glasses were the tool",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:32:53.574632",
+      "last_seen": "2026-02-11T11:32:53.574649"
+    },
+    "https://edition.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch": {
+      "headline": "Robo-dogs are mapping the forest. Real dogs are confused.",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:33:07.126820",
+      "last_seen": "2026-02-11T11:33:07.126836"
+    },
+    "https://edition.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking": {
+      "headline": "Black hole collision confirms decades-old predictions by Einstein and Hawking",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:33:12.573216",
+      "last_seen": "2026-02-11T11:33:12.573232"
+    },
+    "https://edition.cnn.com/politics/state-redistricting-maps-vis/index.html": {
+      "headline": "Rock discovery contains ‘clearest sign’ yet of ancient life on Mars, NASA says",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:33:18.164307",
+      "last_seen": "2026-02-11T11:33:18.164323"
+    },
+    "https://edition.cnn.com/2026/02/02/tech/enterprise-ai-software-platform-strategic-initiatives": {
+      "headline": "Enterprise AI software and platform strategic initiatives",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:33:27.652825",
+      "last_seen": "2026-02-11T11:33:27.652839"
+    },
+    "https://edition.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap": {
+      "headline": "AI researchers are sounding the alarm on their way out the door",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:47:04.398878",
+      "last_seen": "2026-02-12T11:47:04.398894"
+    },
+    "https://edition.cnn.com/2026/02/10/tech/google-video-nancy-guthrie": {
+      "headline": "How Google played a key role in recovering the video from Nancy Guthrie’s cameras",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:47:17.368308",
+      "last_seen": "2026-02-12T11:47:17.368323"
+    },
+    "https://edition.cnn.com/2026/02/11/tech/instagram-chief-trial-social-media-addiction": {
+      "headline": "Costfoto/NurPhoto/Getty Images",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:47:23.996874",
+      "last_seen": "2026-02-12T11:47:23.996890"
+    },
+    "https://edition.cnn.com/2026/02/11/business/robotics-automation-firms-strategic-acquisitions-ai-capabilities": {
+      "headline": "Robotics and automation firms report strategic acquisitions to expand AI capabilities",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:47:36.494244",
+      "last_seen": "2026-02-12T11:47:36.494260"
+    },
+    "https://edition.cnn.com/2026/02/10/tech/costfoto-nurphoto-getty-images": {
+      "headline": "Major semiconductor firms report increased demand for AI chips, boosting valuations",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:02:38.412510",
+      "last_seen": "2026-02-13T12:02:38.412521"
+    },
+    "https://edition.cnn.com/2026/02/10/tech/cnns-major-hardware-startups-secure-series-b-funding-to-scale-ai-chip-production": {
+      "headline": "Major hardware startups secure Series B funding to scale AI chip production",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:03:00.431183",
+      "last_seen": "2026-02-13T12:03:00.431194"
+    },
+    "https://edition.cnn.com/2026/02/13/tech/openai-political-spending-super-pacs": {
+      "headline": "OpenAI clarifies it isn’t spending on Super PACs amid regulatory scrutiny",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:45:30.597625",
+      "last_seen": "2026-02-16T10:45:30.597639"
+    },
+    "https://edition.cnn.com/2026/02/13/tech/amazon-ring-flock-partnership-ice": {
+      "headline": "Amazon’s Ring cancels controversial Flock partnership amid privacy concerns, affecting IoT investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:45:44.770775",
+      "last_seen": "2026-02-16T10:45:44.770791"
+    },
+    "https://edition.cnn.com/2026/02/12/tech/russia-whatsapp-social-media-clampdown-intl": {
+      "headline": "Russia blocks WhatsApp amid social media clampdown, impacting global communication infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:45:50.621047",
+      "last_seen": "2026-02-16T10:45:50.621063"
+    },
+    "https://edition.cnn.com/2026/02/19/tech/ai-jobs-big-thing-hype": {
+      "headline": "No one can agree on whether AI is the next big thing or all hype. Here’s why",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:17:04.973560",
+      "last_seen": "2026-02-20T11:17:04.973574"
+    },
+    "https://edition.cnn.com/2026/02/18/tech/meta-mark-zuckerberg-testifies-social-media-addiction-trial": {
+      "headline": "Meta’s Zuckerberg testifies about social media’s effects on children in landmark trial",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:17:18.520434",
+      "last_seen": "2026-02-20T11:17:18.520451"
+    },
+    "https://edition.cnn.com/2026/02/17/tech/meta-mark-zuckerberg-addiction-trial-testimony": {
+      "headline": "Tough questions — and grieving families — await Mark Zuckerberg at social media addiction trial Wednesday",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:17:27.102312",
+      "last_seen": "2026-02-20T11:17:27.102328"
+    },
+    "https://edition.cnn.com/2026/02/19/tech/auto-vehicles-drones-funding-rising-automation-trends": {
+      "headline": "Autonomous vehicle and drone startups secure funding rounds amid rising automation trends",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:17:59.972016",
+      "last_seen": "2026-02-20T11:17:59.972034"
+    },
+    "https://edition.cnn.com/2026/02/19/tech/apple-west-virginia-lawsuit-icloud": {
+      "headline": "State sues Apple over alleged distribution of child sexual abuse materials on iCloud and devices",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:17:50.525794",
+      "last_seen": "2026-02-23T12:17:50.525807"
+    },
+    "https://edition.cnn.com/2026/02/22/tech/social-media-addiction-trial-tobacco-moment": {
+      "headline": "Autonomous vehicles and drones emerge as key sectors for venture capital",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:18:07.418800",
+      "last_seen": "2026-02-23T12:18:07.418814"
+    },
+    "https://edition.cnn.com/2026/02/23/tech/semiconductor-demand-ai-chip-manufacturing-expansion": {
+      "headline": "Semiconductor equipment and materials see increased demand driven by AI chip manufacturing expansion",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:43:44.968845",
+      "last_seen": "2026-02-24T10:43:44.968862"
+    },
+    "https://edition.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs": {
+      "headline": "AI regulation and policy changes are influencing market valuations and strategic corporate moves",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:43:58.942077",
+      "last_seen": "2026-02-24T10:43:58.942094"
+    },
+    "https://edition.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei": {
+      "headline": "Pentagon threatens to make Anthropic a pariah if it refuses to drop AI guardrails",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:08:34.122698",
+      "last_seen": "2026-02-25T11:08:34.122714"
+    },
+    "https://edition.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs": {
+      "headline": "Anthropic doubles down amid AI nerves fraying, raising investment concerns",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:08:51.535107",
+      "last_seen": "2026-02-25T11:08:51.535123"
+    },
+    "https://edition.cnn.com/2026/02/24/tech/are-chinas-ai-tigers-cheating-us-rival-alleges": {
+      "headline": "US alleges some Chinese ‘AI tigers’ are cheating, impacting AI market trust",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:08:59.339511",
+      "last_seen": "2026-02-25T11:08:59.339531"
+    },
+    "https://edition.cnn.com/2026/02/23/tech/facebook-researchers-study-addictive-features": {
+      "headline": "Facebook researchers previously studied addictive features, influencing AI ethics and investment strategies",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:09:27.485259",
+      "last_seen": "2026-02-25T11:09:27.485281"
+    },
+    "https://edition.cnn.com/2025/09/10/science/nasa-mars-sapphire-falls-rock-sample": {
+      "headline": "Rock discovery suggests signs of ancient life on Mars, emphasizing AI in space exploration",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:09:46.249260",
+      "last_seen": "2026-02-25T11:09:46.249284"
+    },
+    "https://edition.cnn.com/2026/02/24/media/paramount-new-offer-warner-brothers-discovery-netflix": {
+      "headline": "Paramount escalates Warner Bros. Discovery bid, signaling strategic moves in media tech investments",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:09:58.591304",
+      "last_seen": "2026-02-25T11:09:58.591321"
+    },
+    "https://edition.cnn.com/2026/02/25/tech/anthropic-safety-policy-change": {
+      "headline": "Anthropic doubles down on AI safety amid Pentagon red line dispute",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:58:36.026520",
+      "last_seen": "2026-02-26T10:58:36.026538"
+    },
+    "https://edition.cnn.com/2026/02/25/tech/samsung-galaxy-s26-ai-google-gemini": {
+      "headline": "AI is making waves everywhere, except where you’d expect — major tech firms working to change that",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:58:48.553190",
+      "last_seen": "2026-02-26T10:58:48.553206"
+    },
+    "https://edition.cnn.com/2026/02/25/tech/ai-regulation-market-valuation-corporate-moves": {
+      "headline": "AI regulation discussions intensify, influencing market valuations and strategic corporate moves",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:59:08.696371",
+      "last_seen": "2026-02-26T10:59:08.696387"
+    },
+    "https://edition.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer": {
+      "headline": "Anthropic rejects latest Pentagon offer, raising concerns over AI safety and defense funding",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:15:20.383662",
+      "last_seen": "2026-02-27T11:15:20.383678"
+    },
+    "https://edition.cnn.com/2026/02/24/tech/anthropic-ai-safety-policy-change": {
+      "headline": "AI nerves fray as Anthropic maintains safety stance, affecting investor confidence in AI startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:15:34.333074",
+      "last_seen": "2026-02-27T11:15:34.333089"
+    },
+    "https://edition.cnn.com/2026/02/19/tech/takeaways-mark-zuckerberg-testifiessocial-media-child-mental-health": {
+      "headline": "Meta's Zuckerberg testifies on social media's mental health impact, signaling regulatory risks for social AI platforms",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:15:50.662281",
+      "last_seen": "2026-02-27T11:15:50.662296"
+    },
+    "https://edition.cnn.com/2026/02/26/media/netflix-paramount-wbd": {
+      "headline": "Paramount wins bidding war over Netflix, signaling consolidation trends in media tech investments",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:16:04.646749",
+      "last_seen": "2026-02-27T11:16:04.646766"
+    },
+    "https://edition.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey": {
+      "headline": "Block lays off nearly half staff citing AI automation, highlighting risks in AI-driven enterprise solutions",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:16:12.742598",
+      "last_seen": "2026-02-27T11:16:12.742624"
+    },
+    "https://edition.cnn.com/business/tech/papa-johns-closes-hundreds-locations-automation-push-impacting-retail-investments": {
+      "headline": "Papa Johns closes hundreds of locations amid automation push, impacting retail automation investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:16:20.434084",
+      "last_seen": "2026-02-27T11:16:20.434100"
+    },
+    "https://edition.cnn.com/2026/02/26/business/mortgage-rates-fall-influence-fintech-ai-market": {
+      "headline": "Mortgage rates fall below 6%, influencing fintech and AI-driven financial services market",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:16:25.307908",
+      "last_seen": "2026-02-27T11:16:25.307924"
+    },
+    "https://edition.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems": {
+      "headline": "OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:48:06.630823",
+      "last_seen": "2026-03-02T09:48:06.630839"
+    },
+    "https://edition.cnn.com/2026/03/01/media/trump-iran-media-sunday-shows-white-house": {
+      "headline": "US military orders contractors and agencies to cease business with Anthropic amid Pentagon AI safety concerns",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:48:14.051634",
+      "last_seen": "2026-03-02T09:48:14.051650"
+    },
+    "https://edition.cnn.com/2026/02/27/business/video/ram-memory-price-increase-ai-gaming-creators-intl": {
+      "headline": "AI chips and memory market driven by surge in AI model training and deployment",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:48:24.028956",
+      "last_seen": "2026-03-02T09:48:24.028972"
+    },
+    "https://edition.cnn.com/2026/02/27/tech/ai-memory-chips-smartphones-intl-hnk": {
+      "headline": "Chip manufacturing sector sees increased activity due to AI hardware demands",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:48:35.285702",
+      "last_seen": "2026-03-02T09:48:35.285719"
+    },
+    "https://edition.cnn.com/2026/02/27/tech/edge-computing-ai-infrastructure-investments": {
+      "headline": "Edge computing for AI applications gains momentum with new infrastructure investments",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:48:52.601151",
+      "last_seen": "2026-03-02T09:48:52.601171"
+    },
+    "https://edition.cnn.com/2026/03/02/tech/apple-iphone-17e-launch": {
+      "headline": "Apple launches cheaper iPhone 17e in push to boost iPhone sales",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:43:17.597051",
+      "last_seen": "2026-03-03T13:43:17.597066"
+    },
+    "https://edition.cnn.com/2026/03/02/business/staples-baddie-tiktok-sales-nyc-cec": {
+      "headline": "Robotics and automation firms see increased funding following industrial automation trends",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:43:29.670726",
+      "last_seen": "2026-03-03T13:43:29.670741"
+    },
+    "https://edition.cnn.com/2026/03/02/tech/new-ai-infrastructure-projects-data-hubs-large-scale-models": {
+      "headline": "New AI infrastructure projects announced in key data hubs to support large-scale models",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:43:42.020803",
+      "last_seen": "2026-03-03T13:43:42.020955"
+    },
+    "https://edition.cnn.com/2026/03/03/tech/anthropic-claude-ai-app-pentagon": {
+      "headline": "Anthropic’s Claude becomes the most popular iPhone app following Pentagon feud",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:24:45.780613",
+      "last_seen": "2026-03-04T09:24:45.780628"
+    },
+    "https://edition.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline": {
+      "headline": "Trump administration orders military contractors and federal agencies to cease business with Anthropic",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:24:54.469156",
+      "last_seen": "2026-03-04T09:24:54.469177"
+    },
+    "https://edition.cnn.com/2026/03/02/business/video/smartflower-solar-panel-spc-digvid": {
+      "headline": "Cloud providers invest heavily in AI computing infrastructure to support enterprise adoption",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:25:19.175250",
+      "last_seen": "2026-03-04T09:25:19.175267"
+    },
+    "https://edition.cnn.com/2026/03/03/tech/hardware-startups-ai-chip-design-funding-rounds": {
+      "headline": "Hardware startups in AI chip design secure multi-million dollar funding rounds",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:25:46.752716",
+      "last_seen": "2026-03-04T09:25:46.752733"
+    },
+    "https://edition.cnn.com/2026/03/03/tech/enterprise-ai-strategic-partnerships-market-share": {
+      "headline": "Enterprise AI platforms expand their market share through strategic partnerships",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:25:54.345238",
+      "last_seen": "2026-03-04T09:25:54.345256"
+    },
+    "https://edition.cnn.com/2026/03/03/tech/major-tech-firms-ai-integration-valuation-impact": {
+      "headline": "Major tech firms accelerate AI integration into business applications, impacting valuations",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:00.399662",
+      "last_seen": "2026-03-04T09:26:00.399678"
+    },
+    "https://edition.cnn.com/2026/03/03/business/regulatory-policy-shifts-ai-semiconductors-investment-landscape": {
+      "headline": "Regulatory and policy shifts in AI and semiconductor sectors could reshape investment landscape",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:05.368030",
+      "last_seen": "2026-03-04T09:26:05.368050"
+    },
+    "https://edition.cnn.com/2026/03/04/tech/pentagon-anthropic-openai-staff-reactions": {
+      "headline": "Some OpenAI staff are fuming about its Pentagon deal",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:45:36.806038",
+      "last_seen": "2026-03-05T11:45:36.806055"
+    },
+    "https://edition.cnn.com/2026/03/04/tech/apple-event-macbook-neo-release": {
+      "headline": "AI model releases, updates, and breakthroughs",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:45:47.581969",
+      "last_seen": "2026-03-05T11:45:47.581987"
+    },
+    "https://edition.cnn.com/2026/03/04/business/ai-company-funding-valuations-ipos": {
+      "headline": "AI company funding, valuations, and IPOs",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:45:52.676222",
+      "last_seen": "2026-03-05T11:45:52.676238"
+    },
+    "https://edition.cnn.com/2026/03/04/business/video/firstlight-fusion-energy-spc-digivid": {
+      "headline": "AI infrastructure investments",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:00.636296",
+      "last_seen": "2026-03-05T11:46:00.636311"
+    },
+    "https://edition.cnn.com/2026/03/04/business/china-npc-gdp-economy-intl-hnk": {
+      "headline": "AI regulation and policy changes affecting investments",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:12.247139",
+      "last_seen": "2026-03-05T11:46:12.247155"
+    },
+    "https://edition.cnn.com/2026/03/04/tech/industrial-automation-manufacturing-robots": {
+      "headline": "Industrial automation and manufacturing robotics",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:46:17.737516",
+      "last_seen": "2026-03-05T11:46:17.737534"
+    },
+    "https://edition.cnn.com/2026/03/05/tech/pentagon-anthropic-supply-chain-risk": {
+      "headline": "Anthropic says the Pentagon’s supply chain risk label will have less business impact than feared",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:57:47.932627",
+      "last_seen": "2026-03-06T10:57:47.932645"
+    },
+    "https://edition.cnn.com/2026/02/27/tech/openai-has-same-redlines-as-anthropic-in-any-deal-with-the-pentagon": {
+      "headline": "OpenAI CEO Sam Altman shares Anthropic’s concerns when it comes to working with the Pentagon",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:58:01.453075",
+      "last_seen": "2026-03-06T10:58:01.453090"
+    },
+    "https://edition.cnn.com/2025/09/15/health/tooth-in-eye-surgery": {
+      "headline": "Rare ‘tooth-in-eye’ surgery restores man’s vision after two decades",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:58:18.902414",
+      "last_seen": "2026-03-06T10:58:18.902430"
+    },
+    "https://edition.cnn.com/2026/03/09/tech/anthropic-sues-pentagon": {
+      "headline": "Anthropic sues the Trump administration over supply chain risk designation, impacting AI company valuations",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:00:59.895868",
+      "last_seen": "2026-03-10T10:00:59.895884"
+    },
+    "https://edition.cnn.com/2026/03/04/tech/openai-staff-reactions-pentagon-deal": {
+      "headline": "OpenAI CEO Sam Altman voices concerns over Pentagon collaborations, affecting enterprise AI strategic moves",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:01:10.994390",
+      "last_seen": "2026-03-10T10:01:10.994404"
+    },
+    "https://edition.cnn.com/2026/03/09/business/us-stocks-still-havent-gone-into-panic-mode": {
+      "headline": "US market reacts to geopolitical tensions with increased investments in AI and semiconductor supply chain resilience",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:01:23.912469",
+      "last_seen": "2026-03-10T10:01:23.912484"
+    }
+  }
+}

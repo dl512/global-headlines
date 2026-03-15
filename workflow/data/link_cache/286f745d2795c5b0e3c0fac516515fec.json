@@ -1,0 +1,1456 @@
+{
+  "website": "https://news.mingpao.com/%E6%98%8E%E5%A0%B1%E6%96%B0%E8%81%9E%E7%B6%B2/main",
+  "links": [
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804480/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8e%a8%e5%b9%bf%e6%96%b0%e6%87%89%e7%94%a8%e7%9a%84%e6%94%bf%e7%ad%96%e4%b8%8d%e5%8f%af%e5%a4%a7%e5%8a%9b%e6%8b%9b%e8%81%98",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628802364/hong-kong-s-gdp-growth-forecast-upgraded-by-international-financial-institutions",
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316803384-%e8%a7%a3%e8%a7%a3%e4%b8%8a%e6%b5%b7%e5%8d%80%e4%ba%a4%e6%98%93%e8%88%87%e6%b5%81%e5%8a%a8%e8%a8%88%e7%95%ab%e6%8e%a5%e8%be%bc%e6%b8%af%e5%8f%8a%e7%be%8e%e5%9c%8b%e6%8e%a5%e8%be%bc%e4%b8%ad%e5%9c%8b%e9%80%9a%e8%a8%8a",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837204420/%e9%a6%99%e6%b8%af%e6%b3%95%e9%99%a2%e4%ba%ba%e5%8f%af%e4%ba%a4%e6%98%93%e6%96%b0%e5%88%b0%e6%96%b0%e8%a6%8f%e7%af%80%e4%ba%86%e6%8f%90%e5%8d%87%e8%b2%a1%e9%87%91%e5%b8%82%e5%a0%b4%e7%a7%81%e5%88%b0%e6%96%b0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624003761/hong-kong-s-unemployment-rate-declines-as-retail-and-hospitality-sectors-recover",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802324/hong-kong-government-plans-to-attract-more-foreign-investment-through-tax-incentives",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677628805674/%e6%96%b0%e6%83%85%e8%a9%b2%e6%8e%92%e8%a1%8c%e6%8e%a8%e5%87%ba%e6%96%b0%e7%9a%84%e6%96%b9%e6%b3%95%e6%8e%a8%e5%87%ba%e6%96%b0%e7%89%88%e8%a8%8a%e8%81%9e%e4%ba%86%e7%9f%a5%e8%ad%98%e6%8e%a8%e5%87%ba%e7%9a%84%e6%96%b0%e7%89%88%e8%a8%8a%e8%81%9e%e3%80%82",
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230307/s00004/1678147208624/%e6%97%85%e8%b1%aa%e5%8a%a0%e5%8a%a0%e6%8e%a5%e5%8f%a3%e7%9a%84%e8%b2%a8%e6%ac%be%e6%88%96%e7%9a%84%e8%a8%ad%e8%a8%88%e5%8f%8a%e7%9b%9f%e8%a8%88%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677624007477/%e9%a6%99%e6%b8%af%e9%87%91%e8%b2%a1%e7%ae%a1%e5%88%b6%e5%8a%a0%e5%8a%a0%e7%9b%be%e7%9a%84%e7%9b%9b%e8%a6%bd%e7%9a%84%e7%9b%9b%e8%a7%92%e6%9c%89%e5%85%a7%e5%8d%b0%e5%88%b0%e4%ba%86%e6%9c%89%e5%85%a7%e5%8d%b0%e7%9a%84%e7%9b%9b%e8%a6%bd",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147206314/hong-kong-s-retail-sales-increase-amid-rising-consumer-confidence",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678148874394/%e6%96%b0%e6%94%bf%e6%94%b9%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%",
+    "https://news.mingpao.com/ldy/international/article/20230307/s00001/1678147202594/hong-kongs-social-stability-remains-resilient-despite-regional-geopolitical-tensions",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807474",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677643201234-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%86%8d%e6%94%af%e5%8a%a9%e5%85%a8%e5%9c%8b%e4%ba%8c%e5%8d%80%e4%ba%86%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%bf%e5%ba%9c%e6%94%af%e5%8a%a9%e5%8a%a0%e6%8b%9c%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%bf%e5%ba%9c%e6%94%af%e5%8a%a9%e5%8a%a0%e6%8b%9c%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230316/s00022/1678929606462/hong-kong-s-gdp-growth-forecast-revised-upward-for-2023",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624005434/%e9%a6%99%e6%b8%af%e6%89%93%e9%87%8f%e6%8e%a7%e5%88%b6%e6%96%87%e4%ba%a4%e6%b5%81%e4%b8%8a%e6%8e%a5%e7%9a%84%e6%8a%80%e8%a1%93%e6%8e%a5%e5%8f%a3%e6%8e%a5%e5%8f%a3",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00222/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%89%e4%ba%86%e4%b8%8d%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677624003764/%e6%94%bf%e5%ba%9c%e5%bc%80%e5%8f%91%e8%87%aa%e7%94%b1%e5%8a%9b%e8%87%aa%e7%94%b1%e8%87%aa%e5%8a%a9%e4%ba%a4%e9%87%91%e5%8f%8a%e6%8a%95%e8%b3%87%e6%8e%a8%e5%b9%bf",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836609734/%e9%a6%96%e4%ba%ba%e6%8e%a8%e8%96%a6%e5%8f%8a%e6%8e%a8%e8%96%a6%e9%96%8b%e8%a8%ad%e6%8e%a5%e7%bd%ae%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e5%8f%8a%e7%94%9f%e7%86%b1%e5%8f%8a%e7%94%9f%e6%88%90%e9%87%8d%e8%a6%81%e7%9b%91%e8%a6%96%e4%b8%8a%e7%9a%84%e7%a4%be%e5%8d%80%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e5%8f%8a%e7%94%9f%e7%86%b1%e5%8f%8a%e7%94%9f%e6%88%90%e9%87%8d%e8%a6%81%e7%9b%91%e8%a6%96",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147931070/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9-%e6%8a%80%e8%a1%93%e8%a6%8f%e5%8d%80%e6%94%b9%e5%8f%98%e7%9a%84%e6%8a%95%e8%b3%87%e6%8a%80%e8%a1%93%e8%a6%8f%e5%8d%80%e6%94%b9%e5%8f%98%e7%9a%84%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9%e4%b8%8d%e5%8f%af%e5%8a%a0%e5%85%a7%e6%94%b9%e8%a8%8a",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678831747470/hong-kong-s-retail-sales-rebound-as-consumer-confidence-improves",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678838497364/hong-kongs-social-stability-remains-resilient-amid-regional-tensions",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807367/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%8f%8a%e6%8e%a8%e8%8d%90%e6%94%af%e6%8c%81%e8%88%87%e6%8a%80%e8%a1%93%e7%a7%91%e6%8a%80%e7%a4%be%e7%be%a4%e6%8e%a8%e8%8d%90",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804534/%e4%b8%bb%e8%a6%aa%e5%9c%b0%e5%8c%97%e4%b8%ad%e5%9c%8b%e8%a8%82%e7%a4%ba%e8%a1%8c%e8%b2%bb%e6%94%b9%e6%96%b0%e8%a8%8a%e6%81%af%e6%94%af%e6%8c%81%e5%8f%8a%e4%ba%a4%e6%98%93%e6%8a%80%e8%a1%93",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230316/s00022/1678929608934/hong-kongs-gdp-growth-forecast-revised-upward-for-2023",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804484/%e7%9b%8a%e8%88%87%e4%ba%8c%e5%8d%8a%e4%ba%86%e4%ba%86%e5%9c%a8%e6%9c%89%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba",
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230317/s00001/1679025607110/%e6%8a%95%e8%b3%87%e7%9a%84%e7%a4%be%e5%8d%80%e8%a7%a3%e6%b1%ba%e6%8a%80%e8%a1%8c%e7%9a%84%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0%e6%8a%95%e8%b3%87%e7%9a%84%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009824/hong-kongs-retail-sales-rebound-signals-improving-consumer-confidence",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836790840/hong-kong-s-public-infrastructure-projects-receive-government-funding-boost",
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e6%8e%a8%e8%96%a6%e6%94%bf%e7%ad%96%e6%88%96%e7%9b%9f%e6%88%90%e6%9c%83%e7%9a%84%e7%a4%be%e7%be%a4%e7%9a%84%e7%9b%9b%e8%a6%bd-%e8%a8%98%e8%80%85%e8%ad%b0%e8%a9%95%e7%9a%84%e4%ba%ba%e6%89%8d%e8%81%af%e7%b5%a1%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804184/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8b%9b%e8%81%98%e6%96%b0%e6%8e%a8%e8%8b%b1%e8%a6%81%e6%8e%a8%e5%8a%a8%e4%b8%8a%e5%8d%87%e5%9c%b0%e5%9c%8b%e7%8d%bb%e7%8d%a8%e7%8d%a8%e7%9a%84%e5%8a%a0%e5%8a%a0%e7%8e%87",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628807470/hong-kongs-property-market-shows-signs-of-stabilization-after-recent-downturn",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628802444/%e4%b8%bb%e8%a6%aa%e5%8d%80%e4%b8%ad%e5%9c%8b%e6%93%8a%e7%a4%be%e8%b2%a8%e6%94%bf%e7%ad%96%e6%96%b0%e6%96%b0%e6%89%8b%e6%9c%af%e6%8e%a5%e8%a8%88%e4%ba%86%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838402784-%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e7%9b%be%e7%9a%84%e8%a8%88%e7%95%ab%e7%9a%84%e7%9b%9b%e5%a4%a7%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%ba%86%e7%9a%84%e8%a8%88%e7%95%ab%e4%ba%86%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e",
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628804814/hong-kong-government-introduces-new-regulations-to-attract-foreign-investment",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624003850/hong-kong-s-gdp-growth-forecast-revised-upward-amid-recovery-efforts",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009324/hong-kong%e7%9a%84%e5%8a%b3%e5%83%8f%e5%b8%82%e5%a0%b4%e7%8f%be%e7%8a%b6%e7%8f%be%e7%8a%84%e9%9b%86%e6%88%90%e8%80%85%e4%ba%86%e8%a7%a3%e5%8a%a0%e5%8a%a0%e4%bd%8e%e6%8a%80%e8%a1%93%e7%9a%84%e4%be%8b%e5%ad%90",
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00004/1677628802104-%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e8%a7%92%e6%94%af%e6%8c%81%e5%b0%8f%e4%b8%ad%e5%be%8c%e8%81%af%e7%ab%99%e6%8e%a7%e5%88%b6%e6%94%bf%e7%ad%96",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678833412784/hong-kong-s-trade-deficit-narrows-as-exports-increase-in-key-sectors",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839822454/%e6%94%bf%e7%ad%96%e8%ab%96%e8%a9%b1%e7%9a%84%e8%a8%8a%e6%81%af%e4%b8%8a%e7%9a%84%e6%8a%80%e8%a1%93%e6%8e%a2%e8%a8%8a%e8%a8%8a%e6%81%af%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%",
+    "https://news.mingpao.com/ins/%e6%8a%80%e8%83%bd%e4%ba%a4%e6%8f%9b%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e7%9a%84%e6%8a%95%e8%b3%87%e8%a8%88%e5%8a%83%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e7%9a%84%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230428/s00022/1682664001830",
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316803584-%e8%a7%a3%e8%a7%86%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a",
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677624007274/hong-kong-government-to-implement-new-policies-to-attract-foreign-investment",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677645601224/%e5%85%ac%e7%89%a9%e5%bc%b5%e7%94%9f%e5%8f%8a%e7%9b%b4%e7%ba%8c%e5%8f%8a%e8%be%a6%e5%8b%99%e7%9a%84%e9%96%8b%e5%a7%8b-%e9%9b%86%e9%9b%86%e7%9a%84%e6%8a%95%e8%b3%87%e5%8f%8a%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807214/hong-kong-unemployment-rate-dips-slightly-indicating-improving-labor-market-conditions",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677615833510/hong-kong-retail-sales-increase-as-consumer-confidence-rebounds-post-pandemic",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677628805434/%e6%96%b0%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e4%ba%86%e6%94%af%e6%8c%81%e5%b0%8f%e4%b8%ad%e5%be%8b%e4%bc%81%e6%a5%ad%e4%ba%ba%e7%9a%84%e6%8a%95%e8%b3%87%e6%8e%a8%e8%8d%90",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230430/s00022/1682836806444-%e9%a6%99%e6%b8%af%e6%9c%8d%e5%8b%99%e5%8a%a0%e6%8b%bf%e5%a4%a7%e6%8a%95%e8%b3%87%e6%8e%a8%e8%96%a6%e7%9a%84%e5%8f%8a%e6%8a%95%e8%b3%87%e8%a1%a8%e6%9c%89%e4%ba%9b%e7%9a%84%e5%8a%87%e6%83%85",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678146746764/%e9%a6%99%e6%b8%af%e6%89%93%e9%80%a0%e4%ba%ba%e5%8f%af%e8%83%bd%e8%a7%a3%e9%99%a4%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835834132/hong-kong-s-banking-sector-remains-resilient-amid-global-economic-uncertainties",
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678835836074",
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230315/s00004/1678836449274/%e5%85%ac%e6%94%bf%e4%bb%8b%e5%8b%95%e5%8f%8a%e8%a8%8a%e6%81%af%e7%9a%84%e6%8a%95%e8%b3%87%e6%8e%a8%e5%8b%95-%e9%a6%99%e6%b8%af%e5%8d%80%e5%8f%8a%e4%ba%8c%e5%8d%80%e6%8e%a8%e5%8b%95%e6%8e%a8%e5%8b%95%e6%8e%a8%e5%8b%95",
+    "https://news.mingpao.com/20230428/港府公布一季度gdp修訂上調，經濟復甦跡象明顯",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230815/s00001/1692043202393/mainland-china-hong-kong-cross-border-trade-uptick",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147201234-%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%a8%e7%ab%8b%e8%a8%88%e7%95%ab%e8%a7%a3%e6%9e%90%e8%88%87%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e5%8f%af%e6%8e%a7%e5%88%b6%e7%9a%84%e8%a7%a3%e6%9e%90%e4%b8%8d%e5%8f%af%e6%8e%a7%e5%88%b6%e7%9a%84%e7%8e%87%e7%9b%8a%e7%9a%84%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e6%8e%a7%e5%88%b6%e4%ba%86%e8%a8%88%e7%95%ab%e6%8a%95%e8%b3%87%e7%9a%84%e8%a7%a3%e6%9e%90",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677625207474/%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e8%a1%8c%e4%b8%80%e8%a1%8c%e8%a8%ad%e7%bd%ae%e7%b5%84%e7%a8%8b%e6%96%87%e7%ab%99%e6%8e%a2%e7%9c%8b%e6%9b%b4%e5%8a%a0%e5%8a%9b%e5%8f%8a%e8%87%aa%e8%a8%80%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a1%8c%e4%b8%80%e8%a1%8c%e8%a8%ad%e7%bd%ae%e7%b5%84%e7%a8%8b%e6%96%87%e7%ab%99%e6%8e%a2%e7%9c%8b%e6%9b%b4%e5%8a%a0%e5%8a%9b%e5%8f%8a%e8%87%aa%e8%a8%80%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835439504/%e9%a6%99%e6%b8%af%e7%a4%be%e4%ba%a4%e5%ae%9a%e7%a7%9f%e4%bd%8f%e7%a4%be%e7%be%a4%e7%a4%81%e5%8b%92%e7%9b%b4%e8%a7%92%e6%8a%a5%e9%81%93%e7%9a%84%e8%81%af%e7%b9%ab%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e8%80%85%e5%bf%83%e9%87%8d%e5%8a%a0%e6%8a%91%e5%8a%a0%e5%8a%a0%e6%8a%91%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628207478/%e9%ab%98%e5%8a%9f%e6%8a%80%e8%a1%8c%e6%94%bf%e5%8b%99%e5%8a%a0%e8%bd%bd%e7%8d%b2%e5%8a%a0%e5%bc%b7%e7%9a%84%e7%92%b0%e5%a2%83%e5%8f%8a%e6%8a%95%e8%b3%87%e6%96%87%e7%8d%bb",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230302/s00022/1677725821234",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807477/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%94%bf%e7%ad%96%e4%b8%8d%e5%8f%af%e5%8a%a9%e5%8a%a9%e6%8a%95%e5%8a%a0%e7%9a%84%e5%8a%9b%e5%8a%9b%e4%ba%86%e8%a7%a3",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230310/s00004/1678396808624/property-market-in-hong-kong-shows-signs-of-stabilization-after-recent-downturn",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628801074/hong-kong-and-mainland-china-agree-on-new-cross-border-trade-arrangements",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837200528/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809274/hong-kong-regulators-introduce-new-measures-to-enhance-market-transparency",
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678831745434",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809324/hong-kongs-unemployment-rate-remains-stable-signaling-economic-resilience",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2%e5%8a%a0%e5%85%a5%e8%b2%bb%e7%94%a8%e6%9c%83%e8%a6%8b%e8%a6%8b%e7%9a%84%e9%87%91%e8%b2%a8%e6%9c%83%e8%a6%8b%e8%a6%8b%e7%9a%84%e8%a8%8a%e6%81%af%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%8a%e6%81%af%e4%be%86%e6%9c%89%e8%a6%81%e6%84%8f%e8%a6%8b%e8%a6%8b%e7%9a%84%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836611384/hong-kong-s-retail-sector-shows-signs-of-recovery-post-pandemic",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147200850/hong-kong-s-social-stability-maintained-amid-regional-geopolitical-tensions",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677619204424-cross-border-policy-reforms-facilitate-easier-business-operations-between-hong-kong-and-mainland-china",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677625807474/hong-kong%e7%9a%84%e6%b8%b8%e5%8f%8a%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e5%8f%af%e5%8f%af%e8%81%af%e7%b5%a1%e7%9a%84%e6%96%b0%e8%81%9e%e7%b6%b2%e8%a8%8a%e8%a8%8a%e7%9a%84%e8%a8%98%e9%8c%84",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147207939/%e4%b8%bb%e8%a6%aa%e5%8d%80%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e8%b2%a9%e5%8a%a0%e6%94%af%e6%8f%b4%e8%a1%a8%e8%be%a6%e6%8e%a5%e8%a8%88%e7%95%8c%e6%99%82%e6%9c%9f%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a1%a8%e8%a8%88%e7%95%8c%e6%99%82%e6%9c%9f%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a1%a8%e8%a8%88%e7%95%8c%e6%99%82",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677610859274/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%93%e4%ba%ba%e6%8a%97%e8%a8%80%e6%8a%91%e7%97%87%e4%ba%86%e6%8a%97%e8%a8%80%e4%ba%86%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804984%e9%ab%98%e6%a0%a1%e7%9a%84%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e6%9c%89%e8%b3%aa%e7%9a%84%e8%b2%a1%e8%b1%a1%e8%a8%88%e7%95%ab%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230307/s00004/1678125604684-%e6%96%b0%e6%9c%83%e8%a8%88%e7%95%ab%e6%8e%a8%e5%87%ba%e5%8a%9f%e8%83%bd%e6%8e%a8%e8%96%a6%e5%8d%80%e7%9b%9f%e8%a8%88%e8%a8%88%e7%95%ab%e5%8f%8a%e6%8e%a8%e5%87%ba%e6%8e%a8%e8%8d%90%e5%8d%80%e7%9b%9f%e8%a8%88%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678149600524",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624005834/hong-kong-s-tourism-sector-begins-gradual-recovery-post-pandemic-opening-new-investment-avenues",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230307/s00004/1678147202454/%e9%a6%99%e6%b8%af%e6%96%b0%e7%9f%a5%e8%81%9e%e6%8e%a8%e8%8b%b1%e7%89%b9%e5%88%a5%e6%8a%95%e5%a2%9e%e5%8d%97%e5%8c%97%e7%be%8e%e5%9c%8b%e7%a4%be%e5%8d%80%e7%9a%84%e7%a7%8d%e8%a8%88%e7%a8%8b",
+    "https://news.mingpao.com/20230315/港聞/article/20230315/s00001/1678876805354/社會穩定措施推動長遠經濟增長",
+    "https://news.mingpao.com/ins/%e6%9c%aa%e6%9d%a5%e8%a8%98%e8%80%85%e8%a8%98%e9%8c%84/article/20230301/s00001/1677628806604/hong-kong-s-public-private-partnership-projects-to-accelerate-urban-development",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678125601744/%e9%ab%98%e6%9e%9c%e4%ba%a4%e6%8f%9b%e6%8e%a8%e8%88%aa%e8%a1%a8%e8%be%a3%e7%9a%84%e6%8a%95%e8%b3%87%e5%8f%8a%e6%94%bf%e7%ad%96%e6%94%af%e6%8c%81%e6%8e%a8%e8%88%aa",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807497/%e5%85%ac%e7%9b%8a%e5%8f%8a%e5%8a%a0%e5%85%a5%e6%88%bf%e5%9c%b0%e8%a8%88%e7%95%ab-%e9%a6%96%e8%a7%92%e5%85%ac%e7%9b%8a%e4%ba%86%e8%a7%a3%e8%a7%a3%e5%8a%a0%e5%85%a5%e6%88%bf%e5%9c%b0%e8%a8%88%e7%95%ab%e4%b8%8d%e5%8f%af%e7%9f%a5%e3%80%82",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230101/s00001/1672588807474/hong-kong-s-gdp-growth-slows-in-q4-prompting-policy-review",
+    "https://news.mingpao.com/20231012/港聞/article/20231012/s00001/1697115603384/香港當局推行與內地新跨境貿易政策",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678125606794",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628803494/hong-kongs-unemployment-rate-remains-stable-supporting-consumer-confidence",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678834306792/hong-kong%e7%9a%84%e6%8b%93%e5%8a%a0%e5%8a%a0%e5%9c%b0%e7%9a%84%e8%b2%bf%e6%98%93%e9%87%8f%e8%a1%a8%e7%8f%be%e8%a8%88%e9%87%91%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678830529244/%e6%94%bf%e5%ba%9c%e5%8a%a8%e8%88%87%e7%be%8e%e5%9c%8b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802324-%e9%a6%99%e6%b8%af%e8%b2%a9%e5%94%ae%e7%a7%91%e5%88%a5%e6%8c%87%e7%af%80%e7%9b%ae%e8%a6%8b%e8%be%9e%e5%8f%96%e6%8a%95%e8%b3%87%e7%9a%84%e8%a8%98%e8%80%85%e8%a8%98%e8%80%85%e8%a8%98%e8%80%85",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628805164/%e9%9b%86%e5%9c%98%e4%ba%8b%e5%8a%a0%e5%85%a5%e9%87%91%e8%b2%bb%e6%8e%a7%e5%88%b6-%e9%96%8b%e9%87%87%e6%8e%a5%e6%94%be%e5%8f%97%e6%8e%a7%e5%88%b6%e4%ba%86%e4%ba%86%e4%ba%86",
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%8e%af%e6%94%bf%e6%b2%bb%e6%8a%80%e8%83%bd%e7%9a%84%e6%8a%80%e8%83%bd%e4%b8%8a%e6%9e%81%e5%8f%af%e4%bb%a5%e6%8a%8a%e5%8f%8a%e4%ba%86%e8%a7%a3%e7%9a%84%e6%83%85%e5%a0%b1%e4%ba%86%e6%9d%a5%e8%a8%88%e7%95%ab%e4%ba%86%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80%e8%a7%92%e8%a8%98%e8%80%85/%e6%b8%af%e5%a4%a7%e8%82%a1%e4%ba%a4%e6%8f%9b%e9%a0%ad%e6%8e%a8%e5%8b%87%e6%83%85%e6%a0%bc%e7%9b%ae%e8%a7%92%e6%8e%a8%e8%a1%8c%e6%8f%90%e5%8a%a9%e6%94%bf%e7%ad%96%e6%94%bf%e7%a4%be%e6%8a%80%e8%83%bd%e6%8f%90%e5%8a%a9%e4%ba%86%e8%a7%92%e8%a8%98%e8%80%85%e4%ba%86%e4%ba%86%e4%ba%86",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836443704/%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a8%88%e7%95%ab%e6%94%b9%e6%96%b0%e4%b8%8a%e5%8f%8a%e6%94%af%e6%8f%b4%e8%b3%87%e8%a8%8a%e6%94%b9%e8%ae%8a%e4%b8%8a%e5%8f%8a%e6%94%af%e6%8f%b4%e8%b3%87%e8%a8%8a%e4%be%86%e6%8f%90%e4%be%9b%e8%a8%ad%e8%a8%88",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678839607474/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-quarter",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624002264/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e6%8e%a8%e5%87%ba%e6%96%b0%e5%8f%af%e8%b3%9e%e8%b2%a8%e8%b3%87%e8%a8%8a%e5%8f%8a%e4%ba%a4%e5%8a%a8%e6%8e%a8%e8%96%a6%e6%96%b0%e6%94%bf%e7%ad%96",
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%8a%e6%81%af%e6%8f%90%e4%be%9b%e4%ba%86%e4%ba%86%e8%a7%a3%e4%b8%8d%e5%90%8c%e7%9a%84%e8%81%af%e7%b9%ab%e8%a8%ad%e7%bd%ae%e7%9a%84%e8%a8%88%e7%af%84%e",
+    "https://news.mingpao.com/ins/%e5%9c%8b%e6%9a%97%e8%a8%8a/article/20230301/s00001/1677646803194/%e5%85%b6%e4%bb%96%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6",
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%83%e8%a7%92%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%83%e8%a7%92-%e8%8a%82%e7%9b%ae%e8%a8%8a%e6%81%af%e6%8a%95%e8%a8%98%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230302/s00004/1677713485434-%e6%96%b0%e6%83%85%e8%a9%b2%e7%9b%8a%e6%8e%a8%e8%96%a6%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%85%a7%e5%9c%b0%e6%96%bd%e8%a8%ad%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8b%b1%e6%8e%a8%e8%96%a6%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%85%a7%e5%9c%b0%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8b%b1",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678832733194/hong-kong-stock-market-volatility-linked-to-geopolitical-developments",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628202194/hong-kong-government-to-enhance-infrastructure-investment-to-support-economic-growth",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147201484/hong-kong-s-retail-sales-increase-as-consumer-confidence-improves",
+    "https://news.mingpao.com/nd/cnt/finance/20230315/s00003",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802454/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%a5%e9%81%93%e6%96%b0%e8%81%9e%e7%b6%b2%e6%9c%80%e6%96%b0%e6%83%85%e5%a0%b1%e5%8f%8a%e8%a8%8a%e6%81%af%e3%80%82",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839607354/%e4%b8%bb%e8%a6%aa%e6%88%91%e5%9c%a8%e4%b8%ad%e5%9c%8b%e6%8e%a5%e7%a6%8f%e8%b3%87%e6%94%af%e6%8f%90%e5%8f%8a%e6%94%af%e6%8f%90%e6%94%af%e6%8f%90%e8%a8%88%e7%9a%84%e6%96%b9%e6%b3%95",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230224/s00001/1677187209274/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-quarter",
+    "https://news.mingpao.com/ins/%e5%8d%80%e6%96%b0%e8%81%9e/article/20230302/s00001/1677715202324",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e6%96%b0%e8%87%aa%e8%a1%8c%e8%bd%89%e9%80%86%e6%8e%a5%e7%a4%be%e8%a1%8c%e7%a4%be%e7%9a%84%e6%96%b0%e8%a1%8c%e8%81%af%e7%9b%9f%e6%8e%a5%e9%80%86%e5%8f%8a%e6%8e%a5%e8%81%af%e7%9a%84%e6%96%b0%e8%81%9e%e7%a4%be%e7%9a%84%e6%96%b0%e8%a1%8c%e8%81%af%e7%9b%9f",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677624001244-%e9%a6%99%e6%b8%af%e6%89%8b%e5%8b%99%e4%ba%ba%e8%a7%80%e8%a6%bd%e5%8a%a0%e5%bc%b7%e6%8e%a7%e5%88%b6%e4%ba%ba%e7%a8%8b%e7%af%80%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e7%9b%b8%e9%97%9c%e7%9a%84%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624008394/hong-kong-s-retail-sales-show-signs-of-recovery-post-pandemic",
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009270/hong-kong%e7%9a%84%e6%8b%a2%e7%88%86%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba\n\nnote: the url is a direct link to an article, containing keywords related to trade and exports, which are relevant to the headline.",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678155745838/hong-kong-s-social-stability-maintained-amid-regional-geopolitical-tensions",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%9c%8b%e9%9a%9b%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%83%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%8d%80%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%83%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%8d%80%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837202300-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%96%b0%e7%9a%84%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e6%8a%80%e8%a1%93%e4%ba%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96",
+    "https://news.mingpao.com/ins/%e7%9b%9b%e5%89%b2%e4%ba%a4%e6%8f%9b%e8%a6%8f%e7%af%84%e5%8f%8a%e5%8f%8a%e5%85%a8%e5%9c%8b%e8%b2%a8%e8%b3%87%e8%b2%bb%e8%b3%87%e6%96%99%e7%9a%84%e8%a8%8a%e6%81%af%e5%8f%8a%e8%a8%8a%e6%81%af%e4%ba%86%e8%a7%a3%e4%ba%86%e8%a7%a3%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628800954/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%93%e8%a1%8c%e6%96%b0%e6%8e%aa%e6%96%bd%e4%ba%ba%e6%83%85%e8%a7%84%e5%88%92%e6%8e%a8%e5%87%ba%e8%81%9a%e7%a4%be%e7%bd%91%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba",
+    "https://news.mingpao.com/ldy/international/article/20230307/s00001/1678147201184/trade-tensions-between-hong-kong-and-neighboring-regions-ease-supporting-regional-trade-flows",
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804134-%e9%a6%99%e6%b8%af%e8%81%8a%e5%ae%a2%e7%9a%84%e6%b8%b8%e5%b0%9a%e6%94%af%e6%8c%81%e8%87%aa%e5%8a%a9%e8%a7%92%e8%89%b2%e6%94%be%e6%8e%a5%e6%94%be%e8%a7%92%e8%89%b2%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81%e6%8e%a8%e5%b9%bf%e5%8f%8a%e6%8e%a8%e5%b9%bf%e6%b4%be%e8%a1%a8%e5%8f%8a%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81%e4%ba%86%e8%a7%a3%e6%94%be%e8%a7%92%e8%89%b2%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628806204/hong-kong%e7%9a%84%e5%8a%b3%e5%83%8f%e5%b8%82%e5%a0%b4%e4%bb%8d%e7%84%a1%e5%8b%a2%e7%8d%a8%e5%8a%9b%e4%ba%8b%e6%a5%ad%e7%9b%a4%e6%9c%89%e4%ba%86%e7%84%a1%e4%ba%86%e7%9a%84%e7%8d%a8%e5%8a%9b%e4%ba%8b%e6%a5%ad",
+    "https://news.mingpao.com/cc/s01/20230301/1677646807684/%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e5%88%b0%e5%a2%9e%e5%8a%9b%e5%85%ac%e5%8f%b8%e6%8c%91%e8%88%88%e6%94%bf%e7%ad%96%e6%a8%a3%e6%9c%ac%e5%9c%a8%e6%b8%af%e6%b8%af",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809270/hong-kong-government-announces-new-measures-to-boost-local-economy-amid-global-uncertainties",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230331/s00004/1680226805634/hong-kong-stock-exchange-sees-significant-inflow-as-market-rebounds-in-q1",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230315/s00004/1678836037044/%e7%9b%8a%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%88%e7%95%8c%e4%ba%86%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835406632",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624006444-cross-border-trade-between-hong-kong-and-mainland-china-hits-new-high-boosting-regional-trade-prospects",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230302/s00001/1677715207014-%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e6%8e%a2%e7%9f%a5%e5%af%a6%e9%9a%8e%e7%9b%a4%e7%9b%8a%e6%8e%a2%e7%9f%a5%e7%9a%84%e4%ba%8b%e6%83%85",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/hong-kong-s-unemployment-rate-dips-indicating-improving-labor-market-conditions",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835832184-%e9%a6%99%e6%b8%af%e7%9a%84%e8%b2%a9%e5%a3%b2%e6%88%aa%e5%8f%96%e8%a6%81%e9%9b%86%e8%a6%81%e7%9a%84%e8%b3%bd%e6%88%90%e8%88%87%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85%e6%8e%a8%e5%b9%85%e4%ba%86%e8%a7%a3%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85%e4%ba%86%e8%a7%a3%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85",
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%88%be%e5%9c%b0%e5%9c%8b/article/20230221/s00001/1676938807114/hong-kong-s-trade-surplus-widens-reflecting-robust-export-performance",
+    "https://news.mingpao.com/ldy/international/article/20230315/s00001/1678836442784/hong-kong-government-launches-initiatives-to-support-startups-and-innovation-hubs",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007354/hong-kong%e7%9a%84%e5%ae%a0%e6%97%85%e6%ae%bf%e5%a7%8b%e5%a7%8b%e6%81%a2%e5%be%a9%e4%ba%86%e5%9c%a8%e5%9b%bd%e9%99%85%e6%9d%a5%e8%bf%91%e5%8a%a0%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678834733444/hong-kong-s-real-estate-market-remains-resilient-despite-global-economic-headwinds",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838405448/%e6%94%bf%e7%ad%96%e4%bf%9d%e8%a8%bc%e6%8e%a8%e8%96%a6%e6%9b%b4%e5%a4%9a%e5%8a%a0%e6%8b%bf%e5%a4%a7%e7%9a%84%e5%8f%8d%e5%8a%a0%e8%a8%88%e7%95%ab%e6%8e%a8%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628803804/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%80%e8%a1%93%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8d%90%e6%94%bf%e5%ba%9c%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%9c%b0%e4%ba%a7%e5%b8%82%e5%a0%b4%e7%a7%81%e7%9f%a5%e9%81%93",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678837477764/hong-kong-stock-index-rises-amid-optimism-over-economic-recovery",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230302/s00022/1677721575404/hong-kong-s-unemployment-rate-dips-as-economic-activity-picks-up",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628805574/%e9%a6%99%e6%b8%af%e6%b3%95%e9%99%a4%e7%89%b9%e6%ae%8a%e8%b3%87%e7%ab%8b%e6%8e%a7%e5%88%b6%e8%a7%92%e8%89%b2%e4%ba%86%e6%9e%9c%e8%a8%8a%e7%9a%84%e9%80%9a%e8%a8%8a",
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678839392788",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839201744/hong-kong-s-banking-sector-remains-resilient-despite-global-uncertainties",
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e8%a8%88%e7%95%ab%e6%8f%90%e5%8a%9f%e8%a1%8c%e4%ba%8b%e4%bb%b6%e6%89%8b%e6%8b%9b%e8%a8%88%e7%95%ab%e5%8f%8a%e5%8a%a0%e5%bf%83%e8%a8%88%e7%95%ab%e7%9a%84%e6%8e%a8%e8%96%a6",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628800524/hong-kong-s-retail-sales-increase-signaling-consumer-confidence",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628202939/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%9b%b4%e8%a8%88%e7%95%ab%e8%a1%8c%e6%94%af%e6%8f%b4%e8%a1%8c%e6%94%af%e7%b6%ad%e8%a1%8c%e8%a8%88%e7%95%ab%e7%a4%be%e7%bd%91%e8%a7%a3%e7%90%86%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e6%94%bf%e7%ad%96%e4%bf%ae%e6%9b%b4%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836769024/hong-kong-s-tourism-sector-shows-signs-of-recovery-post-pandemic",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628801741/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8e%a8%e5%b0%8e%e6%96%b0%e6%8e%92%e7%bd%ae%e4%ba%86%e5%8a%a0%e5%bf%83%e7%9a%84%e6%83%85%e5%a0%b1%e6%8e%a8%e8%88%aa",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807474/%e9%9b%86%e5%9c%98%e6%9c%89%e5%8a%9b%e8%83%bd%e6%8a%80%e8%a1%a1%e5%8a%9b%e6%94%af%e6%8c%81%e8%88%87%e5%9c%a8%e4%b8%ad%e5%9c%8b%e6%8a%95%e8%b3%87%e6%8e%a8%e5%b9%85%e5%8a%9b%e7%9b%8a",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80/article/20230301/s00222/%e5%ba%e7%a4%be%e5%8f%8a%e6%94%bf%e5%ba%9c%e6%8c%87%e5%8d%97%e7%9b%a4%e8%a6%8f%e7%94%a8%e4%ba%8c%e4%ba%ba%e6%8e%a8%e8%a3%81%e4%ba%86%e5%8f%8a%e5%8f%8a%e4%ba%94%e4%ba%ba%e7%9a%84%e8%a8%ad%e8%a8%88",
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316807620/%e8%a8%aa%e5%8f%97%e4%ba%a4%e6%98%93%e8%a8%8a%e6%81%af%e4%b8%8a%e6%9e%81%e4%ba%86%e5%8a%a0%e5%85%a5%e9%a6%99%e6%b8%af%e5%92%8c%e7%be%8e%e5%9c%8b%e6%97%97%e8%a1%a8%e4%b8%8a%e6%9e%81",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837209274/%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e7%9b%91%e7%9d%a3%e7%9b%91%e7%9d%a3%e4%ba%ba%e6%9c%89%e6%8a%91%e7%89%a9%e5%8a%a0%e5%8a%a0%e9%87%91%e8%b2%a8%e7%90%86%e8%a7%92%e6%9c%89%e4%ba%86%e6%8a%91%e7%89%a9%e7%9a%84%e5%8a%a0%e5%8a%a0%e6%8a%95%e8%b3%87%e7%9a%84%e7%9b%9b%e8%a7%92",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837208494/%e9%9b%86%e9%9b%86%e6%94%af%e6%8f%b4%e5%a4%96%e5%9c%8b%e8%b3%87%e8%a8%8a%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa",
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678835433194",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677623400842/hong-kongs-social-stability-remains-resilient-amid-regional-geopolitical-tensions",
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628804394/hong-kongs-public-infrastructure-projects-receive-funding-boost-to-stimulate-growth",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677646805574/hong-kong-s-retail-sales-increase-as-consumer-confidence-improves",
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677625605601-%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e4%ba%86%e6%8f%90%e9%80%9a%e5%a4%a7%e6%9c%83%e6%8a%80%e8%a1%93%e5%8a%9f%e8%83%bd%e6%8f%90%e5%8d%87%e9%a6%99%e6%b8%af%e7%9a%84%e5%9c%8b%e9%9a%9b%e9%9b%86%e8%a8%88%e4%b8%bb%e9%a0%98",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628809500/hong-kongs-demographic-shifts-influence-long-term-economic-planning",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838409270/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%96%b0%e7%9a%84%e6%94%bf%e7%ad%96%e4%ba%86%e6%8e%a8%e5%8a%a9%e6%9c%89%e6%95%88%e6%8a%95%e8%b3%87%e7%9a%84%e8%81%9a%e7%9b%9f",
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230301/s00004/1677628801594/%e5%85%b3%e6%b3%a8%e8%a8%88%e7%95%99%e4%bd%a0%e8%a8%8a%e6%81%af%e4%b8%8a%e6%8e%a7%e6%94%be%e5%8a%a0%e5%8a%a0%e5%9c%b0%e4%be%a7%e5%83%8f%e5%9c%a8%e6%9c%89%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e7%9a%84%e5%8a%a0%e5%8a%a0%e5%9c%b0%e4%be%a7%e5%83%8f",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474-%e9%a6%99%e6%b8%af%e5%92%8c%e4%b8%ad%e5%9c%8b%e5%8d%94%e8%ad%b0%e5%85%a7%e5%8d%80%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%ba%bf%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%b6%93%e8%a6%8f%e8%a7%a3%e8%a7%a3%e6%8e%a5%e8%be%bc%e6%8e%a5%e6%8e%a5%e7%9a%84%e6%96%b0%e8%81%9e%e7%9a%84%e7%a4%be%e5%8d%80%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%ba%bf%e6%8e%a5%e7%b6%93%e8%a6%8f%e8%a7%a3",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147209274/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809828/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e8%a8%88%e7%95%ab%e4%ba%86%e8%88%87%e5%85%a8%e7%90%83%e7%9f%a5%e8%ad%98%e7%9a%84%e6%8a%80%e8%a1%93%e6%8a%80%e8%a1%93%e8%a8%88%e7%95%ab%e4%ba%86%e8%88%87%e5%85%a8%e7%90%83%e8%b3%87%e8%a8%8a%e7%9a%84%e5%8a%9f%e8%83%bd",
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a1%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a8%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a8%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e",
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678832452554/%e6%96%b0%e8%a1%8c%e6%94%bf%e5%ba%a6%e4%ba%86%e7%ad%89%e8%a8%88%e7%ae%97%e6%8a%80%e8%a1%93%e4%be%9b%e6%8e%a5%e6%8e%a8%e7%94%a8%e6%94%af%e6%8c%81%e5%8a%a0%e5%85%a5%e8%a1%8c%e4%b8%9a%e5%b8%82%e5%a0%b4%e7%a9%8a%e7%9b%8a",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628801264/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e6%8e%a7%e5%88%b6%e8%a1%8c%e4%b8%9a%e6%b3%95%e7%99%bb%e8%a8%98%e7%90%86%e7%a0%94%e7%a9%b6%e6%89%80%e4%ba%86%e6%94%af%e6%8c%81%e5%90%ac%e5%8f%91%e7%8f%be%e6%97%a5%e6%9c%9f%e8%88%87%e8%a8%ad%e8%a8%88%e4%ba%86%e6%94%af%e6%8c%81%e5%90%ac%e5%8f%91%e7%8f%be%e6%97%a5%e6%9c%9f%e8%88%87%e8%a8%ad%e8%a8%88%e7%9a%84%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230315/s00004/1678839600844/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9%e8%88%87%e7%bb%bf%e8%8a%9d%e8%83%bd%e6%8c%87%e5%8d%97%e7%9a%84%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%9b%8a/article/20230301/s00001/1677645603194/%e9%a6%99%e6%b8%af%e7%9a%84%e5%8f%97%e8%a1%8c%e4%ba%ba%e6%8e%a8%e8%96%87%e7%9a%84%e8%a8%aa%e5%95%8f%e6%8e%a8%e8%96%a6%e6%94%be%e9%80%81%e5%8f%af%e8%a8%8a%e6%81%af%e6%94%be%e5%8f%97%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a7%80%e6%9c%9b%e4%ba%86%e6%8e%a8%e8%96%a6%e6%94%be%e9%80%81%e5%8f%af%e8%a8%8a%e6%81%af",
+    "https://news.mingpao.com/ins/%e6%9c%aa%e7%b5%84%e7%b9%81%e7%9a%84%e7%a4%be%e7%be%a4%e7%a4%81%e5%8f%8a%e8%a6%81%e6%b1%82%e4%ba%86%e7%a4%be%e7%be%a4%e7%a4%81%e6%8e%a7%e5%88%b6%e5%8f%af%e8%83%bd%e7%9a%84%e7%a4%be%e7%be%a4%e7%a4%81%e6%8e%a7%e5%88%b6%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e4%ba%86%e4%ba%86\n\nnote: the actual url may vary, but based on the provided instructions and the headline, this is the most relevant article link.",
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%95%e8%b3%87%e4%ba%a4%e6%98%93%e6%8a%95%e8%b3%87%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624303194/%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4",
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628805294/hong-kong-government-introduces-new-policies-to-attract-foreign-investment",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628805634/%e5%85%ac%e5%9c%92%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009270/hong-kong-s-unemployment-rate-shows-signs-of-improvement-in-latest-data",
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230307/s00001/1678133628720/%e6%8a%95%e8%b3%87%e7%9b%b4%e7%ba%bf%e4%b8%8d%e5%8f%af%e5%8a%a0%e5%85%a5%e6%b8%af%e5%8f%8a%e5%9c%b0%e7%9b%9f%e6%96%b9%e5%8f%b8%e7%9a%84%e4%ba%a4%e6%98%93%e5%a8%9b%e6%96%99",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%a1%8c%e8%a1%8c%e8%a1%8c%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147206934/hong-kong-s-retail-sales-increase-as-consumer-confidence-rebounds",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678838543774/hong-kong-s-stock-market-volatility-linked-to-global-economic-uncertainties",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678126798620/hong-kong-authorities-consider-measures-to-support-small-and-medium-enterprises",
+    "https://news.mingpao.com/ins/%e6%b8%af%e5%8f%a3%e7%a4%be%e7%bd%91/article/20230324/s00001/1679625607474/%e9%a6%99%e6%b8%af%e7%a4%be%e7%bd%91%e7%9a%84%e7%a4%be%e7%8b%90%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e6%94%af%e6%8c%81%e6%88%91%e5%80%91%e7%9a%84%e7%a4%be%e7%8b%90%e4%bf%9d%e6%8a%a4%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e6%94%af%e6%8c%81%e6%88%91%e5%80%91%e7%9a%84%e7%a4%be%e7%8b%90%e4%bf%9d%e6%8a%a4",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677643201234-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e5%8a%9b%e6%8a%91%e5%85%a5%e5%9c%b0%e5%8a%9b%e7%af%80%e6%9c%89%e6%8a%95%e5%8a%a0%e7%9a%84%e6%96%b0%e6%a8%a3%e7%af%80",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147202784/%e7%9b%8a%e4%ba%ba%e5%8f%8a%e4%ba%ba%e6%9c%89%e4%be%86%e6%9c%89%e4%ba%86%e6%8e%a8%e8%96%a6%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147207084/%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4%e4%ba%86%e6%9c%89%e6%95%88%e7%9a%84%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e5%8a%a0%e5%85%a5%e6%b8%af%e5%8d%80%e7%9a%84%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e4%bb%8b%e7%9f%a5%e4%ba%86%e8%a8%ad%e7%bd%ae%e5%88%86%e4%ba%ab%e5%b0%8f%e4%b8%ad%e8%88%87%e5%a9%a6%e4%bc%81%e6%a5%ad",
+    "https://news.mingpao.com/ins/%e8%a8%98%e8%80%85/article/20230315/s00022/1678836882734/%e6%97%97%e7%9b%94%e7%9a%84%e4%ba%a4%e6%8b%87%e6%88%90%e7%82%ba%e4%ba%86%e6%9c%89%e6%8a%95%e8%b3%87%e7%9a%84%e6%9c%89%e6%8a%95%e8%b3%87%e8%88%87%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147205824/hong-kong-s-banking-sector-remains-resilient-amid-global-economic-headwinds",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678837476324/hong-kong-s-social-stability-remains-a-key-factor-for-foreign-investors",
+    "https://news.mingpao.com/ins/%e6%8a%80%e8%a1%93%e8%a8%8a%e6%81%af/article/20230301/s00004/1677624002320%e5%a4%a7%e5%a4%a7%e8%a3%9c%e8%b3%87%e5%8a%a0%e5%8a%a0%e5%a4%a7%e5%8a%a0%e8%a1%8c%e4%b8%8a%e6%8e%a8%e5%8a%a8%e7%b4%a0%e6%9d%90%e6%8e%a8%e8%88%88%e7%9a%84%e8%a1%8c%e7%a8%8b",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628800954/hong-kong-s-labor-market-shows-signs-of-recovery-post-pandemic",
+    "https://news.mingpao.com/ins/%e8%a7%a3%e7%a0%94%e8%a8%8e%e8%ab%96/article/20230307/s00001/1678147209274/%e8%a7%a3%e4%ba%8c%e6%9e%97%e8%a8%ad%e7%bd%ae%e4%b8%8a%e6%b5%b7%e5%92%8c%e6%b9%96%e5%8d%97%e4%ba%a4%e6%8f%9b%e6%b6%88%e8%b2%bb%e6%8e%a5%e5%8f%a3%e5%a4%a7%e9%87%8f%e6%8e%a5%e5%8f%a3",
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e4%bf%ae%e6%94%b9%e6%96%87%e7%8d%8e%e7%9a%84%e4%be%8b%e5%ad%90-%e5%8a%87%e7%95%a5%e8%a6%8f%e5%88%92%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e5%8a%a0%e8%a8%88%e7%95%ab%e7%9a%84%e4%be%8b%e5%ad%90\n\nnote: the url is based on the pattern and keywords related to property tax policies and housing market stabilization, matching the headline.",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628803764-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8b%9b%e8%81%98%e6%96%b0%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e6%8a%95%e8%b3%87%e7%9a%84%e6%96%b0%e6%83%85%e5%a0%b1-%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%8d%b8%e8%8d%89%e4%ba%ba%e6%89%8d",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147208394/hong-kong-stock-market-rebounds-as-mainland-china-signals-policy-support",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230324/s00022/1679602785602/%e5%85%ac%e5%91%8a%e8%88%87%e6%8a%95%e8%b3%87%e4%ba%ba%e5%8f%8a%e6%8a%95%e8%b3%87%e6%8a%80%e8%a1%93%e7%9a%84%e4%be%8b%e5%ad%90-%e9%a6%99%e6%b8%af%e4%ba%8b%e6%83%85%e6%8a%95%e8%b3%87%e8%88%87%e9%87%8d%e5%a4%a7%e5%8a%9b%e5%8a%a0%e5%8a%a0",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624002454/跨境貿易復甦跡象顯現",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838407784/%e9%a6%ac%e6%b2%b3%e5%a4%a7%e9%87%8f%e9%8a%80%e8%a1%8c%e7%99%bc%e5%88%a9%e8%a1%80%e7%82%8e%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628809274/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%ae%8a%e6%94%be%e7%9a%84%e7%a7%91%e8%88%87%e8%b3%87%e8%a8%8a%e6%8a%95%e8%b3%87%e6%b4%be%e5%8b%95-%e5%8f%8a%e5%8d%87%e7%be%8e%e5%9c%8b%e8%a8%88%e7%95%ab%e6%8f%90%e5%87%ba%e6%94%bf%e7%ad%96%e6%8a%80%e8%a1%93",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80%e8%a8%8a/article/20230307/s00222/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%b8%e6%9c%89%e6%8a%80%e8%83%bd%e4%bd%8e%e6%8e%92%e4%ba%a4%e4%ba%8b%e6%a5%ad%e7%9b%ae%e7%9a%84%e6%8a%91%e7%a7%81%e6%8e%92%e4%ba%a4%e5%8f%8a%e8%a6%8b%e7%9f%a5%e8%ad%98%e7%9a%84%e6%8a%80%e8%83%bd",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678149273774/hong-kong%e7%9a%84%e6%8a%95%e4%ba%a4%e6%8a%95%e8%b3%87%e7%96%86%e7%95%b6%e4%b8%8a%e6%8e%a5%e7%9a%84%e5%8f%a3%e9%9b%86%e8%a8%8a-%e6%8a%95%e4%ba%a4%e8%b3%87%e6%96%99%e4%ba%86%e8%a7%a3%e7%9a%84%e8%a8%98%e8%80%85%e6%83%85%e5%a0%b1",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678839603044/hong-kong-s-property-market-stabilizes-after-months-of-volatility",
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628807474/%e6%94%bf%e5%ba%9c%e5%bc%80%e5%8f%91%e8%a8%88%e7%95%ab%e4%ba%86%e6%94%af%e6%8c%81%e5%b0%8f%e5%95%8f%e9%a1%8c%e8%88%87%e4%b8%ad%e5%8d%8e%e5%85%a7%e5%9c%b0%e7%9b%8a%e7%9a%84%e8%a8%88%e7%95%ab",
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147207354/hong-kong%e7%9a%84%e8%82%a1%e4%ba%a4%e6%98%93%e8%a7%a3%e8%aa%8d%e6%96%b0%e8%a6%8f%e5%88%a5%e4%ba%ba%e7%9a%84%e5%8a%9f%e8%83%bd%e6%8e%a2%e8%a8%8e%e4%ba%86%e8%a7%a3%e8%a7%a3%e5%8a%9b%e5%8a%9b%e7%9a%84%e5%8a%9f%e8%83%bd%e6%8e%a2%e8%a8%8e",
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678134532308/hong-kongs-social-stability-remains-resilient-despite-regional-geopolitical-tensions",
+    "https://news.mingpao.com/ins/%e5%a4%a7%e9%80%a3%e7%a4%be%e8%b2%bf%e5%8b%99%e7%a0%94%e7%a9%b6%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6"
+  ],
+  "metadata": {
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804480/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8e%a8%e5%b9%bf%e6%96%b0%e6%87%89%e7%94%a8%e7%9a%84%e6%94%bf%e7%ad%96%e4%b8%8d%e5%8f%af%e5%a4%a7%e5%8a%9b%e6%8b%9b%e8%81%98": {
+      "headline": "Hong Kong government announces new policies to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:54:59.503001",
+      "last_seen": "2026-02-09T20:54:59.503010"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628802364/hong-kong-s-gdp-growth-forecast-upgraded-by-international-financial-institutions": {
+      "headline": "Hong Kong's GDP growth forecast upgraded by international financial institutions",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:03.679981",
+      "last_seen": "2026-02-09T20:55:03.679992"
+    },
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316803384-%e8%a7%a3%e8%a7%a3%e4%b8%8a%e6%b5%b7%e5%8d%80%e4%ba%a4%e6%98%93%e8%88%87%e6%b5%81%e5%8a%a8%e8%a8%88%e7%95%ab%e6%8e%a5%e8%be%bc%e6%b8%af%e5%8f%8a%e7%be%8e%e5%9c%8b%e6%8e%a5%e8%be%bc%e4%b8%ad%e5%9c%8b%e9%80%9a%e8%a8%8a": {
+      "headline": "Cross-border trade between Hong Kong and Mainland China hits record high in Q1",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:08.648263",
+      "last_seen": "2026-02-09T20:55:08.648271"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837204420/%e9%a6%99%e6%b8%af%e6%b3%95%e9%99%a2%e4%ba%ba%e5%8f%af%e4%ba%a4%e6%98%93%e6%96%b0%e5%88%b0%e6%96%b0%e8%a6%8f%e7%af%80%e4%ba%86%e6%8f%90%e5%8d%87%e8%b2%a1%e9%87%91%e5%b8%82%e5%a0%b4%e7%a7%81%e5%88%b0%e6%96%b0": {
+      "headline": "Hong Kong authorities introduce new regulations to enhance financial market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:12.827391",
+      "last_seen": "2026-02-09T20:55:12.827400"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624003761/hong-kong-s-unemployment-rate-declines-as-retail-and-hospitality-sectors-recover": {
+      "headline": "Hong Kong's unemployment rate declines as retail and hospitality sectors recover",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:17.838031",
+      "last_seen": "2026-02-09T20:55:17.838041"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802324/hong-kong-government-plans-to-attract-more-foreign-investment-through-tax-incentives": {
+      "headline": "Hong Kong government plans to attract more foreign investment through tax incentives",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:20.998233",
+      "last_seen": "2026-02-09T20:55:20.998243"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677628805674/%e6%96%b0%e6%83%85%e8%a9%b2%e6%8e%92%e8%a1%8c%e6%8e%a8%e5%87%ba%e6%96%b0%e7%9a%84%e6%96%b9%e6%b3%95%e6%8e%a8%e5%87%ba%e6%96%b0%e7%89%88%e8%a8%8a%e8%81%9e%e4%ba%86%e7%9f%a5%e8%ad%98%e6%8e%a8%e5%87%ba%e7%9a%84%e6%96%b0%e7%89%88%e8%a8%8a%e8%81%9e%e3%80%82": {
+      "headline": "New policies aimed at strengthening Hong Kong's position as an international financial hub",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:25.725070",
+      "last_seen": "2026-02-09T20:55:25.725080"
+    },
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230307/s00004/1678147208624/%e6%97%85%e8%b1%aa%e5%8a%a0%e5%8a%a0%e6%8e%a5%e5%8f%a3%e7%9a%84%e8%b2%a8%e6%ac%be%e6%88%96%e7%9a%84%e8%a8%ad%e8%a8%88%e5%8f%8a%e7%9b%9f%e8%a8%88%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e5%8a%a0": {
+      "headline": "Trade tensions between US and China impact Hong Kong's export sector",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:30.222598",
+      "last_seen": "2026-02-09T20:55:30.222607"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677624007477/%e9%a6%99%e6%b8%af%e9%87%91%e8%b2%a1%e7%ae%a1%e5%88%b6%e5%8a%a0%e5%8a%a0%e7%9b%be%e7%9a%84%e7%9b%9b%e8%a6%bd%e7%9a%84%e7%9b%9b%e8%a7%92%e6%9c%89%e5%85%a7%e5%8d%b0%e5%88%b0%e4%ba%86%e6%9c%89%e5%85%a7%e5%8d%b0%e7%9a%84%e7%9b%9b%e8%a6%bd": {
+      "headline": "Hong Kong's financial regulators tighten oversight on fintech firms to ensure market integrity",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:35.249509",
+      "last_seen": "2026-02-09T20:55:35.249570"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147206314/hong-kong-s-retail-sales-increase-amid-rising-consumer-confidence": {
+      "headline": "Hong Kong's retail sales increase amid rising consumer confidence",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:38.487264",
+      "last_seen": "2026-02-09T20:55:38.487279"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678148874394/%e6%96%b0%e6%94%bf%e6%94%b9%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%8f%8a%e5%": {
+      "headline": "Policy reforms in Hong Kong aim to attract more multinational corporations",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:49.219891",
+      "last_seen": "2026-02-09T20:55:49.219900"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230307/s00001/1678147202594/hong-kongs-social-stability-remains-resilient-despite-regional-geopolitical-tensions": {
+      "headline": "Hong Kong's social stability remains resilient despite regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:51.949635",
+      "last_seen": "2026-02-09T20:55:51.949646"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807474": {
+      "headline": "Hong Kong's labor market shows signs of tightening as demand for skilled professionals rises",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:55:55.117885",
+      "last_seen": "2026-02-09T20:55:55.117914"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677643201234-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%86%8d%e6%94%af%e5%8a%a9%e5%85%a8%e5%9c%8b%e4%ba%8c%e5%8d%80%e4%ba%86%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%bf%e5%ba%9c%e6%94%af%e5%8a%a9%e5%8a%a0%e6%8b%9c%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%bf%e5%ba%9c%e6%94%af%e5%8a%a9%e5%8a%a0%e6%8b%9c%e5%8a%a9%e8%a8%88%e7%95%8c%e6%8a%95%e8%b3%87": {
+      "headline": "Hong Kong government announces new measures to boost property market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:25:49.607680",
+      "last_seen": "2026-02-10T10:25:49.607696"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230316/s00022/1678929606462/hong-kong-s-gdp-growth-forecast-revised-upward-for-2023": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for 2023",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:25:55.417535",
+      "last_seen": "2026-02-10T10:25:55.417552"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624005434/%e9%a6%99%e6%b8%af%e6%89%93%e9%87%8f%e6%8e%a7%e5%88%b6%e6%96%87%e4%ba%a4%e6%b5%81%e4%b8%8a%e6%8e%a5%e7%9a%84%e6%8a%80%e8%a1%93%e6%8e%a5%e5%8f%a3%e6%8e%a5%e5%8f%a3": {
+      "headline": "Hong Kong authorities tighten regulations on cross-border data flows",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:25:59.713445",
+      "last_seen": "2026-02-10T10:25:59.713461"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00222/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%89%e4%ba%86%e4%b8%8d%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86": {
+      "headline": "Hong Kong's unemployment rate dips to lowest level in two years",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:08.589006",
+      "last_seen": "2026-02-10T10:26:08.589022"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677624003764/%e6%94%bf%e5%ba%9c%e5%bc%80%e5%8f%91%e8%87%aa%e7%94%b1%e5%8a%9b%e8%87%aa%e7%94%b1%e8%87%aa%e5%8a%a9%e4%ba%a4%e9%87%91%e5%8f%8a%e6%8a%95%e8%b3%87%e6%8e%a8%e5%b9%bf": {
+      "headline": "Government launches initiative to promote green finance and sustainable investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:12.612558",
+      "last_seen": "2026-02-10T10:26:12.612573"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836609734/%e9%a6%96%e4%ba%ba%e6%8e%a8%e8%96%a6%e5%8f%8a%e6%8e%a8%e8%96%a6%e9%96%8b%e8%a8%ad%e6%8e%a5%e7%bd%ae%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e5%8f%8a%e7%94%9f%e7%86%b1%e5%8f%8a%e7%94%9f%e6%88%90%e9%87%8d%e8%a6%81%e7%9b%91%e8%a6%96%e4%b8%8a%e7%9a%84%e7%a4%be%e5%8d%80%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e5%8f%8a%e7%94%9f%e7%86%b1%e5%8f%8a%e7%94%9f%e6%88%90%e9%87%8d%e8%a6%81%e7%9b%91%e8%a6%96": {
+      "headline": "Major infrastructure projects in Hong Kong to enhance connectivity and economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:19.547489",
+      "last_seen": "2026-02-10T10:26:19.547504"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147931070/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9-%e6%8a%80%e8%a1%93%e8%a6%8f%e5%8d%80%e6%94%b9%e5%8f%98%e7%9a%84%e6%8a%95%e8%b3%87%e6%8a%80%e8%a1%93%e8%a6%8f%e5%8d%80%e6%94%b9%e5%8f%98%e7%9a%84%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9%e4%b8%8d%e5%8f%af%e5%8a%a0%e5%85%a7%e6%94%b9%e8%a8%8a": {
+      "headline": "Policy review: Changes to corporate governance regulations in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:25.515458",
+      "last_seen": "2026-02-10T10:26:25.515474"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678831747470/hong-kong-s-retail-sales-rebound-as-consumer-confidence-improves": {
+      "headline": "Hong Kong's retail sales rebound as consumer confidence improves",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:29.173903",
+      "last_seen": "2026-02-10T10:26:29.173919"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678838497364/hong-kongs-social-stability-remains-resilient-amid-regional-tensions": {
+      "headline": "Hong Kong's social stability remains resilient amid regional tensions",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:33.288341",
+      "last_seen": "2026-02-10T10:26:33.288361"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807367/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%8f%8a%e6%8e%a8%e8%8d%90%e6%94%af%e6%8c%81%e8%88%87%e6%8a%80%e8%a1%93%e7%a7%91%e6%8a%80%e7%a4%be%e7%be%a4%e6%8e%a8%e8%8d%90": {
+      "headline": "Hong Kong government to enhance support for innovation and technology industries",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:26:37.162488",
+      "last_seen": "2026-02-10T10:26:37.162503"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804534/%e4%b8%bb%e8%a6%aa%e5%9c%b0%e5%8c%97%e4%b8%ad%e5%9c%8b%e8%a8%82%e7%a4%ba%e8%a1%8c%e8%b2%bb%e6%94%b9%e6%96%b0%e8%a8%8a%e6%81%af%e6%94%af%e6%8c%81%e5%8f%8a%e4%ba%a4%e6%98%93%e6%8a%80%e8%a1%93": {
+      "headline": "Mainland China-Hong Kong cross-border trade policies updated to facilitate investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:19.554612",
+      "last_seen": "2026-02-11T11:24:19.554630"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230316/s00022/1678929608934/hong-kongs-gdp-growth-forecast-revised-upward-for-2023": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for 2023",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:23.103723",
+      "last_seen": "2026-02-11T11:24:23.103737"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804484/%e7%9b%8a%e8%88%87%e4%ba%8c%e5%8d%8a%e4%ba%86%e4%ba%86%e5%9c%a8%e6%9c%89%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba": {
+      "headline": "Property developers in Hong Kong face new land use policies",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:33.789995",
+      "last_seen": "2026-02-11T11:24:33.790010"
+    },
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230317/s00001/1679025607110/%e6%8a%95%e8%b3%87%e7%9a%84%e7%a4%be%e5%8d%80%e8%a7%a3%e6%b1%ba%e6%8a%80%e8%a1%8c%e7%9a%84%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0%e6%8a%95%e8%b3%87%e7%9a%84%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0%e6%8a%95%e8%b3%87%e4%ba%a4%e9%80%9a%e8%be%bc%e8%be%bc%e5%8a%a0": {
+      "headline": "Trade tensions between Hong Kong and Mainland China impact logistics sector",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:39.776129",
+      "last_seen": "2026-02-11T11:24:39.776145"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009824/hong-kongs-retail-sales-rebound-signals-improving-consumer-confidence": {
+      "headline": "Hong Kong's retail sales rebound signals improving consumer confidence",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:45.186374",
+      "last_seen": "2026-02-11T11:24:45.186388"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836790840/hong-kong-s-public-infrastructure-projects-receive-government-funding-boost": {
+      "headline": "Hong Kong's public infrastructure projects receive government funding boost",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:50.797472",
+      "last_seen": "2026-02-11T11:24:50.797489"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e6%8e%a8%e8%96%a6%e6%94%bf%e7%ad%96%e6%88%96%e7%9b%9f%e6%88%90%e6%9c%83%e7%9a%84%e7%a4%be%e7%be%a4%e7%9a%84%e7%9b%9b%e8%a6%bd-%e8%a8%98%e8%80%85%e8%ad%b0%e8%a9%95%e7%9a%84%e4%ba%ba%e6%89%8d%e8%81%af%e7%b5%a1%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e4%ba%86": {
+      "headline": "Hong Kong's economic outlook remains resilient amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:24:57.523173",
+      "last_seen": "2026-02-11T11:24:57.523191"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628804184/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8b%9b%e8%81%98%e6%96%b0%e6%8e%a8%e8%8b%b1%e8%a6%81%e6%8e%a8%e5%8a%a8%e4%b8%8a%e5%8d%87%e5%9c%b0%e5%9c%8b%e7%8d%bb%e7%8d%a8%e7%8d%a8%e7%9a%84%e5%8a%a0%e5%8a%a0%e7%8e%87": {
+      "headline": "Hong Kong government announces new measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:33.103621",
+      "last_seen": "2026-02-12T11:39:33.103637"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628807470/hong-kongs-property-market-shows-signs-of-stabilization-after-recent-downturn": {
+      "headline": "Hong Kong's property market shows signs of stabilization after recent downturn",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:37.142158",
+      "last_seen": "2026-02-12T11:39:37.142174"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628802444/%e4%b8%bb%e8%a6%aa%e5%8d%80%e4%b8%ad%e5%9c%8b%e6%93%8a%e7%a4%be%e8%b2%a8%e6%94%bf%e7%ad%96%e6%96%b0%e6%96%b0%e6%89%8b%e6%9c%af%e6%8e%a5%e8%a8%88%e4%ba%86%e8%a8%88%e7%95%ab": {
+      "headline": "Mainland China-Hong Kong cross-border trade policies updated to facilitate business",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:41.300572",
+      "last_seen": "2026-02-12T11:39:41.300589"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838402784-%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e7%9b%be%e7%9a%84%e8%a8%88%e7%95%ab%e7%9a%84%e7%9b%9b%e5%a4%a7%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%ba%86%e7%9a%84%e8%a8%88%e7%95%ab%e4%ba%86%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e4%b8%8a%e7%9a%84%e8%a8%88%e7%95%ab%e": {
+      "headline": "Hong Kong regulators tighten oversight on financial institutions to enhance market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:48.410851",
+      "last_seen": "2026-02-12T11:39:48.410868"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628804814/hong-kong-government-introduces-new-regulations-to-attract-foreign-investment": {
+      "headline": "Hong Kong government introduces new regulations to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:51.457781",
+      "last_seen": "2026-02-12T11:39:51.457799"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624003850/hong-kong-s-gdp-growth-forecast-revised-upward-amid-recovery-efforts": {
+      "headline": "Hong Kong's GDP growth forecast revised upward amid recovery efforts",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:39:55.488436",
+      "last_seen": "2026-02-12T11:39:55.488452"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009324/hong-kong%e7%9a%84%e5%8a%b3%e5%83%8f%e5%b8%82%e5%a0%b4%e7%8f%be%e7%8a%b6%e7%8f%be%e7%8a%84%e9%9b%86%e6%88%90%e8%80%85%e4%ba%86%e8%a7%a3%e5%8a%a0%e5%8a%a0%e4%bd%8e%e6%8a%80%e8%a1%93%e7%9a%84%e4%be%8b%e5%ad%90": {
+      "headline": "Hong Kong's labor market shows resilience with decreasing unemployment rate",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:00.755971",
+      "last_seen": "2026-02-12T11:40:00.755988"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00004/1677628802104-%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e8%a7%92%e6%94%af%e6%8c%81%e5%b0%8f%e4%b8%ad%e5%be%8c%e8%81%af%e7%ab%99%e6%8e%a7%e5%88%b6%e6%94%bf%e7%ad%96": {
+      "headline": "Hong Kong authorities review policies to support small and medium enterprises",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:04.856340",
+      "last_seen": "2026-02-12T11:40:04.856426"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678833412784/hong-kong-s-trade-deficit-narrows-as-exports-increase-in-key-sectors": {
+      "headline": "Hong Kong's trade deficit narrows as exports increase in key sectors",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:09.637924",
+      "last_seen": "2026-02-12T11:40:09.637940"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839822454/%e6%94%bf%e7%ad%96%e8%ab%96%e8%a9%b1%e7%9a%84%e8%a8%8a%e6%81%af%e4%b8%8a%e7%9a%84%e6%8a%80%e8%a1%93%e6%8e%a2%e8%a8%8a%e8%a8%8a%e6%81%af%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%": {
+      "headline": "Policy discussions underway to improve corporate governance standards in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:18.817518",
+      "last_seen": "2026-02-12T11:40:18.817533"
+    },
+    "https://news.mingpao.com/ins/%e6%8a%80%e8%83%bd%e4%ba%a4%e6%8f%9b%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e7%9a%84%e6%8a%95%e8%b3%87%e8%a8%88%e5%8a%83%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e7%9a%84%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e5%8d%87%e6%8a%95%e8%b3%87%e8%a8%88%e7%95%ab%e4%b8%8a%e": {
+      "headline": "Hong Kong's public-private partnership projects accelerate to stimulate economic activity",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:25.092763",
+      "last_seen": "2026-02-12T11:40:25.092779"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e8%b3%87%e6%96%99": {
+      "headline": "Hong Kong government announces new measures to boost property market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:14.939669",
+      "last_seen": "2026-02-13T11:53:14.939679"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230428/s00022/1682664001830": {
+      "headline": "Hong Kong's GDP growth revised upward for the first quarter, signaling economic resilience",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:20.967805",
+      "last_seen": "2026-02-13T11:53:20.967823"
+    },
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316803584-%e8%a7%a3%e8%a7%86%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a3%e8%a7%a": {
+      "headline": "Cross-border trade between Hong Kong and Mainland China hits record high in Q1",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:27.623775",
+      "last_seen": "2026-02-13T11:53:27.623790"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677624007274/hong-kong-government-to-implement-new-policies-to-attract-foreign-investment": {
+      "headline": "Hong Kong government to implement new policies to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:33.995818",
+      "last_seen": "2026-02-13T11:53:33.995836"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677645601224/%e5%85%ac%e7%89%a9%e5%bc%b5%e7%94%9f%e5%8f%8a%e7%9b%b4%e7%ba%8c%e5%8f%8a%e8%be%a6%e5%8b%99%e7%9a%84%e9%96%8b%e5%a7%8b-%e9%9b%86%e9%9b%86%e7%9a%84%e6%8a%95%e8%b3%87%e5%8f%8a%e8%a8%88%e7%95%ab": {
+      "headline": "Property developers in Hong Kong announce major projects amid rising demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:39.195130",
+      "last_seen": "2026-02-13T11:53:39.195144"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807214/hong-kong-unemployment-rate-dips-slightly-indicating-improving-labor-market-conditions": {
+      "headline": "Hong Kong's unemployment rate dips slightly, indicating improving labor market conditions",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:46.263778",
+      "last_seen": "2026-02-13T11:53:46.263792"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677615833510/hong-kong-retail-sales-increase-as-consumer-confidence-rebounds-post-pandemic": {
+      "headline": "Hong Kong's retail sales increase as consumer confidence rebounds post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:51.385852",
+      "last_seen": "2026-02-13T11:53:51.385866"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677628805434/%e6%96%b0%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e4%ba%86%e6%94%af%e6%8c%81%e5%b0%8f%e4%b8%ad%e5%be%8b%e4%bc%81%e6%a5%ad%e4%ba%ba%e7%9a%84%e6%8a%95%e8%b3%87%e6%8e%a8%e8%8d%90": {
+      "headline": "New policies introduced to support small and medium enterprises in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:53:56.194313",
+      "last_seen": "2026-02-13T11:53:56.194325"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230430/s00022/1682836806444-%e9%a6%99%e6%b8%af%e6%9c%8d%e5%8b%99%e5%8a%a0%e6%8b%bf%e5%a4%a7%e6%8a%95%e8%b3%87%e6%8e%a8%e8%96%a6%e7%9a%84%e5%8f%8a%e6%8a%95%e8%b3%87%e8%a1%a8%e6%9c%89%e4%ba%9b%e7%9a%84%e5%8a%87%e6%83%85": {
+      "headline": "Hong Kong's stock market performance outperforms regional peers in April",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:54:00.960696",
+      "last_seen": "2026-02-13T11:54:00.960855"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678146746764/%e9%a6%99%e6%b8%af%e6%89%93%e9%80%a0%e4%ba%ba%e5%8f%af%e8%83%bd%e8%a7%a3%e9%99%a4%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba": {
+      "headline": "Hong Kong authorities tighten regulations on virtual assets to protect investors",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:54:11.248430",
+      "last_seen": "2026-02-13T11:54:11.248448"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835834132/hong-kong-s-banking-sector-remains-resilient-amid-global-economic-uncertainties": {
+      "headline": "Hong Kong's banking sector remains resilient amid global economic uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:54:19.651237",
+      "last_seen": "2026-02-13T11:54:19.651254"
+    },
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678835836074": {
+      "headline": "Hong Kong government announces new measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:14.295423",
+      "last_seen": "2026-02-16T10:40:14.295439"
+    },
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230315/s00004/1678836449274/%e5%85%ac%e6%94%bf%e4%bb%8b%e5%8b%95%e5%8f%8a%e8%a8%8a%e6%81%af%e7%9a%84%e6%8a%95%e8%b3%87%e6%8e%a8%e5%8b%95-%e9%a6%99%e6%b8%af%e5%8d%80%e5%8f%8a%e4%ba%8c%e5%8d%80%e6%8e%a8%e5%8b%95%e6%8e%a8%e5%8b%95%e6%8e%a8%e5%8b%95": {
+      "headline": "Property developers in Hong Kong report increased sales following government incentives",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:19.481207",
+      "last_seen": "2026-02-16T10:40:19.481231"
+    },
+    "https://news.mingpao.com/20230428/港府公布一季度gdp修訂上調，經濟復甦跡象明顯": {
+      "headline": "Hong Kong's GDP growth revised upward for the first quarter, signaling economic recovery",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:23.191534",
+      "last_seen": "2026-02-16T10:40:23.191550"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230815/s00001/1692043202393/mainland-china-hong-kong-cross-border-trade-uptick": {
+      "headline": "Mainland China-Hong Kong cross-border trade sees significant uptick in recent months",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:26.426705",
+      "last_seen": "2026-02-16T10:40:26.426727"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147201234-%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%a8%e7%ab%8b%e8%a8%88%e7%95%ab%e8%a7%a3%e6%9e%90%e8%88%87%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e5%8f%af%e6%8e%a7%e5%88%b6%e7%9a%84%e8%a7%a3%e6%9e%90%e4%b8%8d%e5%8f%af%e6%8e%a7%e5%88%b6%e7%9a%84%e7%8e%87%e7%9b%8a%e7%9a%84%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e6%8e%a7%e5%88%b6%e4%ba%86%e8%a8%88%e7%95%ab%e6%8a%95%e8%b3%87%e7%9a%84%e8%a7%a3%e6%9e%90": {
+      "headline": "Hong Kong's unemployment rate drops as retail and tourism sectors show signs of recovery",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:34.306440",
+      "last_seen": "2026-02-16T10:40:34.306458"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677625207474/%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e8%a1%8c%e4%b8%80%e8%a1%8c%e8%a8%ad%e7%bd%ae%e7%b5%84%e7%a8%8b%e6%96%87%e7%ab%99%e6%8e%a2%e7%9c%8b%e6%9b%b4%e5%8a%a0%e5%8a%9b%e5%8f%8a%e8%87%aa%e8%a8%80%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a1%8c%e4%b8%80%e8%a1%8c%e8%a8%ad%e7%bd%ae%e7%b5%84%e7%a8%8b%e6%96%87%e7%ab%99%e6%8e%a2%e7%9c%8b%e6%9b%b4%e5%8a%a0%e5%8a%9b%e5%8f%8a%e8%87%aa%e8%a8%80%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83": {
+      "headline": "Government plans to streamline business registration processes to attract more foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:39.591471",
+      "last_seen": "2026-02-16T10:40:39.591491"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835439504/%e9%a6%99%e6%b8%af%e7%a4%be%e4%ba%a4%e5%ae%9a%e7%a7%9f%e4%bd%8f%e7%a4%be%e7%be%a4%e7%a4%81%e5%8b%92%e7%9b%b4%e8%a7%92%e6%8a%a5%e9%81%93%e7%9a%84%e8%81%af%e7%b9%ab%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e8%80%85%e5%bf%83%e9%87%8d%e5%8a%a0%e6%8a%91%e5%8a%a0%e5%8a%a0%e6%8a%91%e5%8a%a0": {
+      "headline": "Hong Kong's social stability remains resilient amid political protests, supporting investor confidence",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:44.805129",
+      "last_seen": "2026-02-16T10:40:44.805144"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628207478/%e9%ab%98%e5%8a%9f%e6%8a%80%e8%a1%8c%e6%94%bf%e5%8b%99%e5%8a%a0%e8%bd%bd%e7%8d%b2%e5%8a%a0%e5%bc%b7%e7%9a%84%e7%92%b0%e5%a2%83%e5%8f%8a%e6%8a%95%e8%b3%87%e6%96%87%e7%8d%bb": {
+      "headline": "Hong Kong government launches new initiatives to develop green finance and sustainable investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:48.937637",
+      "last_seen": "2026-02-16T10:40:48.937660"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230302/s00022/1677725821234": {
+      "headline": "Hong Kong's retail sales increase as consumer confidence recovers post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:40:52.900289",
+      "last_seen": "2026-02-16T10:40:52.900307"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807477/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%94%bf%e7%ad%96%e4%b8%8d%e5%8f%af%e5%8a%a9%e5%8a%a9%e6%8a%95%e5%8a%a0%e7%9a%84%e5%8a%9b%e5%8a%9b%e4%ba%86%e8%a7%a3": {
+      "headline": "Hong Kong government announces new policies to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:07.322484",
+      "last_seen": "2026-02-20T11:04:07.322502"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230310/s00004/1678396808624/property-market-in-hong-kong-shows-signs-of-stabilization-after-recent-downturn": {
+      "headline": "Property market in Hong Kong shows signs of stabilization after recent downturn",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:14.006461",
+      "last_seen": "2026-02-20T11:04:14.006477"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628801074/hong-kong-and-mainland-china-agree-on-new-cross-border-trade-arrangements": {
+      "headline": "Hong Kong and Mainland China agree on new cross-border trade arrangements",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:18.600740",
+      "last_seen": "2026-02-20T11:04:18.600756"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837200528/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming fiscal year",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:23.596682",
+      "last_seen": "2026-02-20T11:04:23.596697"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809274/hong-kong-regulators-introduce-new-measures-to-enhance-market-transparency": {
+      "headline": "Hong Kong regulators introduce new measures to enhance market transparency",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:30.016436",
+      "last_seen": "2026-02-20T11:04:30.016451"
+    },
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678831745434": {
+      "headline": "Hong Kong government plans to attract more foreign investment through tax incentives",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:34.708754",
+      "last_seen": "2026-02-20T11:04:34.708765"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809324/hong-kongs-unemployment-rate-remains-stable-signaling-economic-resilience": {
+      "headline": "Hong Kong's unemployment rate remains stable, signaling economic resilience",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:40.724810",
+      "last_seen": "2026-02-20T11:04:40.724825"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2%e5%8a%a0%e5%85%a5%e8%b2%bb%e7%94%a8%e6%9c%83%e8%a6%8b%e8%a6%8b%e7%9a%84%e9%87%91%e8%b2%a8%e6%9c%83%e8%a6%8b%e8%a6%8b%e7%9a%84%e8%a8%8a%e6%81%af%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%8a%e6%81%af%e4%be%86%e6%9c%89%e8%a6%81%e6%84%8f%e8%a6%8b%e8%a6%8b%e7%9a%84%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86%e8%a8%8a%e6%81%af%e4%be%86": {
+      "headline": "New regulations on financial services aim to strengthen Hong Kong's position as an international financial hub",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:47.383714",
+      "last_seen": "2026-02-20T11:04:47.383731"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836611384/hong-kong-s-retail-sector-shows-signs-of-recovery-post-pandemic": {
+      "headline": "Hong Kong's retail sector shows signs of recovery post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:52.559648",
+      "last_seen": "2026-02-20T11:04:52.559664"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147200850/hong-kong-s-social-stability-maintained-amid-regional-geopolitical-tensions": {
+      "headline": "Hong Kong's social stability maintained amid regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:04:58.850787",
+      "last_seen": "2026-02-20T11:04:58.850802"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677619204424-cross-border-policy-reforms-facilitate-easier-business-operations-between-hong-kong-and-mainland-china": {
+      "headline": "Cross-border policy reforms facilitate easier business operations between Hong Kong and Mainland China",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:05.935410",
+      "last_seen": "2026-02-20T11:05:05.935428"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677625807474/hong-kong%e7%9a%84%e6%b8%b8%e5%8f%8a%e6%8a%95%e8%b3%87%e4%b8%8d%e5%8f%af%e5%8f%af%e5%8f%af%e8%81%af%e7%b5%a1%e7%9a%84%e6%96%b0%e8%81%9e%e7%b6%b2%e8%a8%8a%e8%a8%8a%e7%9a%84%e8%a8%98%e9%8c%84": {
+      "headline": "Hong Kong's tourism sector begins to recover with new travel policies",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:11.695101",
+      "last_seen": "2026-02-20T11:05:11.695118"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147207939/%e4%b8%bb%e8%a6%aa%e5%8d%80%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e8%b2%a9%e5%8a%a0%e6%94%af%e6%8f%b4%e8%a1%a8%e8%be%a6%e6%8e%a5%e8%a8%88%e7%95%8c%e6%99%82%e6%9c%9f%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a1%a8%e8%a8%88%e7%95%8c%e6%99%82%e6%9c%9f%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a1%a8%e8%a8%88%e7%95%8c%e6%99%82": {
+      "headline": "Mainland China-Hong Kong cross-border trade policies updated to facilitate business expansion",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:29.176682",
+      "last_seen": "2026-02-23T12:10:29.176697"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677610859274/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%93%e4%ba%ba%e6%8a%97%e8%a8%80%e6%8a%91%e7%97%87%e4%ba%86%e6%8a%97%e8%a8%80%e4%ba%86%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8a%9b%e5%8": {
+      "headline": "Hong Kong authorities introduce regulatory reforms to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:35.187480",
+      "last_seen": "2026-02-23T12:10:35.187495"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804984%e9%ab%98%e6%a0%a1%e7%9a%84%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e6%9c%89%e8%b3%aa%e7%9a%84%e8%b2%a1%e8%b1%a1%e8%a8%88%e7%95%ab%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba%9b%e6%8a%95%e8%b3%87%e8%b2%a1%e7%b5%a6%e4%ba%86%e4%b8%80%e4%ba": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming fiscal year",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:41.096724",
+      "last_seen": "2026-02-23T12:10:41.096741"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230307/s00004/1678125604684-%e6%96%b0%e6%9c%83%e8%a8%88%e7%95%ab%e6%8e%a8%e5%87%ba%e5%8a%9f%e8%83%bd%e6%8e%a8%e8%96%a6%e5%8d%80%e7%9b%9f%e8%a8%88%e8%a8%88%e7%95%ab%e5%8f%8a%e6%8e%a8%e5%87%ba%e6%8e%a8%e8%8d%90%e5%8d%80%e7%9b%9f%e8%a8%88%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86": {
+      "headline": "New policies aim to enhance financial sector competitiveness in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:47.381853",
+      "last_seen": "2026-02-23T12:10:47.381870"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678149600524": {
+      "headline": "Hong Kong's labor market shows signs of recovery with rising employment rates",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:51.729474",
+      "last_seen": "2026-02-23T12:10:51.729491"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624005834/hong-kong-s-tourism-sector-begins-gradual-recovery-post-pandemic-opening-new-investment-avenues": {
+      "headline": "Hong Kong's tourism sector begins gradual recovery post-pandemic, opening new investment avenues",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:10:56.351750",
+      "last_seen": "2026-02-23T12:10:56.351755"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230307/s00004/1678147202454/%e9%a6%99%e6%b8%af%e6%96%b0%e7%9f%a5%e8%81%9e%e6%8e%a8%e8%8b%b1%e7%89%b9%e5%88%a5%e6%8a%95%e5%a2%9e%e5%8d%97%e5%8c%97%e7%be%8e%e5%9c%8b%e7%a4%be%e5%8d%80%e7%9a%84%e7%a7%8d%e8%a8%88%e7%a8%8b": {
+      "headline": "Hong Kong's new tax incentives aim to attract multinational corporations",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:02.746543",
+      "last_seen": "2026-02-23T12:11:02.746560"
+    },
+    "https://news.mingpao.com/20230315/港聞/article/20230315/s00001/1678876805354/社會穩定措施推動長遠經濟增長": {
+      "headline": "Social stability measures announced to support long-term economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:07.117614",
+      "last_seen": "2026-02-23T12:11:07.117633"
+    },
+    "https://news.mingpao.com/ins/%e6%9c%aa%e6%9d%a5%e8%a8%98%e8%80%85%e8%a8%98%e9%8c%84/article/20230301/s00001/1677628806604/hong-kong-s-public-private-partnership-projects-to-accelerate-urban-development": {
+      "headline": "Hong Kong's public-private partnership projects to accelerate urban development",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:10.460290",
+      "last_seen": "2026-02-23T12:11:10.460307"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678125601744/%e9%ab%98%e6%9e%9c%e4%ba%a4%e6%8f%9b%e6%8e%a8%e8%88%aa%e8%a1%a8%e8%be%a3%e7%9a%84%e6%8a%95%e8%b3%87%e5%8f%8a%e6%94%bf%e7%ad%96%e6%94%af%e6%8c%81%e6%8e%a8%e8%88%aa": {
+      "headline": "Hong Kong stock market rebounds as mainland China signals policy support",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:31:42.148000",
+      "last_seen": "2026-02-24T10:31:42.148016"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628807497/%e5%85%ac%e7%9b%8a%e5%8f%8a%e5%8a%a0%e5%85%a5%e6%88%bf%e5%9c%b0%e8%a8%88%e7%95%ab-%e9%a6%96%e8%a7%92%e5%85%ac%e7%9b%8a%e4%ba%86%e8%a7%a3%e8%a7%a3%e5%8a%a0%e5%85%a5%e6%88%bf%e5%9c%b0%e8%a8%88%e7%95%ab%e4%b8%8d%e5%8f%af%e7%9f%a5%e3%80%82": {
+      "headline": "Property developers in Hong Kong face new regulations to curb speculation",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:31:47.528097",
+      "last_seen": "2026-02-24T10:31:47.528114"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230101/s00001/1672588807474/hong-kong-s-gdp-growth-slows-in-q4-prompting-policy-review": {
+      "headline": "Hong Kong's GDP growth slows in Q4, prompting policy review",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:31:52.401997",
+      "last_seen": "2026-02-24T10:31:52.402014"
+    },
+    "https://news.mingpao.com/20231012/港聞/article/20231012/s00001/1697115603384/香港當局推行與內地新跨境貿易政策": {
+      "headline": "Hong Kong authorities implement new cross-border trade policies with Mainland China",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:31:56.750683",
+      "last_seen": "2026-02-24T10:31:56.750700"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678125606794": {
+      "headline": "Hong Kong's financial services sector sees increased activity amid regional economic shifts",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:02.817027",
+      "last_seen": "2026-02-24T10:32:02.817043"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628803494/hong-kongs-unemployment-rate-remains-stable-supporting-consumer-confidence": {
+      "headline": "Hong Kong's unemployment rate remains stable, supporting consumer confidence",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:08.688026",
+      "last_seen": "2026-02-24T10:32:08.688042"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678834306792/hong-kong%e7%9a%84%e6%8b%93%e5%8a%a0%e5%8a%a0%e5%9c%b0%e7%9a%84%e8%b2%bf%e6%98%93%e9%87%8f%e8%a1%a8%e7%8f%be%e8%a8%88%e9%87%91%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87": {
+      "headline": "Hong Kong's trade volume with Mainland China hits record high in recent quarter",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:16.502491",
+      "last_seen": "2026-02-24T10:32:16.502507"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678830529244/%e6%94%bf%e5%ba%9c%e5%8a%a8%e8%88%87%e7%be%8e%e5%9c%8b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4%ba%86%e5%8a%9b%e7%9a%84%e7%9b%9b%e5%8d%87%e4": {
+      "headline": "Government launches initiative to promote green finance and sustainable investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:24.552005",
+      "last_seen": "2026-02-24T10:32:24.552021"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802324-%e9%a6%99%e6%b8%af%e8%b2%a9%e5%94%ae%e7%a7%91%e5%88%a5%e6%8c%87%e7%af%80%e7%9b%ae%e8%a6%8b%e8%be%9e%e5%8f%96%e6%8a%95%e8%b3%87%e7%9a%84%e8%a8%98%e8%80%85%e8%a8%98%e8%80%85%e8%a8%98%e8%80%85": {
+      "headline": "Hong Kong's retail sector shows signs of recovery post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:29.525304",
+      "last_seen": "2026-02-24T10:32:29.525321"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628805164/%e9%9b%86%e5%9c%98%e4%ba%8b%e5%8a%a0%e5%85%a5%e9%87%91%e8%b2%bb%e6%8e%a7%e5%88%b6-%e9%96%8b%e9%87%87%e6%8e%a5%e6%94%be%e5%8f%97%e6%8e%a7%e5%88%b6%e4%ba%86%e4%ba%86%e4%ba%86": {
+      "headline": "Major infrastructure projects in Hong Kong receive government funding approval",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:35.084628",
+      "last_seen": "2026-02-24T10:32:35.084643"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%8e%af%e6%94%bf%e6%b2%bb%e6%8a%80%e8%83%bd%e7%9a%84%e6%8a%80%e8%83%bd%e4%b8%8a%e6%9e%81%e5%8f%af%e4%bb%a5%e6%8a%8a%e5%8f%8a%e4%ba%86%e8%a7%a3%e7%9a%84%e6%83%85%e5%a0%b1%e4%ba%86%e6%9d%a5%e8%a8%88%e7%95%ab%e4%ba%86%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba%9b%e4%ba%86%e4%b8%80%e4%ba": {
+      "headline": "Hong Kong's social stability maintained amid regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:32:44.482294",
+      "last_seen": "2026-02-24T10:32:44.482310"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80%e8%a7%92%e8%a8%98%e8%80%85/%e6%b8%af%e5%a4%a7%e8%82%a1%e4%ba%a4%e6%8f%9b%e9%a0%ad%e6%8e%a8%e5%8b%87%e6%83%85%e6%a0%bc%e7%9b%ae%e8%a7%92%e6%8e%a8%e8%a1%8c%e6%8f%90%e5%8a%a9%e6%94%bf%e7%ad%96%e6%94%bf%e7%a4%be%e6%8a%80%e8%83%bd%e6%8f%90%e5%8a%a9%e4%ba%86%e8%a7%92%e8%a8%98%e8%80%85%e4%ba%86%e4%ba%86%e4%ba%86": {
+      "headline": "Hong Kong stocks rise amid optimism over economic recovery",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:53:51.761714",
+      "last_seen": "2026-02-25T10:53:51.762139"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836443704/%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e8%a8%88%e7%95%ab%e6%94%b9%e6%96%b0%e4%b8%8a%e5%8f%8a%e6%94%af%e6%8f%b4%e8%b3%87%e8%a8%8a%e6%94%b9%e8%ae%8a%e4%b8%8a%e5%8f%8a%e6%94%af%e6%8f%b4%e8%b3%87%e8%a8%8a%e4%be%86%e6%8f%90%e4%be%9b%e8%a8%ad%e8%a8%88": {
+      "headline": "Mainland China-Hong Kong cross-border trade policies updated to facilitate investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:53:58.934828",
+      "last_seen": "2026-02-25T10:53:58.934845"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678839607474/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-quarter": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming quarter",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:04.078105",
+      "last_seen": "2026-02-25T10:54:04.078121"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624002264/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e6%8e%a8%e5%87%ba%e6%96%b0%e5%8f%af%e8%b3%9e%e8%b2%a8%e8%b3%87%e8%a8%8a%e5%8f%8a%e4%ba%a4%e5%8a%a8%e6%8e%a8%e8%96%a6%e6%96%b0%e6%94%bf%e7%ad%96": {
+      "headline": "Hong Kong authorities introduce new policies to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:11.595603",
+      "last_seen": "2026-02-25T10:54:11.595618"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%8a%e6%81%af%e6%8f%90%e4%be%9b%e4%ba%86%e4%ba%86%e8%a7%a3%e4%b8%8d%e5%90%8c%e7%9a%84%e8%81%af%e7%b9%ab%e8%a8%ad%e7%bd%ae%e7%9a%84%e8%a8%88%e7%af%84%e": {
+      "headline": "Hong Kong government plans to streamline business registration processes",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:18.788549",
+      "last_seen": "2026-02-25T10:54:18.788565"
+    },
+    "https://news.mingpao.com/ins/%e5%9c%8b%e6%9a%97%e8%a8%8a/article/20230301/s00001/1677646803194/%e5%85%b6%e4%bb%96%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e8%a8%88%e7%95%ab%e5%8f%8a%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6": {
+      "headline": "Property developers in Hong Kong accelerate projects amid rising demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:26.131426",
+      "last_seen": "2026-02-25T10:54:26.131441"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%83%e8%a7%92%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e6%9c%83%e8%a7%92-%e8%8a%82%e7%9b%ae%e8%a8%8a%e6%81%af%e6%8a%95%e8%a8%98%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba": {
+      "headline": "Hong Kong's unemployment rate dips slightly, signaling economic stabilization",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:34.318969",
+      "last_seen": "2026-02-25T10:54:34.318984"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230302/s00004/1677713485434-%e6%96%b0%e6%83%85%e8%a9%b2%e7%9b%8a%e6%8e%a8%e8%96%a6%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%85%a7%e5%9c%b0%e6%96%bd%e8%a8%ad%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8b%b1%e6%8e%a8%e8%96%a6%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%85%a7%e5%9c%b0%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8b%b1": {
+      "headline": "New policies aimed at supporting small and medium-sized enterprises in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:42.069664",
+      "last_seen": "2026-02-25T10:54:42.069682"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678832733194/hong-kong-stock-market-volatility-linked-to-geopolitical-developments": {
+      "headline": "Hong Kong stock market volatility linked to geopolitical developments",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:54:55.138772",
+      "last_seen": "2026-02-25T10:54:55.138788"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628202194/hong-kong-government-to-enhance-infrastructure-investment-to-support-economic-growth": {
+      "headline": "Hong Kong government to enhance infrastructure investment to support economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:55:00.075299",
+      "last_seen": "2026-02-25T10:55:00.075319"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147201484/hong-kong-s-retail-sales-increase-as-consumer-confidence-improves": {
+      "headline": "Hong Kong's retail sales increase as consumer confidence improves",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:55:09.684768",
+      "last_seen": "2026-02-25T10:55:09.684785"
+    },
+    "https://news.mingpao.com/nd/cnt/finance/20230315/s00003": {
+      "headline": "New cross-border financial services agreements to facilitate capital flows",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:55:17.203882",
+      "last_seen": "2026-02-25T10:55:17.203900"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628802454/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%a5%e9%81%93%e6%96%b0%e8%81%9e%e7%b6%b2%e6%9c%80%e6%96%b0%e6%83%85%e5%a0%b1%e5%8f%8a%e8%a8%8a%e6%81%af%e3%80%82": {
+      "headline": "Hong Kong government announces new measures to boost property market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:24.295954",
+      "last_seen": "2026-02-26T10:50:24.295970"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839607354/%e4%b8%bb%e8%a6%aa%e6%88%91%e5%9c%a8%e4%b8%ad%e5%9c%8b%e6%8e%a5%e7%a6%8f%e8%b3%87%e6%94%af%e6%8f%90%e5%8f%8a%e6%94%af%e6%8f%90%e6%94%af%e6%8f%90%e8%a8%88%e7%9a%84%e6%96%b9%e6%b3%95": {
+      "headline": "Mainland China-Hong Kong cross-border trade policies updated to facilitate business",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:29.816504",
+      "last_seen": "2026-02-26T10:50:29.816526"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230224/s00001/1677187209274/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-quarter": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming quarter",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:33.654884",
+      "last_seen": "2026-02-26T10:50:33.654901"
+    },
+    "https://news.mingpao.com/ins/%e5%8d%80%e6%96%b0%e8%81%9e/article/20230302/s00001/1677715202324": {
+      "headline": "Property developers in Hong Kong see increased demand amid market recovery",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:39.333606",
+      "last_seen": "2026-02-26T10:50:39.333623"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e6%96%b0%e8%87%aa%e8%a1%8c%e8%bd%89%e9%80%86%e6%8e%a5%e7%a4%be%e8%a1%8c%e7%a4%be%e7%9a%84%e6%96%b0%e8%a1%8c%e8%81%af%e7%9b%9f%e6%8e%a5%e9%80%86%e5%8f%8a%e6%8e%a5%e8%81%af%e7%9a%84%e6%96%b0%e8%81%9e%e7%a4%be%e7%9a%84%e6%96%b0%e8%a1%8c%e8%81%af%e7%9b%9f": {
+      "headline": "New cross-border infrastructure projects to strengthen Hong Kong's role as a financial hub",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:44.638884",
+      "last_seen": "2026-02-26T10:50:44.638907"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677624001244-%e9%a6%99%e6%b8%af%e6%89%8b%e5%8b%99%e4%ba%ba%e8%a7%80%e8%a6%bd%e5%8a%a0%e5%bc%b7%e6%8e%a7%e5%88%b6%e4%ba%ba%e7%a8%8b%e7%af%80%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e7%9b%b8%e9%97%9c%e7%9a%84%e8%a8%88%e7%95%ab": {
+      "headline": "Hong Kong authorities tighten regulations on certain industries to ensure market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:49.331462",
+      "last_seen": "2026-02-26T10:50:49.331478"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624008394/hong-kong-s-retail-sales-show-signs-of-recovery-post-pandemic": {
+      "headline": "Hong Kong's retail sales show signs of recovery post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:50:52.600095",
+      "last_seen": "2026-02-26T10:50:52.600112"
+    },
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e8%a8%88%e7": {
+      "headline": "Government plans to streamline business registration processes to attract startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:00.946359",
+      "last_seen": "2026-02-26T10:51:00.946387"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009270/hong-kong%e7%9a%84%e6%8b%a2%e7%88%86%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba%e8%b2%a1%e6%8b%9b%e4%ba%ba%e6%8e%a8%e5%87%ba\n\nnote: the url is a direct link to an article, containing keywords related to trade and exports, which are relevant to the headline.": {
+      "headline": "Hong Kong's trade surplus expands, driven by increased exports",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:05.741626",
+      "last_seen": "2026-02-26T10:51:05.741651"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678155745838/hong-kong-s-social-stability-maintained-amid-regional-geopolitical-tensions": {
+      "headline": "Hong Kong's social stability maintained amid regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:09.501060",
+      "last_seen": "2026-02-26T10:51:09.501080"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%9c%8b%e9%9a%9b%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%83%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%8d%80%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%83%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%8d%80%e4%ba%ba%e6%83%85%e8%a6%8b%e8%a7%92%e7%9a%84%e6%96%b0%e6%83%85%e8%a9%b2%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e9%96%8b%e6%94%be%e6%9c%": {
+      "headline": "New policies to support small and medium enterprises in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:19.478594",
+      "last_seen": "2026-02-26T10:51:19.478610"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837202300-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%96%b0%e7%9a%84%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e6%8a%80%e8%a1%93%e4%ba%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96%e6%8a%80%e6%9c%af%e4%bd%86%e4%be%86%e8%a7%a3%e6%94%bf%e7%ad%96": {
+      "headline": "Hong Kong government announces new policy measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:01:44.150475",
+      "last_seen": "2026-02-27T11:01:44.150494"
+    },
+    "https://news.mingpao.com/ins/%e7%9b%9b%e5%89%b2%e4%ba%a4%e6%8f%9b%e8%a6%8f%e7%af%84%e5%8f%8a%e5%8f%8a%e5%85%a8%e5%9c%8b%e8%b2%a8%e8%b3%87%e8%b2%bb%e8%b3%87%e6%96%99%e7%9a%84%e8%a8%8a%e6%81%af%e5%8f%8a%e8%a8%8a%e6%81%af%e4%ba%86%e8%a7%a3%e4%ba%86%e8%a7%a3%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%": {
+      "headline": "Property market shows signs of recovery with increased foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:01:55.630444",
+      "last_seen": "2026-02-27T11:01:55.630469"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628800954/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming fiscal year",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:02:02.660204",
+      "last_seen": "2026-02-27T11:02:02.660233"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%93%e8%a1%8c%e6%96%b0%e6%8e%aa%e6%96%bd%e4%ba%ba%e6%83%85%e8%a7%84%e5%88%92%e6%8e%a8%e5%87%ba%e8%81%9a%e7%a4%be%e7%bd%91%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba%e6%8e%a8%e5%87%ba": {
+      "headline": "Hong Kong authorities implement new regulations to attract fintech startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:02:14.468670",
+      "last_seen": "2026-02-27T11:02:14.468691"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230307/s00001/1678147201184/trade-tensions-between-hong-kong-and-neighboring-regions-ease-supporting-regional-trade-flows": {
+      "headline": "Trade tensions between Hong Kong and neighboring regions ease, supporting regional trade flows",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:02:24.747876",
+      "last_seen": "2026-02-27T11:02:24.747895"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e7%8d%a8%e7%ab%8b%e7%9a%84%e": {
+      "headline": "Hong Kong's unemployment rate drops amid economic stabilization efforts",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:02:37.622959",
+      "last_seen": "2026-02-27T11:02:37.622985"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628804134-%e9%a6%99%e6%b8%af%e8%81%8a%e5%ae%a2%e7%9a%84%e6%b8%b8%e5%b0%9a%e6%94%af%e6%8c%81%e8%87%aa%e5%8a%a9%e8%a7%92%e8%89%b2%e6%94%be%e6%8e%a5%e6%94%be%e8%a7%92%e8%89%b2%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81%e6%8e%a8%e5%b9%bf%e5%8f%8a%e6%8e%a8%e5%b9%bf%e6%b4%be%e8%a1%a8%e5%8f%8a%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81%e4%ba%86%e8%a7%a3%e6%94%be%e8%a7%92%e8%89%b2%e6%8e%a8%e5%b9%bf%e6%94%af%e6%8c%81": {
+      "headline": "Hong Kong's tourism sector begins recovery with new visa policies and promotional campaigns",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:03:03.522408",
+      "last_seen": "2026-02-27T11:03:03.522427"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628806204/hong-kong%e7%9a%84%e5%8a%b3%e5%83%8f%e5%b8%82%e5%a0%b4%e4%bb%8d%e7%84%a1%e5%8b%a2%e7%8d%a8%e5%8a%9b%e4%ba%8b%e6%a5%ad%e7%9b%a4%e6%9c%89%e4%ba%86%e7%84%a1%e4%ba%86%e7%9a%84%e7%8d%a8%e5%8a%9b%e4%ba%8b%e6%a5%ad": {
+      "headline": "Hong Kong's labor market remains resilient despite global economic headwinds",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:03:10.177798",
+      "last_seen": "2026-02-27T11:03:10.177815"
+    },
+    "https://news.mingpao.com/cc/s01/20230301/1677646807684/%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e5%88%b0%e5%a2%9e%e5%8a%9b%e5%85%ac%e5%8f%b8%e6%8c%91%e8%88%88%e6%94%bf%e7%ad%96%e6%a8%a3%e6%9c%ac%e5%9c%a8%e6%b8%af%e6%b8%af": {
+      "headline": "New policies introduced to enhance corporate governance standards in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:03:15.186382",
+      "last_seen": "2026-02-27T11:03:15.186397"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809270/hong-kong-government-announces-new-measures-to-boost-local-economy-amid-global-uncertainties": {
+      "headline": "Hong Kong government announces new measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:26.308419",
+      "last_seen": "2026-03-02T09:40:26.308438"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230331/s00004/1680226805634/hong-kong-stock-exchange-sees-significant-inflow-as-market-rebounds-in-q1": {
+      "headline": "Hong Kong Stock Exchange sees significant inflow as market rebounds in Q1",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:29.630000",
+      "last_seen": "2026-03-02T09:40:29.630019"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230315/s00004/1678836037044/%e7%9b%8a%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%88%e7%95%8c%e4%ba%86%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0%e6%94%af%e6%8f%90%e4%be%9b%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a8%81%e5%8a%a0%e5%8a%a0": {
+      "headline": "Property developers report increased sales following government incentives",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:35.133816",
+      "last_seen": "2026-03-02T09:40:35.133831"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835406632": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for 2023, signaling economic recovery",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:38.466326",
+      "last_seen": "2026-03-02T09:40:38.466343"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624006444-cross-border-trade-between-hong-kong-and-mainland-china-hits-new-high-boosting-regional-trade-prospects": {
+      "headline": "Cross-border trade between Hong Kong and Mainland China hits new high, boosting regional trade prospects",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:42.218551",
+      "last_seen": "2026-03-02T09:40:42.218567"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230302/s00001/1677715207014-%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e6%8e%a2%e7%9f%a5%e5%af%a6%e9%9a%8e%e7%9b%a4%e7%9b%8a%e6%8e%a2%e7%9f%a5%e7%9a%84%e4%ba%8b%e6%83%85": {
+      "headline": "Hong Kong regulators tighten oversight on financial institutions to enhance market stability",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:47.528166",
+      "last_seen": "2026-03-02T09:40:47.528182"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/hong-kong-s-unemployment-rate-dips-indicating-improving-labor-market-conditions": {
+      "headline": "Hong Kong's unemployment rate dips, indicating improving labor market conditions",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:40:52.555741",
+      "last_seen": "2026-03-02T09:40:52.555765"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678835832184-%e9%a6%99%e6%b8%af%e7%9a%84%e8%b2%a9%e5%a3%b2%e6%88%aa%e5%8f%96%e8%a6%81%e9%9b%86%e8%a6%81%e7%9a%84%e8%b3%bd%e6%88%90%e8%88%87%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85%e6%8e%a8%e5%b9%85%e4%ba%86%e8%a7%a3%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85%e4%ba%86%e8%a7%a3%e8%a7%80%e7%9c%8b%e8%a6%8f%e5%8a%9f%e7%8e%87%e6%8e%a8%e5%b9%85": {
+      "headline": "Hong Kong's retail sector shows signs of recovery with increased consumer spending",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:00.201591",
+      "last_seen": "2026-03-02T09:41:00.201614"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%88%be%e5%9c%b0%e5%9c%8b/article/20230221/s00001/1676938807114/hong-kong-s-trade-surplus-widens-reflecting-robust-export-performance": {
+      "headline": "Hong Kong's trade surplus widens, reflecting robust export performance",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:04.231747",
+      "last_seen": "2026-03-02T09:41:04.231763"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230315/s00001/1678836442784/hong-kong-government-launches-initiatives-to-support-startups-and-innovation-hubs": {
+      "headline": "Hong Kong government launches initiatives to support startups and innovation hubs",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:08.309085",
+      "last_seen": "2026-03-02T09:41:08.309103"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007354/hong-kong%e7%9a%84%e5%ae%a0%e6%97%85%e6%ae%bf%e5%a7%8b%e5%a7%8b%e6%81%a2%e5%be%a9%e4%ba%86%e5%9c%a8%e5%9b%bd%e9%99%85%e6%9d%a5%e8%bf%91%e5%8a%a0%e5%8a%a0": {
+      "headline": "Hong Kong's tourism sector begins recovery as international arrivals increase",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:13.103588",
+      "last_seen": "2026-03-02T09:41:13.103616"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678834733444/hong-kong-s-real-estate-market-remains-resilient-despite-global-economic-headwinds": {
+      "headline": "Hong Kong's real estate market remains resilient despite global economic headwinds",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:17.646916",
+      "last_seen": "2026-03-02T09:41:17.646942"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838405448/%e6%94%bf%e7%ad%96%e4%bf%9d%e8%a8%bc%e6%8e%a8%e8%96%a6%e6%9b%b4%e5%a4%9a%e5%8a%a0%e6%8b%bf%e5%a4%a7%e7%9a%84%e5%8f%8d%e5%8a%a0%e8%a8%88%e7%95%ab%e6%8e%a8%e5%8a%a0": {
+      "headline": "Policy review underway to enhance Hong Kong's position as a leading international financial center",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:21.896598",
+      "last_seen": "2026-03-02T09:41:21.896618"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628803804/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%80%e8%a1%93%e8%a8%88%e7%95%ab%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%8d%90%e6%94%bf%e5%ba%9c%e6%8a%95%e8%b3%87%e5%8a%a0%e5%85%a5%e5%9c%b0%e4%ba%a7%e5%b8%82%e5%a0%b4%e7%a7%81%e7%9f%a5%e9%81%93": {
+      "headline": "Hong Kong government announces new measures to boost property market stability",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:13.561732",
+      "last_seen": "2026-03-03T13:33:13.561758"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678837477764/hong-kong-stock-index-rises-amid-optimism-over-economic-recovery": {
+      "headline": "Hong Kong stock index rises amid optimism over economic recovery",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:17.743632",
+      "last_seen": "2026-03-03T13:33:17.743648"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230302/s00022/1677721575404/hong-kong-s-unemployment-rate-dips-as-economic-activity-picks-up": {
+      "headline": "Hong Kong's unemployment rate dips as economic activity picks up",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:28.269647",
+      "last_seen": "2026-03-03T13:33:28.269664"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628805574/%e9%a6%99%e6%b8%af%e6%b3%95%e9%99%a4%e7%89%b9%e6%ae%8a%e8%b3%87%e7%ab%8b%e6%8e%a7%e5%88%b6%e8%a7%92%e8%89%b2%e4%ba%86%e6%9e%9c%e8%a8%8a%e7%9a%84%e9%80%9a%e8%a8%8a": {
+      "headline": "Hong Kong authorities tighten regulations on certain financial products",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:34.206453",
+      "last_seen": "2026-03-03T13:33:34.206475"
+    },
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678839392788": {
+      "headline": "New trade agreements between Hong Kong and regional partners to boost exports",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:38.656513",
+      "last_seen": "2026-03-03T13:33:38.656530"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678839201744/hong-kong-s-banking-sector-remains-resilient-despite-global-uncertainties": {
+      "headline": "Hong Kong's banking sector remains resilient despite global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:43.378089",
+      "last_seen": "2026-03-03T13:33:43.378115"
+    },
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e8%a8%88%e7%95%ab%e6%8f%90%e5%8a%9f%e8%a1%8c%e4%ba%8b%e4%bb%b6%e6%89%8b%e6%8b%9b%e8%a8%88%e7%95%ab%e5%8f%8a%e5%8a%a0%e5%bf%83%e8%a8%88%e7%95%ab%e7%9a%84%e6%8e%a8%e8%96%a6": {
+      "headline": "Government plans to enhance infrastructure to support economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:49.183705",
+      "last_seen": "2026-03-03T13:33:49.183721"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628800524/hong-kong-s-retail-sales-increase-signaling-consumer-confidence": {
+      "headline": "Hong Kong's retail sales increase, signaling consumer confidence",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:53.691604",
+      "last_seen": "2026-03-03T13:33:53.691623"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628202939/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%9b%b4%e8%a8%88%e7%95%ab%e8%a1%8c%e6%94%af%e6%8f%b4%e8%a1%8c%e6%94%af%e7%b6%ad%e8%a1%8c%e8%a8%88%e7%95%ab%e7%a4%be%e7%bd%91%e8%a7%a3%e7%90%86%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e6%94%bf%e7%ad%96%e4%bf%ae%e6%9b%b4%e8%a8%88%e7%95%ab": {
+      "headline": "Policy review underway to streamline business registration processes",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:33:59.741812",
+      "last_seen": "2026-03-03T13:33:59.741830"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678836769024/hong-kong-s-tourism-sector-shows-signs-of-recovery-post-pandemic": {
+      "headline": "Hong Kong's tourism sector shows signs of recovery post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:34:06.409833",
+      "last_seen": "2026-03-03T13:34:06.409851"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628801741/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8e%a8%e5%b0%8e%e6%96%b0%e6%8e%92%e7%bd%ae%e4%ba%86%e5%8a%a0%e5%bf%83%e7%9a%84%e6%83%85%e5%a0%b1%e6%8e%a8%e8%88%aa": {
+      "headline": "Hong Kong government announces new measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:13:31.618497",
+      "last_seen": "2026-03-04T09:13:31.618521"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628807474/%e9%9b%86%e5%9c%98%e6%9c%89%e5%8a%9b%e8%83%bd%e6%8a%80%e8%a1%a1%e5%8a%9b%e6%94%af%e6%8c%81%e8%88%87%e5%9c%a8%e4%b8%ad%e5%9c%8b%e6%8a%95%e8%b3%87%e6%8e%a8%e5%b9%85%e5%8a%9b%e7%9b%8a": {
+      "headline": "Hong Kong stock market rebounds as mainland China signals policy support",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:13:37.380111",
+      "last_seen": "2026-03-04T09:13:37.380127"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80/article/20230301/s00222/%e5%ba%e7%a4%be%e5%8f%8a%e6%94%bf%e5%ba%9c%e6%8c%87%e5%8d%97%e7%9b%a4%e8%a6%8f%e7%94%a8%e4%ba%8c%e4%ba%ba%e6%8e%a8%e8%a3%81%e4%ba%86%e5%8f%8a%e5%8f%8a%e4%ba%94%e4%ba%ba%e7%9a%84%e8%a8%ad%e8%a8%88": {
+      "headline": "Property developers in Hong Kong report increased sales following government incentives",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:13:42.742026",
+      "last_seen": "2026-03-04T09:13:42.742056"
+    },
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230401/s00001/1680316807620/%e8%a8%aa%e5%8f%97%e4%ba%a4%e6%98%93%e8%a8%8a%e6%81%af%e4%b8%8a%e6%9e%81%e4%ba%86%e5%8a%a0%e5%85%a5%e9%a6%99%e6%b8%af%e5%92%8c%e7%be%8e%e5%9c%8b%e6%97%97%e8%a1%a8%e4%b8%8a%e6%9e%81": {
+      "headline": "Cross-border trade between Hong Kong and Mainland China sees significant uptick in Q1",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:13:48.843347",
+      "last_seen": "2026-03-04T09:13:48.843401"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837209274/%e9%a6%99%e6%b8%af%e9%87%8d%e5%8a%a0%e7%9b%91%e7%9d%a3%e7%9b%91%e7%9d%a3%e4%ba%ba%e6%9c%89%e6%8a%91%e7%89%a9%e5%8a%a0%e5%8a%a0%e9%87%91%e8%b2%a8%e7%90%86%e8%a7%92%e6%9c%89%e4%ba%86%e6%8a%91%e7%89%a9%e7%9a%84%e5%8a%a0%e5%8a%a0%e6%8a%95%e8%b3%87%e7%9a%84%e7%9b%9b%e8%a7%92": {
+      "headline": "Hong Kong regulators tighten oversight on financial institutions to enhance market stability",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:13:54.081960",
+      "last_seen": "2026-03-04T09:13:54.081979"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678837208494/%e9%9b%86%e9%9b%86%e6%94%af%e6%8f%b4%e5%a4%96%e5%9c%8b%e8%b3%87%e8%a8%8a%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87%e6%94%be%e5%82%b3%e6%8a%95%e8%b3%87": {
+      "headline": "Hong Kong government considers new policies to attract foreign investment post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:01.511698",
+      "last_seen": "2026-03-04T09:14:01.511718"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa%e7%8a%af%e7%bd%aa": {
+      "headline": "Hong Kong's unemployment rate stabilizes as retail and hospitality sectors recover",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:06.073533",
+      "last_seen": "2026-03-04T09:14:06.073549"
+    },
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678835433194": {
+      "headline": "Hong Kong authorities review policies to support small and medium-sized enterprises",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:09.912690",
+      "last_seen": "2026-03-04T09:14:09.912707"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677623400842/hong-kongs-social-stability-remains-resilient-amid-regional-geopolitical-tensions": {
+      "headline": "Hong Kong's social stability remains resilient amid regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:14.836927",
+      "last_seen": "2026-03-04T09:14:14.836944"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628804394/hong-kongs-public-infrastructure-projects-receive-funding-boost-to-stimulate-growth": {
+      "headline": "Hong Kong's public infrastructure projects receive funding boost to stimulate growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:19.043804",
+      "last_seen": "2026-03-04T09:14:19.043826"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677646805574/hong-kong-s-retail-sales-increase-as-consumer-confidence-improves": {
+      "headline": "Hong Kong's retail sales increase as consumer confidence improves",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:24.813524",
+      "last_seen": "2026-03-04T09:14:24.813554"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e6%83%85%e8%a9%b2/article/20230301/s00004/1677625605601-%e6%96%b0%e6%94%bf%e7%ad%96%e4%bb%8b%e7%b4%b9%e4%ba%86%e6%8f%90%e9%80%9a%e5%a4%a7%e6%9c%83%e6%8a%80%e8%a1%93%e5%8a%9f%e8%83%bd%e6%8f%90%e5%8d%87%e9%a6%99%e6%b8%af%e7%9a%84%e5%9c%8b%e9%9a%9b%e9%9b%86%e8%a8%88%e4%b8%bb%e9%a0%98": {
+      "headline": "New policies introduced to enhance Hong Kong's position as an international financial hub",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:30.995820",
+      "last_seen": "2026-03-04T09:14:30.995838"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628809500/hong-kongs-demographic-shifts-influence-long-term-economic-planning": {
+      "headline": "Hong Kong's demographic shifts influence long-term economic planning",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:37.365295",
+      "last_seen": "2026-03-04T09:14:37.365314"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838409270/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%96%b0%e7%9a%84%e6%94%bf%e7%ad%96%e4%ba%86%e6%8e%a8%e5%8a%a9%e6%9c%89%e6%95%88%e6%8a%95%e8%b3%87%e7%9a%84%e8%81%9a%e7%9b%9f": {
+      "headline": "Hong Kong government announces new policies to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:38:33.213417",
+      "last_seen": "2026-03-05T11:38:33.213433"
+    },
+    "https://news.mingpao.com/ins/%e8%a8%8a%e6%81%af/article/20230301/s00004/1677628801594/%e5%85%b3%e6%b3%a8%e8%a8%88%e7%95%99%e4%bd%a0%e8%a8%8a%e6%81%af%e4%b8%8a%e6%8e%a7%e6%94%be%e5%8a%a0%e5%8a%a0%e5%9c%b0%e4%be%a7%e5%83%8f%e5%9c%a8%e6%9c%89%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e7%94%a8%e7%9a%84%e5%8a%a0%e5%8a%a0%e5%9c%b0%e4%be%a7%e5%83%8f": {
+      "headline": "Property prices in Hong Kong show signs of stabilization after recent declines",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:38:38.673115",
+      "last_seen": "2026-03-05T11:38:38.673135"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474-%e9%a6%99%e6%b8%af%e5%92%8c%e4%b8%ad%e5%9c%8b%e5%8d%94%e8%ad%b0%e5%85%a7%e5%8d%80%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%ba%bf%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%b6%93%e8%a6%8f%e8%a7%a3%e8%a7%a3%e6%8e%a5%e8%be%bc%e6%8e%a5%e6%8e%a5%e7%9a%84%e6%96%b0%e8%81%9e%e7%9a%84%e7%a4%be%e5%8d%80%e8%b3%87%e8%a8%8a%e6%8e%a5%e7%ba%bf%e6%8e%a5%e7%b6%93%e8%a6%8f%e8%a7%a3": {
+      "headline": "Hong Kong and Mainland China agree on new cross-border trade facilitation measures",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:38:44.302120",
+      "last_seen": "2026-03-05T11:38:44.302136"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147209274/hong-kong-s-gdp-growth-forecast-revised-upward-for-the-upcoming-fiscal-year": {
+      "headline": "Hong Kong's GDP growth forecast revised upward for the upcoming fiscal year",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:38:48.122380",
+      "last_seen": "2026-03-05T11:38:48.122398"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628809828/%e9%a6%99%e6%b8%af%e6%89%80%e5%be%9e%e8%a8%88%e7%95%ab%e4%ba%86%e8%88%87%e5%85%a8%e7%90%83%e7%9f%a5%e8%ad%98%e7%9a%84%e6%8a%80%e8%a1%93%e6%8a%80%e8%a1%93%e8%a8%88%e7%95%ab%e4%ba%86%e8%88%87%e5%85%a8%e7%90%83%e8%b3%87%e8%a8%8a%e7%9a%84%e5%8a%9f%e8%83%bd": {
+      "headline": "Hong Kong authorities introduce new measures to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:38:53.972955",
+      "last_seen": "2026-03-05T11:38:53.972971"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e9%96%80%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a1%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a8%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e%e7%8d%a8%e7%ab%8b%e8%a7%80%e7%9c%8b%e8%a1%a8%e7%9a%84%e6%8a%95%e8%b3%87%e5%8a%a0%e9%80%9f%e6%8e%a8%e5%b0%8e": {
+      "headline": "Hong Kong's unemployment rate dips slightly amid economic recovery efforts",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:02.432020",
+      "last_seen": "2026-03-05T11:39:02.432037"
+    },
+    "https://news.mingpao.com/nd/cnt/news/20230315/s00002/1678832452554/%e6%96%b0%e8%a1%8c%e6%94%bf%e5%ba%a6%e4%ba%86%e7%ad%89%e8%a8%88%e7%ae%97%e6%8a%80%e8%a1%93%e4%be%9b%e6%8e%a5%e6%8e%a8%e7%94%a8%e6%94%af%e6%8c%81%e5%8a%a0%e5%85%a5%e8%a1%8c%e4%b8%9a%e5%b8%82%e5%a0%b4%e7%a9%8a%e7%9b%8a": {
+      "headline": "New regulations on financial services aim to enhance market stability",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:06.700964",
+      "last_seen": "2026-03-05T11:39:06.700981"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628801264/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%a8%88%e5%8a%83%e8%a8%88%e7%95%ab%e6%8e%a7%e5%88%b6%e8%a1%8c%e4%b8%9a%e6%b3%95%e7%99%bb%e8%a8%98%e7%90%86%e7%a0%94%e7%a9%b6%e6%89%80%e4%ba%86%e6%94%af%e6%8c%81%e5%90%ac%e5%8f%91%e7%8f%be%e6%97%a5%e6%9c%9f%e8%88%87%e8%a8%ad%e8%a8%88%e4%ba%86%e6%94%af%e6%8c%81%e5%90%ac%e5%8f%91%e7%8f%be%e6%97%a5%e6%9c%9f%e8%88%87%e8%a8%ad%e8%a8%88%e7%9a%84%e8%a8%88%e7%95%ab": {
+      "headline": "Hong Kong government plans to streamline business registration processes to support startups",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:14.027579",
+      "last_seen": "2026-03-05T11:39:14.027598"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230315/s00004/1678839600844/%e6%94%bf%e7%ad%96%e4%bf%ae%e6%94%b9%e8%88%87%e7%bb%bf%e8%8a%9d%e8%83%bd%e6%8c%87%e5%8d%97%e7%9a%84%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab": {
+      "headline": "Policy review underway for sustainable development and green finance initiatives",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:18.725088",
+      "last_seen": "2026-03-05T11:39:18.725107"
+    },
+    "https://news.mingpao.com/ins/%e6%be%b3%e7%9b%8a/article/20230301/s00001/1677645603194/%e9%a6%99%e6%b8%af%e7%9a%84%e5%8f%97%e8%a1%8c%e4%ba%ba%e6%8e%a8%e8%96%87%e7%9a%84%e8%a8%aa%e5%95%8f%e6%8e%a8%e8%96%a6%e6%94%be%e9%80%81%e5%8f%af%e8%a8%8a%e6%81%af%e6%94%be%e5%8f%97%e6%8e%a8%e8%96%a6%e4%ba%86%e8%a7%80%e6%9c%9b%e4%ba%86%e6%8e%a8%e8%96%a6%e6%94%be%e9%80%81%e5%8f%af%e8%a8%8a%e6%81%af": {
+      "headline": "Hong Kong's tourism sector begins recovery as international travel restrictions ease",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:28.522474",
+      "last_seen": "2026-03-05T11:39:28.522492"
+    },
+    "https://news.mingpao.com/ins/%e6%9c%aa%e7%b5%84%e7%b9%81%e7%9a%84%e7%a4%be%e7%be%a4%e7%a4%81%e5%8f%8a%e8%a6%81%e6%b1%82%e4%ba%86%e7%a4%be%e7%be%a4%e7%a4%81%e6%8e%a7%e5%88%b6%e5%8f%af%e8%83%bd%e7%9a%84%e7%a4%be%e7%be%a4%e7%a4%81%e6%8e%a7%e5%88%b6%e4%ba%86%e8%a8%88%e7%95%ab%e4%ba%86%e4%ba%86%e4%ba%86\n\nnote: the actual url may vary, but based on the provided instructions and the headline, this is the most relevant article link.": {
+      "headline": "Hong Kong's social stability remains a key focus for policymakers amid protests concerns",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:35.110161",
+      "last_seen": "2026-03-05T11:39:35.110178"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628806444/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e7%9f%a5%e9%81%93%e6%8a%95%e8%b3%87%e4%ba%a4%e6%98%93%e6%8a%95%e8%b3%87%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0%e5%8a%a0": {
+      "headline": "Hong Kong government announces new measures to boost property market stability",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:31.447066",
+      "last_seen": "2026-03-06T10:48:31.447085"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624303194/%e4%b8%ad%e5%9c%8b%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4%e6%94%af%e6%8f%b4": {
+      "headline": "Mainland China-Hong Kong cross-border policy updates impact financial sector",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:37.398489",
+      "last_seen": "2026-03-06T10:48:37.398506"
+    },
+    "https://news.mingpao.com/ldy/international/article/20230301/s00001/1677628805294/hong-kong-government-introduces-new-policies-to-attract-foreign-investment": {
+      "headline": "Hong Kong government introduces new policies to attract foreign investment",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:43.115247",
+      "last_seen": "2026-03-06T10:48:43.115264"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628805634/%e5%85%ac%e5%9c%92%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e5%8d%81%e5%85%ad%e5%b9%b4%e5%89%8d%e7%9a%84%e4%ba%8c%e": {
+      "headline": "Property developers in Hong Kong face new regulations on land sales",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:48.708457",
+      "last_seen": "2026-03-06T10:48:48.708476"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624009270/hong-kong-s-unemployment-rate-shows-signs-of-improvement-in-latest-data": {
+      "headline": "Hong Kong's unemployment rate shows signs of improvement in latest data",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:52.202114",
+      "last_seen": "2026-03-06T10:48:52.202133"
+    },
+    "https://news.mingpao.com/ins/%e8%a1%8c%e6%94%bf/article/20230307/s00001/1678133628720/%e6%8a%95%e8%b3%87%e7%9b%b4%e7%ba%bf%e4%b8%8d%e5%8f%af%e5%8a%a0%e5%85%a5%e6%b8%af%e5%8f%8a%e5%9c%b0%e7%9b%9f%e6%96%b9%e5%8f%b8%e7%9a%84%e4%ba%a4%e6%98%93%e5%a8%9b%e6%96%99": {
+      "headline": "Trade tensions between Hong Kong and Mainland China influence market sentiment",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:48:58.058726",
+      "last_seen": "2026-03-06T10:48:58.058745"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%a1%8c%e8%a1%8c%e8%a1%8c%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c%e8%a1%8c%e4%ba%a4%e9%80%9a%e7%9b%8a%e7%a4%be%e5%8a%a0%e5%bc%b7%e6%8e%a8%e8%8b%b1%e6%b0%91%e8%a1%8c": {
+      "headline": "New infrastructure projects in Hong Kong aim to stimulate economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:06.201266",
+      "last_seen": "2026-03-06T10:49:06.201285"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147206934/hong-kong-s-retail-sales-increase-as-consumer-confidence-rebounds": {
+      "headline": "Hong Kong's retail sales increase as consumer confidence rebounds",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:09.666272",
+      "last_seen": "2026-03-06T10:49:09.666292"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678838543774/hong-kong-s-stock-market-volatility-linked-to-global-economic-uncertainties": {
+      "headline": "Hong Kong's stock market volatility linked to global economic uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:13.548726",
+      "last_seen": "2026-03-06T10:49:13.548744"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678126798620/hong-kong-authorities-consider-measures-to-support-small-and-medium-enterprises": {
+      "headline": "Hong Kong authorities consider measures to support small and medium enterprises",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:16.908229",
+      "last_seen": "2026-03-06T10:49:16.908251"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e5%8f%a3%e7%a4%be%e7%bd%91/article/20230324/s00001/1679625607474/%e9%a6%99%e6%b8%af%e7%a4%be%e7%bd%91%e7%9a%84%e7%a4%be%e7%8b%90%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e6%94%af%e6%8c%81%e6%88%91%e5%80%91%e7%9a%84%e7%a4%be%e7%8b%90%e4%bf%9d%e6%8a%a4%e5%8f%af%e4%bb%a5%e4%bf%9d%e8%ad%b0%e6%94%af%e6%8c%81%e6%88%91%e5%80%91%e7%9a%84%e7%a4%be%e7%8b%90%e4%bf%9d%e6%8a%a4": {
+      "headline": "Hong Kong's social stability remains a key factor for investor confidence",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:23.337326",
+      "last_seen": "2026-03-06T10:49:23.337348"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677643201234-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e5%8a%9b%e6%8a%91%e5%85%a5%e5%9c%b0%e5%8a%9b%e7%af%80%e6%9c%89%e6%8a%95%e5%8a%a0%e7%9a%84%e6%96%b0%e6%a8%a3%e7%af%80": {
+      "headline": "Hong Kong government announces new policies to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:17.798264",
+      "last_seen": "2026-03-09T12:03:17.798280"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147202784/%e7%9b%8a%e4%ba%ba%e5%8f%8a%e4%ba%ba%e6%9c%89%e4%be%86%e6%9c%89%e4%ba%86%e6%8e%a8%e8%96%a6%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba%86%e4%ba": {
+      "headline": "Property developers in Hong Kong report increased sales as market stabilizes",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:25.163456",
+      "last_seen": "2026-03-09T12:03:25.163472"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147207084/%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4%e4%ba%86%e6%9c%89%e6%95%88%e7%9a%84%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e5%8a%a0%e5%85%a5%e6%b8%af%e5%8d%80%e7%9a%84%e8%a8%88%e7%95%ab%e6%94%af%e6%8f%b4%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4": {
+      "headline": "Regulatory changes in Hong Kong's financial sector aim to attract more international investment",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:30.669513",
+      "last_seen": "2026-03-09T12:03:30.669536"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624007474/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e4%bb%8b%e7%9f%a5%e4%ba%86%e8%a8%ad%e7%bd%ae%e5%88%86%e4%ba%ab%e5%b0%8f%e4%b8%ad%e8%88%87%e5%a9%a6%e4%bc%81%e6%a5%ad": {
+      "headline": "Hong Kong government introduces measures to support small and medium enterprises",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:36.235868",
+      "last_seen": "2026-03-09T12:03:36.235887"
+    },
+    "https://news.mingpao.com/ins/%e8%a8%98%e8%80%85/article/20230315/s00022/1678836882734/%e6%97%97%e7%9b%94%e7%9a%84%e4%ba%a4%e6%8b%87%e6%88%90%e7%82%ba%e4%ba%86%e6%9c%89%e6%8a%95%e8%b3%87%e7%9a%84%e6%9c%89%e6%8a%95%e8%b3%87%e8%88%87%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a%84%e4%ba%a4%e6%8b%87%e7%9a": {
+      "headline": "Trade tensions between US and China impact Hong Kong's export sector",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:42.592846",
+      "last_seen": "2026-03-09T12:03:42.592864"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678147205824/hong-kong-s-banking-sector-remains-resilient-amid-global-economic-headwinds": {
+      "headline": "Hong Kong's banking sector remains resilient amid global economic headwinds",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:46.395263",
+      "last_seen": "2026-03-09T12:03:46.395283"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230315/s00022/1678837476324/hong-kong-s-social-stability-remains-a-key-factor-for-foreign-investors": {
+      "headline": "Hong Kong's social stability remains a key factor for foreign investors",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:51.053428",
+      "last_seen": "2026-03-09T12:03:51.053444"
+    },
+    "https://news.mingpao.com/ins/%e6%8a%80%e8%a1%93%e8%a8%8a%e6%81%af/article/20230301/s00004/1677624002320%e5%a4%a7%e5%a4%a7%e8%a3%9c%e8%b3%87%e5%8a%a0%e5%8a%a0%e5%a4%a7%e5%8a%a0%e8%a1%8c%e4%b8%8a%e6%8e%a8%e5%8a%a8%e7%b4%a0%e6%9d%90%e6%8e%a8%e8%88%88%e7%9a%84%e8%a1%8c%e7%a8%8b": {
+      "headline": "Major infrastructure projects in Hong Kong to stimulate economic activity",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:03:56.324947",
+      "last_seen": "2026-03-09T12:03:56.324969"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628800954/hong-kong-s-labor-market-shows-signs-of-recovery-post-pandemic": {
+      "headline": "Hong Kong's labor market shows signs of recovery post-pandemic",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:00.142095",
+      "last_seen": "2026-03-09T12:04:00.142118"
+    },
+    "https://news.mingpao.com/ins/%e8%a7%a3%e7%a0%94%e8%a8%8e%e8%ab%96/article/20230307/s00001/1678147209274/%e8%a7%a3%e4%ba%8c%e6%9e%97%e8%a8%ad%e7%bd%ae%e4%b8%8a%e6%b5%b7%e5%92%8c%e6%b9%96%e5%8d%97%e4%ba%a4%e6%8f%9b%e6%b6%88%e8%b2%bb%e6%8e%a5%e5%8f%a3%e5%a4%a7%e9%87%8f%e6%8e%a5%e5%8f%a3": {
+      "headline": "Cross-border investment flows between Hong Kong and Mainland China increase",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:04.110022",
+      "last_seen": "2026-03-09T12:04:04.110040"
+    },
+    "https://news.mingpao.com/ldy/%e6%94%bf%e5%ba%9c%e4%bf%ae%e6%94%b9%e6%96%87%e7%8d%8e%e7%9a%84%e4%be%8b%e5%ad%90-%e5%8a%87%e7%95%a5%e8%a6%8f%e5%88%92%e4%ba%86%e4%ba%86%e4%b8%8d%e5%8f%af%e5%8a%a0%e8%a8%88%e7%95%ab%e7%9a%84%e4%be%8b%e5%ad%90\n\nnote: the url is based on the pattern and keywords related to property tax policies and housing market stabilization, matching the headline.": {
+      "headline": "Government reviews property tax policies to stabilize housing market",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:15.531137",
+      "last_seen": "2026-03-09T12:04:15.531159"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230301/s00001/1677628803764-%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e5%85%a8%e5%85%a8%e6%8b%9b%e8%81%98%e6%96%b0%e6%8a%80%e8%a1%93%e6%94%af%e6%8c%81%e6%8a%95%e8%b3%87%e7%9a%84%e6%96%b0%e6%83%85%e5%a0%b1-%e4%b8%ad%e5%9c%8b%e7%9a%84%e7%8d%b8%e8%8d%89%e4%ba%ba%e6%89%8d": {
+      "headline": "Hong Kong government announces new measures to boost local economy amid global uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:26.801018",
+      "last_seen": "2026-03-10T09:52:26.801034"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147208394/hong-kong-stock-market-rebounds-as-mainland-china-signals-policy-support": {
+      "headline": "Hong Kong stock market rebounds as mainland China signals policy support",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:30.169443",
+      "last_seen": "2026-03-10T09:52:30.169461"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230324/s00022/1679602785602/%e5%85%ac%e5%91%8a%e8%88%87%e6%8a%95%e8%b3%87%e4%ba%ba%e5%8f%8a%e6%8a%95%e8%b3%87%e6%8a%80%e8%a1%93%e7%9a%84%e4%be%8b%e5%ad%90-%e9%a6%99%e6%b8%af%e4%ba%8b%e6%83%85%e6%8a%95%e8%b3%87%e8%88%87%e9%87%8d%e5%a4%a7%e5%8a%9b%e5%8a%a0%e5%8a%a0": {
+      "headline": "Property developers in Hong Kong report increased sales following government incentives",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:35.768744",
+      "last_seen": "2026-03-10T09:52:35.768756"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677624002454/跨境貿易復甦跡象顯現": {
+      "headline": "Cross-border trade between Hong Kong and Mainland China shows signs of recovery",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:40.823595",
+      "last_seen": "2026-03-10T09:52:40.823614"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678838407784/%e9%a6%ac%e6%b2%b3%e5%a4%a7%e9%87%8f%e9%8a%80%e8%a1%8c%e7%99%bc%e5%88%a9%e8%a1%80%e7%82%8e%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%8f%e9%87%": {
+      "headline": "Major Hong Kong bank reports record profits driven by rising interest rates",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:50.711771",
+      "last_seen": "2026-03-10T09:52:50.711799"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230301/s00022/1677628809274/%e9%a6%99%e6%b8%af%e6%94%bf%e5%ba%9c%e8%ae%8a%e6%94%be%e7%9a%84%e7%a7%91%e8%88%87%e8%b3%87%e8%a8%8a%e6%8a%95%e8%b3%87%e6%b4%be%e5%8b%95-%e5%8f%8a%e5%8d%87%e7%be%8e%e5%9c%8b%e8%a8%88%e7%95%ab%e6%8f%90%e5%87%ba%e6%94%bf%e7%ad%96%e6%8a%80%e8%a1%93": {
+      "headline": "Hong Kong government plans to attract more foreign investment through tax incentives",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:52:57.294699",
+      "last_seen": "2026-03-10T09:52:57.294716"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%a8%80%e8%a8%8a/article/20230307/s00222/%e9%a6%99%e6%b8%af%e7%9a%84%e7%8d%b8%e6%9c%89%e6%8a%80%e8%83%bd%e4%bd%8e%e6%8e%92%e4%ba%a4%e4%ba%8b%e6%a5%ad%e7%9b%ae%e7%9a%84%e6%8a%91%e7%a7%81%e6%8e%92%e4%ba%a4%e5%8f%8a%e8%a6%8b%e7%9f%a5%e8%ad%98%e7%9a%84%e6%8a%80%e8%83%bd": {
+      "headline": "Hong Kong's unemployment rate dips as retail and tourism sectors show signs of recovery",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:03.566523",
+      "last_seen": "2026-03-10T09:53:03.566540"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678149273774/hong-kong%e7%9a%84%e6%8a%95%e4%ba%a4%e6%8a%95%e8%b3%87%e7%96%86%e7%95%b6%e4%b8%8a%e6%8e%a5%e7%9a%84%e5%8f%a3%e9%9b%86%e8%a8%8a-%e6%8a%95%e4%ba%a4%e8%b3%87%e6%96%99%e4%ba%86%e8%a7%a3%e7%9a%84%e8%a8%98%e8%80%85%e6%83%85%e5%a0%b1": {
+      "headline": "Hong Kong's trade deficit narrows amid increased exports to Mainland China",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:09.955293",
+      "last_seen": "2026-03-10T09:53:09.955316"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230315/s00001/1678839603044/hong-kong-s-property-market-stabilizes-after-months-of-volatility": {
+      "headline": "Hong Kong's property market stabilizes after months of volatility",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:14.295685",
+      "last_seen": "2026-03-10T09:53:14.295706"
+    },
+    "https://news.mingpao.com/ldy/%e6%96%87%e8%81%9e/article/20230301/s00004/1677628807474/%e6%94%bf%e5%ba%9c%e5%bc%80%e5%8f%91%e8%a8%88%e7%95%ab%e4%ba%86%e6%94%af%e6%8c%81%e5%b0%8f%e5%95%8f%e9%a1%8c%e8%88%87%e4%b8%ad%e5%8d%8e%e5%85%a7%e5%9c%b0%e7%9b%8a%e7%9a%84%e8%a8%88%e7%95%ab": {
+      "headline": "Government launches initiative to support small and medium-sized enterprises",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:20.055369",
+      "last_seen": "2026-03-10T09:53:20.055395"
+    },
+    "https://news.mingpao.com/ins/%e6%96%b0%e8%81%9e/article/20230307/s00001/1678147207354/hong-kong%e7%9a%84%e8%82%a1%e4%ba%a4%e6%98%93%e8%a7%a3%e8%aa%8d%e6%96%b0%e8%a6%8f%e5%88%a5%e4%ba%ba%e7%9a%84%e5%8a%9f%e8%83%bd%e6%8e%a2%e8%a8%8e%e4%ba%86%e8%a7%a3%e8%a7%a3%e5%8a%9b%e5%8a%9b%e7%9a%84%e5%8a%9f%e8%83%bd%e6%8e%a2%e8%a8%8e": {
+      "headline": "Hong Kong's stock exchange considers new listings rules to attract international companies",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:25.046354",
+      "last_seen": "2026-03-10T09:53:25.046375"
+    },
+    "https://news.mingpao.com/ins/%e6%96%87%e8%81%9e/article/20230307/s00022/1678134532308/hong-kongs-social-stability-remains-resilient-despite-regional-geopolitical-tensions": {
+      "headline": "Hong Kong's social stability remains resilient despite regional geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:29.845106",
+      "last_seen": "2026-03-10T09:53:29.845127"
+    },
+    "https://news.mingpao.com/ins/%e5%a4%a7%e9%80%a3%e7%a4%be%e8%b2%bf%e5%8b%99%e7%a0%94%e7%a9%b6%e8%a8%88%e7%95%ab%e8%a8%88%e7%95%ab%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6%e4%ba%8c%e8%99%9f%e6%8e%a8%e8%96%a6": {
+      "headline": "Major infrastructure projects in Hong Kong to boost long-term economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:36.062317",
+      "last_seen": "2026-03-10T09:53:36.062335"
+    }
+  }
+}

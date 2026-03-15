@@ -1,0 +1,42 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02015-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306433889/li-auto-w-monthly-return-of-equity-issuer-on-movements",
+    "https://news.futunn.com/hk/notice/306403651/li-auto-w-voluntary-announcementjanuary-2026-delivery-update",
+    "https://news.futunn.com/hk/notice/306555702/li-auto-w-next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306570749/li-auto-w-voluntary-announcementfebruary-2026-delivery-update",
+    "https://news.futunn.com/hk/notice/306608600/li-auto-w-monthly-return-of-equity-issuer-on-movements"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306433889/li-auto-w-monthly-return-of-equity-issuer-on-movements": {
+      "headline": "理想汽車-W：截至二零二六年一月三十一日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:29:56.142174",
+      "last_seen": "2026-02-09T21:29:56.142182"
+    },
+    "https://news.futunn.com/hk/notice/306403651/li-auto-w-voluntary-announcementjanuary-2026-delivery-update": {
+      "headline": "理想汽車-W：自願公告2026年1月交付更新資料",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:55:49.758820",
+      "last_seen": "2026-02-10T10:55:49.758834"
+    },
+    "https://news.futunn.com/hk/notice/306555702/li-auto-w-next-day-disclosure-return": {
+      "headline": "理想汽車-W：翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:00:54.028934",
+      "last_seen": "2026-02-27T12:00:54.028952"
+    },
+    "https://news.futunn.com/hk/notice/306570749/li-auto-w-voluntary-announcementfebruary-2026-delivery-update": {
+      "headline": "理想汽車-W：自願公告 2026年2月交付更新資料",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:09:28.088678",
+      "last_seen": "2026-03-02T10:09:28.088696"
+    },
+    "https://news.futunn.com/hk/notice/306608600/li-auto-w-monthly-return-of-equity-issuer-on-movements": {
+      "headline": "理想汽車-W：截至二零二六年二月二十八日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:36:03.828790",
+      "last_seen": "2026-03-06T11:36:03.828806"
+    }
+  }
+}

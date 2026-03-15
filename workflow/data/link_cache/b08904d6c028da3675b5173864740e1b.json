@@ -1,0 +1,154 @@
+{
+  "website": "https://www.mediatek.com/press-room",
+  "links": [
+    "https://www.mediatek.com/press-room/mediatek-unveils-dimensity-9500s-and-dimensity-8500-to-propel-performance-gaming-and-efficiency-in-flagship-and-premium-smartphones",
+    "https://www.mediatek.com/press-room/mediatek-showcases-smarter-more-connected-retail-solutions-at-nrf-2026",
+    "https://www.mediatek.com/press-room/mediatek-filogic-8000-family-pioneers-the-wi-fi-8-ecosystem-at-ces-2026",
+    "https://www.mediatek.com/press-room/media-tech-filogic-8000-family-pioneers-wi-fi-8-ecosystem-ces-2026",
+    "https://www.mediatek.com/press-room/mediatek-and-denso-collaborate-on-automotive-socs-for-advanced-driver-assistance-systems",
+    "https://www.mediatek.com/press-room/mediatek-recognizes-the-best-devices-of-2025-with-the-expect-incredible-awards",
+    "https://www.mediatek.com/press-room/media-tech-filogic-8000-family-pioneers-the-wi-fi-8-ecosystem-at-ces-2026",
+    "https://www.mediatek.com/whitepapers",
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-and-r-s-announce-world-s-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites",
+    "https://www.mediatek.com/whitepapers/mediatek-papers-accepted-top-conferences-semi-ai-communications",
+    "https://www.mediatek.com/press-room/newly-launched-nvidia-dgx-spark-features-gb10-superchip-co-designed-by-mediatek",
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-r-s-announce-world-s-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites",
+    "https://www.mediatek.com/press-room/mediatek-dimensity-9500-unleashes-best-in-class-performance-ai-experiences-and-power-efficiency-for-the-next-generation-of-mobile-devices",
+    "https://www.mediatek.com/whitepapers/mediatek-papers-accepted-top-conferences-in-semiconductors-ai-and-communications",
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-r-s-announce-worlds-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites",
+    "https://www.mediatek.com/press-room/nvidia-dgx-spark-features-gb10-superchip-co-designed-by-mediatek",
+    "https://www.mediatek.com/press-room/mediatek-develops-chip-utilizing-tsmc-2nm-process-achieving-milestones-in-performance-and-power-efficiency",
+    "https://www.mediatek.com/press-room/media/mediatek-develops-chip-utilizing-tsmc-s-2nm-process-achieving-milestones-in-performance-and-power-efficiency",
+    "https://www.mediatek.com/press-room/mediatek-exemplifies-ai-and-connectivity-leadership-at-mwc-2026",
+    "https://www.mediatek.com/press-room/mediatek-demonstrates-emergency-satellite-services-for-mobile-devices-with-starlink-mobile",
+    "https://www.mediatek.com/press-room/media-tech-exemplifies-ai-and-connectivity-leadership-at-mwc-2026"
+  ],
+  "metadata": {
+    "https://www.mediatek.com/press-room/mediatek-unveils-dimensity-9500s-and-dimensity-8500-to-propel-performance-gaming-and-efficiency-in-flagship-and-premium-smartphones": {
+      "headline": "MediaTek Unveils Dimensity 9500s and Dimensity 8500 to Propel Performance, Gaming and Efficiency in Flagship and Premium Smartphones",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:56:29.156730",
+      "last_seen": "2026-02-09T21:56:29.156738"
+    },
+    "https://www.mediatek.com/press-room/mediatek-showcases-smarter-more-connected-retail-solutions-at-nrf-2026": {
+      "headline": "MediaTek Showcases Smarter, More Connected Retail Solutions at NRF 2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:16.056653",
+      "last_seen": "2026-02-10T11:19:16.056668"
+    },
+    "https://www.mediatek.com/press-room/mediatek-filogic-8000-family-pioneers-the-wi-fi-8-ecosystem-at-ces-2026": {
+      "headline": "MediaTek Filogic 8000 Family Pioneers the Wi-Fi 8 Ecosystem at CES 2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:59:17.277885",
+      "last_seen": "2026-02-11T11:59:17.277900"
+    },
+    "https://www.mediatek.com/press-room/media-tech-filogic-8000-family-pioneers-wi-fi-8-ecosystem-ces-2026": {
+      "headline": "MediaTek Filogic 8000 Family Pioneers the Wi-Fi 8 Ecosystem at CES 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:29:32.053643",
+      "last_seen": "2026-02-11T13:29:32.053660"
+    },
+    "https://www.mediatek.com/press-room/mediatek-and-denso-collaborate-on-automotive-socs-for-advanced-driver-assistance-systems": {
+      "headline": "MediaTek and DENSO Collaborate on Automotive SoCs for Advanced Driver-Assistance Systems",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:29:36.430358",
+      "last_seen": "2026-02-11T13:29:36.430374"
+    },
+    "https://www.mediatek.com/press-room/mediatek-recognizes-the-best-devices-of-2025-with-the-expect-incredible-awards": {
+      "headline": "MediaTek Recognizes the Best Devices of 2025 with the Expect Incredible Awards",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:49:41.267907",
+      "last_seen": "2026-02-12T12:49:41.267923"
+    },
+    "https://www.mediatek.com/press-room/media-tech-filogic-8000-family-pioneers-the-wi-fi-8-ecosystem-at-ces-2026": {
+      "headline": "MediaTek Filogic 8000 Family Pioneers the Wi-Fi 8 Ecosystem at CES 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:18:25.607399",
+      "last_seen": "2026-02-13T13:18:25.607411"
+    },
+    "https://www.mediatek.com/whitepapers": {
+      "headline": "MediaTek papers accepted at top conferences in semiconductors, AI and communications",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:18:32.112716",
+      "last_seen": "2026-02-13T13:18:32.112727"
+    },
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-and-r-s-announce-world-s-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites": {
+      "headline": "ESA, MediaTek, Eutelsat, Airbus, Sharp, ITRI, and R&S Announce World’s First Rel-19 5G-Advanced NR-NTN Connection over OneWeb LEO Satellites",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:18:37.923283",
+      "last_seen": "2026-02-13T13:18:37.923298"
+    },
+    "https://www.mediatek.com/whitepapers/mediatek-papers-accepted-top-conferences-semi-ai-communications": {
+      "headline": "MediaTek papers accepted at top conferences in semiconductors, AI and communications",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:33:22.294723",
+      "last_seen": "2026-02-16T11:33:22.294737"
+    },
+    "https://www.mediatek.com/press-room/newly-launched-nvidia-dgx-spark-features-gb10-superchip-co-designed-by-mediatek": {
+      "headline": "Newly-Launched NVIDIA DGX Spark Features GB10 Superchip Co-Designed by MediaTek",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:33:27.726123",
+      "last_seen": "2026-02-16T11:33:27.726138"
+    },
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-r-s-announce-world-s-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites": {
+      "headline": "ESA, MediaTek, Eutelsat, Airbus, Sharp, ITRI, and R&S Announce World’s First Rel-19 5G-Advanced NR-NTN Connection over OneWeb LEO Satellites",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:14:31.757382",
+      "last_seen": "2026-02-20T12:14:31.757398"
+    },
+    "https://www.mediatek.com/press-room/mediatek-dimensity-9500-unleashes-best-in-class-performance-ai-experiences-and-power-efficiency-for-the-next-generation-of-mobile-devices": {
+      "headline": "MediaTek Dimensity 9500 Unleashes Best-in-Class Performance, AI Experiences, and Power Efficiency for the Next Generation of Mobile Devices",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:04:20.764541",
+      "last_seen": "2026-02-23T13:04:20.764558"
+    },
+    "https://www.mediatek.com/whitepapers/mediatek-papers-accepted-top-conferences-in-semiconductors-ai-and-communications": {
+      "headline": "MediaTek papers accepted at top conferences in semiconductors, AI and communications",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:31:20.575534",
+      "last_seen": "2026-02-24T11:31:20.575549"
+    },
+    "https://www.mediatek.com/press-room/esa-mediatek-eutelsat-airbus-sharp-itri-r-s-announce-worlds-first-rel-19-5g-advanced-nr-ntn-connection-over-oneweb-leo-satellites": {
+      "headline": "ESA, MediaTek, Eutelsat, Airbus, Sharp, ITRI, and R&S Announce World’s First Rel-19 5G-Advanced NR-NTN Connection over OneWeb LEO Satellites",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:31:30.156199",
+      "last_seen": "2026-02-24T11:31:30.156217"
+    },
+    "https://www.mediatek.com/press-room/nvidia-dgx-spark-features-gb10-superchip-co-designed-by-mediatek": {
+      "headline": "NVIDIA DGX Spark Features GB10 Superchip Co-Designed by MediaTek",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:26:04.827463",
+      "last_seen": "2026-02-25T13:26:04.827479"
+    },
+    "https://www.mediatek.com/press-room/mediatek-develops-chip-utilizing-tsmc-2nm-process-achieving-milestones-in-performance-and-power-efficiency": {
+      "headline": "MediaTek Develops Chip Utilizing TSMC’s 2nm Process, Achieving Milestones in Performance and Power Efficiency",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:27:40.167988",
+      "last_seen": "2026-02-26T11:27:40.168003"
+    },
+    "https://www.mediatek.com/press-room/media/mediatek-develops-chip-utilizing-tsmc-s-2nm-process-achieving-milestones-in-performance-and-power-efficiency": {
+      "headline": "MediaTek Develops Chip Utilizing TSMC’s 2nm Process, Achieving Milestones in Performance and Power Efficiency",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:39:15.050442",
+      "last_seen": "2026-02-27T12:39:15.050457"
+    },
+    "https://www.mediatek.com/press-room/mediatek-exemplifies-ai-and-connectivity-leadership-at-mwc-2026": {
+      "headline": "MediaTek Exemplifies AI and Connectivity Leadership at MWC 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:32:26.848852",
+      "last_seen": "2026-03-02T10:32:26.848866"
+    },
+    "https://www.mediatek.com/press-room/mediatek-demonstrates-emergency-satellite-services-for-mobile-devices-with-starlink-mobile": {
+      "headline": "MediaTek Demonstrates Emergency Satellite Services for Mobile Devices with Starlink Mobile",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:07:22.152029",
+      "last_seen": "2026-03-04T14:07:22.152044"
+    },
+    "https://www.mediatek.com/press-room/media-tech-exemplifies-ai-and-connectivity-leadership-at-mwc-2026": {
+      "headline": "MediaTek Exemplifies AI and Connectivity Leadership at MWC 2026",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:10:01.358065",
+      "last_seen": "2026-03-06T12:10:01.358080"
+    }
+  }
+}

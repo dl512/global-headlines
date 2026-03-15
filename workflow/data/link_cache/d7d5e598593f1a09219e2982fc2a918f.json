@@ -1,0 +1,21 @@
+{
+  "website": "https://www.futunn.com/hk/stock/06082-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306426361/biren-tech-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306409141/biren-tech-next-day-disclosure-return"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306426361/biren-tech-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "壁仞科技：截至二零二六年一月三十一日止股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:42.226592",
+      "last_seen": "2026-02-09T21:47:42.226613"
+    },
+    "https://news.futunn.com/hk/notice/306409141/biren-tech-next-day-disclosure-return": {
+      "headline": "壁仞科技：翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:11:26.869483",
+      "last_seen": "2026-02-10T11:11:26.869497"
+    }
+  }
+}

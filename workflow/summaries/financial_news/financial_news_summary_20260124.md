@@ -1,0 +1,33 @@
+## Global Financial News
+
+- **Gold and Silver Hit Record Highs**: Gold neared $5,000/oz and silver surpassed $100/oz, driven by safe-haven demand and global uncertainty.
+- **Asia Markets Rise as Bank of Japan Holds Rates**: Asia-Pacific stocks mostly advanced after the Bank of Japan kept rates steady and ahead of Japan’s snap election.
+- **US President Donald Trump Eases Greenland Tariff Threats**: US President Donald Trump suspended planned tariffs on Europe after reaching a framework deal on Greenland, boosting European and Asian stocks.
+- **Oil Prices Drop as Geopolitical Tensions Ease**: Oil slid 2% after US President Donald Trump toned down threats toward Greenland and Iran, reducing risk premiums.
+- **US Dollar Weakens, Yen and Aussie Strengthen**: The US dollar edged lower as Greenland tensions eased, while the Australian dollar jumped on strong jobs data and the yen rebounded.
+- **Hong Kong Hang Seng Index Climbs for Third Day**: The Hang Seng Index rose for a third consecutive day, led by gains in Alibaba, Xiaomi, and gold-related stocks.
+- **HSBC Privatization of Hang Seng Bank Approved**: HSBC received court approval to privatize Hang Seng Bank, with delisting set for January 27.
+- **Intel Shares Plunge After Disappointing Earnings**: Intel stock fell 17% post-earnings, while Nvidia and AMD gained and US tech stocks showed mixed results.
+- **Chinese Tech Firms Cleared to Buy Nvidia AI Chips**: Chinese regulators approved major tech firms, including Alibaba, to purchase Nvidia’s H200 AI chips, boosting Nvidia’s stock.
+- **Hong Kong Aerospace and Gold Stocks Surge**: Hong Kong’s commercial aerospace sector and Zijin Gold International saw strong weekly gains amid the metals rally.
+- **IPO Frenzy for Snack Chain Rongrong Busy**: Rongrong Busy (01768.HK) IPO was oversubscribed by over 1,500 times, attracting major cornerstone investors.
+- **US Federal Reserve Rate Cut Expected in June**: Wall Street now expects the Fed’s first rate cut in June, later than previously anticipated.
+- **UBS to Offer Bitcoin and Ethereum to Clients**: UBS Group will allow private banking clients to invest in Bitcoin and Ethereum, signaling growing crypto acceptance.
+- **Eurozone and US PMIs Show Modest Growth**: Eurozone and US January PMIs indicated modest economic expansion but came in slightly below expectations.
+- **China’s Sinopec Reports Higher Natural Gas Output**: Sinopec’s natural gas production rose 4% in 2022, while refined product sales declined.
+- **Cheung Kong Plans Port Asset Restructuring**: Cheung Kong is considering splitting port sales into separate projects with different ownership structures amid geopolitical uncertainty.
+- **German Lawmakers Push for Gold Repatriation**: German politicians renewed calls to repatriate gold from New York, citing unpredictable US policies.
+- **Multiple Countries Reduce US Treasury Holdings**: More countries are selling US Treasuries amid rising geopolitical tensions and US threats over Greenland.
+- **US Considers Maritime Blockade on Cuba Oil Imports**: The US is reviewing a possible maritime blockade of Cuba’s oil imports to pressure the Cuban government.
+- **Xiaomi Announces Share Buyback Plan**: Xiaomi unveiled a 2.5 billion RMB share buyback, boosting its stock price.
+- **TSMC and AI Chip Boom Lift Global Chip Stocks**: TSMC’s record profits and strong AI chip demand drove gains in Asian and European semiconductor stocks.
+- **South Korea’s Kospi Hits Record High**: The Kospi reached a new high after the Bank of Korea kept rates unchanged.
+- **Japanese Yen Surges on Intervention Speculation**: The yen rebounded sharply amid speculation of joint Japan-US intervention in forex markets.
+- **EU Suspends Retaliatory Tariffs Against US**: The EU announced a six-month suspension of retaliatory tariffs to ease trade tensions with the US.
+- **Hong Kong Woman Scammed in Crypto Investment**: A Hong Kong woman lost HKD 21.4 million in a virtual currency scam, prompting police warnings.
+- **Commodities Rally May Outpace Stocks and Bonds**: Analysts suggest commodities could outperform traditional assets as gold and silver reach new highs.
+- **Lagarde: Global Economy Remains Resilient**: At Davos, Christine Lagarde and others said global growth is resilient despite disruptions from US President Donald Trump’s policies.
+- **Federal Reserve Chair Announcement Imminent**: Riddell is seen as the leading candidate for the next US Federal Reserve Chair.
+- **China’s Alibaba Considers Chip Subsidiary IPO**: Alibaba may support an independent listing of its chip subsidiary, potentially valued up to HKD 483.6 billion.
+- **Sinopec’s Domestic Oil Output Rises**: Sinopec’s domestic crude oil production increased slightly, while overseas output fell.
+- **Trading Psychology Stressed for Market Success**: Experts highlight emotional management as key for consistent trading performance.

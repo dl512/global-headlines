@@ -1,0 +1,588 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01211-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68606940",
+    "https://news.futunn.com/hk/post/68642078",
+    "https://news.futunn.com/hk/post/68641735",
+    "https://news.futunn.com/hk/post/68643240",
+    "https://news.futunn.com/hk/post/68641904",
+    "https://news.futunn.com/hk/post/68638684",
+    "https://news.futunn.com/hk/post/68638038",
+    "https://news.futunn.com/hk/post/68636201",
+    "https://news.futunn.com/hk/post/68636109",
+    "https://news.futunn.com/hk/post/68634883",
+    "https://news.futunn.com/hk/post/68641048",
+    "https://news.futunn.com/hk/post/68634812",
+    "https://news.futunn.com/hk/post/68635822",
+    "https://news.futunn.com/hk/post/68635001",
+    "https://news.futunn.com/hk/post/68662328/the-ministry-of-commerce-held-discussions-with-automobile-manufacturers-to",
+    "https://news.futunn.com/hk/post/68668382",
+    "https://news.futunn.com/hk/post/68643610",
+    "https://news.futunn.com/hk/post/68669992/automobile-industry-2026-prospect-intelligent-speed-restructuring-and-globalization",
+    "https://news.futunn.com/hk/post/68801537",
+    "https://news.futunn.com/hk/post/68755652",
+    "https://news.futunn.com/hk/post/68800121",
+    "https://news.futunn.com/hk/post/68745591",
+    "https://news.futunn.com/hk/post/68800414/the-state-administration-for-market-regulation-has-released-a-compliance",
+    "https://news.futunn.com/hk/post/68799592",
+    "https://news.futunn.com/hk/post/68866881/the-hong-kong-stock-market-ushers-in-an-era-of",
+    "https://news.futunn.com/hk/post/68822787/china-s-official-introduction-of-new-pricing-regulations-for-the",
+    "https://news.futunn.com/hk/post/68947627",
+    "https://news.futunn.com/hk/post/68947141",
+    "https://news.futunn.com/hk/post/68946825",
+    "https://news.futunn.com/hk/post/68946558",
+    "https://news.futunn.com/hk/post/68945488",
+    "https://news.futunn.com/hk/post/68943599",
+    "https://news.futunn.com/hk/post/68943430",
+    "https://news.futunn.com/hk/post/68943131",
+    "https://news.futunn.com/hk/post/68942643",
+    "https://news.futunn.com/hk/post/69088726/automotive-stocks-in-the-hong-kong-stock-market-generally-rose",
+    "https://news.futunn.com/hk/post/69087405/cui-dongshu-of-the-china-passenger-car-association-last-year",
+    "https://news.futunn.com/hk/post/69089918",
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead",
+    "https://news.futunn.com/hk/post/69195475",
+    "https://news.futunn.com/hk/post/69194752",
+    "https://news.futunn.com/hk/post/69194342",
+    "https://news.futunn.com/hk/post/69193917/hsbc-research-byd-s-launch-of-the-super-e-platform",
+    "https://news.futunn.com/hk/post/69192590",
+    "https://news.futunn.com/hk/post/69189006/china-galaxy-securities-the-optimization-of-the-trade-in-policy",
+    "https://news.futunn.com/hk/post/69188685",
+    "https://news.futunn.com/hk/post/69186417",
+    "https://news.futunn.com/hk/post/69189674",
+    "https://news.futunn.com/hk/post/69198028/快訊-銀河證券-節後多款旗艦新能源產品有望陸續上市-汽車市場消費有望回暖",
+    "https://news.futunn.com/hk/post/69186838",
+    "https://news.futunn.com/hk/post/69183926",
+    "https://news.futunn.com/hk/post/69183534",
+    "https://news.futunn.com/hk/post/69175944",
+    "https://news.futunn.com/hk/post/69174438",
+    "https://news.futunn.com/hk/post/69171418",
+    "https://news.futunn.com/hk/post/69171646/插電式混合動力汽車競爭格局報告2025：主要企業分析、概況、產品開發、併購、戰略合作及至2033年的收入預測洞察",
+    "https://news.futunn.com/hk/post/69170156",
+    "https://news.futunn.com/hk/post/69338207",
+    "https://news.futunn.com/hk/post/69336833",
+    "https://news.futunn.com/hk/post/69337998",
+    "https://news.futunn.com/hk/post/69334304",
+    "https://news.futunn.com/hk/post/69335794",
+    "https://news.futunn.com/hk/post/69570602/byd-to-launch-2nd-gen-blade-battery-and-flash-charging",
+    "https://news.futunn.com/hk/post/69572290",
+    "https://news.futunn.com/hk/post/69668522",
+    "https://news.futunn.com/hk/post/69697431/byd-s-new-model-push-seen-lifting-market-share-market",
+    "https://news.futunn.com/hk/post/69696905",
+    "https://news.futunn.com/hk/post/69696807",
+    "https://news.futunn.com/hk/post/69695541",
+    "https://news.futunn.com/hk/post/69695205",
+    "https://news.futunn.com/hk/post/69694858/byd-opens-pre-sales-for-song-ultra-ev-with-flash",
+    "https://news.futunn.com/hk/post/69695320",
+    "https://news.futunn.com/hk/post/69693935",
+    "https://news.futunn.com/hk/post/69693373/the-flagship-model-of-the-2026-yangwang-series-has-been",
+    "https://news.futunn.com/hk/post/69692845/byd-debuts-seal-08-sedan-launch-set-for-q2",
+    "https://news.futunn.com/hk/post/69776401/the-biggest-winner-of-the-surge-in-oil-prices-electric",
+    "https://news.futunn.com/hk/post/69778508",
+    "https://news.futunn.com/hk/post/69777638/morgan-stanley-byd-01211-hk-takes-the-lead-in-technological",
+    "https://news.futunn.com/hk/post/69800884/perfect-conclusion-to-the-first-half-of-electrification-byd-01211",
+    "https://news.futunn.com/hk/post/69833402",
+    "https://news.futunn.com/hk/post/69833869",
+    "https://news.futunn.com/hk/post/69833172",
+    "https://news.futunn.com/hk/post/69830538"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68606940": {
+      "headline": "比亞迪巴西工廠加速本地化生產，目標2027年實現50%零部件本地供應",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:16.453301",
+      "last_seen": "2026-02-09T21:26:16.453310"
+    },
+    "https://news.futunn.com/hk/post/68642078": {
+      "headline": "比亞迪汽車金融「搬家」！4年淨利潤增長14倍",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:20.847079",
+      "last_seen": "2026-02-09T21:26:20.847094"
+    },
+    "https://news.futunn.com/hk/post/68641735": {
+      "headline": "承泰科技完成港股上市備案 系毫米波雷達供應商 比亞迪爲主要客戶",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:25.118097",
+      "last_seen": "2026-02-09T21:26:25.118111"
+    },
+    "https://news.futunn.com/hk/post/68643240": {
+      "headline": "8294輛！2026年1月客車銷量出爐，海格宇通中通居前三",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:29.899726",
+      "last_seen": "2026-02-09T21:26:29.899735"
+    },
+    "https://news.futunn.com/hk/post/68641904": {
+      "headline": "2026年鈉電池蓄勢待發：技術突破與場景落地雙輪驅動產業突圍",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:34.075180",
+      "last_seen": "2026-02-09T21:26:34.075189"
+    },
+    "https://news.futunn.com/hk/post/68638684": {
+      "headline": "衝擊高端大SUV賽道！比亞迪大唐手繪圖曝光 龍顏美學直接拉滿",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:38.370613",
+      "last_seen": "2026-02-09T21:26:38.370623"
+    },
+    "https://news.futunn.com/hk/post/68638038": {
+      "headline": "中國與歐洲新能源「博弈」與「融合」",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:43.980014",
+      "last_seen": "2026-02-09T21:26:43.980024"
+    },
+    "https://news.futunn.com/hk/post/68636201": {
+      "headline": "智駕芯片新一輪博弈開場，誰在借力L3/L4重塑市場格局？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:48.168449",
+      "last_seen": "2026-02-09T21:26:48.168462"
+    },
+    "https://news.futunn.com/hk/post/68636109": {
+      "headline": "中國汽車和電商進軍拉美，全球化佈局重新佈陣",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:52.335234",
+      "last_seen": "2026-02-09T21:26:52.335244"
+    },
+    "https://news.futunn.com/hk/post/68634883": {
+      "headline": "中國品牌突圍，泰國車市變天",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:26:57.706455",
+      "last_seen": "2026-02-09T21:26:57.706468"
+    },
+    "https://news.futunn.com/hk/post/68641048": {
+      "headline": "包攬中國、全球銷冠！比亞迪2025年460萬銷量霸榜新能源",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:27:02.436984",
+      "last_seen": "2026-02-09T21:27:02.436996"
+    },
+    "https://news.futunn.com/hk/post/68634812": {
+      "headline": "比亞迪公佈固態電池最新進展！",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:27:06.729261",
+      "last_seen": "2026-02-09T21:27:06.729271"
+    },
+    "https://news.futunn.com/hk/post/68635822": {
+      "headline": "海外成主戰場！2025 儲能電芯前十揭曉，中企全線領跑",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:27:10.871598",
+      "last_seen": "2026-02-09T21:27:10.871611"
+    },
+    "https://news.futunn.com/hk/post/68635001": {
+      "headline": "比亞迪：適時推出兼具市場競爭力與用戶價值的產品及技術方案",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:27:15.081067",
+      "last_seen": "2026-02-09T21:27:15.081080"
+    },
+    "https://news.futunn.com/hk/post/68662328/the-ministry-of-commerce-held-discussions-with-automobile-manufacturers-to": {
+      "headline": "國家商務部與車企開座談會 研究汽車流通消費有關工作",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:52:34.666516",
+      "last_seen": "2026-02-10T10:52:34.666531"
+    },
+    "https://news.futunn.com/hk/post/68668382": {
+      "headline": "整車主線週報：404批工信部新車公告發布，蔚來25Q4業績超預期",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:52:40.958971",
+      "last_seen": "2026-02-10T10:52:40.958988"
+    },
+    "https://news.futunn.com/hk/post/68643610": {
+      "headline": "比亞迪攜手曼蘇爾集團正式進入埃及市場",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:52:44.806619",
+      "last_seen": "2026-02-10T10:52:44.806633"
+    },
+    "https://news.futunn.com/hk/post/68669992/automobile-industry-2026-prospect-intelligent-speed-restructuring-and-globalization": {
+      "headline": "汽車及汽車零部件行業2026年展望：智能提速、格局再塑與全球化持續",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:52:50.777119",
+      "last_seen": "2026-02-10T10:52:50.777135"
+    },
+    "https://news.futunn.com/hk/post/68801537": {
+      "headline": "94.5萬輛！102.7GWh！1月我國新能源汽車及動力電池銷量出爐！",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:11:27.975586",
+      "last_seen": "2026-02-12T12:11:27.975602"
+    },
+    "https://news.futunn.com/hk/post/68755652": {
+      "headline": "比亞迪成爲曼城足球俱樂部官方合作伙伴",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:30.015458",
+      "last_seen": "2026-02-12T12:11:30.015477"
+    },
+    "https://news.futunn.com/hk/post/68800121": {
+      "headline": "1月汽車行業平穩開局 新能源汽車出口高速增長 以舊換新補貼層出不窮【SMM專題】",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:11:30.660000",
+      "last_seen": "2026-02-12T12:11:30.660014"
+    },
+    "https://news.futunn.com/hk/post/68745591": {
+      "headline": "比亞迪電動汽車1月份在澳大利亞銷量高居榜首 6款車進入銷量榜前10",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:33.433090",
+      "last_seen": "2026-02-12T12:11:33.433107"
+    },
+    "https://news.futunn.com/hk/post/68800414/the-state-administration-for-market-regulation-has-released-a-compliance": {
+      "headline": "國家市監局公布汽車行業價格行為合規指南 涉規範促銷與定價等",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:11:34.165177",
+      "last_seen": "2026-02-12T12:11:34.165193"
+    },
+    "https://news.futunn.com/hk/post/68799592": {
+      "headline": "歷史性時刻！出口乘用車中，新能源佔比首次超一半",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:11:34.841447",
+      "last_seen": "2026-02-12T12:11:34.841462"
+    },
+    "https://news.futunn.com/hk/post/68866881/the-hong-kong-stock-market-ushers-in-an-era-of": {
+      "headline": "港股迎來定價權分層時代！南向1.41萬億「壓艙」，韓國散戶「點火」",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:30:57.468498",
+      "last_seen": "2026-02-13T12:30:57.468522"
+    },
+    "https://news.futunn.com/hk/post/68822787/china-s-official-introduction-of-new-pricing-regulations-for-the": {
+      "headline": "中國官方出臺汽車行業價格新規：「實際出廠價格低於其生產成本」存在重大法律風險",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:30:58.082328",
+      "last_seen": "2026-02-13T12:30:58.082350"
+    },
+    "https://news.futunn.com/hk/post/68947627": {
+      "headline": "今年春節返鄉，理想純電與比亞迪插混車主樂無憂，續航無慮又省錢",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:45.219972",
+      "last_seen": "2026-02-16T11:03:45.219988"
+    },
+    "https://news.futunn.com/hk/post/68947141": {
+      "headline": "儲能「斬殺線」來了，2026年中小企業生死局與頭部企業破局邏輯",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:45.888170",
+      "last_seen": "2026-02-16T11:03:45.888189"
+    },
+    "https://news.futunn.com/hk/post/68946825": {
+      "headline": "重磅！2025年中國及31省市新能源客車行業政策彙總及解讀（全） 公交客運新能源替換是行業發展重點領域",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:46.572533",
+      "last_seen": "2026-02-16T11:03:46.572549"
+    },
+    "https://news.futunn.com/hk/post/68946558": {
+      "headline": "2025 年比亞迪海外銷量突破 100 萬輛，新能源汽車「遊遍」119 個國家和地區",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:03:48.181772",
+      "last_seen": "2026-02-16T11:03:48.181788"
+    },
+    "https://news.futunn.com/hk/post/68945488": {
+      "headline": "【券商聚焦】交銀國際：隨着各地細則加速落地 車市景氣度有望逐步回暖",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:48.891334",
+      "last_seen": "2026-02-16T11:03:48.891350"
+    },
+    "https://news.futunn.com/hk/post/68943599": {
+      "headline": "2026春節租車熱潮湧動：00後成主力，新能源車型預訂量飆升6倍",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:49.408328",
+      "last_seen": "2026-02-16T11:03:49.408345"
+    },
+    "https://news.futunn.com/hk/post/68943430": {
+      "headline": "比亞迪ATTO 3 EVO海外發布：800V高壓平台加持，零百加速3.9秒四驅版來襲",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:03:51.023902",
+      "last_seen": "2026-02-16T11:03:51.023918"
+    },
+    "https://news.futunn.com/hk/post/68943131": {
+      "headline": "方程豹鈦7純電版，比亞迪旗下高端個性化品牌的最新力作",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:51.746854",
+      "last_seen": "2026-02-16T11:03:51.746870"
+    },
+    "https://news.futunn.com/hk/post/68942643": {
+      "headline": "廣東何以匯天下——解碼從「世界工廠」到「全球市場」的廣東實踐",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:53.495005",
+      "last_seen": "2026-02-16T11:03:53.495021"
+    },
+    "https://news.futunn.com/hk/post/69088726/automotive-stocks-in-the-hong-kong-stock-market-generally-rose": {
+      "headline": "港股汽車股普漲，機構看好後續政策落地與出口韌性雙重催化",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:34:52.233881",
+      "last_seen": "2026-02-23T12:34:52.233900"
+    },
+    "https://news.futunn.com/hk/post/69087405/cui-dongshu-of-the-china-passenger-car-association-last-year": {
+      "headline": "乘聯會崔東樹：去年內地汽車海外銷量破900萬輛 全產業鏈出海模式成型",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:34:52.933964",
+      "last_seen": "2026-02-23T12:34:52.933981"
+    },
+    "https://news.futunn.com/hk/post/69089918": {
+      "headline": "「電池護照」來了！",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:34:53.606741",
+      "last_seen": "2026-02-23T12:34:53.606758"
+    },
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead": {
+      "headline": "無懼關稅衝擊！科技板塊擔當 「主攻手」助科指大漲4%，機構：在AI應用加速推進的背景下，科技板塊有望反彈回升",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:34:54.340514",
+      "last_seen": "2026-02-23T12:34:54.340545"
+    },
+    "https://news.futunn.com/hk/post/69195475": {
+      "headline": "比亞迪宋Ultra EV內飾官圖 配雙輻式方向盤 續航最高710km",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:03.924650",
+      "last_seen": "2026-02-25T12:02:03.924666"
+    },
+    "https://news.futunn.com/hk/post/69194752": {
+      "headline": "比亞迪全國大規模安裝兆瓦閃充樁 多項設計優化提升使用體驗",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:05.922541",
+      "last_seen": "2026-02-25T12:02:05.922557"
+    },
+    "https://news.futunn.com/hk/post/69194342": {
+      "headline": "碳酸鋰供給收緊疊加固態電池國標發佈在即，電池ETF漲1.43%",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:07.739563",
+      "last_seen": "2026-02-25T12:02:07.739581"
+    },
+    "https://news.futunn.com/hk/post/69193917/hsbc-research-byd-s-launch-of-the-super-e-platform": {
+      "headline": "《大行》滙豐研究：比亞迪推「超級e平台」或提升技術標準 密切關注自動駕駛相關里程碑",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:10.478293",
+      "last_seen": "2026-02-25T12:02:10.478310"
+    },
+    "https://news.futunn.com/hk/post/69192590": {
+      "headline": "比亞迪鄭州基地產量破百萬",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:13.322109",
+      "last_seen": "2026-02-25T12:02:13.322126"
+    },
+    "https://news.futunn.com/hk/post/69189006/china-galaxy-securities-the-optimization-of-the-trade-in-policy": {
+      "headline": "中國銀河證券：以舊換新政策優化提升購車均價 3月乘用車消費有望回暖",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:14.712481",
+      "last_seen": "2026-02-25T12:02:14.712498"
+    },
+    "https://news.futunn.com/hk/post/69188685": {
+      "headline": "保護主義無助於提升歐盟汽車產業競爭力",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:16.025279",
+      "last_seen": "2026-02-25T12:02:16.025296"
+    },
+    "https://news.futunn.com/hk/post/69186417": {
+      "headline": "2026年1月儲能系統中標TOP10! 比亞迪開年奪魁",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:18.366655",
+      "last_seen": "2026-02-25T12:02:18.366670"
+    },
+    "https://news.futunn.com/hk/post/69189674": {
+      "headline": "比亞迪兆瓦級閃充樁規模化部署，充電速度比肩加油，引領綠色出行新體驗",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:20.037619",
+      "last_seen": "2026-02-25T12:02:20.037636"
+    },
+    "https://news.futunn.com/hk/post/69198028/快訊-銀河證券-節後多款旗艦新能源產品有望陸續上市-汽車市場消費有望回暖": {
+      "headline": "快訊 | 銀河證券：節後多款旗艦新能源產品有望陸續上市 汽車市場消費有望回暖",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:21.880764",
+      "last_seen": "2026-02-25T12:02:21.880780"
+    },
+    "https://news.futunn.com/hk/post/69186838": {
+      "headline": "中國率先量產固態電池！電動車續航突破1500公里，全球車企慌了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:22.751442",
+      "last_seen": "2026-02-25T12:02:22.751457"
+    },
+    "https://news.futunn.com/hk/post/69183926": {
+      "headline": "我國有14億人，爲何汽車突然賣不動了，老百姓說出原因，太真實了",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:24.040472",
+      "last_seen": "2026-02-25T12:02:24.040488"
+    },
+    "https://news.futunn.com/hk/post/69183534": {
+      "headline": "新加坡媒體：中國本土奢侈品牌正快速成長",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:24.938292",
+      "last_seen": "2026-02-25T12:02:24.938308"
+    },
+    "https://news.futunn.com/hk/post/69175944": {
+      "headline": "比亞迪獲得實用新型專利授權：「電池蓋、電池、電池包及用電設備」",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:25.809874",
+      "last_seen": "2026-02-25T12:02:25.809891"
+    },
+    "https://news.futunn.com/hk/post/69174438": {
+      "headline": "比亞迪海獺來襲，空間配置有亮點，與吉利星願誰能稱霸小型車市場？",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:26.681782",
+      "last_seen": "2026-02-25T12:02:26.681801"
+    },
+    "https://news.futunn.com/hk/post/69171418": {
+      "headline": "比亞迪旗下高端品牌騰勢汽車正式發佈了全新旗艦車型Z9GT的官圖",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:30.938237",
+      "last_seen": "2026-02-25T12:02:30.938252"
+    },
+    "https://news.futunn.com/hk/post/69171646/插電式混合動力汽車競爭格局報告2025：主要企業分析、概況、產品開發、併購、戰略合作及至2033年的收入預測洞察": {
+      "headline": "插電式混合動力汽車競爭格局報告2025：主要企業分析、概況、產品開發、併購、戰略合作及至2033年的收入預測洞察",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:31.965242",
+      "last_seen": "2026-02-25T12:02:31.965259"
+    },
+    "https://news.futunn.com/hk/post/69170156": {
+      "headline": "貴州2026年目標：電力總裝機達到1.1億千瓦",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:02:33.287110",
+      "last_seen": "2026-02-25T12:02:33.287127"
+    },
+    "https://news.futunn.com/hk/post/69338207": {
+      "headline": "1036 公里，比亞迪官宣全新騰勢 Z9GT 爲全球最長純電續航車型",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:57:46.675640",
+      "last_seen": "2026-02-27T11:57:46.675657"
+    },
+    "https://news.futunn.com/hk/post/69336833": {
+      "headline": "比亞迪加入「7年低息」金融大戰！新能源車市庫存70天倒逼行業血拼",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:57:47.342871",
+      "last_seen": "2026-02-27T11:57:47.342889"
+    },
+    "https://news.futunn.com/hk/post/69337998": {
+      "headline": "巴西礦業正經歷着中國發展帶來的「新浪潮」",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:57:48.023312",
+      "last_seen": "2026-02-27T11:57:48.023329"
+    },
+    "https://news.futunn.com/hk/post/69334304": {
+      "headline": "2025全球汽車銷量TOP10出爐！中國品牌「三強聚首」 比亞迪排名創新高",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:57:51.434526",
+      "last_seen": "2026-02-27T11:57:51.434542"
+    },
+    "https://news.futunn.com/hk/post/69335794": {
+      "headline": "比亞迪再推垂直整合新舉措！引入光刻機，爲高算力芯片自主生產鋪路",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:57:52.104568",
+      "last_seen": "2026-02-27T11:57:52.104586"
+    },
+    "https://news.futunn.com/hk/post/69570602/byd-to-launch-2nd-gen-blade-battery-and-flash-charging": {
+      "headline": "快訊 | 比亞迪將於3月5日發佈第二代刀片電池及閃充技術。（一財）",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:16.936812",
+      "last_seen": "2026-03-04T13:27:16.936831"
+    },
+    "https://news.futunn.com/hk/post/69572290": {
+      "headline": "比亞迪王朝首款 B 級純電 SUV 宋 Ultra EV 官宣 3 月 5 日預售",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:19.193251",
+      "last_seen": "2026-03-04T13:27:19.193269"
+    },
+    "https://news.futunn.com/hk/post/69668522": {
+      "headline": "比亞迪顛覆性技術發佈，王傳福：第二代刀片電池「5分鐘充好，9分鐘充飽」",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:17.439159",
+      "last_seen": "2026-03-06T11:29:17.439175"
+    },
+    "https://news.futunn.com/hk/post/69697431/byd-s-new-model-push-seen-lifting-market-share-market": {
+      "headline": "BYD's New Model Push Seen Lifting Market Share -- Market Talk",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:20.658396",
+      "last_seen": "2026-03-06T11:29:20.658412"
+    },
+    "https://news.futunn.com/hk/post/69696905": {
+      "headline": "汽車行業反內卷：從「價格戰」到「價值戰」",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:29:22.444251",
+      "last_seen": "2026-03-06T11:29:22.444269"
+    },
+    "https://news.futunn.com/hk/post/69696807": {
+      "headline": "5分好、9分飽、3分寒，專克冷與慢！比亞迪發佈第二代刀片電池及閃充技術",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:24.233344",
+      "last_seen": "2026-03-06T11:29:24.233359"
+    },
+    "https://news.futunn.com/hk/post/69695541": {
+      "headline": "2026年中國電動機行業競爭格局與應用場景分析",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:29:25.097570",
+      "last_seen": "2026-03-06T11:29:25.097585"
+    },
+    "https://news.futunn.com/hk/post/69695205": {
+      "headline": "仰望三車齊發！全系加閃充，這才是高端電動",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:29:25.998260",
+      "last_seen": "2026-03-06T11:29:25.998276"
+    },
+    "https://news.futunn.com/hk/post/69694858/byd-opens-pre-sales-for-song-ultra-ev-with-flash": {
+      "headline": "比亞迪開啓宋Ultra EV預售，支持閃充且續航達710公里",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:30.737497",
+      "last_seen": "2026-03-06T11:29:30.737511"
+    },
+    "https://news.futunn.com/hk/post/69695320": {
+      "headline": "商場與汽車，分手快樂",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:29:32.907171",
+      "last_seen": "2026-03-06T11:29:32.907187"
+    },
+    "https://news.futunn.com/hk/post/69693935": {
+      "headline": "搭載天神之眼B+第二代兆瓦閃充，比亞迪宋Ultra EV 15.5萬元起",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:29:33.864561",
+      "last_seen": "2026-03-06T11:29:33.864578"
+    },
+    "https://news.futunn.com/hk/post/69693373/the-flagship-model-of-the-2026-yangwang-series-has-been": {
+      "headline": "仰望2026款旗艦車型上市",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:38.157018",
+      "last_seen": "2026-03-06T11:29:38.157036"
+    },
+    "https://news.futunn.com/hk/post/69692845/byd-debuts-seal-08-sedan-launch-set-for-q2": {
+      "headline": "比亞迪推出Seal 08轎車，計劃於第二季度上市",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:42.201263",
+      "last_seen": "2026-03-06T11:29:42.201277"
+    },
+    "https://news.futunn.com/hk/post/69776401/the-biggest-winner-of-the-surge-in-oil-prices-electric": {
+      "headline": "油價暴漲的超級「贏家」：電動汽車！",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:35:41.717477",
+      "last_seen": "2026-03-09T12:35:41.717496"
+    },
+    "https://news.futunn.com/hk/post/69778508": {
+      "headline": "電動化上半場完美收官：比亞迪發佈第二代刀片電池及閃充技術",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:35:45.343749",
+      "last_seen": "2026-03-09T12:35:45.343764"
+    },
+    "https://news.futunn.com/hk/post/69777638/morgan-stanley-byd-01211-hk-takes-the-lead-in-technological": {
+      "headline": "《大行》大摩：比亞迪股份(01211.HK)在技術突破方面佔據先機 評級「增持」",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:35:49.381332",
+      "last_seen": "2026-03-09T12:35:49.381354"
+    },
+    "https://news.futunn.com/hk/post/69800884/perfect-conclusion-to-the-first-half-of-electrification-byd-01211": {
+      "headline": "電動化上半場完美收官：比亞迪(01211)發佈第二代刀片電池及閃充技術",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:24:21.181322",
+      "last_seen": "2026-03-10T10:24:21.181344"
+    },
+    "https://news.futunn.com/hk/post/69833402": {
+      "headline": "中東局勢生變 儲能電池出海「熱」中有「憂」",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:24:22.533163",
+      "last_seen": "2026-03-10T10:24:22.533180"
+    },
+    "https://news.futunn.com/hk/post/69833869": {
+      "headline": "比亞迪二代刀片電池對於電芯殼體&電池箱體的影響",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:24:23.659216",
+      "last_seen": "2026-03-10T10:24:23.659231"
+    },
+    "https://news.futunn.com/hk/post/69833172": {
+      "headline": "AI 帶來的電網危機，解法藏在車企的換電站裏？",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:24:24.631906",
+      "last_seen": "2026-03-10T10:24:24.631963"
+    },
+    "https://news.futunn.com/hk/post/69830538": {
+      "headline": "比亞迪領匯 e7 新車預熱：5 分鐘充好，9 分鐘充飽",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:24:25.566379",
+      "last_seen": "2026-03-10T10:24:25.566397"
+    }
+  }
+}

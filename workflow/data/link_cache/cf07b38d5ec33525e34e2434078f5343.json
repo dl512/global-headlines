@@ -1,0 +1,21 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02498-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306434018/robosense-monthly-return-of-equity-issuer-on-movements-in-securities",
+    "https://news.futunn.com/hk/notice/306345371/robosense-grant-of-awards-pursuant-to-the-post-ipo-share"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306434018/robosense-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "速騰聚創：截至二零二六年一月三十一日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:36:16.532991",
+      "last_seen": "2026-02-09T21:36:16.533000"
+    },
+    "https://news.futunn.com/hk/notice/306345371/robosense-grant-of-awards-pursuant-to-the-post-ipo-share": {
+      "headline": "速騰聚創：根據首次公開發售後股份激勵計劃授出獎勵",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:01:42.652831",
+      "last_seen": "2026-02-10T11:01:42.652847"
+    }
+  }
+}

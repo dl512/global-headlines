@@ -1,0 +1,34 @@
+## Global Financial News
+
+- **Gold and US Dollar Movement**: Gold fell over 1% due to profit-taking and easing geopolitical tensions, while the US dollar strengthened on upbeat economic data and reduced Fed rate cut expectations.
+- **Oil Prices Edge Up Amid Middle East Supply Risks**: Oil prices rose slightly as supply concerns in the Middle East persisted, despite a lower risk of US-Iran conflict.
+- **Asian Chip Stocks Surge on US-Taiwan Deal**: Asian semiconductor stocks soared after a US-Taiwan trade deal, with Taiwan and South Korea indices hitting record highs.
+- **European Chip Stocks Rally After TSMC Profit Beat**: European AI chip stocks surged to record highs following TSMC’s strong quarterly results and robust AI chip demand.
+- **Hong Kong IPO Boom Continues**: Hong Kong’s equity financing surged by 251% in 2025, with strong IPO activity expected to persist into 2026.
+- **Hong Kong Stock Market Dips Amid Mixed Sector Performance**: The Hang Seng Index fell 78 points to 26,844, with notable gains in Hua Hong Semiconductor and declines in Bubble Mart.
+- **US Stock Market Closes Lower; Chip Stocks Outperform**: US markets closed slightly down as President Donald Trump’s Fed comments weighed on sentiment, but chip stocks like Micron Technology surged.
+- **US Imposes Additional Tariffs on Europe Over Greenland**: The US imposed new tariffs on eight European countries over the Greenland issue, drawing strong objections.
+- **President Donald Trump Threatens Tariffs Over Greenland Dispute**: President Donald Trump warned of possible tariffs on countries not supporting US control over Greenland, emphasizing its national security importance.
+- **Canada Reduces Tariffs on Chinese EVs and Rapeseed**: Canada reached a preliminary deal with China to cut tariffs on electric vehicles and rapeseed, aiming to boost trade.
+- **Chinese Authorities Lower Minimum Down Payment for Commercial Property Loans**: China set a nationwide minimum 30% down payment for commercial property mortgages to support the property market.
+- **China-EU Trade and Euro Payments Hit New Highs**: China’s euro-denominated cross-border payments rose 22.8% in 2025, with China-EU trade reaching $828.1 billion.
+- **Hong Kong Finance Secretary Stresses High-Quality Growth**: Hong Kong’s finance chief highlighted opportunities from China’s 14th Five-Year Plan, projecting 3.2% GDP growth in 2025.
+- **Hong Kong Property Market Sees Strong Appreciation**: A North Point flat sold for HKD 9.58 million, up 66% since 2012.
+- **GigaDevice Semiconductor and Zhipu Lead Bullish Hong Kong Storage Sector**: Newly listed GigaDevice Semiconductor surged nearly 68% in its first week, with Zhipu up almost 58%.
+- **AI Cloud Sector Rebounds Sharply**: CoreWeave and NEBIUS posted strong gains since 2026, reflecting renewed investor interest in AI cloud companies.
+- **Neuralink Enables Non-Surgical Brain-Computer Interface Upgrades**: Neuralink’s first participant revealed brain interface upgrades can now be done without surgery.
+- **Musk Sues OpenAI and Microsoft for $134 Billion**: Elon Musk filed a lawsuit against OpenAI and Microsoft, seeking up to $134 billion in damages.
+- **SK Hynix and Samsung Accelerate HBF Commercialization**: SK Hynix and Samsung are fast-tracking High Bandwidth Fabric technology, with potential use in NVIDIA products next year.
+- **NVIDIA Suppliers Halt H200 Chip Production**: NVIDIA’s supplier has stopped producing H200 chips, with no details on the impact or reasons.
+- **Bank of America: Storage Industry Now Resembles Chip Foundry Model**: The storage sector is becoming less cyclical and more profitable, mirroring semiconductor foundries.
+- **CoreWeave Sees Insatiable AI Demand**: AI infrastructure provider CoreWeave reports “unsolvable” demand, with clients signing long-term contracts up to a year in advance.
+- **Bitcoin Faces Quantum Computing Security Concerns**: A prominent strategist exited Bitcoin, citing risks from rapid advances in quantum computing.
+- **Silver Market Faces Shrinking Industrial Demand**: Analysts warn that high silver prices are reducing industrial demand, threatening the bull market.
+- **China’s Stock Market Rise Seen as Sustainable**: The “Father of Emerging Markets” claims gold has lost its appeal, while China’s stock rally is sustainable.
+- **Pharmaceutical Investment Focus Shifts to Certainty**: The sector’s 2026 investment theme is moving from speculative trading to delivering predictable results.
+- **Investment Strategies Evolve Toward Innovation**: By 2026, investor behavior is expected to mirror the innovative approaches of Elon Musk and Cathie Wood.
+- **TikTok Europe to Launch Age Detection for Under-13 Accounts**: TikTok will introduce new technology to identify and remove accounts of users under 13.
+- **European Cinemas Warn Against Warner Bros. Acquisition by Netflix**: Cinema chains caution that a Netflix acquisition of Warner Bros. could hurt theatrical releases, but Netflix pledges a 45-day window.
+- **Mitsubishi Buys US Natural Gas Assets for $7.53 Billion**: Mitsubishi acquired US natural gas assets to strengthen its global LNG business.
+- **ETF Surge Led by Samsung-Related Funds**: Several ETFs linked to Samsung posted significant gains, with one rising over 8%.
+- **Hong Kong Disneyland’s Former CEO to Lead Kai Tak Sports Park**: Kim Min-ho will become CEO of Kai Tak Sports Park in April, focusing on culture, sports, and tourism.

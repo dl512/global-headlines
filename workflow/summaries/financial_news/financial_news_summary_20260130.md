@@ -1,0 +1,25 @@
+## Global Financial News
+
+- **Gold Prices See Wild Swings Amid Fed Uncertainty and Dollar Weakness**: Gold hit record highs above $5,500 before plunging over 4% as the US Federal Reserve held rates steady and the dollar sank to a four-year low, with volatility fueled by geopolitical and economic uncertainty.
+- **US President Donald Trump to Announce New Fed Chair, Advocates Rate Cut**: President Donald Trump will announce his pick for Federal Reserve Chair, with market speculation favoring Kevin Warsh and Trump calling for a 3% rate cut.
+- **Microsoft Shares Plunge After Disappointing Cloud Growth, Erasing Hundreds of Billions in Value**: Microsoft lost up to $430 billion in market value after its stock dropped 10-12% on weaker-than-expected cloud revenue, despite strong earnings from other tech firms like Meta.
+- **US Trade Deficit Surges Despite Tariff Efforts**: The US trade deficit jumped 94% in November to $56.8 billion, with tariffs failing to narrow the gap.
+- **Oil Prices Near Four-Month Highs as US Storm Disrupts Output**: Oil rose around 3% to four-month highs, driven by a weak dollar, a severe US winter storm halting Gulf Coast exports, and ongoing geopolitical tensions.
+- **US Dollar Hits Four-Year Low on Trump Comments and Intervention Risks**: The dollar slumped to a four-year low after President Donald Trump’s softer tariff stance and expectations of Fed rate cuts, while the yen and euro strengthened.
+- **Asia-Pacific Markets Mixed; Jakarta Composite Plunges, Kospi Hits Record**: Asian markets saw mixed trading, with Indonesia’s index plunging over 8% on downgrade fears and South Korea’s Kospi hitting new highs.
+- **European Markets Slip Amid Earnings Volatility; SAP, LVMH, ASML in Focus**: European stocks closed lower as SAP shares tumbled on weak results, LVMH fell despite strong earnings, and ASML’s record orders failed to sustain gains.
+- **EU and India Sign Landmark Free Trade Agreement**: European stocks rose after the EU announced a major free trade deal with India, covering a quarter of global GDP.
+- **SanDisk and Western Digital Surge on AI-Driven Storage Demand**: SanDisk and Western Digital posted explosive earnings growth, driven by soaring AI-related storage demand.
+- **Alibaba Clarifies Cloud + AI + Chip Strategy, Surpassing Cambricon in Chip Shipments**: Alibaba reported major progress in its integrated cloud, AI, and chip strategy, with PPU chip shipments outpacing Cambricon.
+- **New World Development Shares Surge on Investor Interest, Blackstone Reportedly in Talks**: New World Development’s stock jumped over 10% after confirming discussions with potential investors, including Blackstone.
+- **Hang Seng Index Opens Lower as Gold and Resource Stocks Drop**: The Hang Seng Index fell sharply at open, led by declines in gold and resource stocks, while New World Development bucked the trend.
+- **Lanqi Technology Launches Hong Kong IPO, Targets HKD 7 Billion**: Chip designer Lanqi Technology (06809.HK) launched a Hong Kong IPO aiming to raise up to HKD 7.04 billion for R&D.
+- **Apple Reports Record Revenue and iPhone Sales, China Income Surges 40%**: Apple’s latest quarter saw record revenue and iPhone sales, with China income up nearly 40%.
+- **Biocytogen Shares Soar on Profit Alert, Projects 400% Net Profit Growth**: Biocytogen’s stock surged over 40% after forecasting a 400% jump in full-year net profit.
+- **Ganfeng Lithium and Tianqi Lithium Warn of Full-Year Losses Amid Price Drops**: Ganfeng Lithium and Tianqi Lithium both reported expected full-year losses due to declining lithium prices.
+- **Hong Kong Luxury Property Sales Remain Robust Despite Market Volatility**: Central’s luxury project 雅盈峰 sold five units worth nearly HKD 230 million in a week, reflecting strong demand from high-end buyers.
+- **SpaceX Reportedly Considers Merger with Tesla or xAI**: Bloomberg reports SpaceX is exploring a potential merger with Tesla or xAI, though details remain unclear.
+- **SEC Halts Encryption Exemption, Sparking Wall Street Debate**: The SEC stopped the planned January implementation of the encryption exemption, fueling heated discussion in financial circles.
+- **Ctrip Faces Antitrust Uncertainty Despite Meeting Q4 Expectations**: Ctrip’s Q4 results met expectations, but antitrust investigations led Citi to cut future earnings forecasts and its US stock target price.
+- **Teger Medical and Shunyu Optics Forecast Strong Profit Growth**: Teger Medical and Shunyu Optics both project significant profit increases for 2024, driven by recovering demand and improved margins.
+- **Hong Kong Property Developer 华懋 Names New Tsim Sha Tsui Project “ZENDO HOUSE”**: 华懋’s new project “ZENDO HOUSE” will launch after Lunar New Year, with over 80% one-bedroom units.

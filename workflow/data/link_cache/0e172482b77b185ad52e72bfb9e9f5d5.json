@@ -1,0 +1,595 @@
+{
+  "website": "https://news.google.com/rss/search?q=SMIC+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnotj0bfh3s3piuzk4egnst3dwngpmclpocjy3ddlnsmxathd0zfrlejbknmjls0itoepywkpds1vyyxllelphou81rm14s3vlche0nwfldgn0s3hcrtbnbs05qxe3rzk4cs0wluf3eglccnlmnwngdhlndwmyzezktla1awnvbkzjxzvgefgwsewttjdknhfomw1uukxzcng0ou81bxlyoa?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqs0hbqkntuwromtbjt3j6n3hfsjvmyzgyovzvv3zddflfwll0wllhmwk1yjrjnxhslxpcc0l2cllcumpld2p2nufwzvu0clljaujntnjuduxxehhneu4twkrnltdqt0hwnng5uji2cc1xz2nztnbvme41oextnzd5wmniuvzsze5prnn1mlfhukrwwi1fevnjeg?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqwmj5s1vvnnlpz1m0ofzyuewwxy1netuwttr0rg9fnuqtmi1ylxl2thltdxluow5jbvjxlu9vshzfbeppyzfkvnfvsgxiqlfwdf92qmfyajrjcmdlung0znrvbuk1v21uwvoyuvrksvn2oelwrfbob1jurc1ht1fftg1koxgzcgrqc3hpnmtin3djykc3wkpsotzuu3q3wtm2sgutsw?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1mbdc4yuzfa2m5eddlumrjb2toqzd3y3fgyk9na0jztwpws0jsm1y1tepix2dzy2pieeo5v1o4nwjhqvlmwwfgz1hoehpicex2welpwug0dxzrduvymnjcqlflsllzckfzz1p2emzja050dw?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte5avg10c1vynmvfufb5vjlzovbbqzjrazrqq1h2czdrthniwhdtdlhhdevwmjjpdtkzdnrgtvq0re5idm51t3hhvhzqvu8tyw93nvdcotixswfimtzym0w1y3e2zmjmmfnqr0y5ogxsu0tnqku?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxqc1jxzjlkmi1usvfkvljlznpmowfizlqyndfqrkx4ngpkbuthamr1s093denmyjfpcundcjjmc2h3yzg1lvvysvg3uk0ynzduc1lqcml0rjq3mxbkrljxevvhz0fda0vuoxdztkdzuhvptgzsykj6zxbrtuvunew5m0frlunxqvn6axzvdlvatfjiymprnwpn?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqufrndkztmzvlqkdztjbwz202zy1tb1fhyxgynu0zukrktenis0n0eenkvk5kd0ntc2xrdy1pztvbwtfbmmzobldfavjktxbzoxf3ndblazhodznrehjlalgwympmvla5mwjrrjbldzn3cvhxehrsmflgvzrhbznzsxb0z2vwdkfqywfyuy15wgm2qvnzc0vzwxlfblm4edflugjdrkpregrxehbltuhplvduz1bnswroognb?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnvvhmcwu5dv9sbwdob2r5z3v0sgpun0vxszhhdnzszlr6skzxrl9et0rhnvfkz1riv1lndvftrg1bddhtamhjeliwwnbondbvdc05t0zqnvzzsed3n3dewernzepvoti4vgzmnegxble1wjnay3fvwwnkt2jkdzzpnunove9jexdlzxq1zm9xcg93zjnjdxl0zmzzbw?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxndme1vwtosuz2x01tc2c4ynnwtmvnbufwd2phyutxrxhdnja2z2gztwjfn1k5tkfwm3przk40lv9en3jtztu4yu9dmefpsjzzbwi5bm5rngrobuhrqnkymfjostbtwkvzwdr0ujbvvtrkuvm0qkxsx1dlwxhxzgtyvtfitdjqqzm4b1bimes2qtluohzerzk5n0xinvprcnn1qjj6qvzquefrylm4autpnwvuzmvovdf0cgwtr21cmzbhz3gt0gheaufvx3lxte1kbu9zoxdwzy1ltxgyvnnaudbjqtlbdmdqv3vutk9yovdvbffkluthefj5vhdjx2vdrgc4dgdwwevxnnb6amlnmefvren0turfsunzd05nrdz6szfpsm9pm0m4tnq3v2zkbtjwttdowehizmlmzhpovhdvrhj6r1ziu1baemxlt2q3nee0znn2tgvaqwfgcmhvtvu2svbguuzsbhhrqtjksmdxdhg3rnhwlxa1de1pclhkt0xnavvhcc04yvg?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnzetxzhk1be9rrzdgn3jzt05ibvnymng2whb1u3z6d0o5qtboedjer010sdrvu2q5rdb6t21lwtlfrdqxmurdsnzhrwdsckfjszrkenv1ehf5r29aogrsb0tss3h3bufrq0rtyvz2lur4tthsy0nnt09euxneum9rznnscnm4ltb5nhvsdu45ume?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnoc1juxdzvultovgzynd0s0h4bdi4bznhn184djvwb2vzvtzhclrzqmkxr2qtwdhgveq2c3bfwexin0xkejvvdxrqx1fyqupxyzn2eenvcwhqvnjnvenqzg92mkrqvg1nckrpqjztoxiztui1cfd1sjhry3lpy1rnz3pfeli3mxmwr1oxrlfyr3fxu1vcdi1bdmxhzex0vunfmlziwlrhafptzws1luv5n3hlm19smwf0z1nln2zqunpgvgc?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpcddcsmvmy0ltevvmmhjvzkxfzlnnyuthati0yzbpoha3qvvjs1lwv3ldthlan2xenzzkznjnndrmsgp2dju5n0lvskrdwtzld2ndvdbywvlurmc1uwxsv1nkoul0ylf5cxzyr0vgrejrn3v4bwjfcmxfutiwdfbobulwujdvtmhfehd4ytlfaha5uc1xr3jtm0ngnndnvtdldxndck85oa?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxndefky0jiamdnexg2u0neuwewc3m2eu9juxnnwxzfmknib3vbowqyoghvzzrlx2neszm4ew1twgludgxsnuznedvxmlrhyudhslvpa0tsqwjymmizterssvbvtmhteupwqxjyr3etdulgztl3cw04wvo0cgvnc05nzexqutm4dldotnnuswpmqmnwmzl0ve1r?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxnsmizmlnir3j3bgpqdzu5t0t5vzdlwuf1b01ltmy4sfbqzmxqx29xt0fesmdrqxlkbkxnc2jmsvu1t0j1q0wyuln6albisxzed2dan1jjufhwz29lewgwym40y0fsckljewq2yldhtklhvmztvg85zddjdlvim3vjouvht2hiq1bqas02b3jnywq1z0j3y1bjnmd2q1vjmc0wuezxowlru0izlvrnetbxnewzulizsdzwvnatnjz2vq?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxprdztn3hpmtdxxzjoaedxstqyrhjlx1pmq1vhsdzzyvnhyjjizhpbvjjtanfirnfiwuzfofrwzxe2sjrcnwtawwrhumj0uuy3bnjtblr6tjg5mk5cnfpcoevmy1lnswjia1n5ywz5nlbjlxjmetdmnwvybklwefnws2xselzfbwvxtkviwm1fvfnzx29bowvtytfbunjxd2tkd0fhr3vvdw?oc=5",
+    "https://news.google.com/rss/articles/cbminwnbvv95cuxqwwzqu0tvx3dbzhm3vfjrszdju09swhlawtzxohbaa0fhq0fkntvqqxplc21tsmjznu5frzvgvwzjt0vurdftthlqq1dsuevqdg9zzwe4skxsnmstefl1yndjmxdxtfnzv0dnrjhivzn4ue81cenyzc1ycvhus3cwetrjd1ffwk9kcgvowuzvr3zwdfpyaw5xuwr2qkj4a3lqqmxgav9pu0j2dmixbhngde1sv2zgu00zutdomlh1zgzortnez1fvyxeyvjbjbjnzsnlpq1u5ogdnzmrgb25urhbrem52ahrkbvhqmnh6cjvxt1n4bw5jrlo3m3rdcddkcxnytxlorjrtzmxmx1vznhvzdwnfdwfcbkvyyzrttwjrcljpdlpxvdjxtl9pcdbhskfqmzdrbhzfbfnjwjrtuxvvbgpzsuritutpn1n4c2w2a09iy2nssmnksdh1rgu4aud5cfnqt0tzcgt6bfjwbmdtdfi1ewflunzmrnnwqzzmt09ezez0qvntzkrmss0zbejfa0dlbei5svvyovnr?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxozgrzzgphvfzlevpovefjuhr5yms5r3blrwnrm2fedlhkuhg2t0tuqnpxvvbmdej3zle3dgxrqlzwt2dps1ziwgflemrmehlioelvzy1jcjaxewjwsmtmczjlstn6vhnkx1pwohbgcdv2skjev3fnrzytn0xuejlfn3j0atrzegjptgvsu0pnvuj3rulyber2adrlqw4ynm1xdejddkton0lpt3kxr0rxd3zqt0fndtfkemc?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnzldtegnpaxh5nhfiu2q2z3rmzgxgrujwwwdfb1yybjhpn0u0qvrmmetutuhuand5thi2lwfrckiyvffyludoyzr2m09jzfkwagzsdv9sywpitmhimjjfslc1dvgyt1ftmdj4edzxwljmy2qwnvrhvvhrbhhfoelnlvdfoglyuutonv9st1ljc2jjzw5hx1hjq0n5dfvvogztdvnjexu1uhzcadhk?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte53u3rpcjhzwgp5nwpdbk1notg2ytfdzupnzxdlytm4bxfmutvxampqvdjkt2zxvvgzmvo5mnvfr0jca0jmc2hxt0zibmfnagkyblbvmw5pzjdrqmu1nujhttbwmkrjtwwzthryylvlsejgntjor1e?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqq24zzmpqwxbmsng4bm0wrgi3cepmrzr3rnj2ck1wyjdvwxhnv2tsdxnlr2d1q1jza2ljdjfrdw1fsmtyegvex0jjmmd5ohvttzmxcuztejrregxlakprzjrbq2pgrgxez3znwml2wlhzr19bdnexmuvqttlzzgtyq3uzv1gyrwvdowvscvr4q1uwrwzhc2lebhdzmtl3q19krxf5ovbjvhbyuvpuywrjylnocmw?oc=5",
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxobxpedfjzodj5r1nyy0noou54rfl2efhonjnrsgvavhbaovrzyxpmynctm25kamwzrujjvnzfcvravtuyqje1qvbpzlktdzrnvzr5smpgrljmzkzrtv9qywx0rtu0tlrtogz1amfusxpcu0xsx082mxpfzmpydmpfdtdnbm5rnxh6nxryow85afdrdxpovunodxdsunj4r2zqze1or3v6rdhnoxbarus3qlqxmfvmbhrhmgzzz3rrn3powhlwntv2tw94cfhlzddqz2hrwk1im041zuzzrtltrw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnys0zqkvwlwtinmtjd21wdnduowfyuudqvnktufnivhhxvnvudmhauujeodrezuvqvtvna0jtcjf1ujjsoxdgvdljqxmtbhowmvd0zmnfdnzlc0t6tzn6wvntchffvdlmx3hmovfjzepanlv4twpxsnnyeevitlnjqu9hczu?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqrg1gz3hnzu9zatbude5ltjk4shpocuvlvwz3tfatuzfmohqwd3jengqyrwrzu09jrwhvzxztnep5n0lgulnltv9uttawq2xrc3f2m3fjrlvwzgfemgtlluvpmnp1zw10v0pzq1u3v082uzhkoenvsg5ymg1gz0m2afrvym9iujrqcwrodfbnrhbws3bkyle?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpnudxww4teehwa0pkz0r0n2z3tzaxmk5idzjfcmnor2c0sw9tqmt6nddttuphrmnxqv9qzzhlsnjlzwstavdpbhj4rglynxitnnz6yzrxwurvuvhjzjdmaffjwmptoeo4elhywuuxywzfuufuovf6zmzjvjviuuwxbvnnzuzgctf0qnfhanrlvxptugm3vk1kc291sjh5akw3wmpnrzftntjmq0ozamxnrzewyk9ovulcu0xr?oc=5",
+    "https://news.google.com/rss/articles/cbmi_gfbvv95cuxotlpfvmrluth1thfjwvm0wmo0swdnctlmu0nsc2lqx1lbb1rwtk9wweoysed1ttlnbu15wwp1rfzjtudwt2vhsg1ot3voegnwse1ovwzccflkde56thjlrlzjodbrtleytjfua0dvlutqtkpxzmhhnulnvxjcvel2vup2mkjua1fqmwxmbvrlnmt2uujnvdzcrc00njy5vgv1stu2ec1hulhjm0dvq3fkyjiyru9eslr2yxzmqkpyvhj6qxrxyjbgzvjxxzfosgtrbkpvtw5zyvuwn3ftq2mydmdkq01uzzlqa2jiwxpsz3fhoxbdvupoejrjwudpdw?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpskszakljvgw2x0dedkzbskm2by1qbu5urkfez0xynjk0enjzcla2vur1vfvwrxv2vkhhmnpedghyofg2s1rhuk9wetaxdw1levntmllsbwtbv2syaevvy2zvqnjua0iys3hywnlvtje1nnvvaxl1rdbknmlyazn3nfdzddvdakzywejazfg5sm10ngzfcee?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte1lymngrkxfd1c2ckrzym52z09nu2jovupudfn1ntr4ek54a09wt2zyqti2c25iclnkstngadninmrkukrnaerpdkncn2fatthvlwzrrs1rdezieho1sg02tke4wffdstk1udcywxllv1bydmlynhc?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpwl9ouglgvg5xmmlszzl1nthfc3dwnhq5aji0rtfqr3n1dzjzdvhhaupzc1lsakuxblfka1c1awo0r1nlmet1yxlcvdk0sjhpqtvqdnvlqmpda0c3nutzb251d1bowtnqdnljdhlktelquevva1dmuy1zq0jua1voructwxjjzw?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxobgt6zuzoddl0mtfwzmnoy2t0elfhanjfdlhdy0f2n3nosnbxbdb2tnl2v20wmmxmenbnamuxazlqavhtzmvjyldwvvg5wwjtzmq2oxyxtnhibm42swvnetbyrulsqunbtvrrbmu5r09tbvvnavpmm2vwv3rurwhobndvcwdsrultvk5htgtxz2favlp2wmlhy0wwc09nrwfswnfss09jnwpbmglrwmm1wffhcwnvoe0ystn5a3llzjvclvg1ynfmrzdcbtflzmiwmgc?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqt0jts2ettungnfdynw92dfkxrul4vlngddvfekj2tgnhwgnacfnmsv8wz2v1rkxdmzfwbwdzquhxnwwysuk4exjkcdjewelpm3bna0tmxzz3sgnrq3bnnkrimhzsmgu2umjbbnnsrhv3rdluy29ywe9vx083zxvxmfmzajnzwvznywnyu3jjqxpnctm2x3bkufbqlxctaw5oady4?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1ocha2nuhiuglyrfdkag9eexmwshh0wdjhyzzzcwpny0kztlp2wtvou3phz2jsanjhmw1fovfxsw9ocwnqwermdextukrcquhyn3bjy2xfwxnzowtqwvy0t2z4ufhxx09ounlsr2o5rnjlzw?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxoqvhruhbwu0fszuzonzhlewplrvfosuzqskfmqldhdxhod2xvtnlinnhicwgzand3ytfet1zcoexhzjvjsdjxm0z5ckq0bc1zmlrjv3b6tm05yktrm0pitxvlskpuc09ny3bwwwjln1ettfdpbexcb0nldtgwte9cotdecvbadgrqzxnadvdntvbroe9wwmg3c0nfbvjwvhfvcm1svs14nvhxs0hiegtsuevmenj0dgpou1voddlyawjrrmq3q1bmdmjhdgi?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte8xzffdv2fas2j4blnqqxrztel6c2luafoycunmuvffu0rgd0hhquxswgs4c29ztnj5n2h3awdkytjjeup6ekgxsldpr21zvhjnam15axhwchbjlxhivwhku3v6b25vqjvnzva1awtecw?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpre1aawjyzs0wbjzymnv1zvzrx1vfvkhlbjj5yuxrzzrpvkvwnzywczdwwextcfc1ynrwaer3n21ovuttt0o5c2o3tnvlnnrnbvpkzkzfcefgtvrqrlhibkfpn2l2runmngm5unddy3jmdgwttkstmedtodhvz1bwteyyvuviemfktte4wuffdddwvlnu?oc=5",
+    "https://news.google.com/rss/articles/cbmitkfvx3lxtfbts2t0chrtqul0nuptn2ronkvydmj1wet1zjdfuwj5twvpt2e2aflca1polvjvy0lpcwfpdk8ybmuwwmytennlvzdrczd4uq?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxprmdncwy2yzvvne5vmnnndvfxvklkthn5vwfvbtf1mg5mm1fxbug5egdvexfurnfizdixdkdxwmrwltf1bhmwumjlnjj4adn6nwflrkpkuwp3u3kzyvzmbhdcekfjy3v0zfrgvupmr2fec3jkmg1iz1jnmjfvbvm5r2tnatb1dw?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxpsxpfwxj0vhpazwrvevlynl9fwg4wtvjhlujktda1n25ry0xivwdmmwo0b010ykzvbfhyt0fyohvrd0p5y2zlavjotmpoogtgehlidjm1efvqslzruthtt0tsm0twyu1ise96r21huuzodlj4qm5togpbvjn0sxp4mui5q2o5axgxmevoujrzmtvzukwwyujfd1ywuhnws1rveketmtvprey0surgemfsaa4bqvvfexfmt0l6rvlydfr6wmvkvxlzcjzfx1hume1sry1czewwntdua2nmsfvnzjfqng9ndgjgb2xywe9bcjh1uxdkewnms2lstk5qadhrrnh5ynyznxhvuepwa1e4u09lujnlcgfnsehpekdtr1fgahzseejuuzhqqvyzdel6edfcounqowl4mtbftli0cze1wvjmmgfcx3dwmfbzvktuvxpblte1t0rgnelernpn?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnswhpvnbxeda4zvzvx2zpudnybnlwn3lvtetmtevaemx2evnylwriuxr1tnlmwnhfzmnttnbodjntcxrhtfngwmxpcy1jmkv5ywzxavo3rg9pnknjqug0zndcseziektwtmrvdvrqb0fmv2xjtglfx1ptnhlsludtq2owc3ffotd2bnb4dezfmxnfbgczz25ods15bkdjqq?oc=5",
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte5wnurlajnfa1bmv0xfuetsqnrddzdlzwpjtw5jmmdjohpbuzzuagpzagjnlvayc1rwvxpmcvdgcww5wkteq0n5ofewb1zddw?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte1ty3dkbhpodflxcdfsoujws1ozse43owlhz2t4qnf0d181ctznadhtmktunhhtnurlqnrkb19mvjduwmcxrm41s1lizk5mvwtrcwfvtle3ngg5ynnamtqwwdjwrkq1bwnqdc1prmlqma?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxque1cakg2sgxunlbtu3dtqlq0svvksdltdursvufmxzizb0l5ymfmwhvglu1mejlns3hbsgljd0zvzjvlmfrwmk9rr1vbmuncbknluldxufffaduxnjn2nhrizlzntwcyy2tfnlf6awdkddk3qunlzmniqufurna3x3hzwxk2emjvehaxdexqvtrwz3o4ykhsazybqvvfexfmufbnqmpinkhsvdzqu1n3bujunelvzeg5bxveulvbtf8ym29jewjhtfh1ri1ntho5z0t4quhpsxdgvwy1szbuvjjpuudvqtfdqm5dzvjxv1brx2g1mtyzdjr0sgzwz01nmmnrrtzremlnzhq5n0fds2zjykfbvezwn194c1l5nnpivxhwmxrmufu0vmd6ogjb?oc=5",
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxoww5wyzixrtm2mmlryuhalty4uzhmn3b3dfnuaxjldfvylvy3egg1cg1ockpkexhkwnjbqupfvnjhdwvyufz0x2syvkfyvfncc2nvyuctrlvmdkrlcuhtzdnmataydhizaldwbw9tnnrkmgvyzfhkbmvomkvyt0taa09ptev1ytnwc0txoeqyvhh3m2v4nnffr0kwlvvmtxhzvtktowfenwdrckjvtwdrawtnqlg1u01rlxvus2g5ckluak43wugymhnzmghrdxfknhjom3lmui0zatvh?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqbehethvon2fycwlzafmynkexehb2mmy0nktpsevftxd0ltjgu2v6u094swjoruezb3e2bloxy0hfxzvwnc11s183q2zmexjrq1bruwdta0tfx2pcofhnsxpbzu1pc0r3axhhtnlcrvlyejnowdvly2nhv01velo5quexwtv1wg1rwi1vzkiydxn0bnfsq3o5bwzqrgvwumxnrjldb1vb?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxnql9hqkg3vfhlak9weghwefpusus2velmcggxb1hcb1puvwlzqwv1ogjlcdvtn2hyeurzv3pms0jbewj6vvb1egfgnmmtsgz1lufzemhyuktavjj6sdbynnnnyxjzefqzslrmstdrr1fsadu2mvfybevsz1flr05zwnhmbvdsyy1zbk1er2e3s0t5mnltrxlrenbbv1a3m3hxcmnatwtpu0u3evp5nklmsvvatdvkbnbn?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpegxtvw1yag9innhjc25hz2owzwnjcwdiefc5c0h2x20wedvzsedvmvlxzhcwsljmtviyn0lcc2nhdejry2ttzlm4dzhodg0yc3jduta4xzhxvkvjovpwdhb0bnhnd2pgng1zt1ztwlnarvbnqjrxtc1lmhjyrflaz3lxqtvkqmqwqwixdvldnflem3dztmvgu0hts1duuet5wglztw1itxrvr2jwb3v6tgrxs1h5b1c4wdcwx0fuq1nkn0zh?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxovjlqrvn3rglummlevhg5utrpbdzwczn1a1diqnljmxfzbeczdjjlwgrobk9ulwjitlnmvum1mfi2d3zbyvfhv2turfbymw9cvmm4a0dwmkfmyy0xvnd6exhlmju5mfnfajbvslfynexouutibjbln29kwklpci1ds3j0wdnmcgkxdvrcmfvxvuhzaxbssuqts3ltamg?oc=5",
+    "https://news.google.com/rss/articles/cbmigwjbvv95cuxox2zrz1jhrhhjntzxmjjzlxzuwljmnmhft21rttvoehzhb3romnrsouzwx1lwrmzwx044rnzwcuz4nfe1dkuxnk4wzgvjs2cwywg1yjvkzgd4snzqawhfnjiwejhjclrpcercyve2uef0z25yykg5rmtgzhntbf9srthibkmzmev5c1vsr2lfs0tcnmpdvnrpytb0t0e0rznvbuzcvwrxmgq1rmjxm2vsrvfcnurhc1fusvn3q0fzcdi2qmfzexdkzvm0d3v2d1ziemtjwwfkzdjpt0nhbe5xz3u5ntrergizwem5r0trdurqvmjebujxwjuzsthvz0pitvrz0ggdakfvx3lxte5fzlfnumfeeek1nlcymlktdm5aukw2aevpbvfnnwh4dmfvde4ydfi5rnbfwvzgzlzftjhgdnbxrng0utv2rte2tjbkzullzzbhadvinwrkz3hkdmppaf82mjb6ognyvglwrejhutzqqxrnblhisdlga0zkc21sx2xfoehuqzmwrxlzvvjhauvls0i2aknwdglhmhrpqtrhm29trkjvzfcwzdvgylczzwxfuui1redzuvrju3ddqxnwmjzcyvl5d0pluzr3dxz3vkh6a2nzyupkmk9pq2fstldndtk1nereyjnyqzlhs1f1rfbwykrtqnfantnjofvnskhnvhm?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1kwhhgzzi4mehrnhzjz0w3tlrod2o2oxl3el9mrkrwdfa4evh5av9vlvjtamp5bnzhmk1vx2jemeflmwo3zvn6skyywdbkulzjbelgwgnczk95uex4aefyuerhwtnyzknmzhzwz2hhzzawdgrl?oc=5",
+    "https://news.google.com/rss/articles/cbmi-wfbvv95cuxpbwy5rzryogppu19wagx2rlzpx2n6ru11muf5vly4slnbcwfheg1zbnnmrwntws1jtvpasnhwvzbzrfpobhdtdlllsfa3qmlzdglibus3zk5eclbdowtonjljntfkb3budhjiqu5xshjnr2l1snvyewjjt1nzm0fdrvndvtnnylprs2m4annongvjavf0bzlxwvzxyurqrzbqym53qvo2c2hjavvzt1k5cnltzdlhvmfdyzb3sm1fzlo0cku2chjkym15cwl3ogxfu3m3ynljam40avf0ajrvazzuexjiu044wwlmzlr0cmd4wjliakowrfezbw?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxnwwzisllvvtv6sjitcgrlc05bbfbjx0y0z3zsymjiltn6vfduzk1wqzhcx1otsddpnhfxz0poujfdvufycdk5yunism95wnotcdyxvlfbx1nqufc3mtqzy2e5m00wmu1ong5hmnn0ckpqcgxmuvn3ufbsuuw5avnyu01qujlzc29mow9youjqwjbqnw1swlpsykjkzfbnegs?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnown0qu5ztzkyv1rxweo2dnr3sxbcawzgvet2nxe2tnnoaelvvkzxv1gzump1ben6ntjewkz0c2rfs2vxchqyz04wmjjlc1pismhwn3hhdllydff3bg9sodzxsdhktklvnwvvtk5wehhhqwv6q0zsb2xttdrjogz4nmdnuuvonw1rchf6d2zr0ggoaufvx3lxte05y3rbtnnpotjxvfdysjz2dhdjcejpzkzus3y1ctzoc05osw9wrldxwdnsanvsq3o1mkrarnrzzevlzvdwddjntjaymmvzwkhkaha3eed2wvh0uxdsb2w4nnfioeposw81zw9otlz4eedbzxpdrmxvbfnmngm4zng2z2drrwg1bwtwcxp3zle?oc=5",
+    "https://news.google.com/rss/articles/cbmiw0fvx3lxte9hnk5envhwmgxbu05mluhhqwnvwlvvm3r6s1hwbvb2nvpybf9fcg5zvno0etl2mlktt0e1ne9oywozrzhhdc1pzjhavjrmcm15cmpomzi3snhpbgs?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxqetliq2vra0vnewnbdhvwvlqzqng2dvu4tjhlttzpcwdgx09cskd4eluwrezdsl9ib2lszmzvyustwxy1nexiutzzx1b5nfzzzmrha1k5add2thzhawhimm91r1dhmuvoyxnia1ljzk1jwflfs1dvnfotamh2am9zuehxvzzys2wzrkztu2zfug5czmsybw5qn25cbw?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxna2ztymxoagvfzfvntdzkdmfjr0lwbnjtmk9sdvlkazngnezwoxm3t01prk9xvxbhrnq2x1nfs1azvk5ca2z6avzndtbmtk1hbgk5b01nemjbltbfzvpvb19vndbgexntazk4z2xubkplvv9ywhdmdfzjdfnfqjdhbje4rzjtnwhpxzn2zfpwqwtmzk9lafg2x2l6wjlzqja?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9hovrjyzmxvek4tuhpcnf4rfrvuwl0auk3zdzjzfdysm9zc213aktmmwtqtjd4dwowytbjwkvxc2lkvlvwvfbmy1iwndc3rmxpaxnmwnvicta5ne4xtmqwvwvpegzeujnlnkjfoe0xdedztek?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxobud1dnfacg1nrkjuzzgydur4dznsmznlq2nsu1bueuc4nhd4z3djaeplntdlt0fszedlc0njvgfhyk0wxzkzvlnoefp6weluovo5tevwr1c2ufy3ejjrs1nvzhj5szk1affnsujjz3n5njdjzle4ek9uuw1xzerhskruew9md9ibiwfbvv95cuxpcvy5ujvsbzdstktjrgdaahjhrxrurmexsllobnmxc3vxbwxwb2xllxfyvnz5ogdkoudlwjlfvvlsc2xgdjl5qxnsx3zvmhvdr2vezmizohrjskneaw9uuldkuwo5bvrztm1vq2zkltljuhfiqw1byxixdlctzkthowtivuffodrpqvrj?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqwtv2qvdxv2tuevvsb1hhrxbqddj6cjrplu4zbkv1vvdcvwpkrvjcrw1gbw50ytrzelbfadb0x0vunejrqtzfdxrudtzxt0tnvk5jrlqtajflsg9qdwhot0hmtmxyx0n0cetldxfxtfhnmxnld2riykdvmhpgemxhtfn2mk5pvdlpovi5c1utywjiski0dfjwuu96dk1zbflesfh3dhlqckhidzq?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfa4q2jecxnxouvrqjn0euwyvjdlrde0suvrtv90vzrun2pxvehvofd5ovh2x0k4mgm5mznxafc5t0kwckxdtwt2zzvqb21ztgn6slzvd1z6q1gwwlnzcxd3ee02smxkx1zfn2fzsfjwd2vjqq?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbqbwlur19uvefbs19xagflwlzxzhozbuhht2ctuxoyx05omwltv01pt2dpehfrsex6zkf5sg9ledhur2hythmxotfwd2pxv3nenudsau1wuvzhb0rxzndds2pty3j1utn3tgd2tmtsmlnmrxfety040gf8qvvfexfmuepyaffhnjdbyzbodwt4c2drcg1mvnlwa3rxrgs4a2twvmiyz1p3shrbbnfhsdrzrurhzzjpmjr5zdnfwnc2nnzuddfyzktcwvdunk50r2zkuedjui1tlwq3vxbmuu9frehmrvvhm0zunuhodem0uhvbovi1yg?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxovc1fceflbflkaudqewu2bju2wglyc3rkn3dqrdrwvniwvhnretfsluzjlxz0rxhkbdfnu01uuuzsbvl2cnlswehcsu1icus0ntq3edzhqwhrbgpuenldowh1cmy2nexjruniznjat2jin29psw5nr2o2ehpxqtfysy1uthhurfvxmezycvlmbefsduhmu05fzdj3?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnttf0qww4qndobm1ztuppmnvnqwx6au5sykpry3utv0dobwd3cjlmalhyr1vzbfhldnjbngs0szlfudk0dvjhdw01nnbzvflstll2cfrfu0xjogtud1nhlwhunxjybwzxvxlrtnfimlozvhrsqnv6ufewmgszq1ctmghnuzfzmzrfegc?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxov3jhdezdv0jid1bxng9wrdz6skv0zu0wzu5rt3zeqvdsm3mtc1bpefntvgtna2jtrjqxovlxwkstv3lkm3cxdwlzrgwtbdk4u2dwtezeuni1z2p4lvdyx2rpvghnohu4cwzuwvp6bxotsfa4cxdrbmxwzte1du1lwudyvtu?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxnt1ntzzzmb3ozqlnrx3lwnhnqevltmc1yclbyqurlqlztemlhs0zuuc1nnlrzrfdvzdrtek1srnpbanpdntfiu0pielo3a0fwmtjflunfmgnhnuzxoghwvzn2ughxawhpmwfuu3e3clhkde92u0dwr2q2skpaqnvsnxdnchmwrgttww5trwxtagxyotq?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxptznnunnwm2zsx2hooepay1jpmhqtunhxu25ddghlrfyznxzxv1zxm0d1wfnsztvslvlqyms0rg5wyxhqekvmmzbdadzomde3dwrmq1m0a0g2rmpwqnu3nlpfcmlzzm55yuqtts1tukj1wxduvupvbw8zvffrmgfpedhvsenqzdv6tlvsx3byr192nmc?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqswy4mfmztk1ysjlqamdzanhya19dwuvpofc5z2zhzerlaufjmmryx3nstgtsa3bzttvicfrxclfezuzydutst2riak9kyxp4dg15ywdvew50egpuwjvaqkvyvjvwegvwul9rqunrymtnn01vwwx6vc1rcmfweumtvm9tadu?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxprnottgfeak5xq0xyttdrmlb3v2m3luiylw53b0rnrtbzsxjgnxj5ctixcei4s0rwnxlimk9jy20zchboddutcmrgvwfxunv6deplsfi1rkk2cux0evbowxfhu2yxykjpwehfvhvkdmjnqzfkumtxynfivklmddbmrudpx1lycfh2wue?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpbtv0c1rutkpzav96aupjy29jeuczsvkysvbob1v1zkh6xzdkuhrizkrwrursdghjq0rmugfoqy1xodzmvtbqtw4waxrrx2lyls1rzklxtzbdnmxpcjr6dwvhq1p3ovmwnnhdzfjqqnp2xzawevdsagvmzg1xrlg4yjfsbzbfvgzf?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpne9yb0zmc1b1vl9ezi11b1jbtldvahpgskgtawzsc3j2cvrntmi2weoxu1b0ohozmfrnbfbnzhzozunqedk1aw9eaujiwtm4am1xehlrzlzozkh1qm1ywmjhm1n0wvrmm3izrlu1q2n0vtzstznrwtbntne1vjbpu1lhvtzfmxrsrtfjevfkn0w2ql8xugphekjn?oc=5",
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxomvbuenz3wlvfuvdjdni2vdewqv95zei1emxavejlzllvqw95x0nmc2fdzvhybfvxvxzjdwfqt0qyx2g5tkjzmwvnnzdkzlhaevzrv0pfwfd3qlbnzvzmckx6aurwvuy2bkj5owdsanznv0rkzlf4qmrqwgfiyjj4mdu0emthmxzhngtnnlbqz29qedj5vmo4utv1rnp2r19uwvfhouv0mmzrekeyum9ucw4zc3dyzunvz1pwzjzfwwnhem1bdtrssjk4zw5lthnkredxdxdryxfunlhyzu4tyuj3?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1rwhvtzm1novn4evdwunbmsehrrkfoodatluvqv1f5qxi2m3jrx0xpc0pyvzbqay1ymlr1vehutwtrr285t0xiyvrvchexouj5tmd2d3drrki4u2dfwff1djndu2tmd2nvwdzwbg5huuhvvekx?oc=5",
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxoy1phulnmzhvjeglvy3pzbwczckt1dhblaedivgv1q1zyrs12qww5btnhnjbja0s2ugz6wvv5ltlfnes4u1puv3rinvzcqjfaaji0deqyauw3cue4ohjztulxzfz6bfjzqjfrvzv3vmtwn09zvhhuamdmnwzrx3brlwzirmpras1fd3i5wjdurkterwldyneyedfhwuzsamxmytbumdjqawjtu1lxuja00ggvaufvx3lxte1itfnjmxf0qzmwme9hnkzrqxnyqm50z2l3qxjmvkxuc3j6efdxdi1zodjttm9luuxwoxzxbgxqauotouiwslbqaee0zgnuugnvbhoymgllskw0rkt0cdhud1dor3zzrgnbchnvtl9iowc3cy1pnkhkay1kn1bodlbatjeyb2dwoevvc1zkwu1vneo3nufdsu1tzu9lm1kzmguttl9krzayuvflc1dtze0?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1urzfhym9tqvk3te5neuhpchl5x0pqlvjod3rjnuthnhdwmzcxrmk0ahr0bzbisdn6vzjpqlvwbhzumzbvufvvngdflxqxalrwbwtdzerta0nwzdrstgdougjnvtf6aulusvdnvuryyvpmqq?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpmwlybvzcevluznhjujjwn2tcoegxq3z4s1d1sjrrz3fktw1muuziexvvtmp5nw9osuzsx3vwc2nqyzdjbfbka3nuavuyexnpnmzuwkhmsju4d0zydjrssnrqytqtz0j2rgfhrgf2tgotdmzxzk9wtlg3dzfbaje1twpazluxu01oy3vjemxkm2fruuwxz3rfn1n4nzdpy2r3ulhqs25rb19rm05kci1wm2j3?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnty0xexv1rtbkefjqefllymt3d2fjd2hwyxvuttjru3l3zu9fnkhtcjjnag91bmvodmpywwvsrxg3cmpqa294afp0mzvnc1jtvupuu09bqvbrtxn3eevzug5nmutgcxpkmmtilxgzu05qdkfjm245vwtkaejbmkvolwxcrenqz0qxwxbjewp2vwcwv3atuuw2euz1dzrxqzrhevlhqlvdzw?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbeuedbouxlegnjc1dmdnlxae1vdg9znnhgzw5ztv9hrxfuehc3twviwxnjrdm2txnzvkznavdpueixx3e5odnhmdzrb0cxbkd6ylrfalr4vhrax3m3x2f1v3nmddfjttbfvg5snwpjdxa5nuhpbwhj?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnshlfzejfbdfvvwitr1llturyyk04x05oejz0wgrwznpmqwxqcvp6butmyvrizutmzwnkcgnymdfxbhy2r3bvtgfmsvb3rzktv0strlz6bu13eunmdmjpbl84qjrkvw5nmmp6aljochywenh6r0paywhrbmlhbzdfrfh4mtfysnvxv2jhm1lyvhzdz0dbowgxuq?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxotwr6amxowk9jsffidurutnl1znp6wgi0mfnatnhkmglwmvuzq3zmlunqzxvfyvf0uzbutnpia1ywqvr6b2pfslfga0f5bmtfazqzmnluqzgxmzm4nlvqskhdzi1yumzhnktpa0eyshjbylveqtrudnlvsellugjmqjrem1zqoxoydgjrmlvtberacju0auvsag?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxnodhrogpxx0dlaenrn2z1oc1irwl1q2nwlwzoemfoegzjazcxs1h0n0fkcwtfu0xwcmfpqkzon2rlee1ta1ddshnnu0vfcgt1dtaysfrkqtjjq0s0sdvtzvphbe9xzjfedmvgofu5twjwvvvetutttenctdnoc3nozzbnbtlsykteb0txetnrulzywggtqlbeskpcmnbhvwjwn0ndzlc3zghqeerkmznjnjr2m3vqq1jhsmncoxlwngrfuxp4mm9jn0fix1p5qva1sdvn?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxnvkw0r0nib1zatlhwtwlbvgvbshrgmtdlue9utlrnm2rtmtjxefvaskltmtdprxbxltf3wezuzgjmc3h1cjrynjzusc1tv0rqef9ty3jjm3pftmo2zjdibfpxrhhlaklrqk5rsdnnb0lnaldtsgtmwtlxdw9lrdl5cfjqx095auo2ueyynutms0tqaglfvvlkudrcrgo?oc=5",
+    "https://news.google.com/rss/articles/cbmis0fvx3lxte1sbgncudqtxzvdmknsmhotsgfum0nodvi3auhlreprq3vtev80ws1evhruajdnql9zvtdvbc0zdxhtn1q1dfc1zzr5mnibqkfvx3lxte5ubjjfcmd0x3g1ugrnwwhdnde0cm9cc2lblvn0uzhkmlzhstbvvlv0zzhorlbgsjmzbda5afhud0i4dw?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxomv83yuv4cxrjakzydfk0wgdgamk2v0fpa21ccdzma1dsmlexem1xwtvjyusxtxg4twm3edbcshdnamnhmhbclugwcth4zgrgcfzorfjht21lt21wekdsuhnfn21waghsodvqa0o5t2z4v084tghdrgewsfnmznvcy2xuvgh5zlnfs2p6ci1fyu84sdnozelzdxdpmlbluu9fvl9mtuhpudi2vlv2z2zfmdn1tffvv3c?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfaxwgj0b1pzszzkqlhhvl9tazbdogfdnmzxmkh6czjuyuffvthkbun2szetvwxvbdveaup2dhzvc2zvww42vc0xmhlhbwowuzlfr1nrumxkzfrjdwcwnghutjzsevlfqzbpsuznd3prdc1huq?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpn3ewyzdjwwf6cwf0dgvine44rxvqznbnceppvvjmtdhwunvbcfrpvwmymljeelz4wwh6nei5ymfqnl9vuhfju19jc1vhswzwtgtjzvn5tgl2zk8zzgrqlvhfvldluwlyshrmmfzwevzzvlzocv9dewzwykreuxbbrungswrax2peclfyywc0m21bamdvqwhpcdq4b3vpmfnjczhnbvzmcwn5ynrorjrjq0vn?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpnmtxa1zqq2y1tzf2z2trluznahnqohiwes1vs3nvexlzbw5jvzi5dnbamdi5vws2ekdflvbszjlbuunywxpem2g1tjy4aw9pnkqtywr4v0vexzlnsgnuawe3nzlnvmnjcg1ua0ldodrqemr0ofbkmuxxcxoxb1jivxhtu3u?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnotj0bfh3s3piuzk4egnst3dwngpmclpocjy3ddlnsmxathd0zfrlejbknmjls0itoepywkpds1vyyxllelphou81rm14s3vlche0nwfldgn0s3hcrtbnbs05qxe3rzk4cs0wluf3eglccnlmnwngdhlndwmyzezktla1awnvbkzjxzvgefgwsewttjdknhfomw1uukxzcng0ou81bxlyoa?oc=5": {
+      "headline": "SMIC stock jumps 4% in Hong Kong ahead of Tuesday results as chip sentiment steadies - TechStock²",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:16.003506",
+      "last_seen": "2026-02-09T21:47:16.003522"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqs0hbqkntuwromtbjt3j6n3hfsjvmyzgyovzvv3zddflfwll0wllhmwk1yjrjnxhslxpcc0l2cllcumpld2p2nufwzvu0clljaujntnjuduxxehhneu4twkrnltdqt0hwnng5uji2cc1xz2nztnbvme41oextnzd5wmniuvzsze5prnn1mlfhukrwwi1fevnjeg?oc=5": {
+      "headline": "HK$70.55 SMIC (0981.HK) HKSE after hours 09 Feb 2026: watch Q4 margins - Meyka",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:18.624977",
+      "last_seen": "2026-02-09T21:47:18.624988"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqwmj5s1vvnnlpz1m0ofzyuewwxy1netuwttr0rg9fnuqtmi1ylxl2thltdxluow5jbvjxlu9vshzfbeppyzfkvnfvsgxiqlfwdf92qmfyajrjcmdlung0znrvbuk1v21uwvoyuvrksvn2oelwrfbob1jurc1ht1fftg1koxgzcgrqc3hpnmtin3djykc3wkpsotzuu3q3wtm2sgutsw?oc=5": {
+      "headline": "Early Session Movement | SMIC Rises Over 3%, to Disclose Earnings - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:21.445618",
+      "last_seen": "2026-02-09T21:47:21.445632"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1mbdc4yuzfa2m5eddlumrjb2toqzd3y3fgyk9na0jztwpws0jsm1y1tepix2dzy2pieeo5v1o4nwjhqvlmwwfgz1hoehpicex2welpwug0dxzrduvymnjcqlflsllzckfzz1p2emzja050dw?oc=5": {
+      "headline": "Bullish block trade of SMIC(00981) 80K shares at $71.55, $5.724M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:24.462100",
+      "last_seen": "2026-02-09T21:47:24.462113"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte5avg10c1vynmvfufb5vjlzovbbqzjrazrqq1h2czdrthniwhdtdlhhdevwmjjpdtkzdnrgtvq0re5idm51t3hhvhzqvu8tyw93nvdcotixswfimtzym0w1y3e2zmjmmfnqr0y5ogxsu0tnqku?oc=5": {
+      "headline": "Bearish block trade of SMIC(00981) 106K shares at $69.95, $7.415M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:27.819242",
+      "last_seen": "2026-02-09T21:47:27.819252"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxqc1jxzjlkmi1usvfkvljlznpmowfizlqyndfqrkx4ngpkbuthamr1s093denmyjfpcundcjjmc2h3yzg1lvvysvg3uk0ynzduc1lqcml0rjq3mxbkrljxevvhz0fda0vuoxdztkdzuhvptgzsykj6zxbrtuvunew5m0frlunxqvn6axzvdlvatfjiymprnwpn?oc=5": {
+      "headline": "Commentary: From retreat to return, SMIC's long road back to advanced packaging - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:11:16.088709",
+      "last_seen": "2026-02-10T11:11:16.088727"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqufrndkztmzvlqkdztjbwz202zy1tb1fhyxgynu0zukrktenis0n0eenkvk5kd0ntc2xrdy1pztvbwtfbmmzobldfavjktxbzoxf3ndblazhodznrehjlalgwympmvla5mwjrrjbldzn3cvhxehrsmflgvzrhbznzsxb0z2vwdkfqywfyuy15wgm2qvnzc0vzwxlfblm4edflugjdrkpregrxehbltuhplvduz1bnswroognb?oc=5": {
+      "headline": "SMIC to add wafer capacity as new equipment lifts depreciation By Reuters - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:51:28.553052",
+      "last_seen": "2026-02-11T11:51:28.553071"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnvvhmcwu5dv9sbwdob2r5z3v0sgpun0vxszhhdnzszlr6skzxrl9et0rhnvfkz1riv1lndvftrg1bddhtamhjeliwwnbondbvdc05t0zqnvzzsed3n3dewernzepvoti4vgzmnegxble1wjnay3fvwwnkt2jkdzzpnunove9jexdlzxq1zm9xcg93zjnjdxl0zmzzbw?oc=5": {
+      "headline": "SMIC reports 60.7% increase in fourth-quarter profit - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:51:32.878348",
+      "last_seen": "2026-02-11T11:51:32.878364"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxndme1vwtosuz2x01tc2c4ynnwtmvnbufwd2phyutxrxhdnja2z2gztwjfn1k5tkfwm3przk40lv9en3jtztu4yu9dmefpsjzzbwi5bm5rngrobuhrqnkymfjostbtwkvzwdr0ujbvvtrkuvm0qkxsx1dlwxhxzgtyvtfitdjqqzm4b1bimes2qtluohzerzk5n0xinvprcnn1qjj6qvzquefrylm4autpnwvuzmvovdf0cgwtr21cmzbhz3gt0gheaufvx3lxte1kbu9zoxdwzy1ltxgyvnnaudbjqtlbdmdqv3vutk9yovdvbffkluthefj5vhdjx2vdrgc4dgdwwevxnnb6amlnmefvren0turfsunzd05nrdz6szfpsm9pm0m4tnq3v2zkbtjwttdowehizmlmzhpovhdvrhj6r1ziu1baemxlt2q3nee0znn2tgvaqwfgcmhvtvu2svbguuzsbhhrqtjksmdxdhg3rnhwlxa1de1pclhkt0xnavvhcc04yvg?oc=5": {
+      "headline": "China’s SMIC expects flat revenue as drop in low-end orders offsets AI growth - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:51:36.139523",
+      "last_seen": "2026-02-11T11:51:36.139550"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnzetxzhk1be9rrzdgn3jzt05ibvnymng2whb1u3z6d0o5qtboedjer010sdrvu2q5rdb6t21lwtlfrdqxmurdsnzhrwdsckfjszrkenv1ehf5r29aogrsb0tss3h3bufrq0rtyvz2lur4tthsy0nnt09euxneum9rznnscnm4ltb5nhvsdu45ume?oc=5": {
+      "headline": "SMIC’s Big Buildout Is Starting To Hit The Income Statement - Finimize",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:51:39.220429",
+      "last_seen": "2026-02-11T11:51:39.220449"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnoc1juxdzvultovgzynd0s0h4bdi4bznhn184djvwb2vzvtzhclrzqmkxr2qtwdhgveq2c3bfwexin0xkejvvdxrqx1fyqupxyzn2eenvcwhqvnjnvenqzg92mkrqvg1nckrpqjztoxiztui1cfd1sjhry3lpy1rnz3pfeli3mxmwr1oxrlfyr3fxu1vcdi1bdmxhzex0vunfmlziwlrhafptzws1luv5n3hlm19smwf0z1nln2zqunpgvgc?oc=5": {
+      "headline": "Top China chipmaker SMIC says industry in 'crisis mode' over memory crunch - Nikkei Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:51:43.234910",
+      "last_seen": "2026-02-11T11:51:43.234928"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpcddcsmvmy0ltevvmmhjvzkxfzlnnyuthati0yzbpoha3qvvjs1lwv3ldthlan2xenzzkznjnndrmsgp2dju5n0lvskrdwtzld2ndvdbywvlurmc1uwxsv1nkoul0ylf5cxzyr0vgrejrn3v4bwjfcmxfutiwdfbobulwujdvtmhfehd4ytlfaha5uc1xr3jtm0ngnndnvtdldxndck85oa?oc=5": {
+      "headline": "SMIC to add wafer capacity to meet strong chip demand, warns of margin hit - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:22:39.893429",
+      "last_seen": "2026-02-11T13:22:39.893445"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxndefky0jiamdnexg2u0neuwewc3m2eu9juxnnwxzfmknib3vbowqyoghvzzrlx2neszm4ew1twgludgxsnuznedvxmlrhyudhslvpa0tsqwjymmizterssvbvtmhteupwqxjyr3etdulgztl3cw04wvo0cgvnc05nzexqutm4dldotnnuswpmqmnwmzl0ve1r?oc=5": {
+      "headline": "SMIC follow-up: dissecting the AI memory cycle behind capacity shifts and margin risk - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:22:46.370513",
+      "last_seen": "2026-02-11T13:22:46.370528"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxnsmizmlnir3j3bgpqdzu5t0t5vzdlwuf1b01ltmy4sfbqzmxqx29xt0fesmdrqxlkbkxnc2jmsvu1t0j1q0wyuln6albisxzed2dan1jjufhwz29lewgwym40y0fsckljewq2yldhtklhvmztvg85zddjdlvim3vjouvht2hiq1bqas02b3jnywq1z0j3y1bjnmd2q1vjmc0wuezxowlru0izlvrnetbxnewzulizsdzwvnatnjz2vq?oc=5": {
+      "headline": "SMIC shares fall as soft outlook, memory woes overshadow strong Q4 - Investing.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:22:52.590264",
+      "last_seen": "2026-02-11T13:22:52.590280"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxprdztn3hpmtdxxzjoaedxstqyrhjlx1pmq1vhsdzzyvnhyjjizhpbvjjtanfirnfiwuzfofrwzxe2sjrcnwtawwrhumj0uuy3bnjtblr6tjg5mk5cnfpcoevmy1lnswjia1n5ywz5nlbjlxjmetdmnwvybklwefnws2xselzfbwvxtkviwm1fvfnzx29bowvtytfbunjxd2tkd0fhr3vvdw?oc=5": {
+      "headline": "SMIC warns AI pull-forward is rewriting chip cycle, lifts mature-node pricing - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:40:31.203962",
+      "last_seen": "2026-02-12T12:40:31.203977"
+    },
+    "https://news.google.com/rss/articles/cbminwnbvv95cuxqwwzqu0tvx3dbzhm3vfjrszdju09swhlawtzxohbaa0fhq0fkntvqqxplc21tsmjznu5frzvgvwzjt0vurdftthlqq1dsuevqdg9zzwe4skxsnmstefl1yndjmxdxtfnzv0dnrjhivzn4ue81cenyzc1ycvhus3cwetrjd1ffwk9kcgvowuzvr3zwdfpyaw5xuwr2qkj4a3lqqmxgav9pu0j2dmixbhngde1sv2zgu00zutdomlh1zgzortnez1fvyxeyvjbjbjnzsnlpq1u5ogdnzmrgb25urhbrem52ahrkbvhqmnh6cjvxt1n4bw5jrlo3m3rdcddkcxnytxlorjrtzmxmx1vznhvzdwnfdwfcbkvyyzrttwjrcljpdlpxvdjxtl9pcdbhskfqmzdrbhzfbfnjwjrtuxvvbgpzsuritutpn1n4c2w2a09iy2nssmnksdh1rgu4aud5cfnqt0tzcgt6bfjwbmdtdfi1ewflunzmrnnwqzzmt09ezez0qvntzkrmss0zbejfa0dlbei5svvyovnr?oc=5": {
+      "headline": "SMIC CEO Says Industry ‘Panicked’ About Memory Supply Shortage - The Wall Street Journal",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:40:35.451194",
+      "last_seen": "2026-02-12T12:40:35.451209"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxozgrzzgphvfzlevpovefjuhr5yms5r3blrwnrm2fedlhkuhg2t0tuqnpxvvbmdej3zle3dgxrqlzwt2dps1ziwgflemrmehlioelvzy1jcjaxewjwsmtmczjlstn6vhnkx1pwohbgcdv2skjev3fnrzytn0xuejlfn3j0atrzegjptgvsu0pnvuj3rulyber2adrlqw4ynm1xdejddkton0lpt3kxr0rxd3zqt0fndtfkemc?oc=5": {
+      "headline": "Applied Materials to pay $252 million over illegal exports to China - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:40:38.354012",
+      "last_seen": "2026-02-12T12:40:38.354026"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnzldtegnpaxh5nhfiu2q2z3rmzgxgrujwwwdfb1yybjhpn0u0qvrmmetutuhuand5thi2lwfrckiyvffyludoyzr2m09jzfkwagzsdv9sywpitmhimjjfslc1dvgyt1ftmdj4edzxwljmy2qwnvrhvvhrbhhfoelnlvdfoglyuutonv9st1ljc2jjzw5hx1hjq0n5dfvvogztdvnjexu1uhzcadhk?oc=5": {
+      "headline": "SMIC Revenue Rises as Profit Slips on Expansion Costs - Caixin Global",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:40:42.368426",
+      "last_seen": "2026-02-12T12:40:42.368441"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte53u3rpcjhzwgp5nwpdbk1notg2ytfdzupnzxdlytm4bxfmutvxampqvdjkt2zxvvgzmvo5mnvfr0jca0jmc2hxt0zibmfnagkyblbvmw5pzjdrqmu1nujhttbwmkrjtwwzthryylvlsejgntjor1e?oc=5": {
+      "headline": "SMIC says rushed AI chip capacity could end up idle - Taipei Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:40:45.183481",
+      "last_seen": "2026-02-12T12:40:45.183496"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqq24zzmpqwxbmsng4bm0wrgi3cepmrzr3rnj2ck1wyjdvwxhnv2tsdxnlr2d1q1jza2ljdjfrdw1fsmtyegvex0jjmmd5ohvttzmxcuztejrregxlakprzjrbq2pgrgxez3znwml2wlhzr19bdnexmuvqttlzzgtyq3uzv1gyrwvdowvscvr4q1uwrwzhc2lebhdzmtl3q19krxf5ovbjvhbyuvpuywrjylnocmw?oc=5": {
+      "headline": "SMIC to add wafer capacity as new equipment lifts depreciation - MSN",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:06:16.241757",
+      "last_seen": "2026-02-13T13:06:16.241770"
+    },
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxobxpedfjzodj5r1nyy0noou54rfl2efhonjnrsgvavhbaovrzyxpmynctm25kamwzrujjvnzfcvravtuyqje1qvbpzlktdzrnvzr5smpgrljmzkzrtv9qywx0rtu0tlrtogz1amfusxpcu0xsx082mxpfzmpydmpfdtdnbm5rnxh6nxryow85afdrdxpovunodxdsunj4r2zqze1or3v6rdhnoxbarus3qlqxmfvmbhrhmgzzz3rrn3powhlwntv2tw94cfhlzddqz2hrwk1im041zuzzrtltrw?oc=5": {
+      "headline": "Applied Materials reaches $252m settlement with US gov’t over illegal shipments to Chinese chipmaker SMIC - Data Center Dynamics",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:06:20.128408",
+      "last_seen": "2026-02-13T13:06:20.128426"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnys0zqkvwlwtinmtjd21wdnduowfyuudqvnktufnivhhxvnvudmhauujeodrezuvqvtvna0jtcjf1ujjsoxdgvdljqxmtbhowmvd0zmnfdnzlc0t6tzn6wvntchffvdlmx3hmovfjzepanlv4twpxsnnyeevitlnjqu9hczu?oc=5": {
+      "headline": "US fines Applied Materials $250M for illegal semiconductor exports to SMIC via South Korea - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:06:24.549038",
+      "last_seen": "2026-02-13T13:06:24.549056"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqrg1gz3hnzu9zatbude5ltjk4shpocuvlvwz3tfatuzfmohqwd3jengqyrwrzu09jrwhvzxztnep5n0lgulnltv9uttawq2xrc3f2m3fjrlvwzgfemgtlluvpmnp1zw10v0pzq1u3v082uzhkoenvsg5ymg1gz0m2afrvym9iujrqcwrodfbnrhbws3bkyle?oc=5": {
+      "headline": "Applied Materials to pay $252 million penalty for selling chipmaking tools to banned Chinese firm — settles over alleged 56 tool exports to chipmaker SMIC following Entity List designation - Tom's Hardware",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:06:28.527470",
+      "last_seen": "2026-02-13T13:06:28.527485"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpnudxww4teehwa0pkz0r0n2z3tzaxmk5idzjfcmnor2c0sw9tqmt6nddttuphrmnxqv9qzzhlsnjlzwstavdpbhj4rglynxitnnz6yzrxwurvuvhjzjdmaffjwmptoeo4elhywuuxywzfuufuovf6zmzjvjviuuwxbvnnzuzgctf0qnfhanrlvxptugm3vk1kc291sjh5akw3wmpnrzftntjmq0ozamxnrzewyk9ovulcu0xr?oc=5": {
+      "headline": "SMIC Shareholders Approve SMNC Acquisition at Extraordinary Meeting - TipRanks",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:06:34.159450",
+      "last_seen": "2026-02-13T13:06:34.159471"
+    },
+    "https://news.google.com/rss/articles/cbmi_gfbvv95cuxotlpfvmrluth1thfjwvm0wmo0swdnctlmu0nsc2lqx1lbb1rwtk9wweoysed1ttlnbu15wwp1rfzjtudwt2vhsg1ot3voegnwse1ovwzccflkde56thjlrlzjodbrtleytjfua0dvlutqtkpxzmhhnulnvxjcvel2vup2mkjua1fqmwxmbvrlnmt2uujnvdzcrc00njy5vgv1stu2ec1hulhjm0dvq3fkyjiyru9eslr2yxzmqkpyvhj6qxrxyjbgzvjxxzfosgtrbkpvtw5zyvuwn3ftq2mydmdkq01uzzlqa2jiwxpsz3fhoxbdvupoejrjwudpdw?oc=5": {
+      "headline": "How SMIC’s Q4 Profit and Flat Q1 Margin Outlook Will Impact Semiconductor Manufacturing International (SEHK:981) Investors - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:24:06.488221",
+      "last_seen": "2026-02-16T11:24:06.488238"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpskszakljvgw2x0dedkzbskm2by1qbu5urkfez0xynjk0enjzcla2vur1vfvwrxv2vkhhmnpedghyofg2s1rhuk9wetaxdw1levntmllsbwtbv2syaevvy2zvqnjua0iys3hywnlvtje1nnvvaxl1rdbknmlyazn3nfdzddvdakzywejazfg5sm10ngzfcee?oc=5": {
+      "headline": "中芯国际(0981.HK)：存储器涨价对需求影响或相对可控；维持买入 - Futubull - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:24:10.023661",
+      "last_seen": "2026-02-16T11:24:10.023679"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte1lymngrkxfd1c2ckrzym52z09nu2jovupudfn1ntr4ek54a09wt2zyqti2c25iclnkstngadninmrkukrnaerpdkncn2fatthvlwzrrs1rdezieho1sg02tke4wffdstk1udcywxllv1bydmlynhc?oc=5": {
+      "headline": "Valentine’s Day inflation - Taipei Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:24:12.886070",
+      "last_seen": "2026-02-16T11:24:12.886086"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpwl9ouglgvg5xmmlszzl1nthfc3dwnhq5aji0rtfqr3n1dzjzdvhhaupzc1lsakuxblfka1c1awo0r1nlmet1yxlcvdk0sjhpqtvqdnvlqmpda0c3nutzb251d1bowtnqdnljdhlktelquevva1dmuy1zq0jua1voructwxjjzw?oc=5": {
+      "headline": "DBS Cuts SMIC (00981.HK) TP to $87.4, Keeps Buy Rating on Re-rating Potential - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:56:32.309939",
+      "last_seen": "2026-02-20T11:56:32.309956"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxobgt6zuzoddl0mtfwzmnoy2t0elfhanjfdlhdy0f2n3nosnbxbdb2tnl2v20wmmxmenbnamuxazlqavhtzmvjyldwvvg5wwjtzmq2oxyxtnhibm42swvnetbyrulsqunbtvrrbmu5r09tbvvnavpmm2vwv3rurwhobndvcwdsrultvk5htgtxz2favlp2wmlhy0wwc09nrwfswnfss09jnwpbmglrwmm1wffhcwnvoe0ystn5a3llzjvclvg1ynfmrzdcbtflzmiwmgc?oc=5": {
+      "headline": "[News] China Reportedly Ramps Up Chip Tool Push, Sets 70% Target by 2027; SMEE, NAURA at Forefront - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:56:40.622786",
+      "last_seen": "2026-02-20T11:56:40.622807"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqt0jts2ettungnfdynw92dfkxrul4vlngddvfekj2tgnhwgnacfnmsv8wz2v1rkxdmzfwbwdzquhxnwwysuk4exjkcdjewelpm3bna0tmxzz3sgnrq3bnnkrimhzsmgu2umjbbnnsrhv3rdluy29ywe9vx083zxvxmfmzajnzwvznywnyu3jjqxpnctm2x3bkufbqlxctaw5oady4?oc=5": {
+      "headline": "Chip Supply Dilemma: Can the US Still Contain China’s AI Ascent? - orfonline.org",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:56:48.862200",
+      "last_seen": "2026-02-20T11:56:48.862218"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1ocha2nuhiuglyrfdkag9eexmwshh0wdjhyzzzcwpny0kztlp2wtvou3phz2jsanjhmw1fovfxsw9ocwnqwermdextukrcquhyn3bjy2xfwxnzowtqwvy0t2z4ufhxx09ounlsr2o5rnjlzw?oc=5": {
+      "headline": "Bearish block trade of SMIC(00981) 152K shares at $68.5, $10.412M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:57:05.018155",
+      "last_seen": "2026-02-20T11:57:05.018173"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxoqvhruhbwu0fszuzonzhlewplrvfosuzqskfmqldhdxhod2xvtnlinnhicwgzand3ytfet1zcoexhzjvjsdjxm0z5ckq0bc1zmlrjv3b6tm05yktrm0pitxvlskpuc09ny3bwwwjln1ettfdpbexcb0nldtgwte9cotdecvbadgrqzxnadvdntvbroe9wwmg3c0nfbvjwvhfvcm1svs14nvhxs0hiegtsuevmenj0dgpou1voddlyawjrrmq3q1bmdmjhdgi?oc=5": {
+      "headline": "Increase in the activity bonus in April 2026: who will be affected? - Sortir à Paris",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:57:13.292184",
+      "last_seen": "2026-02-20T11:57:13.292202"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte8xzffdv2fas2j4blnqqxrztel6c2luafoycunmuvffu0rgd0hhquxswgs4c29ztnj5n2h3awdkytjjeup6ekgxsldpr21zvhjnam15axhwchbjlxhivwhku3v6b25vqjvnzva1awtecw?oc=5": {
+      "headline": "*HSI Surge Sharpens to 600Pts+ in Early Trade Recouping 27,000; MEITUAN, SMIC, ZIJIN Up 5% Each; KNOWLEDGE ATLAS Slips 15% - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:55:19.236095",
+      "last_seen": "2026-02-23T12:55:19.236112"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpre1aawjyzs0wbjzymnv1zvzrx1vfvkhlbjj5yuxrzzrpvkvwnzywczdwwextcfc1ynrwaer3n21ovuttt0o5c2o3tnvlnnrnbvpkzkzfcefgtvrqrlhibkfpn2l2runmngm5unddy3jmdgwttkstmedtodhvz1bwteyyvuviemfktte4wuffdddwvlnu?oc=5": {
+      "headline": "Hong Kong Shares Rally to Kick Off Week - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:55:22.217064",
+      "last_seen": "2026-02-23T12:55:22.217083"
+    },
+    "https://news.google.com/rss/articles/cbmitkfvx3lxtfbts2t0chrtqul0nuptn2ronkvydmj1wet1zjdfuwj5twvpt2e2aflca1polvjvy0lpcwfpdk8ybmuwwmytennlvzdrczd4uq?oc=5": {
+      "headline": "\"Hong Kong Stocks\" The Hang Seng Index opened high at 385 points, with technology, export, and resource stocks rising, while AI model stocks retraced - Longbridge",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:55:25.168576",
+      "last_seen": "2026-02-23T12:55:25.168602"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxprmdncwy2yzvvne5vmnnndvfxvklkthn5vwfvbtf1mg5mm1fxbug5egdvexfurnfizdixdkdxwmrwltf1bhmwumjlnjj4adn6nwflrkpkuwp3u3kzyvzmbhdcekfjy3v0zfrgvupmr2fec3jkmg1iz1jnmjfvbvm5r2tnatb1dw?oc=5": {
+      "headline": "*HSI Surge Sharpens to 600Pts+ in Early Trade Recouping 27,000; MEITUAN, SMIC, ZIJIN Up 5% Each; KNOWLEDGE ATLAS Slips 15% - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:55:29.297281",
+      "last_seen": "2026-02-23T12:55:29.297298"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxpsxpfwxj0vhpazwrvevlynl9fwg4wtvjhlujktda1n25ry0xivwdmmwo0b010ykzvbfhyt0fyohvrd0p5y2zlavjotmpoogtgehlidjm1efvqslzruthtt0tsm0twyu1ise96r21huuzodlj4qm5togpbvjn0sxp4mui5q2o5axgxmevoujrzmtvzukwwyujfd1ywuhnws1rveketmtvprey0surgemfsaa4bqvvfexfmt0l6rvlydfr6wmvkvxlzcjzfx1hume1sry1czewwntdua2nmsfvnzjfqng9ndgjgb2xywe9bcjh1uxdkewnms2lstk5qadhrrnh5ynyznxhvuepwa1e4u09lujnlcgfnsehpekdtr1fgahzseejuuzhqqvyzdel6edfcounqowl4mtbftli0cze1wvjmmgfcx3dwmfbzvktuvxpblte1t0rgnelernpn?oc=5": {
+      "headline": "ASML Boosts EUV Power to 1,000W for Better Yields and Lower Chip Costs - TechPowerUp",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:12:16.522512",
+      "last_seen": "2026-02-24T11:12:16.522528"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnswhpvnbxeda4zvzvx2zpudnybnlwn3lvtetmtevaemx2evnylwriuxr1tnlmwnhfzmnttnbodjntcxrhtfngwmxpcy1jmkv5ywzxavo3rg9pnknjqug0zndcseziektwtmrvdvrqb0fmv2xjtglfx1ptnhlsludtq2owc3ffotd2bnb4dezfmxnfbgczz25ods15bkdjqq?oc=5": {
+      "headline": "Hang Seng Jumps 2.5% to End at Near 2-Week High - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:12:26.989389",
+      "last_seen": "2026-02-24T11:12:26.989404"
+    },
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte5wnurlajnfa1bmv0xfuetsqnrddzdlzwpjtw5jmmdjohpbuzzuagpzagjnlvayc1rwvxpmcvdgcww5wkteq0n5ofewb1zddw?oc=5": {
+      "headline": "Hang Seng TECH surged over 3%, Meituan rose over 5%, while the \"dual giants of large models\" KNOWLEDGE ATLAS and MINIMAX showed significant pullbacks - Longbridge",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:12:36.538590",
+      "last_seen": "2026-02-24T11:12:36.538610"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte1ty3dkbhpodflxcdfsoujws1ozse43owlhz2t4qnf0d181ctznadhtmktunhhtnurlqnrkb19mvjduwmcxrm41s1lizk5mvwtrcwfvtle3ngg5ynnamtqwwdjwrkq1bwnqdc1prmlqma?oc=5": {
+      "headline": "HSI Ends Up 668 Pts; Tech/ Exporter/ Commodity/ Auto Stocks on Rise, AI Stocks Recede - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:12:46.574258",
+      "last_seen": "2026-02-24T11:12:46.574274"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxque1cakg2sgxunlbtu3dtqlq0svvksdltdursvufmxzizb0l5ymfmwhvglu1mejlns3hbsgljd0zvzjvlmfrwmk9rr1vbmuncbknluldxufffaduxnjn2nhrizlzntwcyy2tfnlf6awdkddk3qunlzmniqufurna3x3hzwxk2emjvehaxdexqvtrwz3o4ykhsazybqvvfexfmufbnqmpinkhsvdzqu1n3bujunelvzeg5bxveulvbtf8ym29jewjhtfh1ri1ntho5z0t4quhpsxdgvwy1szbuvjjpuudvqtfdqm5dzvjxv1brx2g1mtyzdjr0sgzwz01nmmnrrtzremlnzhq5n0fds2zjykfbvezwn194c1l5nnpivxhwmxrmufu0vmd6ogjb?oc=5": {
+      "headline": "Samsung Foundry Utilization Jumps to 80% This Quarter - TechPowerUp",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:12:54.403296",
+      "last_seen": "2026-02-24T11:12:54.403324"
+    },
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxoww5wyzixrtm2mmlryuhalty4uzhmn3b3dfnuaxjldfvylvy3egg1cg1ockpkexhkwnjbqupfvnjhdwvyufz0x2syvkfyvfncc2nvyuctrlvmdkrlcuhtzdnmataydhizaldwbw9tnnrkmgvyzfhkbmvomkvyt0taa09ptev1ytnwc0txoeqyvhh3m2v4nnffr0kwlvvmtxhzvtktowfenwdrckjvtwdrawtnqlg1u01rlxvus2g5ckluak43wugymhnzmghrdxfknhjom3lmui0zatvh?oc=5": {
+      "headline": "[News] China Reportedly Aims to Boost 7nm, 5nm Output Fivefold in Two Years, Driven by SMIC, Hua Hong - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:04:25.345130",
+      "last_seen": "2026-02-25T13:04:25.345146"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqbehethvon2fycwlzafmynkexehb2mmy0nktpsevftxd0ltjgu2v6u094swjoruezb3e2bloxy0hfxzvwnc11s183q2zmexjrq1bruwdta0tfx2pcofhnsxpbzu1pc0r3axhhtnlcrvlyejnowdvly2nhv01velo5quexwtv1wg1rwi1vzkiydxn0bnfsq3o5bwzqrgvwumxnrjldb1vb?oc=5": {
+      "headline": "China aims to double its advanced chip production capacity, led by SMIC and Hua Hong, to meet the computational demands of AI. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:04:35.861177",
+      "last_seen": "2026-02-25T13:04:35.861195"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxnql9hqkg3vfhlak9weghwefpusus2velmcggxb1hcb1puvwlzqwv1ogjlcdvtn2hyeurzv3pms0jbewj6vvb1egfgnmmtsgz1lufzemhyuktavjj6sdbynnnnyxjzefqzslrmstdrr1fsadu2mvfybevsz1flr05zwnhmbvdsyy1zbk1er2e3s0t5mnltrxlrenbbv1a3m3hxcmnatwtpu0u3evp5nklmsvvatdvkbnbn?oc=5": {
+      "headline": "Top Chinese chipmakers plan to boost advanced chip output, Nikkei reports - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:04:45.835915",
+      "last_seen": "2026-02-25T13:04:45.835932"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpegxtvw1yag9innhjc25hz2owzwnjcwdiefc5c0h2x20wedvzsedvmvlxzhcwsljmtviyn0lcc2nhdejry2ttzlm4dzhodg0yc3jduta4xzhxvkvjovpwdhb0bnhnd2pgng1zt1ztwlnarvbnqjrxtc1lmhjyrflaz3lxqtvkqmqwqwixdvldnflem3dztmvgu0hts1duuet5wglztw1itxrvr2jwb3v6tgrxs1h5b1c4wdcwx0fuq1nkn0zh?oc=5": {
+      "headline": "China aims for 5-fold increase in advanced chip output to meet AI demand - Nikkei Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:04:56.383902",
+      "last_seen": "2026-02-25T13:04:56.383918"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxovjlqrvn3rglummlevhg5utrpbdzwczn1a1diqnljmxfzbeczdjjlwgrobk9ulwjitlnmvum1mfi2d3zbyvfhv2turfbymw9cvmm4a0dwmkfmyy0xvnd6exhlmju5mfnfajbvslfynexouutibjbln29kwklpci1ds3j0wdnmcgkxdvrcmfvxvuhzaxbssuqts3ltamg?oc=5": {
+      "headline": "Chinese chipmakers to boost advanced chip production: report - Tech in Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:05:06.504042",
+      "last_seen": "2026-02-25T13:05:06.504120"
+    },
+    "https://news.google.com/rss/articles/cbmigwjbvv95cuxox2zrz1jhrhhjntzxmjjzlxzuwljmnmhft21rttvoehzhb3romnrsouzwx1lwrmzwx044rnzwcuz4nfe1dkuxnk4wzgvjs2cwywg1yjvkzgd4snzqawhfnjiwejhjclrpcercyve2uef0z25yykg5rmtgzhntbf9srthibkmzmev5c1vsr2lfs0tcnmpdvnrpytb0t0e0rznvbuzcvwrxmgq1rmjxm2vsrvfcnurhc1fusvn3q0fzcdi2qmfzexdkzvm0d3v2d1ziemtjwwfkzdjpt0nhbe5xz3u5ntrergizwem5r0trdurqvmjebujxwjuzsthvz0pitvrz0ggdakfvx3lxte5fzlfnumfeeek1nlcymlktdm5aukw2aevpbvfnnwh4dmfvde4ydfi5rnbfwvzgzlzftjhgdnbxrng0utv2rte2tjbkzullzzbhadvinwrkz3hkdmppaf82mjb6ognyvglwrejhutzqqxrnblhisdlga0zkc21sx2xfoehuqzmwrxlzvvjhauvls0i2aknwdglhmhrpqtrhm29trkjvzfcwzdvgylczzwxfuui1redzuvrju3ddqxnwmjzcyvl5d0pluzr3dxz3vkh6a2nzyupkmk9pq2fstldndtk1nereyjnyqzlhs1f1rfbwykrtqnfantnjofvnskhnvhm?oc=5": {
+      "headline": "A Look At SMIC’s (SEHK:981) Valuation As China Pushes Advanced AI Chip Production - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:16:15.707109",
+      "last_seen": "2026-02-26T11:16:15.707128"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1kwhhgzzi4mehrnhzjz0w3tlrod2o2oxl3el9mrkrwdfa4evh5av9vlvjtamp5bnzhmk1vx2jemeflmwo3zvn6skyywdbkulzjbelgwgnczk95uex4aefyuerhwtnyzknmzhzwz2hhzzawdgrl?oc=5": {
+      "headline": "China’s SMIC Advances AI Chip Production Despite US Restrictions - Businesskorea",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:16:20.452057",
+      "last_seen": "2026-02-26T11:16:20.452075"
+    },
+    "https://news.google.com/rss/articles/cbmi-wfbvv95cuxpbwy5rzryogppu19wagx2rlzpx2n6ru11muf5vly4slnbcwfheg1zbnnmrwntws1jtvpasnhwvzbzrfpobhdtdlllsfa3qmlzdglibus3zk5eclbdowtonjljntfkb3budhjiqu5xshjnr2l1snvyewjjt1nzm0fdrvndvtnnylprs2m4annongvjavf0bzlxwvzxyurqrzbqym53qvo2c2hjavvzt1k5cnltzdlhvmfdyzb3sm1fzlo0cku2chjkym15cwl3ogxfu3m3ynljam40avf0ajrvazzuexjiu044wwlmzlr0cmd4wjliakowrfezbw?oc=5": {
+      "headline": "China targets fivefold advanced semiconductor production surge for AI - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:16:23.277746",
+      "last_seen": "2026-02-26T11:16:23.277761"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxnwwzisllvvtv6sjitcgrlc05bbfbjx0y0z3zsymjiltn6vfduzk1wqzhcx1otsddpnhfxz0poujfdvufycdk5yunism95wnotcdyxvlfbx1nqufc3mtqzy2e5m00wmu1ong5hmnn0ckpqcgxmuvn3ufbsuuw5avnyu01qujlzc29mow9youjqwjbqnw1swlpsykjkzfbnegs?oc=5": {
+      "headline": "The application for SMIC (00981) to issue shares to acquire 49% of the equity in SMIC Northern has been accepted by the Shanghai Stock Exchange. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:16:27.549174",
+      "last_seen": "2026-02-26T11:16:27.549193"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnown0qu5ztzkyv1rxweo2dnr3sxbcawzgvet2nxe2tnnoaelvvkzxv1gzump1ben6ntjewkz0c2rfs2vxchqyz04wmjjlc1pismhwn3hhdllydff3bg9sodzxsdhktklvnwvvtk5wehhhqwv6q0zsb2xttdrjogz4nmdnuuvonw1rchf6d2zr0ggoaufvx3lxte05y3rbtnnpotjxvfdysjz2dhdjcejpzkzus3y1ctzoc05osw9wrldxwdnsanvsq3o1mkrarnrzzevlzvdwddjntjaymmvzwkhkaha3eed2wvh0uxdsb2w4nnfioeposw81zw9otlz4eedbzxpdrmxvbfnmngm4zng2z2drrwg1bwtwcxp3zle?oc=5": {
+      "headline": "China boosts 7nm capacity, squeezing Samsung Electronics and TSMC - CHOSUNBIZ - Chosunbiz",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:27:18.239990",
+      "last_seen": "2026-02-27T12:27:18.240004"
+    },
+    "https://news.google.com/rss/articles/cbmiw0fvx3lxte9hnk5envhwmgxbu05mluhhqwnvwlvvm3r6s1hwbvb2nvpybf9fcg5zvno0etl2mlktt0e1ne9oywozrzhhdc1pzjhavjrmcm15cmpomzi3snhpbgs?oc=5": {
+      "headline": "SMIC launches “Ramadan Gathering” third edition - Sharjah24",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:27:23.992680",
+      "last_seen": "2026-02-27T12:27:23.992702"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxqetliq2vra0vnewnbdhvwvlqzqng2dvu4tjhlttzpcwdgx09cskd4eluwrezdsl9ib2lszmzvyustwxy1nexiutzzx1b5nfzzzmrha1k5add2thzhawhimm91r1dhmuvoyxnia1ljzk1jwflfs1dvnfotamh2am9zuehxvzzys2wzrkztu2zfug5czmsybw5qn25cbw?oc=5": {
+      "headline": "SMIC advances AI chip production despite US restrictions - Communications Today",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:27:28.681826",
+      "last_seen": "2026-02-27T12:27:28.681847"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxna2ztymxoagvfzfvntdzkdmfjr0lwbnjtmk9sdvlkazngnezwoxm3t01prk9xvxbhrnq2x1nfs1azvk5ca2z6avzndtbmtk1hbgk5b01nemjbltbfzvpvb19vndbgexntazk4z2xubkplvv9ywhdmdfzjdfnfqjdhbje4rzjtnwhpxzn2zfpwqwtmzk9lafg2x2l6wjlzqja?oc=5": {
+      "headline": "Chinese chip packaging firm SJ Semiconductor gets approval for IPO - Tech in Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:27:32.393840",
+      "last_seen": "2026-02-27T12:27:32.393857"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9hovrjyzmxvek4tuhpcnf4rfrvuwl0auk3zdzjzfdysm9zc213aktmmwtqtjd4dwowytbjwkvxc2lkvlvwvfbmy1iwndc3rmxpaxnmwnvicta5ne4xtmqwvwvpegzeujnlnkjfoe0xdedztek?oc=5": {
+      "headline": "Bullish block trade of SMIC(00981) 77K shares at $69.2, $5.328M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:27:35.709868",
+      "last_seen": "2026-02-27T12:27:35.709885"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxobud1dnfacg1nrkjuzzgydur4dznsmznlq2nsu1bueuc4nhd4z3djaeplntdlt0fszedlc0njvgfhyk0wxzkzvlnoefp6weluovo5tevwr1c2ufy3ejjrs1nvzhj5szk1affnsujjz3n5njdjzle4ek9uuw1xzerhskruew9md9ibiwfbvv95cuxpcvy5ujvsbzdstktjrgdaahjhrxrurmexsllobnmxc3vxbwxwb2xllxfyvnz5ogdkoudlwjlfvvlsc2xgdjl5qxnsx3zvmhvdr2vezmizohrjskneaw9uuldkuwo5bvrztm1vq2zkltljuhfiqw1byxixdlctzkthowtivuffodrpqvrj?oc=5": {
+      "headline": "Here's Why ACM Research Is a Buy Despite Its Earnings Miss - MoneyMorning.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:22:17.026077",
+      "last_seen": "2026-03-02T10:22:17.026093"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqwtv2qvdxv2tuevvsb1hhrxbqddj6cjrplu4zbkv1vvdcvwpkrvjcrw1gbw50ytrzelbfadb0x0vunejrqtzfdxrudtzxt0tnvk5jrlqtajflsg9qdwhot0hmtmxyx0n0cetldxfxtfhnmxnld2riykdvmhpgemxhtfn2mk5pvdlpovi5c1utywjiski0dfjwuu96dk1zbflesfh3dhlqckhidzq?oc=5": {
+      "headline": "SMIC cautiously optimistic for 2026 amid Mideast crisis - ABS-CBN",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:10:03.209928",
+      "last_seen": "2026-03-03T14:10:03.209945"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfa4q2jecxnxouvrqjn0euwyvjdlrde0suvrtv90vzrun2pxvehvofd5ovh2x0k4mgm5mznxafc5t0kwckxdtwt2zzvqb21ztgn6slzvd1z6q1gwwlnzcxd3ee02smxkx1zfn2fzsfjwd2vjqq?oc=5": {
+      "headline": "Bearish block trade of SMIC(00981) 99K shares at $63.45, $6.282M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:10:09.163034",
+      "last_seen": "2026-03-03T14:10:09.163050"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbqbwlur19uvefbs19xagflwlzxzhozbuhht2ctuxoyx05omwltv01pt2dpehfrsex6zkf5sg9ledhur2hythmxotfwd2pxv3nenudsau1wuvzhb0rxzndds2pty3j1utn3tgd2tmtsmlnmrxfety040gf8qvvfexfmuepyaffhnjdbyzbodwt4c2drcg1mvnlwa3rxrgs4a2twvmiyz1p3shrbbnfhsdrzrurhzzjpmjr5zdnfwnc2nnzuddfyzktcwvdunk50r2zkuedjui1tlwq3vxbmuu9frehmrvvhm0zunuhodem0uhvbovi1yg?oc=5": {
+      "headline": "The U.S. Moves Once Again to Ban Chinese Memory; CXMT & YMTC Could Soon Be Banned from Several Government Devices - Wccftech",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:10:14.355759",
+      "last_seen": "2026-03-03T14:10:14.355776"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxovc1fceflbflkaudqewu2bju2wglyc3rkn3dqrdrwvniwvhnretfsluzjlxz0rxhkbdfnu01uuuzsbvl2cnlswehcsu1icus0ntq3edzhqwhrbgpuenldowh1cmy2nexjruniznjat2jin29psw5nr2o2ehpxqtfysy1uthhurfvxmezycvlmbefsduhmu05fzdj3?oc=5": {
+      "headline": "SMIC weighing exit from Atlas Mining - BusinessWorld - BusinessWorld Online",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:10:20.036553",
+      "last_seen": "2026-03-03T14:10:20.036569"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnttf0qww4qndobm1ztuppmnvnqwx6au5sykpry3utv0dobwd3cjlmalhyr1vzbfhldnjbngs0szlfudk0dvjhdw01nnbzvflstll2cfrfu0xjogtud1nhlwhunxjybwzxvxlrtnfimlozvhrsqnv6ufewmgszq1ctmghnuzfzmzrfegc?oc=5": {
+      "headline": "Mining is outlier in SMIC portfolio—exec - BusinessMirror",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:10:25.985882",
+      "last_seen": "2026-03-03T14:10:25.985899"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxov3jhdezdv0jid1bxng9wrdz6skv0zu0wzu5rt3zeqvdsm3mtc1bpefntvgtna2jtrjqxovlxwkstv3lkm3cxdwlzrgwtbdk4u2dwtezeuni1z2p4lvdyx2rpvghnohu4cwzuwvp6bxotsfa4cxdrbmxwzte1du1lwudyvtu?oc=5": {
+      "headline": "TSMC dominates global foundry rankings while four Chinese players enter top 10 - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:57:41.423691",
+      "last_seen": "2026-03-04T13:57:41.423709"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxnt1ntzzzmb3ozqlnrx3lwnhnqevltmc1yclbyqurlqlztemlhs0zuuc1nnlrzrfdvzdrtek1srnpbanpdntfiu0pielo3a0fwmtjflunfmgnhnuzxoghwvzn2ughxawhpmwfuu3e3clhkde92u0dwr2q2skpaqnvsnxdnchmwrgttww5trwxtagxyotq?oc=5": {
+      "headline": "SMIC shares undervalued, says executive - Manila Standard",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:57:45.921379",
+      "last_seen": "2026-03-04T13:57:45.921401"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxptznnunnwm2zsx2hooepay1jpmhqtunhxu25ddghlrfyznxzxv1zxm0d1wfnsztvslvlqyms0rg5wyxhqekvmmzbdadzomde3dwrmq1m0a0g2rmpwqnu3nlpfcmlzzm55yuqtts1tukj1wxduvupvbw8zvffrmgfpedhvsenqzdv6tlvsx3byr192nmc?oc=5": {
+      "headline": "ABS-CBN News. . Follow the latest in the world of business as ANC talks to analysts and decision-makers on Market Edge. - Facebook",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:57:49.001715",
+      "last_seen": "2026-03-04T13:57:49.001737"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqswy4mfmztk1ysjlqamdzanhya19dwuvpofc5z2zhzerlaufjmmryx3nstgtsa3bzttvicfrxclfezuzydutst2riak9kyxp4dg15ywdvew50egpuwjvaqkvyvjvwegvwul9rqunrymtnn01vwwx6vc1rcmfweumtvm9tadu?oc=5": {
+      "headline": "BI-SMIC@EP2607A (20088) has risen 24%. The last price is HK$0.062AA Market Move - Price Risen - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:57:52.162282",
+      "last_seen": "2026-03-04T13:57:52.162307"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxprnottgfeak5xq0xyttdrmlb3v2m3luiylw53b0rnrtbzsxjgnxj5ctixcei4s0rwnxlimk9jy20zchboddutcmrgvwfxunv6deplsfi1rkk2cux0evbowxfhu2yxykjpwehfvhvkdmjnqzfkumtxynfivklmddbmrudpx1lycfh2wue?oc=5": {
+      "headline": "Why SM Investments mulls exit from data center, mining businesses - Rappler",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:57:55.458293",
+      "last_seen": "2026-03-04T13:57:55.458310"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpbtv0c1rutkpzav96aupjy29jeuczsvkysvbob1v1zkh6xzdkuhrizkrwrursdghjq0rmugfoqy1xodzmvtbqtw4waxrrx2lyls1rzklxtzbdnmxpcjr6dwvhq1p3ovmwnnhdzfjqqnp2xzawevdsagvmzg1xrlg4yjfsbzbfvgzf?oc=5": {
+      "headline": "U.S. Bans Chinese Semiconductors From Government Procurement - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:01:36.441157",
+      "last_seen": "2026-03-05T12:01:36.441174"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpne9yb0zmc1b1vl9ezi11b1jbtldvahpgskgtawzsc3j2cvrntmi2weoxu1b0ohozmfrnbfbnzhzozunqedk1aw9eaujiwtm4am1xehlrzlzozkh1qm1ywmjhm1n0wvrmm3izrlu1q2n0vtzstznrwtbntne1vjbpu1lhvtzfmxrsrtfjevfkn0w2ql8xugphekjn?oc=5": {
+      "headline": "China aims for fivefold increase in advanced chip output to meet AI demand - KrASIA",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:01:39.367113",
+      "last_seen": "2026-03-05T12:01:39.367130"
+    },
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxomvbuenz3wlvfuvdjdni2vdewqv95zei1emxavejlzllvqw95x0nmc2fdzvhybfvxvxzjdwfqt0qyx2g5tkjzmwvnnzdkzlhaevzrv0pfwfd3qlbnzvzmckx6aurwvuy2bkj5owdsanznv0rkzlf4qmrqwgfiyjj4mdu0emthmxzhngtnnlbqz29qedj5vmo4utv1rnp2r19uwvfhouv0mmzrekeyum9ucw4zc3dyzunvz1pwzjzfwwnhem1bdtrssjk4zw5lthnkredxdxdryxfunlhyzu4tyuj3?oc=5": {
+      "headline": "US lawmakers raise concerns over Intel’s testing of tools made by Chinese-linked firm By Reuters - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:01:42.650829",
+      "last_seen": "2026-03-05T12:01:42.650846"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1rwhvtzm1novn4evdwunbmsehrrkfoodatluvqv1f5qxi2m3jrx0xpc0pyvzbqay1ymlr1vehutwtrr285t0xiyvrvchexouj5tmd2d3drrki4u2dfwff1djndu2tmd2nvwdzwbg5huuhvvekx?oc=5": {
+      "headline": "U.S. Bans Chinese Semiconductors in Public Procurement - Businesskorea",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:01:45.980230",
+      "last_seen": "2026-03-05T12:01:45.980245"
+    },
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxoy1phulnmzhvjeglvy3pzbwczckt1dhblaedivgv1q1zyrs12qww5btnhnjbja0s2ugz6wvv5ltlfnes4u1puv3rinvzcqjfaaji0deqyauw3cue4ohjztulxzfz6bfjzqjfrvzv3vmtwn09zvhhuamdmnwzrx3brlwzirmpras1fd3i5wjdurkterwldyneyedfhwuzsamxmytbumdjqawjtu1lxuja00ggvaufvx3lxte1itfnjmxf0qzmwme9hnkzrqxnyqm50z2l3qxjmvkxuc3j6efdxdi1zodjttm9luuxwoxzxbgxqauotouiwslbqaee0zgnuugnvbhoymgllskw0rkt0cdhud1dor3zzrgnbchnvtl9iowc3cy1pnkhkay1kn1bodlbatjeyb2dwoevvc1zkwu1vneo3nufdsu1tzu9lm1kzmguttl9krzayuvflc1dtze0?oc=5": {
+      "headline": "Top chip leaders urge national drive to ‘build China’s ASML’ amid US curbs - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:56:53.968271",
+      "last_seen": "2026-03-06T11:56:53.968287"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1urzfhym9tqvk3te5neuhpchl5x0pqlvjod3rjnuthnhdwmzcxrmk0ahr0bzbisdn6vzjpqlvwbhzumzbvufvvngdflxqxalrwbwtdzerta0nwzdrstgdougjnvtf6aulusvdnvuryyvpmqq?oc=5": {
+      "headline": "Bullish block trade of SMIC(00981) 128K shares at $63.0, $8.064M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:56:57.717260",
+      "last_seen": "2026-03-06T11:56:57.717275"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpmwlybvzcevluznhjujjwn2tcoegxq3z4s1d1sjrrz3fktw1muuziexvvtmp5nw9osuzsx3vwc2nqyzdjbfbka3nuavuyexnpnmzuwkhmsju4d0zydjrssnrqytqtz0j2rgfhrgf2tgotdmzxzk9wtlg3dzfbaje1twpazluxu01oy3vjemxkm2fruuwxz3rfn1n4nzdpy2r3ulhqs25rb19rm05kci1wm2j3?oc=5": {
+      "headline": "Goldman Sachs: SMIC management is optimistic about China's semiconductor capital expenditure. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:57:08.749603",
+      "last_seen": "2026-03-06T11:57:08.749619"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnty0xexv1rtbkefjqefllymt3d2fjd2hwyxvuttjru3l3zu9fnkhtcjjnag91bmvodmpywwvsrxg3cmpqa294afp0mzvnc1jtvupuu09bqvbrtxn3eevzug5nmutgcxpkmmtilxgzu05qdkfjm245vwtkaejbmkvolwxcrenqz0qxwxbjewp2vwcwv3atuuw2euz1dzrxqzrhevlhqlvdzw?oc=5": {
+      "headline": "US to bar Chinese semiconductors from federal procurement by 2027 - Communications Today",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:57:11.800517",
+      "last_seen": "2026-03-06T11:57:11.800533"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbeuedbouxlegnjc1dmdnlxae1vdg9znnhgzw5ztv9hrxfuehc3twviwxnjrdm2txnzvkznavdpueixx3e5odnhmdzrb0cxbkd6ylrfalr4vhrax3m3x2f1v3nmddfjttbfvg5snwpjdxa5nuhpbwhj?oc=5": {
+      "headline": "US move to bar Chinese chips seen as boon to Samsung, SK Hynix - The Korea Economic Daily Global Edition",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:57:15.278157",
+      "last_seen": "2026-03-06T11:57:15.278173"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnshlfzejfbdfvvwitr1llturyyk04x05oejz0wgrwznpmqwxqcvp6butmyvrizutmzwnkcgnymdfxbhy2r3bvtgfmsvb3rzktv0strlz6bu13eunmdmjpbl84qjrkvw5nmmp6aljochywenh6r0paywhrbmlhbzdfrfh4mtfysnvxv2jhm1lyvhzdz0dbowgxuq?oc=5": {
+      "headline": "SMIC laying out P 3B for six new geothermal energy sites - Inquirer.net",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:57:05.580533",
+      "last_seen": "2026-03-09T12:57:05.580549"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxotwr6amxowk9jsffidurutnl1znp6wgi0mfnatnhkmglwmvuzq3zmlunqzxvfyvf0uzbutnpia1ywqvr6b2pfslfga0f5bmtfazqzmnluqzgxmzm4nlvqskhdzi1yumzhnktpa0eyshjbylveqtrudnlvsellugjmqjrem1zqoxoydgjrmlvtberacju0auvsag?oc=5": {
+      "headline": "SMIC sets aside $50M for geothermal drilling program - BusinessMirror",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:57:09.610739",
+      "last_seen": "2026-03-09T12:57:09.610756"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxnodhrogpxx0dlaenrn2z1oc1irwl1q2nwlwzoemfoegzjazcxs1h0n0fkcwtfu0xwcmfpqkzon2rlee1ta1ddshnnu0vfcgt1dtaysfrkqtjjq0s0sdvtzvphbe9xzjfedmvgofu5twjwvvvetutttenctdnoc3nozzbnbtlsykteb0txetnrulzywggtqlbeskpcmnbhvwjwn0ndzlc3zghqeerkmznjnjr2m3vqq1jhsmncoxlwngrfuxp4mm9jn0fix1p5qva1sdvn?oc=5": {
+      "headline": "China's top chip execs claim ASML alternative 'small, fragmented, and weak' - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:57:12.750893",
+      "last_seen": "2026-03-09T12:57:12.750908"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxnvkw0r0nib1zatlhwtwlbvgvbshrgmtdlue9utlrnm2rtmtjxefvaskltmtdprxbxltf3wezuzgjmc3h1cjrynjzusc1tv0rqef9ty3jjm3pftmo2zjdibfpxrhhlaklrqk5rsdnnb0lnaldtsgtmwtlxdw9lrdl5cfjqx095auo2ueyynutms0tqaglfvvlkudrcrgo?oc=5": {
+      "headline": "Sy Family’s SMIC to invest ₱2.9 billion in expanding geothermal assets - Manila Bulletin",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:57:17.592113",
+      "last_seen": "2026-03-09T12:57:17.592129"
+    },
+    "https://news.google.com/rss/articles/cbmis0fvx3lxte1sbgncudqtxzvdmknsmhotsgfum0nodvi3auhlreprq3vtev80ws1evhruajdnql9zvtdvbc0zdxhtn1q1dfc1zzr5mnibqkfvx3lxte5ubjjfcmd0x3g1ugrnwwhdnde0cm9cc2lblvn0uzhkmlzhstbvvlv0zzhorlbgsjmzbda5afhud0i4dw?oc=5": {
+      "headline": "US Wants to Block China RAM? PC and HP Industries Can Join the Shake - VOI.id",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:57:21.243375",
+      "last_seen": "2026-03-09T12:57:21.243399"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxomv83yuv4cxrjakzydfk0wgdgamk2v0fpa21ccdzma1dsmlexem1xwtvjyusxtxg4twm3edbcshdnamnhmhbclugwcth4zgrgcfzorfjht21lt21wekdsuhnfn21waghsodvqa0o5t2z4v084tghdrgewsfnmznvcy2xuvgh5zlnfs2p6ci1fyu84sdnozelzdxdpmlbluu9fvl9mtuhpudi2vlv2z2zfmdn1tffvv3c?oc=5": {
+      "headline": "Record-breaking! Northbound funds aggressively purchased HK stocks worth HKD 37.2 billion, increasing positions in CNOOC, Tencent, Xiaomi, and SMIC. - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:51:54.557586",
+      "last_seen": "2026-03-10T10:51:54.557607"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfaxwgj0b1pzszzkqlhhvl9tazbdogfdnmzxmkh6czjuyuffvthkbun2szetvwxvbdveaup2dhzvc2zvww42vc0xmhlhbwowuzlfr1nrumxkzfrjdwcwnghutjzsevlfqzbpsuznd3prdc1huq?oc=5": {
+      "headline": "Bullish block trade of SMIC(00981) 138K shares at $61.0, $8.418M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:51:59.911547",
+      "last_seen": "2026-03-10T10:51:59.911566"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpn3ewyzdjwwf6cwf0dgvine44rxvqznbnceppvvjmtdhwunvbcfrpvwmymljeelz4wwh6nei5ymfqnl9vuhfju19jc1vhswzwtgtjzvn5tgl2zk8zzgrqlvhfvldluwlyshrmmfzwevzzvlzocv9dewzwykreuxbbrungswrax2peclfyywc0m21bamdvqwhpcdq4b3vpmfnjczhnbvzmcwn5ynrorjrjq0vn?oc=5": {
+      "headline": "Hong Kong Stocks Rally on Wall Street Lift, Geopolitical Hopes - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:52:03.154488",
+      "last_seen": "2026-03-10T10:52:03.154508"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpnmtxa1zqq2y1tzf2z2trluznahnqohiwes1vs3nvexlzbw5jvzi5dnbamdi5vws2ekdflvbszjlbuunywxpem2g1tjy4aw9pnkqtywr4v0vexzlnsgnuawe3nzlnvmnjcg1ua0ldodrqemr0ofbkmuxxcxoxb1jivxhtu3u?oc=5": {
+      "headline": "HSI Opens 331 Pts Higher on Continued OpenClaw Craze; KNOWLEDGE ATLAS Spikes 13% - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:52:06.084673",
+      "last_seen": "2026-03-10T10:52:06.084698"
+    }
+  }
+}

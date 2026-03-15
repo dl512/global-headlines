@@ -1,0 +1,36 @@
+## Tech News
+
+- **Netflix acquires Warner Bros. in $82.7 billion deal**: Netflix’s purchase of Warner Bros. consolidates major franchises and faces regulatory scrutiny over market dominance.
+- **Apple to unveil Gemini-powered Siri in February**: Apple will launch a new Siri assistant using Google’s Gemini AI, with further upgrades expected in June.
+- **Tesla launches driverless robotaxi rides in Austin, aims for US-wide rollout by 2026**: Tesla has begun operating robotaxis without safety monitors in Austin and plans widespread US deployment by end-2026.
+- **Waymo under NTSB investigation for school bus violations**: Waymo’s robotaxis are being investigated for illegally passing stopped school buses, highlighting regulatory scrutiny of autonomous vehicles.
+- **Meta’s Reality Labs layoffs spark ‘VR winter’ concerns**: Meta’s cuts to its VR division raise doubts about the future of virtual reality as the company pivots to AI and smart glasses.
+- **Nvidia CEO Jensen Huang to visit China amid AI chip sales restrictions**: Nvidia’s CEO will visit China to address challenges from US export restrictions limiting advanced AI chip sales.
+- **Xiaomi announces HK$2.5 billion share buyback as stock faces pressure**: Xiaomi launches a major buyback to support its stock amid competition, chip shortages, and cost challenges.
+- **Intel stock plunges 17% on weak guidance and manufacturing issues**: Intel’s shares fell sharply after warning of supply shortages and ongoing production challenges.
+- **SEC drops lawsuit against Gemini crypto exchange after settlement**: The SEC ended its case against Gemini after a settlement ensured investors recovered assets from the Earn program.
+- **TikTok forms US joint venture, appoints Adam Presser CEO**: TikTok establishes a US-based entity with American leadership to address national security concerns, while ByteDance retains a minority stake.
+- **US Senate advances bipartisan crypto regulation bill**: The Senate Agriculture Committee is set to review legislation granting new authority over digital assets to the Commodity Futures Trading Commission.
+- **Databricks secures $1.8 billion debt ahead of anticipated IPO**: Databricks raises additional funding, bringing total access to over $7 billion as it prepares for a potential 2026 IPO.
+- **Google fixes Gmail spam and misclassification issues**: Google announced it has resolved recent problems with Gmail’s spam filtering and email classification.
+- **Microsoft resolves major Outlook and Teams outage**: Microsoft restored services after an 11-hour outage disrupted Outlook, OneDrive, and Teams for North American users.
+- **Bending Spoons acquires Vimeo, continues tech consolidation strategy**: Milan-based Bending Spoons acquires Vimeo for $1.38 billion, following similar deals with Evernote and WeTransfer.
+- **Elon Musk’s $1 trillion pay package renews debate on CEO compensation**: Musk’s proposed pay highlights the surge in executive compensation and questions about its link to company performance.
+- **AI-driven software sell-off sets stage for M&A boom**: Investors expect increased mergers and acquisitions in the software sector following AI-driven market volatility.
+- **Google pushes ‘agentic commerce’ with Universal Commerce Protocol**: Google is developing an open standard for AI-powered shopping, aiming to compete with Amazon and OpenAI.
+- **Harvey acquires Hexus as legal AI competition intensifies**: Legal AI startup Harvey buys Hexus to expand its enterprise offerings amid a competitive legal tech market.
+- **PopWheels replaces food cart generators with e-bike batteries in NYC**: PopWheels helps food vendors switch to quieter, cleaner e-bike battery power, reducing emissions and costs.
+- **‘New Scenic Source’ raises over 200 million yuan for immunotherapy drug development**: The company secured major Series B funding to advance TCR-T cell therapy for solid tumors.
+- **‘Micro Technology’ completes nearly 100 million yuan Series A for robotics**: Hangzhou-based robotics firm raises funds for product development and ecosystem expansion.
+- **‘Atomic Reshaping’ (AtomForm) secures over 100 million yuan for digital manufacturing**: AtomForm completes a significant funding round to boost market expansion and new product development in digital manufacturing equipment.
+- **Science fiction and Comic-Con communities ban AI-generated works**: Major sci-fi and pop culture groups implement rules restricting AI-generated content from awards and exhibitions.
+- **AI labs face scrutiny over profit motives and business models**: Industry observers introduce a scale to assess AI labs’ commercial ambitions amid shifting strategies.
+- **Apple iPhone achieves record sales in India despite flat market**: Apple shipped 14 million iPhones in India in 2025, reaching a 9% market share.
+- **ChatGPT increasingly cites Elon Musk’s Grokipedia, raising bias concerns**: ChatGPT’s use of Grokipedia as a source sparks debate over AI content reliability.
+- **Humans& raises $480 million to build AI for social coordination**: The startup aims to develop AI models focused on collaboration and teamwork for enterprise and consumer use.
+- **Former Googlers launch Sparkli, an AI-powered learning app for kids**: Sparkli offers interactive, personalized educational content for children, emphasizing safety and engagement.
+- **NASA Mars rock discovery shows clearest sign yet of ancient life**: NASA announces a Mars rock sample with strong evidence of ancient life, advancing planetary science.
+- **Black hole collision confirms Einstein and Hawking’s predictions**: Astrophysicists observe a black hole merger, validating decades-old theories on gravitational waves.
+- **Ryanair boss welcomes public feud with Elon Musk**: Ryanair’s CEO publicly embraces his ongoing dispute with Elon Musk.
+- **IMAP mission to study the heliosphere launches**: NASA’s IMAP spacecraft begins its mission to explore the cosmic environment surrounding our solar system.
+- **Rare ‘tooth-in-eye’ surgery restores man’s vision**: Innovative surgery transplants a tooth into a man’s eye, restoring his sight after 20 years.

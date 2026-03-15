@@ -1,0 +1,14 @@
+Hi, I'd like to receive a daily newsletter that covers:
+
+1. Top global news - I want to stay updated on the most important breaking news stories from major international sources like BBC, CNN, and CNBC.
+
+2. Tech news - Keep me informed about the latest developments in technology, startups, innovation, and funding events.
+
+3. Market snapshot for these specific stocks:
+   - Apple (AAPL)
+   - Google (GOOGL)
+   - Nvidia (NVDA)
+   - Tesla (TSLA)
+
+I prefer English content only. Thanks!
+

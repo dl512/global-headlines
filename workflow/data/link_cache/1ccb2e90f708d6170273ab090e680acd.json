@@ -1,0 +1,210 @@
+{
+  "website": "https://www.anthropic.com/news",
+  "links": [
+    "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "https://www.anthropic.com/news/claude-opus-4-6",
+    "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "https://www.anthropic.com/news/claude-haiku-4-5",
+    "https://www.anthropic.com/news/announcements/jan-30-2026-claude-on-mars",
+    "https://www.anthropic.com/mars",
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "https://www.anthropic.com/news/announcing-claude-on-mars",
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-in-series-g-funding-380-billion-post-money-valuation",
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-in-series-g-funding-at-380-billion-post-money-valuation",
+    "https://www.anthropic.com/news/statement-department-of-war",
+    "https://www.anthropic.com/news/anthropic-approves-vercept-to-advance-claude's-computer-use-capabilities",
+    "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+    "https://www.anthropic.com/news/claude-code-security",
+    "https://www.anthropic.com/news/anthropic-rwanda-mou",
+    "https://www.anthropic.com/news/anthropic-infosys-announce-collaboration-ai-agents-telecommunications-regulated-industries",
+    "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+    "https://www.anthropic.com/news/anthropic-codepath-partnership",
+    "https://www.anthropic.com/news/statement-comments-secretary-war",
+    "https://www.anthropic.com/news/statement-communications-department-of-war",
+    "https://www.anthropic.com/news/statement-jan-26-2026",
+    "https://www.anthropic.com/news/where-stand-department-war",
+    "https://www.anthropic.com/news/announcements/anthropic-acquires-vercept-to-advance-claudes-computer-use-capabilities",
+    "https://www.anthropic.com/news/claude-on-mars",
+    "https://www.anthropic.com/news/mozilla-firefox-security",
+    "https://www.anthropic.com/news/announces-2026-02-25-anthropic-acquires-vercept"
+  ],
+  "metadata": {
+    "https://www.anthropic.com/news/claude-is-a-space-to-think": {
+      "headline": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:01.996009",
+      "last_seen": "2026-02-09T21:57:01.996019"
+    },
+    "https://www.anthropic.com/news/claude-opus-4-6": {
+      "headline": "Introducing Claude Opus 4.6",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:44.595757",
+      "last_seen": "2026-02-10T11:19:44.595772"
+    },
+    "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
+      "headline": "Claude on Mars",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:59:46.481032",
+      "last_seen": "2026-02-11T11:59:46.481048"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-4-5": {
+      "headline": "Introducing Claude Sonnet 4.5",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:59:51.979432",
+      "last_seen": "2026-02-11T11:59:51.979447"
+    },
+    "https://www.anthropic.com/news/claude-haiku-4-5": {
+      "headline": "Introducing Claude Haiku 4.5",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:59:58.826365",
+      "last_seen": "2026-02-11T11:59:58.826381"
+    },
+    "https://www.anthropic.com/news/announcements/jan-30-2026-claude-on-mars": {
+      "headline": "Claude on Mars",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:50:13.947870",
+      "last_seen": "2026-02-12T12:50:13.947884"
+    },
+    "https://www.anthropic.com/mars": {
+      "headline": "The first AI-assisted drive on another planet. Claude helped NASA’s Perseverance rover travel four hundred meters on Mars.",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:19:14.979540",
+      "last_seen": "2026-02-13T13:19:14.979551"
+    },
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
+      "headline": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:33:55.138823",
+      "last_seen": "2026-02-16T11:33:55.138836"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-4-6": {
+      "headline": "Introducing Claude Sonnet 4.6",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:15:37.872137",
+      "last_seen": "2026-02-20T12:15:37.872152"
+    },
+    "https://www.anthropic.com/news/announcing-claude-on-mars": {
+      "headline": "Claude on Mars",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:04:54.984219",
+      "last_seen": "2026-02-23T13:04:54.984237"
+    },
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-in-series-g-funding-380-billion-post-money-valuation": {
+      "headline": "Claude on Mars",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:33:03.118977",
+      "last_seen": "2026-02-24T11:33:03.118994"
+    },
+    "https://www.anthropic.com/news/anthropic-raises-30-billion-in-series-g-funding-at-380-billion-post-money-valuation": {
+      "headline": "Claude on Mars",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:28:24.359203",
+      "last_seen": "2026-02-26T11:28:24.359216"
+    },
+    "https://www.anthropic.com/news/statement-department-of-war": {
+      "headline": "Statement from Dario Amodei on our discussions with the Department of War",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:39:51.950218",
+      "last_seen": "2026-02-27T12:39:51.950233"
+    },
+    "https://www.anthropic.com/news/anthropic-approves-vercept-to-advance-claude's-computer-use-capabilities": {
+      "headline": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:39:55.512740",
+      "last_seen": "2026-02-27T12:39:55.512755"
+    },
+    "https://www.anthropic.com/news/responsible-scaling-policy-v3": {
+      "headline": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:39:59.409392",
+      "last_seen": "2026-02-27T12:39:59.409408"
+    },
+    "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks": {
+      "headline": "Detecting and preventing distillation attacks",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:03.770417",
+      "last_seen": "2026-02-27T12:40:03.770434"
+    },
+    "https://www.anthropic.com/news/claude-code-security": {
+      "headline": "Making frontier cybersecurity capabilities available to defenders",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:12.445431",
+      "last_seen": "2026-02-27T12:40:12.445447"
+    },
+    "https://www.anthropic.com/news/anthropic-rwanda-mou": {
+      "headline": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:16.177334",
+      "last_seen": "2026-02-27T12:40:16.177349"
+    },
+    "https://www.anthropic.com/news/anthropic-infosys-announce-collaboration-ai-agents-telecommunications-regulated-industries": {
+      "headline": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:24.663560",
+      "last_seen": "2026-02-27T12:40:24.663577"
+    },
+    "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india": {
+      "headline": "Anthropic opens Bengaluru office and announces new partnerships across India",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:32.381058",
+      "last_seen": "2026-02-27T12:40:32.381075"
+    },
+    "https://www.anthropic.com/news/anthropic-codepath-partnership": {
+      "headline": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:40:36.404325",
+      "last_seen": "2026-02-27T12:40:36.404343"
+    },
+    "https://www.anthropic.com/news/statement-comments-secretary-war": {
+      "headline": "Statement on the comments from Secretary of War Pete Hegseth",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:33:15.725302",
+      "last_seen": "2026-03-02T10:33:15.725316"
+    },
+    "https://www.anthropic.com/news/statement-communications-department-of-war": {
+      "headline": "Statement from Dario Amodei on our discussions with the Department of War",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:08:17.098768",
+      "last_seen": "2026-03-04T14:08:17.098783"
+    },
+    "https://www.anthropic.com/news/statement-jan-26-2026": {
+      "headline": "Statement from Dario Amodei on our discussions with the Department of War",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:11:02.630253",
+      "last_seen": "2026-03-05T12:11:02.630267"
+    },
+    "https://www.anthropic.com/news/where-stand-department-war": {
+      "headline": "Where things stand with the Department of War",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:10:44.674591",
+      "last_seen": "2026-03-06T12:10:44.674608"
+    },
+    "https://www.anthropic.com/news/announcements/anthropic-acquires-vercept-to-advance-claudes-computer-use-capabilities": {
+      "headline": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:10:52.911151",
+      "last_seen": "2026-03-06T12:10:52.911173"
+    },
+    "https://www.anthropic.com/news/claude-on-mars": {
+      "headline": "Claude helped NASA’s Perseverance rover travel four hundred meters on Mars",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:11:02.990515",
+      "last_seen": "2026-03-09T13:11:02.990565"
+    },
+    "https://www.anthropic.com/news/mozilla-firefox-security": {
+      "headline": "Partnering with Mozilla to improve Firefox’s security",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:11:08.117286",
+      "last_seen": "2026-03-09T13:11:08.117334"
+    },
+    "https://www.anthropic.com/news/announces-2026-02-25-anthropic-acquires-vercept": {
+      "headline": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:11:14.843927",
+      "last_seen": "2026-03-09T13:11:14.843946"
+    }
+  }
+}

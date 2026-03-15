@@ -1,0 +1,532 @@
+{
+  "website": "https://www.vktr.com/ai-news/",
+  "links": [
+    "https://www.vktr.com/ai-news/nvidia-hits-5-trillion-valuation-as-ai-demand-fuels-growth",
+    "https://www.vktr.com/ai-news/inside-the-microsoftopenai-deal-new-terms-for-agi-and-enterprise-cloud",
+    "https://www.vktr.com/ai-news/openai-codex-app-for-macos-a-multi-agent-ai-development-command-center",
+    "https://www.vktr.com/ai-news/mistral-shrinks-speech-to-text-latency-with-voxtral-transcribe-2",
+    "https://www.vktr.com/ai-technology/voice-ai-firm-elevenlabs-raises-500m-in-series-d-led-by-sequoia-capital",
+    "https://www.vktr.com/ai-disruption/the-chips-cold-war-how-gpus-became-the-worlds-most-valuable-political-resource",
+    "https://www.vktr.com/ai-news/mistral-releases-vibe-20-with-workflow-driven-ai-agents",
+    "https://www.vktr.com/contact-center/decagon-triples-valuation-to-45b-with-250m-series-d",
+    "https://www.vktr.com/ai-news/datalinx-secures-42m-to-streamline-enterprise-ai-data",
+    "https://www.vktr.com/digital-experience/figma-integrates-anthropics-claude-to-generate-diagrams-inside-figjam",
+    "https://www.vktr.com/ai-news/openai-launches-chatgpt-atlas",
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-accelerate-with-data-center-and-cloud-developments",
+    "https://www.vktr.com/ai-disruption/enterprise-ai-platforms-see-strategic-expansion-amid-growing-market-demand",
+    "https://www.vktr.com/ai-ethics-law-risk/the-agentic-ai-trap-and-the-compliance-line-universities-keep-crossing",
+    "https://www.vktr.com/ai-news/poetiq-raises-458m-seed-round-to-build-self-improving-ai-agents",
+    "https://www.vktr.com/ai-news/apple-integrates-claude-agent-sdk-into-xcode-263-for-autonomous-coding",
+    "https://www.vktr.com/ai-news/ricursive-intel",
+    "https://www.vktr.com/ai-news/miro-expands-into-ai-development-with-model-context-protocol-server",
+    "https://www.vktr.com/ai-ethics-law-risk/the-ethics-of-influence-when-ai-shapes-what-we-see-and-hear",
+    "https://www.vktr.com/ai-news/databricks-hits-54b-run-rate-secures-7b-in-new-funding",
+    "https://www.vktr.com/ai-platforms/ex-github-ceo-backs-a-new-kind-of-dev-platform-for-human-agent-collaboration",
+    "https://www.vktr.com/digital-experience/ai-agents-are-leaving-the-chat-window-and-cx-leaders-are-on-the-hook",
+    "https://www.vktr.com/ai-disruption/our-post-ai-future-part-3-navigating-our-societal-multiverse",
+    "https://www.vktr.com/ai-news/mistral-commits-12b-to-swedish-ai-data-centers-in-sovereignty-push",
+    "https://www.vktr.com/research/research-report",
+    "https://www.vktr.com/ai-market/beyond-gpus-why-frontier-labs-are-now-racing-to-secure-human-expertise",
+    "https://www.vktr.com/ai-news/opaque-secures-24m-to-expand-confidential-ai-for-enterprises",
+    "https://www.vktr.com/ai-news/contact-center-decagon-triples-valuation-to-45b-with-250m-series-d",
+    "https://www.vktr.com/ai-news/poetiq-raises-45-8m-seed-round-to-build-self-improving-ai-agents",
+    "https://www.vktr.com/ai-news/anthropic-raises-30b-at-380b-valuation-in-series-g",
+    "https://www.vktr.com/ai-news/gemini-3-deep-think-sets-new-scientific-reasoning-benchmark",
+    "https://www.vktr.com/digital-experience/ibexa-unifies-five-martech-brands-into-orchestration-platform",
+    "https://www.vktr.com/ai-news/adronite-raises-5m-series-a-for-ai-codebase-intelligence-platform",
+    "https://www.vktr.com/ai-news/world-labs-raises-1b-to-advance-spatial-intelligence-and-3d-world-modeling",
+    "https://www.vktr.com/ai-news/palantir-rackspace-team-up-to-fast-track-governed-ai-rollouts",
+    "https://www.vktr.com/ai-news/anthropic-launches-claude-sonnet-46-with-opus-level-performance",
+    "https://www.vktr.com/ai-news/mistral-ai-acquires-koyeb-to-bolster-cloud-infrastructure",
+    "https://www.vktr.com/ai-news/chatgpt-atlas-openai-s-new-ai-powered-browser-changes-how-we-surf-the-web",
+    "https://www.vktr.com/ai-news/taalas-debuts-hard-wired-llama-chip-promising-10x-faster-ai-at-a-fraction-of-the-cost",
+    "https://www.vktr.com/ai-news/inside-the-microsoft-openai-deal-new-terms-for-agi-and-enterprise-cloud",
+    "https://www.vktr.com/ai-technology/voice-ai-firm-elevenlabs-raises-500m-in-seri",
+    "https://www.vktr.com/digital-experience/inside-google-deepminds-ai-strategy-an-interview-with-ceo-demis-hassabis",
+    "https://www.vktr.com/ai-news/perplexity-launches-perplexity-computer-a-multi-model-ai-workflow-system",
+    "https://www.vktr.com/ai-news/letter-ai-raises-40m-series-b-launches-deal-level-enablement-tool",
+    "https://www.vktr.com/ai-platforms/google-sues-serpapi-over-data-scraping",
+    "https://www.vktr.com/leadership/the-war-for-your-job-is-over-the-machines-won-last-week",
+    "https://www.vktr.com/customer-experience/the-great-customer-service-ai-rehiring-is-coming",
+    "https://www.vktr.com/ai-news/openai-makes-london-its-largest-research-hub-outside-us",
+    "https://www.vktr.com/ai-platforms/no-skynet-hasnt-arrived-the-ai-network-that-turned-out-to-be-mostly-human",
+    "https://www.vktr.com/ai-news/palantir-rackspace-team-up-to-fast-t\n\nno_link_found",
+    "https://www.vktr.com/digital-marketing/microsoft-ai-ceo-says-marketing-will-be-automated-in-18-months",
+    "https://www.vktr.com/ai-disruption/companies-blame-ai-for-job-cuts-the-data-tells-a-more-complicated-story",
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-data-center-and-cloud-computing-developments",
+    "https://www.vktr.com/ai-market/chatgpt-gemini-or-grok-we-tested-all-3-heres-what-you-should-know",
+    "https://www.vktr.com/ai-ethics-law-risk/ai-regulation-and-policy-changes-impacting-investment-strategies",
+    "https://www.vktr.com/ai-infrastructure/inside-google-deepmind-s-ai-strategy-an-interview-with-ceo-demis-hassabis",
+    "https://www.vktr.com/ai-news/coreweave-lands-perplexity-ai-inference-deal",
+    "https://www.vktr.com/research/white-paper-why-enterprise-ai-fails-at-scale",
+    "https://www.vktr.com/ai-platforms/openai-launches-gpt-54-with-computer-use-1m-token-context",
+    "https://www.vktr.com/ai-news/google-sues-serpapi-over-data-scraping-startup-seeks-dismissal",
+    "https://www.vktr.com/customer-experience/aui-acquires-cx-start-up-quack-ai-in-15m-deal-to-expand-agentic-ai-for-customer-service",
+    "https://www.vktr.com/digital-workplace/openai-taps-bcg-mckinsey-more-for-frontier-rollout",
+    "https://www.vktr.com/ai-news/anthropic-ceo-accuses-openai-of-safety-theater-in-pentagon-ai-deal",
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-in-data-centers-and-cloud-platforms",
+    "https://www.vktr.com/ai-news/tech-giants-sign-white-house-energy-pledge",
+    "https://www.vktr.com/ai-disruption/companies-blame-ai-for-job-cuts-the-data-tells-a-more-complex-story",
+    "https://www.vktr.com/research/white-paper-why-enterprise-ai-fails-at-scale-and-data-readiness-framework",
+    "https://www.vktr.com/research/research-report/designing-ai-first-systems-for-customer-access",
+    "https://www.vktr.com/research/research-report/power-personalized-cx-with-ai-that-remembers-customer-preferences",
+    "https://www.vktr.com/ai-disruption/this-is-what-work-looks-like-in-a-not-so-future-world",
+    "https://www.vktr.com/research/research-report/ai-and-the-future-of-work-in-the-digital-workplace",
+    "https://www.vktr.com/ai-news/openai-acquires-promptfoo-for-frontier-security",
+    "https://www.vktr.com/ai-platforms/anthropics-claude-opus-46-hits-1m-tokens-but-bigger-context-comes-at-a-cost",
+    "https://www.vktr.com/ai-disruption/why-enterprise-ai-fails-at-scale-data-readiness-framework",
+    "https://www.vktr.com/ai-in-customer-experience/ai-impact-on-business-infrastructure"
+  ],
+  "metadata": {
+    "https://www.vktr.com/ai-news/nvidia-hits-5-trillion-valuation-as-ai-demand-fuels-growth": {
+      "headline": "Nvidia Hits $5 Trillion Valuation as AI Demand Fuels Growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:23.231093",
+      "last_seen": "2026-02-09T21:08:23.231100"
+    },
+    "https://www.vktr.com/ai-news/inside-the-microsoftopenai-deal-new-terms-for-agi-and-enterprise-cloud": {
+      "headline": "Inside the Microsoft-OpenAI Deal: New Terms for AGI and Enterprise Cloud",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:27.148913",
+      "last_seen": "2026-02-09T21:08:27.148921"
+    },
+    "https://www.vktr.com/ai-news/openai-codex-app-for-macos-a-multi-agent-ai-development-command-center": {
+      "headline": "OpenAI Codex App for macOS: A Multi-Agent AI Development Command Center",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:30.174862",
+      "last_seen": "2026-02-09T21:08:30.174874"
+    },
+    "https://www.vktr.com/ai-news/mistral-shrinks-speech-to-text-latency-with-voxtral-transcribe-2": {
+      "headline": "Mistral Shrinks Speech-to-Text Latency With Voxtral Transcribe 2",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:34.891018",
+      "last_seen": "2026-02-09T21:08:34.891025"
+    },
+    "https://www.vktr.com/ai-technology/voice-ai-firm-elevenlabs-raises-500m-in-series-d-led-by-sequoia-capital": {
+      "headline": "Voice AI Firm ElevenLabs Raises $500M in Series D Led by Sequoia Capital",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:39.163209",
+      "last_seen": "2026-02-09T21:08:39.163216"
+    },
+    "https://www.vktr.com/ai-disruption/the-chips-cold-war-how-gpus-became-the-worlds-most-valuable-political-resource": {
+      "headline": "Ricursive Intelligence Secures $4B Valuation for AI-Driven Chip Design",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:43.576975",
+      "last_seen": "2026-02-09T21:08:43.576983"
+    },
+    "https://www.vktr.com/ai-news/mistral-releases-vibe-20-with-workflow-driven-ai-agents": {
+      "headline": "Mistral Releases Vibe 2.0 With Workflow-Driven AI Agents",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:48.088533",
+      "last_seen": "2026-02-09T21:08:48.088541"
+    },
+    "https://www.vktr.com/contact-center/decagon-triples-valuation-to-45b-with-250m-series-d": {
+      "headline": "Decagon Triples Valuation to $4.5B With $250M Series D",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:52.244140",
+      "last_seen": "2026-02-09T21:08:52.244148"
+    },
+    "https://www.vktr.com/ai-news/datalinx-secures-42m-to-streamline-enterprise-ai-data": {
+      "headline": "Datalinx Secures $4.2M to Streamline Enterprise AI Data",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:56.669548",
+      "last_seen": "2026-02-09T21:08:56.669556"
+    },
+    "https://www.vktr.com/digital-experience/figma-integrates-anthropics-claude-to-generate-diagrams-inside-figjam": {
+      "headline": "Figma Integrates Anthropic’s Claude to Generate Diagrams Inside FigJam",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:09:01.028112",
+      "last_seen": "2026-02-09T21:09:01.028122"
+    },
+    "https://www.vktr.com/ai-news/openai-launches-chatgpt-atlas": {
+      "headline": "ChatGPT Atlas: OpenAI’s New AI-Powered Browser Changes How We Surf the Web",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:09:05.368067",
+      "last_seen": "2026-02-09T21:09:05.368074"
+    },
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-accelerate-with-data-center-and-cloud-developments": {
+      "headline": "AI Infrastructure Investments Accelerate with Data Center and Cloud Developments",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:09:12.856557",
+      "last_seen": "2026-02-09T21:09:12.856564"
+    },
+    "https://www.vktr.com/ai-disruption/enterprise-ai-platforms-see-strategic-expansion-amid-growing-market-demand": {
+      "headline": "Enterprise AI Platforms See Strategic Expansion Amid Growing Market Demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:09:18.664491",
+      "last_seen": "2026-02-09T21:09:18.664500"
+    },
+    "https://www.vktr.com/ai-ethics-law-risk/the-agentic-ai-trap-and-the-compliance-line-universities-keep-crossing": {
+      "headline": "AI Regulation and Policy Changes Under Consideration Impacting Investment Strategies",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:09:23.021814",
+      "last_seen": "2026-02-09T21:09:23.021824"
+    },
+    "https://www.vktr.com/ai-news/poetiq-raises-458m-seed-round-to-build-self-improving-ai-agents": {
+      "headline": "Poetiq Raises $45.8M Seed Round to Build Self-Improving AI Agents",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:37:09.128442",
+      "last_seen": "2026-02-10T10:37:09.128458"
+    },
+    "https://www.vktr.com/ai-news/apple-integrates-claude-agent-sdk-into-xcode-263-for-autonomous-coding": {
+      "headline": "Apple Integrates Claude Agent SDK Into Xcode 26.3 for Autonomous Coding",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:37:13.707451",
+      "last_seen": "2026-02-10T10:37:13.707469"
+    },
+    "https://www.vktr.com/ai-news/ricursive-intel": {
+      "headline": "Ricursive Intelligence Secures $4B Valuation for AI-Driven Chip Design",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:37:19.137578",
+      "last_seen": "2026-02-10T10:37:19.137594"
+    },
+    "https://www.vktr.com/ai-news/miro-expands-into-ai-development-with-model-context-protocol-server": {
+      "headline": "Miro Expands Into AI Development With Model Context Protocol Server",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:37:23.495149",
+      "last_seen": "2026-02-10T10:37:23.495163"
+    },
+    "https://www.vktr.com/ai-ethics-law-risk/the-ethics-of-influence-when-ai-shapes-what-we-see-and-hear": {
+      "headline": "Regulatory Developments in AI Policy Signal New Investment Opportunities",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:37:41.975317",
+      "last_seen": "2026-02-10T10:37:41.975331"
+    },
+    "https://www.vktr.com/ai-news/databricks-hits-54b-run-rate-secures-7b-in-new-funding": {
+      "headline": "Databricks Hits $5.4B Run-Rate, Secures $7B+ in New Funding",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:37:12.692279",
+      "last_seen": "2026-02-11T11:37:12.692298"
+    },
+    "https://www.vktr.com/ai-platforms/ex-github-ceo-backs-a-new-kind-of-dev-platform-for-human-agent-collaboration": {
+      "headline": "Ex-GitHub CEO Backs a New Kind of Dev Platform for Human-Agent Collaboration",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:37:26.519751",
+      "last_seen": "2026-02-11T11:37:26.519774"
+    },
+    "https://www.vktr.com/digital-experience/ai-agents-are-leaving-the-chat-window-and-cx-leaders-are-on-the-hook": {
+      "headline": "AI Agents Are Leaving the Chat Window—and CX Leaders Are on the Hook",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:37:31.445349",
+      "last_seen": "2026-02-11T11:37:31.445365"
+    },
+    "https://www.vktr.com/ai-disruption/our-post-ai-future-part-3-navigating-our-societal-multiverse": {
+      "headline": "Enterprise AI Platforms and Strategies Evolving to Meet Market Needs",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:37:44.992228",
+      "last_seen": "2026-02-11T11:37:44.992244"
+    },
+    "https://www.vktr.com/ai-news/mistral-commits-12b-to-swedish-ai-data-centers-in-sovereignty-push": {
+      "headline": "Mistral Commits €1.2B to Swedish AI Data Centers in Sovereignty Push",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:51:03.515336",
+      "last_seen": "2026-02-12T11:51:03.515350"
+    },
+    "https://www.vktr.com/research/research-report": {
+      "headline": "AI Model Releases and Breakthroughs Highlighted in Latest Industry Reports",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:51:18.727206",
+      "last_seen": "2026-02-12T11:51:18.727220"
+    },
+    "https://www.vktr.com/ai-market/beyond-gpus-why-frontier-labs-are-now-racing-to-secure-human-expertise": {
+      "headline": "Enterprise AI Platforms and Strategic Initiatives by Leading Tech Firms",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:51:27.261258",
+      "last_seen": "2026-02-12T11:51:27.261273"
+    },
+    "https://www.vktr.com/ai-news/opaque-secures-24m-to-expand-confidential-ai-for-enterprises": {
+      "headline": "OPAQUE lands $24M Series B to grow its confidential AI platform, giving CISOs and compliance teams verifiable control over sensitive data.",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:07:14.953100",
+      "last_seen": "2026-02-13T12:07:14.953111"
+    },
+    "https://www.vktr.com/ai-news/contact-center-decagon-triples-valuation-to-45b-with-250m-series-d": {
+      "headline": "Decagon triples valuation to $4.5B with $250M Series D, emphasizing growth in AI-powered contact center solutions.",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:07:30.172985",
+      "last_seen": "2026-02-13T12:07:30.172997"
+    },
+    "https://www.vktr.com/ai-news/poetiq-raises-45-8m-seed-round-to-build-self-improving-ai-agents": {
+      "headline": "Poetiq’s self-improving AI agents attract $45.8M seed funding, highlighting investor focus on autonomous AI solutions.",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:07:41.328344",
+      "last_seen": "2026-02-13T12:07:41.328352"
+    },
+    "https://www.vktr.com/ai-news/anthropic-raises-30b-at-380b-valuation-in-series-g": {
+      "headline": "Anthropic Raises $30B at $380B Valuation in Series G",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:49:13.648214",
+      "last_seen": "2026-02-16T10:49:13.648229"
+    },
+    "https://www.vktr.com/ai-news/gemini-3-deep-think-sets-new-scientific-reasoning-benchmark": {
+      "headline": "Gemini 3 Deep Think Sets New Scientific Reasoning Benchmark",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:49:17.015351",
+      "last_seen": "2026-02-16T10:49:17.015372"
+    },
+    "https://www.vktr.com/digital-experience/ibexa-unifies-five-martech-brands-into-orchestration-platform": {
+      "headline": "Ibexa Announces AI Orchestration Layer, Unification of 5 Martech Brands Under Ibexa Umbrella",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:49:35.341914",
+      "last_seen": "2026-02-16T10:49:35.341930"
+    },
+    "https://www.vktr.com/ai-news/adronite-raises-5m-series-a-for-ai-codebase-intelligence-platform": {
+      "headline": "Adronite Raises $5M Series A for AI Codebase Intelligence Platform",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:23:20.002010",
+      "last_seen": "2026-02-20T11:23:20.002024"
+    },
+    "https://www.vktr.com/ai-news/world-labs-raises-1b-to-advance-spatial-intelligence-and-3d-world-modeling": {
+      "headline": "World Labs Raises $1B to Advance Spatial Intelligence and 3D World Modeling",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:23:26.134707",
+      "last_seen": "2026-02-20T11:23:26.134720"
+    },
+    "https://www.vktr.com/ai-news/palantir-rackspace-team-up-to-fast-track-governed-ai-rollouts": {
+      "headline": "Palantir & Rackspace Team Up to Fast-Track Governed AI Rollouts",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:23:32.610088",
+      "last_seen": "2026-02-20T11:23:32.610103"
+    },
+    "https://www.vktr.com/ai-news/anthropic-launches-claude-sonnet-46-with-opus-level-performance": {
+      "headline": "Anthropic Launches Claude Sonnet 4.6 With Opus-Level Performance",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:23:38.682427",
+      "last_seen": "2026-02-20T11:23:38.682441"
+    },
+    "https://www.vktr.com/ai-news/mistral-ai-acquires-koyeb-to-bolster-cloud-infrastructure": {
+      "headline": "Mistral AI Acquires Koyeb to Bolster Cloud Infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:23:44.677825",
+      "last_seen": "2026-02-20T11:23:44.677840"
+    },
+    "https://www.vktr.com/ai-news/chatgpt-atlas-openai-s-new-ai-powered-browser-changes-how-we-surf-the-web": {
+      "headline": "ChatGPT Atlas: OpenAI’s New AI-Powered Browser Changes How We Surf the Web",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:20:44.668415",
+      "last_seen": "2026-02-23T12:20:44.668430"
+    },
+    "https://www.vktr.com/ai-news/taalas-debuts-hard-wired-llama-chip-promising-10x-faster-ai-at-a-fraction-of-the-cost": {
+      "headline": "Taalas Debuts Hard-Wired Llama Chip, Promising 10X Faster AI at a Fraction of the Cost",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:48:12.479867",
+      "last_seen": "2026-02-24T10:48:12.479882"
+    },
+    "https://www.vktr.com/ai-news/inside-the-microsoft-openai-deal-new-terms-for-agi-and-enterprise-cloud": {
+      "headline": "Inside the Microsoft-OpenAI Deal: New Terms for AGI and Enterprise Cloud",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:48:19.490286",
+      "last_seen": "2026-02-24T10:48:19.490302"
+    },
+    "https://www.vktr.com/ai-technology/voice-ai-firm-elevenlabs-raises-500m-in-seri": {
+      "headline": "Voice AI Firm ElevenLabs Raises $500M in Series D Led by Sequoia Capital",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:48:29.965896",
+      "last_seen": "2026-02-24T10:48:29.965914"
+    },
+    "https://www.vktr.com/digital-experience/inside-google-deepminds-ai-strategy-an-interview-with-ceo-demis-hassabis": {
+      "headline": "Strategic AI Initiatives by Major Tech Firms Signal Market Confidence",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:48:43.030392",
+      "last_seen": "2026-02-24T10:48:43.030407"
+    },
+    "https://www.vktr.com/ai-news/perplexity-launches-perplexity-computer-a-multi-model-ai-workflow-system": {
+      "headline": "Perplexity Launches Perplexity Computer, a Multi-Model AI Workflow System",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:02:53.531948",
+      "last_seen": "2026-02-26T11:02:53.531963"
+    },
+    "https://www.vktr.com/ai-news/letter-ai-raises-40m-series-b-launches-deal-level-enablement-tool": {
+      "headline": "Letter AI Raises $40M Series B, Launches Deal-Level Enablement Tool",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:02:57.457057",
+      "last_seen": "2026-02-26T11:02:57.457073"
+    },
+    "https://www.vktr.com/ai-platforms/google-sues-serpapi-over-data-scraping": {
+      "headline": "Google Sues SerpApi Over Data Scraping; Startup Seeks Dismissal",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:03:08.283415",
+      "last_seen": "2026-02-26T11:03:08.283431"
+    },
+    "https://www.vktr.com/leadership/the-war-for-your-job-is-over-the-machines-won-last-week": {
+      "headline": "The War for Your Job Is Over. The Machines Won Last Week.",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:03:11.958849",
+      "last_seen": "2026-02-26T11:03:11.958866"
+    },
+    "https://www.vktr.com/customer-experience/the-great-customer-service-ai-rehiring-is-coming": {
+      "headline": "The Great Customer Service AI Rehiring Is Coming",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:03:15.475967",
+      "last_seen": "2026-02-26T11:03:15.475982"
+    },
+    "https://www.vktr.com/ai-news/openai-makes-london-its-largest-research-hub-outside-us": {
+      "headline": "OpenAI Expands UK Operations, Intensifying Competition with Google DeepMind for AI Talent",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:26:05.863732",
+      "last_seen": "2026-02-27T11:26:05.863748"
+    },
+    "https://www.vktr.com/ai-platforms/no-skynet-hasnt-arrived-the-ai-network-that-turned-out-to-be-mostly-human": {
+      "headline": "OpenClaw and Moltbook: Security Researchers Reveal True Nature of Sci-Fi-Looking AI Network",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:26:36.093561",
+      "last_seen": "2026-02-27T11:26:36.093577"
+    },
+    "https://www.vktr.com/ai-news/palantir-rackspace-team-up-to-fast-t\n\nno_link_found": {
+      "headline": "Palantir & Rackspace Team Up to Fast-Track Governed AI Rollouts",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:52:31.844031",
+      "last_seen": "2026-03-02T09:52:31.844046"
+    },
+    "https://www.vktr.com/digital-marketing/microsoft-ai-ceo-says-marketing-will-be-automated-in-18-months": {
+      "headline": "Microsoft AI CEO Says Marketing Will Be Automated in 18 Months",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:52:40.864332",
+      "last_seen": "2026-03-02T09:52:40.864347"
+    },
+    "https://www.vktr.com/ai-disruption/companies-blame-ai-for-job-cuts-the-data-tells-a-more-complicated-story": {
+      "headline": "Companies Blame AI for Job Cuts. The Data Tells a More Complicated Story.",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:31:00.117842",
+      "last_seen": "2026-03-04T09:31:00.117859"
+    },
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-data-center-and-cloud-computing-developments": {
+      "headline": "AI Infrastructure Investments: Data Center and Cloud Computing Developments",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:31:06.800655",
+      "last_seen": "2026-03-04T09:31:06.800672"
+    },
+    "https://www.vktr.com/ai-market/chatgpt-gemini-or-grok-we-tested-all-3-heres-what-you-should-know": {
+      "headline": "Enterprise AI Platforms and Software: Market Expansion and Funding",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:31:20.167687",
+      "last_seen": "2026-03-04T09:31:20.167702"
+    },
+    "https://www.vktr.com/ai-ethics-law-risk/ai-regulation-and-policy-changes-impacting-investment-strategies": {
+      "headline": "AI Regulation and Policy Changes Impacting Investment Strategies",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:31:24.248855",
+      "last_seen": "2026-03-04T09:31:24.248872"
+    },
+    "https://www.vktr.com/ai-infrastructure/inside-google-deepmind-s-ai-strategy-an-interview-with-ceo-demis-hassabis": {
+      "headline": "Supply Chain Developments in AI Hardware and Accelerators",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:31:28.385911",
+      "last_seen": "2026-03-04T09:31:28.385927"
+    },
+    "https://www.vktr.com/ai-news/coreweave-lands-perplexity-ai-inference-deal": {
+      "headline": "CoreWeave Lands Perplexity AI Inference Deal",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:49:49.381188",
+      "last_seen": "2026-03-05T11:49:49.381203"
+    },
+    "https://www.vktr.com/research/white-paper-why-enterprise-ai-fails-at-scale": {
+      "headline": "White Paper: Why Enterprise AI Fails at Scale",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:50:08.921740",
+      "last_seen": "2026-03-05T11:50:08.921755"
+    },
+    "https://www.vktr.com/ai-platforms/openai-launches-gpt-54-with-computer-use-1m-token-context": {
+      "headline": "OpenAI Launches GPT-5.4 With Computer-Use & 1M Token Context",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:03:32.416965",
+      "last_seen": "2026-03-06T11:03:32.416980"
+    },
+    "https://www.vktr.com/ai-news/google-sues-serpapi-over-data-scraping-startup-seeks-dismissal": {
+      "headline": "Google Sues SerpApi Over Data Scraping; Startup Seeks Dismissal",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:03:44.726958",
+      "last_seen": "2026-03-06T11:03:44.726973"
+    },
+    "https://www.vktr.com/customer-experience/aui-acquires-cx-start-up-quack-ai-in-15m-deal-to-expand-agentic-ai-for-customer-service": {
+      "headline": "AUI Acquires CX Start-up Quack AI in $15M Deal to Expand Agentic AI for Customer Service",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:03:49.908568",
+      "last_seen": "2026-03-06T11:03:49.908584"
+    },
+    "https://www.vktr.com/digital-workplace/openai-taps-bcg-mckinsey-more-for-frontier-rollout": {
+      "headline": "OpenAI Taps BCG, McKinsey & More for Frontier Rollout",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:03:55.080474",
+      "last_seen": "2026-03-06T11:03:55.080490"
+    },
+    "https://www.vktr.com/ai-news/anthropic-ceo-accuses-openai-of-safety-theater-in-pentagon-ai-deal": {
+      "headline": "Anthropic CEO Accuses OpenAI of 'Safety Theater' in Pentagon AI Deal",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:04:04.966208",
+      "last_seen": "2026-03-06T11:04:04.966224"
+    },
+    "https://www.vktr.com/ai-infrastructure/ai-infrastructure-investments-in-data-centers-and-cloud-platforms": {
+      "headline": "AI Infrastructure Investments in Data Centers and Cloud Platforms",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:04:20.516062",
+      "last_seen": "2026-03-06T11:04:20.516077"
+    },
+    "https://www.vktr.com/ai-news/tech-giants-sign-white-house-energy-pledge": {
+      "headline": "Seven Major Tech Firms Commit to Cover Data Center Electricity Costs in White House Energy Pledge",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:17.873008",
+      "last_seen": "2026-03-09T12:17:17.873024"
+    },
+    "https://www.vktr.com/ai-disruption/companies-blame-ai-for-job-cuts-the-data-tells-a-more-complex-story": {
+      "headline": "AI Companies Blame Job Cuts, but Data Shows a More Complex Story",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:23.451397",
+      "last_seen": "2026-03-09T12:17:23.451414"
+    },
+    "https://www.vktr.com/research/white-paper-why-enterprise-ai-fails-at-scale-and-data-readiness-framework": {
+      "headline": "White Paper: Why Enterprise AI Fails at Scale and Data Readiness Framework",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:31.873338",
+      "last_seen": "2026-03-09T12:17:31.873354"
+    },
+    "https://www.vktr.com/research/research-report/designing-ai-first-systems-for-customer-access": {
+      "headline": "Research Report: Designing AI-First Systems for Customer Access",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:46.470509",
+      "last_seen": "2026-03-09T12:17:46.470524"
+    },
+    "https://www.vktr.com/research/research-report/power-personalized-cx-with-ai-that-remembers-customer-preferences": {
+      "headline": "Research Report: Power Personalized CX with AI That Remembers Customer Preferences",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:51.034953",
+      "last_seen": "2026-03-09T12:17:51.034970"
+    },
+    "https://www.vktr.com/ai-disruption/this-is-what-work-looks-like-in-a-not-so-future-world": {
+      "headline": "White Paper: The New Architecture of Customer Access Using AI",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:17:56.324490",
+      "last_seen": "2026-03-09T12:17:56.324505"
+    },
+    "https://www.vktr.com/research/research-report/ai-and-the-future-of-work-in-the-digital-workplace": {
+      "headline": "Research Report: AI and the Future of Work in the Digital Workplace",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:18:01.114098",
+      "last_seen": "2026-03-09T12:18:01.114113"
+    },
+    "https://www.vktr.com/ai-news/openai-acquires-promptfoo-for-frontier-security": {
+      "headline": "OpenAI Acquires Promptfoo for Frontier Security",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:05:52.566851",
+      "last_seen": "2026-03-10T10:05:52.566871"
+    },
+    "https://www.vktr.com/ai-platforms/anthropics-claude-opus-46-hits-1m-tokens-but-bigger-context-comes-at-a-cost": {
+      "headline": "Anthropic’s Claude Opus 4.6 Hits 1M Tokens — But Bigger Context Comes at a Cost",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:05:56.582554",
+      "last_seen": "2026-03-10T10:05:56.582569"
+    },
+    "https://www.vktr.com/ai-disruption/why-enterprise-ai-fails-at-scale-data-readiness-framework": {
+      "headline": "Why Enterprise AI Fails at Scale: Data Readiness Framework",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:06:22.657982",
+      "last_seen": "2026-03-10T10:06:22.657997"
+    },
+    "https://www.vktr.com/ai-in-customer-experience/ai-impact-on-business-infrastructure": {
+      "headline": "The New Architecture of Customer Access: AI's Impact on Business Infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:06:26.516200",
+      "last_seen": "2026-03-10T10:06:26.516216"
+    }
+  }
+}

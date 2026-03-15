@@ -1,0 +1,35 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02590-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306435292/geekplus-w-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306434934/geekplus-w-voluntary-announcementbusiness-update",
+    "https://news.futunn.com/hk/notice/306531743/geekplus-w-profit-alert-estimated-annual-resultsfor-the-year-ended",
+    "https://news.futunn.com/hk/notice/306608469/geekplus-w-monthly-return-of-equity-issuer-on-movements-in"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306435292/geekplus-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "極智嘉-W：截至二零二六年一月三十一日止之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:37:13.903827",
+      "last_seen": "2026-02-09T21:37:13.903836"
+    },
+    "https://news.futunn.com/hk/notice/306434934/geekplus-w-voluntary-announcementbusiness-update": {
+      "headline": "極智嘉-W：自願公告業務情況更新",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:02:43.690621",
+      "last_seen": "2026-02-10T11:02:43.690634"
+    },
+    "https://news.futunn.com/hk/notice/306531743/geekplus-w-profit-alert-estimated-annual-resultsfor-the-year-ended": {
+      "headline": "極智嘉-W：盈利預告截至2025年12月31日止年度之估計年度業績",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:33:21.529475",
+      "last_seen": "2026-02-25T12:33:21.529494"
+    },
+    "https://news.futunn.com/hk/notice/306608469/geekplus-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "極智嘉-W：截至二零二六年二月二十八日止之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:46:35.022701",
+      "last_seen": "2026-03-06T11:46:35.022717"
+    }
+  }
+}

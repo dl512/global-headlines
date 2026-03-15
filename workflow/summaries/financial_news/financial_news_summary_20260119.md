@@ -1,0 +1,33 @@
+## Global Financial News
+
+- **Asia-Pacific Markets Mixed as Investors Assess China Data and Geopolitical Tensions**: Regional markets mostly declined as investors digested China's Q4 GDP, with the Nikkei leading losses and Kospi rising.
+- **China’s GDP Projected to Surpass 140 Trillion Yuan by 2025**: China is expected to achieve 5% GDP growth, signaling continued economic resilience.
+- **China’s Cash Reserves Shift Toward Stocks and Gold**: China is reallocating its $7 trillion reserves into equities and gold for strategic diversification.
+- **China’s Real Estate Market Sees Largest Price Drop in Five Months**: Average new home prices in 70 major cities fell 2.7% year-on-year in December 2025.
+- **China’s Per Capita Disposable Income Grows 5% in 2025**: National Bureau of Statistics reports steady income and consumption growth for both urban and rural residents.
+- **Nvidia H200 Chips Blocked from Entering Mainland China**: Chinese customs halted Nvidia’s H200 chips at Hong Kong, impacting supply chains and tech sector plans.
+- **Hong Kong-Listed Electric Power Equipment Stocks Surge on North American Electricity Shortage**: Public funds are increasing positions in the sector, seeing new investment opportunities.
+- **China Eastern Airlines’ Hong Kong Shares Surge on Aviation Recovery Optimism**: Positive outlook for volume and price growth boosts investor confidence in the sector.
+- **Li Ning Shares Rise Nearly 4% as Revenue Decline Narrows**: Improved inventory-to-sales ratio and stabilizing financials support the sportswear brand’s stock.
+- **Continent Optical Innovation and TCL Electronics Forecast Strong Profit Growth**: Both companies expect significant year-on-year net profit increases for 2025.
+- **Ubtech Robotics Signs Humanoid Robot Service Agreement with Airbus**: The first Hong Kong-listed humanoid robotics stock expands its strategic partnerships.
+- **US President Donald Trump’s Tariff Threats Over Greenland Roil Global Markets**: Tariff threats led to surges in gold and silver, declines in US stock index futures, and backlash from eight European countries.
+- **US to Impose Tariffs on Eight European Countries; Trump to Attend Davos**: Markets brace for new tariffs and await Trump’s participation at the Davos Forum.
+- **Tensions in Euro-American Trade Relations Drive Up Gold Prices and Hong Kong Gold Stocks**: Geopolitical uncertainty boosts safe-haven demand and local gold equities.
+- **Gold and Silver Hit Record Highs Amid Geopolitical and Fed Uncertainty**: Safe-haven demand and expectations of US rate cuts push gold above $4,600/oz and silver past $90/oz.
+- **Gold Falls Over 1% on Profit-Taking and Easing Geopolitical Risks**: Despite a short-term dip, gold remains on track for a second consecutive weekly gain.
+- **US Dollar Strengthens as Fed Rate Cut Expectations Fade**: Positive US data and reduced odds of a Fed leadership change support the dollar’s third weekly gain.
+- **US Dollar Drops on Criminal Probe Into Fed Chair Jerome Powell**: The investigation into Powell introduces uncertainty, weakening the dollar and boosting gold.
+- **Oil Prices Rise on Middle East Supply Risks Despite US-Iran Tension Easing**: Brent and WTI climb as supply disruption fears persist, though higher supply may limit gains.
+- **Oil Prices Edge Up Amid Iranian Supply Risks and Venezuelan Export Resumption**: Geopolitical tensions and sanctions keep oil markets volatile.
+- **Asian Chip Stocks Surge After US-Taiwan Trade Deal; TSMC Hits Record High**: TSMC’s record quarter and increased capital spending drive gains in Taiwan and South Korea.
+- **European Chip Stocks Rally on TSMC’s Strong Results**: ASML and ASM International reach new highs, reflecting optimism in the semiconductor sector.
+- **Capacity Crunch at TSMC Opens Opportunities for Samsung and Intel**: Major clients diversify suppliers as 3nm chip shortages persist.
+- **Japanese Yen Rebounds from 18-Month Low on Intervention Warnings**: Japanese officials signal readiness to act against excessive currency moves.
+- **Japanese Stocks Hit Record Highs on Snap Election Hopes and Weak Yen**: Nikkei 225 surpasses 54,000, benefiting from political and currency developments.
+- **South Korea’s Kospi Closes at Record High Amid Regional Uncertainty**: Kospi rises for the 11th straight day, while protests in Iran and oil price swings continue.
+- **US Software and Crypto Markets Plunge Following Trump’s Tariff Remarks**: US President Donald Trump’s statements trigger a sell-off in software and cryptocurrency markets, with Bitcoin briefly dropping below $92,000.
+- **White House Progresses on Establishing a Bitcoin Strategic Reserve**: Legal and regulatory hurdles remain as the US government explores a Bitcoin reserve.
+- **Macau Sees Surge in High-Stakes Gamblers and VIP Bets**: Promotional activities attract wealthy mainland Chinese visitors, boosting gaming and non-gaming revenues.
+- **Tencent Music and Other Hong Kong Tech Stocks See Mixed Analyst Ratings**: Recent corrections present buying opportunities, with analysts optimistic on long-term growth.
+- **New World Development Shares Jump 12% on Asset Value Optimism**: Market speculation over potential asset sales boosts the property developer’s stock.

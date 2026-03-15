@@ -1,0 +1,665 @@
+{
+  "website": "https://news.google.com/rss/search?q=SK+Hynix+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmidefvx3lxte84nw9bqvm4u21krnptewtoqwmtz3y2mmzxdu83cgvvyuhrsle5luk5x0haa0tic2huyujuwk9wx3zsmff2qkzcq3ffr0lyls10nvm5s0dxv200t1hyunpiy0l1blzlqvvvb3j1oexxeelsvhry?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfb1vutlbejpceu2shloukhyznzlugvfbg5suwffqlrxb1vtoc1ydlu4yllmugy4nufvohn4cjhvtuj1vuvmznnkynzybs1kb3hvrgrnm3dpq3jztudjm2owu1hstc1umzzounrvtnvhcfm1vmdychzj?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnqwhjsgtjs1iywglnshp2ahhsb0t4vgcxrhdxutdknddmzlrmseq1smcxdmpotvhslxdob0m4mfhtt0nfaddomlbssmr5u21vslhuaxm1nvfowfrmse04vtdmr29mq3pry1dpzwc1swtusu5tcudzlvvonkc2qjhps1rtsk9fufvvc284nknobkvfne9ubnpkbdeteuvhc01gngdtue54dxjkouzrvljqmxltmujcsepaqtnsdxoyr1ettnvbvk5qa2vidxzjtwuzburkckr3?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqdvr5axittuz6mm9qs1nurfrscjdrnzu3bg1baklebun5ug5iemnnclgtm3pyuzfsuhuxstnjr0njeetbbhm4c3zprenrb1zfmetmdwnmu1hqx1netjrltnfyzgt5n1voy1bwx3rqnjbnvkd5zkw1bgljuk1tnwpqujjpu0xhswni?oc=5",
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxputhmbtbpzzbsv1rva3c1wdrtugoxrvfiovvuyku3djr2yurjsmjqbmswzkrguwhictz0au5ztxe1aky3yvfwwnnxrl91cuhnrjhpnkn1zdbueneznfa4s2djbgfhx3v6wkfcbnrrathjvy01ui1sx2fvvw1kcepbnvezy3b0zldjbe1wrddccmrhowd4bhrpyknru0xhmedyykdrzxuzsvnnbhpuze5natviwg1xoxzvy3k0ta?oc=5",
+    "https://news.google.com/rss/articles/cbmi_afbvv95cuxndzvjcxv2a3pteknjadexqu1juk03b283x3jkal9edfu2tzvfd1hqbupteu9qsjzvzk9brxrtvv82bvvynvdjdgtqehdlsm81ohbotxlzbmv3u29wvfr0yldjnxpistkwzjhrcmrsbmfivgjktllwovrht3cylxjzytjcnu1ln1vvcndztnr5adiymfl4n3g5wxmzdurvtjzhtmr3ewp4wxq1lvbfbgvjuy1kvmtlu0kwalfiaei3zwvuvvfwam1mtersqtlrunnfrlrzbgzhx1nvrznqzlowcm8tdvzfs3dnajyzwk5uvhnevg1udgjuvg4yamk?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxplu1tm0x3wjlhc2mwu1zvbevzcv9iry1fvtdpnwxtvez2afy4n25ooxpztthiednhz1pmunj4au9xdmq2vnvycznfddyxmva1twv5uhhslwrpdvrmtmxace5fcxhjeu5fx2zas2d2yzlyevb6zln2c3zcnu1avjffuuetnu9hnepjy0nmwefr?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxplwfftmrpywrtsvzutglpeelgskwxx2vrrmq2avpwluv6smnsaudftzfym0pdmvvzluf4rxppcvpvrgd3zlvid0jvmkxodwvhdnhhulkxofdjmv85wunfzgdxbzjjn2rwvvbsx3h5utnpwdn1bmpyc3ntufhrwnn1czz4c1pdrw9rszbkv0vjelbkak93adjkv25rmjf0qq?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxnodjlzzvlrgzty2dxyjzzwglka3b5bgq4vnjxnxvwsdfwewllcldomgn4c0nztk91cwstrm03sfayvu9lufjvvnlbre45tepyqmhxuen2vhzovddhatbtsgqtmwjruzbhc2g3c1htr0vrnwdpltzwek91yklmyxr2snrcdutgyjh3zxdwqk9bx1z3z0yzltbhakvfahjxajq1vxg5evbpt2jqnehsababqvvfexfmudrfzug5ze5kvnpxtu9joe53u0xkt3uxs2rutxc1t0zmdwrsvenytknaanbwqtvkclfirwwydmpvadlkalnny0phq1rnrxy1rxjwy1p1yxf5otzqakviudfsvlvmov9pqnhlagj2axnvsu5bzm04qu1kwu8xbur3oujdu2z5c051zjjbbve5mfpnrmm5exnfcdjfnudjt0hkwllunueyz2fsd2htblfod0m?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqbhf3rjzbt004vjzwdla0bm9pq0prwg1bbkpeazvfunnvzes2v2tqwkqxvkhfq1hjzhjiemfvnkvmru4zvzz0bllhvvb4a1pvexa0v21qwnhxemnbzdv4x1fpcfjladlwaxzfnmtfzktymxrkwxv5tg4xn25fy3y5mjvlauznewlmt0s3r3vrdlhvz1jpnld5eekwclp5sgc?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte9oy3bzaupzmkziy3flltdfy2zyukf0t2hcvu54nfdfz0pmbxbur0tyu3bstxbmchzjmwj3azy0mnvtr1ctzne5y2pubty3rg1ydf8tt1hmum05a1o0mxn1bm5jefo0wel2nwdwqzdqyjg?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte1tskm2agtcrnnrvlf2mkmwdnbvzgj6qujcm0pivkppnxiwtw5obtkwze10nzj2dmhub003zwg0sxitdjnywjkydgl3vwhithlqotfhzghmyjfxlw12tdvxmtkzr2e0zm5nsffmzhjhn00xnuhjtk9r?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxoaevcvfjhylztmlrnwmwty1pmykvycdm0nejpykrpwdreqzvxctfyyznsdmgttu1sreqtnvrsy3rxz01zdzjpuex6znvgdedmzwnsqw5id3vqdxzkbnniakdzsvbuauzsnwfkaerenefnytfuumtzvwrerepjuhqwazhjvddft1awcwk4shrvbdlwwwppymvxywpmx2dfs0xvc0fizgxmnzl6eelrtwj3ywtcc2neqlnbuvjtazb2u2tht2e1zkluuzn3?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxomhvda3j3vjj5cg5vudlhu3nmvzd5wgxnamf5bedcagrzmvrjzk1zwk9xmlbnrwzuytvxqud2lwdmrnjuuxpxcxpiajddtlezyzeyvi1rnzzmtwc2z3rmze5tcu1mqu9rdxmtmkdfcglbq2czv0xirhc1r3lzvxrovuh6dxl3ejhflww0b2x4t2zzrvpnnvz5vdzfd05cohmwbhn2wtz3vnzztfjbnk1ldv9rtmnwafzkrtk5b3o2tdibxafbvv95cuxqelvynw1ketbvblhurs0zdvzhyvffefo0wxh3ze1zbkrkejf6rgzxv3u3nkl5bvdlz25ine1wrjhxrzfyamlkewdiejf6vf9sx3bnvemxvknganjxwhdfas03ymzeajbinnrpzgu3awpsznczynjfz25ux19pdehvblfor21ptk92ueg5mhpyuw1zbktxwdrieejzdjfan1helulmrs1wznlhyjkxuxzmzejmqjjjngdoodrleethvnvvstrj?oc=5",
+    "https://news.google.com/rss/articles/cbmiggjbvv95cuxnwevrqwltog5naldhog5hrfljvfp4me5gs2w5zw9ruxnsdu9qd1fittj0mze2yk9ldhfas2t3r0w3qkvnyxvdzjzbmgjrahlsv0todjzvemzem2swrvrsvtzyvw16selzdunjrtrxtddsnu8ws1hiqly2sfhkvk82bjixt1hnqmhlelm5meitquv1vunzogvlsmrhwhv4rvfotmtondlxrfvimzhvsmpdmjjfvk9cmf9fwlvrru5weulbuwvhwe83yw54rxv6c2zfcnbiwgjks0fmrgjztfldlve0bwjnafjcswhhme90ujfxnzbkt3pdvkftbje0dwrtcxc?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxpazhzy3nhwmxptwdznvu2r3qyanfhb2reqxltuetzwhluaxfjdesywjb6rhzodkc3qu1hagvxnny0y3zvsujpxzrtd0tnngxmrmtxt3nbs3vzuenzlxutsexozw5lmzj6dedrwkswtmxwogk0thh4lxr2bflyaze3wenjbnpmdmfhwnftmw93cxbxujawduxrrklclvzlnwzhaer1v1vdluztsvvcywteywlrzzn3nlbqwnvmnnjiagxrx0vfnukzdujiqxq1tw5qytn1d1lfqq?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxnnmttvhf0vgvqzwjklxluelrwa1lit3nywxf0szbraldwyzdlwnnzterjeupyefj2verhn2xqcmpsm0xia1bebgrrmm10u2rjmdbhqjh2suytb3zkutd6ck54yzrxzxzpulnyq3jjz2rjyme3unhptlu2uhlwdwfsauq5stvxbnvzumv1mniywxlzazbdyzetqmvfoum?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqdlztauvwa2jub0jaognfz2rdwngzrvb3y2jdz1y4uufhsvgyzudrcep2thncrwj4wtc2cmdtvxbduc14oflzdvztzxo3cdrpbzhmrjz2z3hqdgzlotn3wnllu3ayzvlvmddhbdnxwnv6rhh4vmkyrxdiahh6odnwvxdxy2ftrtzrdndfy1zqbmnobxj2bdu0a01isktvngnqz054u2f2d2pntggydhfpvhjsnhu3tvb6n3yxbvp2sfgxs09sqkw2tzb3?oc=5",
+    "https://news.google.com/rss/articles/cbmi4wfbvv95cuxpegq1u3qwz21rnhptag9otfbkz0nzy1lhn2nkdmhxvmtzmjvxyzvpvuzldxezc2tltzjrsujovwnboxpytdjfsupiztbetkfuzg1slunflwc4rurrc3ctewwwyjbowhv3wvbhohmyr3cyvwzws0tlou1us1mwemxfmy1gmlnesxdzu1d6dtzfdw5ulu9ldvlvvtbssjjicnvkmghvtmlxyjz6ofjecxn5exzczulum2wymu1mek82bu44m2xmmkmtany4uus3m1h4oddly2c5rhlwzwn4u0rlmdbxuq?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnvndzau9nyuhjmfdmvtnxmtlkwm9ibxlpltbroxp0bkewzlpfou9usxnmwtjqwjnstnldednnaml4rnr0m0xvnldkug9fwwf4texjlulrothvd0qwutnhtldcwksyzjfrrghutk4wcgo1ltvswenbc0p3mzhqtlvkzgrsb0fbazjqx1htamlauuv6qkvxluh6qnv2mg13njgzszhoqkotlwfusxrkmvjscxvonvdic2w5nxzxx2vazfltwww3suwweelectfwanbyzuk4vw?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpbtrvmnpwlu1vrlnvwdjfru9fcjfvournxzjiohr6tlayrly0m3k3tzhyz2pvcklwmxg4elbouehhq2vpcgzlm2vrng9qtlu5sgvtcjdwm2v3zu9zmzvzvuxezxa1amdqy2fzdfhqtk1kew1kcgottkvin3len3n1a1fxc0zyoxz1?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnqlj4rkfobg4xnmrgqzrsm1bnauhictdkqldhalhzdlzvnw5pmlq5tzrkbldnbutktnfprngyvgffuvvxu2mymnm3ynhgykswagh0sjhlzly3uevxy1yzmgn0dem0rzbsyw5xtgcxv2lwvjbqbkpwzmlhx1phquruowpad2hhzjbfzmdkafhvvzh1qq?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbvb2djb2ddnwv0di1fati1bdb3akrkngx5tghlltnlvktdnkwtx2jfvf9fz294m1lwlu5flxfjefflm19omnrqbny0lvfic2dgwnhjuvriteewbmczsfu3qudldhj1b0xhdvbqv3plemo?oc=5",
+    "https://news.google.com/rss/articles/cbmivgjbvv95cuxnedhwzwlrrjfimfhqthvqefpjcglmczgyvw9ws3rrvlzsz25qckzfz0mxuvhqohnprlmxsmdirvb6mfbcsug5bdd0t1jnmknmn21entzktlrla25smnfuenrtdmvtutvarg1osvl4rzvbd2j1dhf3cdr4vvbvt1u2sw5nq181m0s4em9pwfmxvvrubzczr2zwr0vjdg1js3n4ukzluevkeg5mduliazm3u1bps3volxh2wepsqvhucweys2lbrdzhqw1kn3roefjeuuxwn25wetlns2tiemhcs1l6wvlerg13rwjnckrfm1h5rdfqburmujdosuhzuzrqwettulv6cv9nqur3og1xcgp2vunvnf9cqwrenu1pcuxmmmnpmjm5unhzv3y3uvlpa1bjnew2ek4zvzzfv2c?oc=5",
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte5sotjwwvrwqutmdthjuffevhbrcnpvczfnwdzitetwrud3bjdqour0ajhaugnvruhwtgnjvml4ynyzn0vwujrhwtdabkryu0otchjynw8zy2trn0rfewnic0hssvvoukllcmc?oc=5",
+    "https://news.google.com/rss/articles/cbmivefvx3lxtfbunfpfcjbgn1p6dwizx0ftr09wdhrlcffrtllhbzutufmxskdfag02rv9tshyxugfvbw9fuwdgmwfwqvc4rw9xum5jqzbkcet5yzbleq?oc=5",
+    "https://news.google.com/rss/articles/cbmiuefvx3lxtfbxwnhzsvm2oviwu05rnwdxsuyyelk3n2juvnrdb0xoou1cvti4advhzfnsm0hjdfrivjrfmnnrtddows1lmunwndnvtnvlazjq0gfkqvvfexfmt1b6ek1nwem2amvizuhurhk1outzq0f6nwllthd2tmuzmwnnz3zodhbanjnzahhzuuhsvzhzwwetn2ffcurwv204zgjdeenmnkdyx0k5se0zc0rcetbtadizbnbacq?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxot3lsbdhtt0dprvm4slvlv2vhrthvx3pyqzbprwtkqkewmmxitfh1bl9ottbinjbfee5dztjcb0u2rmvvyvdtcw9ycflcv0j4rdznthrlcznwvedvtzgwdedbs0w0tnhdcwi5turwym1vbwnfzi1vav9hszzfqluxdfk1q0xzrlvkrwlpvg1n?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnrc03v0ftb2hsqvvrbfddqtzylvg2d0zutvlltzfjzwtqbwnumenha3vwumkzqvbbdeu3dtlrntrhzxqxufnfvjh4wvrnbznttwvjuvm3ewg1z3nxcvrtazzna1iwqwlmswnrt3zvtth6zvu5wfrgc3rstzr1a1o5vhpnmmjbs2hmnhfyn2dzt0yzethmdnrdbk5jv2yxuxhivlzfbko1vnryx3dotw52nxftrufumxq5cxfkd25ttmvkx0rjrdrmvel0xznmcnl5blb1tq?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqbndpmljcd3rwsk5qdzbhynvptwdor2pvndneu0cwrtbcz0jycjvxyu1kmhvaztrjy0nowk9jwew4m1fjsznqovhzujdwunr6u1jts1pct09hnjztclnmq2lxqwxnczrluvvnwnvxczlnrdctvva5t1bxejqtuxu0rexuaxh6me5nm2dobjdsueptuditdmnlrkpxc0u?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxqnvlurgszawpgqtd1c0jad2tdnzy0r3punlpwzu80rvrbntzpnnzut3pixznrd1pqnupxqxu2ahzsnvrbetdry0r3zepwalh4we5fdc0xzetqr2dpbefeotnydnvlbgzelvltenotreotatlvm2hjlvvwv05wafqxd1nnvmnfvwlqbvrerhb6qtdrmvjobfm5d0zytexptzliwhrdmwc3mmfdrul5z3psv1hpzxhmdkxkn1dwz1vbzlrymg5hmtm2mdfyckm?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxnu0vlb250vxvybm51ufa0wupmaku0ntu5whhatgzctgtdrngzedvorgtjvnfnxzmxemdfqmvqrudpr3mwehrtelrrbjfonmlsmw93rfyzlvvszy0tcfpjauhwbu1jy29estnmmux3d0xkehbhb2f2u3hxwnhfslrrd3fzsuo5we9vwgpbq3rsqk9iwlkyqxvpmmdhz0p2dlllrfvjef80tmnlnwvsr2psrhjvx1fqexfpwvrz0ghaaufvx3lxte1uaw5noednoxpnbc11wktioxlgy0horhczd21ddtdmsjllcfnpds1ft0npndlldmxktdy5txdxujlxujzmbno1cxhwzlhxehhwnvnzukpumnnnb05kdgrftnrnsmlhd1vjdw01ufzzaelgrs0ttxqzmmvwnvbtejhzcldqwgvaoeq4umr5azltz0zcv2ryc3d4uulvtudnqndhounhrwj2dmjynfi4uvo4b21rvxltzmngny1js01sta?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxor2rlevpxc3vuuem4ywvmcwlhlujqwui5c0m5wvcwcmliwgnurndubjrvcxllwmfzvw9sdut1awdcauxcszbqwfd2a1fkqlkzzffyvnlveudrnxz2lu5mwdrra1lfn1heajaxz0pxsexusklyvfj0cknzbxczounlskvhamfrmxr6denluzzhmhy4bkhkszz4n19xdufcb1ddennweejb?oc=5",
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxorxezvkrgqnvjdjzstvhiwdlkcnpaa2y1vehfdthqmxhowff0cxhkzdlglxffuenywlhbrhgwbhhevufrte9dcnrysm9les1twkytu3reu2ffsmxkz0tlewqzmzvnefhhr29sqxbktdvlzxptcdvuqnnquettatjzquflnw90ancwatjvn2zjuut0d1lxsfjhunhkqm9uymrmsjrhsek0ufzpy1puze1tdkh0yv96tgxhnvlnulvlulzfvue4muhry0w1qtvzu2zlddjjmfetn1a?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbrafnhb0q1nla5qlrprnrtwuphtmk3rvnsulvvdunwexd4ski2vejwnzz2bnfbb19hznvhtko1yvbua1l6uk9nvzzkqvjorvfyuggtthbba3hkdupowgtsn1kzouxpzknfalvhzgxvmxu2nnlptjdkzkjlytfqz1e?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnt0n0cgnuek55emfmls1dc3rmsmvkwenzs2xtmg1ovfiwng1mzxbtls1hblrjckhktzhar1fmadhjogj6ofo2b1bsx3jwc3ctuktewwruuujswjjhbko2smpjwjg1wjnfmtu4zgw5x3dyz3r2dnbfujvmz2fydthsnljcrdnpymc?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxpswxbmtflenhxdlnmcxfxemd1q1r6ck00vkztndjiq3bux0lyz2rqzhjuvew4vw9fn1jhm1bwaudwdlvstejxmi1erewyckpmegdjbvdoyvp1mjbcqwoyefvcudbmu3jxcu5anjnbbu9vvmtvwjdnd1zqdzdltgviz295cuzrufjcznjncmtmmne0skhzyw1icu9ks1fix0pcqkxkvmdet2fcyzg?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnawfvnghzlurmu25qekrpaf9tmzhqahfdtzc0bgnwwvrtwfrzvva0alf6mjjetw1lx1lbsfdachvovjdlei1qmg9xzxpsmzfeanfwsnpzrnb1egwzwnbtbe5nb3zwwhhxb1fjeghynnblwddrcfg0tzbhvzzxnw4tdlizmy1prze3m1l4shpb?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxncw1qy1qzunqxvvhraejzovlkstddck40cwlfb3cxqmjomzrpwfjobnhuswrwrwxkmnp5bfloqnphlwhlnzi5elhouwxkumjnemruuxuyvkfkt29sdxbztw40dg5xnkq0bg1jrxdyz0h6mtrdtnzbtxnkbtdctxrobnlos19yz2jpdf9dogjtzddxnll5b0cxdlvksudznw5dc3yyx3dn?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxom25pbwhzum9iv3e2yvvwbi1ix2nydxpwbfzfzhpgmdixq1r5tkljq09rdhbznkdiqkx4tepvwhr6v1bhbf84sndtluu4exixnejsyxboyzbzogjhdxqxrnrmvgxsd1b0ttzsekrrdedva3g2enjxnvkzrxp0ytfgm3zntwfuzjbaynnjvlnpagrrzvdlzupltgj2rjr6uq?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqujhzqxpoatrqtfvnzej3uem5bdzxagftcdnkqndtylhqadjqukvrx0frodcxrnznv3pqmw9dwtzpbhlldhdvts1xs29souvvbdfex2gyzjbpsw9uwfkwu1jtvzqzylmzr284oe5inwiwrhrfnzriedlfde9kbhf5vfrveejezxdsr2jsnmpivwpgmmlxnnjbtevylxi4r3fwumhtqnp2yw?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxntwz4uvjozvfangc4ze05zkncmutprvlnehrjbxpaqjrzxzllovjmbzfidwzhmel5cgfqq21vmxbvrkz0se56wvk1tnbmrkrirmdizndpqu81ek1lyvrqedk0tg1aotv4njbnm1ltmhdirnlbu2z5mzlbu3jkzulsn1vbckf0s2xkburjnlzzmhbrnfjgcg5srgv0m0jszw1id2llcetxonibrafbvv95cuxqemxdzhbnlwxkdvbkbmdluw9jedr4ngr2cgticm83lxhtqmjpu09vlu1hetbjt3npbhnbazvhx3djqvdqovi5c3nktljlyxv5dtywvjcwbzneau5iee9ottjbvuluehhwtg9emmmxmjvkwhfuzmrwmwvfevvrv01nnun3vfdru0nlatj5oflmwjvpahptnup2dghlumliv05nndjca212uhf6ehjo?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxocuvobxhnckxgzuxpr1lxtnlptem1elf4clngzdm2yzlmv3j2slvbbfvtmnfsxy1zuvfgze5sediyn1dznmn4mw5iwxlja012vdatoffmrvhjnfjir05lx3hkb2poymndrgnvsg5puujksevxzxrsnfzgznnrs1faelzjrvf6txlcbzzwrmp3?oc=5",
+    "https://news.google.com/rss/articles/cbmimgnbvv95cuxqnw1gcfhbvlluskwzufnvmtraujixy0plr1ppbfzzchctn3pnrkhzckrzb05iavlrqkjotgjvowr2zgrjqjjzouryrunhtelevfv3se9tblfsrzjzzkl2bm1qzgpolut5axb0mnd1r2nplukttujos3zvalnhdv9xwth1mdnrtmszaetrckrwos1venixrelathrxcfoxetfzemitv3kzqwxzbet4bkvtbnfjdvhkeg5yckx5cjrnd1pmcxzmvwxrmxm5szz1dzvvutfsmzkzn2qxvtjxtgmyz2y2dhhmtfnxctdrve9kee1omwf6cdfzsfn3n0t2ae9pmllktkvrbvzvrzfevmtunwhsvi1suv9bmkvwnmhlszrha0vfedjhzmvkvmdqqk9qbmw2bvrfrkhtdnctdjzisjbuvja2ufdpr3jztldowtvbx0dbmfddbhhcbc12wmvzak1itk95bmrgslbunkr3ctl4n1pwdwjstnq2dwdivtfewncxtkyxq09izjrudkxdaxp3vuhpsm1qdw?oc=5",
+    "https://news.google.com/rss/articles/cbmi3gfbvv95cuxoy1hyegmwyy1tq2f2dmlylwdhoufkukhyd1k2eef6dhpacnvkr3hxsvhibtl5dxm2rxrrvwplodfpctzftde3uhbrlut5tjvuctfzq3rls0jkretfmmnkntvhunfku25kbenkzjrostfhwlzjv3poothiq3b0bjrntf80avk2bwvrrulsqxlhwvlzmdlvawn2yujxdtztwwfhmg1uwjlduvz6lvu0vtfrwnvingffehjwmhvlcew4yvpwdhney3haqwpam1pgugjotxhroxizr3vzbtnroxc?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxodxngc241sdrsn2htu1jlb0jias13alpjodg5svlvbe5pmncyq3utejnlvezbqkjscesxr0jxexhht0nhz2nqy1zrohn1ai1dtkjezfvwvxletgdwq2hicg9lq0mymzrhaxjoegvvttbjdlfuuwj0ylm5nmmycml5c3jbzwdrnmxyru1rnzc1tnh2b1l6mfp4bvkxahvpaf9szvnknkr3wvfwmhqy?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte1omg5uq1jymzz0bndpdlzzsg1jadj5vmxkutvpclrkqk5kshayrzz2rfbnvf9gznppteqtz3zvskrcnlfhes00defezxzpwuxxrzvxcuhismlnyljmx1jtdgnwshdinnqtbnlibxy0berztv81vdkxchhr?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxoqnltog5iq1zaq2hxdhvgshi2bjlgn2zdus1pcje5sg5tvnbxrglacgczt0n4nwlnnxhsakstdw56nlhlwhbsbjctttuycwx4dvctc1ffbmlfnetvv2hmynffslvqnk9ouklyc1bqovdfcgpfdvviuunxuvzmv1fhqjlhoexuufpfuuwwzkronhdxnnftsvvvcdhoyu8ywghiteh4dg1vqkxdn242bvyytxfgrq?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpsw90sgtozhl6amntumnhtu9mofdvuddkb0hjsxvtn1dywja5uvrpenblrvhzzug5ahrhqwvur1dfnju0svpaqtnsn3bjyjczy0hethhst2jgnf8yudvotjy0wkdwtmlxvvfxv000cmtmmly1rkrmqnl2c1jtelz4u3phdzfxr3vtz2riywpbb1bbxzbar3jccvzumgrjyzjab1drr1fxz1jwtfnmwmo2cnjzzln0rda4bjfbteh4z1hncmxzsc1udnheufrrsvbvukq0?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpug91vtvsm3qyckdqdhhnx29boddgwfjfc25mvmf2ov9gqnbichl4t3u0z2o3mlnkbdb1lw1vx210otvtmwheehbtmxhzn3dhu2lnzjl0ufnjeuznn1zed29pwmljcwh4wes4sxlmvnpfavyymvrydhzvekuwsze4yzfas3rmaevyrwdxmvjqr3hrv3retjdnsfr1qu1uyuzzy05nzlfrq2hkmk9ktlfry2ozync3dmjymdv0zu8tmk5qszhbbhf2rlrvejlmqlvpwdvnyq?oc=5",
+    "https://news.google.com/rss/articles/cbmizkfvx3lxtfbka2jlckzpoud4ejdnmlpvqlzmunkwuxpcafnhdw4xaepmbmpwzhvhrjjrwufvcklfwtb6a1vcsfjpc0pnwexwlxbxak81aknrmkh1sxhgzxv0dzh4zkdkbl9jmenpuq?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqwjledghsltnxalb5cthluhnxz0fjr1rfvmkylwngn25vndvim05bohk0a1zwynfaelrsxzntaza1dxzqwk4tqvdquhdnukfhajzoy1jraljorm9dv2r0b05bzjlhvjlnt2gtrnfwtmg4t09mwk11owhtodrya1f5q0hqul9rrmctmjewatboaerlbzlnsejayjnccvc1m09yslnzmgv4dw?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxod1ndc203s3znodbyujrxmdzkrktwn1lvqu5dnljcrffdnluzazvstnhuyxr3xzbtafjuy3vlm1m4dl9oyxozzghxajbazg54zjbpsfpsvwrlsup1cmvxcnjobgnlzjkwr05vwxpgnzbdtzrjcl92ewktu1bdsc1uewktx1lkwgtywetqrjnkegr3slh1vjhebwz2qk9icgitawzubjvr0ggraufvx3lxte82slntcuxyetzfwvrqeeq3c0jea0lhmk05z3flcwt6swdyetlyyleyudruuuxlzzg5ns1yqtl4z3n4aexmqmz5ukgyqm9mthlazfprdy1ewwlgvc1zlvzmclbzsgq0yuz4nulzv2cxuth0yzlpv2iwbmvvzudmnthqwnjjwezoa3a2egfbtmzotgzwnefmuw5useh2bmpldvrtc2pncm5beefoma?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnwjgynu03tk8wuhjiyi12ykhoohjhrxktn2tlsvj5vel0sdnram43vhjhtelhalnptkzga0r5y0oyodhlexdpeniyz2dsaedozkuzdkpba29fqxlkwmpoekloy1izvkhuawtdagnhbmxhaxdpuv9omuteuglsbeitrdrpbg4?oc=5",
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxpnjnozgfgrvdydw5dchowu21aq0r2szhocnlzwxbfyvutczh5lu9knjbithjqwwh1bnpkm2huoep0cvrxr2xom3pwahzpvlpqn19mu3dlofntavu0zwxyndnxv0fwchl2bwntanltyndknv9ncu9mc01syxziewzsz3mzynrdwvbrv1zisvduduvrbdroaw1fehlku01yazrmzgvsrkxycxnnvwxtndgwr3exx0dxrgzcskdwagxsqmdxrdbgshdrbtrmq2c2qw1zevbxd0dey0nax0zotkl1rg?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxozmfzu1powmxvdggyswjevxbjodjqshcxbvneyjjimvvsdg93uhjlanczs3pwz3z0mwr4rmrktfzftednqzhfbudiwtzkaxlsrnlwwfpfzjllztcysdc2vzdzzhnsqlo0dxryt3g3rercr0u5yxpuqxnfz29uyw1bcu0xnfbvsejpd2rfefdramlutkl4djd6am5vtxpfrgtxbwvlofdqc2d5ujzzakhewfu2cufrb0cwcfjmzgnir0nfqjjlbuvueuhnmzk?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnd1lgbfnqoevbaklycdlgaetntgjhykjotwfrynfor1zzmufnce9jwud6u0ttu3g4dlfisjngq0nyuf8ttetvb3dsy2y3ytnxcmzhzgriatfdqm9nndbevumwq2cztdkxwww4umu4uuzldtzvde1scejqmwvttdlnqvbtdmtwcug3ck9wttuwznu?oc=5",
+    "https://news.google.com/rss/articles/cbmi7wfbvv95cuxpv2dvdhnoqungc0hjvhv4tekzdue0zhz0og9rtjnzwjbjeetuy0qxsy1pv0ftatlkddc2mjrrb3zhnlbmvdbgqk1cx1q5sm9dakjszwxts1bxmhpozu5uand2vgxdtti2yzzvcu5xqtffanrlbxh2q0c1wfrnmw91v251vkx3rxu1tvrbndvxcujgrurjm3riy21dr0fsqljjnvvsaujpvtc5cznttfz0thvva0xcsmu2mf9kag1qyzbjzxhuy0jaem1jnffbvup6vmpccva4ykdyc3l6eg5pnxppulb5zuj3tdzjtlpowq?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxquhhpc0tmrzjpd3oyunncrllruuhcmxpya2r1vkj2bvyyz0tdsdb5owfkwky1udljeuf5owxiakrvu0hwourevnrhem1vynhzd21erxhyv2n2zlfdeujdt3vpdjr0nthzd1l5wmztzwjuvufyr1nht1peuvbfa1fkv1hoywpmb2zywuf3?oc=5",
+    "https://news.google.com/rss/articles/cbmi0afbvv95cuxpmdlrztnir08tzjdtutnlmdl1avvmsjjaeglly3j5ogvbx0febldudvvmven1bghlyvlpwmzjng5qu1g5atfkb2j3wehuzk5rv25rzdrwownyvuxxvjlvbhu0zlljowlfruexothvn0fhmfjfttnhddzqbegzowzfeek5vejudfvzws1aa0fpyjk0ugxqvnzzcvhprzbkuzvhm3pjy1j0mwvzutbjwll4ewdhvekwmknstmftq0ridgtdruxrmljyru5tvxnjru1h?oc=5",
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxpylhcuji5s1n5dkfxymu0edvndmtkek9kqzgtdzdhbudoanvldnmtmthuamtwdv9rsfdty0dizxh0c29lwvfbuc1xs1hwtnlonzfpred4r3nzunfyq2d4bjnuvvvmm1bdvvfemzhqzzgwreeylw1omk1oqkdgoemwsg96bmvgbu9jbuv4bzdvwwdjbvv0nhlqnu5tluziek1mlxbmbdftsvrmde5pywrrmtd2svjzvxc5a2fbohlfsnplawrduw5usvnfnmntmwrbndbocjvylwxqew84ddk0?oc=5",
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxpqwe3oedvz3zoz0w1owhid0reehltzzj3t2redfqxohywdwp6u0hiaup2vtl6dhy5bk9lwxhucxktakdkue4xr2njlv9sovjhzv8xx1v1utradnnpujnszzf5q0wtr3jqt2zmewhxwmhazgfxaw1yaelmunrpauptoufosnlin0mwnfnmbdg3lvdsec1nsuztqy1nwwxtywvpcfjjzmhot2xjqtrwsgz3aefrx1lncxexeujzaq?oc=5",
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxte9dehfceduwvgddyxrrrdzlt0rwzvrzrtg4bejcrk1vndk2qusyngjrmxpvuf9cwwpmaw96x3lebg9wckcybnl5b2pjtdzmtxl1smxwym1sqq?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxotunfbzrzren5qllqdzf5wedfwnm2etvfnwderzhqwvrqtvrfq3j6a182mwuzsxjhtkf6wgvbyjlvoex1elcyanj5df9jdxpftxd6ouf5n3rjdluxvfk5qws4bwriyktsrtituv9rnlzpyutpr0zick96wuhhzkpgylnvm2tbnkxnmfpnqwlhckdnzjvst2n5a1u4rzzdoxdnv3j1vfdhqjltrmxvnuncumkwekronzdttve?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbslxiwz2etzg1sedlsexjqzm1jmellvc1va0thov9hu3h5dlvwa0x5tg0ybw81m1jandq2zezxqxhfmwhky3vvwvnqtvlnu0hhtnlkdmxkc19wmudyathzmkjmsf9zqno0ytgwqktoqkhmumpjbwrvwtf30ggoaufvx3lxte1bvggyczfnumhlufduckdnnuizu19qz0xdvdvccnrnsefrnulmmmr4ugdqvdborgvyv0l1wgjmcjburufynxhrufdtemliutlmnthzdi1ueunurgxvvmtod3bymllkzhpwa0daukfun3nfsnrhrlbdcu9nay1bwnbdltn2d1l6amtusny4dfe?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxoqxlougs1oeliunq5akjzcwrwue93quw3adbjdk0xnfbmblldnzbjuwtsmnk1ctlyrzk1b2dfamxda292og1mmniwnjdtrxddrg9gsldrof9mlxvmowrjuurezzg4bgh3deu5z0nfmffbnhfiv3g3dnhews03ee5odkrmsgrvdepmdhcyc2q5sfk3d0prt1rtwhrjajbmttvsemdymc1coa?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxneurkbe5tbw9ynuhau0uzbhbzuhuwaxrvmgx0ugsylwfhqkxhwkrtbwt1zffja0hows1fzuf5zflwz29kvkplmjhubmrsnlr5wlz2txntaedmzutsbvn2shjklxnbmnpxd3fhq2fzovb5yzlvx3o0mkzkqjbwbmvwmtldvko4rvndu0nkulqtyzz3r080mxf6depiq0jxuexbc0xhowrobw?oc=5",
+    "https://news.google.com/rss/articles/cbmi6wfbvv95cuxnthr2eupydndsx3pqcudrr3jbcgm0nxjrdgn0nzjqyvhszfn4uw5nzfrpq2x1bzhtykuxbdc1q1lic0jwqjbkbtrfrgzct2jymgleemnlegf3lxvdbtnksmlnaurnsmw2rlbmtkn5rkx2s3jyltn1qv9wy0t3b0doy3l1q2l0tvprmvvvd0y4oghyrtgtzldmwgvywty1vvzhri1qnkraouhha0h1cwrntfjfala4mdjxqm9jq0oxd3c5sc0wbk1mrgnlz205ymdsdmffq2lwrgdxrg9vzenpdgpiuk9ftnyzntfj?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5renvgq3llv24toffrew5jq291efk5oep5edyxsi1zczjkyxj4ltdcvtfmlwoymmjlbwrvstjmbej3um5ndmiydkzqcxp4qzg2nc1rrnc1mkzjbvfmceplbw9ttfplogg2wtc3se5twknlsktvww9lqmnvv2e?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqlxnurdy5n0jmzfnvslkzdvbxvefxtvhuauldntjoetfbywjozu16nnewrhvkt0ewmu1zve5kd0y4ser1owvrv3fddfvauvfhcmpcsw5kwjbtx18xsnpxd0hswjz6vtbonha5egf3rurtmlyxdwvfvxhyenjqd2rxu2dtafrwv3uwnzjragftdw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoujduclczt1zis0s1nxzsckjwwjaxwhjecxpqmwe5m0xxnxzkwkryd3jytgfrekpcslffemmxzmvydxhtd3dyau5ja2fvmzgwz0dxr2zgui1ysvpnnwe0wxrrd055nhq5eerhmhzwnkjsaejkbufuvwrwefdiwnr2s1z4qxq?oc=5",
+    "https://news.google.com/rss/articles/cbmi6gfbvv95cuxotmuttc14lxb2d2zvy294qu9dbzy0d2i4bi1fvxpyrld0n0vkreh1n3d0vmhcnldis01tuxvoltcxx3jru2nkvvnybnrymxpibgtod3nbv1lcc1e5twtpyvp4a25jm0t4q3nhdjdsyxbwdut6s0xymvllqlh5oezqdkvkaez5cdlfn2q3ekf1ofbgvmnquzrtws1xnxhdrxc1ohbkcnfyzzzfcmjmwk83ohzhmhu3chvfam1xazrzm281exhrzkw5ykjptwvou1liqln1bnk1ser6ng5cd0hvbwmtvxjusxrtwee?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte8tz25omlfroedneng2q3dtx2lnodluadzvrmewoffbcnjzbhblaxdquzi5a3c1cwjfsjhxclffwlforkl2exd1ynfmsfb1rexjazjqqnjyyvaxslbqegnls19fvdiby0fvx3lxte8tz25omlfroedneng2q3dtx2lnodluadzvrmewoffbcnjzbhblaxdquzi5a3c1cwjfsjhxclffwlforkl2exd1ynfmsfb1rexjazjqqnjyyvaxslbqegnls19fvq?oc=5",
+    "https://news.google.com/rss/articles/cbmiukfvx3lxtfbwafdhb1qzwe01ovpxunhszezhnnzpt0utmgxbzlfkyllztdhmn3hiwklvuvvrmxb3zgjmbjlcztzqbkhdnk15mtrknewya3jbule?oc=5",
+    "https://news.google.com/rss/articles/cbmizkfvx3lxte81zzjiwvzxwmlidwtyq3e2cejqvu1lvtm2vk5ualniadvrvs10x25ieg4toevln1huuzbbudk2t2hbqvm2yufrn0zkujfvzwvtvmvscjvts2dtmfe0cmewmtvaaevozw?oc=5",
+    "https://news.google.com/rss/articles/cbmiskfvx3lxte9wvfdzvgn1wfrcrdjyoxzzuxfoenbuttzmyuqtnmnot1benkcyrunxqxiyztnhxzhynthdzmjhejzuzwzusjq1q0tb?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbeuedbouxlegnjc1dmdnlxae1vdg9znnhgzw5ztv9hrxfuehc3twviwxnjrdm2txnzvkznavdpueixx3e5odnhmdzrb0cxbkd6ylrfalr4vhrax3m3x2f1v3nmddfjttbfvg5snwpjdxa5nuhpbwhj?oc=5",
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxpbzi1b043bnplbenuuxc3neoyx09xmgpmymc3dnnuqw5ic0polxzochvltwzfmthwu2myuvu3d2fizlbxvzm3bzltd3lsqnbluernotvsnwvtrwvkdwl6zjq5elhkmjbmvnnhvelhwurxcxhwadjny29kaeltue1ibelia1zbovjdvdfkvu50z1d5ymvmu3i0egg1refqsdlqsuzkexjqbnlosdjwanc2v1rynwy0afm3b1mwaww0m2rfa3bkmkg5u2zidm5oblezruxwzwc2tu8?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxpb1bebkv2z3p3vjazs2veu09qzfnscxlsafhtdmhsq0xpmjvfx3ltny1zwg05r1vkwnftdxj5ntfwu1j0mm9czno2te1vd1lxqwxuzeraahduxzfiee9tzlp0s2pone5nsvfrc240mtl3nfczb0nccznhretsmwvbq2k5tefvzw9xmnfrttuxtnrjeun4suxrzufntjbvddhuwvfkbjzxegx3wklpmlhcqjbvmjhsvddqn3zfz0j1c2rqrfblttvzbdn3y1vpbnzbd0o3nnpmna?oc=5",
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte5hsldlzux3ltfsr2nqzvdru0jsyvhuuc1ewm4zv09ruetmtg5jrznbwhvwznbichezsvdwqmhgsnkwwuxhvtbidvlmq3rrv1pps2pnuxrlwnrldw?oc=5",
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxtfbjck5hehfpvenprfp0vwvtqu1nzdlva0nlrxgxnhe0d2yxlu1ey1zty2jkdndfclhvu1m4vui5d0jxrdfldk1kcem0tvbwt1fjntfwn0zsrq?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxoqvbvnulxrjrmr1lotvbumgv1ys0yrwgwce1lahbcekxja09wszb4mul5tzrgrlrrd1bimhbssl9jmjhaowndd1lqt3d3s0fjdjqtrhbcue9lzmg4rge0cffawhprotnrtvlnslllawpxb1pkrzzoqmg2dllxr1n5yus1wtvfothfzehhb1rvbzvlvgxlek1fzmzlsg8zoug40ggmaufvx3lxte1vakliytcyog1kqw5wvmzkzdbqww4ztnlytvnmdv9oddu5z3dsbthrt1aybkpiuy0waug3ref5au5pzxz0zgpyughqslfbrzkzmlvoa0tqnghjtg5vwxv4nwtpwxrsmxfwefjnv2hfmlhjqvhqzlnpz3zhunnvmlrrwxlzufzwzmixmtnrowhoumdxvmnpuhzxx0hin1rrnvlhnmhnbxc?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpnejusth0cnbau1a4cfrmujfwyju3rdr4nuoxb2tinkexdegwchdwd29csuzrvzfbnhnscgpnddy4ognsqvvmwvrlmhhvnwfoyjm1evbnz09itmgzow1rb0zjr0xyz2rzutn2enzwmghzzvromlnvohcyzznqzhfeqlfhegrkwjy2c0vny0hjtw13znvhyu00vupttlzvyzhl0ggmaufvx3lxte5knu9ka1risgnib2rjzudnvva0otrettflww85unzzudn6a1lnrty0dxlkwdd1mnfxvkjsnhpkrnozehntrhrudjnjwjdzbnd4su5vmjbts3lnmgvhbfc5y0zatgruc21kvzzbdvbwmuznwg93wdd1quw2uvc2shnratrgamzivnvubtzilvdxddhkmmthexbzru9ybutbvdhur05wz1e?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1crxnnalzkb1hlbdixuv96enrqtevzsmjtr2f4n2h6rzbmwkvsrmu2lw9wynpklw5kuec2c2poeehqegnjcjvpwmtvwdnjawfaqvpyakfnnkdgx1vrb19oqwitmzfwdtgxqwwwwgjuzmlfn3vj?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpagg5qki2bm94m0jtotngbfzjvvnxrm8zumm0ddvgt2hkwxptadbpedezzevrqjzotduzltrqm203evjeamzldm1wtktmb29brtbrylg4wdvbawdhn2vcnutzr1javeznn1bxlvlinevudzbrn1d4qzfymdzjogvvzgnhvun5zc10c05felvkeno3lvmycwniz3dbov9wtnhnb0nqaer2q3bqofgtx3zwn01smxdksk9btku4ttvuwdrnzdniaedyuw5envpcv1yzvwc?oc=5",
+    "https://news.google.com/rss/articles/cbmi6afbvv95cuxpz3ftsjfpsdgytdjjqlzjoe5zzkley1zudgpkc3rxnc14ejvlx3jes2d1x21qofa3ympnltf5qjdeahbgcxdsnvjxck5oc3zyag5srvixr3nst1fpefj0nnduvl9ore8yr21fbmflmnfbemdqemzylwjizlrxuw9eb3uxyw1wtlvudkkxejvcswt1q3d0su5xbwptzzr4wezxburgm3zune8xuerlef9ovfr3djdru0xfemxlynfbtmryrzrgbue5zg1vemq0mmh3d1jhevhqz0xmafvoqnlwsvnkmi1qyzvm?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte96ve1avhffwmiwd1hzaurzwmlnlw1py01mm1jonuvcvzjkbefbtghyaey0uecxvxpbcvvza1fryxpizvjhvm80a2xwvwnrrgzjylrqazdpyjflvmzwmwcxcfzlvdiby0fvx3lxte96ve1avhffwmiwd1hzaurzwmlnlw1py01mm1jonuvcvzjkbefbtghyaey0uecxvxpbcvvza1fryxpizvjhvm80a2xwvwnrrgzjylrqazdpyjflvmzwmwcxcfzlvq?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte50d0r1zfn2umplyxbjrvdjbgnmvkdevzbyx3ryoer4x25wenvolvvpdkiwyulknmvabtzirgzin0doyxb0a3djuhowunzpqwpmse94nxhtv1lkukdkvwi1mwjzq1dobgo3aw5kugi5mde5ttuxzhbn?oc=5",
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxte5erxhxmmd6ckxcr216qknzsff4dwdtvmtlnjbtbfu5bzuydvrzaem5exvzbvrlrudjwkpjsfbim2nkm0zszmnfsdetc2ruwtrqstjpm3rcsq?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbxtjdqn0jnugnvutv6zwxdx3h5mluyyknjvxjsmnrby2lwzutecgqzvhbrm04xbmdhcmqwnezdvhdsd1fhvnffqxfdb0jswfdlafltavrqd08ybu0zvw44qu1zwkvvdndmsnhjv3h2cxphwkrnaw80?oc=5",
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte9mwnpivkjttwjncdu5egjrczjrehbisdytxzrkwfa5sfrlrkplb01bennnsnrfeklvzc1nznjeof9xrzhictblt2rvwkxxnwx4t1bzr1pbwkjgnu54u0mwa2r3?oc=5",
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxptfbvyi1mbkxmt0vqrdgtutb0zknjemnysmf2blltm01zn0hldzzzrtr4wmtjcznvqwu2cdnqaxzyls0xrevyzfnpchhnujdtyuk1mxzzbxm0shffsl9hblhrugutbwd4dw5wwu91cu9urtrrwld4sglonmozafnxwxbpyunfyxzcaurkdtnqqzzqbluztwzfc19irzvlodrnvm9guzlfumjtbzbtc2e4axzrcxrpzvv4odb4vkxr?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxnsvi2vtjlm0fomlzlof85eex1sthkafrltwfmckvmu3zndutxenhwyunyzud6cwytqtlimgh4b3dntzviqnvkadryc0fsskfcr0nyynbiuul3njlhqzhtbhdlenhtc05iyl9yd2fnuzb6dlbmyvfyuzlhdufjeuc1cef1n3fsskrfaungs0dxazf3ywzzt0lowdfvu2noqjrgzndfb1rqsgvkae1fmmi1b1hys05la2lnmthovk5ovzuytwx1wfrmslrvdzc?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1pagrtrxnwewoxtujsm21xuuf5tdnitlnmykf6dzbmnfddy0xfmhnsswnrb1i5ehnvu3h2wflwc25oae8ztgzrug5tujayyuoytjlrrel2tllwteeya3g4nwjgq0tkx19kbhlnvehjmfffx01hcmmtclrwzvzxm1e?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmidefvx3lxte84nw9bqvm4u21krnptewtoqwmtz3y2mmzxdu83cgvvyuhrsle5luk5x0haa0tic2huyujuwk9wx3zsmff2qkzcq3ffr0lyls10nvm5s0dxv200t1hyunpiy0l1blzlqvvvb3j1oexxeelsvhry?oc=5": {
+      "headline": "SK hynix Accelerates U.S. HBM Packaging Plant Construction - Businesskorea",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:11.204312",
+      "last_seen": "2026-02-09T21:51:11.204326"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfb1vutlbejpceu2shloukhyznzlugvfbg5suwffqlrxb1vtoc1ydlu4yllmugy4nufvohn4cjhvtuj1vuvmznnkynzybs1kb3hvrgrnm3dpq3jztudjm2owu1hstc1umzzounrvtnvhcfm1vmdychzj?oc=5": {
+      "headline": "SK’s Chey, Nvidia’s Huang explore deeper AI collaboration over beer and chicken - KED Global",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:13.911743",
+      "last_seen": "2026-02-09T21:51:13.911755"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnqwhjsgtjs1iywglnshp2ahhsb0t4vgcxrhdxutdknddmzlrmseq1smcxdmpotvhslxdob0m4mfhtt0nfaddomlbssmr5u21vslhuaxm1nvfowfrmse04vtdmr29mq3pry1dpzwc1swtusu5tcudzlvvonkc2qjhps1rtsk9fufvvc284nknobkvfne9ubnpkbdeteuvhc01gngdtue54dxjkouzrvljqmxltmujcsepaqtnsdxoyr1ettnvbvk5qa2vidxzjtwuzburkckr3?oc=5": {
+      "headline": "US shifts China fab oversight to annual tool licences as Samsung, SK hynix and TSMC gain approvals - Astute Group",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:16.514179",
+      "last_seen": "2026-02-09T21:51:16.514191"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqdvr5axittuz6mm9qs1nurfrscjdrnzu3bg1baklebun5ug5iemnnclgtm3pyuzfsuhuxstnjr0njeetbbhm4c3zprenrb1zfmetmdwnmu1hqx1netjrltnfyzgt5n1voy1bwx3rqnjbnvkd5zkw1bgljuk1tnwpqujjpu0xhswni?oc=5": {
+      "headline": "Samsung, SK Hynix Lead NVIDIA's HBM4 Supply as Micron Excluded - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:19.593425",
+      "last_seen": "2026-02-09T21:51:19.593438"
+    },
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxputhmbtbpzzbsv1rva3c1wdrtugoxrvfiovvuyku3djr2yurjsmjqbmswzkrguwhictz0au5ztxe1aky3yvfwwnnxrl91cuhnrjhpnkn1zdbueneznfa4s2djbgfhx3v6wkfcbnrrathjvy01ui1sx2fvvw1kcepbnvezy3b0zldjbe1wrddccmrhowd4bhrpyknru0xhmedyykdrzxuzsvnnbhpuze5natviwg1xoxzvy3k0ta?oc=5": {
+      "headline": "Samsung, SK hynix and Micron move towards shorter-term memory supply deals - New Electronics",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:22.339494",
+      "last_seen": "2026-02-09T21:51:22.339504"
+    },
+    "https://news.google.com/rss/articles/cbmi_afbvv95cuxndzvjcxv2a3pteknjadexqu1juk03b283x3jkal9edfu2tzvfd1hqbupteu9qsjzvzk9brxrtvv82bvvynvdjdgtqehdlsm81ohbotxlzbmv3u29wvfr0yldjnxpistkwzjhrcmrsbmfivgjktllwovrht3cylxjzytjcnu1ln1vvcndztnr5adiymfl4n3g5wxmzdurvtjzhtmr3ewp4wxq1lvbfbgvjuy1kvmtlu0kwalfiaei3zwvuvvfwam1mtersqtlrunnfrlrzbgzhx1nvrznqzlowcm8tdvzfs3dnajyzwk5uvhnevg1udgjuvg4yamk?oc=5": {
+      "headline": "SK Hynix shares more information about West Lafayette project construction plans - starcitytv.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:14:53.037960",
+      "last_seen": "2026-02-10T11:14:53.037970"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxplu1tm0x3wjlhc2mwu1zvbevzcv9iry1fvtdpnwxtvez2afy4n25ooxpztthiednhz1pmunj4au9xdmq2vnvycznfddyxmva1twv5uhhslwrpdvrmtmxace5fcxhjeu5fx2zas2d2yzlyevb6zln2c3zcnu1avjffuuetnu9hnepjy0nmwefr?oc=5": {
+      "headline": "Samsung, SK Hynix: Not Time to Sell Yet - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:14:56.129639",
+      "last_seen": "2026-02-10T11:14:56.129653"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxplwfftmrpywrtsvzutglpeelgskwxx2vrrmq2avpwluv6smnsaudftzfym0pdmvvzluf4rxppcvpvrgd3zlvid0jvmkxodwvhdnhhulkxofdjmv85wunfzgdxbzjjn2rwvvbsx3h5utnpwdn1bmpyc3ntufhrwnn1czz4c1pdrw9rszbkv0vjelbkak93adjkv25rmjf0qq?oc=5": {
+      "headline": "SK's US$10bn AI venture takes chairman to Nvidia's door - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:14:59.289098",
+      "last_seen": "2026-02-10T11:14:59.289113"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxnodjlzzvlrgzty2dxyjzzwglka3b5bgq4vnjxnxvwsdfwewllcldomgn4c0nztk91cwstrm03sfayvu9lufjvvnlbre45tepyqmhxuen2vhzovddhatbtsgqtmwjruzbhc2g3c1htr0vrnwdpltzwek91yklmyxr2snrcdutgyjh3zxdwqk9bx1z3z0yzltbhakvfahjxajq1vxg5evbpt2jqnehsababqvvfexfmudrfzug5ze5kvnpxtu9joe53u0xkt3uxs2rutxc1t0zmdwrsvenytknaanbwqtvkclfirwwydmpvadlkalnny0phq1rnrxy1rxjwy1p1yxf5otzqakviudfsvlvmov9pqnhlagj2axnvsu5bzm04qu1kwu8xbur3oujdu2z5c051zjjbbve5mfpnrmm5exnfcdjfnudjt0hkwllunueyz2fsd2htblfod0m?oc=5": {
+      "headline": "NVIDIA CEO’s “Fried Chicken” Dinners With Samsung and SK hynix Leaders Are What Keep Him Ahead in the Race to Source Memory Products - Wccftech",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:15:02.354239",
+      "last_seen": "2026-02-10T11:15:02.354257"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqbhf3rjzbt004vjzwdla0bm9pq0prwg1bbkpeazvfunnvzes2v2tqwkqxvkhfq1hjzhjiemfvnkvmru4zvzz0bllhvvb4a1pvexa0v21qwnhxemnbzdv4x1fpcfjladlwaxzfnmtfzktymxrkwxv5tg4xn25fy3y5mjvlauznewlmt0s3r3vrdlhvz1jpnld5eekwclp5sgc?oc=5": {
+      "headline": "Samsung’s HBM4 to Hit Mass Production This Month, Smaller Share Than SK Hynix - SammyGuru",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:15:05.301798",
+      "last_seen": "2026-02-10T11:15:05.301812"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte9oy3bzaupzmkziy3flltdfy2zyukf0t2hcvu54nfdfz0pmbxbur0tyu3bstxbmchzjmwj3azy0mnvtr1ctzne5y2pubty3rg1ydf8tt1hmum05a1o0mxn1bm5jefo0wel2nwdwqzdqyjg?oc=5": {
+      "headline": "How SK Hynix went from ‘zombie’ company to Nvidia’s AI ally - Financial Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:13.417506",
+      "last_seen": "2026-02-11T11:55:13.417524"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte1tskm2agtcrnnrvlf2mkmwdnbvzgj6qujcm0pivkppnxiwtw5obtkwze10nzj2dmhub003zwg0sxitdjnywjkydgl3vwhithlqotfhzghmyjfxlw12tdvxmtkzr2e0zm5nsffmzhjhn00xnuhjtk9r?oc=5": {
+      "headline": "SK Hynix unveils new AI memory concept H3 based on stacked NAND flash storage - KED Global",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:55:17.753914",
+      "last_seen": "2026-02-11T11:55:17.753930"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxoaevcvfjhylztmlrnwmwty1pmykvycdm0nejpykrpwdreqzvxctfyyznsdmgttu1sreqtnvrsy3rxz01zdzjpuex6znvgdedmzwnsqw5id3vqdxzkbnniakdzsvbuauzsnwfkaerenefnytfuumtzvwrerepjuhqwazhjvddft1awcwk4shrvbdlwwwppymvxywpmx2dfs0xvc0fizgxmnzl6eelrtwj3ywtcc2neqlnbuvjtazb2u2tht2e1zkluuzn3?oc=5": {
+      "headline": "OpenAI, Samsung and SK set to start building data centres in Korea in March, minister says - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:21.532951",
+      "last_seen": "2026-02-11T11:55:21.532973"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxomhvda3j3vjj5cg5vudlhu3nmvzd5wgxnamf5bedcagrzmvrjzk1zwk9xmlbnrwzuytvxqud2lwdmrnjuuxpxcxpiajddtlezyzeyvi1rnzzmtwc2z3rmze5tcu1mqu9rdxmtmkdfcglbq2czv0xirhc1r3lzvxrovuh6dxl3ejhflww0b2x4t2zzrvpnnvz5vdzfd05cohmwbhn2wtz3vnzztfjbnk1ldv9rtmnwafzkrtk5b3o2tdibxafbvv95cuxqelvynw1ketbvblhurs0zdvzhyvffefo0wxh3ze1zbkrkejf6rgzxv3u3nkl5bvdlz25ine1wrjhxrzfyamlkewdiejf6vf9sx3bnvemxvknganjxwhdfas03ymzeajbinnrpzgu3awpsznczynjfz25ux19pdehvblfor21ptk92ueg5mhpyuw1zbktxwdrieejzdjfan1helulmrs1wznlhyjkxuxzmzejmqjjjngdoodrleethvnvvstrj?oc=5": {
+      "headline": "SK hynix Plans 16 Gb LPDDR6 Modules Running at 14.4 Gbps, Samsung Chips Run at 12.8 Gbps - TechPowerUp",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:25.343411",
+      "last_seen": "2026-02-11T11:55:25.343428"
+    },
+    "https://news.google.com/rss/articles/cbmiggjbvv95cuxnwevrqwltog5naldhog5hrfljvfp4me5gs2w5zw9ruxnsdu9qd1fittj0mze2yk9ldhfas2t3r0w3qkvnyxvdzjzbmgjrahlsv0todjzvemzem2swrvrsvtzyvw16selzdunjrtrxtddsnu8ws1hiqly2sfhkvk82bjixt1hnqmhlelm5meitquv1vunzogvlsmrhwhv4rvfotmtondlxrfvimzhvsmpdmjjfvk9cmf9fwlvrru5weulbuwvhwe83yw54rxv6c2zfcnbiwgjks0fmrgjztfldlve0bwjnafjcswhhme90ujfxnzbkt3pdvkftbje0dwrtcxc?oc=5": {
+      "headline": "Global auto parts makers camp out in Korea, vying to secure memory chips from Samsung, SK hynix - Korea JoongAng Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:28.553161",
+      "last_seen": "2026-02-11T11:55:28.553180"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxpazhzy3nhwmxptwdznvu2r3qyanfhb2reqxltuetzwhluaxfjdesywjb6rhzodkc3qu1hagvxnny0y3zvsujpxzrtd0tnngxmrmtxt3nbs3vzuenzlxutsexozw5lmzj6dedrwkswtmxwogk0thh4lxr2bflyaze3wenjbnpmdmfhwnftmw93cxbxujawduxrrklclvzlnwzhaer1v1vdluztsvvcywteywlrzzn3nlbqwnvmnnjiagxrx0vfnukzdujiqxq1tw5qytn1d1lfqq?oc=5": {
+      "headline": "NVIDIA rumor: lowered required HBM4 speeds for Rubin AI chips, else it won't get enough supply - TweakTown",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:26:10.777821",
+      "last_seen": "2026-02-11T13:26:10.777831"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxnnmttvhf0vgvqzwjklxluelrwa1lit3nywxf0szbraldwyzdlwnnzterjeupyefj2verhn2xqcmpsm0xia1bebgrrmm10u2rjmdbhqjh2suytb3zkutd6ck54yzrxzxzpulnyq3jjz2rjyme3unhptlu2uhlwdwfsauq5stvxbnvzumv1mniywxlzazbdyzetqmvfoum?oc=5": {
+      "headline": "SEMICON Korea 2026: SK hynix Presents AI-Driven R&D Vision - SK hynix Newsroom",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:45:10.481372",
+      "last_seen": "2026-02-12T12:45:10.481387"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqdlztauvwa2jub0jaognfz2rdwngzrvb3y2jdz1y4uufhsvgyzudrcep2thncrwj4wtc2cmdtvxbduc14oflzdvztzxo3cdrpbzhmrjz2z3hqdgzlotn3wnllu3ayzvlvmddhbdnxwnv6rhh4vmkyrxdiahh6odnwvxdxy2ftrtzrdndfy1zqbmnobxj2bdu0a01isktvngnqz054u2f2d2pntggydhfpvhjsnhu3tvb6n3yxbvp2sfgxs09sqkw2tzb3?oc=5": {
+      "headline": "Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins - Tom's Hardware",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:45:13.470432",
+      "last_seen": "2026-02-12T12:45:13.470447"
+    },
+    "https://news.google.com/rss/articles/cbmi4wfbvv95cuxpegq1u3qwz21rnhptag9otfbkz0nzy1lhn2nkdmhxvmtzmjvxyzvpvuzldxezc2tltzjrsujovwnboxpytdjfsupiztbetkfuzg1slunflwc4rurrc3ctewwwyjbowhv3wvbhohmyr3cyvwzws0tlou1us1mwemxfmy1gmlnesxdzu1d6dtzfdw5ulu9ldvlvvtbssjjicnvkmghvtmlxyjz6ofjecxn5exzczulum2wymu1mek82bu44m2xmmkmtany4uus3m1h4oddly2c5rhlwzwn4u0rlmdbxuq?oc=5": {
+      "headline": "[News] SK hynix Unveils AI Chip Architecture with HBF, Reportedly Boosts Performance per Watt by Up to 2.69× - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:45:17.417967",
+      "last_seen": "2026-02-12T12:45:17.417981"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnvndzau9nyuhjmfdmvtnxmtlkwm9ibxlpltbroxp0bkewzlpfou9usxnmwtjqwjnstnldednnaml4rnr0m0xvnldkug9fwwf4texjlulrothvd0qwutnhtldcwksyzjfrrghutk4wcgo1ltvswenbc0p3mzhqtlvkzgrsb0fbazjqx1htamlauuv6qkvxluh6qnv2mg13njgzszhoqkotlwfusxrkmvjscxvonvdic2w5nxzxx2vazfltwww3suwweelectfwanbyzuk4vw?oc=5": {
+      "headline": "We Think SK hynix (KRX:000660) Can Manage Its Debt With Ease - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:45:20.108674",
+      "last_seen": "2026-02-12T12:45:20.108690"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpbtrvmnpwlu1vrlnvwdjfru9fcjfvournxzjiohr6tlayrly0m3k3tzhyz2pvcklwmxg4elbouehhq2vpcgzlm2vrng9qtlu5sgvtcjdwm2v3zu9zmzvzvuxezxa1amdqy2fzdfhqtk1kew1kcgottkvin3len3n1a1fxc0zyoxz1?oc=5": {
+      "headline": "Supreme Court Excludes SK Hynix Bonuses from Severance Pay Calculations - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:45:23.180597",
+      "last_seen": "2026-02-12T12:45:23.180612"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnqlj4rkfobg4xnmrgqzrsm1bnauhictdkqldhalhzdlzvnw5pmlq5tzrkbldnbutktnfprngyvgffuvvxu2mymnm3ynhgykswagh0sjhlzly3uevxy1yzmgn0dem0rzbsyw5xtgcxv2lwvjbqbkpwzmlhx1phquruowpad2hhzjbfzmdkafhvvzh1qq?oc=5": {
+      "headline": "SEMICON Korea: Samsung pushes hybrid bonding HBM, SK Hynix bets on platform AI - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:13:09.835584",
+      "last_seen": "2026-02-13T13:13:09.835600"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbvb2djb2ddnwv0di1fati1bdb3akrkngx5tghlltnlvktdnkwtx2jfvf9fz294m1lwlu5flxfjefflm19omnrqbny0lvfic2dgwnhjuvriteewbmczsfu3qudldhj1b0xhdvbqv3plemo?oc=5": {
+      "headline": "Samsung ships latest HBM4 chips to catch-up in AI race - The Mighty 790 KFGO",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:13:13.447453",
+      "last_seen": "2026-02-13T13:13:13.447468"
+    },
+    "https://news.google.com/rss/articles/cbmivgjbvv95cuxnedhwzwlrrjfimfhqthvqefpjcglmczgyvw9ws3rrvlzsz25qckzfz0mxuvhqohnprlmxsmdirvb6mfbcsug5bdd0t1jnmknmn21entzktlrla25smnfuenrtdmvtutvarg1osvl4rzvbd2j1dhf3cdr4vvbvt1u2sw5nq181m0s4em9pwfmxvvrubzczr2zwr0vjdg1js3n4ukzluevkeg5mduliazm3u1bps3volxh2wepsqvhucweys2lbrdzhqw1kn3roefjeuuxwn25wetlns2tiemhcs1l6wvlerg13rwjnckrfm1h5rdfqburmujdosuhzuzrqwettulv6cv9nqur3og1xcgp2vunvnf9cqwrenu1pcuxmmmnpmjm5unhzv3y3uvlpa1bjnew2ek4zvzzfv2c?oc=5": {
+      "headline": "SK hynix NAND Product Solutions Investor Alert: Kahn Swick & Foti, LLC Investigates Proposed Asset Sale Regarding SK hynix NAND Product Solutions Corp. d/b/a Solidigm - Business Wire",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:13:18.906111",
+      "last_seen": "2026-02-13T13:13:18.906125"
+    },
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte5sotjwwvrwqutmdthjuffevhbrcnpvczfnwdzitetwrud3bjdqour0ajhaugnvruhwtgnjvml4ynyzn0vwujrhwtdabkryu0otchjynw8zy2trn0rfewnic0hssvvoukllcmc?oc=5": {
+      "headline": "HBM4 War Begins: Samsung Strikes First, SK Hynix Fires Back in the AI Memory Race - kmjournal.net",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:13:24.113664",
+      "last_seen": "2026-02-13T13:13:24.113682"
+    },
+    "https://news.google.com/rss/articles/cbmivefvx3lxtfbunfpfcjbgn1p6dwizx0ftr09wdhrlcffrtllhbzutufmxskdfag02rv9tshyxugfvbw9fuwdgmwfwqvc4rw9xum5jqzbkcet5yzbleq?oc=5": {
+      "headline": "Samsung leads SK hynix in HBM4 deployment - AzerNews",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:13:28.859519",
+      "last_seen": "2026-02-13T13:13:28.859530"
+    },
+    "https://news.google.com/rss/articles/cbmiuefvx3lxtfbxwnhzsvm2oviwu05rnwdxsuyyelk3n2juvnrdb0xoou1cvti4advhzfnsm0hjdfrivjrfmnnrtddows1lmunwndnvtnvlazjq0gfkqvvfexfmt1b6ek1nwem2amvizuhurhk1outzq0f6nwllthd2tmuzmwnnz3zodhbanjnzahhzuuhsvzhzwwetn2ffcurwv204zgjdeenmnkdyx0k5se0zc0rcetbtadizbnbacq?oc=5": {
+      "headline": "How and When the Memory Chip Shortage Will End - IEEE Spectrum",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:28:43.613850",
+      "last_seen": "2026-02-16T11:28:43.613866"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxot3lsbdhtt0dprvm4slvlv2vhrthvx3pyqzbprwtkqkewmmxitfh1bl9ottbinjbfee5dztjcb0u2rmvvyvdtcw9ycflcv0j4rdznthrlcznwvedvtzgwdedbs0w0tnhdcwi5turwym1vbwnfzi1vav9hszzfqluxdfk1q0xzrlvkrwlpvg1n?oc=5": {
+      "headline": "Samsung, SK Hynix Dominate High-Net-Worth Domestic Stock Purchases - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:28:46.547661",
+      "last_seen": "2026-02-16T11:28:46.547675"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnrc03v0ftb2hsqvvrbfddqtzylvg2d0zutvlltzfjzwtqbwnumenha3vwumkzqvbbdeu3dtlrntrhzxqxufnfvjh4wvrnbznttwvjuvm3ewg1z3nxcvrtazzna1iwqwlmswnrt3zvtth6zvu5wfrgc3rstzr1a1o5vhpnmmjbs2hmnhfyn2dzt0yzethmdnrdbk5jv2yxuxhivlzfbko1vnryx3dotw52nxftrufumxq5cxfkd25ttmvkx0rjrdrmvel0xznmcnl5blb1tq?oc=5": {
+      "headline": "[News] ASML’s High-NA EUV for 2027-28: Which Giants Are Betting Big—Intel, Samsung, SK hynix or TSMC? - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:28:50.012892",
+      "last_seen": "2026-02-16T11:28:50.012909"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqbndpmljcd3rwsk5qdzbhynvptwdor2pvndneu0cwrtbcz0jycjvxyu1kmhvaztrjy0nowk9jwew4m1fjsznqovhzujdwunr6u1jts1pct09hnjztclnmq2lxqwxnczrluvvnwnvxczlnrdctvva5t1bxejqtuxu0rexuaxh6me5nm2dobjdsueptuditdmnlrkpxc0u?oc=5": {
+      "headline": "Samsung and SK Hynix Top Buying Lists of Korea’s Richest Investors - Koreabizwire",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:28:54.528888",
+      "last_seen": "2026-02-16T11:28:54.528906"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxqnvlurgszawpgqtd1c0jad2tdnzy0r3punlpwzu80rvrbntzpnnzut3pixznrd1pqnupxqxu2ahzsnvrbetdry0r3zepwalh4we5fdc0xzetqr2dpbefeotnydnvlbgzelvltenotreotatlvm2hjlvvwv05wafqxd1nnvmnfvwlqbvrerhb6qtdrmvjobfm5d0zytexptzliwhrdmwc3mmfdrul5z3psv1hpzxhmdkxkn1dwz1vbzlrymg5hmtm2mdfyckm?oc=5": {
+      "headline": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis - Bloomberg.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:28:57.682814",
+      "last_seen": "2026-02-16T11:28:57.682867"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxnu0vlb250vxvybm51ufa0wupmaku0ntu5whhatgzctgtdrngzedvorgtjvnfnxzmxemdfqmvqrudpr3mwehrtelrrbjfonmlsmw93rfyzlvvszy0tcfpjauhwbu1jy29estnmmux3d0xkehbhb2f2u3hxwnhfslrrd3fzsuo5we9vwgpbq3rsqk9iwlkyqxvpmmdhz0p2dlllrfvjef80tmnlnwvsr2psrhjvx1fqexfpwvrz0ghaaufvx3lxte1uaw5noednoxpnbc11wktioxlgy0horhczd21ddtdmsjllcfnpds1ft0npndlldmxktdy5txdxujlxujzmbno1cxhwzlhxehhwnvnzukpumnnnb05kdgrftnrnsmlhd1vjdw01ufzzaelgrs0ttxqzmmvwnvbtejhzcldqwgvaoeq4umr5azltz0zcv2ryc3d4uulvtudnqndhounhrwj2dmjynfi4uvo4b21rvxltzmngny1js01sta?oc=5": {
+      "headline": "Samsung, SK hynix intensify HBM4 race as Nvidia gains leverage - upi.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:05:45.858579",
+      "last_seen": "2026-02-20T12:05:45.858596"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxor2rlevpxc3vuuem4ywvmcwlhlujqwui5c0m5wvcwcmliwgnurndubjrvcxllwmfzvw9sdut1awdcauxcszbqwfd2a1fkqlkzzffyvnlveudrnxz2lu5mwdrra1lfn1heajaxz0pxsexusklyvfj0cknzbxczounlskvhamfrmxr6denluzzhmhy4bkhkszz4n19xdufcb1ddennweejb?oc=5": {
+      "headline": "Breakingviews - AI's memory chip champion has a value problem - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:05:53.624166",
+      "last_seen": "2026-02-20T12:05:53.624182"
+    },
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxorxezvkrgqnvjdjzstvhiwdlkcnpaa2y1vehfdthqmxhowff0cxhkzdlglxffuenywlhbrhgwbhhevufrte9dcnrysm9les1twkytu3reu2ffsmxkz0tlewqzmzvnefhhr29sqxbktdvlzxptcdvuqnnquettatjzquflnw90ancwatjvn2zjuut0d1lxsfjhunhkqm9uymrmsjrhsek0ufzpy1puze1tdkh0yv96tgxhnvlnulvlulzfvue4muhry0w1qtvzu2zlddjjmfetn1a?oc=5": {
+      "headline": "Iste Wins Semiconductor FOUP Cleaner Equipment Sales Order from SK Hynix; SK Hynix Adds 3% - marketscreener.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:06:04.474235",
+      "last_seen": "2026-02-20T12:06:04.474250"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbrafnhb0q1nla5qlrprnrtwuphtmk3rvnsulvvdunwexd4ski2vejwnzz2bnfbb19hznvhtko1yvbua1l6uk9nvzzkqvjorvfyuggtthbba3hkdupowgtsn1kzouxpzknfalvhzgxvmxu2nnlptjdkzkjlytfqz1e?oc=5": {
+      "headline": "Nvidia’s Huang says AI investment is just beginning, dismisses AI bubble fears - KED Global",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:06:12.208677",
+      "last_seen": "2026-02-20T12:06:12.208692"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnt0n0cgnuek55emfmls1dc3rmsmvkwenzs2xtmg1ovfiwng1mzxbtls1hblrjckhktzhar1fmadhjogj6ofo2b1bsx3jwc3ctuktewwruuujswjjhbko2smpjwjg1wjnfmtu4zgw5x3dyz3r2dnbfujvmz2fydthsnljcrdnpymc?oc=5": {
+      "headline": "Forget $NVDA. Memory Stocks Are EXPLODING in 2026! - Nanalyze",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:06:20.183058",
+      "last_seen": "2026-02-20T12:06:20.183074"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxpswxbmtflenhxdlnmcxfxemd1q1r6ck00vkztndjiq3bux0lyz2rqzhjuvew4vw9fn1jhm1bwaudwdlvstejxmi1erewyckpmegdjbvdoyvp1mjbcqwoyefvcudbmu3jxcu5anjnbbu9vvmtvwjdnd1zqdzdltgviz295cuzrufjcznjncmtmmne0skhzyw1icu9ks1fix0pcqkxkvmdet2fcyzg?oc=5": {
+      "headline": "SK Hynix Boss Pledges to Boost Output of AI Memory Chips - Bloomberg",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:00:25.314294",
+      "last_seen": "2026-02-23T13:00:25.314310"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnawfvnghzlurmu25qekrpaf9tmzhqahfdtzc0bgnwwvrtwfrzvva0alf6mjjetw1lx1lbsfdachvovjdlei1qmg9xzxpsmzfeanfwsnpzrnb1egwzwnbtbe5nb3zwwhhxb1fjeghynnblwddrcfg0tzbhvzzxnw4tdlizmy1prze3m1l4shpb?oc=5": {
+      "headline": "Samsung Electronics, SK Hynix: Not Yet Peaked - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:00:29.890948",
+      "last_seen": "2026-02-23T13:00:29.890965"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxncw1qy1qzunqxvvhraejzovlkstddck40cwlfb3cxqmjomzrpwfjobnhuswrwrwxkmnp5bfloqnphlwhlnzi5elhouwxkumjnemruuxuyvkfkt29sdxbztw40dg5xnkq0bg1jrxdyz0h6mtrdtnzbtxnkbtdctxrobnlos19yz2jpdf9dogjtzddxnll5b0cxdlvksudznw5dc3yyx3dn?oc=5": {
+      "headline": "Samsung and SK Hynix Brace for Labor Tensions as AI Boom Swells Earnings - Koreabizwire",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:00:33.790750",
+      "last_seen": "2026-02-23T13:00:33.790766"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxom25pbwhzum9iv3e2yvvwbi1ix2nydxpwbfzfzhpgmdixq1r5tkljq09rdhbznkdiqkx4tepvwhr6v1bhbf84sndtluu4exixnejsyxboyzbzogjhdxqxrnrmvgxsd1b0ttzsekrrdedva3g2enjxnvkzrxp0ytfgm3zntwfuzjbaynnjvlnpagrrzvdlzupltgj2rjr6uq?oc=5": {
+      "headline": "Huang's missed India summit and Valentine's dinner in Korea spotlight Nvidia's shifting priorities - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:00:37.263156",
+      "last_seen": "2026-02-23T13:00:37.263177"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqujhzqxpoatrqtfvnzej3uem5bdzxagftcdnkqndtylhqadjqukvrx0frodcxrnznv3pqmw9dwtzpbhlldhdvts1xs29souvvbdfex2gyzjbpsw9uwfkwu1jtvzqzylmzr284oe5inwiwrhrfnzriedlfde9kbhf5vfrveejezxdsr2jsnmpivwpgmmlxnnjbtevylxi4r3fwumhtqnp2yw?oc=5": {
+      "headline": "SK chairman warns $100B profit could become loss amid AI volatility - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:00:40.239877",
+      "last_seen": "2026-02-23T13:00:40.239897"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxntwz4uvjozvfangc4ze05zkncmutprvlnehrjbxpaqjrzxzllovjmbzfidwzhmel5cgfqq21vmxbvrkz0se56wvk1tnbmrkrirmdizndpqu81ek1lyvrqedk0tg1aotv4njbnm1ltmhdirnlbu2z5mzlbu3jkzulsn1vbckf0s2xkburjnlzzmhbrnfjgcg5srgv0m0jszw1id2llcetxonibrafbvv95cuxqemxdzhbnlwxkdvbkbmdluw9jedr4ngr2cgticm83lxhtqmjpu09vlu1hetbjt3npbhnbazvhx3djqvdqovi5c3nktljlyxv5dtywvjcwbzneau5iee9ottjbvuluehhwtg9emmmxmjvkwhfuzmrwmwvfevvrv01nnun3vfdru0nlatj5oflmwjvpahptnup2dghlumliv05nndjca212uhf6ehjo?oc=5": {
+      "headline": "Japan Is Actually Offering Incentives to Samsung and SK Hynix to Build Memory Fabs, but the Korean Giants Are Declining the ‘Attractive’ Proposals - Wccftech",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:21:33.870756",
+      "last_seen": "2026-02-24T11:21:33.870772"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxocuvobxhnckxgzuxpr1lxtnlptem1elf4clngzdm2yzlmv3j2slvbbfvtmnfsxy1zuvfgze5sediyn1dznmn4mw5iwxlja012vdatoffmrvhjnfjir05lx3hkb2poymndrgnvsg5puujksevxzxrsnfzgznnrs1faelzjrvf6txlcbzzwrmp3?oc=5": {
+      "headline": "Samsung Electronics, SK Hynix Rise as NVIDIA Stock Slumps - 조선일보",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:21:42.765111",
+      "last_seen": "2026-02-24T11:21:42.765129"
+    },
+    "https://news.google.com/rss/articles/cbmimgnbvv95cuxqnw1gcfhbvlluskwzufnvmtraujixy0plr1ppbfzzchctn3pnrkhzckrzb05iavlrqkjotgjvowr2zgrjqjjzouryrunhtelevfv3se9tblfsrzjzzkl2bm1qzgpolut5axb0mnd1r2nplukttujos3zvalnhdv9xwth1mdnrtmszaetrckrwos1venixrelathrxcfoxetfzemitv3kzqwxzbet4bkvtbnfjdvhkeg5yckx5cjrnd1pmcxzmvwxrmxm5szz1dzvvutfsmzkzn2qxvtjxtgmyz2y2dhhmtfnxctdrve9kee1omwf6cdfzsfn3n0t2ae9pmllktkvrbvzvrzfevmtunwhsvi1suv9bmkvwnmhlszrha0vfedjhzmvkvmdqqk9qbmw2bvrfrkhtdnctdjzisjbuvja2ufdpr3jztldowtvbx0dbmfddbhhcbc12wmvzak1itk95bmrgslbunkr3ctl4n1pwdwjstnq2dwdivtfewncxtkyxq09izjrudkxdaxp3vuhpsm1qdw?oc=5": {
+      "headline": "Nvidia Stock Is Rising. Why SK Hynix Is Helping It Defy Chip Sector Selling. - Barron's",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:21:54.649984",
+      "last_seen": "2026-02-24T11:21:54.649998"
+    },
+    "https://news.google.com/rss/articles/cbmi3gfbvv95cuxoy1hyegmwyy1tq2f2dmlylwdhoufkukhyd1k2eef6dhpacnvkr3hxsvhibtl5dxm2rxrrvwplodfpctzftde3uhbrlut5tjvuctfzq3rls0jkretfmmnkntvhunfku25kbenkzjrostfhwlzjv3poothiq3b0bjrntf80avk2bwvrrulsqxlhwvlzmdlvawn2yujxdtztwwfhmg1uwjlduvz6lvu0vtfrwnvingffehjwmhvlcew4yvpwdhney3haqwpam1pgugjotxhroxizr3vzbtnroxc?oc=5": {
+      "headline": "[News] Japan Reportedly Offers Half-Cost Fabs and Full Subsidies, Yet Samsung and SK hynix Stay Cautious - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:22:06.513035",
+      "last_seen": "2026-02-24T11:22:06.513088"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxodxngc241sdrsn2htu1jlb0jias13alpjodg5svlvbe5pmncyq3utejnlvezbqkjscesxr0jxexhht0nhz2nqy1zrohn1ai1dtkjezfvwvxletgdwq2hicg9lq0mymzrhaxjoegvvttbjdlfuuwj0ylm5nmmycml5c3jbzwdrnmxyru1rnzc1tnh2b1l6mfp4bvkxahvpaf9szvnknkr3wvfwmhqy?oc=5": {
+      "headline": "SK Hynix significantly increases production of AI memory - Techzine Global",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:22:18.931545",
+      "last_seen": "2026-02-24T11:22:18.931559"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte1omg5uq1jymzz0bndpdlzzsg1jadj5vmxkutvpclrkqk5kshayrzz2rfbnvf9gznppteqtz3zvskrcnlfhes00defezxzpwuxxrzvxcuhismlnyljmx1jtdgnwshdinnqtbnlibxy0berztv81vdkxchhr?oc=5": {
+      "headline": "SK Hynix emerges as ‘emperor stock’ as Samsung hits new highs; Kospi edges closer to 6,000 - KED Global",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:15:33.690770",
+      "last_seen": "2026-02-25T13:15:33.690786"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxoqnltog5iq1zaq2hxdhvgshi2bjlgn2zdus1pcje5sg5tvnbxrglacgczt0n4nwlnnxhsakstdw56nlhlwhbsbjctttuycwx4dvctc1ffbmlfnetvv2hmynffslvqnk9ouklyc1bqovdfcgpfdvviuunxuvzmv1fhqjlhoexuufpfuuwwzkronhdxnnftsvvvcdhoyu8ywghiteh4dg1vqkxdn242bvyytxfgrq?oc=5": {
+      "headline": "Memory Boom Drives Korean Stocks’ Breakthrough Past 6,000 Level - Bloomberg",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:15:43.695019",
+      "last_seen": "2026-02-25T13:15:43.695035"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpsw90sgtozhl6amntumnhtu9mofdvuddkb0hjsxvtn1dywja5uvrpenblrvhzzug5ahrhqwvur1dfnju0svpaqtnsn3bjyjczy0hethhst2jgnf8yudvotjy0wkdwtmlxvvfxv000cmtmmly1rkrmqnl2c1jtelz4u3phdzfxr3vtz2riywpbb1bbxzbar3jccvzumgrjyzjab1drr1fxz1jwtfnmwmo2cnjzzln0rda4bjfbteh4z1hncmxzsc1udnheufrrsvbvukq0?oc=5": {
+      "headline": "SK hynix begins fencing area for pre-construction - starcitytv.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:15:53.196064",
+      "last_seen": "2026-02-25T13:15:53.196082"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpug91vtvsm3qyckdqdhhnx29boddgwfjfc25mvmf2ov9gqnbichl4t3u0z2o3mlnkbdb1lw1vx210otvtmwheehbtmxhzn3dhu2lnzjl0ufnjeuznn1zed29pwmljcwh4wes4sxlmvnpfavyymvrydhzvekuwsze4yzfas3rmaevyrwdxmvjqr3hrv3retjdnsfr1qu1uyuzzy05nzlfrq2hkmk9ktlfry2ozync3dmjymdv0zu8tmk5qszhbbhf2rlrvejlmqlvpwdvnyq?oc=5": {
+      "headline": "[News] NVIDIA GTC 2026 in Focus: Feynman Reportedly on TSMC A16, Samsung & SK hynix to Showcase HBM4 - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:16:07.220029",
+      "last_seen": "2026-02-25T13:16:07.220044"
+    },
+    "https://news.google.com/rss/articles/cbmizkfvx3lxtfbka2jlckzpoud4ejdnmlpvqlzmunkwuxpcafnhdw4xaepmbmpwzhvhrjjrwufvcklfwtb6a1vcsfjpc0pnwexwlxbxak81aknrmkh1sxhgzxv0dzh4zkdkbl9jmenpuq?oc=5": {
+      "headline": "SK Hynix develops mounting tester for HBM4 - thelec.net",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:16:17.438492",
+      "last_seen": "2026-02-25T13:16:17.438508"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqwjledghsltnxalb5cthluhnxz0fjr1rfvmkylwngn25vndvim05bohk0a1zwynfaelrsxzntaza1dxzqwk4tqvdquhdnukfhajzoy1jraljorm9dv2r0b05bzjlhvjlnt2gtrnfwtmg4t09mwk11owhtodrya1f5q0hqul9rrmctmjewatboaerlbzlnsejayjnccvc1m09yslnzmgv4dw?oc=5": {
+      "headline": "SK hynix and Sandisk Begin Global Standardization of Next-Generation Memory ‘HBF’ - SK hynix Newsroom",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:21:56.647293",
+      "last_seen": "2026-02-26T11:21:56.647309"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxod1ndc203s3znodbyujrxmdzkrktwn1lvqu5dnljcrffdnluzazvstnhuyxr3xzbtafjuy3vlm1m4dl9oyxozzghxajbazg54zjbpsfpsvwrlsup1cmvxcnjobgnlzjkwr05vwxpgnzbdtzrjcl92ewktu1bdsc1uewktx1lkwgtywetqrjnkegr3slh1vjhebwz2qk9icgitawzubjvr0ggraufvx3lxte82slntcuxyetzfwvrqeeq3c0jea0lhmk05z3flcwt6swdyetlyyleyudruuuxlzzg5ns1yqtl4z3n4aexmqmz5ukgyqm9mthlazfprdy1ewwlgvc1zlvzmclbzsgq0yuz4nulzv2cxuth0yzlpv2iwbmvvzudmnthqwnjjwezoa3a2egfbtmzotgzwnefmuw5useh2bmpldvrtc2pncm5beefoma?oc=5": {
+      "headline": "SK hynix to add $16B to Yongin chip fab - upi.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:22:01.407998",
+      "last_seen": "2026-02-26T11:22:01.408019"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnwjgynu03tk8wuhjiyi12ykhoohjhrxktn2tlsvj5vel0sdnram43vhjhtelhalnptkzga0r5y0oyodhlexdpeniyz2dsaedozkuzdkpba29fqxlkwmpoekloy1izvkhuawtdagnhbmxhaxdpuv9omuteuglsbeitrdrpbg4?oc=5": {
+      "headline": "Samsung, SK Hynix Drive Korea Benchmark’s Breakthrough Past 6000 - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:22:04.821453",
+      "last_seen": "2026-02-26T11:22:04.821470"
+    },
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxpnjnozgfgrvdydw5dchowu21aq0r2szhocnlzwxbfyvutczh5lu9knjbithjqwwh1bnpkm2huoep0cvrxr2xom3pwahzpvlpqn19mu3dlofntavu0zwxyndnxv0fwchl2bwntanltyndknv9ncu9mc01syxziewzsz3mzynrdwvbrv1zisvduduvrbdroaw1fehlku01yazrmzgvsrkxycxnnvwxtndgwr3exx0dxrgzcskdwagxsqmdxrdbgshdrbtrmq2c2qw1zevbxd0dey0nax0zotkl1rg?oc=5": {
+      "headline": "Samsung, SK Hynix accelerate fab operations amid semiconductor mega cycle - MSN",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:22:09.982524",
+      "last_seen": "2026-02-26T11:22:09.982542"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxozmfzu1powmxvdggyswjevxbjodjqshcxbvneyjjimvvsdg93uhjlanczs3pwz3z0mwr4rmrktfzftednqzhfbudiwtzkaxlsrnlwwfpfzjllztcysdc2vzdzzhnsqlo0dxryt3g3rercr0u5yxpuqxnfz29uyw1bcu0xnfbvsejpd2rfefdramlutkl4djd6am5vtxpfrgtxbwvlofdqc2d5ujzzakhewfu2cufrb0cwcfjmzgnir0nfqjjlbuvueuhnmzk?oc=5": {
+      "headline": "[News] SK hynix & Sandisk Kick Off Global Standardization of HBF, Market Set to Surge by 2030 - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:22:14.714361",
+      "last_seen": "2026-02-26T11:22:14.714392"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnd1lgbfnqoevbaklycdlgaetntgjhykjotwfrynfor1zzmufnce9jwud6u0ttu3g4dlfisjngq0nyuf8ttetvb3dsy2y3ytnxcmzhzgriatfdqm9nndbevumwq2cztdkxwww4umu4uuzldtzvde1scejqmwvttdlnqvbtdmtwcug3ck9wttuwznu?oc=5": {
+      "headline": "SK Hynix Details Low-Power DDR6 SDRAM at ISSCC 2026 - All About Circuits",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:33:25.578963",
+      "last_seen": "2026-02-27T12:33:25.578981"
+    },
+    "https://news.google.com/rss/articles/cbmi7wfbvv95cuxpv2dvdhnoqungc0hjvhv4tekzdue0zhz0og9rtjnzwjbjeetuy0qxsy1pv0ftatlkddc2mjrrb3zhnlbmvdbgqk1cx1q5sm9dakjszwxts1bxmhpozu5uand2vgxdtti2yzzvcu5xqtffanrlbxh2q0c1wfrnmw91v251vkx3rxu1tvrbndvxcujgrurjm3riy21dr0fsqljjnvvsaujpvtc5cznttfz0thvva0xcsmu2mf9kag1qyzbjzxhuy0jaem1jnffbvup6vmpccva4ykdyc3l6eg5pnxppulb5zuj3tdzjtlpowq?oc=5": {
+      "headline": "SK hynix and SanDisk announce new High Bandwidth Flash — speedy HBF standard is targeted at inference AI servers - Tom's Hardware",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:33:30.602458",
+      "last_seen": "2026-02-27T12:33:30.602480"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxquhhpc0tmrzjpd3oyunncrllruuhcmxpya2r1vkj2bvyyz0tdsdb5owfkwky1udljeuf5owxiakrvu0hwourevnrhem1vynhzd21erxhyv2n2zlfdeujdt3vpdjr0nthzd1l5wmztzwjuvufyr1nht1peuvbfa1fkv1hoywpmb2zywuf3?oc=5": {
+      "headline": "SK hynix argues that lawsuits against factory are moot - Yahoo",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:33:34.196066",
+      "last_seen": "2026-02-27T12:33:34.196082"
+    },
+    "https://news.google.com/rss/articles/cbmi0afbvv95cuxpmdlrztnir08tzjdtutnlmdl1avvmsjjaeglly3j5ogvbx0febldudvvmven1bghlyvlpwmzjng5qu1g5atfkb2j3wehuzk5rv25rzdrwownyvuxxvjlvbhu0zlljowlfruexothvn0fhmfjfttnhddzqbegzowzfeek5vejudfvzws1aa0fpyjk0ugxqvnzzcvhprzbkuzvhm3pjy1j0mwvzutbjwll4ewdhvekwmknstmftq0ridgtdruxrmljyru5tvxnjru1h?oc=5": {
+      "headline": "Sandisk partners with SK hynix to create global standard of high-bandwidth flash for AI inference - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:33:39.020312",
+      "last_seen": "2026-02-27T12:33:39.020331"
+    },
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxpylhcuji5s1n5dkfxymu0edvndmtkek9kqzgtdzdhbudoanvldnmtmthuamtwdv9rsfdty0dizxh0c29lwvfbuc1xs1hwtnlonzfpred4r3nzunfyq2d4bjnuvvvmm1bdvvfemzhqzzgwreeylw1omk1oqkdgoemwsg96bmvgbu9jbuv4bzdvwwdjbvv0nhlqnu5tluziek1mlxbmbdftsvrmde5pywrrmtd2svjzvxc5a2fbohlfsnplawrduw5usvnfnmntmwrbndbocjvylwxqew84ddk0?oc=5": {
+      "headline": "Urban development, SK hynix discussed at city luncheon - Purdue Exponent",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:27:55.816734",
+      "last_seen": "2026-03-02T10:27:55.816751"
+    },
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxpqwe3oedvz3zoz0w1owhid0reehltzzj3t2redfqxohywdwp6u0hiaup2vtl6dhy5bk9lwxhucxktakdkue4xr2njlv9sovjhzv8xx1v1utradnnpujnszzf5q0wtr3jqt2zmewhxwmhazgfxaw1yaelmunrpauptoufosnlin0mwnfnmbdg3lvdsec1nsuztqy1nwwxtywvpcfjjzmhot2xjqtrwsgz3aefrx1lncxexeujzaq?oc=5": {
+      "headline": "1GW data centers, trillion-parameter AI: inside SK Telecom's Korea bet - Stock Titan",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:27:58.903842",
+      "last_seen": "2026-03-02T10:27:58.903859"
+    },
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxte9dehfceduwvgddyxrrrdzlt0rwzvrzrtg4bejcrk1vndk2qusyngjrmxpvuf9cwwpmaw96x3lebg9wckcybnl5b2pjtdzmtxl1smxwym1sqq?oc=5": {
+      "headline": "[MWC] SKT pledges multitrillion-won investment for AI overhaul - The Korea Herald",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:28:02.310103",
+      "last_seen": "2026-03-02T10:28:02.310118"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxotunfbzrzren5qllqdzf5wedfwnm2etvfnwderzhqwvrqtvrfq3j6a182mwuzsxjhtkf6wgvbyjlvoex1elcyanj5df9jdxpftxd6ouf5n3rjdluxvfk5qws4bwriyktsrtituv9rnlzpyutpr0zick96wuhhzkpgylnvm2tbnkxnmfpnqwlhckdnzjvst2n5a1u4rzzdoxdnv3j1vfdhqjltrmxvnuncumkwekronzdttve?oc=5": {
+      "headline": "KRX Foreign Holding Weekly (Feb 27th): Samsung Electronics, Samsung Elec (PREF), SK Hynix - Smartkarma",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:28:05.347613",
+      "last_seen": "2026-03-02T10:28:05.347630"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbslxiwz2etzg1sedlsexjqzm1jmellvc1va0thov9hu3h5dlvwa0x5tg0ybw81m1jandq2zezxqxhfmwhky3vvwvnqtvlnu0hhtnlkdmxkc19wmudyathzmkjmsf9zqno0ytgwqktoqkhmumpjbwrvwtf30ggoaufvx3lxte1bvggyczfnumhlufduckdnnuizu19qz0xdvdvccnrnsefrnulmmmr4ugdqvdborgvyv0l1wgjmcjburufynxhrufdtemliutlmnthzdi1ueunurgxvvmtod3bymllkzhpwa0daukfun3nfsnrhrlbdcu9nay1bwnbdltn2d1l6amtusny4dfe?oc=5": {
+      "headline": "Samsung and SK hynix accelerate Korea chip hiring amid AI-fueled boom - CHOSUNBIZ - Chosunbiz",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:28:09.946388",
+      "last_seen": "2026-03-02T10:28:09.946404"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxoqxlougs1oeliunq5akjzcwrwue93quw3adbjdk0xnfbmblldnzbjuwtsmnk1ctlyrzk1b2dfamxda292og1mmniwnjdtrxddrg9gsldrof9mlxvmowrjuurezzg4bgh3deu5z0nfmffbnhfiv3g3dnhews03ee5odkrmsgrvdepmdhcyc2q5sfk3d0prt1rtwhrjajbmttvsemdymc1coa?oc=5": {
+      "headline": "Samsung, SK Hynix expand hiring as HBM, DRAM demand enters supercycle - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:16:40.646001",
+      "last_seen": "2026-03-03T14:16:40.646022"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxneurkbe5tbw9ynuhau0uzbhbzuhuwaxrvmgx0ugsylwfhqkxhwkrtbwt1zffja0hows1fzuf5zflwz29kvkplmjhubmrsnlr5wlz2txntaedmzutsbvn2shjklxnbmnpxd3fhq2fzovb5yzlvx3o0mkzkqjbwbmvwmtldvko4rvndu0nkulqtyzz3r080mxf6depiq0jxuexbc0xhowrobw?oc=5": {
+      "headline": "SK hynix, Sandisk Collaborating on Global Standardization of Next-Gen Memory HBF - EE Times Asia",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:16:48.314282",
+      "last_seen": "2026-03-03T14:16:48.314300"
+    },
+    "https://news.google.com/rss/articles/cbmi6wfbvv95cuxnthr2eupydndsx3pqcudrr3jbcgm0nxjrdgn0nzjqyvhszfn4uw5nzfrpq2x1bzhtykuxbdc1q1lic0jwqjbkbtrfrgzct2jymgleemnlegf3lxvdbtnksmlnaurnsmw2rlbmtkn5rkx2s3jyltn1qv9wy0t3b0doy3l1q2l0tvprmvvvd0y4oghyrtgtzldmwgvywty1vvzhri1qnkraouhha0h1cwrntfjfala4mdjxqm9jq0oxd3c5sc0wbk1mrgnlz205ymdsdmffq2lwrgdxrg9vzenpdgpiuk9ftnyzntfj?oc=5": {
+      "headline": "Pre-construction continues at SK hynix site, heavy machinery arrives - starcitytv.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:16:54.254593",
+      "last_seen": "2026-03-03T14:16:54.254609"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5renvgq3llv24toffrew5jq291efk5oep5edyxsi1zczjkyxj4ltdcvtfmlwoymmjlbwrvstjmbej3um5ndmiydkzqcxp4qzg2nc1rrnc1mkzjbvfmceplbw9ttfplogg2wtc3se5twknlsktvww9lqmnvv2e?oc=5": {
+      "headline": "Sandisk And SK Hynix Target AI Growth With High Bandwidth Flash - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:17:01.500548",
+      "last_seen": "2026-03-03T14:17:01.500576"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqlxnurdy5n0jmzfnvslkzdvbxvefxtvhuauldntjoetfbywjozu16nnewrhvkt0ewmu1zve5kd0y4ser1owvrv3fddfvauvfhcmpcsw5kwjbtx18xsnpxd0hswjz6vtbonha5egf3rurtmlyxdwvfvxhyenjqd2rxu2dtafrwv3uwnzjragftdw?oc=5": {
+      "headline": "Samsung, SK Hynix shares drop 3% on Iran oil shock fears - Tech in Asia",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:17:07.407789",
+      "last_seen": "2026-03-03T14:17:07.407806"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoujduclczt1zis0s1nxzsckjwwjaxwhjecxpqmwe5m0xxnxzkwkryd3jytgfrekpcslffemmxzmvydxhtd3dyau5ja2fvmzgwz0dxr2zgui1ysvpnnwe0wxrrd055nhq5eerhmhzwnkjsaejkbufuvwrwefdiwnr2s1z4qxq?oc=5": {
+      "headline": "Why Micron, SanDisk & Memory Stocks Are Crashing Today - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:10.385408",
+      "last_seen": "2026-03-04T14:03:10.385436"
+    },
+    "https://news.google.com/rss/articles/cbmi6gfbvv95cuxotmuttc14lxb2d2zvy294qu9dbzy0d2i4bi1fvxpyrld0n0vkreh1n3d0vmhcnldis01tuxvoltcxx3jru2nkvvnybnrymxpibgtod3nbv1lcc1e5twtpyvp4a25jm0t4q3nhdjdsyxbwdut6s0xymvllqlh5oezqdkvkaez5cdlfn2q3ekf1ofbgvmnquzrtws1xnxhdrxc1ohbkcnfyzzzfcmjmwk83ohzhmhu3chvfam1xazrzm281exhrzkw5ykjptwvou1liqln1bnk1ser6ng5cd0hvbwmtvxjusxrtwee?oc=5": {
+      "headline": "WL community rallies against SK hynix at city council - Purdue Exponent",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:12.923092",
+      "last_seen": "2026-03-04T14:03:12.923109"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte8tz25omlfroedneng2q3dtx2lnodluadzvrmewoffbcnjzbhblaxdquzi5a3c1cwjfsjhxclffwlforkl2exd1ynfmsfb1rexjazjqqnjyyvaxslbqegnls19fvdiby0fvx3lxte8tz25omlfroedneng2q3dtx2lnodluadzvrmewoffbcnjzbhblaxdquzi5a3c1cwjfsjhxclffwlforkl2exd1ynfmsfb1rexjazjqqnjyyvaxslbqegnls19fvq?oc=5": {
+      "headline": "Mizuho: The plunge of Samsung and SK Hynix reflects that their previous stock prices were in a \"severely overbought\" state - Bitget",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:16.157178",
+      "last_seen": "2026-03-04T14:03:16.157199"
+    },
+    "https://news.google.com/rss/articles/cbmiukfvx3lxtfbwafdhb1qzwe01ovpxunhszezhnnzpt0utmgxbzlfkyllztdhmn3hiwklvuvvrmxb3zgjmbjlcztzqbkhdnk15mtrknewya3jbule?oc=5": {
+      "headline": "South Korea KOSPI Crashes 7.2% as Samsung and SK Hynix Break the Market’s Back - Stocks Down Under",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:19.050241",
+      "last_seen": "2026-03-04T14:03:19.050258"
+    },
+    "https://news.google.com/rss/articles/cbmizkfvx3lxte81zzjiwvzxwmlidwtyq3e2cejqvu1lvtm2vk5ualniadvrvs10x25ieg4toevln1huuzbbudk2t2hbqvm2yufrn0zkujfvzwvtvmvscjvts2dtmfe0cmewmtvaaevozw?oc=5": {
+      "headline": "TLB Wins Qualification From Two Memory Giants for A.I.-Focused SOCAMM2 Substrates - thelec.net",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:21.783221",
+      "last_seen": "2026-03-04T14:03:21.783240"
+    },
+    "https://news.google.com/rss/articles/cbmiskfvx3lxte9wvfdzvgn1wfrcrdjyoxzzuxfoenbuttzmyuqtnmnot1benkcyrunxqxiyztnhxzhynthdzmjhejzuzwzusjq1q0tb?oc=5": {
+      "headline": "SK hynix Unveils Latest AI Memory Solutions at MWC 2026 - SK hynix Newsroom",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:05:45.641048",
+      "last_seen": "2026-03-05T12:05:45.641065"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbeuedbouxlegnjc1dmdnlxae1vdg9znnhgzw5ztv9hrxfuehc3twviwxnjrdm2txnzvkznavdpueixx3e5odnhmdzrb0cxbkd6ylrfalr4vhrax3m3x2f1v3nmddfjttbfvg5snwpjdxa5nuhpbwhj?oc=5": {
+      "headline": "US move to bar Chinese chips seen as boon to Samsung, SK Hynix - The Korea Economic Daily Global Edition",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:05:49.648349",
+      "last_seen": "2026-03-05T12:05:49.648366"
+    },
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxpbzi1b043bnplbenuuxc3neoyx09xmgpmymc3dnnuqw5ic0polxzochvltwzfmthwu2myuvu3d2fizlbxvzm3bzltd3lsqnbluernotvsnwvtrwvkdwl6zjq5elhkmjbmvnnhvelhwurxcxhwadjny29kaeltue1ibelia1zbovjdvdfkvu50z1d5ymvmu3i0egg1refqsdlqsuzkexjqbnlosdjwanc2v1rynwy0afm3b1mwaww0m2rfa3bkmkg5u2zidm5oblezruxwzwc2tu8?oc=5": {
+      "headline": "[News] SK Hynix Commits Additional USD 15 Billion, Escalating Fab Expansion Race among Memory Giants - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:05:53.604635",
+      "last_seen": "2026-03-05T12:05:53.604651"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxpb1bebkv2z3p3vjazs2veu09qzfnscxlsafhtdmhsq0xpmjvfx3ltny1zwg05r1vkwnftdxj5ntfwu1j0mm9czno2te1vd1lxqwxuzeraahduxzfiee9tzlp0s2pone5nsvfrc240mtl3nfczb0nccznhretsmwvbq2k5tefvzw9xmnfrttuxtnrjeun4suxrzufntjbvddhuwvfkbjzxegx3wklpmlhcqjbvmjhsvddqn3zfz0j1c2rqrfblttvzbdn3y1vpbnzbd0o3nnpmna?oc=5": {
+      "headline": "Sk Hynix: Has sufficient inventory of helium, not expecting to be impacted by Iran crisis - marketscreener.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:05:56.690440",
+      "last_seen": "2026-03-05T12:05:56.690456"
+    },
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte5hsldlzux3ltfsr2nqzvdru0jsyvhuuc1ewm4zv09ruetmtg5jrznbwhvwznbichezsvdwqmhgsnkwwuxhvtbidvlmq3rrv1pps2pnuxrlwnrldw?oc=5": {
+      "headline": "SK hynix showcases advanced AI memory solutions at MWC 2026 - Yonhap News Agency",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:06:00.858532",
+      "last_seen": "2026-03-05T12:06:00.858551"
+    },
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxtfbjck5hehfpvenprfp0vwvtqu1nzdlva0nlrxgxnhe0d2yxlu1ey1zty2jkdndfclhvu1m4vui5d0jxrdfldk1kcem0tvbwt1fjntfwn0zsrq?oc=5": {
+      "headline": "Samsung Electronics, SK hynix drop over 2% as Iran crisis concerns persist - 매일경제",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:03:37.736998",
+      "last_seen": "2026-03-06T12:03:37.737013"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxoqvbvnulxrjrmr1lotvbumgv1ys0yrwgwce1lahbcekxja09wszb4mul5tzrgrlrrd1bimhbssl9jmjhaowndd1lqt3d3s0fjdjqtrhbcue9lzmg4rge0cffawhprotnrtvlnslllawpxb1pkrzzoqmg2dllxr1n5yus1wtvfothfzehhb1rvbzvlvgxlek1fzmzlsg8zoug40ggmaufvx3lxte1vakliytcyog1kqw5wvmzkzdbqww4ztnlytvnmdv9oddu5z3dsbthrt1aybkpiuy0waug3ref5au5pzxz0zgpyughqslfbrzkzmlvoa0tqnghjtg5vwxv4nwtpwxrsmxfwefjnv2hfmlhjqvhqzlnpz3zhunnvmlrrwxlzufzwzmixmtnrowhoumdxvmnpuhzxx0hin1rrnvlhnmhnbxc?oc=5": {
+      "headline": "Midwest economy getting major boost from Chip plant investments - WSAV-TV",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:03:42.185798",
+      "last_seen": "2026-03-06T12:03:42.185827"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpnejusth0cnbau1a4cfrmujfwyju3rdr4nuoxb2tinkexdegwchdwd29csuzrvzfbnhnscgpnddy4ognsqvvmwvrlmhhvnwfoyjm1evbnz09itmgzow1rb0zjr0xyz2rzutn2enzwmghzzvromlnvohcyzznqzhfeqlfhegrkwjy2c0vny0hjtw13znvhyu00vupttlzvyzhl0ggmaufvx3lxte5knu9ka1risgnib2rjzudnvva0otrettflww85unzzudn6a1lnrty0dxlkwdd1mnfxvkjsnhpkrnozehntrhrudjnjwjdzbnd4su5vmjbts3lnmgvhbfc5y0zatgruc21kvzzbdvbwmuznwg93wdd1quw2uvc2shnratrgamzivnvubtzilvdxddhkmmthexbzru9ybutbvdhur05wz1e?oc=5": {
+      "headline": "Midwest economy getting major boost from Chip plant investments - WJHL",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:03:46.183323",
+      "last_seen": "2026-03-06T12:03:46.183341"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1crxnnalzkb1hlbdixuv96enrqtevzsmjtr2f4n2h6rzbmwkvsrmu2lw9wynpklw5kuec2c2poeehqegnjcjvpwmtvwdnjawfaqvpyakfnnkdgx1vrb19oqwitmzfwdtgxqwwwwgjuzmlfn3vj?oc=5": {
+      "headline": "SK hynix Finalizes Solidigm Governance Restructuring for AI Expansion - Businesskorea",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:03:52.578837",
+      "last_seen": "2026-03-06T12:03:52.578862"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpagg5qki2bm94m0jtotngbfzjvvnxrm8zumm0ddvgt2hkwxptadbpedezzevrqjzotduzltrqm203evjeamzldm1wtktmb29brtbrylg4wdvbawdhn2vcnutzr1javeznn1bxlvlinevudzbrn1d4qzfymdzjogvvzgnhvun5zc10c05felvkeno3lvmycwniz3dbov9wtnhnb0nqaer2q3bqofgtx3zwn01smxdksk9btku4ttvuwdrnzdniaedyuw5envpcv1yzvwc?oc=5": {
+      "headline": "Nvidia taps Samsung, SK Hynix as exclusive HBM4 suppliers for Vera Rubin - report - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:02:54.415932",
+      "last_seen": "2026-03-09T13:02:54.415948"
+    },
+    "https://news.google.com/rss/articles/cbmi6afbvv95cuxpz3ftsjfpsdgytdjjqlzjoe5zzkley1zudgpkc3rxnc14ejvlx3jes2d1x21qofa3ympnltf5qjdeahbgcxdsnvjxck5oc3zyag5srvixr3nst1fpefj0nnduvl9ore8yr21fbmflmnfbemdqemzylwjizlrxuw9eb3uxyw1wtlvudkkxejvcswt1q3d0su5xbwptzzr4wezxburgm3zune8xuerlef9ovfr3djdru0xfemxlynfbtmryrzrgbue5zg1vemq0mmh3d1jhevhqz0xmafvoqnlwsvnkmi1qyzvm?oc=5": {
+      "headline": "[News] Samsung, SK hynix Reportedly Tapped as NVIDIA Rubin HBM4 Suppliers; Shipments Could Start in March - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:02:58.754732",
+      "last_seen": "2026-03-09T13:02:58.754748"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte96ve1avhffwmiwd1hzaurzwmlnlw1py01mm1jonuvcvzjkbefbtghyaey0uecxvxpbcvvza1fryxpizvjhvm80a2xwvwnrrgzjylrqazdpyjflvmzwmwcxcfzlvdiby0fvx3lxte96ve1avhffwmiwd1hzaurzwmlnlw1py01mm1jonuvcvzjkbefbtghyaey0uecxvxpbcvvza1fryxpizvjhvm80a2xwvwnrrgzjylrqazdpyjflvmzwmwcxcfzlvq?oc=5": {
+      "headline": "At JPMorgan's Korea Conference, SK Hynix: Memory Upcycle Expected to Last Longer Than Anticipated - Bitget",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:03:07.250656",
+      "last_seen": "2026-03-09T13:03:07.250682"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte50d0r1zfn2umplyxbjrvdjbgnmvkdevzbyx3ryoer4x25wenvolvvpdkiwyulknmvabtzirgzin0doyxb0a3djuhowunzpqwpmse94nxhtv1lkukdkvwi1mwjzq1dobgo3aw5kugi5mde5ttuxzhbn?oc=5": {
+      "headline": "Samsung, SK Hynix win Vera Rubin HBM4 slots, widening lead over Micron - The Korea Economic Daily Global Edition",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:03:17.576646",
+      "last_seen": "2026-03-09T13:03:17.576662"
+    },
+    "https://news.google.com/rss/articles/cbmiv0fvx3lxte5erxhxmmd6ckxcr216qknzsff4dwdtvmtlnjbtbfu5bzuydvrzaem5exvzbvrlrudjwkpjsfbim2nkm0zszmnfsdetc2ruwtrqstjpm3rcsq?oc=5": {
+      "headline": "Samsung Electronics, SK hynix slide after U.S. tech losses - 매일경제",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:03:21.007805",
+      "last_seen": "2026-03-09T13:03:21.007822"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxtfbxtjdqn0jnugnvutv6zwxdx3h5mluyyknjvxjsmnrby2lwzutecgqzvhbrm04xbmdhcmqwnezdvhdsd1fhvnffqxfdb0jswfdlafltavrqd08ybu0zvw44qu1zwkvvdndmsnhjv3h2cxphwkrnaw80?oc=5": {
+      "headline": "Chip supply chain fears hit Samsung, SK Hynix shares as Middle East war escalates - The Korea Economic Daily Global Edition",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:56:47.715967",
+      "last_seen": "2026-03-10T10:56:47.715985"
+    },
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte9mwnpivkjttwjncdu5egjrczjrehbisdytxzrkwfa5sfrlrkplb01bennnsnrfeklvzc1nznjeof9xrzhictblt2rvwkxxnwx4t1bzr1pbwkjgnu54u0mwa2r3?oc=5": {
+      "headline": "SK hynix Develops 1c LPDDR6, 6th-Generation 10nm-Class DRAM - SK hynix Newsroom",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:56:51.785050",
+      "last_seen": "2026-03-10T10:56:51.785069"
+    },
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxptfbvyi1mbkxmt0vqrdgtutb0zknjemnysmf2blltm01zn0hldzzzrtr4wmtjcznvqwu2cdnqaxzyls0xrevyzfnpchhnujdtyuk1mxzzbxm0shffsl9hblhrugutbwd4dw5wwu91cu9urtrrwld4sglonmozafnxwxbpyunfyxzcaurkdtnqqzzqbluztwzfc19irzvlodrnvm9guzlfumjtbzbtc2e4axzrcxrpzvv4odb4vkxr?oc=5": {
+      "headline": "Protesters urge officials to rethink SK hynix rezoning near WL neighborhoods - Purdue Exponent",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:56:54.480355",
+      "last_seen": "2026-03-10T10:56:54.480377"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxnsvi2vtjlm0fomlzlof85eex1sthkafrltwfmckvmu3zndutxenhwyunyzud6cwytqtlimgh4b3dntzviqnvkadryc0fsskfcr0nyynbiuul3njlhqzhtbhdlenhtc05iyl9yd2fnuzb6dlbmyvfyuzlhdufjeuc1cef1n3fsskrfaungs0dxazf3ywzzt0lowdfvu2noqjrgzndfb1rqsgvkae1fmmi1b1hys05la2lnmthovk5ovzuytwx1wfrmslrvdzc?oc=5": {
+      "headline": "Plaintiff's standing questioned in SK hynix microchip lawsuit - Journal & Courier",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:56:59.146978",
+      "last_seen": "2026-03-10T10:56:59.146990"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1pagrtrxnwewoxtujsm21xuuf5tdnitlnmykf6dzbmnfddy0xfmhnsswnrb1i5ehnvu3h2wflwc25oae8ztgzrug5tujayyuoytjlrrel2tllwteeya3g4nwjgq0tkx19kbhlnvehjmfffx01hcmmtclrwzvzxm1e?oc=5": {
+      "headline": "Sandisk Joins SK Hynix To Shape High Bandwidth Flash For AI - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:57:03.861047",
+      "last_seen": "2026-03-10T10:57:03.861066"
+    }
+  }
+}

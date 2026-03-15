@@ -1,0 +1,82 @@
+## Most Important Stories
+
+- **Russia-Ukraine Peace Deal Challenges**: Negotiations for a peace deal between Russia and Ukraine are at a critical juncture, with significant obstacles remaining, particularly regarding territorial disputes and the management of the Zaporizhzhia nuclear power plant. Trust between the nations is low, complicating potential resolutions.
+
+- **Protests Erupt in Iran**: Protests have spread across Iran for a third day, triggered by the Iranian rial hitting a record low against the US dollar. Demonstrators are voicing anti-government slogans and calling for change, while the government engages with protest representatives.
+
+- **US President Trump Addresses Taiwan Tensions**: US President Donald Trump downplayed concerns over Chinese military drills around Taiwan, emphasizing his good relationship with President Xi Jinping. The drills coincide with a recent US arms sale to Taiwan, raising tensions in the region.
+
+- **Khaleda Zia, Former Bangladesh PM, Dies**: Khaleda Zia, the first female prime minister of Bangladesh, has passed away at the age of 80. She was a significant political figure, known for her leadership following her husband's assassination and her advocacy for women's rights.
+
+- **US Sanctions on Iranian and Venezuelan Entities**: The US imposed sanctions on individuals and entities linked to the weapons trade between Iran and Venezuela, reflecting ongoing concerns about military support that threatens US interests in the Western Hemisphere.
+
+- **Trump's Threats Against Iran**: US President Donald Trump warned of military action against Iran if the country attempts to rebuild its ballistic missile reserves or nuclear program, amidst rising tensions in the Middle East.
+
+- **Eurostar Travel Disruptions**: Significant travel disruptions occurred for Eurostar and LeShuttle services due to a power issue in the Channel Tunnel, affecting thousands of passengers. While some services have resumed, delays are expected to continue.
+
+- **Machu Picchu Train Crash**: A train collision near Machu Picchu in Peru resulted in one death and injuries to at least 40 passengers. The cause of the crash is under investigation, with local communities expressing concerns over transport safety.
+
+- **Anthony Joshua Injured in Car Crash**: British boxer Anthony Joshua was injured in a car crash in Nigeria that killed two of his friends. He is currently in stable condition as investigations into the accident continue.
+
+- **Tatiana Schlossberg, Climate Journalist, Dies**: Tatiana Schlossberg, granddaughter of former US President John F. Kennedy, has died at 35 after battling acute myeloid leukaemia. She was known for her work on environmental issues and her poignant reflections on her illness.
+
+- **K-pop Group Faces Legal Turmoil**: K-pop band NewJeans is embroiled in a legal dispute as their record label filed a $30 million lawsuit against member Danielle Marsh amid accusations of contract violations and mistreatment, raising concerns about the group's future.
+
+- **Guinea's Controversial Election**: Gen Mamady Doumbouya has been elected president of Guinea amid allegations of irregularities in the election process. His leadership follows a coup in 2021, and he faces criticism for stifling dissent.
+
+- **Blue Origin Astronaut Reveals Harassment Struggles**: Amanda Nguyen, a Vietnamese-American astronaut, shared her struggles with depression following harassment after her historic space flight. She emphasized the need for support and highlighted her advocacy work.
+
+- **Trump Administration Freezes Childcare Funds**: The Trump administration has frozen childcare payments to Minnesota amid fraud allegations involving daycare centers. State officials have pushed back against the allegations, asserting that the centers have been inspected regularly. 
+
+- **Supreme Court Rejects Trump's National Guard Request**: The Supreme Court denied US President Donald Trump's request to deploy National Guard troops to Chicago, marking a significant check on his executive power regarding military involvement in civilian law enforcement. 
+
+- **Epstein Files Controversy Continues**: The Department of Justice has uncovered over one million additional documents related to Jeffrey Epstein, prompting calls for an audit of the DOJ's handling of the files amid allegations of a cover-up. 
+
+- **Trump's Plans for a New Battleship Face Skepticism**: US President Donald Trump's announcement of a new "Trump-class" battleship has drawn skepticism from defense experts, who question the project's feasibility and relevance in modern naval warfare. 
+
+- **Zelenskyy Seeks Extended Security Guarantees from Trump**: Ukrainian President Volodymyr Zelenskyy requested up to 50 years of security guarantees from US President Donald Trump during a recent meeting, aiming to strengthen Ukraine's defense amid ongoing conflict with Russia.
+
+## Regional Stories (directly from local news)
+
+### Africa / Middle East:
+- **[Work on flyover starts in front of Kabul governor house](https://pajhwok.com/2025/12/30/work-on-flyover-starts-in-front-of-kabul-governor-house/)**: Construction of a significant flyover project begins in Kabul, Afghanistan. (Pajhwok Afghan News, Afghanistan)
+- **[What President Tebboune Imposed on the Late Bouteflika](https://www.elkhabar.com/fr/nation/ce-que-le-president-tebboune-a-impose-au-defunt-bouteflika-261967)**: Algerian President Tebboune ensures housing benefits by revoking land privileges. (El Khabar, Algeria)
+- **[Murders down 30%](https://thenassauguardian.com/news/murders-down-30/article_86869b49-050a-4663-962b-4bdceb12819e.html)**: A significant decrease in murders highlights improvements in public safety in the Bahamas. (The Nassau Guardian, Bahamas)
+- **[Rejection of China's military escalation against Taiwan: world leaders called for "moderation"](https://www.thedailystar.net/news/bangladesh/news/khaleda-zia-no-more-4069081)**: Global leaders request China's moderation following escalative military exercises near Taiwan. (Infobae, Argentina)
+- **[Khaleda Zia no more](https://www.thedailystar.net/news/bangladesh/news/khaleda-zia-no-more-4069081)**: Bangladesh's first female prime minister, Khaleda Zia, passed away at 80. (The Daily Star, Bangladesh)
+- **[Restrictions on entry to the United States: Mali applies the principle of reciprocity](https://www.alwihdainfo.com/\u200bRestrictions-d-entree-aux-Etats-Unis-le-Mali-applique-le-principe-de-reciprocite_a147114.html)**: Mali announces reciprocal entry restrictions on U.S. citizens due to recent U.S. entry regulations. (Alwihda Info, Chad)
+- **[Elections 2025: Reactions to the Irregularities Observed on Voting Day](https://www.radiondekeluka.org/95044-elections-2025-des-reactions-a-propos-des-irregularites-constatees-le-jour-du-vote)**: The Central African Republic faces reactions over irregularities in the recent elections. (Radio Ndeke Luka, Central African Republic)
+- **[Flood raises concern as Congo records excessive deaths](https://www.congonow.com/army-personnel-deployed-to-assist-victims-of-extreme-floods/**): Flooding in the Democratic Republic of the Congo leads to multiple deaths and displacements. (Congo Now, Democratic Republic of Congo)
+- **[Senegal awaits its opponent for the Round of 16, between Burkina Faso and Sudan.](https://lesoleil.sn/actualites/sports/can-2025-le-senegal-attend-son-rival-des-huitiemes-entre-burkina-et-soudan/)**: Senegal advances in the Africa Cup of Nations, preparing to meet either Burkina Faso or Sudan. (Le Soleil, Senegal)
+- **[Israel to Revoke Licenses of Dozens of NGOs Aiding Palestinians in Gaza](https://www.haaretz.com/gaza/2025-12-30/ty-article-magazine/.premium/israel-to-revoke-licenses-of-dozens-of-ngos-aiding-palestinians-in-gaza/0000019b-70e8-d7b3-afff-7ae9c7800000)**: Israel plans to revoke licenses of NGOs aiding Palestinians, potentially affecting humanitarian efforts. (Haaretz, Israel)
+- **[Imports drive Iraq-Kuwait trade jump of 116%](https://shafaq.com/en/Economy/Imports-Drive-Iraq-Kuwait-Trade-Jump-of-116)**: Iraq's trade with Kuwait soared due to a surge in imports, reflecting increased domestic demand. (Shafaq News, Iraq)
+
+### Americas:
+- **[Prime Minister Confirms Retroactive Payments Underway for Public Sector Workers](https://antigua.news/2025/12/30/prime-minister-confirms-retroactive-payments-underway-for-public-sector-workers/)**: Antigua and Barbuda's government processes payments for public sector workers across various categories. (Antigua.news, Antigua and Barbuda)
+- **[Case Del Castillo: Prosecutor does not charge him, judge orders his release](https://eldeber.com.bo/santa-cruz/castillo-busca-quedar-libre-audiencia-accion-libertad_1767134074)**: Former Bolivian minister Eduardo Del Castillo released after charges are dropped, highlighting police misconduct. (El Deber, Bolivia)
+- **[Motorcycles seized in raids targeting Canadian fugitive Ryan Wedding valued at $40M US: FBI](https://www.cbc.ca/news/world/ryan-wedding-seized-motorcycles-40-million-fbi-9.7030706)**: FBI raids in Mexico uncover valuable assets tied to Canadian fugitive Ryan Wedding. (CBC News, Canada)
+- **[Ecuador's president pardons thousands](https://elpais.com/ecuador/president-pardons-thousands-imprisoned-for-minor-offenses/)**: In a humanitarian gesture, Ecuador's president pardons thousands jailed for minor offenses. (El País, Ecuador)
+- **[Fire reduces 28 houses to ashes in Verón, Punta Cana](https://almomento.net/incendio-reduce-a-cenizas-28-casas-en-veron-punta-cana/)**: A fire in Dominican Republic's Punta Cana devastated homes and businesses, prompting an investigation. (ALMOMENTO.NET, Dominican Republic)
+- **[Tragedy strikes Oaxaca: Kid's hero remembered](https://www.eluniversal.com.mx/estados/era-el-angel-de-su-hogar-despiden-a-la-pequena-elena-victima-del-descarrilamiento-del-tren-interoceanico-en-oaxaca/)**: Oaxaca mourns the death of a young girl in a tragic train derailment, raising safety concerns. (El Universal, Mexico)
+- **[Route 32 to four lanes](https://www.nacion.com/el-pais/ruta-32-a-cuatro-carriles-cuando-se-eliminaran-las/6BQIOB4V35H7TFOF43K3TWOZSU/story/)**: Costa Rica expands Route 32 to four lanes, but delays persist for full infrastructure improvements. (La Nación, Costa Rica)
+
+### Asia:
+- **[North Korea debuts new launcher for nuclear missiles aimed at South Korea](https://www.nknews.org/2025/12/north-korea-debuts-new-launcher-for-nuclear-missiles-aimed-at-south-korea/)**: North Korea unveils new missile launchers, escalating regional military tensions. (NK News, North Korea)
+- **[Xi calls for solidly advancing rural revitalization across the board](https://english.news.cn/20251230/d082c5a9679345c081d5667faa594a2f/c.html)**: China focuses on rural development, emphasizing agricultural modernization amid global challenges. (Xinhua News Agency, China)
+- **[Major Efforts to Restore Aceh After Flooding](https://nasional.kompas.com/read/2025/12/31/08164561/pekerjaan-pekerjaan-besar-untuk-pulihkan-aceh-usai-banjir?source=headline)**: Indonesia tackles flood recovery in Aceh with extended emergency response efforts. (Kompas, Indonesia)
+- **[India now fourth largest economy](https://www.thehindu.com/news/morning-digest-december-31-2025/article70454399.ece)**: India surpasses Japan, becoming the world's fourth largest economy with a GDP of $4.18 trillion. (The Hindu, India)
+- **[MH370 hunt restarts: Drones dive into aviation's deepest enigma](https://globalnation.inquirer.net/303690/mh370-hunt-restarts-drones-dive-into-aviations-deepest-enigma)**: The search for the missing Malaysia Airlines Flight MH370 resumes with new technology. (Philippine Daily Inquirer, Philippines)
+- **[South Korean actor Ahn Sung-ki hospitalized](https://www.yna.co.kr/view/AKR20251231034952004?section=society/all)**: Veteran actor Ahn Sung-ki is in critical condition following a cardiac arrest. (Yonhap News Agency, South Korea)
+- **[Sagaing Resistance Seizes Three Budalin Strongpoints](https://www.irrawaddy.com/news/war-against-the-junta/sagaing-resistance-seizes-three-budalin-strongpoints-as-junta-stages-vote.html)**: Myanmar sees intensified conflict as resistance forces capture strategic locations amid a controversial vote. (The Irrawaddy, Myanmar)
+- **[Actor Kim Ji-hoo Suicide Confirmed](https://koreatimes.co.kr/www/nation/2025/12/113_702725.html)**: South Korean actor Kim Ji-hoo's suicide due to depression highlights mental health crises in the entertainment industry. (The Korea Times, South Korea)
+
+### Europe:
+- **[Eurotunnel chaos ruins many New Year's Eve plans](https://www.krone.at/4001477)**: Eurotunnel service disruptions due to power issues impact travelers' New Year plans. (Kronen Zeitung, Austria)
+- **[Vladimir Putin constructing luxurious Crimea palace](https://www.panorama.com.al/foto-putini-nderton-pallatin-e-tij-te-ri-me-vlere-rreth-115-milione-euro-ne-krime-rezidenca-luksoze-perfshin-edhe-nje-spital/)**: Russian President Putin's new palace in Crimea raises questions about his motives. (Gazeta Panorama, Albania)
+- **[Thousands in Warsaw gather for journalist Melkazyorov's farewell](https://www.svaboda.org/a/33636495.html)**: A significant turnout honors Belarusian journalist Melkazyorov, who recently passed away. (Radio Svaboda, Belarus)
+- **[Eurostar and LeShuttle services cancelled](https://www.vrt.be/vrtnws/en/2025/12/30/eurostar-en-leshuttle-services-cancelled-due-to-issues-with-over/)**: Technical faults suspend Eurostar services, impacting travel between the UK and Europe. (VRT NWS, Belgium)
+- **[Tatiana Schlossberg, granddaughter of JFK, has died](https://www.delo.si/magazin/svet-so-ljudje/umrla-je-tatiana-schlossberg-vnukinja-johna-f-kennedyja)**: Tatiana Schlossberg passes away, remembered for her contributions to journalism and environmental advocacy. (Delo, Slovenia)
+
+### Oceania:
+- **[Former Australian Test great in induced coma](https://www.smh.com.au/sport/cricket/australian-cricket-great-damien-martyn-hospitalised-20251231-p5nqtq.html)**: Australian cricketer Damien Martyn is in critical condition due to meningitis. (The Sydney Morning Herald, Australia)
+- **[Another Firework Disaster at New Year Events](https://www.nzherald.co.nz/nz/f1-driver-liam-lawson-surprises-couple-after-marriage-proposal-at-highlands-motorsport-park/5STM3CBJQZHIPBW6DLGPCREGNE/)**: New Zealand records multiple injuries from fireworks during holiday celebrations. (NZ Herald, New Zealand)

@@ -1,0 +1,5 @@
+## HK IPO News Summary
+
+- HANS CNC (03200.HK) [closed up 18% to $113 at midday on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1501626/ipo-news/AAFN) on February 6, 2026, after opening at $106 and seeing its public offering [oversubscribed 445 times](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1501501/ipo-news/AAFN), with 10.01 million shares traded and $1.11 billion turnover.
+- MUYUAN (02714.HK) [closed up 4.7% to $40.84 at midday on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1501625/ipo-news/AAFN) on February 6, 2026, after opening flat at $39 and its public offering [subscribed by 5.88 times with a 100% 1-lot success rate](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1501505/ipo-news/AAFN), trading 25.55 million shares with $1.01 billion turnover.
+- DISTINCT HEALTH (02677.HK) [closed up 34.9% to $80.8 at midday on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1501624/ipo-news/AAFN) on February 6, 2026, after opening at $81, up 35.2% from the listing price of $59.9, with 1.81 million shares traded and $159.19 million turnover.

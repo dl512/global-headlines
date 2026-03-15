@@ -1,0 +1,4 @@
+## Semiconductor / AI Corporate News
+
+- Samsung [introduced the Victory Selfie feature](https://news.samsung.com/global/victory-selfie-an-iconic-podium-and-cultural-moment-enters-its-next-chapter-at-milano-cortina-2026), powered by the Galaxy Z Flip7 Olympic Edition, to capture team and athlete celebrations at Milano Cortina 2026, expanding the podium's role as a stage for self-expression.
+- Broadcom [reported that ING selected VMware Cloud Foundation 9.0](https://news.broadcom.com/releases/ing-selects-vmware-vcf-9-for-private-cloud-modernization) as its strategic platform for private cloud modernization, though no further details were disclosed.

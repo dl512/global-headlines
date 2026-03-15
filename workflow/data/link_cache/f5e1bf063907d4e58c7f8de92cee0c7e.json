@@ -1,0 +1,637 @@
+{
+  "website": "https://news.google.com/rss/search?q=Meituan+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqquntttnmyllweutqnkc0a2lpvmjnb3dfzutqymk4y09cevfhogpnv3h1uwy5s2zaodmxqthwejjts1rpqjg2t0hjwjnocgj6skhhogxovvjhlvjln2nozjnhwkcxvum2cetqaf9bvfpmsk1mqjfmmvneenjaowtoagvoy3zia0lrqkpbqxhyywfbykj3cditvlb5wu8?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxonxe2v2zurzlwmudvrhppuhfzeejoyu5ttvrxr1bmvv9xewvadliwqnhsn0dusk5gslbzamtlbljitg11wxo5bmc1y1vmlwvrdxfhthkwx1lvrv9oc2fnzhhmcvnmslyyeejyajzqbhpndxc0bzy1m0nbmw94wldhatnrandjdw?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxob05yvvu4btbzswvvb1nlzhztmufovwd4bgpnec05nvfzdufmzvrscml5zze2nwx2n0dmsvrhvgxmevflqnh2clatel8xu1pnb3zurui1b2r3s1nwn0g3qtzomghmcjhtcjvivnroswfpzl80yxnvnmpjrwnvbezwsmhkqunutudkzzbhc3vhbhbyql9yyu5lzfd4qte4d0sxzerzyjvplxpnculfdhaty3uwwq?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1yzzdevjhidgy2t2gywgpbslpzq3u3numtahnrbxvoteh3ajvpawnlbmu4r2q0u3dhz2jyu0n1v3plbgnynl9rc280mtqzrjb3njnemk1pugcwnlpwnguzwmntslhtbdlnutc1uwuyexvbuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte5ktxjqckz3bdzzeehrneoxr0pls2wtwm5uvxprb0jtnxptuvvavw8yzkq0skzvy3l0bke2ylz1vxdxdvppwmrczflkbe0yslvpqk40?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxna0m2ruzqyu15bdh1rlvvbgzzbnzhafiwtfvpqu1ydfdxse52dw5pm2c3n1jvawlju0tudxv4tuzzenluduzwsnc0b3dxegxotjvyze5kyvbqluswuulirzvfq09fdwvhbjnsn1jnc0tsmupxbetuahawzkm4adbjvxfmuflbbm1srvdlbzfytu51adrpywxuyxgzrha4ue9vowvitjbwcff4zfexqzz0s3l1ahcwzjyxeeu0mg5xuwlzshvbuljibk130ghkaufvx3lxte1ntjv0lxv2bgdxdutcedlhq3rwm0vltlbqtzz5nfrimxfauey4m3hncvgxsnnezu0xei01tg9rzejztzqylvj0vjmyakp5ruthwdddyxdrsetfdjrswxl1ywxhzlr0ou5cqm8tqkpfzepnwmm3yudlv2rka2c2mm9wnfzlb3j0mu1satq4x2pma2g2y1vvb2htnnq0cvzju1flog9brejwek1zcjv0qvbpzjrirxpxdgdmnzbhbmn5ajhzblbxskvysue?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxntghmxy04dekxm3pbbmq0wddpqvo2shgxtunxvgphamtqy3lctu9ovej3wjj2b2q1slf5vulqsng3tkvnekxece5ldfc3n1u0zwritw92clnhu0ppngxutwe3elj5vurtnhm1luj0rkg3z1pny0pmdv9jmlvgavnfmde5r0jsthdlcelv?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxpownxufbhdgu0qzlqv01jwvq5ajnpmgjmlw5ockzgnfr0egxydzetvvlqnfrubxpldnngq3v4uwdhlxnfem5kwmjpy2k3muozofliulq3z2d6uenrshrkodvfu09jb3vsuuk2wmzauwntylrlzllws082c3rbovzqvc15tvnitmk0see?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxowhj2q0xmajj5us1wuu9owc1mceh5nhdxtdjpytuxtnlwbuvtt3ows0znrv9ot0tndedqef9gs08zctlxundnbwnjd3j3dueyyxnhzgrxnte4ymo5ewgztmezs3fatgllvmjmvus0ahbprxlpblruckjku3ftwhn1mefbdwvbagzmvg55n3htvzhiuu4tbve?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpctrrbw00ddm0z19ry0jpvde3x3dknudjcefiaxnodffythq4ouptqm1wa3hvutl5udbkzvntcet5vutsovrtanluvmo4wkoxzujrlvdvmjriyzhwb0hyn0hsb2fut2pjudfqzflhmnbsvtmwzxdbstbvy2fxclftsznfafu?oc=5",
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxozkhwvezpbm9prlawmkxfa1o2v0pybwdurnbtd0p1du1ozu1iy09zbtk0m2t5utzueddeve5kmjywnffvvur0v0jazg9kcnlna2xhenoxnuzirte3n0pomnm4uxvlr214sfb3dkfxuzf1qnndcjhzd0zucnv4zhqzruzgadn1uky5rly3t3jcc0i5bwvqmuxasjvqqkxzq1zxyufrb0ztuvp2zwnzntd2ytvyzgldsfjlaffhazn4t1huqxcwzkxqc3fvm3kxnxvtm1i3b2tvsvm?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnmjdmsmvnzhdiy0iwetvcdlp0n1rqre9ralnswujhrwhkcvzlszhpztnadxjnmzduwee4ywuxbwozyktmmlhfrw83tdh5qkdoci1xazqwvuxaqtjeahvvsmiznellxzh2qkvcaefhqlbkngflr0dazg1gsfn4avbqykrgnmpuodlwd3bosxz1z19lvlq2s0yyuwvrowzkzw?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxoum9trfi0q0z2r2jit3bmz1g0rgvza2vkvdcymxryz185quxhsgm2d1vmq2damwdblu5mqwc5nc1atzq0ugzvqnzja2pcuvppz21huuq2uzfoyuxecgltrlbgoghlaxzpug5fs0dydzngcwnzwxnrz3dnz3a1tudqdwlsdfpvz3bmqlfcqux1mtrzs3vutkt0cjl0cxj5qv9mzkjunfbvdnnuwennoue2nkjn?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxpwg56vjfpvxbxa19ztxvtszlodnlzt0xzuzdobflusvnuem5halnrmwl6txo1afgxtunnaklkufpbq19hwwppbhkzawpxtwtsevi3dfp0tg9vn0xwnf9frzfjyk5dd0fcemxgn3lnae9ioxjdmkvtqm9xmze0ywq3blfsnlhwbewxqmf3vxrftmhqbzbqaevsbwrktzb2sljmdzjvbw?oc=5",
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxnm0qzq3bwq1hwdjnqnuh3blpwdwt6y2vvqjfzwjdrwm9ttg5lsw5dqjj6devlvufgvgm1mmtqd0rzavlxm2t0ujzrqtm2ofvfa0vpzxpgzvnpz3cwswr1bmzynnewbwzamfj2lwl3vuj0dwfvcxh1c1zxre5vd1nsbvzrs3bmewtswjlvakvzrv9wc2xlduhsmlhyawjrtmrsefz4cg1pdk9au0tommpcwjhjthm2bflycdqtavnpbmp3dgj3vkrvvnywthlhm0zzakjlav9ir2i?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqunhoegtkx005c1axymtpemu5beg2cwxpyjnoennqrudrrznvbjy3v2rmbfdpay0xshhss1lqakjzcwftbgvcagpaukhvne9idjqzdw1dvehbd2e5ahbcrxvoq1jwww9pdeh3c2f2uknvymdtavftx2lxnxvsss1gvnv1vmdxmw5tv01yc3huq1lsthm0bwpaew5mz1qzb1vithz3wwzhz2zgmfflr3zqu1zpr0dfwjn6awxdbgq0r3hpc2xu?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxptzljn0tmeghpuepgei1iutqwzxuwmhjsrffixzlgzf93ae9zc0hvn1hbq0hhmu1bvtaysxk2qjc3vnz4t0s0wnrtrvbxt1fvuulvuepqveppmi1iddd6bvzszwftmhzpwjduzmjptlzlzgtrzutxsfizn093alb6bdrmaxg5d19rmu90nzvxb1drxzricfltqlbgrg5xs2lqs2fbyxf4tlzdtw1ztnkwttdinta5nkhkt3bxexdzdvzzlwllv1g4deh5d3m3shzivxfsadibqvvfexfmufrwuunuymv6ythvtmgzrvjst3bmlwfgdnh2s3kytha1m3h0m29jn0tpu21cxzjzv0hfnkziskvmvjheyxdlrhnntmfovujnm1rqdwt5vdbfsvhlof9trlngwklvbe9qt085vk5iegtxbml6vg1ysxriylvndnjrd2gtthf4mti2n2ndee5ubwrncmlpvggxoho3vl9ultbhznh5q0hrs0tuymnjblpkyzrqutfmt0w1cvbus0nabglxovlowwt4dwzvqkt3rhlkek5n?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxnvjnrctbdc05endy1duhgvly1a0hzutnaa1zdt2fhutndmkhovjzeru1jz3qzanbmtgktxzfwbl9uaux3bnb2oulsq0nfr0o1x3hla0i2bvrpmflrswvqs1ppwl96udeyqm4yc3dowdjkb0r3uxbpwu9cyldvzhbguwp2mlpxt0j6cfz5afhzohntnnpkvve0qjjibjnib1j1dfpownhly3bkewzkb0gybe12v1q1amvyazbvzmxyczjwemfbdu04nxlvt0o?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpcmprdhruwulsykftls12skfmmmdnse0xcxbbskz2skfvtffhbmvfvu5dru1wclvsejbzr2nnn2dim0pzrve3bxpmow9jdjfkx1dnm3jfouw5exhvr1luegt5zvpgtfdwr1rxsu00umn0ynfpxy1utvbyzuf6czbfuzdpwm5wcklyy0vprgjr?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9anlphvvftsemztervu1zwa1neehpqzjfzsu12awntx0jjehltunb3burmbzvzcdbpwghpbk1uwjfyzwpslwtiqu1mtwdvvvktmez4q010nudyt1z5b052vfjlt0vqwnz6ehr1t2hbahjsqq?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxodwkyy2n6nfdxzfnwwus1nuvtnm03zv82njv3cwdzmk16ek51efy2mhbzndr1stm3uxvwt3aynvjca3ldrgz1yupmawhxykxsa21vd1dxs1vrym12ogp6ak1ydkdjyk5wqvflywh2de84s0dbnwdungdsmm4wqkrpa3jprmwwnwswzdbvvdblqwx0we9zcgfpz0xlcfc1q0pnnmhpcv9ovedezwnzqmpwegk3slflmfzt?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqwvftatb1uuhqr0e2qufvbw5na3yyv1jcnnzov3dzvznjb0fkodl3vnpivzb6dnvyuufhcwpsogz1cwj2z0nry2oyafdpsuffr3vmzwwtotltt0tra1dkuenvek5rqko5xzvxtdntwwdkddcxakfir2xdys1bnelma3cxnwfiazg4mks1njvfcth5enplvnc?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnykdymvnqvupewdzovjv6sv9ksjftzl95tkvemhvmshhleezpbtzvaeryzfplrxdivujfuwq4m2x0ekjdcdlenln2zjbqq045zhdkmuximvo3v3o0s19mmxlwwg9tx0fqanh5oxrmwvzcd204dkvkx0tungzkdxpjrjluddvnzm45djzfvutlthvsrs1lwe9zdhdutddurlhxrkzfnhfitvbedw?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnaxpmaxdyrnk0d2o0zl9ydvhsbw9oaxznlvjfm1bvveteujhqcvjhby1jempwz2xhmgr6bjbtekhkvdrtwfnyblbsow1mcghpcwjpdlnqqnhty1nunlvuzktvexatmg5xr0eydkxkctj1q2mwukryreliqm5tyxpyr0u1wf94vhn0rmpdzehquxfiathjrzb0dgtvejrknvo0odrtvjy2s1bevel2?oc=5",
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte9vogm3nhfoumlpvwi0n015t1i4avbrm3vdb0jsu2eyamrsa2ztu1m1blfpa3jldfk2uvq0rkxmou1xytaya1pots1vltm2n3hyuxl4uee4nw1bz9ibwkfvx3lxte9vogm3nhfoumlpvwi0n015t1i4avbrm3vdb0jsu2eyamrsa2ztu1m1blfpa3jldfk2uvq0rkxmou1xytaya1pots1vltm2n3hyuxl4uee4nw1bzw?oc=5",
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte0ynnfloet4mwmynflmwlzkaw8zz29mauiyoultmutrlwtyogzkzvj4tgy2tvfxmhptcelfqxi5cc05nda2dwyweejizhoxzlznwtvkqm95bfk1wllzdvffq0nsqtlkmljiyjhn?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqrmtznuuyc1y1medcegr4dg9jz1cwu05bvmltnffmam53ywtvnwitd3zvsdlndgfoeuv1ow85mdfqzxd3nlvpbmlxcwt5r2lpb0jtqv80emhslxveslj0dknbc3n5cevgdkrur3oznfpqr3m4emruuffzludxzmvfcjrlnks?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbnrm9udmu1texdn2jxm19vwmm3wenpuuv1ykjbrgxjdxfqzms4vm5fbwxhbk1qm0pra0tuee5kuvfiumlwa2vmqmjns1naexuxdgdxd01hbtvbr2nylw44wervumhvaklvyxffatbcm0pfrmc?oc=5",
+    "https://news.google.com/rss/articles/cbmivgjbvv95cuxqwlrqzdretenryndwm3nhd215qmzrdm1prl90ownqthpizddrourusjvyzutttmj3yjzvcextsklfn0zuzwxmddjrzvncywruv2vydwhmv0vfmllnbxbcwvh3rwtxaunfbuq2yw1huwc3bgu2c2hznulxoghlltfhvgzxs0sxody2axo1rufjdevitgnuwe9tsmfubxnns2zqeko3zw5au0s0tljtq3fkc0qzdupkmgptwwpwazhkq2ptyl9segtgak51bgdfneyxzepuzwwxc3zpa3jhx1n6thv2os1vzlhabnrozfhrm2qxbgvyczc1ztnlwu9zsfq3mnvbdzvycge0v2r0tfy0zvzvu2ndau1yb2dfzvm5zuzpz2zizdhmmju0yv82ujjpbdu5nuxyowk5tgdyd1e?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxpbmx3rvzonjj1tjvgyvhzzed2swfwczdpvuhxmzf3uxkwstz6uw1btzywnxzxtvzqyxnatg5ylvrjamzatlzxmvbnrhbtc2c3zknrt1i3tdn2m0lonjheognhagfrzk14cdhvv2vynvb4v3d5quzadkk4nwrqnfrztdbzv09itwlvcjjnvw5oelbaaup6lvlfbkroq190q2h0vddfvfzsc2vmqmrsodf1ywlcwxm?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxpwe12qlhwwgtfmkvyt0t6tzm4nedhmuuyahu2mwzvcdhcovlvbvvtsxfpvkfxddyxv29ucmrkqmfgbfbswxbrrdmywxgxdw03atryumfcohn1vjm0nehamnvjm0zsou5znurbv3z2lwlav0q4egjfd0tqd3bhtdnpm2plcnhgs0s3nc04rzg1ejvxvnrxmufny1b0mnvjrdj1b3r1d1flvfbpzuv6mzrcam9pdec3vnnanmdlx05owhnomdbra3qxv1ffckhsacwbqvvfexfmtlnkx2hqejv0oxbkt09un1dtn0myakpatnn0qjbseen5zmfqdhlrnhc4oe1wqwl6exdfsnr6r2vrumpxv2yzqkvjoufhevvoavpgvfo0regwv3b4ofhjulnolvzxmmdonw1xeu51m0jnmznqn2lyntv1tu91dlztouhjre5uu1ozv1nflvblbuluwxhawhu0vkz1wktrs2t1muxkaghycvc5c3g2s3f2vfnza2nmrndqamhvsetpdzzzsmzqotlvedg2vwvw?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqmudarzc3z1zdzm5ichnpsnppzdbfehjxumfeowfkzmrcbfk5bhcyu2fqalzisurvrtnwejrhmuq5nhc2ujlfrda2mv9fnkl0qla1ztlseezat1pztk90qtrxzjlmngpsq3uxovfmd3dxehv6qy1zzndpselbaem4nvjhwdvals1qnzfgwxyxdmn0wvdr?oc=5",
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte1kdzl6cu5dt0rwsgozqkvubtbcd0oydunqm3rzelbuy0pzbdv1zxi2v2tzekk4vs1fqmtecv9ncnnhrmxosguxwdjouxhunljor25aeg01v1juc3zsz1lswxffmf96eulqqxzzuki1x3buxzbvswxlsnltwxpqzw?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxowwnvvghkrmxfr1bwd2q1z1fkzvvsmdbxbedjx3zdamrsbnz2nehvak43ukswtlv4njvrauhdd3rhdfhab3bwyxlmqtfnr3lrmle2neperfjfc3j2exjsskxfyuzjauc2u1loqnjowfoyofdmvfzuv3bfqvfkykfltlm0r3lys1lvs2y0umjunkptytnabus5x2nrdwraqth4ym1om001z1itqunrdmldcg1zz0rjzjnsc0lvddkzmvc4nnvyd3v2zmxawwn1y19nrmixvhrksq?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte43aflpeu5genjirdfpexnkvg9mbwc2nwp3chljq3ayrwvheutlrzjlvdfnrg4zzultzg1sbe05mwprvuvmmmzyy180as1jbtvwc3lzoenhmnhrx25uluw0nhrqrv8zt29logq5a3duna?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqcldnx2czynl0u1lxx1bvehfqrezxrtzlofqtukzcvv91yvlpegxmufiylvhwdwjinwlgvnjevjfabkhksedectdlq3pzm2hcbnbhsu1pbv9qruvhdgg2v1dpcw5lthhmbmfhtkpzegf2exrdnmdidtzeofpmu1npvtjhevvyulnpzwlbws1xmluwsvhwm1g4amzqcdlsmgdprkvldlzwtdibrafbvv95cuxpaxfuafrutwhfbdzqyw1xsgftbuvzd2vvcetxmud3q0dyzwnfu0kzn18zsxblni1uqm5isk5oakc3ufn5d1vmotbmzi04cwhoovbnuhpxuezottniq2xovwrsbmzfsfawylk0tgc3cjzjd1jteth3v2zlouhfbgrtsdy5rkdqufjpzdljovzpuvutmvmtsezvx2rgsflvauxtafptmk55ylnvnjjf?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnaknmqmr3ec1mmdbibg4zckf4qwtvqju3xzdeuzg3ckx2ngtjbgjqmzvntuded1rwrux2vdrjcxvfcjb1y0lmvhh2n3m1qvm0zulemlhpefpqmg5tawfiwjbkvws3vtlrbgnkx09zsk9mqk01wxhvb0lurnpfvdnfrw9qdxrtt0g0ce9mzjq1c0dkdlvbvw1raw?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfawcxhhd1rknc15sxh1duhzx1k0s19hwnbobk5hz3jjtesytwtccfjzofnfukqzv2tdmte0rxhjsg5vntfpohvvbhfwlxqxunj4uv9ltfm1sunhbw9kt09vdvhnaxnouutaum5ydnaweu9ydvlhcfv2mxhjqzhawke?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxocvvrtfvkofddmhpoxzllqwpontdpdvvva2hyn3rrdes0rkzrtunkbjc2vugwn2hmdgf3ehhwdkffawzcmtzhblrquhnuefdhzkxvvjlkq2tkavi2vdfhodjxskvsr2xyc3fkzu5stxh4c3k0z0xnrhbjsnlpmu83yzdmovzvlxf1r3nrnllkcvhonjzxenlpn3lprelnwnzxtw11uhjxma?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte8xzffdv2fas2j4blnqqxrztel6c2luafoycunmuvffu0rgd0hhquxswgs4c29ztnj5n2h3awdkytjjeup6ekgxsldpr21zvhjnam15axhwchbjlxhivwhku3v6b25vqjvnzva1awtecw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpbuferfa0ytk4u2xhslnxcdruqkzwcjhmcfvvq2vqce9crgf1snpebumzylbfsfbyog9ay0zlrejuzw9duwhnmfy3zm1sykndogt2m19ebnr6budud0hjqu00ekfwrxpbmnhinxplcfbzv2nqulflsvryqlraczjla0jjmly?oc=5",
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte5wnurlajnfa1bmv0xfuetsqnrddzdlzwpjtw5jmmdjohpbuzzuagpzagjnlvayc1rwvxpmcvdgcww5wkteq0n5ofewb1zddw?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxosjbvymlhcu9mlw91ml9qteduoffezxlknnfhyznjwlhmafjjq0xjzku5ckf4unpwnlruyk1yqjjdmflevmx0ouzlu1rfufo0wnpqdw1hme9sr0ytcnbtnxficdvmzhpbduzrwlhrme01wetjtvz6mefhuzrkdfpkq3ezcxgxwudiehb6q2dbu0zfc1dxshvmbtvsv1jetu02zlnftxl3?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqr29sz2l2avbxlw9yz29elu1kovuws3i4adjyagrltgtxrtbntelqa0twrf9rngntu1k0c1vfegxbr2zgvzblvgrxaed6ulljys1mdkzqdgfbmflhunduztlsytlpemcyvmndx0zywdc4ouxqcnvmqnpla2h5ynnkx3dfnzrnwghuewpuzeddrw05eux3wgc?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte1havlyaepzc1jace1tdjlvbmv3bkrnzznpmwjnb0yyy0swstrwcnvwdu0wlujfqzdyc095wlnltddxnuxvugt4ddnqbng4vtdrnehluxnnbuu3rutkmwzztgnub3nonejuedf3r1jnyw?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxolviyq09tszzjblhkqxv1v3dnmejsqw4wq0kwulrjvhoynkr0vfnprmpxzjnau1llofdiz29yx1z4vtvmdwnrdupnoupudfzlblppotbxwi1lyxduwdhttfrvuhhatghzs1vgqwluotlsnkj3c0pynwncu3r1vu9nq2u1azu2lw82bnl5r1nlyjffvk9urmzxbki5uld5wnc5umvjs08xb3jdate1mkqtngjkejffum1gcud0mhl0tu9qvtllukvwmudoujj2whnyvmjuvhnr0ghbaufvx3lxtfbuv0xhyxo1sutnnwhynmqwx0g5tgdcy2nlnxjoduvcnxczmm5uukhpsjrjv29smlrpyknqruxqt1jtutjdvutruxpjdxf0t3fltfg5ogrhmzlnrktoogv2uuxxzudhbexvburydzvisglaszlqdm9ia2xmyjjswwtxbudydjlzrwgwunfwofztvmxxr21wetzxduvxwxftatvrvwlswdbzwgu3atlotkyxcxfobmdqcf9ocvetu0tmy19qv0tqy2y2owtktkpjqwtybwvjdfntsk9isq?oc=5",
+    "https://news.google.com/rss/articles/cbmi4ajbvv95cuxoexnbqtnqewhzz3vcvdzlnwdnnhrmrfbpsfz3swjvmhvgqmq4vejrymotq3npmhvyqvuxyuw3uwvmafpaszg3rgnimuzzmknxyvjaqwpnu3e4awv6d2hmuur2duc3wdgzb0n2anr4mu1qoedwa2xeyxznakxhdwdir0i5vupmshdqz19hc1pvywfmvw5lvdu0qzznu3hwn0rltnjiaulybexwudk4dhc5qzflswwtdgznbe5ozhnivgf0auw1ykdoemtra3hvennvb05cz0hstm05c1lztlbla3bhqwrpmfzybnbivxbxnudstxnovgjjb3lwwgfwa29ymm5zn05lu21ptjy2dhvqdmh2ekf3cw9ibk84ouphqnjjedhtugvvtfvtahnjdjvru0tgmwrvumhqskvkvfnmtlq0nxn0n3dvr3brvjdea2f5dkdmsze0a3jhvegwbvzr?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqctl4ludvofvnannqlvnttmhsq1hztnlavmg4szvlvnfrrl9dchdyeuliugvosnnyzdjledjxcfdmdnbmqvb1mxrumeppwxlusfdtrhnatg1oog5kc24zbu9tzjjidxhgunznnxhfcfdka1bly2psstfzslczegpiegk0ak9mogpjvzfct1zsexftuexoa0voemhfwurucu9icmc?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1jvgkwt19enndodldpsujjlwt6wjrraezzqwdny3vwbxrbddj6x3phrdb6bzvkthb0dm1sexo1teeychutmvq3sml2dzryexv4zfbzlw96enfvm3rod1razk1fehlyslrlcexqtxp2bjy?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxod3jzbtdlcg1wuvpncuwwy2z0tthrqjv4szbjbzrwoeg4ltf3x3m2zwvkbnjqtkdwsllgwmhiuehwdkitn1b4uu1kswlqd2pmneqzdtjyumvkewpvqkc5rmnld0qxc1bnev94n05fsg1jz1vwmhd2x0xmdhg5ngxtytrdbmndvfuxddffegxudwhvtwcyn2j5m0tndlrunw94axgzugfvakrywm4wb1mtvgn1anppczzjndlfb3fazmnlavppsxz1zdqtvs0yulnlrm1pyq?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqzue5b2hpdlhhb21puhpxczbcr3jouw54u05rem1kmwvyq0znlunhufpqne9pqxowsnpya01od3e1rza2ngresfzov2dvmutav3rjvuf4mu4wmuh2dw1heehkoe5vmfo2zmz4mghsmhoznnuwqw9frmpgclvhwjqztw13?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnz0wtejjuyzzlwlkybnncr1bfytd5nukxbu5rwey5n1bnsepsyvftmtnsnln0bu5xsvrsn0j3rgrurk5katiynfq1tfqxsxbrvwhhv1fxcvphbtjiz1atzl9jcmdornq5ymzdwv9szw5hejjimeu1lxdxafdia2hxrdi5v0i4vvvklxnmttj5bmkwv1jqoxiywhy5zlhozkrmofe1ymhmt1jxrefmwdzptkq5dnk5zxm?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnaf9wu1nnshnvmkznn1rbqvbxnlyzxzvubgvsdfvrwnhtlwtjq0wyltzfyxpfzfzsb0jhewxunxzos2vzvhfmtk4xm2tzmnlsmwhttmhwykvob2z1x2jxalp5djnzrgprzutlue1nuzv2vlliqlnsskxfcetmc0fiunbuofvhb29qtvpoqxblajrkwnfzzgo4qjatvzjudu5qu3n3y2szbkdwzzdkefhfuf9jyuvrwhrwaerma2cznzc?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9hc2hleunwv056s2pwwlnpderlbejpuefhvwjitmyzalpzcw1fbm90mfndmnpjqufis3vna3zptkixqkvrberhbndfu0dycesxmvj1uhmxa3hiukdtn0xpdfbgwnryskputgdwcdj1yw?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqehbfahg3q1pwchhqdy1petltvwdkoevzvmd6wxlqwuzhvvjkdwczlvnlqlptv1dqedhbnmhhyxhyvhrotewzcmpozvf0zu91mdhvnmzpd1vieudhy2pocedxbw9ezzvuau5nzkp5yjdwmvbxzehremwtutvwc09eszrkuq?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqu3zxt0iymtltdwgyzuxncjlmmmytuufgtmzsbjl0edznx3oywxlqzg8wylfuwi1ibwp5z0xmewfawudlsvbrnwtwvxvwrw9dckdqchk5rw9ree12lw9bdgf3dexvdem5ndbecnrjnmh0s1uyahzxzgzqmkkyddjsvjr5tjhjx2llcdnwvuxdwepwujy2?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxquwzttmjhvjjsa2rmthlyagtpuc16clzzy3c4qkj1szbotxc1sdlbvvg5dlp0v0lerxczzuhovhlzc0xnodkxrw05a19vddvtdw5sovcxq28zbk1xzjzolv9nbw51cwh3v3forlnom3fvbnlrlu5rsgnbc1qzn2xwemjzwwtka3d2cvhtzjztq2fhyxm1be96dtzjvmq?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxprg1umzdmnfhhs0deanvpmnu2d0vkmmy1cklftmhqvtzqbutdbtjhmhj4wfzlx3rkr2lxuwnbqmzfmxjbnvk0r2f3cg9vdmnirunsnxq4bgnksthmwgfexzhocl9nteiyc0dkefdnnzlwtxztzmnxs21one5sme1tyxhjnkxps0ett1e?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxquxjwcdj4dtj1z2rjy0lsugg5y3dawtfiswzstmnksknrzuhzb202qni2s25qlwpmshbattvhagnbz3n4mhcwegpzeupmwi0xvwnzuu5vynrrntatdvzmml82u0preknpodbvy3drewzuseqxslzfs25hrnflvhvftvdxogpcu3llefftalnvsznqtffhsfvfbg1pdxjzuwitctzxbl9cmugtwe0?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte5wcwrkdlbgvw83zgxqnvyxdufqdkpjn0g3tutwqwzfswhqwmd0uvvvrmriukrkae0zqxy0yzbyoez4sexfmudpcxhlsmzbuvbzofbvmjhydfvtmc1is21hrelqck5isfy1vw5oqmt1uf8?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpv0d4tji1ou1ymuzydlpros1ftwpquepdzllhdwx0vlrmamj0rgnxtdqtctrfueu3axdtcedux3ctyvi3ag9ss1owdvrtaeh4lwxouedmexb4sfzyzktzzuphbldtzktmcud0eulpvxlwnjjytvnhru9ysvzjzzm0x3hsbejwvfhuqlb6eupxm2xumdftx25ht3n5stbmvvpqyvnkslh5rgzzqupntgtkltvsctf1qkdhdk5xd2nena?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxomjfqzflstejprzh3vfjcnlnoulhvou1jzmxjwfvsnddkwnfvtnfibezfywk4wgjpx0i5mhhcthzya2lqmgtuqkvhnzhbx3vsdevrzxnsytcysgfma0dytgncwfbfbwhsnnhamjvka0k5c0h1ntlflvu1r29gcddwwe16wgh3mey0tll2u0vwcmf0zfg4burgandfcufudw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxouum3thbnrnfmegrtte1mq1phu0nxy3dvnjjkdva5nfvrtxdprfb5x3p3tgz5uxcxwhbkv2hevehkunviatf1q3o3wxqwv2o3ce1xvuxtam1bvznfv08yqlaxwgvjahdtaxzqcljendd6wfvdahnsdkfmtfgwtnj0mgnzaxm?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqs2fydwvfewg1zvjzvkhunc1munf2ota0wkxqm2jpzm94ekvlymhvdnhtwnpqagdavhi1uun0d3gtsfrsn180eujyuzvnejr3mm5qotbirznjzvo2nenquvfmdfpwlxresmk4ww54v1nnckw4rfm4mg4zdtlnwvpwr2zmzflpqtnzdxc?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1kehc5q1disndqskowaxnnwm1gsdbynkx0tlvkuza2tw5nos01clp4bm01wuuxvjblnmrjs2lsa1fjtmezaku5c18wr1m0wkd1emw3z180tec2d284dzrzwk83qkl6b0o3rkhzvxnhluz4b1jswlo3s25gyta4n2s?oc=5",
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxpuk9kt2xoznblvhjky0r0zvvnynbfbu4ynfvtes0yx0jbndhioxvyyuzpnezkwxqwmgtlnnj4zzb4wvppavzszzfkcjjqvjhcyktloufctdnlukitzuj4m1p4ruhmwkvuowxxtg1ecdbjazl2wjdmx0poz0xjr3hwbxzbsnhzm3jpv1nnlwhex2lntfhycexiq2u4wvjuegnkbkfqem9knmtdtxz5etfioujfxzhlnhjrbwo3q2htohzyse55nvdlrw8tz0w4v3fxmxjlrevfrxfizw?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxprkpwz3y1sg5bewqtverwuevybtc2bxo2mdbnc1bfvw5kunbpmzu3oezzqux5udryudlinghgtznftkc4dwe2azzrde9unvpkbfvfy1o4nurkn2h6ofhoszznu0vfvddlzkjnqwd4nke2ry13dtmttkxoz0j3sxaweu11zllwszbeou9jblbry3xsazybqvvfexfmug9vsuvrdngtcxe4qmzxnlvfs1zruwvlddhneljss0qyuefurepbujzkd2xmwgvcbu5qzuotm05oykhvtmhvec01yne2dnl3bev6n2hmwnf0skflvkniatcxwla2wvo4ekryv3van3roughkqkrzbdmzzdv3n24xc1bfbwd0ogfpmmzsbee1ckf1cxzyzurb?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpddniqlngmnvfmmfpowlramqtudf4cuwtuzniq3vwntvoruroszzftlpragctblprsfiyyuxymmhfavvuze42v1rgvvctdnzsauznenzlduvjuhvczetkngfwenazckxlmve5akhvdfa1rmnlv09wn0tgb2hmqvzhwxhnvwxyqmjvzi02q1q4rwpxbgrgnee?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpqm9hzjbtt201q1lznlvlu1kyqzjnmgtidvv0lufpajhlc05uaehrzfdsbnbizjhvqzhesgk4mfdusnrsdjhmmfzyrmzwnnzqtmt0d0j1s1ntql9qse1jwenhehc1mkdoaelvevhfv1fvtdlhaxlxcuzlc20xre85axprvju?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxqqu02aw1ltf9ax3nkugdzdw9itkotehnomxbrrw5fswhmbxn6dy1ramj6ythxovvwufdymfc2lxfjodrtzk5oztbsm2rhdhbiylpsala2y2u2uhnzbudwbe5ic0h6m25xsnu1wxuwcejpdulnmkpjexljetfcu3bms3q2bdq2vfvrd0tvwgrsvvfjavzqdmjywudlcw1saxhft3rlv3bxmvjndw?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxnegj3r0xpyun6qkrwbdhwahatrhhwmem4ymzpvhraqktza1zkshn4n1lybmyyek0yv2pcmnbadfviedn5awzlzwliumjkzfzkv0n1nm0wwdjiennvr3buse1sy0n6ufhise1fwwneudhlls1bsgxxquu4dvpfylg2vjfvmnk0lthtttqyzefpazuxtv9uyvrrsthnc3vgmc1pnuuxz1nn?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnbmxarjlivldvq1hsrfvssw1gdetwtf85c3uxz0i2tnhurdh4rxjybxnrnxhvaxzlmjnyx0z4x0v5sxdqu1flnkdhs3h6ww4wv2tfdi1hrxlpzmdtujmyuni1y0xwymv5rjn2vtdtmknpttq0bdjqqlvjbfc4rghuamtqltfnalk3qu53zmdwvzztzw?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwjbvv95cuxocxmyqzlgdu1pchata1v1uvlby1ktvw1vujnkmllyqnh1tvledf9uqmdom2xpbhftbzzivxlfyi1jsmdrznl4slnjtffyvnplq0wwcvdpndk3nupft01pzfj2c3q1tfffqvjsdhzyotbxwejmt2u4ai1arzflrezysk9izm9iukfmutrdyljpovbhnemws0q2vee3nlozr2flz0plae1zuvlawuwwaw1isdhjvnc1mhlrx0j5qmy2ms1omlo0vnzvu2pwnlvpd0wtsgnrtffym0jpx2fyexzvnthwwmfqd19sdfdathndafpor1r0oexms3ltnm1mu3hxuulqsvm1wfrzou0?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnmzrcmy0xahixdkstmhhzmgfix2rysefosdlmbk5twuuxtjbvulnrsxqxwkrertbftlixnthsmhfgc0nwqnj6wjbuaglabflvz2xlugvtyndmtg8tswzzx3k1exytmjb4zhzwmjk4ennzsxv5eunorxg4q3lfyxq1u1g3y0d3qjfmn0xatmpicvlwrglammvzckxtq0eyavhpbkl2r0j5afqxogo5v29fz1d2tkxtdgs?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte81rm5vmkdgz0try0zzsxvqbjrwauqyngzhcwr5vxrjzhhnsvzpcfnwskdushvzn3ktuxk0stdltdgxchzwcnbhb0fnlvptdm9rc3bhse5few9hcwvmdzlosdhhsvhbyuhumxm5snzbbthgufrbmk9oudnr?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqszl6rdbtwlh2rv9ote91turpeks3b3kwchldz2lzwkn0x1jhze9zakfuckfkqwnkmjdwwedrus1vdursdujktvvpdjvszhdzym1hvurzevc0mwrsq3leztdvauz0ekc5d2rmcwk3blnkn01otl9vunq3v3pbwmrlvnl3thcwwwpqthbj?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqv0t0wevqmffzy1a0ttbfyvf1rmnjm0lhsm9icmrowettnvhxvxmtzxq3bdbssgpbb054cvlymzdqzuownkcwc3jovlfmmhfznjj4ztv3lu5yn19szjy3c1dbnktzzmzrbk15x1btoglmwjjmv3y3mdvhte1eovvmu2xlwk12nkxfru9jafp4tzjaqw9tqurcn05qvdctuji3whhv?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxoyugtuxvws2w4cgs5zmltouvjzm9ynlpku2xitgkysvvwevpxnwnhagm1c19mbtvkclh3aepnmuvxnjdxqvyzulbhd3rfqxpnc0zbyvjma3fxvhpoltgwahv3vxndeho2bmffm3nxqnryq2jazmfuzmcxrwfccnjlrzfstwravw9irkrtr0uyc0dezf8ywnc?oc=5",
+    "https://news.google.com/rss/articles/cbmixwfbvv95cuxqylz2qwtrr0nuou1dr1hqohbgwgizbktwz1peug5znkfyti1toue0a29du3npltdpzlpecwdorufzrufpc0rvrdnlyuddcvf2wtfwv0nma1hxwtvmq3frdmdcwhblt2lbajj5tme4szrndjvzqw8wvdrmwhjbs2jrvjntuu5lugs3zejomnbkve0ydxhqwnvmrujxzwppz1g0tw9saxnysxjdznfyte92se5uqvhvn1y1cjv5regzrfvezmdushdz0ghhaufvx3lxtfbivnzba1fhq1q5tunhwfa4cezyyjnus1znwkrqblk2qvholw05qtrrb0ntc08tn09mwkrxz05fqxnfqwlzrfvem0thr0nxuxzzmvzxq2zrwfdznuxdcwt2z0jycgvpaufqmnloythlne12nxnbbzbungzyckflymtwm21rtktqazdkqk4ycgruttj1egpaduxfqnflamlnwdrnb1jpc1hjcknmcxjmt3zitm5bwg83vjvynxlesdnevurmz25id1k?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxptwhjnkwtsxvzvgzfuzjrmxhzwm90nnzjavpsvuhzuvpny1z3a0k0ylvnqm9puja1nez0s1pkm3k2smiyaldit0dvbkhgwflxbhhwt0ewss1snk5euedkovfcnna1wnrzv0pqtfbyq3hnluhnn001vnlmc0tjtnjrbgziemcyulzdofktt2rvzucwsdi3ltbjrfdoy19uyvham0hxalnqb3jct3dlam5bc0nzdtjxngfmtk1swhfuujbtb1hv?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxowmkxlwhpdgfunvhtykvirextwedpngnvetv1odzzrji5qknrsjnhuexingpoqjy0wjrznhdydetrskdptje5zjhoz3fzbmhxx1nctgk2d0ljagflcxllqln6tjhrcwzibudqd01kqkzjvly2s3r2x1dqndjtb3m3ruzizxa5wtzvb0lrnxj4ltdhmtnunc1nexgwtlbux1zceupcbddunupuaezjqzdzd3pjwq?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbnovlwt1dbzlhyt3i4vlnvzgxwtmvgmkxqzjj6v3jmdexksnfnexfvnw1tzko0tfntt29qzzzvyljnmdlyrkwxefdkskpsekhbsl9femnxngxqqtbjm0d4rvpywhhmadjoqmditmrwdkvsqwm?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1uuzbjthfprehowgddd2fsdelwbmttltjkvufnsmjwswppzvdyb213cxjxynoxudbcm0vwwleyeep3swxuwwl5wxhkrejswlzuq1nz?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxoa2ludhhsmjles0ctmthcrkw2dhpeaxfwsmzmrvvfti1ltg44rzlfnujwqnhzudffvkzrruzivnq3oerrsgc2em9bqtnznmvgv1ppstzcdte4nfm5auluy3fvseozulfqzle1emlgaxjtrhbfu2e5m2vzugxvtlbquefwtel2n2xqufhhzuzrmg8xzwxhcg43vfb3?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte5msnvhbwh6dulmr1h1vutquljpskz4utdeugzxq2plru1sqzz3weiydmj1shdxsmlmvndum2hqdzjvaghjr0gzcza1vmvmav9jaui1u2zoclhqzjlrmtqwv0y0zgnkef9obhjma1visq?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqrxniqjbjwmyzymrurddpy0hiwk9zm003djc4odnzzljobtfuwtnftv8wbzvwwtfrwdytwfjdahz3ei1ssulpm20ztzzrb1fjsfpsr2tfnzjnn2h3m2hmow1jzwrumxdtbxfxehlju3hauwlowwzrtgmzbzzim0q2mvnfuwxjb3fjtki3cvpqvhfeoddld01psez4mdq4mfdkdthdzuhod25kqwc?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpznbgd0xxqwctd0zsyw02c0niavntoglnbnl6afz0vhpqsdftt1vdnndjtwvyyjbhzuduufdsyujsqwu0relpov85dgp3sgfxejrcctforgvlmeffznlqbkezndc1bugwsnjbt2i4dxf6v2rwa3rlzfdnog1wstbudxzgc2nkblzyawn1yvlsrtrmagzxmkpzm0c1ade2cdjsnmxeug02zju2uq?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqexvnr3b4zmqxeefjmdlovwzxuhbfwulvuep6vgrhovj0nuhtnkfucgrprkk3dvjudwvtqwfszmdrajfsegdjql9svvcxy0lfcf9ssdr0uwpsem0zynzvejbuq3kyn0zox21jqmg3uvdjodbjtf92m05rb2pfb2tns0jamupotldwb1pz?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxodkn1mxfus0v0n3p1avjizhd2azmzbxpav1yxbwrvytjid1rsstrsumdxsem5dudjbhyyvndnm0nkzko3c1m4vg1ymznfctdfafvpzddqvvbdmjnjc0xluvnfrtblsnb3avrlywpzugi5dflwvvfntfztnk04q2rpr1lkcjy?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxtfb3tfv6t2zdtvd2rjqxcxq3m1vwsum4ujlpnzrhaljzzw5yuzd1tuc5aerbd0iwuvrqugvusmrmes1dddvzqlvvewttt3jjufn0u3y1rmn4vlcxuel5qufttw9ntm1mqlbrvmdtngzzvq?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqquntttnmyllweutqnkc0a2lpvmjnb3dfzutqymk4y09cevfhogpnv3h1uwy5s2zaodmxqthwejjts1rpqjg2t0hjwjnocgj6skhhogxovvjhlvjln2nozjnhwkcxvum2cetqaf9bvfpmsk1mqjfmmvneenjaowtoagvoy3zia0lrqkpbqxhyywfbykj3cditvlb5wu8?oc=5": {
+      "headline": "Dingdong to sell China business to Meituan for $717 million - Inside Retail Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:23:52.293726",
+      "last_seen": "2026-02-09T21:23:52.293738"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxonxe2v2zurzlwmudvrhppuhfzeejoyu5ttvrxr1bmvv9xewvadliwqnhsn0dusk5gslbzamtlbljitg11wxo5bmc1y1vmlwvrdxfhthkwx1lvrv9oc2fnzhhmcvnmslyyeejyajzqbhpndxc0bzy1m0nbmw94wldhatnrandjdw?oc=5": {
+      "headline": "Dingdong founder explains the sale to Meituan - Momentum Works",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:23:55.430738",
+      "last_seen": "2026-02-09T21:23:55.430751"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxob05yvvu4btbzswvvb1nlzhztmufovwd4bgpnec05nvfzdufmzvrscml5zze2nwx2n0dmsvrhvgxmevflqnh2clatel8xu1pnb3zurui1b2r3s1nwn0g3qtzomghmcjhtcjvivnroswfpzl80yxnvnmpjrwnvbezwsmhkqunutudkzzbhc3vhbhbyql9yyu5lzfd4qte4d0sxzerzyjvplxpnculfdhaty3uwwq?oc=5": {
+      "headline": "Guo Jiayao: Improved external sentiment benefits Hong Kong stocks' rebound; Meituan (03690.HK) likely has limited room for short-term valuation re-rating. - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:23:58.162325",
+      "last_seen": "2026-02-09T21:23:58.162337"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1yzzdevjhidgy2t2gywgpbslpzq3u3numtahnrbxvoteh3ajvpawnlbmu4r2q0u3dhz2jyu0n1v3plbgnynl9rc280mtqzrjb3njnemk1pugcwnlpwnguzwmntslhtbdlnutc1uwuyexvbuq?oc=5": {
+      "headline": "Bearish block trade of MEITUAN-W(03690) 126.6K shares at $90.5, $11.457M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:24:00.956239",
+      "last_seen": "2026-02-09T21:24:00.956249"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte5ktxjqckz3bdzzeehrneoxr0pls2wtwm5uvxprb0jtnxptuvvavw8yzkq0skzvy3l0bke2ylz1vxdxdvppwmrczflkbe0yslvpqk40?oc=5": {
+      "headline": "Wang Huiwen Plans to Invest in OpenClaw Track, Issues New Recruitment Notice: \"Those Needing Financing Welcome to Contact Me\" - 36Kr.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:24:03.969340",
+      "last_seen": "2026-02-09T21:24:03.969350"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxna0m2ruzqyu15bdh1rlvvbgzzbnzhafiwtfvpqu1ydfdxse52dw5pm2c3n1jvawlju0tudxv4tuzzenluduzwsnc0b3dxegxotjvyze5kyvbqluswuulirzvfq09fdwvhbjnsn1jnc0tsmupxbetuahawzkm4adbjvxfmuflbbm1srvdlbzfytu51adrpywxuyxgzrha4ue9vowvitjbwcff4zfexqzz0s3l1ahcwzjyxeeu0mg5xuwlzshvbuljibk130ghkaufvx3lxte1ntjv0lxv2bgdxdutcedlhq3rwm0vltlbqtzz5nfrimxfauey4m3hncvgxsnnezu0xei01tg9rzejztzqylvj0vjmyakp5ruthwdddyxdrsetfdjrswxl1ywxhzlr0ou5cqm8tqkpfzepnwmm3yudlv2rka2c2mm9wnfzlb3j0mu1satq4x2pma2g2y1vvb2htnnq0cvzju1flog9brejwek1zcjv0qvbpzjrirxpxdgdmnzbhbmn5ajhzblbxskvysue?oc=5": {
+      "headline": "China calls on delivery, ride-hailing firms to respect gig-worker rights - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:49:45.292115",
+      "last_seen": "2026-02-10T10:49:45.292132"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxntghmxy04dekxm3pbbmq0wddpqvo2shgxtunxvgphamtqy3lctu9ovej3wjj2b2q1slf5vulqsng3tkvnekxece5ldfc3n1u0zwritw92clnhu0ppngxutwe3elj5vurtnhm1luj0rkg3z1pny0pmdv9jmlvgavnfmde5r0jsthdlcelv?oc=5": {
+      "headline": "Meituan beats JD.com to acquire Dingdong Maicai’s China business - KrASIA",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:49:48.477619",
+      "last_seen": "2026-02-10T10:49:48.477638"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxpownxufbhdgu0qzlqv01jwvq5ajnpmgjmlw5ockzgnfr0egxydzetvvlqnfrubxpldnngq3v4uwdhlxnfem5kwmjpy2k3muozofliulq3z2d6uenrshrkodvfu09jb3vsuuk2wmzauwntylrlzllws082c3rbovzqvc15tvnitmk0see?oc=5": {
+      "headline": "CN Govt Conducts Employment Admin Guidance for Meituan and 15 Other Platforms - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:49:51.714175",
+      "last_seen": "2026-02-10T10:49:51.714191"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxowhj2q0xmajj5us1wuu9owc1mceh5nhdxtdjpytuxtnlwbuvtt3ows0znrv9ot0tndedqef9gs08zctlxundnbwnjd3j3dueyyxnhzgrxnte4ymo5ewgztmezs3fatgllvmjmvus0ahbprxlpblruckjku3ftwhn1mefbdwvbagzmvg55n3htvzhiuu4tbve?oc=5": {
+      "headline": "CN Govt Conducts Employment Admin Guidance for Meituan and 15 Other Platforms - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:49:55.043801",
+      "last_seen": "2026-02-10T10:49:55.043813"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpctrrbw00ddm0z19ry0jpvde3x3dknudjcefiaxnodffythq4ouptqm1wa3hvutl5udbkzvntcet5vutsovrtanluvmo4wkoxzujrlvdvmjriyzhwb0hyn0hsb2fut2pjudfqzflhmnbsvtmwzxdbstbvy2fxclftsznfafu?oc=5": {
+      "headline": "Dingdong Sells China Operations to Meituan Subsidiary, Retains Global Presence - timothysykes.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:07.830217",
+      "last_seen": "2026-02-11T11:44:07.830236"
+    },
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxozkhwvezpbm9prlawmkxfa1o2v0pybwdurnbtd0p1du1ozu1iy09zbtk0m2t5utzueddeve5kmjywnffvvur0v0jazg9kcnlna2xhenoxnuzirte3n0pomnm4uxvlr214sfb3dkfxuzf1qnndcjhzd0zucnv4zhqzruzgadn1uky5rly3t3jcc0i5bwvqmuxasjvqqkxzq1zxyufrb0ztuvp2zwnzntd2ytvyzgldsfjlaffhazn4t1huqxcwzkxqc3fvm3kxnxvtm1i3b2tvsvm?oc=5": {
+      "headline": "Dingdong Plans Major Capital Return After Agreed Sale of China Operations to Meituan Unit - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:10.753770",
+      "last_seen": "2026-02-11T11:44:10.753789"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnmjdmsmvnzhdiy0iwetvcdlp0n1rqre9ralnswujhrwhkcvzlszhpztnadxjnmzduwee4ywuxbwozyktmmlhfrw83tdh5qkdoci1xazqwvuxaqtjeahvvsmiznellxzh2qkvcaefhqlbkngflr0dazg1gsfn4avbqykrgnmpuodlwd3bosxz1z19lvlq2s0yyuwvrowzkzw?oc=5": {
+      "headline": "[New report] TikTok Shop U.S. GMV grew 68% to reach US$15.1B in 2025 - Momentum Works",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:13.937650",
+      "last_seen": "2026-02-11T11:44:13.937666"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxoum9trfi0q0z2r2jit3bmz1g0rgvza2vkvdcymxryz185quxhsgm2d1vmq2damwdblu5mqwc5nc1atzq0ugzvqnzja2pcuvppz21huuq2uzfoyuxecgltrlbgoghlaxzpug5fs0dydzngcwnzwxnrz3dnz3a1tudqdwlsdfpvz3bmqlfcqux1mtrzs3vutkt0cjl0cxj5qv9mzkjunfbvdnnuwennoue2nkjn?oc=5": {
+      "headline": "Dingdong agrees to sell China business to Meituan unit for $717m - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:17.072049",
+      "last_seen": "2026-02-11T11:44:17.072069"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxpwg56vjfpvxbxa19ztxvtszlodnlzt0xzuzdobflusvnuem5halnrmwl6txo1afgxtunnaklkufpbq19hwwppbhkzawpxtwtsevi3dfp0tg9vn0xwnf9frzfjyk5dd0fcemxgn3lnae9ioxjdmkvtqm9xmze0ywq3blfsnlhwbewxqmf3vxrftmhqbzbqaevsbwrktzb2sljmdzjvbw?oc=5": {
+      "headline": "Food Delivery Reaches the Boarding Gate: Meituan’s Little Bumblebee Robots Go Live - Pandaily",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:20.049165",
+      "last_seen": "2026-02-11T11:44:20.049182"
+    },
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxnm0qzq3bwq1hwdjnqnuh3blpwdwt6y2vvqjfzwjdrwm9ttg5lsw5dqjj6devlvufgvgm1mmtqd0rzavlxm2t0ujzrqtm2ofvfa0vpzxpgzvnpz3cwswr1bmzynnewbwzamfj2lwl3vuj0dwfvcxh1c1zxre5vd1nsbvzrs3bmewtswjlvakvzrv9wc2xlduhsmlhyawjrtmrsefz4cg1pdk9au0tommpcwjhjthm2bflycdqtavnpbmp3dgj3vkrvvnywthlhm0zzakjlav9ir2i?oc=5": {
+      "headline": "China calls on delivery, ride-hailing firms to respect gig-worker rights ahead of holiday - The Star | Malaysia",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:16:36.262891",
+      "last_seen": "2026-02-11T13:16:36.262906"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqunhoegtkx005c1axymtpemu5beg2cwxpyjnoennqrudrrznvbjy3v2rmbfdpay0xshhss1lqakjzcwftbgvcagpaukhvne9idjqzdw1dvehbd2e5ahbcrxvoq1jwww9pdeh3c2f2uknvymdtavftx2lxnxvsss1gvnv1vmdxmw5tv01yc3huq1lsthm0bwpaew5mz1qzb1vithz3wwzhz2zgmfflr3zqu1zpr0dfwjn6awxdbgq0r3hpc2xu?oc=5": {
+      "headline": "Moody’s affirms Meituan’s Baa1 ratings, revises outlook to negative - Investing.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:08:55.677152",
+      "last_seen": "2026-02-12T12:08:55.677166"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxptzljn0tmeghpuepgei1iutqwzxuwmhjsrffixzlgzf93ae9zc0hvn1hbq0hhmu1bvtaysxk2qjc3vnz4t0s0wnrtrvbxt1fvuulvuepqveppmi1iddd6bvzszwftmhzpwjduzmjptlzlzgtrzutxsfizn093alb6bdrmaxg5d19rmu90nzvxb1drxzricfltqlbgrg5xs2lqs2fbyxf4tlzdtw1ztnkwttdinta5nkhkt3bxexdzdvzzlwllv1g4deh5d3m3shzivxfsadibqvvfexfmufrwuunuymv6ythvtmgzrvjst3bmlwfgdnh2s3kytha1m3h0m29jn0tpu21cxzjzv0hfnkziskvmvjheyxdlrhnntmfovujnm1rqdwt5vdbfsvhlof9trlngwklvbe9qt085vk5iegtxbml6vg1ysxriylvndnjrd2gtthf4mti2n2ndee5ubwrncmlpvggxoho3vl9ultbhznh5q0hrs0tuymnjblpkyzrqutfmt0w1cvbus0nabglxovlowwt4dwzvqkt3rhlkek5n?oc=5": {
+      "headline": "Hong Kong stocks slip as regulator summons tech firms over train tickets - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:08:58.767176",
+      "last_seen": "2026-02-12T12:08:58.767192"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxnvjnrctbdc05endy1duhgvly1a0hzutnaa1zdt2fhutndmkhovjzeru1jz3qzanbmtgktxzfwbl9uaux3bnb2oulsq0nfr0o1x3hla0i2bvrpmflrswvqs1ppwl96udeyqm4yc3dowdjkb0r3uxbpwu9cyldvzhbguwp2mlpxt0j6cfz5afhzohntnnpkvve0qjjibjnib1j1dfpownhly3bkewzkb0gybe12v1q1amvyazbvzmxyczjwemfbdu04nxlvt0o?oc=5": {
+      "headline": "Analysis: Dingdong Acquisition Set to Bolster Meituan’s Online Grocery Business - Caixin Global",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:09:02.785137",
+      "last_seen": "2026-02-12T12:09:02.785153"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpcmprdhruwulsykftls12skfmmmdnse0xcxbbskz2skfvtffhbmvfvu5dru1wclvsejbzr2nnn2dim0pzrve3bxpmow9jdjfkx1dnm3jfouw5exhvr1luegt5zvpgtfdwr1rxsu00umn0ynfpxy1utvbyzuf6czbfuzdpwm5wcklyy0vprgjr?oc=5": {
+      "headline": "Brazil Becomes Battleground: Chinese Companies Pour Billions Into New Market Push - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:09:05.588367",
+      "last_seen": "2026-02-12T12:09:05.588382"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9anlphvvftsemztervu1zwa1neehpqzjfzsu12awntx0jjehltunb3burmbzvzcdbpwghpbk1uwjfyzwpslwtiqu1mtwdvvvktmez4q010nudyt1z5b052vfjlt0vqwnz6ehr1t2hbahjsqq?oc=5": {
+      "headline": "Bullish block trade of MEITUAN-W(03690) 64.2K shares at $85.45, $5.486M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:09:08.575341",
+      "last_seen": "2026-02-12T12:09:08.575363"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxodwkyy2n6nfdxzfnwwus1nuvtnm03zv82njv3cwdzmk16ek51efy2mhbzndr1stm3uxvwt3aynvjca3ldrgz1yupmawhxykxsa21vd1dxs1vrym12ogp6ak1ydkdjyk5wqvflywh2de84s0dbnwdungdsmm4wqkrpa3jprmwwnwswzdbvvdblqwx0we9zcgfpz0xlcfc1q0pnnmhpcv9ovedezwnzqmpwegk3slflmfzt?oc=5": {
+      "headline": "China’s food delivery giant Meituan lays groundwork for possible entry into Vietnam - Theinvestor.vn",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:26:13.411304",
+      "last_seen": "2026-02-13T12:26:13.411325"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqwvftatb1uuhqr0e2qufvbw5na3yyv1jcnnzov3dzvznjb0fkodl3vnpivzb6dnvyuufhcwpsogz1cwj2z0nry2oyafdpsuffr3vmzwwtotltt0tra1dkuenvek5rqko5xzvxtdntwwdkddcxakfir2xdys1bnelma3cxnwfiazg4mks1njvfcth5enplvnc?oc=5": {
+      "headline": "Moody's Affirms MEITUAN-W at Baa1 Credit Rating, Revises Outlook to Negative - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:26:17.299790",
+      "last_seen": "2026-02-13T12:26:17.299802"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnykdymvnqvupewdzovjv6sv9ksjftzl95tkvemhvmshhleezpbtzvaeryzfplrxdivujfuwq4m2x0ekjdcdlenln2zjbqq045zhdkmuximvo3v3o0s19mmxlwwg9tx0fqanh5oxrmwvzcd204dkvkx0tungzkdxpjrjluddvnzm45djzfvutlthvsrs1lwe9zdhdutddurlhxrkzfnhfitvbedw?oc=5": {
+      "headline": "Meituan escalates platform wars with Dingdong Maicai acquisition - Dao Insights",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:26:22.116729",
+      "last_seen": "2026-02-13T12:26:22.116749"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnaxpmaxdyrnk0d2o0zl9ydvhsbw9oaxznlvjfm1bvveteujhqcvjhby1jempwz2xhmgr6bjbtekhkvdrtwfnyblbsow1mcghpcwjpdlnqqnhty1nunlvuzktvexatmg5xr0eydkxkctj1q2mwukryreliqm5tyxpyr0u1wf94vhn0rmpdzehquxfiathjrzb0dgtvejrknvo0odrtvjy2s1bevel2?oc=5": {
+      "headline": "Meituan Shares Fall After Moody's Ratings Trims Outlook - marketscreener.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:26:27.655796",
+      "last_seen": "2026-02-13T12:26:27.655810"
+    },
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte9vogm3nhfoumlpvwi0n015t1i4avbrm3vdb0jsu2eyamrsa2ztu1m1blfpa3jldfk2uvq0rkxmou1xytaya1pots1vltm2n3hyuxl4uee4nw1bz9ibwkfvx3lxte9vogm3nhfoumlpvwi0n015t1i4avbrm3vdb0jsu2eyamrsa2ztu1m1blfpa3jldfk2uvq0rkxmou1xytaya1pots1vltm2n3hyuxl4uee4nw1bzw?oc=5": {
+      "headline": "China's Meituan, Ping An secure first data protection certifications from regulator affiliate - MLex",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:26:33.286344",
+      "last_seen": "2026-02-13T12:26:33.286355"
+    },
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte0ynnfloet4mwmynflmwlzkaw8zz29mauiyoultmutrlwtyogzkzvj4tgy2tvfxmhptcelfqxi5cc05nda2dwyweejizhoxzlznwtvkqm95bfk1wllzdvffq0nsqtlkmljiyjhn?oc=5": {
+      "headline": "Meituan: Loss expected for fiscal year 2025 - Table.Briefings",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:01:19.921915",
+      "last_seen": "2026-02-16T11:01:19.921931"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqrmtznuuyc1y1medcegr4dg9jz1cwu05bvmltnffmam53ywtvnwitd3zvsdlndgfoeuv1ow85mdfqzxd3nlvpbmlxcwt5r2lpb0jtqv80emhslxveslj0dknbc3n5cevgdkrur3oznfpqr3m4emruuffzludxzmvfcjrlnks?oc=5": {
+      "headline": "MEITUAN-W Opens Down by Less than 1% after Expecting 2025 to Swing to Loss Max. RMB24.3B, 1Q26 to Sustain LossFinancial News - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:01:22.672572",
+      "last_seen": "2026-02-16T11:01:22.672587"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbnrm9udmu1texdn2jxm19vwmm3wenpuuv1ykjbrgxjdxfqzms4vm5fbwxhbk1qm0pra0tuee5kuvfiumlwa2vmqmjns1naexuxdgdxd01hbtvbr2nylw44wervumhvaklvyxffatbcm0pfrmc?oc=5": {
+      "headline": "Drone food delivery now an option to hungry tourists at the Great Wall of China - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:01:26.201549",
+      "last_seen": "2026-02-16T11:01:26.201565"
+    },
+    "https://news.google.com/rss/articles/cbmivgjbvv95cuxqwlrqzdretenryndwm3nhd215qmzrdm1prl90ownqthpizddrourusjvyzutttmj3yjzvcextsklfn0zuzwxmddjrzvncywruv2vydwhmv0vfmllnbxbcwvh3rwtxaunfbuq2yw1huwc3bgu2c2hznulxoghlltfhvgzxs0sxody2axo1rufjdevitgnuwe9tsmfubxnns2zqeko3zw5au0s0tljtq3fkc0qzdupkmgptwwpwazhkq2ptyl9segtgak51bgdfneyxzepuzwwxc3zpa3jhx1n6thv2os1vzlhabnrozfhrm2qxbgvyczc1ztnlwu9zsfq3mnvbdzvycge0v2r0tfy0zvzvu2ndau1yb2dfzvm5zuzpz2zizdhmmju0yv82ujjpbdu5nuxyowk5tgdyd1e?oc=5": {
+      "headline": "China’s Keeta starts food delivery service in Qatar - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:01:29.169164",
+      "last_seen": "2026-02-16T11:01:29.169180"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxpbmx3rvzonjj1tjvgyvhzzed2swfwczdpvuhxmzf3uxkwstz6uw1btzywnxzxtvzqyxnatg5ylvrjamzatlzxmvbnrhbtc2c3zknrt1i3tdn2m0lonjheognhagfrzk14cdhvv2vynvb4v3d5quzadkk4nwrqnfrztdbzv09itwlvcjjnvw5oelbaaup6lvlfbkroq190q2h0vddfvfzsc2vmqmrsodf1ywlcwxm?oc=5": {
+      "headline": "Shanghai Sunmi Technology passes HK listing hearing - The Standard (HK)",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:01:32.109052",
+      "last_seen": "2026-02-16T11:01:32.109069"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxpwe12qlhwwgtfmkvyt0t6tzm4nedhmuuyahu2mwzvcdhcovlvbvvtsxfpvkfxddyxv29ucmrkqmfgbfbswxbrrdmywxgxdw03atryumfcohn1vjm0nehamnvjm0zsou5znurbv3z2lwlav0q4egjfd0tqd3bhtdnpm2plcnhgs0s3nc04rzg1ejvxvnrxmufny1b0mnvjrdj1b3r1d1flvfbpzuv6mzrcam9pdec3vnnanmdlx05owhnomdbra3qxv1ffckhsacwbqvvfexfmtlnkx2hqejv0oxbkt09un1dtn0myakpatnn0qjbseen5zmfqdhlrnhc4oe1wqwl6exdfsnr6r2vrumpxv2yzqkvjoufhevvoavpgvfo0regwv3b4ofhjulnolvzxmmdonw1xeu51m0jnmznqn2lyntv1tu91dlztouhjre5uu1ozv1nflvblbuluwxhawhu0vkz1wktrs2t1muxkaghycvc5c3g2s3f2vfnza2nmrndqamhvsetpdzzzsmzqotlvedg2vwvw?oc=5": {
+      "headline": "Hong Kong stocks fall as market reopens after 3-day Lunar New Year holiday - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:35:48.845245",
+      "last_seen": "2026-02-20T11:35:48.845260"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqmudarzc3z1zdzm5ichnpsnppzdbfehjxumfeowfkzmrcbfk5bhcyu2fqalzisurvrtnwejrhmuq5nhc2ujlfrda2mv9fnkl0qla1ztlseezat1pztk90qtrxzjlmngpsq3uxovfmd3dxehv6qy1zzndpselbaem4nvjhwdvals1qnzfgwxyxdmn0wvdr?oc=5": {
+      "headline": "Meituan Travel: First Wave of Small Travel Peak on 2nd Day of LNY - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:36:05.919591",
+      "last_seen": "2026-02-20T11:36:05.919605"
+    },
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte1kdzl6cu5dt0rwsgozqkvubtbcd0oydunqm3rzelbuy0pzbdv1zxi2v2tzekk4vs1fqmtecv9ncnnhrmxosguxwdjouxhunljor25aeg01v1juc3zsz1lswxffmf96eulqqxzzuki1x3buxzbvswxlsnltwxpqzw?oc=5": {
+      "headline": "Meituan Travel: First Wave of Small Travel Peak on 2nd Day of LNY - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:36:16.098667",
+      "last_seen": "2026-02-20T11:36:16.098695"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxowwnvvghkrmxfr1bwd2q1z1fkzvvsmdbxbedjx3zdamrsbnz2nehvak43ukswtlv4njvrauhdd3rhdfhab3bwyxlmqtfnr3lrmle2neperfjfc3j2exjsskxfyuzjauc2u1loqnjowfoyofdmvfzuv3bfqvfkykfltlm0r3lys1lvs2y0umjunkptytnabus5x2nrdwraqth4ym1om001z1itqunrdmldcg1zz0rjzjnsc0lvddkzmvc4nnvyd3v2zmxawwn1y19nrmixvhrksq?oc=5": {
+      "headline": "Sharing made simple: Keeta launches KeeShare Ramadan initiative across the UAE - ZAWYA",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:36:24.975832",
+      "last_seen": "2026-02-20T11:36:24.975851"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte43aflpeu5genjirdfpexnkvg9mbwc2nwp3chljq3ayrwvheutlrzjlvdfnrg4zzultzg1sbe05mwprvuvmmmzyy180as1jbtvwc3lzoenhmnhrx25uluw0nhrqrv8zt29logq5a3duna?oc=5": {
+      "headline": "HSI Opens 48 Pts Lower as BABA-W/ BIDU-SW Drop; COSCO SHIP ENGY Swells 6%+ - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:36:33.006514",
+      "last_seen": "2026-02-20T11:36:33.006535"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqcldnx2czynl0u1lxx1bvehfqrezxrtzlofqtukzcvv91yvlpegxmufiylvhwdwjinwlgvnjevjfabkhksedectdlq3pzm2hcbnbhsu1pbv9qruvhdgg2v1dpcw5lthhmbmfhtkpzegf2exrdnmdidtzeofpmu1npvtjhevvyulnpzwlbws1xmluwsvhwm1g4amzqcdlsmgdprkvldlzwtdibrafbvv95cuxpaxfuafrutwhfbdzqyw1xsgftbuvzd2vvcetxmud3q0dyzwnfu0kzn18zsxblni1uqm5isk5oakc3ufn5d1vmotbmzi04cwhoovbnuhpxuezottniq2xovwrsbmzfsfawylk0tgc3cjzjd1jteth3v2zlouhfbgrtsdy5rkdqufjpzdljovzpuvutmvmtsezvx2rgsflvauxtafptmk55ylnvnjjf?oc=5": {
+      "headline": "China’s Instant Retail Giant Meituan Buys Dingdong Fresh for $717 Million - Vino Joy News",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:32:38.351132",
+      "last_seen": "2026-02-23T12:32:38.351149"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnaknmqmr3ec1mmdbibg4zckf4qwtvqju3xzdeuzg3ckx2ngtjbgjqmzvntuded1rwrux2vdrjcxvfcjb1y0lmvhh2n3m1qvm0zulemlhpefpqmg5tawfiwjbkvws3vtlrbgnkx09zsk9mqk01wxhvb0lurnpfvdnfrw9qdxrtt0g0ce9mzjq1c0dkdlvbvw1raw?oc=5": {
+      "headline": "I've been a product manager at one of China's biggest tech firms. Here's how Chinese AI products are built differently. - Business Insider",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:32:41.187701",
+      "last_seen": "2026-02-23T12:32:41.187716"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfawcxhhd1rknc15sxh1duhzx1k0s19hwnbobk5hz3jjtesytwtccfjzofnfukqzv2tdmte0rxhjsg5vntfpohvvbhfwlxqxunj4uv9ltfm1sunhbw9kt09vdvhnaxnouutaum5ydnaweu9ydvlhcfv2mxhjqzhawke?oc=5": {
+      "headline": "HSI Up 605 pts; HSTI Up 173 pts; MEITUAN Up over 6%; BABA Up over 3%; TENCENT Up over 3%; SHK PPT, TECHTRONIC IND, LI NING, HANG LUNG PPT, HENDERSON LAND Hit New Highs - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:32:44.078028",
+      "last_seen": "2026-02-23T12:32:44.078044"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxocvvrtfvkofddmhpoxzllqwpontdpdvvva2hyn3rrdes0rkzrtunkbjc2vugwn2hmdgf3ehhwdkffawzcmtzhblrquhnuefdhzkxvvjlkq2tkavi2vdfhodjxskvsr2xyc3fkzu5stxh4c3k0z0xnrhbjsnlpmu83yzdmovzvlxf1r3nrnllkcvhonjzxenlpn3lprelnwnzxtw11uhjxma?oc=5": {
+      "headline": "Hong Kong Stocks Midday Review | Soaring momentum! All three major indices climbed, with the technology index rising 3.32%; tech stocks advanced across the board, Meituan surged nearly 7%, while Alibaba, Tencent, Kuaishou, and Baidu increased over - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:32:48.264074",
+      "last_seen": "2026-02-23T12:32:48.264090"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte8xzffdv2fas2j4blnqqxrztel6c2luafoycunmuvffu0rgd0hhquxswgs4c29ztnj5n2h3awdkytjjeup6ekgxsldpr21zvhjnam15axhwchbjlxhivwhku3v6b25vqjvnzva1awtecw?oc=5": {
+      "headline": "*HSI Surge Sharpens to 600Pts+ in Early Trade Recouping 27,000; MEITUAN, SMIC, ZIJIN Up 5% Each; KNOWLEDGE ATLAS Slips 15% - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:32:51.051496",
+      "last_seen": "2026-02-23T12:32:51.051511"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpbuferfa0ytk4u2xhslnxcdruqkzwcjhmcfvvq2vqce9crgf1snpebumzylbfsfbyog9ay0zlrejuzw9duwhnmfy3zm1sykndogt2m19ebnr6budud0hjqu00ekfwrxpbmnhinxplcfbzv2nqulflsvryqlraczjla0jjmly?oc=5": {
+      "headline": "Meituan Report: Ratio of Tourists Visiting Multiple CN Cities During LNY Up 50% w/ Users Checking in Avg. of 2.2 Cities - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:58:41.302787",
+      "last_seen": "2026-02-24T10:58:41.302800"
+    },
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte5wnurlajnfa1bmv0xfuetsqnrddzdlzwpjtw5jmmdjohpbuzzuagpzagjnlvayc1rwvxpmcvdgcww5wkteq0n5ofewb1zddw?oc=5": {
+      "headline": "Hang Seng TECH surged over 3%, Meituan rose over 5%, while the \"dual giants of large models\" KNOWLEDGE ATLAS and MINIMAX showed significant pullbacks - Longbridge",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:58:48.725599",
+      "last_seen": "2026-02-24T10:58:48.725610"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxosjbvymlhcu9mlw91ml9qteduoffezxlknnfhyznjwlhmafjjq0xjzku5ckf4unpwnlruyk1yqjjdmflevmx0ouzlu1rfufo0wnpqdw1hme9sr0ytcnbtnxficdvmzhpbduzrwlhrme01wetjtvz6mefhuzrkdfpkq3ezcxgxwudiehb6q2dbu0zfc1dxshvmbtvsv1jetu02zlnftxl3?oc=5": {
+      "headline": "Market Snapshot | All three major indices closed higher, with the tech index up 3.34%; tech and semiconductor stocks performed strongly, Meituan rose over 5%, Tencent and Alibaba climbed more than 3%; Biren Technology and Innovision Semiconductor sur - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:58:57.838092",
+      "last_seen": "2026-02-24T10:58:57.838109"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqr29sz2l2avbxlw9yz29elu1kovuws3i4adjyagrltgtxrtbntelqa0twrf9rngntu1k0c1vfegxbr2zgvzblvgrxaed6ulljys1mdkzqdgfbmflhunduztlsytlpemcyvmndx0zywdc4ouxqcnvmqnpla2h5ynnkx3dfnzrnwghuewpuzeddrw05eux3wgc?oc=5": {
+      "headline": "Meituan Data: Beijing, Shanghai, Chengdu Rank as Top 3 Popular Travel Destinations for Spring Festival - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:59:04.885321",
+      "last_seen": "2026-02-24T10:59:04.885337"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte1havlyaepzc1jace1tdjlvbmv3bkrnzznpmwjnb0yyy0swstrwcnvwdu0wlujfqzdyc095wlnltddxnuxvugt4ddnqbng4vtdrnehluxnnbuu3rutkmwzztgnub3nonejuedf3r1jnyw?oc=5": {
+      "headline": "CICC Keeps Outperform Rating for MEITUAN-W, Expects Keeta to Promote Refined Operations in Brazil - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:48:46.055546",
+      "last_seen": "2026-02-25T11:48:46.055562"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxolviyq09tszzjblhkqxv1v3dnmejsqw4wq0kwulrjvhoynkr0vfnprmpxzjnau1llofdiz29yx1z4vtvmdwnrdupnoupudfzlblppotbxwi1lyxduwdhttfrvuhhatghzs1vgqwluotlsnkj3c0pynwncu3r1vu9nq2u1azu2lw82bnl5r1nlyjffvk9urmzxbki5uld5wnc5umvjs08xb3jdate1mkqtngjkejffum1gcud0mhl0tu9qvtllukvwmudoujj2whnyvmjuvhnr0ghbaufvx3lxtfbuv0xhyxo1sutnnwhynmqwx0g5tgdcy2nlnxjoduvcnxczmm5uukhpsjrjv29smlrpyknqruxqt1jtutjdvutruxpjdxf0t3fltfg5ogrhmzlnrktoogv2uuxxzudhbexvburydzvisglaszlqdm9ia2xmyjjswwtxbudydjlzrwgwunfwofztvmxxr21wetzxduvxwxftatvrvwlswdbzwgu3atlotkyxcxfobmdqcf9ocvetu0tmy19qv0tqy2y2owtktkpjqwtybwvjdfntsk9isq?oc=5": {
+      "headline": "Is Meituan (SEHK:3690) Looking Mispriced After Its Prolonged Share Price Slide - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:49:00.339756",
+      "last_seen": "2026-02-25T11:49:00.339772"
+    },
+    "https://news.google.com/rss/articles/cbmi4ajbvv95cuxoexnbqtnqewhzz3vcvdzlnwdnnhrmrfbpsfz3swjvmhvgqmq4vejrymotq3npmhvyqvuxyuw3uwvmafpaszg3rgnimuzzmknxyvjaqwpnu3e4awv6d2hmuur2duc3wdgzb0n2anr4mu1qoedwa2xeyxznakxhdwdir0i5vupmshdqz19hc1pvywfmvw5lvdu0qzznu3hwn0rltnjiaulybexwudk4dhc5qzflswwtdgznbe5ozhnivgf0auw1ykdoemtra3hvennvb05cz0hstm05c1lztlbla3bhqwrpmfzybnbivxbxnudstxnovgjjb3lwwgfwa29ymm5zn05lu21ptjy2dhvqdmh2ekf3cw9ibk84ouphqnjjedhtugvvtfvtahnjdjvru0tgmwrvumhqskvkvfnmtlq0nxn0n3dvr3brvjdea2f5dkdmsze0a3jhvegwbvzr?oc=5": {
+      "headline": "HSI Falls by 491 Points; HSTI Declines by 114 Points; MEITUAN, PING AN Drop Over 4%; TENCENT Decreases Over 3%; WH GROUP, HENDERSON LAND, CKI HOLDINGS, MTR CORPORATION, SINOPHARM Reach New Peaks; Market Turnover Increase - Intellectia AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:49:08.819256",
+      "last_seen": "2026-02-25T11:49:08.819273"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqctl4ludvofvnannqlvnttmhsq1hztnlavmg4szvlvnfrrl9dchdyeuliugvosnnyzdjledjxcfdmdnbmqvb1mxrumeppwxlusfdtrhnatg1oog5kc24zbu9tzjjidxhgunznnxhfcfdka1bly2psstfzslczegpiegk0ak9mogpjvzfct1zsexftuexoa0voemhfwurucu9icmc?oc=5": {
+      "headline": "Southbound Capital Tracker | Net Buy of Approximately HKD 3.1 Billion: Increased Positions in Meituan and Xiaomi, Outflow from Pop Mart - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:49:16.507394",
+      "last_seen": "2026-02-25T11:49:16.507410"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1jvgkwt19enndodldpsujjlwt6wjrraezzqwdny3vwbxrbddj6x3phrdb6bzvkthb0dm1sexo1teeychutmvq3sml2dzryexv4zfbzlw96enfvm3rod1razk1fehlyslrlcexqtxp2bjy?oc=5": {
+      "headline": "HSI Down 491 pts; HSTI Down 114 pts; MEITUAN Down over 4%; PING AN Down over 4%; TENCENT Down over 3%; WH GROUP, HENDERSON LAND, CKI HOLDINGS, MTR CORPORATION, SINOPHARM Hit New Highs; Market Turnover Rises - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:49:27.310617",
+      "last_seen": "2026-02-25T11:49:27.310634"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxod3jzbtdlcg1wuvpncuwwy2z0tthrqjv4szbjbzrwoeg4ltf3x3m2zwvkbnjqtkdwsllgwmhiuehwdkitn1b4uu1kswlqd2pmneqzdtjyumvkewpvqkc5rmnld0qxc1bnev94n05fsg1jz1vwmhd2x0xmdhg5ngxtytrdbmndvfuxddffegxudwhvtwcyn2j5m0tndlrunw94axgzugfvakrywm4wb1mtvgn1anppczzjndlfb3fazmnlavppsxz1zdqtvs0yulnlrm1pyq?oc=5": {
+      "headline": "Survival And Protectionism: Dingdong Surrenders To Meituan As India Blocks A Chinese Buyout - Benzinga",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:09:11.738410",
+      "last_seen": "2026-02-26T11:09:11.738419"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqzue5b2hpdlhhb21puhpxczbcr3jouw54u05rem1kmwvyq0znlunhufpqne9pqxowsnpya01od3e1rza2ngresfzov2dvmutav3rjvuf4mu4wmuh2dw1heehkoe5vmfo2zmz4mghsmhoznnuwqw9frmpgclvhwjqztw13?oc=5": {
+      "headline": "Meituan shuts down Peppr in the U.S. market - Momentum Works",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:09:14.163076",
+      "last_seen": "2026-02-26T11:09:14.163092"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnz0wtejjuyzzlwlkybnncr1bfytd5nukxbu5rwey5n1bnsepsyvftmtnsnln0bu5xsvrsn0j3rgrurk5katiynfq1tfqxsxbrvwhhv1fxcvphbtjiz1atzl9jcmdornq5ymzdwv9szw5hejjimeu1lxdxafdia2hxrdi5v0i4vvvklxnmttj5bmkwv1jqoxiywhy5zlhozkrmofe1ymhmt1jxrefmwdzptkq5dnk5zxm?oc=5": {
+      "headline": "Burdened by 'involutionary' competition, Meituan forecasts a shift from profit to loss exceeding RMB 23.3 billion, with outstanding debt surpassing USD 13 billion. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:09:18.118173",
+      "last_seen": "2026-02-26T11:09:18.118190"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnaf9wu1nnshnvmkznn1rbqvbxnlyzxzvubgvsdfvrwnhtlwtjq0wyltzfyxpfzfzsb0jhewxunxzos2vzvhfmtk4xm2tzmnlsmwhttmhwykvob2z1x2jxalp5djnzrgprzutlue1nuzv2vlliqlnsskxfcetmc0fiunbuofvhb29qtvpoqxblajrkwnfzzgo4qjatvzjudu5qu3n3y2szbkdwzzdkefhfuf9jyuvrwhrwaerma2cznzc?oc=5": {
+      "headline": "Robotics Startup X Square Secures Fresh Funding Amid Valuation Surge - Caixin Global",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:09:21.419955",
+      "last_seen": "2026-02-26T11:09:21.420080"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9hc2hleunwv056s2pwwlnpderlbejpuefhvwjitmyzalpzcw1fbm90mfndmnpjqufis3vna3zptkixqkvrberhbndfu0dycesxmvj1uhmxa3hiukdtn0xpdfbgwnryskputgdwcdj1yw?oc=5": {
+      "headline": "HSI Opens 254 Pts Higher on Futures Settlement Day; HSBC Up ~3%; AIA Advances - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:09:24.710290",
+      "last_seen": "2026-02-26T11:09:24.710307"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqehbfahg3q1pwchhqdy1petltvwdkoevzvmd6wxlqwuzhvvjkdwczlvnlqlptv1dqedhbnmhhyxhyvhrotewzcmpozvf0zu91mdhvnmzpd1vieudhy2pocedxbw9ezzvuau5nzkp5yjdwmvbxzehremwtutvwc09eszrkuq?oc=5": {
+      "headline": "Is It Time To Reassess Meituan (SEHK:3690) After Its Prolonged Share Price Slide? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:54:20.088103",
+      "last_seen": "2026-02-27T11:54:20.088118"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqu3zxt0iymtltdwgyzuxncjlmmmytuufgtmzsbjl0edznx3oywxlqzg8wylfuwi1ibwp5z0xmewfawudlsvbrnwtwvxvwrw9dckdqchk5rw9ree12lw9bdgf3dexvdem5ndbecnrjnmh0s1uyahzxzgzqmkkyddjsvjr5tjhjx2llcdnwvuxdwepwujy2?oc=5": {
+      "headline": "Meituan Put Keeta’s Rio Launch On Hold After Exclusivity Shock - Finimize",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:54:23.522094",
+      "last_seen": "2026-02-27T11:54:23.522116"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxquwzttmjhvjjsa2rmthlyagtpuc16clzzy3c4qkj1szbotxc1sdlbvvg5dlp0v0lerxczzuhovhlzc0xnodkxrw05a19vddvtdw5sovcxq28zbk1xzjzolv9nbw51cwh3v3forlnom3fvbnlrlu5rsgnbc1qzn2xwemjzwwtka3d2cvhtzjztq2fhyxm1be96dtzjvmq?oc=5": {
+      "headline": "Meituan Launches “Fantuan Comics,” Entering the AI-Powered Motion Comic Market - Pandaily",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:54:28.028389",
+      "last_seen": "2026-02-27T11:54:28.028412"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxprg1umzdmnfhhs0deanvpmnu2d0vkmmy1cklftmhqvtzqbutdbtjhmhj4wfzlx3rkr2lxuwnbqmzfmxjbnvk0r2f3cg9vdmnirunsnxq4bgnksthmwgfexzhocl9nteiyc0dkefdnnzlwtxztzmnxs21one5sme1tyxhjnkxps0ett1e?oc=5": {
+      "headline": "MEITUAN-W Launches 'Fantuan Manshe' to Enter Comic-Drama Mkt - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:54:33.233062",
+      "last_seen": "2026-02-27T11:54:33.233081"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxquxjwcdj4dtj1z2rjy0lsugg5y3dawtfiswzstmnksknrzuhzb202qni2s25qlwpmshbattvhagnbz3n4mhcwegpzeupmwi0xvwnzuu5vynrrntatdvzmml82u0preknpodbvy3drewzuseqxslzfs25hrnflvhvftvdxogpcu3llefftalnvsznqtffhsfvfbg1pdxjzuwitctzxbl9cmugtwe0?oc=5": {
+      "headline": "China's Meituan postpones Keeta launch in Brazil's Rio - marketscreener.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:54:37.937812",
+      "last_seen": "2026-02-27T11:54:37.937831"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte5wcwrkdlbgvw83zgxqnvyxdufqdkpjn0g3tutwqwzfswhqwmd0uvvvrmriukrkae0zqxy0yzbyoez4sexfmudpcxhlsmzbuvbzofbvmjhydfvtmc1is21hrelqck5isfy1vw5oqmt1uf8?oc=5": {
+      "headline": "Bearish block trade of MEITUAN-W(03690) 611.2K shares at $79.6, $48.652M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:03:04.905663",
+      "last_seen": "2026-03-02T10:03:04.905679"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpv0d4tji1ou1ymuzydlpros1ftwpquepdzllhdwx0vlrmamj0rgnxtdqtctrfueu3axdtcedux3ctyvi3ag9ss1owdvrtaeh4lwxouedmexb4sfzyzktzzuphbldtzktmcud0eulpvxlwnjjytvnhru9ysvzjzzm0x3hsbejwvfhuqlb6eupxm2xumdftx25ht3n5stbmvvpqyvnkslh5rgzzqupntgtkltvsctf1qkdhdk5xd2nena?oc=5": {
+      "headline": "HK Connect Flows Weekly (Feb 27th): Tencent, Alibaba, Xiaomi, Meituan, Hua Hong Semiconductor - Smartkarma",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:03:08.135347",
+      "last_seen": "2026-03-02T10:03:08.135364"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxomjfqzflstejprzh3vfjcnlnoulhvou1jzmxjwfvsnddkwnfvtnfibezfywk4wgjpx0i5mhhcthzya2lqmgtuqkvhnzhbx3vsdevrzxnsytcysgfma0dytgncwfbfbwhsnnhamjvka0k5c0h1ntlflvu1r29gcddwwe16wgh3mey0tll2u0vwcmf0zfg4burgandfcufudw?oc=5": {
+      "headline": "Meituan (03690.HK) launched the AI browser 'Tabbit,' which is available for free use. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:55:22.265713",
+      "last_seen": "2026-03-03T13:55:22.265729"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxouum3thbnrnfmegrtte1mq1phu0nxy3dvnjjkdva5nfvrtxdprfb5x3p3tgz5uxcxwhbkv2hevehkunviatf1q3o3wxqwv2o3ce1xvuxtam1bvznfv08yqlaxwgvjahdtaxzqcljendd6wfvdahnsdkfmtfgwtnj0mgnzaxm?oc=5": {
+      "headline": "MEITUAN-W Rolls Out AI Browser 'Tabbit' for Free Use - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:55:28.125088",
+      "last_seen": "2026-03-03T13:55:28.125105"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqs2fydwvfewg1zvjzvkhunc1munf2ota0wkxqm2jpzm94ekvlymhvdnhtwnpqagdavhi1uun0d3gtsfrsn180eujyuzvnejr3mm5qotbirznjzvo2nenquvfmdfpwlxresmk4ww54v1nnckw4rfm4mg4zdtlnwvpwr2zmzflpqtnzdxc?oc=5": {
+      "headline": "Meituan Unit Introduces AI-Powered Browser Tabbit - Yicai Global",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:55:36.152703",
+      "last_seen": "2026-03-03T13:55:36.152718"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1kehc5q1disndqskowaxnnwm1gsdbynkx0tlvkuza2tw5nos01clp4bm01wuuxvjblnmrjs2lsa1fjtmezaku5c18wr1m0wkd1emw3z180tec2d284dzrzwk83qkl6b0o3rkhzvxnhluz4b1jswlo3s25gyta4n2s?oc=5": {
+      "headline": "I've been a product manager at one of China's biggest tech firms. Here's how Chinese AI products are built differently. - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:55:41.902578",
+      "last_seen": "2026-03-03T13:55:41.902595"
+    },
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxpuk9kt2xoznblvhjky0r0zvvnynbfbu4ynfvtes0yx0jbndhioxvyyuzpnezkwxqwmgtlnnj4zzb4wvppavzszzfkcjjqvjhcyktloufctdnlukitzuj4m1p4ruhmwkvuowxxtg1ecdbjazl2wjdmx0poz0xjr3hwbxzbsnhzm3jpv1nnlwhex2lntfhycexiq2u4wvjuegnkbkfqem9knmtdtxz5etfioujfxzhlnhjrbwo3q2htohzyse55nvdlrw8tz0w4v3fxmxjlrevfrxfizw?oc=5": {
+      "headline": "Iran war disrupts Chinese tech firms’ Middle East operations - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:55:47.795355",
+      "last_seen": "2026-03-03T13:55:47.795371"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxprkpwz3y1sg5bewqtverwuevybtc2bxo2mdbnc1bfvw5kunbpmzu3oezzqux5udryudlinghgtznftkc4dwe2azzrde9unvpkbfvfy1o4nurkn2h6ofhoszznu0vfvddlzkjnqwd4nke2ry13dtmttkxoz0j3sxaweu11zllwszbeou9jblbry3xsazybqvvfexfmug9vsuvrdngtcxe4qmzxnlvfs1zruwvlddhneljss0qyuefurepbujzkd2xmwgvcbu5qzuotm05oykhvtmhvec01yne2dnl3bev6n2hmwnf0skflvkniatcxwla2wvo4ekryv3van3roughkqkrzbdmzzdv3n24xc1bfbwd0ogfpmmzsbee1ckf1cxzyzurb?oc=5": {
+      "headline": "Chinese tech companies in Middle East face disruptions - chinaeconomicreview.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:23:12.882129",
+      "last_seen": "2026-03-04T13:23:12.882198"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpddniqlngmnvfmmfpowlramqtudf4cuwtuzniq3vwntvoruroszzftlpragctblprsfiyyuxymmhfavvuze42v1rgvvctdnzsauznenzlduvjuhvczetkngfwenazckxlmve5akhvdfa1rmnlv09wn0tgb2hmqvzhwxhnvwxyqmjvzi02q1q4rwpxbgrgnee?oc=5": {
+      "headline": "MEITUAN-W's AI Browser Tabbit Accused of Plagiarism; Official Apology Issued and Translation Project Code to be Removed - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:23:15.990003",
+      "last_seen": "2026-03-04T13:23:15.990020"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpqm9hzjbtt201q1lznlvlu1kyqzjnmgtidvv0lufpajhlc05uaehrzfdsbnbizjhvqzhesgk4mfdusnrsdjhmmfzyrmzwnnzqtmt0d0j1s1ntql9qse1jwenhehc1mkdoaelvevhfv1fvtdlhaxlxcuzlc20xre85axprvju?oc=5": {
+      "headline": "*HSI Initially Slips 580Pts+ Once; Oil Service Stocks Plunge; Meituan Continues to Hit Bottom; Xiaomi Rebounds - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:23:20.298333",
+      "last_seen": "2026-03-04T13:23:20.298354"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxqqu02aw1ltf9ax3nkugdzdw9itkotehnomxbrrw5fswhmbxn6dy1ramj6ythxovvwufdymfc2lxfjodrtzk5oztbsm2rhdhbiylpsala2y2u2uhnzbudwbe5ic0h6m25xsnu1wxuwcejpdulnmkpjexljetfcu3bms3q2bdq2vfvrd0tvwgrsvvfjavzqdmjywudlcw1saxhft3rlv3bxmvjndw?oc=5": {
+      "headline": "Southbound capital tracking | Net purchases exceed HKD 16.2 billion; bargain hunting in three major ETFs while outflows from Meituan and Alibaba. - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:23:23.229967",
+      "last_seen": "2026-03-04T13:23:23.229988"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxnegj3r0xpyun6qkrwbdhwahatrhhwmem4ymzpvhraqktza1zkshn4n1lybmyyek0yv2pcmnbadfviedn5awzlzwliumjkzfzkv0n1nm0wwdjiennvr3buse1sy0n6ufhise1fwwneudhlls1bsgxxquu4dvpfylg2vjfvmnk0lthtttqyzefpazuxtv9uyvrrsthnc3vgmc1pnuuxz1nn?oc=5": {
+      "headline": "BRIEF: JD.com takes 15% of China’s takeout dining market a year after entering - thebambooworks.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:23:26.634689",
+      "last_seen": "2026-03-04T13:23:26.634708"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnbmxarjlivldvq1hsrfvssw1gdetwtf85c3uxz0i2tnhurdh4rxjybxnrnxhvaxzlmjnyx0z4x0v5sxdqu1flnkdhs3h6ww4wv2tfdi1hrxlpzmdtujmyuni1y0xwymv5rjn2vtdtmknpttq0bdjqqlvjbfc4rghuamtqltfnalk3qu53zmdwvzztzw?oc=5": {
+      "headline": "S&P Downgraded Meituan As Alibaba Turns Up Delivery Pressure - Finimize",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:54:45.941888",
+      "last_seen": "2026-03-05T11:54:45.941905"
+    },
+    "https://news.google.com/rss/articles/cbmiiwjbvv95cuxocxmyqzlgdu1pchata1v1uvlby1ktvw1vujnkmllyqnh1tvledf9uqmdom2xpbhftbzzivxlfyi1jsmdrznl4slnjtffyvnplq0wwcvdpndk3nupft01pzfj2c3q1tfffqvjsdhzyotbxwejmt2u4ai1arzflrezysk9izm9iukfmutrdyljpovbhnemws0q2vee3nlozr2flz0plae1zuvlawuwwaw1isdhjvnc1mhlrx0j5qmy2ms1omlo0vnzvu2pwnlvpd0wtsgnrtffym0jpx2fyexzvnthwwmfqd19sdfdathndafpor1r0oexms3ltnm1mu3hxuulqsvm1wfrzou0?oc=5": {
+      "headline": "DDL: Profitability sustained, revenue up, but margins down; China business sale to Meituan announced - TradingView",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:54:50.248565",
+      "last_seen": "2026-03-05T11:54:50.248582"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnmzrcmy0xahixdkstmhhzmgfix2rysefosdlmbk5twuuxtjbvulnrsxqxwkrertbftlixnthsmhfgc0nwqnj6wjbuaglabflvz2xlugvtyndmtg8tswzzx3k1exytmjb4zhzwmjk4ennzsxv5eunorxg4q3lfyxq1u1g3y0d3qjfmn0xatmpicvlwrglammvzckxtq0eyavhpbkl2r0j5afqxogo5v29fz1d2tkxtdgs?oc=5": {
+      "headline": "S&P Downgrades Meituan to BBB+ on Heightened Alibaba Competition - marketscreener.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:54:53.236240",
+      "last_seen": "2026-03-05T11:54:53.236257"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte81rm5vmkdgz0try0zzsxvqbjrwauqyngzhcwr5vxrjzhhnsvzpcfnwskdushvzn3ktuxk0stdltdgxchzwcnbhb0fnlvptdm9rc3bhse5few9hcwvmdzlosdhhsvhbyuhumxm5snzbbthgufrbmk9oudnr?oc=5": {
+      "headline": "Dingdong hits record Q4 profits ahead of $717M unit sale - grafa.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:54:56.393065",
+      "last_seen": "2026-03-05T11:54:56.393082"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqszl6rdbtwlh2rv9ote91turpeks3b3kwchldz2lzwkn0x1jhze9zakfuckfkqwnkmjdwwedrus1vdursdujktvvpdjvszhdzym1hvurzevc0mwrsq3leztdvauz0ekc5d2rmcwk3blnkn01otl9vunq3v3pbwmrlvnl3thcwwwpqthbj?oc=5": {
+      "headline": "MEITUAN-W Launches 2026 Spring Campus Recruitment Globally, Focusing on AI Talent - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:55:01.132160",
+      "last_seen": "2026-03-05T11:55:01.132176"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqv0t0wevqmffzy1a0ttbfyvf1rmnjm0lhsm9icmrowettnvhxvxmtzxq3bdbssgpbb054cvlymzdqzuownkcwc3jovlfmmhfznjj4ztv3lu5yn19szjy3c1dbnktzzmzrbk15x1btoglmwjjmv3y3mdvhte1eovvmu2xlwk12nkxfru9jafp4tzjaqw9tqurcn05qvdctuji3whhv?oc=5": {
+      "headline": "Meituan Happy Monkey has signed an agreement to enter Huzhou, taking over the former Dazhong Fresh Supermarket location. - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:24:31.917261",
+      "last_seen": "2026-03-06T11:24:31.917280"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxoyugtuxvws2w4cgs5zmltouvjzm9ynlpku2xitgkysvvwevpxnwnhagm1c19mbtvkclh3aepnmuvxnjdxqvyzulbhd3rfqxpnc0zbyvjma3fxvhpoltgwahv3vxndeho2bmffm3nxqnryq2jazmfuzmcxrwfccnjlrzfstwravw9irkrtr0uyc0dezf8ywnc?oc=5": {
+      "headline": "Shangqiu Regulator Asks Removal of Ghost Food Deliveries at Meeting; Meituan/JD/ Taobao Instant Commerce Conduct Rectifications - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:24:35.271614",
+      "last_seen": "2026-03-06T11:24:35.271631"
+    },
+    "https://news.google.com/rss/articles/cbmixwfbvv95cuxqylz2qwtrr0nuou1dr1hqohbgwgizbktwz1peug5znkfyti1toue0a29du3npltdpzlpecwdorufzrufpc0rvrdnlyuddcvf2wtfwv0nma1hxwtvmq3frdmdcwhblt2lbajj5tme4szrndjvzqw8wvdrmwhjbs2jrvjntuu5lugs3zejomnbkve0ydxhqwnvmrujxzwppz1g0tw9saxnysxjdznfyte92se5uqvhvn1y1cjv5regzrfvezmdushdz0ghhaufvx3lxtfbivnzba1fhq1q5tunhwfa4cezyyjnus1znwkrqblk2qvholw05qtrrb0ntc08tn09mwkrxz05fqxnfqwlzrfvem0thr0nxuxzzmvzxq2zrwfdznuxdcwt2z0jycgvpaufqmnloythlne12nxnbbzbungzyckflymtwm21rtktqazdkqk4ycgruttj1egpaduxfqnflamlnwdrnb1jpc1hjcknmcxjmt3zitm5bwg83vjvynxlesdnevurmz25id1k?oc=5": {
+      "headline": "JD.com posts quarterly loss amid costly instant delivery battle - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:24:38.732781",
+      "last_seen": "2026-03-06T11:24:38.732798"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxptwhjnkwtsxvzvgzfuzjrmxhzwm90nnzjavpsvuhzuvpny1z3a0k0ylvnqm9puja1nez0s1pkm3k2smiyaldit0dvbkhgwflxbhhwt0ewss1snk5euedkovfcnna1wnrzv0pqtfbyq3hnluhnn001vnlmc0tjtnjrbgziemcyulzdofktt2rvzucwsdi3ltbjrfdoy19uyvham0hxalnqb3jct3dlam5bc0nzdtjxngfmtk1swhfuujbtb1hv?oc=5": {
+      "headline": "What's Going On With JD.com Stock Thursday? - JD.com (NASDAQ:JD) - Benzinga",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:24:42.514009",
+      "last_seen": "2026-03-06T11:24:42.514026"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxowmkxlwhpdgfunvhtykvirextwedpngnvetv1odzzrji5qknrsjnhuexingpoqjy0wjrznhdydetrskdptje5zjhoz3fzbmhxx1nctgk2d0ljagflcxllqln6tjhrcwzibudqd01kqkzjvly2s3r2x1dqndjtb3m3ruzizxa5wtzvb0lrnxj4ltdhmtnunc1nexgwtlbux1zceupcbddunupuaezjqzdzd3pjwq?oc=5": {
+      "headline": "JD.com Posts First Loss in Four Years on Weak Chinese Spending - Bloomberg",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:24:45.787624",
+      "last_seen": "2026-03-06T11:24:45.787641"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbnovlwt1dbzlhyt3i4vlnvzgxwtmvgmkxqzjj6v3jmdexksnfnexfvnw1tzko0tfntt29qzzzvyljnmdlyrkwxefdkskpsekhbsl9femnxngxqqtbjm0d4rvpywhhmadjoqmditmrwdkvsqwm?oc=5": {
+      "headline": "Bullish block trade of MEITUAN-W(03690) 69.8K shares at $76.95, $5.371M turnover - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:33:33.585029",
+      "last_seen": "2026-03-09T12:33:33.585048"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1uuzbjthfprehowgddd2fsdelwbmttltjkvufnsmjwswppzvdyb213cxjxynoxudbcm0vwwleyeep3swxuwwl5wxhkrejswlzuq1nz?oc=5": {
+      "headline": "Tsinghua University Unveils Graduates' Destinations: Just 8.5% Go Abroad, Huawei and ByteDance Emerge as Top Winners - 36 Kr",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:33:37.042629",
+      "last_seen": "2026-03-09T12:33:37.042654"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxoa2ludhhsmjles0ctmthcrkw2dhpeaxfwsmzmrvvfti1ltg44rzlfnujwqnhzudffvkzrruzivnq3oerrsgc2em9bqtnznmvgv1ppstzcdte4nfm5auluy3fvseozulfqzle1emlgaxjtrhbfu2e5m2vzugxvtlbquefwtel2n2xqufhhzuzrmg8xzwxhcg43vfb3?oc=5": {
+      "headline": "Chinese women chasing dreams with passion, confidence - malaysiasun.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:33:40.412808",
+      "last_seen": "2026-03-09T12:33:40.412825"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte5msnvhbwh6dulmr1h1vutquljpskz4utdeugzxq2plru1sqzz3weiydmj1shdxsmlmvndum2hqdzjvaghjr0gzcza1vmvmav9jaui1u2zoclhqzjlrmtqwv0y0zgnkef9obhjma1visq?oc=5": {
+      "headline": "HSI Opens Down 681 Pts; CNOOC Surges 8%; Commodities, Techs Recede - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:33:44.309068",
+      "last_seen": "2026-03-09T12:33:44.309087"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqrxniqjbjwmyzymrurddpy0hiwk9zm003djc4odnzzljobtfuwtnftv8wbzvwwtfrwdytwfjdahz3ei1ssulpm20ztzzrb1fjsfpsr2tfnzjnn2h3m2hmow1jzwrumxdtbxfxehlju3hauwlowwzrtgmzbzzim0q2mvnfuwxjb3fjtki3cvpqvhfeoddld01psez4mdq4mfdkdthdzuhod25kqwc?oc=5": {
+      "headline": "K Wah International flags HK$900 million loss for 2025 - The Standard (HK)",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:33:47.772191",
+      "last_seen": "2026-03-09T12:33:47.772207"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpznbgd0xxqwctd0zsyw02c0niavntoglnbnl6afz0vhpqsdftt1vdnndjtwvyyjbhzuduufdsyujsqwu0relpov85dgp3sgfxejrcctforgvlmeffznlqbkezndc1bugwsnjbt2i4dxf6v2rwa3rlzfdnog1wstbudxzgc2nkblzyawn1yvlsrtrmagzxmkpzm0c1ade2cdjsnmxeug02zju2uq?oc=5": {
+      "headline": "Meituan Should Play the Long Game in the Middle East - Bloomberg.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:20:51.180773",
+      "last_seen": "2026-03-10T10:20:51.180791"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqexvnr3b4zmqxeefjmdlovwzxuhbfwulvuep6vgrhovj0nuhtnkfucgrprkk3dvjudwvtqwfszmdrajfsegdjql9svvcxy0lfcf9ssdr0uwpsem0zynzvejbuq3kyn0zox21jqmg3uvdjodbjtf92m05rb2pfb2tns0jamupotldwb1pz?oc=5": {
+      "headline": "Lenovo Baiying Joins Meituan to Roll Out Exclusive OpenClaw Remote Deployment Service - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:20:54.441086",
+      "last_seen": "2026-03-10T10:20:54.441103"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxodkn1mxfus0v0n3p1avjizhd2azmzbxpav1yxbwrvytjid1rsstrsumdxsem5dudjbhyyvndnm0nkzko3c1m4vg1ymznfctdfafvpzddqvvbdmjnjc0xluvnfrtblsnb3avrlywpzugi5dflwvvfntfztnk04q2rpr1lkcjy?oc=5": {
+      "headline": "Lenovo Baiying, MEITUAN-W Launch OpenClaw Remote Deployment Service - AASTOCKS.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:20:58.374372",
+      "last_seen": "2026-03-10T10:20:58.374392"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxtfb3tfv6t2zdtvd2rjqxcxq3m1vwsum4ujlpnzrhaljzzw5yuzd1tuc5aerbd0iwuvrqugvusmrmes1dddvzqlvvewttt3jjufn0u3y1rmn4vlcxuel5qufttw9ntm1mqlbrvmdtngzzvq?oc=5": {
+      "headline": "HSI Down 348 pts; HSTI Down 5 pts; PING AN Down over 3%; CHINA SHENHUA, PETROCHINA, YANCOAL AUS, YANKUANG ENERGY Hit New Highs; Market Turnover Rises - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:21:01.955802",
+      "last_seen": "2026-03-10T10:21:01.955819"
+    }
+  }
+}

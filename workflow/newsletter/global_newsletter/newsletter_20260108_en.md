@@ -1,0 +1,79 @@
+## Most Important Stories
+
+- **US immigration agent fatally shoots woman in Minneapolis**: A US immigration agent shot and killed 37-year-old Renee Nicole Good in Minneapolis after she allegedly attempted to run over agents with her vehicle. The incident has led to protests and criticism from local officials, while the FBI investigates the shooting.
+
+- **Trump withdraws US from key climate treaty and dozens of other groups**: US President Donald Trump has announced the withdrawal of the United States from 66 international organizations, including the UN Framework Convention on Climate Change, claiming they no longer serve American interests. Critics argue this move undermines global cooperation on climate issues.
+
+- **Australia PM announces royal commission into Bondi shooting**: Australian Prime Minister Anthony Albanese has initiated a royal commission into the Bondi Beach shooting that killed 15 people, focusing on antisemitism and recommendations for improving social cohesion. The inquiry will be led by former High Court Justice Virginia Bell.
+
+- **Violent clashes erupt in Iran as protests spread**: Protests against the Iranian government's handling of the economic crisis have escalated, resulting in violent clashes across 111 cities and at least 34 deaths. Demonstrators are expressing anger over inflation and the declining value of the rial.
+
+- **Cambodia extradites alleged scam mastermind to China**: Billionaire businessman Chen Zhi has been extradited to China after being accused of masterminding a vast cryptocurrency scam. His arrest follows a joint investigation into transnational crime, and he faces charges related to online fraud.
+
+- **Heatwave hits Australia with catastrophic fire risk**: Australia is experiencing a severe heatwave, prompting officials to declare "catastrophic" fire conditions, particularly in Victoria. Temperatures are expected to exceed 40°C, leading to school closures and increased firefighting efforts.
+
+- **Children in Gaza return to school after years without formal education**: Following a ceasefire, children in Gaza have returned to school for the first time in nearly two years, despite challenging conditions and limited resources. The initiative aims to provide stability for children affected by the recent conflict.
+
+- **Trump's Greenland ambitions raise concerns**: US President Donald Trump has expressed interest in acquiring Greenland, citing its strategic importance. This has prompted backlash from Greenlanders and Danish officials, who emphasize the territory's right to self-determination.
+
+- **Thousands flee clashes between Syrian government and Kurdish fighters**: Intense fighting in Aleppo between the Syrian government and Kurdish forces has resulted in at least 12 deaths and forced tens of thousands to flee. The conflict highlights ongoing tensions and the complexities of integrating Kurdish forces into the Syrian state.
+
+- **Trump administration freezes $10B in child, family aid over fraud concerns**: The Trump administration has frozen significant federal funds for child care and family assistance programs in five states due to concerns over fraud. This decision affects various welfare programs amid ongoing investigations.
+
+- **Footage shows violent clashes as Iran protests spread to more areas**: Video footage has surfaced showing violent confrontations during protests in Iran, which have expanded to multiple cities. The protests are fueled by economic grievances and dissatisfaction with the government.
+
+- **Trump weighs using U.S. military to acquire Greenland**: President Donald Trump is considering military options to acquire Greenland, citing national security concerns amid increasing Russian and Chinese activities in the Arctic. This has raised alarm among European leaders regarding NATO's stability.
+
+- **Former Israeli hostage recounts sexual abuse in Hamas captivity**: A former Israeli hostage has detailed her traumatic experience of sexual abuse during captivity by Hamas, highlighting the psychological impact of such violence in conflict situations.
+
+- **Trump says Venezuela will purchase American products with revenue from oil deal**: President Donald Trump announced that Venezuela will use revenue from oil sales to purchase American products, following the transfer of millions of barrels of oil to the U.S. This move is part of broader efforts to reshape Venezuela's economic ties.
+
+- **UK and France agree to send troops to Ukraine in event of peace deal with Russia**: The UK and France have committed to sending troops to Ukraine if a peace agreement is reached with Russia, reinforcing their support for Ukraine amid ongoing conflict.
+
+- **Eva Schloss, Anne Frank’s stepsister and Holocaust campaigner, dies at 96**: Eva Schloss, a prominent Holocaust educator and the stepsister of Anne Frank, has passed away. Her legacy continues to inspire efforts in remembrance and education about the Holocaust.
+
+## Regional Stories (directly from local news)
+
+### Africa / Middle East:
+- **[4 killed, 5 injured in clash between residents, gold company in Takhar](https://pajhwok.com/2026/01/07/4-killed-5-injured-in-clash-between-residents-gold-company-in-takhar-qani/)**: A deadly clash in Afghanistan's Takhar province between locals and a gold company left four dead and five injured, with police investigations underway. (Pajhwok Afghan News, Afghanistan)
+- **[Success of the first trials of the Béchar–Tindouf line](https://www.elkhabar.com/fr/economie/succes-des-premiers-essais-de-la-ligne-bechar-tindouf-262063)**: Algeria successfully completed the first trials of the Béchar–Tindouf railway, aimed at transporting iron ore and boosting regional resource use. (El Khabar, Algeria)
+- **[The health ministry withdraws several infant milk products from "Nestlé" as a precautionary measure](https://www.alayam.com/online/local/1119414/News.html)**: Bahrain's health ministry recalled Nestlé infant milk products over safety concerns. (Al Ayam, Bahrain)
+- **[Orthodox Christians Mark Christmas on January 7 Across the World](https://www.ena.et/web/eng/w/eng_8076214)**: Orthodox Christians, including those in Ethiopia, celebrate Christmas on January 7, marking it with prayer and worship. (Ethiopian News Agency, Ethiopia)
+- **[Iran protests continue amid uncertain outlook, US military movements worry the regime](https://www.annahar.com/international/iran/267687/)**: Protests persist in Iran, driven by economic woes and exacerbated by US military posturing. (An-Nahar, Lebanon)
+- **[Protests in Iran, U.S. Military Movements Worry Regime](https://www.nytimes.com/2026/01/07/world/middleeast/iran-protest-crackdown.html)**: Iran faces ongoing protests against economic and political issues while the regime responds with crackdowns and is wary of US military actions. (The New York Times, USA)
+- **[No leniency for protesters 'helping enemy', warns Iran judiciary chief](https://kuwaittimes.com/article/38198/top-stories/no-leniency-for-protesters-helping-enemy-warns-iran-judiciary-chief/)**: Iran's judiciary announced harsh penalties for protesters aiding foreign nations, amid unrest in the country. (Kuwait Times, Kuwait)
+
+### Americas:
+- **[U.S. imposes up to $15,000 visa bonds on travelers from Antigua and Barbuda, Dominica](https://antigua.news/2026/01/06/breaking-u-s-imposes-up-to-us15000-visa-bonds-on-travelers-from-antigua-and-barbuda-dominica/)**: The new bond aims to reduce visa overstays but faces criticism for its financial impact. (Antigua.news, Antigua and Barbuda)
+- **[The United States advances with plans to reopen its embassy in Venezuela](https://www.infobae.com/estados-unidos/2026/01/08/estados-unidos-avanza-con-los-planes-para-reabrir-su-embajada-en-venezuela/)**: The U.S. is set to reopen its Caracas embassy, following significant political changes in Venezuela. (Infobae, Argentina)
+- **[Minnesota declares emergency and prepares National Guard after the death of a woman by ICE](https://www.eldiariodehoy.com/noticias/internacionales/minnesota-declara-emergencia-y-alista-guardia-nacional-tras-la-muerte-de-una-mujer-por-ice/56092/2026/)**: Minnesota responds to a fatal ICE shooting with an emergency declaration and National Guard activation. (El Diario de Hoy, El Salvador)
+- **[The United States seizes a Russian oil tanker in the North Atlantic](https://www.corriere.it/economia/finanza/26_gennaio_07/usa-sequestro-petroliera-russa-ira-mosca-2e2e49e1-c827-454f-83b4-23a25f791xlk.shtml)**: A U.S. seizure of a Russian oil tanker raises diplomatic tensions with Moscow. (Corriere della Sera, Italy)
+- **[Trump chooses Susie Wiles as chief of staff in the White House](https://almomento.net/trump-elige-a-susie-wiles-jefa-gabinete-primera-mujer-en-cargo/)**: US President Donald Trump appoints Susie Wiles as White House Chief of Staff, the first woman in this role. (ALMOMENTO.NET, Dominican Republic)
+- **[Guatemala breaks historical record for remittances: US$25.53 billion in 2025](https://www.prensalibre.com/economia/ingresos-por-remesas-familiares-alcanzan-record-historico-en-guatemala-y-alcanzan-us25-mil-530-2-millones-breaking/)**: Guatemala saw record remittances, a key contributor to its economy. (Prensa Libre, Guatemala)
+- **[Haiti arrests Joseph Cedernier for illegal importation of weapons and ammunition](https://lenouvelliste.com/article/263095/arrestation-de-joseph-cedernier-pour-importation-illegale-darmes-et-de-munitions)**: The arrest highlights ongoing issues with arms trafficking. (Le Nouvelliste, Haiti)
+- **[Shadbolt, former Invercargill Mayor, is remembered after passing away](https://www.nzherald.co.nz/nz/politicians-pay-tribute-to-former-invercargill-mayor-sir-tim-shadbolt-after-his-death/RFN7YCUH5VHXTCY6YMNL7B5UTM/)**: Tributes pour in for New Zealand political icon Sir Tim Shadbolt, who died at 78. (NZ Herald, New Zealand)
+
+### Asia:
+- **[China aims for secure, reliable supply of AI core tech by 2027](https://english.news.cn/20260107/f5491a84659d462a95032d8afc31ecd9/c.html)**: China focuses on AI tech to ensure industry integration by 2027. (Xinhua News Agency, China)
+- **[Operation resumes in Kathua to track down terrorists; one security person injured](https://www.thehindu.com/news/national/operation-kathua-jammu-and-kashmir-security-forces-terrorists-updates/article70485228.ece)**: Indian forces continue operations in Jammu and Kashmir to locate terrorists. (The Hindu, India)
+- **[Indonesia challenges Military Justice Law at Constitutional Court](https://nasional.kompas.com/read/2026/01/08/11430001/keluarga-korban-tindak-pidana-prajurit-tni-uji-materi-uu-peradilan-militer?source=headline)**: A victim's family tests military accountability over judicial proceedings in Indonesia. (Kompas, Indonesia)
+- **[Orthodox Christians celebrate Christmas](https://sitel.com.mk/pravoslavnite-hristijani-go-praznuvaat-bozhikj-0)**: In Skopje and beyond, Orthodox Christians mark Christmas festivities post-fasting. (Sitel, North Macedonia)
+- **[Counterintelligence Command's functions redistributed in South Korea](https://www.yna.co.kr/view/AKR20260108079200504?section=politics/all)**: South Korea reshuffles intelligence operations following agency dissolution. (Yonhap News Agency, South Korea)
+- **[Wat Arun photographers in Bangkok to receive 'manners' training](https://www.bangkokpost.com/thailand/general/3171355/wat-arun-photographers-to-get-manners-training)**: Bangkok's Wat Arun management enforces etiquette training for photography services. (Bangkok Post, Thailand)
+- **[Xanana and Ramos-Horta urge youth for peace in Timor-Leste](https://tatoli.tl/2026/01/08/xanana-ramos-horta-husu-joven-sira-harii-dame-iha-timor-leste/)**: Leaders call for youth engagement in Timor-Leste to foster harmony amid unrest. (Tatoli, Timor-Leste)
+
+### Europe:
+- **[Severe weather causes flooding in Kosovo, classes suspended](https://www.panorama.com.al/moti-i-keq-gjunjezon-edhe-kosoven-permbytje-deme-dhe-pezullim-i-mesimit/)**: Kosovo faces significant flooding leading to school closures. (Gazeta Panorama, Albania)
+- **[Marko Arnautovic is invited to the Hofburg](https://www.krone.at/4007745)**: The footballer will meet Austria's President to discuss national football topics. (Kronen Zeitung, Austria)
+- **[Belgium declines troop deployment to Greenland despite discussion](https://www.vrt.be/vrtnws/en/2026/01/07/sending-belgian-troops-to-greenland-is-not-on-the-agenda/)**: Belgium's defence minister clarifies no current plans to send troops to Greenland. (VRT NWS, Belgium)
+- **[Czech Republic avoids adopting the euro amid public skepticism](https://www.dnes.bg/a/2-svyat/706170-chehiya-e-poela-angazhiment-no-zashto-ne-priema-evroto)**: Czech leaders opt against euro adoption, prioritizing national currency stability. (dnes.bg, Bulgaria)
+- **[SNOW HAS BURIED CROATIA!](https://www.24sata.hr/news/snijeg-zarobio-ljude-u-busu-i-vlaku-spavali-i-po-stolovima-ostali-smo-satima-odsjeceni-1099642?24sata_ref=frontpage-home)**: Heavy snow in Croatia causes travel disruptions, trapping people for hours. (24sata, Croatia)
+- **[Arctic winter to extend in Czechia with more snowfall expected](https://www.novinky.cz/clanek/pocasi-arkticka-zima-nekonci-dorazi-snih-a-pote-opet-celodenni-mrazy-40556451)**: Czechia braces for persistent winter conditions with ongoing frost and snowfall. (Novinky.cz, Czech Republic)
+- **[Dangerous ice: yellow alert for cold on the Titan](https://www.sanmarinortv.sm/news/attualita-c4/ghiaccio-pericoloso-allerta-gialla-per-freddo-sul-titano-a284913)**: San Marino issues a yellow alert for icy conditions and advises caution. (San Marino RTV, San Marino)
+- **[Luka Dončić scores another triple-double and 68 points in 24 hours](https://www.delo.si/sport/kosarka/se-en-trojni-dvojcek-in-68-tock-vrocega-doncica-v-24-urah)**: Highlighting a stellar performance despite the Lakers' loss, Luka Dončić dominates. (Delo, Slovenia)
+- **[Denmark prepares for the unthinkable: a 'Venezuela' in Greenland](https://elpais.com/internacional/2026-01-08/dinamarca-se-prepara-para-lo-impensable-una-venezuela-en-groenlandia.html)**: Concerns rise in Denmark about potential U.S. actions toward Greenland following interventions elsewhere. (El País, Spain)
+- **[Switzerland mourns victims of bar fire in Crans-Montana](https://www.swissinfo.ch/eng/various/owners-of-swiss-fatal-fire-bar-break-silence/90735386?utm_source=multiple&utm_medium=website&utm_campaign=news_en&utm_content=o&utm_term=wpblock_highlighted-compact-news-carousel)**: A tragic fire in Switzerland prompts reflections on safety standards. (Swissinfo, Switzerland)
+
+### Oceania:
+- **[Albanese soon to announce antisemitism royal commission, Virginia Bell to lead](https://www.smh.com.au/politics/federal/virginia-bell-s-role-in-protest-laws-under-scrutiny-as-albanese-weighs-royal-commission-20260108-p5nskq.html)**: Australia's PM plans to launch an antisemitism inquiry post-terror attack. (The Sydney Morning Herald, Australia)
+- **[Tributes flow for former Invercargill Mayor Sir Tim Shadbolt](https://www.nzherald.co.nz/nz/politicians-pay-tribute-to-former-invercargill-mayor-sir-tim-shadbolt-after-his-death/RFN7YCUH5VHXTCY6YMNL7B5UTM/)**: New Zealand mourns the loss of iconic leader Sir Tim Shadbolt, hailed for his service. (NZ Herald, New Zealand)

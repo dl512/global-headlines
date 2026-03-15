@@ -1,0 +1,546 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09888-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68637839",
+    "https://news.futunn.com/hk/post/68636201",
+    "https://news.futunn.com/hk/post/68637211",
+    "https://news.futunn.com/hk/post/68633345",
+    "https://news.futunn.com/hk/post/68668734",
+    "https://news.futunn.com/hk/post/68666415",
+    "https://news.futunn.com/hk/post/68667468/iqiyi-iqus-has-opened-the-world-s-first-iqiyi-theme",
+    "https://news.futunn.com/hk/post/68663380",
+    "https://news.futunn.com/hk/post/68664990",
+    "https://news.futunn.com/hk/post/68665617",
+    "https://news.futunn.com/hk/post/68657538/openai-races-to-secure-tens-of-billions-in-financing-as",
+    "https://news.futunn.com/hk/post/68654261/salesforce-servicenow-back-in-ai-30",
+    "https://news.futunn.com/hk/post/68642472/what-does-seedance-2-0-mean-for-ai-applications",
+    "https://news.futunn.com/hk/post/68646604",
+    "https://news.futunn.com/hk/post/68649067",
+    "https://news.futunn.com/hk/post/68637211/from-big-company-resignation-to-selling-door-locks-tsinghua-master-invested-by-lei-jun-company-revenue-1-billion-aiming-for-hkex-valuation-260x-growth-in-11-years",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68801321/baidu-app-integrates-openclaw-enabling-a-full-chain-connection-for",
+    "https://news.futunn.com/flash/19942226/baidu-wenxin-s-mau-increased-fourfold",
+    "https://news.futunn.com/hk/post/68798243/baidu-uber-alliance-tests-apollo-go-and-valuation-story-in",
+    "https://news.futunn.com/hk/post/68782300/morgan-stanley-maintains-an-equal-weight-rating-on-baidu-inc",
+    "https://news.futunn.com/hk/post/68772861",
+    "https://news.futunn.com/hk/post/68776016",
+    "https://news.futunn.com/hk/post/68947016",
+    "https://news.futunn.com/hk/post/68944807/baidu-09888-hk-is-reportedly-set-to-initiate-a-roadshow",
+    "https://news.futunn.com/hk/post/68943060",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead",
+    "https://news.futunn.com/hk/post/69086313",
+    "https://news.futunn.com/hk/post/69086872/the-attractiveness-of-dim-sum-bonds-is-on-the-rise",
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47",
+    "https://news.futunn.com/hk/post/69194802",
+    "https://news.futunn.com/hk/post/69285650/baidu-s-revenue-in-the-fourth-quarter-reached-3274-billion-yuan-ai-new-businesses-account-for-over-40-percent-and-strong-growth-in-cloud-infrastructure",
+    "https://news.futunn.com/flash/19993504/the-dau-of-three-major-ai-applications-hit-a-new",
+    "https://news.futunn.com/hk/post/69337055",
+    "https://news.futunn.com/hk/post/69426929/hong-kong-listed-technology-stocks-continued-their-sluggish-performance",
+    "https://news.futunn.com/hk/post/69426957",
+    "https://news.futunn.com/hk/post/69560125",
+    "https://news.futunn.com/hk/post/69558522/little-k-morning-news-huawei-global-daily-average-token-consumption",
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese",
+    "https://news.futunn.com/hk/post/69551853/openai-has-released-a-faster-more-accurate-and-more-discerning",
+    "https://news.futunn.com/flash/20013973/the-united-states-utilized-anthropic-s-claude-ai-model-during",
+    "https://news.futunn.com/hk/post/69544102",
+    "https://news.futunn.com/hk/post/69541463",
+    "https://news.futunn.com/hk/post/69536565/robotaxi-players-in-the-middle-east-pause-some-services-and",
+    "https://news.futunn.com/hk/post/69535757",
+    "https://news.futunn.com/hk/post/69536429",
+    "https://news.futunn.com/hk/post/69534840/questmobile-s-latest-report-baidu-wenxin-assistant-reaches-360-million",
+    "https://news.futunn.com/hk/post/69533156",
+    "https://news.futunn.com/hk/post/69532753",
+    "https://news.futunn.com/hk/post/69536147",
+    "https://news.futunn.com/hk/post/69527606",
+    "https://news.futunn.com/hk/post/69526524/weride-apollo-go-pony-ai-reportedly-adjust-middle-east-operations",
+    "https://news.futunn.com/hk/post/69528779",
+    "https://news.futunn.com/hk/post/69527499",
+    "https://news.futunn.com/hk/post/69523065",
+    "https://news.futunn.com/hk/post/69696342",
+    "https://news.futunn.com/hk/post/69695830",
+    "https://news.futunn.com/hk/post/69695729",
+    "https://news.futunn.com/hk/post/69694843",
+    "https://news.futunn.com/hk/post/69695829",
+    "https://news.futunn.com/hk/post/69688488",
+    "https://news.futunn.com/hk/post/69680699/openai-has-released-its-most-powerful-specialized-model-gpt-5",
+    "https://news.futunn.com/hk/post/69677858/what-s-behind-this-32-million-bet-on-baidu-amid",
+    "https://news.futunn.com/hk/post/69779284",
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai",
+    "https://news.futunn.com/hk/post/69778803/baidu-chip-arm-kunlunxin-ipo-puts-ai-hardware-in-sharper",
+    "https://news.futunn.com/hk/post/69779284/海外行業週報：ai應用向agent進化，robotaxi市場化進程提速開源證券19分鐘前",
+    "https://news.futunn.com/hk/post/69776717/bank-of-america-securities-expects-zte-00763-hk-server-business",
+    "https://news.futunn.com/hk/post/69776897",
+    "https://news.futunn.com/hk/post/69829826/hong-kong-stocks-morning-review-hong-kong-stock-indexes-open-higher",
+    "https://news.futunn.com/hk/post/69827154",
+    "https://news.futunn.com/hk/post/69831686",
+    "https://news.futunn.com/hk/post/69824688",
+    "https://news.futunn.com/hk/post/69814039",
+    "https://news.futunn.com/hk/post/69809973/assessing-baidu-s-valuation-as-recent-share-price-weakness-follows",
+    "https://news.futunn.com/hk/post/69804732/372-13-billion-southbound-capital-hits-a-record-high-a"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68637839": {
+      "headline": "【IPO前哨】百度小米押注！智能鎖龍頭鹿客闖關港股，成色幾何？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:15:55.904443",
+      "last_seen": "2026-02-09T21:15:55.904452"
+    },
+    "https://news.futunn.com/hk/post/68636201": {
+      "headline": "智駕芯片新一輪博弈開場，誰在借力L3/L4重塑市場格局？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:16:00.997623",
+      "last_seen": "2026-02-09T21:16:00.997633"
+    },
+    "https://news.futunn.com/hk/post/68637211": {
+      "headline": "從大廠辭職賣門鎖，清華碩士獲雷軍投資，公司年營收10億衝刺港交所！估值11年增長超260倍",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:16:05.440386",
+      "last_seen": "2026-02-09T21:16:05.440401"
+    },
+    "https://news.futunn.com/hk/post/68633345": {
+      "headline": "2026年智能汽車行業市場現狀發展趨勢及未來前景展望",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:16:10.483853",
+      "last_seen": "2026-02-09T21:16:10.483892"
+    },
+    "https://news.futunn.com/hk/post/68668734": {
+      "headline": "別再和AI說「謝謝」",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:43:51.808892",
+      "last_seen": "2026-02-10T10:43:51.808908"
+    },
+    "https://news.futunn.com/hk/post/68666415": {
+      "headline": "紅包大戰一聲炮響，AI應用拐點已經到來？",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:43:56.653623",
+      "last_seen": "2026-02-10T10:43:56.653641"
+    },
+    "https://news.futunn.com/hk/post/68667468/iqiyi-iqus-has-opened-the-world-s-first-iqiyi-theme": {
+      "headline": "愛奇藝(IQ.US)於揚州開設全球首個愛奇藝樂園",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:01.020987",
+      "last_seen": "2026-02-10T10:44:01.021006"
+    },
+    "https://news.futunn.com/hk/post/68663380": {
+      "headline": "2025年，部分合資車企已經反彈了",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:07.893829",
+      "last_seen": "2026-02-10T10:44:07.893847"
+    },
+    "https://news.futunn.com/hk/post/68664990": {
+      "headline": "BATZ春節AI紅包大戰，百度，悲壯一員",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:12.633638",
+      "last_seen": "2026-02-10T10:44:12.633654"
+    },
+    "https://news.futunn.com/hk/post/68665617": {
+      "headline": "一圖｜AI應用「春節檔」持續上新，速看大廠即將發佈哪些AI應用新產品（附詳單）",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:18.230688",
+      "last_seen": "2026-02-10T10:44:18.230823"
+    },
+    "https://news.futunn.com/hk/post/68657538/openai-races-to-secure-tens-of-billions-in-financing-as": {
+      "headline": "OpenAI衝刺千億美元融資，奧爾特曼稱ChatGPT月度增速重回10%以上",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:22.529397",
+      "last_seen": "2026-02-10T10:44:22.529412"
+    },
+    "https://news.futunn.com/hk/post/68654261/salesforce-servicenow-back-in-ai-30": {
+      "headline": "賽富時和ServiceNow重回AI 30強",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:31.318054",
+      "last_seen": "2026-02-10T10:44:31.318071"
+    },
+    "https://news.futunn.com/hk/post/68642472/what-does-seedance-2-0-mean-for-ai-applications": {
+      "headline": "Seedance2.0 對AI應用意味着什麼？",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:36.954061",
+      "last_seen": "2026-02-10T10:44:36.954076"
+    },
+    "https://news.futunn.com/hk/post/68646604": {
+      "headline": "百度千帆披露AI落地成績：累計支持130萬智能體",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:41.984882",
+      "last_seen": "2026-02-10T10:44:41.984897"
+    },
+    "https://news.futunn.com/hk/post/68649067": {
+      "headline": "律師稱百度AI自動生成涉及其本人虛假犯罪信息案開庭，百度辯稱系AI 幻覺無主觀過錯",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:44:52.214463",
+      "last_seen": "2026-02-10T10:44:52.214480"
+    },
+    "https://news.futunn.com/hk/post/68637211/from-big-company-resignation-to-selling-door-locks-tsinghua-master-invested-by-lei-jun-company-revenue-1-billion-aiming-for-hkex-valuation-260x-growth-in-11-years": {
+      "headline": "從大廠辭職賣門鎖，清華碩士獲雷軍投資，公司年營收10億衝刺港交所！估值11年增長超260倍",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:45:00.742157",
+      "last_seen": "2026-02-10T10:45:00.742174"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:59:56.158781",
+      "last_seen": "2026-02-12T11:59:56.158796"
+    },
+    "https://news.futunn.com/hk/post/68801321/baidu-app-integrates-openclaw-enabling-a-full-chain-connection-for": {
+      "headline": "百度App接入OpenClaw 打通「生態+本地個人助理」全鏈路",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:59:58.450542",
+      "last_seen": "2026-02-12T11:59:58.450558"
+    },
+    "https://news.futunn.com/flash/19942226/baidu-wenxin-s-mau-increased-fourfold": {
+      "headline": "百度卡位AI入口 文心助手率先跑出四倍增速",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:00:00.681226",
+      "last_seen": "2026-02-12T12:00:00.681240"
+    },
+    "https://news.futunn.com/hk/post/68798243/baidu-uber-alliance-tests-apollo-go-and-valuation-story-in": {
+      "headline": "百度與優步聯盟在迪拜測試Apollo Go及估值故事",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:00:04.069393",
+      "last_seen": "2026-02-12T12:00:04.069408"
+    },
+    "https://news.futunn.com/hk/post/68782300/morgan-stanley-maintains-an-equal-weight-rating-on-baidu-inc": {
+      "headline": "摩根士丹利維持對百度公司（BIDU）的同等權重評級。",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:00:07.036979",
+      "last_seen": "2026-02-12T12:00:07.036994"
+    },
+    "https://news.futunn.com/hk/post/68772861": {
+      "headline": "爲什麼說百度在這場AI入口大戰中已經「躺贏」了",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:00:09.774236",
+      "last_seen": "2026-02-12T12:00:09.774250"
+    },
+    "https://news.futunn.com/hk/post/68776016": {
+      "headline": "具身天工3.0發佈：全尺寸機器人完成高動態運動控制",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:00:10.490556",
+      "last_seen": "2026-02-12T12:00:10.490571"
+    },
+    "https://news.futunn.com/hk/post/68947016": {
+      "headline": "多家平台遭約談 相關股份應聲受壓 京東集團跌2.16%",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:57:07.270170",
+      "last_seen": "2026-02-16T10:57:07.270186"
+    },
+    "https://news.futunn.com/hk/post/68944807/baidu-09888-hk-is-reportedly-set-to-initiate-a-roadshow": {
+      "headline": "《新股》傳百度(09888.HK)旗下崑崙芯春節後啟動路演",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:57:09.747391",
+      "last_seen": "2026-02-16T10:57:09.747406"
+    },
+    "https://news.futunn.com/hk/post/68943060": {
+      "headline": "固態電池新國標將於7月正式發佈！小米汽車累計交付超60萬台，破新勢力最快交付紀錄！我國1月份汽車出口68.1萬輛！丨一週大事件",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:57:10.441184",
+      "last_seen": "2026-02-16T10:57:10.441202"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股午評：恒科指漲3.32% 科網股、資源股走強 AI概念股回調",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:27:26.232059",
+      "last_seen": "2026-02-23T12:27:26.232075"
+    },
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead": {
+      "headline": "無懼關稅衝擊！科技板塊擔當 「主攻手」助科指大漲4%，機構：在AI應用加速推進的背景下，科技板塊有望反彈回升",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:27:27.120979",
+      "last_seen": "2026-02-23T12:27:27.120994"
+    },
+    "https://news.futunn.com/hk/post/69086313": {
+      "headline": "借道ETF逆勢加倉 超千億資金出手！下一步怎麼走？",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:27:27.833871",
+      "last_seen": "2026-02-23T12:27:27.833890"
+    },
+    "https://news.futunn.com/hk/post/69086872/the-attractiveness-of-dim-sum-bonds-is-on-the-rise": {
+      "headline": "點心債吸引力上升！發行人和投資人雙重需求旺盛",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:27:28.574822",
+      "last_seen": "2026-02-23T12:27:28.574847"
+    },
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47": {
+      "headline": "中美AI同步加速：47天30次更新，中國AI的最強主場究竟在哪？",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:27:29.353767",
+      "last_seen": "2026-02-23T12:27:29.353782"
+    },
+    "https://news.futunn.com/hk/post/69194802": {
+      "headline": "2026年春節「AI紅包」派發超45億元 「脈衝式流量」後用戶黏性成關鍵",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:32:54.070337",
+      "last_seen": "2026-02-25T11:32:54.070354"
+    },
+    "https://news.futunn.com/hk/post/69285650/baidu-s-revenue-in-the-fourth-quarter-reached-3274-billion-yuan-ai-new-businesses-account-for-over-40-percent-and-strong-growth-in-cloud-infrastructure": {
+      "headline": "百度第四季度營收327.4億元，AI新業務佔比突破四成，智能雲基礎設施增長強勁",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:45:05.722183",
+      "last_seen": "2026-02-27T11:45:05.722199"
+    },
+    "https://news.futunn.com/flash/19993504/the-dau-of-three-major-ai-applications-hit-a-new": {
+      "headline": "快訊 | 三大AI應用春節DAU創新高 千問縮小與豆包差距",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:45:07.276692",
+      "last_seen": "2026-02-27T11:45:07.276714"
+    },
+    "https://news.futunn.com/hk/post/69337055": {
+      "headline": "百度2025業績：AI動能切換「奇點」已至，價值重估開啓「王者歸來」",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:45:08.322050",
+      "last_seen": "2026-02-27T11:45:08.322067"
+    },
+    "https://news.futunn.com/hk/post/69426929/hong-kong-listed-technology-stocks-continued-their-sluggish-performance": {
+      "headline": "港股科技股持續低迷",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:59:00.022431",
+      "last_seen": "2026-03-02T09:59:00.022460"
+    },
+    "https://news.futunn.com/hk/post/69426957": {
+      "headline": "海外市場|地緣衝突推升金銀避險，美股科技股重挫，中概分化加劇",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:59:00.881686",
+      "last_seen": "2026-03-02T09:59:00.881706"
+    },
+    "https://news.futunn.com/hk/post/69560125": {
+      "headline": "知產財經：2025年專利授權量企業百強榜出爐，格力等頭部企業引領創新浪潮",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:16.262767",
+      "last_seen": "2026-03-04T09:44:16.262786"
+    },
+    "https://news.futunn.com/hk/post/69558522/little-k-morning-news-huawei-global-daily-average-token-consumption": {
+      "headline": "小K播早報|華爲：全球日均Token消耗量增長近300倍 美股大型科技股多數下跌",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:17.384215",
+      "last_seen": "2026-03-04T09:44:17.384234"
+    },
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese": {
+      "headline": "百億基金經理夏俊傑：中國股票是最便宜主流資產，AI泡沫土壤或不在",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:18.496585",
+      "last_seen": "2026-03-04T09:44:18.496600"
+    },
+    "https://news.futunn.com/hk/post/69551853/openai-has-released-a-faster-more-accurate-and-more-discerning": {
+      "headline": "OpenAI發佈更快更準更有判斷力模型GPT-5.3 Instant，週二向ChatGPT用戶開放",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:19.607868",
+      "last_seen": "2026-03-04T09:44:19.607887"
+    },
+    "https://news.futunn.com/flash/20013973/the-united-states-utilized-anthropic-s-claude-ai-model-during": {
+      "headline": "快訊 | 美國在上週末對伊朗發動襲擊期間使用了Anthropic的Claude AI模型",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:20.734345",
+      "last_seen": "2026-03-04T09:44:20.734362"
+    },
+    "https://news.futunn.com/hk/post/69544102": {
+      "headline": "道指深夜重挫1200點，黃金白銀大跌，國際油價大漲8%",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:21.453053",
+      "last_seen": "2026-03-04T09:44:21.453070"
+    },
+    "https://news.futunn.com/hk/post/69541463": {
+      "headline": "OpenClaw官方微博賬號開通，智譜、百度等排隊歡迎",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:22.577675",
+      "last_seen": "2026-03-04T09:44:22.577690"
+    },
+    "https://news.futunn.com/hk/post/69536565/robotaxi-players-in-the-middle-east-pause-some-services-and": {
+      "headline": "由於伊朗衝突，中東的機器人出租車公司在部分地區暫停了服務和測試",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:24.416669",
+      "last_seen": "2026-03-04T09:44:24.416686"
+    },
+    "https://news.futunn.com/hk/post/69535757": {
+      "headline": "百度App接入OpenClaw 2周，超2成用戶調用於投資理財分析",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:27.986541",
+      "last_seen": "2026-03-04T09:44:27.986557"
+    },
+    "https://news.futunn.com/hk/post/69536429": {
+      "headline": "夠力！百度 海南，來自貿港搞AI",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:29.124090",
+      "last_seen": "2026-03-04T09:44:29.124105"
+    },
+    "https://news.futunn.com/hk/post/69534840/questmobile-s-latest-report-baidu-wenxin-assistant-reaches-360-million": {
+      "headline": "QuestMobile最新報告：百度文心助手月活3.6億，登頂國內第一",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:33.153709",
+      "last_seen": "2026-03-04T09:44:33.153723"
+    },
+    "https://news.futunn.com/hk/post/69533156": {
+      "headline": "美國考慮限制中國客戶購買英偉達H200數量，每位不超過75,000顆",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:33.861902",
+      "last_seen": "2026-03-04T09:44:33.861918"
+    },
+    "https://news.futunn.com/hk/post/69532753": {
+      "headline": "海南省政府與百度簽署深化戰略合作協議",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:38.333872",
+      "last_seen": "2026-03-04T09:44:38.333890"
+    },
+    "https://news.futunn.com/hk/post/69536147": {
+      "headline": "瑞銀——中國人工智能行業：智能體：中美髮展趨勢是否出現分化？（附下載）",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:39.102213",
+      "last_seen": "2026-03-04T09:44:39.102229"
+    },
+    "https://news.futunn.com/hk/post/69527606": {
+      "headline": "OpenClaw爆火60天：中國產業AI落地的「又一次集體進化」",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:40.051281",
+      "last_seen": "2026-03-04T09:44:40.051298"
+    },
+    "https://news.futunn.com/hk/post/69526524/weride-apollo-go-pony-ai-reportedly-adjust-middle-east-operations": {
+      "headline": "據報道，文遠知行、Apollo Go 和小馬智行在美伊衝突背景下調整中東業務",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:44:41.986165",
+      "last_seen": "2026-03-04T09:44:41.986182"
+    },
+    "https://news.futunn.com/hk/post/69528779": {
+      "headline": "豆包千問狂飆，百度網盤失速：2月全球AI應用榜重塑",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:46.504894",
+      "last_seen": "2026-03-04T09:44:46.504911"
+    },
+    "https://news.futunn.com/hk/post/69527499": {
+      "headline": "季度業績前瞻 | 百度集團-SW：預測一季度營業收入322.03億元，同比變動-0.8%",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:48.534762",
+      "last_seen": "2026-03-04T09:44:48.534776"
+    },
+    "https://news.futunn.com/hk/post/69523065": {
+      "headline": "成爲主角的百度 AI，能支棱起來嗎？",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:44:52.358323",
+      "last_seen": "2026-03-04T09:44:52.358337"
+    },
+    "https://news.futunn.com/hk/post/69696342": {
+      "headline": "百度等入股智平方 後者爲通用智能機器人研發商",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:15:33.840595",
+      "last_seen": "2026-03-06T11:15:33.840613"
+    },
+    "https://news.futunn.com/hk/post/69695830": {
+      "headline": "【券商聚焦】國泰海通證券：百度AI業務驅動增長，維持增持評級",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:15:36.130564",
+      "last_seen": "2026-03-06T11:15:36.130578"
+    },
+    "https://news.futunn.com/hk/post/69695729": {
+      "headline": "百度、京東、嗶哩嗶哩等先後披露業績，AI成色顯著提升",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:15:40.378034",
+      "last_seen": "2026-03-06T11:15:40.378054"
+    },
+    "https://news.futunn.com/hk/post/69694843": {
+      "headline": "【券商聚焦】東方證券指百度廣告業務有望企穩，雲業務成新增長點",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:15:43.049086",
+      "last_seen": "2026-03-06T11:15:43.049102"
+    },
+    "https://news.futunn.com/hk/post/69695829": {
+      "headline": "搜索已死？百度千億豪賭，能換來一張AI船票嗎",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:15:43.759240",
+      "last_seen": "2026-03-06T11:15:43.759255"
+    },
+    "https://news.futunn.com/hk/post/69688488": {
+      "headline": "爲什麼Google、Meta、阿里都在賭AI眼鏡？",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:15:44.909569",
+      "last_seen": "2026-03-06T11:15:44.909585"
+    },
+    "https://news.futunn.com/hk/post/69680699/openai-has-released-its-most-powerful-specialized-model-gpt-5": {
+      "headline": "OpenAI發佈最強專業模型GPT-5.4，自動操作電腦，插件支持AI玩轉Excel和金融分析",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:15:46.059596",
+      "last_seen": "2026-03-06T11:15:46.059614"
+    },
+    "https://news.futunn.com/hk/post/69677858/what-s-behind-this-32-million-bet-on-baidu-amid": {
+      "headline": "在股票上漲36%的情況下，究竟是什麼促成了對百度的$3,200萬投資？",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:15:50.523587",
+      "last_seen": "2026-03-06T11:15:50.523601"
+    },
+    "https://news.futunn.com/hk/post/69779284": {
+      "headline": "海外行業週報：AI應用向Agent進化，Robotaxi市場化進程提速",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:28:19.065357",
+      "last_seen": "2026-03-09T12:28:19.065374"
+    },
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai": {
+      "headline": "《大行》瑞銀：內地科網巨擘AI戰略聚焦本土市場 新興AI企業著力境外業務",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:28:20.632257",
+      "last_seen": "2026-03-09T12:28:20.632273"
+    },
+    "https://news.futunn.com/hk/post/69778803/baidu-chip-arm-kunlunxin-ipo-puts-ai-hardware-in-sharper": {
+      "headline": "百度芯片子公司崑崙芯上市使人工智能硬件更加受到關注。",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:28:25.218107",
+      "last_seen": "2026-03-09T12:28:25.218125"
+    },
+    "https://news.futunn.com/hk/post/69779284/海外行業週報：ai應用向agent進化，robotaxi市場化進程提速開源證券19分鐘前": {
+      "headline": "中國AI算力暗戰：字節阿里押注英偉達，訊飛全國產，百度走雙軌",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:28:26.387733",
+      "last_seen": "2026-03-09T12:28:26.387749"
+    },
+    "https://news.futunn.com/hk/post/69776717/bank-of-america-securities-expects-zte-00763-hk-server-business": {
+      "headline": "《大行》美銀證券料中興(00763.HK)伺服器業務增長持續強勁 維持目標價及「買入」評級",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:28:27.681916",
+      "last_seen": "2026-03-09T12:28:27.681932"
+    },
+    "https://news.futunn.com/hk/post/69776897": {
+      "headline": "南興股份：以雙主業深度協同與規模佈局爲核心，持續推動經營質效躍升",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:28:28.582272",
+      "last_seen": "2026-03-09T12:28:28.582299"
+    },
+    "https://news.futunn.com/hk/post/69829826/hong-kong-stocks-morning-review-hong-kong-stock-indexes-open-higher": {
+      "headline": "港股早評：三大指數高開，科技股普漲，航空股大幅反彈，石油股走低",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:15:26.530194",
+      "last_seen": "2026-03-10T10:15:26.530213"
+    },
+    "https://news.futunn.com/hk/post/69827154": {
+      "headline": "把握窗口期，中國智能駕駛如何從「內卷」到「出海」？",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:15:27.488392",
+      "last_seen": "2026-03-10T10:15:27.488411"
+    },
+    "https://news.futunn.com/hk/post/69831686": {
+      "headline": "中金公司： 港股流動性有待提升，恒生科技迎來左側逐步佈局機會",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:15:29.080166",
+      "last_seen": "2026-03-10T10:15:29.080182"
+    },
+    "https://news.futunn.com/hk/post/69824688": {
+      "headline": "百度2025業績：傳統業務收縮陣痛中，AI新引擎驅動新生未來",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:15:31.102757",
+      "last_seen": "2026-03-10T10:15:31.102772"
+    },
+    "https://news.futunn.com/hk/post/69814039": {
+      "headline": "百度硬科技轉型關鍵期：崑崙芯上市「減負」，蘿蔔快跑出海「燒錢」添阻",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:15:32.009074",
+      "last_seen": "2026-03-10T10:15:32.009090"
+    },
+    "https://news.futunn.com/hk/post/69809973/assessing-baidu-s-valuation-as-recent-share-price-weakness-follows": {
+      "headline": "百度近期股價疲軟，此前一年回報率強勁，對其估值進行評估",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:15:35.828925",
+      "last_seen": "2026-03-10T10:15:35.828943"
+    },
+    "https://news.futunn.com/hk/post/69804732/372-13-billion-southbound-capital-hits-a-record-high-a": {
+      "headline": "372.13億！南向資金創紀錄！重磅信號！",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:15:36.613276",
+      "last_seen": "2026-03-10T10:15:36.613292"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09880-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68644485",
+    "https://news.futunn.com/hk/post/68616397/idc-global-humanoid-robot-shipments-to-approach-18000-units-by",
+    "https://news.futunn.com/hk/post/68617548",
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong",
+    "https://news.futunn.com/hk/post/68604044",
+    "https://news.futunn.com/hk/post/68601350",
+    "https://news.futunn.com/hk/post/68599816",
+    "https://news.futunn.com/hk/post/68559162",
+    "https://news.futunn.com/hk/post/68530995",
+    "https://news.futunn.com/hk/post/68645797",
+    "https://news.futunn.com/hk/post/68598921",
+    "https://news.futunn.com/hk/post/68475076",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will",
+    "https://news.futunn.com/hk/post/68800884/the-launch-of-tiangong-explorer-dex-marks-a-significant-milestone",
+    "https://news.futunn.com/hk/post/68761008/with-xiaomi-neighboring-robot-giant-to-build-factory-in-beijing-by-2030-aiming-to-produce-500000-robots",
+    "https://news.futunn.com/hk/post/68872596/dongwu-securities-emphasize-the-first-year-of-large-scale-robot",
+    "https://news.futunn.com/hk/post/68870257",
+    "https://news.futunn.com/hk/post/68866857/year-to-date-south-korean-capital-has-been-the-largest",
+    "https://news.futunn.com/hk/post/68845664/ubs-group-estimated-demand-for-humanoid-robots-to-reach-30000",
+    "https://news.futunn.com/hk/post/68822882",
+    "https://news.futunn.com/hk/post/68808795/the-pace-of-development-is-astonishing-musk-praised-seedance-2",
+    "https://news.futunn.com/hk/post/68933964",
+    "https://news.futunn.com/hk/post/69089320/goldman-sachs-on-spring-festival-gala-robots-significant-progress-in",
+    "https://news.futunn.com/hk/post/69089765/bloomberg-robots-once-again-became-the-focus-of-china-s",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69195948",
+    "https://news.futunn.com/hk/post/69192646",
+    "https://news.futunn.com/hk/post/69334141",
+    "https://news.futunn.com/hk/post/69327884/abnormal-fluctuation-statistics-of-stock-connect-hk-stocks-february-27",
+    "https://news.futunn.com/hk/post/69325538/capital-flows-statistics-for-hkex-connect-t-2-february-27",
+    "https://news.futunn.com/hk/post/69264640",
+    "https://news.futunn.com/hk/post/69261150",
+    "https://news.futunn.com/hk/post/69253118",
+    "https://news.futunn.com/hk/post/69252787/during-this-year-s-spring-festival-in-mainland-china-orders",
+    "https://news.futunn.com/hk/post/69230384",
+    "https://news.futunn.com/flash/20016154/the-spokesperson-for-the-conference-stated-that-2025-will-be",
+    "https://news.futunn.com/hk/post/69695842",
+    "https://news.futunn.com/hk/post/69689994",
+    "https://news.futunn.com/hk/post/69688869",
+    "https://news.futunn.com/hk/post/69636914",
+    "https://news.futunn.com/hk/post/69825611",
+    "https://news.futunn.com/hk/post/69825734/intelligent-finance-hk-stock-connect-capital-flow-statistics-t-2"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68644485": {
+      "headline": "600家上市公司背後：深圳如何實現從速度到質量的新跨越？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:38:58.778267",
+      "last_seen": "2026-02-09T21:38:58.778280"
+    },
+    "https://news.futunn.com/hk/post/68616397/idc-global-humanoid-robot-shipments-to-approach-18000-units-by": {
+      "headline": "IDC：2025年全球人形機器人出貨量接近1.8萬台 同比增長約508%",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:03.039026",
+      "last_seen": "2026-02-09T21:39:03.039034"
+    },
+    "https://news.futunn.com/hk/post/68617548": {
+      "headline": "機器人1億元上春晚，值得嗎？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:07.312916",
+      "last_seen": "2026-02-09T21:39:07.312929"
+    },
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong": {
+      "headline": "港股AI應用、光通訊情緒持續回暖，券商研報指明AI價值重構新路徑",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:12.366905",
+      "last_seen": "2026-02-09T21:39:12.366913"
+    },
+    "https://news.futunn.com/hk/post/68604044": {
+      "headline": "中信證券:2026年將成爲機器人產業\"量產元年\"",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:15.791985",
+      "last_seen": "2026-02-09T21:39:15.791993"
+    },
+    "https://news.futunn.com/hk/post/68601350": {
+      "headline": "春節「硅基打工人」走紅：人形機器人租賃，短期狂歡還是長期風口？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:19.890641",
+      "last_seen": "2026-02-09T21:39:19.890650"
+    },
+    "https://news.futunn.com/hk/post/68599816": {
+      "headline": "機械設備行業定期報告：鏈傳動賦能仿生智造，徵和工業助力具身智能新突破",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:24.191870",
+      "last_seen": "2026-02-09T21:39:24.191883"
+    },
+    "https://news.futunn.com/hk/post/68559162": {
+      "headline": "獨霸華爲電機訂單！特斯拉+優必選+宇樹 核心的3家企業",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:39:31.153954",
+      "last_seen": "2026-02-09T21:39:31.153963"
+    },
+    "https://news.futunn.com/hk/post/68530995": {
+      "headline": "拿下9榜第一！優必選開源新基座模型，要破解具身智能落地最大難題",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:39:37.750124",
+      "last_seen": "2026-02-09T21:39:37.750132"
+    },
+    "https://news.futunn.com/hk/post/68645797": {
+      "headline": "具身智能產業鏈跟蹤（32）：特斯拉官微預熱OptimusV3亮相",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:04:21.692844",
+      "last_seen": "2026-02-10T11:04:21.692858"
+    },
+    "https://news.futunn.com/hk/post/68598921": {
+      "headline": "人形機器人領域最核心的8家上市公司",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:04:36.261238",
+      "last_seen": "2026-02-10T11:04:36.261254"
+    },
+    "https://news.futunn.com/hk/post/68475076": {
+      "headline": "優奇無人物流車在富士康鄭州工廠完成PVT下線",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:04:52.520000",
+      "last_seen": "2026-02-10T11:04:52.520022"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:27:33.188024",
+      "last_seen": "2026-02-12T12:27:33.188036"
+    },
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will": {
+      "headline": "知名對沖基金孤松資本：AI泡沫還要等到OpenAI上市，不博弈短期而是思考3-5年的世界格局",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:27:33.806788",
+      "last_seen": "2026-02-12T12:27:33.806803"
+    },
+    "https://news.futunn.com/hk/post/68800884/the-launch-of-tiangong-explorer-dex-marks-a-significant-milestone": {
+      "headline": "天工行者DEX重磅發佈，敏捷開放助力科研教育新突破",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:27:36.275072",
+      "last_seen": "2026-02-12T12:27:36.275087"
+    },
+    "https://news.futunn.com/hk/post/68761008/with-xiaomi-neighboring-robot-giant-to-build-factory-in-beijing-by-2030-aiming-to-produce-500000-robots": {
+      "headline": "與小米做鄰居！「手機」巨頭進京建廠，2030年要造50萬臺機器人",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:27:38.111213",
+      "last_seen": "2026-02-12T12:27:38.111230"
+    },
+    "https://news.futunn.com/hk/post/68872596/dongwu-securities-emphasize-the-first-year-of-large-scale-robot": {
+      "headline": "東吳證券：重視機器人規模化量產元年 彈性標的需關注技術迭代&降本",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:42.409781",
+      "last_seen": "2026-02-13T12:51:42.409802"
+    },
+    "https://news.futunn.com/hk/post/68870257": {
+      "headline": "1.8 萬台出貨，508% 增長，人形機器人中國主導",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:43.374633",
+      "last_seen": "2026-02-13T12:51:43.374648"
+    },
+    "https://news.futunn.com/hk/post/68866857/year-to-date-south-korean-capital-has-been-the-largest": {
+      "headline": "年初至今韓資在港買入最多MINIMAX(00100.HK) 涉資2,070萬美元",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:44.501553",
+      "last_seen": "2026-02-13T12:51:44.501570"
+    },
+    "https://news.futunn.com/hk/post/68845664/ubs-group-estimated-demand-for-humanoid-robots-to-reach-30000": {
+      "headline": "瑞銀：預計2026年人形機器人需求3萬台，真正放量或在2027—2028年",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:45.538906",
+      "last_seen": "2026-02-13T12:51:45.538926"
+    },
+    "https://news.futunn.com/hk/post/68822882": {
+      "headline": "優必選等攜手柳州產控 6.6億成立私募股權投資合夥企業",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:46.550050",
+      "last_seen": "2026-02-13T12:51:46.550070"
+    },
+    "https://news.futunn.com/hk/post/68808795/the-pace-of-development-is-astonishing-musk-praised-seedance-2": {
+      "headline": "「發展速度太快了」！馬斯克點贊Seedance 2.0，字節稱「還遠不完美」",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:51:47.266143",
+      "last_seen": "2026-02-13T12:51:47.266158"
+    },
+    "https://news.futunn.com/hk/post/68933964": {
+      "headline": "優理奇發佈Panther 黑豹系列機器人 開啓機器人智能新紀元",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:14:29.167086",
+      "last_seen": "2026-02-16T11:14:29.167104"
+    },
+    "https://news.futunn.com/hk/post/69089320/goldman-sachs-on-spring-festival-gala-robots-significant-progress-in": {
+      "headline": "高盛評\"春晚機器人\"：硬件顯著進步，推動應用普及，未來關鍵是底層AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:46:53.690262",
+      "last_seen": "2026-02-23T12:46:53.690277"
+    },
+    "https://news.futunn.com/hk/post/69089765/bloomberg-robots-once-again-became-the-focus-of-china-s": {
+      "headline": "彭博：機器人再度成爲中國春晚焦點 點燃市場科技投資熱情 速騰聚創等股票馬年首個交易日逆市上揚",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:46:54.393452",
+      "last_seen": "2026-02-23T12:46:54.393469"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股周觀點 | 科技和週期耗材仍是清晰主線",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:46:55.130310",
+      "last_seen": "2026-02-23T12:46:55.130325"
+    },
+    "https://news.futunn.com/hk/post/69195948": {
+      "headline": "【IPO前哨】當倉儲機器人「駛」向港股：海柔創新的速度與代價",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:42:25.699966",
+      "last_seen": "2026-02-25T12:42:25.699981"
+    },
+    "https://news.futunn.com/hk/post/69192646": {
+      "headline": "2026 機器人賽道：對標 2012 新能源汽車車，數據成了新鋰礦",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:42:27.209981",
+      "last_seen": "2026-02-25T12:42:27.209998"
+    },
+    "https://news.futunn.com/hk/post/69334141": {
+      "headline": "廣州黃埔：8600億經濟底座上的AI野心",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:16.296384",
+      "last_seen": "2026-02-27T12:16:16.296404"
+    },
+    "https://news.futunn.com/hk/post/69327884/abnormal-fluctuation-statistics-of-stock-connect-hk-stocks-february-27": {
+      "headline": "智通港股通佔比異動統計|2月27日",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:17.407760",
+      "last_seen": "2026-02-27T12:16:17.407775"
+    },
+    "https://news.futunn.com/hk/post/69325538/capital-flows-statistics-for-hkex-connect-t-2-february-27": {
+      "headline": "智通港股通資金流向統計(T+2)|2月27日",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:18.490429",
+      "last_seen": "2026-02-27T12:16:18.490446"
+    },
+    "https://news.futunn.com/hk/post/69264640": {
+      "headline": "機器人從「春晚」到「我家」需要幾步？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:19.986427",
+      "last_seen": "2026-02-27T12:16:19.986444"
+    },
+    "https://news.futunn.com/hk/post/69261150": {
+      "headline": "春節人形機器人刷屏，節後板塊爲何反應平平？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:20.922990",
+      "last_seen": "2026-02-27T12:16:20.923006"
+    },
+    "https://news.futunn.com/hk/post/69253118": {
+      "headline": "人形機器人，有了「新戰場」",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:22.017987",
+      "last_seen": "2026-02-27T12:16:22.018007"
+    },
+    "https://news.futunn.com/hk/post/69252787/during-this-year-s-spring-festival-in-mainland-china-orders": {
+      "headline": "內地今年春節期間機械人租賃訂單按周增近七成",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:23.091268",
+      "last_seen": "2026-02-27T12:16:23.091285"
+    },
+    "https://news.futunn.com/hk/post/69230384": {
+      "headline": "春晚機器人「炫技」背後：商業化落地難，何時能成車間「主力軍」？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:16:23.770275",
+      "last_seen": "2026-02-27T12:16:23.770290"
+    },
+    "https://news.futunn.com/flash/20016154/the-spokesperson-for-the-conference-stated-that-2025-will-be": {
+      "headline": "快訊 | 大會發言人：2025年是國產人形機器人產業實現技術突破與場景落地雙重跨越的關鍵一年",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:47:46.459800",
+      "last_seen": "2026-03-04T13:47:46.459823"
+    },
+    "https://news.futunn.com/hk/post/69695842": {
+      "headline": "優必選落子秦皇島打造具身智能北方基地",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:48:58.632692",
+      "last_seen": "2026-03-06T11:48:58.632707"
+    },
+    "https://news.futunn.com/hk/post/69689994": {
+      "headline": "2026年中國機器人行業技術創新與產業鏈分析",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:48:59.468974",
+      "last_seen": "2026-03-06T11:48:59.468990"
+    },
+    "https://news.futunn.com/hk/post/69688869": {
+      "headline": "優必選：深耕核心技術，練就獨家本領",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:49:00.657218",
+      "last_seen": "2026-03-06T11:49:00.657234"
+    },
+    "https://news.futunn.com/hk/post/69636914": {
+      "headline": "「十五五」開局丨具身機器人火了 陝西用「減速器」撬動機器人產業鏈",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:49:01.485982",
+      "last_seen": "2026-03-06T11:49:01.485997"
+    },
+    "https://news.futunn.com/hk/post/69825611": {
+      "headline": "搭上未來產業列車 具身智能駛入場景落地賽新通道",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:42:25.580299",
+      "last_seen": "2026-03-10T10:42:25.580314"
+    },
+    "https://news.futunn.com/hk/post/69825734/intelligent-finance-hk-stock-connect-capital-flow-statistics-t-2": {
+      "headline": "智通港股通資金流向統計(T+2)|3月10日",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:42:26.440772",
+      "last_seen": "2026-03-10T10:42:26.440791"
+    }
+  }
+}

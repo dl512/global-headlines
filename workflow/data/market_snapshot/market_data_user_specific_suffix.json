@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2026-01-09",
+    "timestamp": "2026-01-09T13:16:21.234339",
+    "data": [
+      {
+        "name": "Apple",
+        "ticker": "AAPL",
+        "is_index": false,
+        "current_price": 259.04,
+        "prev_close": 260.3299865722656,
+        "pct_change": -0.4955197782824431,
+        "ytd_change": -4.41681463204141,
+        "market_cap_usd_bn": 3844.254728192,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:16:21.234339"
+      },
+      {
+        "name": "Microsoft",
+        "ticker": "MSFT",
+        "is_index": false,
+        "current_price": 478.11,
+        "prev_close": 483.4700012207031,
+        "pct_change": -1.1086522860094232,
+        "ytd_change": 1.0931614014262385,
+        "market_cap_usd_bn": 3553.871003648,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:16:21.234339"
+      },
+      {
+        "name": "Tesla",
+        "ticker": "TSLA",
+        "is_index": false,
+        "current_price": 435.8,
+        "prev_close": 431.4100036621094,
+        "pct_change": 1.0175926150588261,
+        "ytd_change": -0.5181836889688479,
+        "market_cap_usd_bn": 1449.391947776,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:16:21.234339"
+      },
+      {
+        "name": "Nvidia",
+        "ticker": "NVDA",
+        "is_index": false,
+        "current_price": 185.04,
+        "prev_close": 189.11000061035156,
+        "pct_change": -2.152186873891208,
+        "ytd_change": -2.0174773525965515,
+        "market_cap_usd_bn": 4505.169035264,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:16:21.234339"
+      },
+      {
+        "name": "S&P 500",
+        "ticker": "^GSPC",
+        "is_index": true,
+        "current_price": 6921.46,
+        "prev_close": 6920.93017578125,
+        "pct_change": 0.007655390320279148,
+        "ytd_change": 0.9184232515863607,
+        "market_cap_usd_bn": null,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:16:21.234339"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "timestamp": "2026-01-09T13:32:37.608578",
+    "data": [
+      {
+        "name": "Apple",
+        "ticker": "AAPL",
+        "is_index": false,
+        "current_price": 259.04,
+        "prev_close": 260.3299865722656,
+        "pct_change": -0.4955197782824431,
+        "ytd_change": -4.41681463204141,
+        "market_cap_usd_bn": 3844.254728192,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:32:37.608578"
+      },
+      {
+        "name": "Tesla",
+        "ticker": "TSLA",
+        "is_index": false,
+        "current_price": 435.8,
+        "prev_close": 431.4100036621094,
+        "pct_change": 1.0175926150588261,
+        "ytd_change": -0.5181836889688479,
+        "market_cap_usd_bn": 1449.391947776,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:32:37.608578"
+      },
+      {
+        "name": "Nvidia",
+        "ticker": "NVDA",
+        "is_index": false,
+        "current_price": 185.04,
+        "prev_close": 189.11000061035156,
+        "pct_change": -2.152186873891208,
+        "ytd_change": -2.0174773525965515,
+        "market_cap_usd_bn": 4505.169035264,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:32:37.608578"
+      },
+      {
+        "name": "S&P 500",
+        "ticker": "^GSPC",
+        "is_index": true,
+        "current_price": 6921.46,
+        "prev_close": 6920.93017578125,
+        "pct_change": 0.007655390320279148,
+        "ytd_change": 0.9184232515863607,
+        "market_cap_usd_bn": null,
+        "date": "2026-01-09",
+        "timestamp": "2026-01-09T13:32:37.608578"
+      }
+    ]
+  }
+]

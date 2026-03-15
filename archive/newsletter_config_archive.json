@@ -1,0 +1,44 @@
+{
+  "email_intro": "Hi there,\n\nEnjoy the newsletter today. \n\nCheers.\n\n----------\n\nThis is currently a FREE TRIAL (which may last a while though). To support the project, please consider subscribing to my Substack: https://substack.com/@headlinesaroundtheglobe.\n\n----------\n\n",
+  "newsletters": [
+    {
+      "name": "global_newsletter",
+      "components": [
+        "top_news",
+        "global_news"
+      ],
+      "recipients": {
+        "en": ["davidlau512@gmail.com", "dannytwlee.2023@gmail.com", "brianlaukaiho@gmail.com", "henry1999413@gmail.com", "joannahcw@gmail.com", "fungcn@connect.hku.hk"],
+        "cn": ["davidlau512@gmail.com", "vincentso.kt@gmail.com", "mail@cy-chan.me", "alan.to.cup@gmail.com"]
+      },
+      "email": {
+        "from_email": "david@xplorehk.com",
+        "from_name": "Global Headlines",
+        "subject": "Global Headlines Newsletter - {date}"
+      },
+      "language": "EN",
+      "translate": true
+    },
+    {
+      "name": "market_briefing",
+      "components": [
+        "market_snapshot",
+        "financial_news",
+        "tech_news",
+        "regulatory",
+        "hk_ipo"
+      ],
+      "recipients": {
+        "en": ["davidlau512@gmail.com"]
+      },
+      "email": {
+        "from_email": "david@xplorehk.com",
+        "from_name": "Market Briefing",
+        "subject": "Daily Market Briefing - {date}"
+      },
+      "language": "EN",
+      "translate": false
+    }
+  ]
+}
+

@@ -1,0 +1,308 @@
+{
+  "website": "https://nvidianews.nvidia.com/news/latest",
+  "links": [
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list",
+    "https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing",
+    "https://blogs.nvidia.com/blog/huang-3dexperience-2026",
+    "https://nvidianews.nvidia.com/news/dassault-systemes-nvidia-industrial-ai",
+    "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform",
+    "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse",
+    "https://blogs.nvidia.com/blog/ai-day-sao-paulo",
+    "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token",
+    "https://blogs.nvidia.com/blog/dgx-spark-higher-education",
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app",
+    "https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories",
+    "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-fourth-quarter-financial-results",
+    "https://blogs.nvidia.com/blog/national-quantum-initiative",
+    "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models",
+    "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026",
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2",
+    "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models",
+    "https://blogs.nvidia.com/blog/india-enterprise-ai-agents",
+    "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai",
+    "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems",
+    "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+    "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026",
+    "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+    "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai",
+    "https://blogs.nvidia.com/blog/lilly-ai-factory-live",
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem",
+    "https://nvidianews.nvidia.com/blog/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-seat-as-roi-climbs",
+    "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models",
+    "https://blogs.nvidia.com/blog/software-defined-ai-ran",
+    "https://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms",
+    "https://nvidianews.nvidia.com/blog/nvidia-brings-ai-powered-cybersecurity-to-worlds-critical-infrastructure",
+    "https://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture",
+    "https://nvidianews.nvidia.com/blog/all-about-the-games-play-over-4-500-titles-with-geforce-now",
+    "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology",
+    "https://nvidianews.nvidia.com/news/nvidia-brings-ai-powered-cybersecurity-to-worlds-critical-infrastructure",
+    "https://nvidianews.nvidia.com/blog/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-s-seat-as-return-on-investment-climbs",
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list",
+    "https://nvidianews.nvidia.com/news/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-s-seat-as-return-on-investment-climbs",
+    "https://nvidianews.nvidia.com/news/nvidia-and-global-industrial-software-leaders-partner-with-indias-largest-manufacturers-to-drive-ai-boom",
+    "https://blogs.nvidia.com/blog/abb-robotics-omniverse",
+    "https://blogs.nvidia.com/blog/state-of-ai-report-2026"
+  ],
+  "metadata": {
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list": {
+      "headline": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:49:45.000345",
+      "last_seen": "2026-02-09T21:49:45.000352"
+    },
+    "https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing": {
+      "headline": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:13:30.320082",
+      "last_seen": "2026-02-10T11:13:30.320098"
+    },
+    "https://blogs.nvidia.com/blog/huang-3dexperience-2026": {
+      "headline": "Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:53:39.059133",
+      "last_seen": "2026-02-11T11:53:39.059149"
+    },
+    "https://nvidianews.nvidia.com/news/dassault-systemes-nvidia-industrial-ai": {
+      "headline": "Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform Powering Virtual Twins",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:24:38.798079",
+      "last_seen": "2026-02-11T13:24:38.798088"
+    },
+    "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform": {
+      "headline": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:24:43.004360",
+      "last_seen": "2026-02-11T13:24:43.004373"
+    },
+    "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse": {
+      "headline": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:43:15.009732",
+      "last_seen": "2026-02-12T12:43:15.009746"
+    },
+    "https://blogs.nvidia.com/blog/ai-day-sao-paulo": {
+      "headline": "Code, Compute and Connection: Inside the Inaugural NVIDIA AI Day São Paulo",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:25.914548",
+      "last_seen": "2026-02-13T13:10:25.914560"
+    },
+    "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token": {
+      "headline": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:29.561218",
+      "last_seen": "2026-02-13T13:10:29.561234"
+    },
+    "https://blogs.nvidia.com/blog/dgx-spark-higher-education": {
+      "headline": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:33.022358",
+      "last_seen": "2026-02-13T13:10:33.022374"
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app": {
+      "headline": "GeForce NOW Turns Screens Into a Gaming Machine",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:36.353907",
+      "last_seen": "2026-02-13T13:10:36.353918"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories": {
+      "headline": "NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:47.686787",
+      "last_seen": "2026-02-13T13:10:47.686799"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-fourth-quarter-financial-results": {
+      "headline": "NVIDIA Sets Conference Call for Fourth-Quarter Financial Results",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:10:52.104377",
+      "last_seen": "2026-02-13T13:10:52.104397"
+    },
+    "https://blogs.nvidia.com/blog/national-quantum-initiative": {
+      "headline": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:10:55.818701",
+      "last_seen": "2026-02-13T13:10:55.818712"
+    },
+    "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models": {
+      "headline": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:27:17.156666",
+      "last_seen": "2026-02-16T11:27:17.156685"
+    },
+    "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026": {
+      "headline": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:01:34.826645",
+      "last_seen": "2026-02-20T12:01:34.826658"
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2": {
+      "headline": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:01:39.568102",
+      "last_seen": "2026-02-20T12:01:39.568118"
+    },
+    "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models": {
+      "headline": "India Fuels Its AI Mission With NVIDIA",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:01:44.366847",
+      "last_seen": "2026-02-20T12:01:44.366861"
+    },
+    "https://blogs.nvidia.com/blog/india-enterprise-ai-agents": {
+      "headline": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:01:49.274441",
+      "last_seen": "2026-02-20T12:01:49.274455"
+    },
+    "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai": {
+      "headline": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:59:07.848525",
+      "last_seen": "2026-02-23T12:59:07.848547"
+    },
+    "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems": {
+      "headline": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:17:54.990975",
+      "last_seen": "2026-02-24T11:17:54.990989"
+    },
+    "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia": {
+      "headline": "Meta Builds AI Infrastructure With NVIDIA",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:18:08.196709",
+      "last_seen": "2026-02-24T11:18:08.196723"
+    },
+    "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026": {
+      "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:11:52.037665",
+      "last_seen": "2026-02-25T13:11:52.037680"
+    },
+    "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award": {
+      "headline": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:12:22.681343",
+      "last_seen": "2026-02-25T13:12:22.681362"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026": {
+      "headline": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:18:35.483361",
+      "last_seen": "2026-02-26T11:18:35.483378"
+    },
+    "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai": {
+      "headline": "New Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:18:47.146287",
+      "last_seen": "2026-02-26T11:18:47.146305"
+    },
+    "https://blogs.nvidia.com/blog/lilly-ai-factory-live": {
+      "headline": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:30:42.856240",
+      "last_seen": "2026-02-27T12:30:42.856253"
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem": {
+      "headline": "Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil: Requiem’",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:30:46.762401",
+      "last_seen": "2026-02-27T12:30:46.762416"
+    },
+    "https://nvidianews.nvidia.com/blog/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-seat-as-roi-climbs": {
+      "headline": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:30:58.889815",
+      "last_seen": "2026-02-27T12:30:58.889835"
+    },
+    "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models": {
+      "headline": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:24:32.081572",
+      "last_seen": "2026-03-02T10:24:32.081590"
+    },
+    "https://blogs.nvidia.com/blog/software-defined-ai-ran": {
+      "headline": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:24:35.120706",
+      "last_seen": "2026-03-02T10:24:35.120720"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms": {
+      "headline": "NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:24:38.922830",
+      "last_seen": "2026-03-02T10:24:38.922846"
+    },
+    "https://nvidianews.nvidia.com/blog/nvidia-brings-ai-powered-cybersecurity-to-worlds-critical-infrastructure": {
+      "headline": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:24:47.838799",
+      "last_seen": "2026-03-02T10:24:47.838816"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture": {
+      "headline": "NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:13:43.242403",
+      "last_seen": "2026-03-03T14:13:43.242417"
+    },
+    "https://nvidianews.nvidia.com/blog/all-about-the-games-play-over-4-500-titles-with-geforce-now": {
+      "headline": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:13:58.722771",
+      "last_seen": "2026-03-03T14:13:58.722787"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026": {
+      "headline": "NVIDIA CEO Jensen Huang and Global Technology Leaders to Showcase Age of AI at GTC 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:01:13.642123",
+      "last_seen": "2026-03-04T14:01:13.642137"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology": {
+      "headline": "NVIDIA Announces Strategic Partnership With Lumentum to Develop State-of-the-Art Optics Technology",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:01:18.515387",
+      "last_seen": "2026-03-04T14:01:18.515399"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-brings-ai-powered-cybersecurity-to-worlds-critical-infrastructure": {
+      "headline": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:01:30.681863",
+      "last_seen": "2026-03-04T14:01:30.681880"
+    },
+    "https://nvidianews.nvidia.com/blog/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-s-seat-as-return-on-investment-climbs": {
+      "headline": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:03:55.687995",
+      "last_seen": "2026-03-05T12:03:55.688012"
+    },
+    "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list": {
+      "headline": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:00:49.416699",
+      "last_seen": "2026-03-06T12:00:49.416714"
+    },
+    "https://nvidianews.nvidia.com/news/survey-reveals-ai-advances-in-telecom-networks-and-automation-in-driver-s-seat-as-return-on-investment-climbs": {
+      "headline": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:01:14.060575",
+      "last_seen": "2026-03-06T12:01:14.060595"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-and-global-industrial-software-leaders-partner-with-indias-largest-manufacturers-to-drive-ai-boom": {
+      "headline": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:00:12.399437",
+      "last_seen": "2026-03-09T13:00:12.399452"
+    },
+    "https://blogs.nvidia.com/blog/abb-robotics-omniverse": {
+      "headline": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:54:53.856003",
+      "last_seen": "2026-03-10T10:54:53.856018"
+    },
+    "https://blogs.nvidia.com/blog/state-of-ai-report-2026": {
+      "headline": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:54:57.326899",
+      "last_seen": "2026-03-10T10:54:57.326914"
+    }
+  }
+}

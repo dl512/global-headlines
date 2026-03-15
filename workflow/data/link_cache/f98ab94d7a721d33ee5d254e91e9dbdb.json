@@ -1,0 +1,112 @@
+{
+  "website": "https://ir.amd.com/news-events/press-releases",
+  "links": [
+    "https://ir.amd.com/news-events/press-releases/detail/1276/amd-reports-fourth-quarter-and-full-year-2025-financial-results",
+    "https://ir.amd.com/news-events/press-releases/detail/1275/amd-appoints-kc-mcclure-to-board-of-directors",
+    "https://ir.amd.com/news-events/press-releases/detail/1274/tcs-and-amd-announce-strategic-collaboration-to-drive-ai-adoption-at-scale",
+    "https://ir.amd.com/news-events/press-releases/detail/1273/amd-to-report-fiscal-fourth-quarter-and-full-year-2025-financial-results",
+    "https://ir.amd.com/news-events/press-releases/detail/1272/amd-and-its-partners-share-their-vision-for-ai-everywhere-for-everyone-at-ces-2026",
+    "https://ir.amd.com/news-events/press-releases/detail/1271/amd-introduces-ryzen-ai-embedded-processor-portfolio-powering-ai-driven-immersive-experiences-in-automotive-industrial-and-physical-ai",
+    "https://ir.amd.com/news-events/press-releases/detail/1270/amd-expands-ai-leadership-across-client-graphics-and-software-with-new-ryzen-ryzen-ai-and-amd-rocm-announcements-at-ces-2026",
+    "https://ir.amd.com/news-events/press-releases/detail/1269/amd-and-hpe-expand-collaboration-to-advance-open-rack-scale-ai-infrastructure",
+    "https://ir.amd.com/news-events/press-releases/detail/1268/amd-powers-frontier-ai-training-for-zyphra",
+    "https://ir.amd.com/news-events/press-releases/detail/1267/amd-and-eviden-to-power-europes-new-exascale-supercomputer-the-first-based-in-france",
+    "https://ir.amd.com/news-events/press-releases/detail/1277/amd-hires-ariel-kelman-as-chief-marketing-officer",
+    "https://ir.amd.com/news-events/press-releases/detail/1278/amd-and-tcs-to-bring-state-of-the-art-helios-rack-scale-ai-architecture-to-india",
+    "https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+    "https://ir.amd.com/news-events/press-releases/detail/1280/amd-and-nutanix-announce-strategic-partnership-to-advance-an-open-and-scalable-platform-for-enterprise-ai",
+    "https://ir.amd.com/news-events/press-releases/detail/1281/amd-gives-consumers-and-businesses-more-ai-pc-options-with-expanded-ryzen-ai-400-series-portfolio"
+  ],
+  "metadata": {
+    "https://ir.amd.com/news-events/press-releases/detail/1276/amd-reports-fourth-quarter-and-full-year-2025-financial-results": {
+      "headline": "AMD Reports Fourth Quarter and Full Year 2025 Financial Results",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:25.352682",
+      "last_seen": "2026-02-09T21:52:25.352701"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1275/amd-appoints-kc-mcclure-to-board-of-directors": {
+      "headline": "AMD Appoints KC McClure to Board of Directors",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:28.991060",
+      "last_seen": "2026-02-09T21:52:28.991070"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1274/tcs-and-amd-announce-strategic-collaboration-to-drive-ai-adoption-at-scale": {
+      "headline": "TCS and AMD Announce Strategic Collaboration to Drive AI Adoption at Scale",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:32.532677",
+      "last_seen": "2026-02-09T21:52:32.532689"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1273/amd-to-report-fiscal-fourth-quarter-and-full-year-2025-financial-results": {
+      "headline": "AMD to Report Fiscal Fourth Quarter and Full Year 2025 Financial Results",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:36.424585",
+      "last_seen": "2026-02-09T21:52:36.424597"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1272/amd-and-its-partners-share-their-vision-for-ai-everywhere-for-everyone-at-ces-2026": {
+      "headline": "AMD and its Partners Share their Vision for “AI Everywhere, for Everyone” at CES 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:42.368632",
+      "last_seen": "2026-02-09T21:52:42.368643"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1271/amd-introduces-ryzen-ai-embedded-processor-portfolio-powering-ai-driven-immersive-experiences-in-automotive-industrial-and-physical-ai": {
+      "headline": "AMD Introduces Ryzen AI Embedded Processor Portfolio, Powering AI-Driven Immersive Experiences in Automotive, Industrial and Physical AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:47.198945",
+      "last_seen": "2026-02-09T21:52:47.198956"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1270/amd-expands-ai-leadership-across-client-graphics-and-software-with-new-ryzen-ryzen-ai-and-amd-rocm-announcements-at-ces-2026": {
+      "headline": "AMD Expands AI Leadership Across Client, Graphics, and Software with New Ryzen, Ryzen AI, and AMD ROCm Announcements at CES 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:52.646211",
+      "last_seen": "2026-02-09T21:52:52.646227"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1269/amd-and-hpe-expand-collaboration-to-advance-open-rack-scale-ai-infrastructure": {
+      "headline": "AMD and HPE Expand Collaboration to Advance Open Rack-Scale AI Infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:52:56.412913",
+      "last_seen": "2026-02-09T21:52:56.412925"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1268/amd-powers-frontier-ai-training-for-zyphra": {
+      "headline": "AMD Powers Frontier AI Training for Zyphra",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:53:03.790557",
+      "last_seen": "2026-02-09T21:53:03.790568"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1267/amd-and-eviden-to-power-europes-new-exascale-supercomputer-the-first-based-in-france": {
+      "headline": "AMD and Eviden to Power Europe’s New Exascale Supercomputer, the First Based in France",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:53:08.103978",
+      "last_seen": "2026-02-09T21:53:08.103991"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1277/amd-hires-ariel-kelman-as-chief-marketing-officer": {
+      "headline": "AMD Hires Ariel Kelman as Chief Marketing Officer",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:16:02.778752",
+      "last_seen": "2026-02-10T11:16:02.778767"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1278/amd-and-tcs-to-bring-state-of-the-art-helios-rack-scale-ai-architecture-to-india": {
+      "headline": "AMD and TCS to bring state-of-the-art ‘Helios’ rack-scale AI architecture to India",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:07:38.244846",
+      "last_seen": "2026-02-20T12:07:38.244868"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus": {
+      "headline": "AMD and Meta Announce Expanded Strategic Partnership to Deploy 6 Gigawatts of AMD GPUs",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:18:23.996041",
+      "last_seen": "2026-02-25T13:18:23.996056"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1280/amd-and-nutanix-announce-strategic-partnership-to-advance-an-open-and-scalable-platform-for-enterprise-ai": {
+      "headline": "AMD and Nutanix Announce Strategic Partnership to Advance an Open and Scalable Platform for Enterprise AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:23:24.637215",
+      "last_seen": "2026-02-26T11:23:24.637232"
+    },
+    "https://ir.amd.com/news-events/press-releases/detail/1281/amd-gives-consumers-and-businesses-more-ai-pc-options-with-expanded-ryzen-ai-400-series-portfolio": {
+      "headline": "AMD Gives Consumers and Businesses More AI PC Options with Expanded Ryzen™ AI 400 Series Portfolio",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:18:12.197452",
+      "last_seen": "2026-03-03T14:18:12.197459"
+    }
+  }
+}

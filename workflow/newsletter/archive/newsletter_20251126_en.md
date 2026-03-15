@@ -1,0 +1,97 @@
+# Headlines around the globe - Nov 26, 2025
+## Daily news sourced directly from local newspapers
+
+Today's global headlines reflect escalating tensions surrounding US President Donald Trump's Ukraine peace initiative, social unrest in Syria's coastal regions, and severe weather events impacting multiple countries. Meanwhile, political developments from Brazil to Bangladesh signal significant shifts in governance as legal proceedings against former leaders conclude and new economic policies take shape.
+
+## Regional Highlights:
+
+### Africa / Middle East:
+
+- **[Mujahid: IEA to give Pakistan appropriate response at right time](https://pajhwok.com/2025/11/25/mujahid-iea-to-give-pakistan-appropriate-response-at-right-time/)**: Islamic Emirate of Afghanistan spokesperson warns of forthcoming response to Pakistan. (Pajhwok Afghan News, Afghanistan)
+- **[Riots erupt in Syria's coast after pro-government protests](https://shafaq.com/en/Middle-East/Riots-erupt-in-Syria-s-coast-after-pro-government-protests)**: Violence breaks out in Syria's Alawite neighborhoods following demonstrations over deteriorating living conditions, with security forces pursuing those involved. (Shafaq News, Iraq)
+- **[A "Alawite" uprising against the Al-Assad government](https://www.al-akhbar.com/arab/869455/%D9%87%D8%A8%D8%A9--%D8%B9%D9%84%D9%88%D9%8A%D8%A9--%D8%B6%D8%AF-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9--%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%AA%D8%AA%D8%B9%D8%A7%D8%B8%D9%85)**: Growing unrest within Syria's Alawite community threatens Al-Assad's power base, raising concerns of escalating civil conflict. (Al Akhbar, Egypt)
+- **[24 kidnapped Kebbi schoolgirls regain freedom after week-long captivity](https://guardian.ng/news/24-kidnapped-kebbi-schoolgirls-regain-freedom-after-week-long-captivity/)**: Nigerian authorities report the release of 24 schoolgirls who were held captive for a week in Kebbi. (The Guardian Nigeria, Nigeria)
+- **[UAE Planning To Establish Military Bases in the Central African Republic](https://www.alestiklal.net/en/article/why-is-the-uae-planning-to-establish-military-bases-in-the-central-african-republic)**: Reports indicate the UAE is establishing a military site in CAR allegedly used to supply equipment to RSF militia, drawing threats from Sudanese generals. (Alestiklal, UAE)
+- **[Ethiopian volcano subsides, leaving a trail of disruption and canceled flights](https://www.thehindu.com/news/international/ethiopian-volcano-subsides-leaving-a-trail-of-disruption-and-canceled-flights/article70324375.ece)**: The volcanic eruption has disrupted air travel and caused significant regional disruption. (The Hindu, India)
+
+### Americas:
+
+- **[Zelensky expressed willingness to discuss sensitive points of the peace plan for Ukraine with Donald Trump](https://www.infobae.com/america/mundo/2025/11/26/zelensky-se-mostro-dispuesto-a-discutir-con-donald-trump-los-puntos-mas-sensibles-del-plan-de-paz-para-ucrania/)**: Ukrainian President shows openness to engage with US President Trump on critical aspects of the Ukraine peace proposal. (Infobae, Argentina)
+- **[Bolsonaro and generals begin serving sentence for coup plot](https://www1.folha.uol.com.br/poder/2025/11/veja-destino-de-cada-condenado-pela-trama-golpista-e-relembre-acusacoes.shtml)**: Former Brazilian President Jair Bolsonaro and several military generals have started prison sentences for their involvement in a coup plot. (Folha de S.Paulo, Brazil)
+- **[Shorter Days, Signs of Fatigue: Trump Faces Realities of Aging in Office](https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html)**: Reports indicate US President Donald Trump is showing signs of fatigue as he navigates the demands of the presidency. (The New York Times, USA)
+- **[MPs 'speechless' after Stellantis fails to show up to hearing](https://www.cbc.ca/news/canada/windsor/stellantis-canada-government-contracts-committee-brampton-9.6991997)**: Canadian MPs were left stunned when Stellantis representatives missed a scheduled hearing, citing technical difficulties. (CBC News, Canada)
+- **[Prosecution requests 15 years in prison for Martín Vizcarra](https://elcomercio.pe/politica/actualidad/martin-vizcarra-lectura-de-sentencia-hoy-en-vivo-poder-judicial-condena15-anos-por-coimas-a-expresidente-lomas-de-ilo-hospital-de-moquegua-penal-barbadillo-noticia/)**: Peruvian prosecutors seek a 15-year sentence for former President Martín Vizcarra on bribery charges. (El Comercio, Peru)
+- **[Transport workers maintain blockades after meeting with Segob](https://www.eluniversal.com.mx/nacion/transportistas-advierten-que-mantendran-bloqueos-si-no-hay-respuesta-del-gobierno-somos-apartidistas-aseguran/)**: Mexican transport workers continue their blockades following an unproductive meeting with government officials. (El Universal, Mexico)
+
+### Asia:
+
+- **[Pay hike for civil servants on the way after a decade](https://www.thedailystar.net/news/bangladesh/news/pay-hike-civil-servants-way-after-decade-4043491)**: Bangladesh government plans first salary increase for public sector employees in ten years. (The Daily Star, Bangladesh)
+- **[Xi extends congratulations on Int'l Day of Solidarity with Palestinian People](https://english.news.cn/20251126/fd0c5cf0efd34202a9bc8f874766a323/c.html)**: Chinese President Xi Jinping expressed support for Palestinian rights and statehood on the International Day of Solidarity. (Xinhua News Agency, China)
+- **[Hat Yai zone submerged 'for weeks'](https://www.bangkokpost.com/thailand/general/3144390/hat-yai-zone-submerged-for-weeks)**: Severe flooding in Thailand's Hat Yai area continues, with local authorities struggling to manage the crisis. (Bangkok Post, Thailand)
+- **[Verbena rains unleash floods across Visayas](https://newsinfo.inquirer.net/2146302/verbena-rains-unleash-floods-across-visayas)**: Typhoon Verbena has caused significant flooding across the Visayas region in the Philippines, prompting evacuations. (Philippine Daily Inquirer, Philippines)
+- **[Uzbekistan qualifies for the World Cup for the first time](https://uzreport.news/football/o-zbekiston-ilk-bor-mundialga-chiqdi)**: Historic achievement as Uzbekistan's national football team secures their first-ever World Cup qualification. (UzReport, Uzbekistan)
+- **[Government tax revenue expected to exceed 80 trillion yen for first time](https://news.web.nhk/newsweb/na/na-k10014986491000)**: Japan anticipates record tax revenue exceeding 80 trillion yen in the current fiscal year. (NHK, Japan)
+
+### Europe:
+
+- **[Relief and uncertainty for Ukraine and Europe after Trump's plan is overhauled](https://www.lemonde.fr/en/international/article/2025/11/25/relief-and-uncertainty-for-ukraine-and-europe-after-trump-s-plan-undergoes-major-overhaul_6747807_4.html)**: Mixed reactions across Europe as US President Trump revises his approach to supporting Ukraine. (Le Monde, France)
+- **[Ukraine agrees to the US peace plan; Russia remains silent](https://www.delfi.lt/naujienos/uzsienyje/ziniasklaida-ukraina-sutiko-su-jav-taikos-planu-120178683)**: Ukraine has accepted the peace proposal put forward by US President Trump, while Russia has yet to respond. (Delfi, Lithuania)
+- **[Trump sends his emissaries to Moscow and Kiev: "We are very close to an agreement"](https://www.corriere.it/esteri/25_novembre_25/ucraina-svolta-negoziati-pace-bozza-19-punti-russia-3a6a3cf2-30ef-44ae-b5ec-4cc9e70cdxlk.shtml)**: US President Trump has dispatched representatives to Moscow and Kyiv, expressing optimism about reaching a peace agreement. (Corriere della Sera, Italy)
+- **[Author feels 'censored' by BBC after Trump statement](https://www.dr.dk/nyheder/udland/forfatter-foeler-sig-censureret-af-bbc-efter-trump-udtalelse)**: An author claims censorship by BBC following statements related to US President Trump, raising media freedom concerns. (DR, Denmark)
+- **[Richard Branson mourns the death of his wife Joan](https://www.spiegel.de/panorama/richard-branson-trauert-um-seine-ehefrau-joan-templeman-80-ist-tot-a-b2d8d535-7839-4740-bfcd-2422bd4c552e)**: British business magnate Richard Branson expresses grief over his wife Joan's passing. (Der Spiegel, Germany)
+- **[Marriage between same-sex couples will be recognized in Poland?](https://www.rp.pl/w-sadzie-i-w-urzedzie/art43395101-adwokaci-wedlug-tsue-urzedy-stanu-cywilnego-nie-moga-ignorowac-malzenstw-jednoplciowych)**: A landmark ruling from the European Court of Justice could force Poland to recognize same-sex marriages. (Rzeczpospolita, Poland)
+
+### Oceania:
+
+- **[Virginia Giuffre's family in battle over who inherits Andrew's multimillion-dollar payout](https://www.smh.com.au/world/europe/virginia-giuffre-s-family-in-battle-over-who-inherits-andrew-s-multimillion-dollar-payout-20251126-p5nifw.html)**: Family dispute erupts over the inheritance of Prince Andrew's settlement to Virginia Giuffre. (The Sydney Morning Herald, Australia)
+- **[How can two people drive a car? Judge questions prosecution](https://www.samoaobserver.ws/category/samoa/117083)**: Samoan judge challenges prosecution's case regarding vehicle operation by multiple individuals. (Samoa Observer, Samoa)
+- **[Driver freed after car smashes into Christchurch home](https://www.nzherald.co.nz/nz/christchurch/driver-freed-after-car-smashes-into-christchurch-home/IA6LBD4LMFBRBLNM335X35D6HE/)**: Emergency services rescued a driver following a vehicle collision with a residential home in Christchurch. (NZ Herald, New Zealand)
+- **[Kingfisher named Swiss Bird of the Year 2026](https://www.swissinfo.ch/eng/various/kingfisher-named-swiss-bird-of-the-year-2025/90485010?utm_source=multiple&utm_medium=website&utm_campaign=news_en&utm_content=o&utm_term=wpblock_highlighted-compact-news-carousel)**: The Kingfisher has been selected as Switzerland's Bird of the Year for 2026, highlighting conservation efforts. (Swissinfo, Switzerland)
+- **[126 West Ambrym households disconnected as Government owes VT14 million](https://www.dailypost.vu/news/126-west-ambrym-households-disconnected-as-gov-t-owes-vt14-million/article_70300a41-0d9a-555a-8d0a-a63b6da30a56.html)**: Government debt of VT14 million results in utility disconnection for 126 households in West Ambrym. (Vanuatu Daily Post, Vanuatu)
+- **[RFMF will not remain prisoners of its past – RFMF Commander](https://www.fijitimes.com.fj/the-rfmf-will-not-remain-prisoners-of-its-past-rfmf-commander/)**: Fiji's military commander pledges reform and progression, moving beyond past actions. (Fiji Times, Fiji)
+
+## In-Depth Coverage:
+
+### Trump's Ukraine Peace Initiative Takes Center Stage
+
+US President Donald Trump has launched an ambitious diplomatic effort to resolve the Ukraine conflict, dispatching representatives to both Moscow and Kyiv while expressing optimism about reaching an agreement. According to [El País](https://www.infobae.com/america/mundo/2025/11/26/zelensky-se-mostro-dispuesto-a-discutir-con-donald-trump-los-puntos-mas-sensibles-del-plan-de-paz-para-ucrania/), Ukrainian President Volodymyr Zelensky has until Thursday to respond to Trump's proposal but has already expressed willingness to discuss sensitive points of the peace plan.
+
+The initiative has generated mixed reactions across Europe. [Le Monde](https://www.lemonde.fr/en/international/article/2025/11/25/relief-and-uncertainty-for-ukraine-and-europe-after-trump-s-plan-undergoes-major-overhaul_6747807_4.html) reports that while there's some relief that Trump has revised his approach to supporting Ukraine, uncertainty remains about the long-term implications. Meanwhile, [Delfi Lithuania](https://www.delfi.lt/naujienos/uzsienyje/ziniasklaida-ukraina-sutiko-su-jav-taikos-planu-120178683) indicates that Ukraine has accepted the US peace plan, though Russia has yet to offer an official response.
+
+Trump has sent developer Steven Witkoff to Moscow for crucial meetings with Russian President Vladimir Putin, as reported by [Delfi Estonia](https://www.delfi.ee/artikkel/120419627/trump-lahetasin-witkoffi-moskvasse-putiniga-kohtuma?dsrc=%3D%3DQfiEmY5QTZ1IzYlRzMk1CZ2QDOtQmY2QTLycjYk1SYkhTY3MDZ3IiOiQWSrN2bsJmIsgzN3kTMxQjN3EjOiAXbhR3cl1Wa0JCLwojI4VGZulkbvlGdjV2ciwiIyUGc5R1aj9GbCJiOiUGc5R1aj9GbiJCLwojI4VGZul0aj9GbiJCLikmZsVGRiojIl1WYOVGdpNnIsISZnFGc052byZmI6ISZwlHVldWYwJye). [Kathimerini](https://www.kathimerini.gr/world/563940865/bloomberg-pos-ftasame-sto-schedio-28-simeion-o-rolos-toy-goyitkof-kai-oi-epafes-sti-moscha/) reports that Witkoff played a key role in crafting a 28-point plan through his connections in Moscow.
+
+The [Kyiv Independent](https://kyivindependent.com/coalition-of-the-willing-meets-agrees-to-develop-ukraines-security-guarantees-amid-peace-talks/) reports that a "Coalition of the Willing" has met to establish "robust security guarantees" for Ukraine amid these peace negotiations, emphasizing the need for solid commitments rather than mere promises. French President Emmanuel Macron has even proposed the potential deployment of troops from France, the UK, or Turkey as part of a reassurance force contingent upon a signed peace agreement.
+
+### Unrest in Syria's Alawite Heartland Threatens Assad's Rule
+
+A significant development is unfolding in Syria as riots and protests erupt in the country's coastal region, historically a stronghold for President Bashar al-Assad. According to [Shafaq News](https://shafaq.com/en/Middle-East/Riots-erupt-in-Syria-s-coast-after-pro-government-protests), violence broke out following what initially began as pro-government demonstrations, with groups attacking homes in Alawite neighborhoods.
+
+[Al Akhbar](https://www.al-akhbar.com/arab/869455/%D9%87%D8%A8%D8%A9--%D8%B9%D9%84%D9%88%D9%8A%D8%A9--%D8%B6%D8%AF-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9--%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%AA%D8%AA%D8%B9%D8%A7%D8%B8%D9%85) reports that an "Alawite uprising" is gaining momentum against the Al-Assad government, which is particularly significant as the Alawite community has traditionally been Assad's most loyal support base. The unrest stems from protests by Alawites against deteriorating living conditions and alleged violations against their community.
+
+Security forces are now pursuing those involved in the violence, which includes explosions and gunfire reported near Tishreen University's student housing. Military reinforcements have been dispatched to the area as authorities attempt to regain control. The situation threatens to undermine President Assad's grip on power and further complicates Syria's already fragile stability.
+
+In a related development, [SANA](https://sana.sy/politics/2336978/) reports that President Assad recently received a delegation from the American Congress in Damascus, marking a rare diplomatic engagement that could indicate shifting international approaches to Syria amid these internal challenges.
+
+### Natural Disasters Wreak Havoc Across Asia and Africa
+
+Multiple regions are grappling with severe weather events and natural disasters. In Thailand, the [Bangkok Post](https://www.bangkokpost.com/thailand/general/3144390/hat-yai-zone-submerged-for-weeks) reports that the Hat Yai zone has been submerged for weeks, with local authorities struggling to manage the ongoing water crisis. Similarly, the [Philippine Daily Inquirer](https://newsinfo.inquirer.net/2146302/verbena-rains-unleash-floods-across-visayas) reports that Typhoon Verbena has caused significant flooding across the Visayas region, prompting evacuations and emergency responses.
+
+In East Africa, an Ethiopian volcanic eruption has caused widespread disruption. [The National UAE](https://www.thenationalnews.com/news/uae/2025/11/25/india-uae-flights-cancelled-after-volcanic-eruption-in-ethiopia/) reports multiple flight cancellations and delays affecting regional and international air travel. [The Hindu](https://www.thehindu.com/news/international/ethiopian-volcano-subsides-leaving-a-trail-of-disruption-and-canceled-flights/article70324375.ece) confirms that while the volcano has subsided, it has left significant disruption in its wake.
+
+These weather events highlight the increasing challenges posed by natural disasters across multiple regions, affecting transportation, infrastructure, and daily life for millions of people. Local authorities in each affected area are working to provide assistance and relief to displaced individuals while assessing the long-term impact on communities and economies.
+
+### Political Accountability: Prosecution of Former Leaders
+
+A wave of legal actions against former political leaders is making headlines globally. In Brazil, [Folha de S.Paulo](https://www1.folha.uol.com.br/poder/2025/11/veja-destino-de-cada-condenado-pela-trama-golpista-e-relembre-acusacoes.shtml) reports that former President Jair Bolsonaro and several military generals have begun serving their sentences for involvement in a coup plot. This marks a significant development in Brazil's political landscape following the January 2023 riots.
+
+In Peru, [El Comercio](https://elcomercio.pe/politica/actualidad/martin-vizcarra-lectura-de-sentencia-hoy-en-vivo-poder-judicial-condena15-anos-por-coimas-a-expresidente-lomas-de-ilo-hospital-de-moquegua-penal-barbadillo-noticia/) reports that prosecutors are seeking a 15-year prison sentence for former President Martín Vizcarra over allegations of accepting bribes. The court is expected to announce its verdict soon as part of broader corruption investigations involving high-ranking officials.
+
+Meanwhile, [YLE Finland](https://yle.fi/a/74-20196186) also covered Bolsonaro's imprisonment, indicating international attention to these proceedings. These cases reflect a global trend of increased accountability for political leaders accused of corruption or undermining democratic institutions.
+
+### UAE's Expanding Military Footprint in Africa
+
+The United Arab Emirates appears to be extending its military influence in Africa, particularly in the Central African Republic. According to [Alestiklal](https://www.alestiklal.net/en/article/why-is-the-uae-planning-to-establish-military-bases-in-the-central-african-republic), the UAE is establishing a military site in CAR that is reportedly being used to funnel military equipment to the Rapid Support Forces (RSF) militia in Sudan.
+
+This development has raised tensions with Sudan, as Sudanese General Yasser al-Atta has labeled the site a "legitimate target" in the same category as N'Djamena airport in Chad, which Khartoum also views as a hub for hostile military logistics. The UAE's actions in Chad have also provoked backlash from prominent political figures and high-ranking generals from the influential Zaghawa ethnic group, who have criticized President Mahamat Idriss Deby for his alliance with the UAE.
+
+The [defense.gov](https://www.defense.gov/News/News-Stories/Article/Article/3977987/defense-leaders-engage-in-israel-united-arab-emirates/) reports that U.S. defense officials have been engaging with leaders in the UAE, emphasizing calls for ceasefire in various regional conflicts. This indicates growing international awareness and concern about the UAE's expanding military activities in Africa and their potential impact on regional stability.

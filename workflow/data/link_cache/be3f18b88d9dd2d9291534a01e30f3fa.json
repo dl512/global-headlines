@@ -1,0 +1,42 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09999-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306375927/ntes-s-date-of-board-meeting-and-date-of-publication",
+    "https://news.futunn.com/hk/notice/306219215/ntes-s-overseas-regulatory-announcement",
+    "https://news.futunn.com/hk/notice/306467941/ntes-s-dividend-announcement-for-the-fourth-quarter-ended-31",
+    "https://news.futunn.com/hk/notice/306467877/ntes-s-unaudited-financial-results-for-the-fourth-quarter-and",
+    "https://news.futunn.com/hk/notice/306478898/ntes-s-overseas-regulatory-announcement"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306375927/ntes-s-date-of-board-meeting-and-date-of-publication": {
+      "headline": "網易-S：董事會會議會開日期及2025年第四季度及財政年度業績公告發佈日期",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:18:31.548113",
+      "last_seen": "2026-02-09T21:18:31.548123"
+    },
+    "https://news.futunn.com/hk/notice/306219215/ntes-s-overseas-regulatory-announcement": {
+      "headline": "網易-S：海外監管公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:46:13.409712",
+      "last_seen": "2026-02-10T10:46:13.409728"
+    },
+    "https://news.futunn.com/hk/notice/306467941/ntes-s-dividend-announcement-for-the-fourth-quarter-ended-31": {
+      "headline": "網易-S：2025年12月31日止第四季度股息公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:57.231257",
+      "last_seen": "2026-02-12T12:02:57.231276"
+    },
+    "https://news.futunn.com/hk/notice/306467877/ntes-s-unaudited-financial-results-for-the-fourth-quarter-and": {
+      "headline": "網易-S：2025年12月31日止第四季度及財政年度未經審計的財務業績公告及第四季度股息公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:58.606390",
+      "last_seen": "2026-02-12T12:02:58.606408"
+    },
+    "https://news.futunn.com/hk/notice/306478898/ntes-s-overseas-regulatory-announcement": {
+      "headline": "網易-S：海外監管公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:20:19.155447",
+      "last_seen": "2026-02-13T12:20:19.155470"
+    }
+  }
+}

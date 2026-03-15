@@ -1,0 +1,30 @@
+## Global Financial News
+
+- **US President Donald Trump Threatens Tariffs Over Greenland**: US President Donald Trump threatened escalating tariffs on eight European countries over opposition to his Greenland purchase bid, triggering sharp declines in European markets, especially autos and luxury sectors, and prompting the EU to consider a €93 billion retaliatory trade measure.
+- **Gold and Silver Hit Record Highs Amid Tariff Tensions**: Gold surged above $4,700 and silver reached new records as investors sought safe havens amid US-Europe tariff threats, with analysts predicting gold could reach $5,000.
+- **US Dollar and Global Currencies React to Trade Uncertainty**: The US dollar fell as investors shifted to safe-haven currencies like the yen and Swiss franc, while cryptocurrencies sold off amid heightened geopolitical risk.
+- **Asia-Pacific Markets Mostly Decline on Geopolitical Tensions and China Data**: Asia-Pacific markets, including Hong Kong, slipped as investors assessed China’s latest economic data and reacted to global trade tensions, though South Korea and Taiwan hit new highs on chip sector strength.
+- **Pop Mart Shares Surge After Buyback and Policy Support**: Pop Mart’s stock jumped over 8% following a HKD 2.51 billion share buyback and continued consumer policy support, boosting investor sentiment in Hong Kong’s consumer sector.
+- **Oil Prices Rise as Iranian Unrest Eases**: Oil prices climbed as reduced protests in Iran lowered the risk of US military action, though supply concerns persist.
+- **US Stock Futures Drop on Tariff Threats**: US stock futures fell sharply, with the Dow set to drop over 300 points, as markets digested President Donald Trump’s new tariff threats against NATO allies.
+- **China Maintains Loan Prime Rates Steady**: The People’s Bank of China kept both the one-year and five-year Loan Prime Rates unchanged for the eighth month, signaling stable monetary policy.
+- **Hong Kong Market Edges Down, Consumer Stocks Outperform**: The Hang Seng Index declined slightly, but consumer concept stocks like Huso Aunty and Pop Mart saw strong gains.
+- **China Duty Free Expands in Greater Bay Area**: China Tourism Group Duty Free’s stock rose as its subsidiary plans to acquire DFS’s Greater China retail business, expanding its regional network.
+- **China to Expand Domestic Demand and Support Upgrades**: China’s NDRC will formulate a strategic plan to boost domestic demand from 2026-2030, while the Ministry of Finance expands loan support for sectors like AI and aviation materials.
+- **Chinese Government Extends Loan Subsidies for Service and Consumer Sectors**: Policies supporting loan interest subsidies for service industry and personal consumption have been extended to support economic recovery.
+- **US Treasuries and Global Bonds in Turmoil**: US Treasuries faced significant volatility as Japan’s bond yields surpassed 4%, intensifying the global bond market sell-off.
+- **Asia Chip Stocks Rally on US-Taiwan Trade Deal**: Asian chipmakers surged after a US-Taiwan trade deal, with Taiwan’s TSMC and South Korea’s Kospi reaching record highs.
+- **EU Revisits Tech Regulation to Counter US Pressure**: The EU is renewing efforts to regulate tech giants, aiming to leverage them in negotiations with US President Donald Trump.
+- **OpenAI Projected to Reach $25 Billion in Ad Revenue by 2030**: OpenAI’s annual advertising revenue is forecasted to hit $25 billion by 2030, challenging Google’s dominance.
+- **Alibaba-Backed AI Startup Hits $4.8 Billion Valuation**: Chinese AI startup “Moon of the Dark Side,” backed by Alibaba, reached a $4.8 billion valuation amid strong demand for its chatbot.
+- **China Considers National M&A Fund for Industrial Upgrades**: The Chinese government is studying the creation of a national-level M&A fund to support innovation and new industries.
+- **Standard Chartered Forecasts China’s 2023 GDP Growth at 4.6%**: China’s economic growth is projected at 4.6% for 2023, with policy support expected for high-tech and green sectors.
+- **Macau Gaming Revenue Growth to Slow in 2026**: Macau’s gaming industry revenue growth is expected to moderate to 3-7% as post-pandemic recovery stabilizes.
+- **Major Airlines See Continued Growth on Strong Demand**: The three major airlines are expected to benefit from rising volume and pricing, with institutional optimism for the sector.
+- **Japan Sees Record Foreign Tourists, Fewer Chinese Visitors**: Japan welcomed over 42 million foreign tourists last year, but Chinese arrivals fell 45% in December amid diplomatic tensions.
+- **AppLovin Faces Financial Crime Allegations**: AppLovin’s shares dropped after a short-seller accused the company of facilitating money laundering and scams in Southeast Asia.
+- **Tesla’s Robotaxi Technology Seen as Key Valuation Driver**: Cathie Wood highlights Tesla’s Robotaxi business as central to the company’s future growth.
+- **S&P Global: Middle East Oil Companies to Boost Capex Despite Low Prices**: Middle Eastern state-owned oil firms are expected to increase capital expenditure over the next two years.
+- **Weight-Loss Drug Popularity Expected to Benefit Airlines**: Airlines may see higher earnings as weight-loss medications help reduce fuel costs.
+- **Morgan Stanley Highlights Thematic Investment Opportunities in US and Asia-Pacific**: Morgan Stanley released lists of overweight-rated stocks in the Americas and Asia-Pacific, focusing on technology, energy, and societal shifts.
+- **Google AI Model Applications Double in Five Months**: Google’s Gemini 3 has driven a doubling of AI model applications, fueling business growth.

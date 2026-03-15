@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hong Kong Fire News - Global Headlines</title>
+    <link rel="stylesheet" href="hk-fire-news.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container" id="mainContent">
+        <header class="header">
+            <div class="header-content">
+                <div class="back-link">
+                    <a href="index.html" class="back-button">← Back to Global Headlines</a>
+                </div>
+                <h1 class="title">
+                    <span class="fire-icon">🔥</span>
+                    Hong Kong Fire News
+                </h1>
+                <p class="subtitle">Coverage of the recent fire incident from news sources worldwide</p>
+                <p class="last-updated" id="lastUpdated">Last updated: <span id="updateTime">Loading...</span></p>
+            </div>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-box" placeholder="Search by country or newspaper...">
+        </div>
+
+        <div id="loadingState" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Loading news...</p>
+        </div>
+
+        <div id="errorState" class="error-message" style="display: none;">
+            <p>Unable to load news. Please try again later.</p>
+        </div>
+
+        <div id="headlinesContainer" class="headlines-grid">
+            <!-- Headlines will be loaded here dynamically -->
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 Global Headlines. All rights reserved.</p>
+            <p class="footer-note">News sourced from major newspapers worldwide</p>
+        </footer>
+    </div>
+
+    <script src="hk-fire-news.js"></script>
+</body>
+</html>
+

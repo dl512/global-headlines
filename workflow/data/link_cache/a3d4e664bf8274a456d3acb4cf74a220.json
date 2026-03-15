@@ -1,0 +1,910 @@
+{
+  "website": "https://www.cnbc.com/world-markets/",
+  "links": [
+    "https://www.cnbc.com/2026/02/09/japan-stocks-set-to-soar-after-takaichi-secures-historic-mandate.html",
+    "https://www.cnbc.com/2026/02/06/gold-silver-set-for-weekly-losses-on-tech-selloff-stronger-dollar.html",
+    "https://www.cnbc.com/2026/02/06/dollar-set-for-strongest-week-since-november-yen-steadies-before-polls.html",
+    "https://www.cnbc.com/2026/02/06/oil-extends-decline-ahead-of-us-iran-talks.html",
+    "https://www.cnbc.com/2026/02/05/european-markets-stoxx-600-shell-anglo-american-maersk-earnings.html",
+    "https://www.cnbc.com/2026/02/05/dollar-recovers-as-central-bank-decisions-loom.html",
+    "https://www.cnbc.com/2026/02/05/asia-markets-live-nikkei-kospi-hang-seng-oil-saas.html",
+    "https://www.cnbc.com/2026/02/04/asia-markets-today-wednesday-wall-street-tech-selloff-futures-lower-ai-software-hang-seng-nikkei-kospi.html",
+    "https://www.cnbc.com/2023/02/09/oil-prices-hover-around-four-month-high-buoyed-by-weak-dollar-and-us-storm.html",
+    "https://www.cnbc.com/2026/01/28/south-koreas-kospi-hits-record-high-for-second-straight-session.html",
+    "https://www.cnbc.com/2026/01/27/european-markets-stoxx-600-ftse-cac-dax-earnings.html",
+    "https://www.cnbc.com/2026/01/27/gold-scales-record-peak-as-uncertainty-fuels-safe-haven-bids",
+    "https://www.cnbc.com/2026/01/27/oil-slips-even-as-us-winter-storm-curbs-crude-output.html",
+    "https://www.cnbc.com/2026/02/05/south-koreas-kospi-hits-record-high-as-trump-levels-tariff-threats-against-seoul.html",
+    "https://www.cnbc.com/2026/01/29/european-markets-stoxx-600-ftse-dax-cac-earnings-reports.html",
+    "https://www.cnbc.com/2026/01/22/gold-falls-as-easing-geopolitical-tensions-dampen-safe-haven-demand",
+    "https://www.cnbc.com/2026/02/02/european-markets-sotxx-600-ftse-dax-cac-global-markets-silver-gold-bitcoin.html",
+    "https://www.cnbc.com/2026/02/02/asia-pacific-markets-hang-seng-index-csi-300-gold-silver.html",
+    "https://www.cnbc.com/2026/01/28/golds-blistering-rally-continues-as-dollar-plunges-to-4-year-low.html",
+    "https://www.cnbc.com/2026/01/28/dollar-crumbles-after-trump-remarks-euro-yen-sterling-surge.html",
+    "https://www.cnbc.com/2026/01/28/asia-markets-today-wednesday-hang-seng-index-nikkei-225-kospi-inflation-yen-australia-cpi.html",
+    "https://www.cnbc.com/2026/01/27/gold-silver-rise-to-near-record-highs-on-safe-haven-demand.html",
+    "https://www.cnbc.com/2026/02/11/asia-markets-live-today-wednesday-china-inflation-kospi-hang-seng-china-inflation.html",
+    "https://www.cnbc.com/2026/02/10/gold-falls-on-investor-caution-ahead-of-key-us-economic-data.html",
+    "https://www.cnbc.com/2026/02/10/dollar-soft-ahead-of-us-data-yen-holds-onto-its-gains-after-election.html",
+    "https://www.cnbc.com/2026/02/10/oil-drifts-lower-as-traders-weigh-supply-risks-amid-usiran-tensions.html",
+    "https://www.cnbc.com/2026/02/10/asia-markets-live-today-wednesday-china-inflation-kospi-hang-seng.html",
+    "https://www.cnbc.com/2026/02/10/oil-prices-steady-after-us-and-iran-hold-nuclear-talks",
+    "https://www.cnbc.com/2026/02/10/oil-settles-almost-3percent-down-on-easing-supply-concerns-ahead-of-us-iran-talks",
+    "https://www.cnbc.com/2026/02/10/asia-markets-live-nikkei-topix-takaichi-kospi-hang-seng.html",
+    "https://www.cnbc.com/2026/02/03/european-markets-stoxx-600-ftse-dax-cac-bitcoin-gold-silver-trade-deal.html",
+    "https://www.cnbc.com/2026/02/02/south-korea-stocks-fall-more-than-5-percent-triggering-temporary-halt-in-trading",
+    "https://www.cnbc.com/2026/01/29/gold-jumps-over-3percent-to-fresh-highs-as-asia-stock-markets-mostly-rise",
+    "https://www.cnbc.com/2026/01/28/european-markets-stoxx-600-dax-cac-ftse-asml-earnings-.html",
+    "https://www.cnbc.com/2026/02/02/south-koreas-kospi-leads-declines-in-asia-tracking-wall-street-tech-sell-off.html",
+    "https://www.cnbc.com/2026/02/13/asia-markets-live-today-friday-nikkei-kospi-hang-seng-ai-fears.html",
+    "https://www.cnbc.com/2026/02/12/european-markets-stoxx-600-ftse-dax-cac-siemens-loreal-earnings.html",
+    "https://www.cnbc.com/2026/02/05/oil-prices-fall-as-us-iran-agree-to-talks-easing-conflict-concerns.html",
+    "https://www.cnbc.com/2026/02/02/south-korea-stocks-fall-more-than-5-triggering-temporary-halt-in-trading",
+    "https://www.cnbc.com/2026/02/13/gold-bounces-back-from-near-one-week-low-us-inflation-data-in-focus.html",
+    "https://www.cnbc.com/2026/02/13/dollar-flat-after-inflation-data-yen-set-for-strong-weekly-gain",
+    "https://www.cnbc.com/2026/02/13/oil-set-for-weekly-drop-as-iran-risks-recede-oversupply-concerns.html",
+    "https://www.cnbc.com/2026/02/20/asia-markets-live-japan-nikkei225-inflation-iran-tensions.html",
+    "https://www.cnbc.com/2026/02/19/european-markets-stoxx-600-ftse-dax-cac-nestle-earnings.html",
+    "https://www.cnbc.com/2026/02/19/asia-pacific-markets-kospi-nikkei-225-nifty-50.html",
+    "https://www.cnbc.com/2026/02/18/european-markets-stoxx-600-ftse-dax-uk-inflation-data.html",
+    "https://www.cnbc.com/2026/02/17/markets-sterling-falls-as-uk-unemployment-hits-highest-in-five-years",
+    "https://www.cnbc.com/2026/02/13/dollar-flat-after-inflation-data-yen-set-for-strong-weekly-gain.html",
+    "https://www.cnbc.com/2026/02/05/u-s-dollar-hits-two-week-high-pound-slumps-after-boe-holds-rates",
+    "https://www.cnbc.com/2026/02/23/asia-pacific-markets-hang-seng-index-nifty-50-kospi-trump-tariffs-15-percent-supreme-court.html",
+    "https://www.cnbc.com/2026/02/20/gold-heads-for-weekly-loss-as-dollar-advances.html",
+    "https://www.cnbc.com/2026/02/20/dollar-set-for-best-week-in-four-months-on-hawkish-fed-geopolitics.html",
+    "https://www.cnbc.com/2026/02/20/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session",
+    "https://www.cnbc.com/2026/02/20/european-markets-stoxx-600-ftse-dax-cac-us-iran.html",
+    "https://www.cnbc.com/2026/02/17/market-stocks-uk-unemployment-highest-in-five-years.html",
+    "https://www.cnbc.com/2026/02/22/trump-tariffs-ieepa-supreme-court.html",
+    "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html",
+    "https://www.cnbc.com/2026/02/22/stock-market-today-live-updates.html",
+    "https://www.cnbc.com/2026/02/23/cnbc-daily-open-trumps-reaction-to-supreme-court-tariff-ruling-seems-to-cause-more-uncertainty.html",
+    "https://www.cnbc.com/2026/02/24/asia-markets-live-nikkei-225-hang-seng-index-kospi-tarriffs-trump-nikkei-pboc-lpr-trump-ai.html",
+    "https://www.cnbc.com/2026/02/23/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-reaction.html",
+    "https://www.cnbc.com/2026/02/24/asia-markets-live-nikkei-225-hang-seng-index-kospi-tarriffs-trump-ai.html",
+    "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
+    "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
+    "https://www.cnbc.com/2026/02/17/sterling-falls-as-uk-unemployment-hits-highest-rate-in-five-years",
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-index-ai.html",
+    "https://www.cnbc.com/2026/02/24/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-latest.html",
+    "https://www.cnbc.com/2026/02/24/gold-falls-from-three-week-high-on-profit-booking-firm-dollar.html",
+    "https://www.cnbc.com/2026/02/24/dollar-languishes-as-asia-markets-reopen-to-renewed-tariff-turmoil.html",
+    "https://www.cnbc.com/2026/02/24/oil-hovers-below-seven-month-high-as-traders-eye-usiran-talks-trade-policy.html",
+    "https://www.cnbc.com/2026/02/25/european-markets-stoxx-600-ftse-dax-cac-trump-sotu-tariffs-news.html",
+    "https://www.cnbc.com/2026/02/25/south-korea-and-japan-stocks-hit-fresh-highs-as-region-tracks-wall-street-gains",
+    "https://www.cnbc.com/2026/02/24/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-news.html",
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-high-asian-markets-brush-off-trumps-latest-tariff-moves.html",
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session.html",
+    "https://www.cnbc.com/2026/02/26/frances-engie-jumps-7percent-after-14-billion-uk-power-grid-deal-europe-markets-close-flat",
+    "https://www.cnbc.com/2026/02/26/japan-nikkei-225-crosses-59000-central-bank-fuel-takaichi-trade",
+    "https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html",
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-high-asian-markets-brush-off-trumps-latest-tariff-moves",
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session",
+    "https://www.cnbc.com/2026/02/20/european-markets-stoxx-600-ftse-dax-cac-ukraine-tariffs.html",
+    "https://www.cnbc.com/2026/02/27/us-and-iran-wrap-up-most-intense-nuclear-talks-with-no-deal-more-negotiations-ahead",
+    "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html",
+    "https://www.cnbc.com/2026/02/27/european-markets-stoxx-600-ftse-dax-cac-earnings-data.html",
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-for-first-time-as-central-bank-board-picks-fuel-takaichi-trade",
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-ai.html",
+    "https://www.cnbc.com/2026/03/03/gold-extends-gains-as-middle-east-war-boosts-safe-haven-demand.html",
+    "https://www.cnbc.com/2026/03/03/yen-euro-under-pressure-as-middle-east-conflict-stokes-energy-concerns.html",
+    "https://www.cnbc.com/2026/03/03/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks",
+    "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html",
+    "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html",
+    "https://www.cnbc.com/2026/03/02/oil-jumps-as-iran-conflict-escalates-disrupts-shipping.html",
+    "https://www.cnbc.com/2026/03/02/gold-climbs-as-us-israel-strikes-on-iran-spark-safe-haven-demand.html",
+    "https://www.cnbc.com/2026/03/02/dollar-gains-euro-sags-as-iran-war-lifts-energy-prices.html",
+    "https://www.cnbc.com/2026/02/26/japan-nikkei-225-crosses-59000-central-bank-takaichi-trade",
+    "https://www.cnbc.com/2026/02/24/gold-falls-as-dollar-strengthens-investors-book-profits",
+    "https://www.cnbc.com/2026/03/02/oil-rises-as-expanding-u-s.-israeli-conflict-with-iran-elevates-supply-risks.html",
+    "https://www.cnbc.com/2026/03/03/south-koreas-kospi-hits-fresh-high-as-asian-markets-brush-off-trumps-latest-tariff-moves",
+    "https://www.cnbc.com/2026/03/03/european-markets-stoxx-600-ftse-dax-cac-iran-latest-spring-statement-uk.html",
+    "https://www.cnbc.com/2026/03/03/dollar-gains-european-markets-as-middle-east-conflict-stokes-flight-to-safety.html",
+    "https://www.cnbc.com/2026/03/03/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks.html",
+    "https://www.cnbc.com/2026/03/03/south-koreas-kospi-sees-worst-day-in-19-months-amid-broader-decline-in-asia-markets",
+    "https://www.cnbc.com/2026/03/02/oil-jumps-as-iran-conflict-escalates-disrupts-shipping",
+    "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html",
+    "https://www.cnbc.com/2026/03/02/dow-closes-down-400-points-after-falling-as-much-as-1200-points-as-iran-conflict-volatility-continues.html",
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-for-the-first-time-as-central-bank-board-picks-fuel-takaichi-trade",
+    "https://www.cnbc.com/2026/03/04/european-markets-stoxx-600-ftse-dax-oil-prices-middle-east-latest.html",
+    "https://www.cnbc.com/2026/03/03/dollar-gains-european-markets-boost-safe-haven-demand",
+    "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
+    "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html",
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-first-time-as-central-bank-board-picks-fuel-takaichi-trade",
+    "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
+    "https://www.cnbc.com/2026/03/06/gold-rises-1percent-as-middle-east-conflict-spurs-safe-haven-demand.html",
+    "https://www.cnbc.com/2026/03/06/dollar-set-for-steepest-weekly-gain-in-a-year-as-iran-crisis-boosts-haven-bid.html",
+    "https://www.cnbc.com/2026/03/06/oil-falls-as-us-may-intervene-in-futures-market-issues-waiver-for-russian-purchases.html",
+    "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+    "https://www.cnbc.com/2026/03/08/stock-market-today-live-updates.html",
+    "https://www.cnbc.com/2026/03/03/dollar-gains-as-middle-east-conflict-boosts-safe-haven-demand",
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-index-ai",
+    "https://www.cnbc.com/2026/02/24/gold-falls-from-three-week-high-on-profit-booking-firm-dollar",
+    "https://www.cnbc.com/2026/03/24/yen-hits-fresh-2-week-lows-market-sentiment-in-focus",
+    "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+    "https://www.cnbc.com/2026/03/09/gold-prices-fall-on-firmer-dollar-dimming-rate-cut-hopes.html",
+    "https://www.cnbc.com/2026/03/09/dollar-surges-as-middle-east-war-sends-oil-above-110-a-barrel.html",
+    "https://www.cnbc.com/2026/03/09/oil-prices-surge-20percent-as-expanding-us-israeli-war-with-iran-cuts-supplies-from-mideast",
+    "https://www.cnbc.com/2026/03/09/asia-markets-moderate-losses-after-reported-saudi-oil-release-slightly-ease-prices",
+    "https://www.cnbc.com/2026/03/06/dollar-set-for-steepest-weekly-gain-in-a-year-as-iran-crisis-boosts-haven-demand",
+    "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+    "https://www.cnbc.com/2026/03/09/oil-prices-surge-20percent-as-expanding-us-israeli-war-with-iran-cuts-supplies-from-mideast.html"
+  ],
+  "metadata": {
+    "https://www.cnbc.com/2026/02/09/japan-stocks-set-to-soar-after-takaichi-secures-historic-mandate.html": {
+      "headline": "Japan's Nikkei 225 crosses 57,000 for the first time as Takaichi secures historic mandate",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:56:09.369949",
+      "last_seen": "2026-02-09T20:56:09.369961"
+    },
+    "https://www.cnbc.com/2026/02/06/gold-silver-set-for-weekly-losses-on-tech-selloff-stronger-dollar.html": {
+      "headline": "Gold bounces back on softer dollar, U.S.-Iran concerns; silver rebounds",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:12.915793",
+      "last_seen": "2026-02-09T20:56:12.915804"
+    },
+    "https://www.cnbc.com/2026/02/06/dollar-set-for-strongest-week-since-november-yen-steadies-before-polls.html": {
+      "headline": "Dollar retreats from two-week high, yen set for weekly loss",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:17.236013",
+      "last_seen": "2026-02-09T20:56:17.236023"
+    },
+    "https://www.cnbc.com/2026/02/06/oil-extends-decline-ahead-of-us-iran-talks.html": {
+      "headline": "Oil prices stable after U.S. and Iran hold nuclear talks",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:23.382879",
+      "last_seen": "2026-02-09T20:56:23.382889"
+    },
+    "https://www.cnbc.com/2026/02/05/european-markets-stoxx-600-shell-anglo-american-maersk-earnings.html": {
+      "headline": "European stocks edge lower; Bank of England and ECB hold rates steady",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:27.938570",
+      "last_seen": "2026-02-09T20:56:27.938578"
+    },
+    "https://www.cnbc.com/2026/02/05/dollar-recovers-as-central-bank-decisions-loom.html": {
+      "headline": "U.S. dollar hits two-week high, pound slumps after BoE holds rates",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:33.068424",
+      "last_seen": "2026-02-09T20:56:33.068431"
+    },
+    "https://www.cnbc.com/2026/02/05/asia-markets-live-nikkei-kospi-hang-seng-oil-saas.html": {
+      "headline": "South Korea's Kospi leads declines in Asia, tracking Wall Street tech sell-off; Topix retreats from record",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:39.885164",
+      "last_seen": "2026-02-09T20:56:39.885172"
+    },
+    "https://www.cnbc.com/2026/02/04/asia-markets-today-wednesday-wall-street-tech-selloff-futures-lower-ai-software-hang-seng-nikkei-kospi.html": {
+      "headline": "Asia stocks trade mostly higher, breaking ranks with Wall Street",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:45.097840",
+      "last_seen": "2026-02-09T20:56:45.097847"
+    },
+    "https://www.cnbc.com/2023/02/09/oil-prices-hover-around-four-month-high-buoyed-by-weak-dollar-and-us-storm.html": {
+      "headline": "Oil prices hover around four-month high, buoyed by weak dollar and U.S. storm",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:51.018336",
+      "last_seen": "2026-02-09T20:56:51.018346"
+    },
+    "https://www.cnbc.com/2026/01/28/south-koreas-kospi-hits-record-high-for-second-straight-session.html": {
+      "headline": "South Korea's Kospi hits record high for second straight session",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:55.412310",
+      "last_seen": "2026-02-09T20:56:55.412318"
+    },
+    "https://www.cnbc.com/2026/01/27/european-markets-stoxx-600-ftse-cac-dax-earnings.html": {
+      "headline": "European stocks rise after EU's 'mother of all deals' with India",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:56:59.911294",
+      "last_seen": "2026-02-09T20:56:59.911302"
+    },
+    "https://www.cnbc.com/2026/01/27/gold-scales-record-peak-as-uncertainty-fuels-safe-haven-bids": {
+      "headline": "Gold scales record peak as uncertainty fuels safe-haven bids",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:57:03.748746",
+      "last_seen": "2026-02-09T20:57:03.748755"
+    },
+    "https://www.cnbc.com/2026/01/27/oil-slips-even-as-us-winter-storm-curbs-crude-output.html": {
+      "headline": "Oil prices rise 3% as winter storm slams US output",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:57:10.079295",
+      "last_seen": "2026-02-09T20:57:10.079303"
+    },
+    "https://www.cnbc.com/2026/02/05/south-koreas-kospi-hits-record-high-as-trump-levels-tariff-threats-against-seoul.html": {
+      "headline": "South Korea's Kospi hits fresh record as Trump levels tariff threats against Seoul",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:57:13.493316",
+      "last_seen": "2026-02-09T20:57:13.493325"
+    },
+    "https://www.cnbc.com/2026/01/29/european-markets-stoxx-600-ftse-dax-cac-earnings-reports.html": {
+      "headline": "European markets close higher ahead of busy earnings week",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:57:17.930001",
+      "last_seen": "2026-02-09T20:57:17.930010"
+    },
+    "https://www.cnbc.com/2026/01/22/gold-falls-as-easing-geopolitical-tensions-dampen-safe-haven-demand": {
+      "headline": "Gold tops $4,900/oz; silver and platinum extend record‑setting rally",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:57:21.662182",
+      "last_seen": "2026-02-09T20:57:21.662190"
+    },
+    "https://www.cnbc.com/2026/02/02/european-markets-sotxx-600-ftse-dax-cac-global-markets-silver-gold-bitcoin.html": {
+      "headline": "European stocks close higher as sell-off in precious metals eases",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:02.633122",
+      "last_seen": "2026-02-10T10:27:02.633136"
+    },
+    "https://www.cnbc.com/2026/02/02/asia-pacific-markets-hang-seng-index-csi-300-gold-silver.html": {
+      "headline": "South Korea stocks fall more than 5%, triggering temporary halt in trading",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:07.664054",
+      "last_seen": "2026-02-10T10:27:07.664070"
+    },
+    "https://www.cnbc.com/2026/01/28/golds-blistering-rally-continues-as-dollar-plunges-to-4-year-low.html": {
+      "headline": "Fed keeps rates unchanged, gold higher after decision",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:14.404369",
+      "last_seen": "2026-02-10T10:27:14.404382"
+    },
+    "https://www.cnbc.com/2026/01/28/dollar-crumbles-after-trump-remarks-euro-yen-sterling-surge.html": {
+      "headline": "Dollar pinned near four-year low after Trump comments fuel selling",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:19.393771",
+      "last_seen": "2026-02-10T10:27:19.393784"
+    },
+    "https://www.cnbc.com/2026/01/28/asia-markets-today-wednesday-hang-seng-index-nikkei-225-kospi-inflation-yen-australia-cpi.html": {
+      "headline": "South Korea's Kospi hits record high for second straight session",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:25.015863",
+      "last_seen": "2026-02-10T10:27:25.015877"
+    },
+    "https://www.cnbc.com/2026/01/27/gold-silver-rise-to-near-record-highs-on-safe-haven-demand.html": {
+      "headline": "Gold scales record peak as uncertainty fuels safe-haven bids",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:27:30.690444",
+      "last_seen": "2026-02-10T10:27:30.690459"
+    },
+    "https://www.cnbc.com/2026/02/11/asia-markets-live-today-wednesday-china-inflation-kospi-hang-seng-china-inflation.html": {
+      "headline": "Asia markets mostly rise as investors shrug off weak U.S. retail sales, assess China inflation",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:25:11.754923",
+      "last_seen": "2026-02-11T11:25:11.754938"
+    },
+    "https://www.cnbc.com/2026/02/10/gold-falls-on-investor-caution-ahead-of-key-us-economic-data.html": {
+      "headline": "Gold drops as investors brace for US jobs and inflation numbers",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:15.676941",
+      "last_seen": "2026-02-11T11:25:15.676954"
+    },
+    "https://www.cnbc.com/2026/02/10/dollar-soft-ahead-of-us-data-yen-holds-onto-its-gains-after-election.html": {
+      "headline": "Dollar trades lower against peers after weak data; yen continues winning streak",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:20.485059",
+      "last_seen": "2026-02-11T11:25:20.485076"
+    },
+    "https://www.cnbc.com/2026/02/10/oil-drifts-lower-as-traders-weigh-supply-risks-amid-usiran-tensions.html": {
+      "headline": "Oil prices steady as traders monitor Iran tensions, U.S. economic data",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:24.400683",
+      "last_seen": "2026-02-11T11:25:24.400700"
+    },
+    "https://www.cnbc.com/2026/02/10/asia-markets-live-today-wednesday-china-inflation-kospi-hang-seng.html": {
+      "headline": "Nikkei set to continue post election rally to new highs",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:28.478763",
+      "last_seen": "2026-02-11T11:25:28.478779"
+    },
+    "https://www.cnbc.com/2026/02/10/oil-prices-steady-after-us-and-iran-hold-nuclear-talks": {
+      "headline": "Oil prices stable after U.S. and Iran hold nuclear talks",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:37.430819",
+      "last_seen": "2026-02-11T11:25:37.430841"
+    },
+    "https://www.cnbc.com/2026/02/10/oil-settles-almost-3percent-down-on-easing-supply-concerns-ahead-of-us-iran-talks": {
+      "headline": "Oil settles almost 3% down on easing supply concerns ahead of U.S., Iran talks",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:44.703485",
+      "last_seen": "2026-02-11T11:25:44.703500"
+    },
+    "https://www.cnbc.com/2026/02/10/asia-markets-live-nikkei-topix-takaichi-kospi-hang-seng.html": {
+      "headline": "South Korea's Kospi leads declines in Asia, tracking Wall Street tech sell-off; Topix retreats from record",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:49.628985",
+      "last_seen": "2026-02-11T11:25:49.629001"
+    },
+    "https://www.cnbc.com/2026/02/03/european-markets-stoxx-600-ftse-dax-cac-bitcoin-gold-silver-trade-deal.html": {
+      "headline": "European stocks end flat as UK mining giants rise on metals rebound",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:25:56.122689",
+      "last_seen": "2026-02-11T11:25:56.122706"
+    },
+    "https://www.cnbc.com/2026/02/02/south-korea-stocks-fall-more-than-5-percent-triggering-temporary-halt-in-trading": {
+      "headline": "South Korea stocks fall more than 5%, triggering temporary halt in trading",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:26:02.168408",
+      "last_seen": "2026-02-11T11:26:02.168423"
+    },
+    "https://www.cnbc.com/2026/01/29/gold-jumps-over-3percent-to-fresh-highs-as-asia-stock-markets-mostly-rise": {
+      "headline": "Gold jumps over 3% to fresh highs as Asia stock markets mostly rise",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:26:08.761013",
+      "last_seen": "2026-02-11T11:26:08.761027"
+    },
+    "https://www.cnbc.com/2026/01/28/european-markets-stoxx-600-dax-cac-ftse-asml-earnings-.html": {
+      "headline": "European chip stocks end lower after ASML earnings; LVMH falls",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:26:14.123791",
+      "last_seen": "2026-02-11T11:26:14.123809"
+    },
+    "https://www.cnbc.com/2026/02/02/south-koreas-kospi-leads-declines-in-asia-tracking-wall-street-tech-sell-off.html": {
+      "headline": "South Korea stocks fall more than 5%, triggering temporary halt in trading",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:40:56.135833",
+      "last_seen": "2026-02-12T11:40:56.135851"
+    },
+    "https://www.cnbc.com/2026/02/13/asia-markets-live-today-friday-nikkei-kospi-hang-seng-ai-fears.html": {
+      "headline": "Asia stock markets track losses on Wall Street as AI fears hit sentiment",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:54:34.295287",
+      "last_seen": "2026-02-13T11:54:34.295298"
+    },
+    "https://www.cnbc.com/2026/02/12/european-markets-stoxx-600-ftse-dax-cac-siemens-loreal-earnings.html": {
+      "headline": "European markets close mixed as investors digest big batch of earnings",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:54:39.509564",
+      "last_seen": "2026-02-13T11:54:39.509575"
+    },
+    "https://www.cnbc.com/2026/02/05/oil-prices-fall-as-us-iran-agree-to-talks-easing-conflict-concerns.html": {
+      "headline": "Oil settles almost 3% down on easing supply concerns ahead of U.S., Iran talks",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:54:59.717244",
+      "last_seen": "2026-02-13T11:54:59.717255"
+    },
+    "https://www.cnbc.com/2026/02/02/south-korea-stocks-fall-more-than-5-triggering-temporary-halt-in-trading": {
+      "headline": "South Korea stocks fall more than 5%, triggering temporary halt in trading",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:55:10.595067",
+      "last_seen": "2026-02-13T11:55:10.595078"
+    },
+    "https://www.cnbc.com/2026/02/13/gold-bounces-back-from-near-one-week-low-us-inflation-data-in-focus.html": {
+      "headline": "Gold rises over 2% as soft inflation data rekindles Fed rate-cut hopes",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:41:10.895653",
+      "last_seen": "2026-02-16T10:41:10.895672"
+    },
+    "https://www.cnbc.com/2026/02/13/dollar-flat-after-inflation-data-yen-set-for-strong-weekly-gain": {
+      "headline": "Dollar flat after inflation data, yen set for strong weekly gain",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:41:14.679688",
+      "last_seen": "2026-02-16T10:41:14.679702"
+    },
+    "https://www.cnbc.com/2026/02/13/oil-set-for-weekly-drop-as-iran-risks-recede-oversupply-concerns.html": {
+      "headline": "Oil prices stable as investors weigh OPEC+ supply, US inflation data",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:41:18.585796",
+      "last_seen": "2026-02-16T10:41:18.585810"
+    },
+    "https://www.cnbc.com/2026/02/20/asia-markets-live-japan-nikkei225-inflation-iran-tensions.html": {
+      "headline": "Asia-Pacific markets mostly fall, tracking Wall Street losses, as U.S.-Iran tensions take hold",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:05:31.853493",
+      "last_seen": "2026-02-20T11:05:31.853506"
+    },
+    "https://www.cnbc.com/2026/02/19/european-markets-stoxx-600-ftse-dax-cac-nestle-earnings.html": {
+      "headline": "European stocks end lower as investors parse Airbus, Renault earnings",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:37.156031",
+      "last_seen": "2026-02-20T11:05:37.156045"
+    },
+    "https://www.cnbc.com/2026/02/19/asia-pacific-markets-kospi-nikkei-225-nifty-50.html": {
+      "headline": "South Korea's Kospi jumps to record high as region tracks Wall Street gains",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:43.171665",
+      "last_seen": "2026-02-20T11:05:43.171683"
+    },
+    "https://www.cnbc.com/2026/02/18/european-markets-stoxx-600-ftse-dax-uk-inflation-data.html": {
+      "headline": "Bayer falls 7% after proposing $7.25 billion settlement in Roundup case",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:49.206079",
+      "last_seen": "2026-02-20T11:05:49.206093"
+    },
+    "https://www.cnbc.com/2026/02/17/markets-sterling-falls-as-uk-unemployment-hits-highest-in-five-years": {
+      "headline": "Sterling falls as UK unemployment hits highest rate in five years",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:05:55.458148",
+      "last_seen": "2026-02-20T11:05:55.458161"
+    },
+    "https://www.cnbc.com/2026/02/13/dollar-flat-after-inflation-data-yen-set-for-strong-weekly-gain.html": {
+      "headline": "Dollar flat after inflation data, yen set for strong weekly gain",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:06:04.315871",
+      "last_seen": "2026-02-20T11:06:04.315888"
+    },
+    "https://www.cnbc.com/2026/02/05/u-s-dollar-hits-two-week-high-pound-slumps-after-boe-holds-rates": {
+      "headline": "U.S. dollar hits two-week high, pound slumps after BoE holds rates",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:06:37.335315",
+      "last_seen": "2026-02-20T11:06:37.335329"
+    },
+    "https://www.cnbc.com/2026/02/23/asia-pacific-markets-hang-seng-index-nifty-50-kospi-trump-tariffs-15-percent-supreme-court.html": {
+      "headline": "South Korea's Kospi hits fresh high as Asian markets brush off Trump's latest tariff moves",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:11:22.762181",
+      "last_seen": "2026-02-23T12:11:22.762201"
+    },
+    "https://www.cnbc.com/2026/02/20/gold-heads-for-weekly-loss-as-dollar-advances.html": {
+      "headline": "Gold gains over 1% on soft U.S. data, Trump's fresh tariff move",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:26.390482",
+      "last_seen": "2026-02-23T12:11:26.390496"
+    },
+    "https://www.cnbc.com/2026/02/20/dollar-set-for-best-week-in-four-months-on-hawkish-fed-geopolitics.html": {
+      "headline": "Dollar dips after Supreme Court rules against Trump's tariffs",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:29.880439",
+      "last_seen": "2026-02-23T12:11:29.880455"
+    },
+    "https://www.cnbc.com/2026/02/20/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session": {
+      "headline": "South Korea's Kospi hits fresh record high for second straight session",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:33.583980",
+      "last_seen": "2026-02-23T12:11:33.583994"
+    },
+    "https://www.cnbc.com/2026/02/20/european-markets-stoxx-600-ftse-dax-cac-us-iran.html": {
+      "headline": "European stocks higher after U.S. Supreme Court strikes down Trump tariffs",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:36.917479",
+      "last_seen": "2026-02-23T12:11:36.917492"
+    },
+    "https://www.cnbc.com/2026/02/17/market-stocks-uk-unemployment-highest-in-five-years.html": {
+      "headline": "Sterling falls as UK unemployment hits highest rate in five years",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:43.167735",
+      "last_seen": "2026-02-23T12:11:43.167749"
+    },
+    "https://www.cnbc.com/2026/02/22/trump-tariffs-ieepa-supreme-court.html": {
+      "headline": "U.S. importers still paying Trump's illegal tariffs even after Supreme Court ruling",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:49.506775",
+      "last_seen": "2026-02-23T12:11:49.506791"
+    },
+    "https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html": {
+      "headline": "Bitcoin falls below $65,000 as Trump tariff moves raise uncertainty",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:11:52.831454",
+      "last_seen": "2026-02-23T12:11:52.831471"
+    },
+    "https://www.cnbc.com/2026/02/22/stock-market-today-live-updates.html": {
+      "headline": "Stock futures fall amid uncertainty about Trump new tariffs: Live updates",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:11:56.236987",
+      "last_seen": "2026-02-23T12:11:56.237001"
+    },
+    "https://www.cnbc.com/2026/02/23/cnbc-daily-open-trumps-reaction-to-supreme-court-tariff-ruling-seems-to-cause-more-uncertainty.html": {
+      "headline": "CNBC Daily Open: Trump's reaction to Supreme Court tariff ruling seems to cause more uncertainty",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:12:00.581194",
+      "last_seen": "2026-02-23T12:12:00.581209"
+    },
+    "https://www.cnbc.com/2026/02/24/asia-markets-live-nikkei-225-hang-seng-index-kospi-tarriffs-trump-nikkei-pboc-lpr-trump-ai.html": {
+      "headline": "Asia markets trade mixed after Trump revives tariff threat and AI fears hit tech",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:33:02.686780",
+      "last_seen": "2026-02-24T10:33:02.686795"
+    },
+    "https://www.cnbc.com/2026/02/23/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-reaction.html": {
+      "headline": "European stocks end lower as markets react to new Trump tariffs",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:33:07.965867",
+      "last_seen": "2026-02-24T10:33:07.965881"
+    },
+    "https://www.cnbc.com/2026/02/24/asia-markets-live-nikkei-225-hang-seng-index-kospi-tarriffs-trump-ai.html": {
+      "headline": "Asia markets track losses on Wall Street as AI fears hit sentiment",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:33:25.640709",
+      "last_seen": "2026-02-24T10:33:25.640731"
+    },
+    "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html": {
+      "headline": "FedEx sues for refund of Trump tariffs, days after Supreme Court ruling",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:33:34.487831",
+      "last_seen": "2026-02-24T10:33:34.487848"
+    },
+    "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html": {
+      "headline": "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:33:42.239472",
+      "last_seen": "2026-02-24T10:33:42.239486"
+    },
+    "https://www.cnbc.com/2026/02/17/sterling-falls-as-uk-unemployment-hits-highest-rate-in-five-years": {
+      "headline": "Sterling falls as UK unemployment hits highest rate in five years",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:33:47.315335",
+      "last_seen": "2026-02-24T10:33:47.315348"
+    },
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-index-ai.html": {
+      "headline": "South Korea and Japan stocks hit fresh highs amid regional gains after Wall Street's AI relief rally",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:55:37.314640",
+      "last_seen": "2026-02-25T10:55:37.314655"
+    },
+    "https://www.cnbc.com/2026/02/24/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-latest.html": {
+      "headline": "European stocks finish higher as Trump's tariffs take effect at lower than expected 10%",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:55:43.824422",
+      "last_seen": "2026-02-25T10:55:43.824435"
+    },
+    "https://www.cnbc.com/2026/02/24/gold-falls-from-three-week-high-on-profit-booking-firm-dollar.html": {
+      "headline": "Gold falls over as dollar strengthens, investors book profits",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:55:53.845712",
+      "last_seen": "2026-02-25T10:55:53.845726"
+    },
+    "https://www.cnbc.com/2026/02/24/dollar-languishes-as-asia-markets-reopen-to-renewed-tariff-turmoil.html": {
+      "headline": "Yen weakens on report Japan PM questioned rate hike plans",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:56:00.509378",
+      "last_seen": "2026-02-25T10:56:00.509392"
+    },
+    "https://www.cnbc.com/2026/02/24/oil-hovers-below-seven-month-high-as-traders-eye-usiran-talks-trade-policy.html": {
+      "headline": "Oil prices hold near seven-month highs with US-Iran talks in focus",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T10:56:08.101878",
+      "last_seen": "2026-02-25T10:56:08.101892"
+    },
+    "https://www.cnbc.com/2026/02/25/european-markets-stoxx-600-ftse-dax-cac-trump-sotu-tariffs-news.html": {
+      "headline": "Spirits maker Diageo falls after slashing dividend, lowering profit outlook",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:39.673834",
+      "last_seen": "2026-02-26T10:51:39.673849"
+    },
+    "https://www.cnbc.com/2026/02/25/south-korea-and-japan-stocks-hit-fresh-highs-as-region-tracks-wall-street-gains": {
+      "headline": "South Korea and Japan stocks hit fresh highs as region tracks Wall Street gains",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:43.495435",
+      "last_seen": "2026-02-26T10:51:43.495449"
+    },
+    "https://www.cnbc.com/2026/02/24/european-markets-stoxx-600-ftse-dax-cac-trump-tariffs-news.html": {
+      "headline": "European stocks finish higher as Trump's tariffs take effect at lower than expected 10%",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:47.544368",
+      "last_seen": "2026-02-26T10:51:47.544382"
+    },
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-high-asian-markets-brush-off-trumps-latest-tariff-moves.html": {
+      "headline": "South Korea's Kospi hits fresh high as Asian markets brush off Trump's latest tariff moves",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:51:59.301906",
+      "last_seen": "2026-02-26T10:51:59.301920"
+    },
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session.html": {
+      "headline": "South Korea's Kospi hits fresh record high for second straight session",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:52:05.270092",
+      "last_seen": "2026-02-26T10:52:05.270107"
+    },
+    "https://www.cnbc.com/2026/02/26/frances-engie-jumps-7percent-after-14-billion-uk-power-grid-deal-europe-markets-close-flat": {
+      "headline": "France's Engie jumps 7% after $14 billion UK power grid deal; European markets close flat",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:03:33.763522",
+      "last_seen": "2026-02-27T11:03:33.763539"
+    },
+    "https://www.cnbc.com/2026/02/26/japan-nikkei-225-crosses-59000-central-bank-fuel-takaichi-trade": {
+      "headline": "Japan's Nikkei 225 crosses 59,000 first the first time as central bank board picks fuel 'Takaichi trade'",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:03:38.548952",
+      "last_seen": "2026-02-27T11:03:38.548967"
+    },
+    "https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html": {
+      "headline": "Oil prices hold near seven-month highs with US-Iran talks in focus",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:03:56.131383",
+      "last_seen": "2026-02-27T11:03:56.131400"
+    },
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-high-asian-markets-brush-off-trumps-latest-tariff-moves": {
+      "headline": "South Korea's Kospi hits fresh high as Asian markets brush off Trump's latest tariff moves",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:04:05.886345",
+      "last_seen": "2026-02-27T11:04:05.886359"
+    },
+    "https://www.cnbc.com/2026/02/25/south-koreas-kospi-hits-fresh-record-high-for-second-straight-session": {
+      "headline": "South Korea's Kospi hits fresh record high for second straight session",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:04:15.603757",
+      "last_seen": "2026-02-27T11:04:15.603772"
+    },
+    "https://www.cnbc.com/2026/02/20/european-markets-stoxx-600-ftse-dax-cac-ukraine-tariffs.html": {
+      "headline": "European stocks higher after U.S. Supreme Court strikes down Trump tariffs",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:04:20.404968",
+      "last_seen": "2026-02-27T11:04:20.404982"
+    },
+    "https://www.cnbc.com/2026/02/27/us-and-iran-wrap-up-most-intense-nuclear-talks-with-no-deal-more-negotiations-ahead": {
+      "headline": "Oil prices stable as traders monitor Iran tensions, U.S. economic data",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:04:32.822522",
+      "last_seen": "2026-02-27T11:04:32.822538"
+    },
+    "https://www.cnbc.com/2026/03/02/asia-markets-live-trump-iran-oil-prices-nikkei-hang-seng-us-israel-strikes-oil.html": {
+      "headline": "Asia-Pacific markets tumble after Iran strikes, oil futures spike by over 8%",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:41:33.544836",
+      "last_seen": "2026-03-02T09:41:33.544851"
+    },
+    "https://www.cnbc.com/2026/02/27/european-markets-stoxx-600-ftse-dax-cac-earnings-data.html": {
+      "headline": "Swiss Re pops 4% after record $4.8 billion profit; plans $1.5 billion buyback",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:37.172520",
+      "last_seen": "2026-03-02T09:41:37.172536"
+    },
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-for-first-time-as-central-bank-board-picks-fuel-takaichi-trade": {
+      "headline": "Japan's Nikkei 225 crosses 59,000 for the first time as central bank board picks fuel 'Takaichi trade'",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:40.924025",
+      "last_seen": "2026-03-02T09:41:40.924039"
+    },
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-ai.html": {
+      "headline": "South Korea and Japan stocks hit fresh highs as region tracks Wall Street gains",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:41:46.040053",
+      "last_seen": "2026-03-02T09:41:46.040074"
+    },
+    "https://www.cnbc.com/2026/03/03/gold-extends-gains-as-middle-east-war-boosts-safe-haven-demand.html": {
+      "headline": "Gold extends gains as Middle East war boosts safe-haven demand",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:34:23.479138",
+      "last_seen": "2026-03-03T13:34:23.479154"
+    },
+    "https://www.cnbc.com/2026/03/03/yen-euro-under-pressure-as-middle-east-conflict-stokes-energy-concerns.html": {
+      "headline": "Yen, euro under pressure as Middle East conflict stokes energy concerns",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:34:28.924459",
+      "last_seen": "2026-03-03T13:34:28.924474"
+    },
+    "https://www.cnbc.com/2026/03/03/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks": {
+      "headline": "Oil rises as expanding U.S.-Israeli conflict with Iran elevates supply risks",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:34:36.293437",
+      "last_seen": "2026-03-03T13:34:36.293453"
+    },
+    "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html": {
+      "headline": "South Korea's Kospi leads losses in Asia stocks as Iran conflict sours sentiment; oil prices rise",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:34:41.607745",
+      "last_seen": "2026-03-03T13:34:41.607758"
+    },
+    "https://www.cnbc.com/2026/03/02/european-markets-stoxx-600-ftse-dax-cac-iran-strikes-reaction.html": {
+      "headline": "European stocks fall sharply as conflict grips the Middle East; oil prices jump",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:34:45.782365",
+      "last_seen": "2026-03-03T13:34:45.782378"
+    },
+    "https://www.cnbc.com/2026/03/02/oil-jumps-as-iran-conflict-escalates-disrupts-shipping.html": {
+      "headline": "Oil jumps as Iran conflict escalates, disrupts shipping",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:34:49.667937",
+      "last_seen": "2026-03-03T13:34:49.667951"
+    },
+    "https://www.cnbc.com/2026/03/02/gold-climbs-as-us-israel-strikes-on-iran-spark-safe-haven-demand.html": {
+      "headline": "Gold gains on fears of prolonged Middle East conflict",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:34:54.722333",
+      "last_seen": "2026-03-03T13:34:54.722343"
+    },
+    "https://www.cnbc.com/2026/03/02/dollar-gains-euro-sags-as-iran-war-lifts-energy-prices.html": {
+      "headline": "Euro, yen slide as Middle East conflict escalates",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:35:00.061935",
+      "last_seen": "2026-03-03T13:35:00.061961"
+    },
+    "https://www.cnbc.com/2026/02/26/japan-nikkei-225-crosses-59000-central-bank-takaichi-trade": {
+      "headline": "Japan's Nikkei 225 crosses 59,000 first the first time as central bank board picks fuel 'Takaichi trade'",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:35:07.936000",
+      "last_seen": "2026-03-03T13:35:07.936013"
+    },
+    "https://www.cnbc.com/2026/02/24/gold-falls-as-dollar-strengthens-investors-book-profits": {
+      "headline": "Gold falls over as dollar strengthens, investors book profits",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:35:16.806621",
+      "last_seen": "2026-03-03T13:35:16.806638"
+    },
+    "https://www.cnbc.com/2026/03/02/oil-rises-as-expanding-u-s.-israeli-conflict-with-iran-elevates-supply-risks.html": {
+      "headline": "Oil prices hold near seven-month highs with US-Iran talks in focus",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:35:23.560934",
+      "last_seen": "2026-03-03T13:35:23.560951"
+    },
+    "https://www.cnbc.com/2026/03/03/south-koreas-kospi-hits-fresh-high-as-asian-markets-brush-off-trumps-latest-tariff-moves": {
+      "headline": "South Korea's Kospi hits fresh high as Asian markets brush off Trump's latest tariff moves",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:35:32.475138",
+      "last_seen": "2026-03-03T13:35:32.475190"
+    },
+    "https://www.cnbc.com/2026/03/03/european-markets-stoxx-600-ftse-dax-cac-iran-latest-spring-statement-uk.html": {
+      "headline": "European stocks close 3% lower as Middle East conflict intensifies",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:53.343519",
+      "last_seen": "2026-03-04T09:14:53.343533"
+    },
+    "https://www.cnbc.com/2026/03/03/dollar-gains-european-markets-as-middle-east-conflict-stokes-flight-to-safety.html": {
+      "headline": "Dollar advances as Middle East tensions spur flight to safety",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:14:59.660005",
+      "last_seen": "2026-03-04T09:14:59.660018"
+    },
+    "https://www.cnbc.com/2026/03/03/oil-rises-as-expanding-us-israeli-conflict-with-iran-elevates-supply-risks.html": {
+      "headline": "Oil prices keep climbing as expanding conflict heightens supply risks",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:15:03.655011",
+      "last_seen": "2026-03-04T09:15:03.655034"
+    },
+    "https://www.cnbc.com/2026/03/03/south-koreas-kospi-sees-worst-day-in-19-months-amid-broader-decline-in-asia-markets": {
+      "headline": "South Korea's Kospi sees worst day in 19 months amid broader decline in Asia markets",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:15:07.982229",
+      "last_seen": "2026-03-04T09:15:07.982245"
+    },
+    "https://www.cnbc.com/2026/03/02/oil-jumps-as-iran-conflict-escalates-disrupts-shipping": {
+      "headline": "Oil jumps as Iran conflict escalates, disrupts shipping",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:15:15.233764",
+      "last_seen": "2026-03-04T09:15:15.233777"
+    },
+    "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html": {
+      "headline": "South Korea's Kospi plunges 7% amid selloff in the region as Middle East war escalates",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:15:28.821630",
+      "last_seen": "2026-03-04T09:15:28.821646"
+    },
+    "https://www.cnbc.com/2026/03/02/dow-closes-down-400-points-after-falling-as-much-as-1200-points-as-iran-conflict-volatility-continues.html": {
+      "headline": "Dow closes down 400 points after falling as much as 1,200 points as Iran conflict volatility continues: Live updates",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:15:34.475549",
+      "last_seen": "2026-03-04T09:15:34.475562"
+    },
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-for-the-first-time-as-central-bank-board-picks-fuel-takaichi-trade": {
+      "headline": "Japan's Nikkei 225 crosses 59,000 for the first time as central bank board picks fuel 'Takaichi trade'",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:15:39.273910",
+      "last_seen": "2026-03-04T09:15:39.273928"
+    },
+    "https://www.cnbc.com/2026/03/04/european-markets-stoxx-600-ftse-dax-oil-prices-middle-east-latest.html": {
+      "headline": "European stocks finish higher as traders track Middle East turmoil",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:49.244866",
+      "last_seen": "2026-03-05T11:39:49.244888"
+    },
+    "https://www.cnbc.com/2026/03/03/dollar-gains-european-markets-boost-safe-haven-demand": {
+      "headline": "Dollar advances as Middle East tensions spur flight to safety",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:39:55.663808",
+      "last_seen": "2026-03-05T11:39:55.663824"
+    },
+    "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html": {
+      "headline": "Asia markets trade mixed after Wall Street losses, as Iran conflict sends oil prices soaring",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:49:37.494157",
+      "last_seen": "2026-03-06T10:49:37.494175"
+    },
+    "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html": {
+      "headline": "European stocks close lower as Iran war continues to dominate sentiment",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:49:42.007951",
+      "last_seen": "2026-03-06T10:49:42.007968"
+    },
+    "https://www.cnbc.com/2026/02/26/japans-nikkei-225-crosses-59000-first-time-as-central-bank-board-picks-fuel-takaichi-trade": {
+      "headline": "Japan's Nikkei 225 crosses 59,000 first the first time as central bank board picks fuel 'Takaichi trade'",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:50:08.452254",
+      "last_seen": "2026-03-06T10:50:08.452270"
+    },
+    "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html": {
+      "headline": "Asia markets tumble as oil nears $120; marks largest one day gain in almost 40 years",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:04:29.309365",
+      "last_seen": "2026-03-09T12:04:29.309382"
+    },
+    "https://www.cnbc.com/2026/03/06/gold-rises-1percent-as-middle-east-conflict-spurs-safe-haven-demand.html": {
+      "headline": "Gold rises after U.S. payrolls report, but heads for first weekly fall in five",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:33.567551",
+      "last_seen": "2026-03-09T12:04:33.567565"
+    },
+    "https://www.cnbc.com/2026/03/06/dollar-set-for-steepest-weekly-gain-in-a-year-as-iran-crisis-boosts-haven-bid.html": {
+      "headline": "Dollar set for steepest weekly gain in a year as Iran crisis boosts haven demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:38.242765",
+      "last_seen": "2026-03-09T12:04:38.242790"
+    },
+    "https://www.cnbc.com/2026/03/06/oil-falls-as-us-may-intervene-in-futures-market-issues-waiver-for-russian-purchases.html": {
+      "headline": "Oil falls as U.S. may intervene in futures market, issues waiver for Russian purchases",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:42.998194",
+      "last_seen": "2026-03-09T12:04:42.998211"
+    },
+    "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html": {
+      "headline": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:04:47.009293",
+      "last_seen": "2026-03-09T12:04:47.009310"
+    },
+    "https://www.cnbc.com/2026/03/08/stock-market-today-live-updates.html": {
+      "headline": "Dow futures tumble over 1,000 points as U.S. oil nears $120 a barrel to begin the week's trading: Live updates",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:04:50.642447",
+      "last_seen": "2026-03-09T12:04:50.642464"
+    },
+    "https://www.cnbc.com/2026/03/03/dollar-gains-as-middle-east-conflict-boosts-safe-haven-demand": {
+      "headline": "Dollar advances as Middle East tensions spur flight to safety",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:05:03.315841",
+      "last_seen": "2026-03-09T12:05:03.315857"
+    },
+    "https://www.cnbc.com/2026/02/25/asia-markets-nikkei-225-kospi-hang-seng-index-ai": {
+      "headline": "South Korea and Japan stocks hit fresh highs as region tracks Wall Street gains",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:05:16.427756",
+      "last_seen": "2026-03-09T12:05:16.427775"
+    },
+    "https://www.cnbc.com/2026/02/24/gold-falls-from-three-week-high-on-profit-booking-firm-dollar": {
+      "headline": "Gold falls over as dollar strengthens, investors book profits",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:05:21.874842",
+      "last_seen": "2026-03-09T12:05:21.874857"
+    },
+    "https://www.cnbc.com/2026/03/24/yen-hits-fresh-2-week-lows-market-sentiment-in-focus": {
+      "headline": "Yen hits fresh 2-week lows, market sentiment in focus",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:05:26.201304",
+      "last_seen": "2026-03-09T12:05:26.201319"
+    },
+    "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html": {
+      "headline": "European markets close lower as oil price surges amid Middle East turmoil",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:49.562888",
+      "last_seen": "2026-03-10T09:53:49.562905"
+    },
+    "https://www.cnbc.com/2026/03/09/gold-prices-fall-on-firmer-dollar-dimming-rate-cut-hopes.html": {
+      "headline": "Gold slips on stronger dollar, higher rate expectations",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:52.917913",
+      "last_seen": "2026-03-10T09:53:52.917932"
+    },
+    "https://www.cnbc.com/2026/03/09/dollar-surges-as-middle-east-war-sends-oil-above-110-a-barrel.html": {
+      "headline": "Dollar gains as U.S.-Israeli war on Iran sends oil prices soaring",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:53:56.898178",
+      "last_seen": "2026-03-10T09:53:56.898194"
+    },
+    "https://www.cnbc.com/2026/03/09/oil-prices-surge-20percent-as-expanding-us-israeli-war-with-iran-cuts-supplies-from-mideast": {
+      "headline": "Oil prices surge 20% as expanding U.S-Israeli war with Iran cuts supplies from Mideast",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:54:00.869423",
+      "last_seen": "2026-03-10T09:54:00.869440"
+    },
+    "https://www.cnbc.com/2026/03/09/asia-markets-moderate-losses-after-reported-saudi-oil-release-slightly-ease-prices": {
+      "headline": "Asia markets moderate losses after reported Saudi oil release slightly ease prices",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:54:05.334720",
+      "last_seen": "2026-03-10T09:54:05.334735"
+    },
+    "https://www.cnbc.com/2026/03/06/dollar-set-for-steepest-weekly-gain-in-a-year-as-iran-crisis-boosts-haven-demand": {
+      "headline": "Currencies: Dollar set for steepest weekly gain in a year as Iran crisis boosts haven demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:54:12.252561",
+      "last_seen": "2026-03-10T09:54:12.252575"
+    },
+    "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html": {
+      "headline": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:54:21.575126",
+      "last_seen": "2026-03-10T09:54:21.575142"
+    },
+    "https://www.cnbc.com/2026/03/09/oil-prices-surge-20percent-as-expanding-us-israeli-war-with-iran-cuts-supplies-from-mideast.html": {
+      "headline": "Oil prices keep climbing as expanding conflict heightens supply risks",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:54:28.455713",
+      "last_seen": "2026-03-10T09:54:28.455727"
+    }
+  }
+}

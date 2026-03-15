@@ -1,0 +1,83 @@
+# Headlines around the globe - Nov 30, 2025
+## Daily news sourced directly from local newspapers
+
+As tensions escalate in multiple regions worldwide, today's news landscape features significant developments from Ukraine to Venezuela, alongside environmental disasters in Asia and political shifts in several nations.
+
+## Regional Highlights:
+
+### Africa / Middle East:
+- **[Gaza death toll reaches 70,100](https://kuwaittimes.com/article/36445/world/gaza-death-toll-reaches-70100/)**: The humanitarian crisis worsens as casualties continue to mount amid ongoing conflict. (Kuwait Times, Kuwait)
+- **[UN urges Washington to uphold asylum access after D.C. attack](https://pajhwok.com/2025/11/29/un-urges-washington-to-uphold-asylum-access-after-d-c-attack/)**: The United Nations calls on the US to maintain access to asylum following a recent attack in Washington. (Pajhwok Afghan News, Afghanistan)
+- **[Felix Tshisekedi: "No mixing or blending" in the agreement with Rwanda](https://radiookapi.net/2025/11/29/actualite/politique/felix-tshisekedi-pas-de-brassage-ni-mixage-dans-laccord-avec-le)**: DRC President emphasizes maintaining clear boundaries in diplomatic relations with Rwanda. (Radio Okapi, Democratic Republic of the Congo)
+- **[First in Iraq: Duhok launches million-tree aerial reforestation plan](https://shafaq.com/en/Kurdistan/First-in-Iraq-Duhok-launches-million-tree-aerial-reforestation-plan)**: Groundbreaking environmental initiative aims to combat deforestation using aerial planting technology. (Shafaq News, Iraq)
+- **[Nigeria loses $500 billion worth of biodiversity annually](https://guardian.ng/news/nigeria/national/nigeria-loses-500b-worth-of-biodiversity-annually-official/)**: Environmental degradation continues to impact Nigeria's economy and ecosystems at an alarming rate. (The Guardian Nigeria, Nigeria)
+
+### Americas:
+- **[Trump says Venezuelan airspace should be viewed as closed, Maduro gov't slams 'colonial threat'](https://jamaica-gleaner.com/article/news/20251129/trump-says-venezuelan-airspace-should-be-viewed-closed-maduro-govt-slams)**: US President Donald Trump's declaration sparks diplomatic tensions with Venezuela. (The Gleaner, Jamaica)
+- **[As Trump Threatens Cartels, He Vows to Free a Convicted Cocaine Trafficker](https://www.nytimes.com/2025/11/29/us/politics/trump-honduras-venezuela.html)**: President Donald Trump makes contradictory statements regarding drug enforcement policies. (The New York Times, USA)
+- **[Flamengo becomes the first Brazilian team to win the Copa Libertadores four times](https://www1.folha.uol.com.br/esporte/2025/11/flamengo-da-o-troco-no-palmeiras-e-vence-duelo-por-tetra-da-copa-libertadores.shtml)**: Historic victory for Flamengo after defeating Palmeiras in the prestigious South American tournament. (Folha de S.Paulo, Brazil)
+- **[Historic Political Upset: Friday Topples Gonsalves, Ending 25-Year Rule](https://antigua.news/2025/11/27/historic-political-upset-friday-topples-gonsalves-ending-25-year-rule/)**: Dr. Godwin Friday wins election, ending Ralph Gonsalves' 25-year political dominance. (Antigua.news, Antigua and Barbuda)
+- **[NDP romps home 14-1](https://www.searchlight.vc/front-page/2025/11/28/ndp-romps-home-14-1/)**: New Democratic Party secures decisive victory in St. Vincent and the Grenadines elections. (Searchlight, Saint Vincent and the Grenadines)
+
+### Asia:
+- **[Update on Flood-Landslide Disaster in Sumatra, Death Toll Reaches 303 People](https://video.kompas.com/watch/1893522/update-bencana-banjir-longsor-sumatera-korban-meninggal-capai-303-orang?source=KOMPASCOM&position=wp_terkini__player_1)**: Devastating natural disaster continues to claim lives in Indonesia as rescue operations persist. (Kompas, Indonesia)
+- **[Hong Kong mourns 128 killed in blaze as toll expected to rise](https://www.thenationalnews.com/news/asia/2025/11/29/hong-kong-blaze-latest-toll-domestic-workers-philippines-indonesia/)**: Tragic fire in Hong Kong results in significant loss of life with numbers expected to increase. (The National, UAE)
+- **[Cyclone Ditwah batters Tamil Nadu with 14 NDRF teams deployed across coastal districts](https://www.thehindu.com/news/national/cyclone-ditwah-live-updates-rains-tamil-nadu-andhra-pradesh-sri-lanka-november-30-2025/article70340893.ece)**: Severe cyclone hits southern India, prompting large-scale disaster response. (The Hindu, India)
+- **[Emergency Room Receives 500-600 Children Daily](https://news.mn/r/2836454/)**: Healthcare system overwhelmed as pediatric emergency visits surge in Mongolia. (News.mn, Mongolia)
+- **[Uzbekistan qualifies for the World Cup for the first time](https://uzreport.news/football/o-zbekiston-ilk-bor-mundialga-chiqdi)**: Historic achievement for Uzbekistan's national football team as they secure their first World Cup qualification. (UzReport, Uzbekistan)
+
+### Europe:
+- **[Russian drones again violate Moldovan airspace, responds Kaja Kallas: Unacceptable](https://www.panorama.com.al/dronet-rus-shkelen-serish-hapesiren-ajrore-te-moldavise-reagon-kaja-kallas-e-papranueshme-po-rrezikojne-trafikun-ajror-civil/)**: Estonian PM condemns Russian drone violations over Moldova as they threaten civil air traffic safety. (Gazeta Panorama, Albania)
+- **[Andriy Yermak's resignation shocks Europe, but suits the US](https://www.lemonde.fr/en/international/article/2025/11/29/andriy-yermak-s-resignation-shocks-europe-but-suits-the-us_6747973_4.html)**: Ukrainian presidential chief of staff's departure creates ripples across European politics. (Le Monde, France)
+- **[Zelensky in difficulty over corruption scandal: Yermak removed, Umerov arrives](https://www.corriere.it/esteri/25_novembre_29/scandalo-corruzione-ucraina-dimette-yermak-zelensky-81579662-987c-4ce6-9e4d-3d2619b4exlk.shtml)**: Ukrainian President faces challenges amid corruption allegations leading to staff changes. (Corriere della Sera, Italy)
+- **[1 killed, 11 injured in Russian drone attack on Kyiv Oblast](https://kyivindependent.com/1-killed-11-injured-in-russian-drone-attack-on-kyiv-oblast/)**: Russian strikes continue to target Ukrainian civilian areas. (Kyiv Independent, Ukraine)
+- **[The end of the war is likely not the main goal of the US peace plan](https://www.krone.at/3973494)**: Analysis suggests US peace initiative for Ukraine prioritizes strategic interests over immediate conflict resolution. (Kronen Zeitung, Austria)
+
+### Oceania:
+- **[Anthony Albanese marries Jodie Haydon at The Lodge, first prime minister to wed in office](https://www.smh.com.au/politics/federal/anthony-albanese-marries-jodie-haydon-at-the-lodge-first-prime-minister-to-wed-in-office-20251124-p5nhxq.html)**: Australian PM makes history by becoming the first sitting prime minister to marry while in office. (The Sydney Morning Herald, Australia)
+- **[Severe thunderstorm warning for Auckland and northern areas as torrential rain expected](https://www.nzherald.co.nz/nz/weather-thunderstorms-heavy-rain-and-wind-watches-for-parts-of-country/BRZFMVV4QNA6FJTSBUSCINRIFU/)**: New Zealand's north braces for extreme weather conditions. (NZ Herald, New Zealand)
+- **[Video of teenager brutally assaulted in Labasa sparks widespread outrage online](https://www.fijitimes.com.fj/video-of-teenager-brutally-assaulted-in-labasa-sparks-widespread-outrage-online/)**: Violent incident in Fiji triggers public anger and calls for justice. (Fiji Times, Fiji)
+- **[Government stops advertising with media](https://www.samoaobserver.ws/category/samoa/117138)**: Samoa's government halts media advertising, raising concerns about press relations. (Samoa Observer, Samoa)
+- **[Loss & Damage fund opens for business: SI cautiously welcomes $250m pilot](https://www.solomonstarnews.com/loss-damage-fund-opens-for-business-si-cautiously-welcomes-250m-pilot/)**: Solomon Islands expresses measured optimism about climate change compensation initiative. (Solomon Star, Solomon Islands)
+
+## In-Depth Coverage:
+
+### Ukraine Crisis Deepens Amid Government Shakeup and Russian Attacks
+
+The political landscape in Ukraine has been dramatically altered with the resignation of Andriy Yermak, President Volodymyr Zelensky's chief of staff and close advisor. According to [Corriere della Sera](https://www.corriere.it/esteri/25_novembre_29/scandalo-corruzione-ucraina-dimette-yermak-zelensky-81579662-987c-4ce6-9e4d-3d2619b4exlk.shtml), the resignation comes amid corruption allegations that have placed Zelensky in a difficult position. [Le Monde](https://www.lemonde.fr/en/international/article/2025/11/29/andriy-yermak-s-resignation-shocks-europe-but-suits-the-us_6747973_4.html) reports that while the move has shocked European leaders, it appears to align with US interests under President Donald Trump's administration.
+
+Meanwhile, the humanitarian situation continues to deteriorate as Russian attacks persist. The [Kyiv Independent](https://kyivindependent.com/1-killed-11-injured-in-russian-drone-attack-on-kyiv-oblast/) reports that a recent Russian drone strike on Kyiv Oblast killed one person and injured eleven others. According to [BBC News](https://www.bbc.com/news/war-in-ukraine), the Ukrainian capital faces ongoing assaults despite international condemnation. [DR](https://www.dr.dk/nyheder/seneste/en-person-er-draebt-efter-angreb-i-kyiv) from Denmark confirms that attacks near Kyiv have resulted in civilian casualties.
+
+As the conflict continues, diplomatic efforts are underway. However, [Kronen Zeitung](https://www.krone.at/3973494) from Austria suggests that President Donald Trump's peace plan may prioritize strategic interests rather than an immediate end to the war. Ukrainian officials are reportedly meeting with key US figures including Marco Rubio, Steve Witkoff, and Jared Kushner in Florida, according to the [Kyiv Independent](https://kyivindependent.com/).
+
+### Climate Disasters Strike Southeast Asia with Devastating Impact
+
+A series of catastrophic environmental events has left hundreds dead across Southeast Asia. [BBC News](https://www.bbc.com/news/articles/c5y9ejley9do) reports that flooding across the region has resulted in 600 fatalities and hundreds of missing persons, with rescue efforts struggling to cope with the scale of the disaster. In Indonesia specifically, [Kompas](https://video.kompas.com/watch/1893522/update-bencana-banjir-longsor-sumatera-korban-meninggal-capai-303-orang?source=KOMPASCOM&position=wp_terkini__player_1) confirms that the death toll from floods and landslides in Sumatra has reached 303 people.
+
+The devastation extends beyond Indonesia. According to [Le Matin](https://www.lematin.ch/story/asie-du-sud-est-les-inondations-font-plus-de-460-morts-103460097) from Morocco, more than 460 people have died in the broader Southeast Asian floods. Meanwhile, [The National](https://www.thenationalnews.com/news/asia/2025/11/29/hong-kong-blaze-latest-toll-domestic-workers-philippines-indonesia/) reports that Hong Kong is mourning 128 people killed in a massive blaze, with authorities expecting the death toll to rise further.
+
+In India, [The Hindu](https://www.thehindu.com/news/national/cyclone-ditwah-live-updates-rains-tamil-nadu-andhra-pradesh-sri-lanka-november-30-2025/article70340893.ece) reports that Cyclone Ditwah is battering Tamil Nadu, with 14 National Disaster Response Force teams deployed across coastal districts to manage the impact. These combined disasters highlight the increasing vulnerability of the region to extreme weather events and underscore the urgent need for improved disaster preparedness and climate action.
+
+### Trump's Venezuela Airspace Declaration Creates International Tension
+
+US President Donald Trump has created diplomatic shockwaves by declaring that Venezuelan airspace should be considered closed. According to [El País](https://elpais.com/internacional/2025-11-29/trump-anuncia-el-cierre-total-del-espacio-aereo-de-venezuela.html#?rel=lom) from Spain, Trump announced the complete closure, citing national security concerns. The declaration has prompted an immediate and fierce response from Venezuela, with [NOS](https://nos.nl/artikel/2592497-venezuela-reageert-fel-op-luchtruimdreigement-trump) reporting that the Venezuelan government has strongly condemned what they describe as a threat to their sovereignty.
+
+[Jamaica Gleaner](https://jamaica-gleaner.com/article/news/20251129/trump-says-venezuelan-airspace-should-be-viewed-closed-maduro-govt-slams) reports that the Maduro government has slammed the announcement as a "colonial threat." According to [El Universal](http://www.eluniversal.com/politica/221363/venezuela-condena-amenaza-de-ee-uu-de-cerrar-su-espacio-aereo-califica-la-declaracion-de-trump-como) from Venezuela, the government has officially condemned the US threat, describing it as a "hostile and arbitrary act."
+
+The impact of this declaration has been swift. [Entekhab](https://www.entekhab.ir/fa/news/897420/) from Iran reports that nearly all commercial flights have disappeared from Venezuelan skies following Trump's announcement. This development represents a significant escalation in tensions between the United States and Venezuela, with potential implications for regional stability and international air travel. The situation continues to evolve as global leaders assess the implications of this unprecedented move.
+
+### Political Transitions Reshape Caribbean Leadership Landscape
+
+A wave of political change is sweeping through the Caribbean as several nations experience significant leadership transitions. In a historic upset, [Antigua.news](https://antigua.news/2025/11/27/historic-political-upset-friday-topples-gonsalves-ending-25-year-rule/) reports that Dr. Godwin Friday has defeated Ralph Gonsalves, ending his 25-year rule in St. Vincent and the Grenadines. [Searchlight](https://www.searchlight.vc/front-page/2025/11/28/ndp-romps-home-14-1/) confirms the magnitude of this change, reporting that Friday's New Democratic Party secured a decisive 14-1 victory in the elections.
+
+The ripple effects of this political shift are being felt across the region. [NOW Grenada](https://nowgrenada.com/2025/11/pm-mitchell-congratulates-pm-elect-dr-godwin-friday/) reports that Grenadian Prime Minister Mitchell has officially congratulated PM-elect Dr. Godwin Friday on his victory. Meanwhile, [St. Lucia Times](https://stluciatimes.com/category/elections/) indicates that Saint Lucia is also in the midst of electoral activity with its own "Decision 2025" vote underway.
+
+These transitions come at a time of increasing regional challenges, including climate vulnerability and economic pressures. The changing political landscape may signal new approaches to these issues and potentially reshape diplomatic relations within the Caribbean and beyond. The next few months will be crucial as newly elected leaders establish their governance priorities and international partnerships.
+
+### Global Conservation Efforts Gain Momentum Amid Environmental Concerns
+
+Amid growing environmental challenges, several countries are launching significant conservation initiatives. In Iraq, [Shafaq News](https://shafaq.com/en/Kurdistan/First-in-Iraq-Duhok-launches-million-tree-aerial-reforestation-plan) reports that Duhok has initiated a groundbreaking aerial reforestation project aimed at planting one million trees, marking the first such initiative in the country. This approach represents an innovative solution to combat deforestation and restore ecological balance.
+
+However, these efforts come against a backdrop of alarming environmental degradation. [The Guardian Nigeria](https://guardian.ng/news/nigeria/national/nigeria-loses-500b-worth-of-biodiversity-annually-official/) reports that Nigeria is losing $500 billion worth of biodiversity annually, highlighting the economic cost of environmental neglect. In the Solomon Islands, [Solomon Star](https://www.solomonstarnews.com/loss-damage-fund-opens-for-business-si-cautiously-welcomes-250m-pilot/) indicates cautious optimism regarding the opening of a $250 million Loss & Damage fund pilot program to address climate change impacts.
+
+These contrasting stories reflect the global struggle between conservation efforts and continuing environmental challenges. As reforestation initiatives expand in some regions, others face devastating losses of biodiversity and natural resources. The situation underscores the need for coordinated international action and sustained investment in environmental protection to address these pressing issues effectively.

@@ -1,0 +1,22 @@
+## 最重要的消息
+
+- [美國總統唐納德·特朗普發表史上最長的國情咨文](https://www.bbc.com/news/articles/cgmlzg0p8k2o)，強調經濟增長，提出由政府支持的退休計劃，並在民調下滑和即將到來的中期選舉之際，談及伊朗問題。
+- [英偉達報告數據中心收入激增75%](https://www.cnbc.com/2026/02/25/nvidia-earnings-q4-2026.html)，由於人工智慧熱潮推動收益和指引超出預期，CEO黃仁勳表示[AI將提升而非取代軟體公司](https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html)。
+- [美國與伊朗將在日內瓦重啟核談判](https://www.cnbc.com/2026/02/25/us-iran-talks-nuclear-trump-oil-prices-war-conflict.html)，在緊張局勢升高之際，特朗普警告若無法達成協議將會有“壞事”，而中情局[公開呼籲伊朗人成為線人](https://www.cnbc.com/2026/02/25/the-cia-urges-iranians-to-reach-out-as-informants-in-rare-move.html)。
+- [亞洲出口商對美國最高法院對特朗普時代關稅的裁決感到沮喪](https://www.bbc.com/news/articles/cdr2kmjd31ro)，美國重新引入10%的全球關稅（計劃提高至15%），引發該地區的不確定性和投資延遲。
+- [智利已成為美中權力角逐的最新戰場](https://www.cnbc.com/2026/02/25/chile-china-trump-rubio-visa-sanctions-us-latam.html)，美國威脅對智利官員實施簽證限制，原因是中國支持的海底電纜項目。
+- [比爾·蓋茨在蓋茨基金會市政廳中談及與杰弗里·愛泼斯坦的關係，並承認有兩段婚外情](https://www.cnbc.com/2026/02/25/bill-gates-epstein-files-affair.html)，而[諾貝爾獎得主理查德·阿克塞爾](https://www.cnbc.com/2026/02/25/epstein-files-richard-axel-quits-columbia-university-brain-institute.html)和[哈佛的拉里·沙默斯](https://www.cnbc.com/2026/02/25/epstein-larry-summers-harvard-professor-resign-fallout.html)則在持續的愛泼斯坦相關揭露後辭去學術職務。
+- [墨西哥錫那羅亞卡特爾內爆發激烈衝突](https://www.bbc.com/news/articles/cx2g3vmde0eo)，在“El Mencho”領導人去世後，爆發致命衝突，造成大量恐慌，並在庫利亞坎部署大量軍隊。
+- [敘利亞報告有數千人從與ISIS相關家庭的拘留營逃脫](https://edition.cnn.com/2026/02/25/middleeast/syria-isis-detention-escape-intl)，引發地區安全擔憂。
+- [一艘美國註冊的快艇在古巴海岸附近被古巴邊境警察開槍擊斃四人，嫌疑他們開火](https://www.bbc.com/news/articles/c24drvj8yl2o)，事件發生在美古緊張局勢持續升溫之際。
+- [巴西米納斯吉拉斯州發生嚴重水災和山崩，至少造成32人死亡](https://www.bbc.com/news/articles/clygx788x7go)，救援工作仍在進行中，破壞範圍廣泛。
+- [巴西最高法院判決兩名政治兄弟因下令2018年謀殺里約熱內盧市議員瑪麗耶爾·弗蘭科，判處每人超過76年有期徒刑](https://www.bbc.com/news/articles/c4g058v3d35o)。
+- [對特朗普總統國情咨文的事實核查發現多項經濟數據被誇大或缺乏證據，凸顯準確數據呈現的重要性](https://www.bbc.com/news/articles/cgmlzg0p8k2o)。
+- [拜登政府因欺詐問題暫停向明尼蘇達提供2.595億美元的醫療補助金](https://www.cnbc.com/2026/02/25/vance-says-administration-is-pausing-some-medicaid-funding-to-minnesota-because-of-fraud-concerns.html)，需採取糾正措施才能恢復資金。
+- [科學家警告皇帝企鵝的死亡率正在上升](https://www.bbc.com/news/articles/c204626888zo)，氣候變化干擾其年度換羽，並減少穩定的海冰，威脅物種未來。
+- [BBC調查揭露尼泊爾前警察局長下令對Z世代抗議者使用致命武力](https://www.bbc.com/news/articles/c4g5qx357dzo)，導致19人死亡，引發重大政治動盪和總理辭職。
+- [烏克蘭總統澤連斯基在經歷四年的戰爭、暗殺陰謀和醜聞後仍保持堅韌](https://edition.cnn.com/2026/02/20/world/zelensky-ukraine-war-last-four-years-intl)，而[俄羅斯的入侵仍在重塑全球安全](https://edition.cnn.com/2026/02/24/europe/ukraine-war-russia-anniversary-intl-cmd)。
+- [澳大利亞警方指控兩名男子謀殺並錯誤綁架一名85歲爺爺](https://www.bbc.com/news/articles/cpw011vpgy9o)，隨著調查的持續，預計還會有更多逮捕。
+- [Netflix執行長泰德·薩蘭多斯將訪問白宮](https://www.cnbc.com/2026/02/25/netflix-sarandos-white-house-wbd-paramount-deal-trump-rice.html)，討論收購華納兄弟探索公司部分股份，面對政治緊張局勢和派拉蒙的競爭。
+- [全球藝術品借貸市場快速增長](https://www.cnbc.com/2026/02/24/epstein-files-wealthy-borrow-against-art-collections.html)，富有人士以高價值藝術品作為抵押借款，估值已達3835億至4500億美元，預計到2028年將突破5000億美元。
+- [眾議院民主黨對中期選舉重掌控制權表示樂觀](https://www.cnbc.com/2026/02/25/state-of-the-union-house-democrats-midterms-retreat.html)，在特朗普總統的演說後，聚焦經濟和可負擔性問題。

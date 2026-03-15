@@ -1,0 +1,5 @@
+## Hong Kong News
+
+- [Hong Kong-based opinion platform "港人講地"](https://www.stheadline.com/politics/3548770) is reportedly shutting down due to internal restructuring amid shifting political and economic conditions, reflecting broader changes in Hong Kong’s media landscape and potentially impacting investor perceptions of media stability.
+- [Kai Tak Sports Park marked its one-year anniversary](https://www.stheadline.com/society/3548639) with total ticket revenue of nearly HKD 1.5 billion, ranking third globally and first in Asia, as the venue attracted over 7 million visitors and hosted major international events, reinforcing Hong Kong’s status as a global sports and entertainment hub.
+- [The Hong Kong Observatory forecasts](https://www.stheadline.com/society/3548812) a mostly cloudy day with brief sunshine, temperatures around 25°C, and occasional showers or thunderstorms due to a southward-moving cold front and humid air, signaling a temporary cooling trend that may affect weather-sensitive economic activities.

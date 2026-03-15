@@ -1,0 +1,26 @@
+## Global Financial News
+
+- **US President Donald Trump Threatens South Korea with Higher Auto Tariffs**: South Korean auto stocks rebounded after US President Donald Trump threatened 25% tariffs over trade deal delays, while the Kospi index closed higher.
+- **Asia-Pacific Markets Mixed Amid Geopolitical Concerns**: Asian markets showed mixed performance as ongoing geopolitical tensions kept investors cautious.
+- **European Markets Rise Ahead of Earnings Week**: European stocks closed higher with the Stoxx 600 up 0.24%, as major firms prepare to report earnings.
+- **US Government Shutdown Looms as Trump Considers Reducing ICE Personnel**: President Donald Trump discussed possible ICE staff cuts with Minnesota's governor as the shutdown deadline approaches.
+- **Riddell Emerges as Leading Candidate for US Federal Reserve Chair**: Riddell, previously overlooked, is now seen as the most likely nominee for Fed Chair.
+- **Proposal to Freeze Medicare Reimbursement Rates Hits US Insurance Stocks**: US insurance stocks plunged after a proposal to freeze Medicare reimbursement rates raised industry concerns.
+- **China to Issue Policy Addressing AI's Impact on Employment**: China will release a policy document to mitigate AI's effects on jobs and promote employment stability.
+- **Zijin Mining to Invest 28 Billion Yuan in African Gold Mines**: Zijin Mining plans a major acquisition of three gold mines in West Africa to expand its presence.
+- **Zhipu Advances Toward A-Share IPO with Strong AI Model Performance**: Zhipu is progressing toward an A-share IPO, with its GLM4.7 model excelling in programming tasks.
+- **Guoen Technology Launches IPO Prospectus, Listing Set for February 2026**: Guoen Technology, a chemical materials supplier, will go public in Hong Kong with a minimum subscription of HKD 8,484.71.
+- **Hong Kong Attracts Over 100 Strategic Enterprises, Securing $8 Billion Investment**: Hong Kong's efforts have drawn key firms from mainland China and overseas, creating 22,000 high-end jobs.
+- **Hang Seng Index Surges Over 240 Points, Led by Tech and Auto Gains**: The Hang Seng Index rose above 27,000 points, with Bilibili-W and BYD among top performers.
+- **No Major Personnel Changes Planned in Hong Kong Government**: Chief Executive John Lee confirmed no imminent bureau director changes, emphasizing ongoing economic and infrastructure initiatives.
+- **Former Hong Kong Official Resigns Due to Health Reasons**: Tsang Kwok-wai resigned as Secretary for Constitutional and Mainland Affairs due to illness, with a deputy temporarily filling the role.
+- **China Merchants Bank Target Price Lowered, 'Hold' Rating Maintained**: Dahan JiXian cut China Merchants Bank's target price to 49 RMB, citing revised earnings and lower ROE forecasts.
+- **Golden (06181.HK) Rated 'Better Than Market' After Strong Revenue Growth**: Haitong International maintained a positive outlook for Golden after a 217% revenue jump, setting a target price of HKD 948.4.
+- **Hengrui Medicine Target Price Raised Despite Lower Profit Forecasts**: Morgan Stanley raised Hengrui's target price to HKD 92, maintaining an "Overweight" rating despite reduced profit estimates.
+- **Nanjing Green Leaf Receives 285 Million RMB Capital Injection**: Nanjing Green Leaf, under Green Leaf Pharmaceutical, secured new investment to boost registered capital.
+- **Hong Kong's Convoy Group to Close Major Singapore Branch, Focus on Wealth Management**: Convoy will shut a key Singapore branch but strengthen local wealth management services.
+- **Macau Casino Revenues Up 18-21% Year-on-Year in January**: Macau's casino sector saw strong January growth, with forecasts for continued revenue gains into February.
+- **Silver Prices Experience Sharp Decline Amid Volatility Concerns**: Silver saw a 'reverse V' drop, with warnings from a former JPMorgan strategist that prices could halve from current levels.
+- **Cryptocurrencies Remain Dormant as Gold Prices Surge**: Gold prices are rising while cryptocurrencies remain subdued, reflecting diverging investor sentiment.
+- **Zijin Mining to Boost Gold Reserves by 36% Through Acquisition**: Zijin Mining's acquisition will increase its gold reserves by 36%, with significant production growth expected by 2029.
+- **Hong Kong Promotes Cross-Border Financing Policy Pilots**: Hong Kong is advocating for policies to ease cross-border financing, especially for green and R&D-focused enterprises.

@@ -1,0 +1,24 @@
+## Most Important Stories
+
+- **US President Donald Trump threatens tariffs on European NATO allies over Greenland**: Trump announced escalating tariffs on eight NATO countries unless Greenland is sold to the US, drawing condemnation from European leaders and sparking protests in Denmark and Greenland.
+- **Iran admits thousands killed in protests, blames US President Donald Trump**: Iran’s Supreme Leader Khamenei acknowledged over 3,000 protester deaths, accusing the US and Israel of inciting unrest and escalating tensions.
+- **Uganda’s President Museveni secures seventh term amid opposition crackdown**: President Museveni extended his 40-year rule after a contested election marked by violence, internet blackouts, and the reported abduction of opposition leader Bobi Wine.
+- **Canada and China reset ties with tariff cuts on EVs and canola**: Canada and China agreed to reduce tariffs on electric vehicles and canola, signaling a diplomatic shift away from US-aligned trade policies.
+- **US judge restricts federal agents’ crowd control tactics in Minneapolis**: A federal judge barred ICE agents from detaining or using force against peaceful protesters in Minneapolis following recent immigration-related unrest.
+- **Venezuelan opposition leader Machado presents Nobel medal to US President Donald Trump**: Maria Corina Machado gave her Nobel Peace Prize medal to Trump in gratitude for US support, sparking controversy in Norway.
+- **US President Donald Trump threatens to sue JPMorgan Chase for ‘debanking’**: Trump accused JPMorgan Chase of restricting his accounts for political reasons and threatened legal action.
+- **Russia monitors US President Donald Trump’s push to acquire Greenland**: Russia expressed concern over Trump’s efforts to take control of Greenland, citing heightened geopolitical tensions.
+- **US military strike kills al-Qaeda leader in Syria**: The US killed Bilal Hasan al-Jasim, linked to attacks on American soldiers, as part of ongoing anti-terror operations.
+- **South Korea’s ex-President Yoon sentenced to five years in prison**: Former President Yoon Suk Yeol was convicted for obstructing his own arrest and attempting to impose martial law.
+- **Thousands protest China’s mega-embassy plan in London**: Demonstrators rallied against China’s proposed embassy, citing concerns over its size and geopolitical influence.
+- **Kurdish forces retreat as Syrian government advances in northern Syria**: Kurdish fighters withdrew amid Syrian government advances, shifting the military balance in the region.
+- **Avalanches kill five skiers in Austrian Alps**: Two avalanches near Salzburg resulted in five deaths, highlighting dangerous conditions in the Alps.
+- **Canada shifts diplomatic focus toward China amid rift with US President Donald Trump**: Canada is rebuilding ties with China as relations with the US deteriorate, affecting trade and defense.
+- **US Justice Department investigates Minnesota officials over immigration enforcement**: The DOJ is probing Minnesota’s governor and Minneapolis mayor for allegedly impeding federal immigration agents.
+- **China’s robot sports boom could bring humanoids into homes**: China’s enthusiasm for robot sports is accelerating the development and commercialization of household humanoid robots.
+- **Japan and South Korea leaders engage in K-pop diplomacy**: Leaders from both countries performed K-pop hits together, symbolizing improved bilateral relations.
+- **Right-wing leaders worldwide endorse Hungary’s Viktor Orbán ahead of election**: Global right-wing figures have united to support Orbán’s campaign, highlighting his international influence.
+- **US President Donald Trump proposes ban on institutional investors buying single-family homes**: Trump’s plan could impact family offices and real estate investment strategies.
+- **Labor Department criticized for social media post echoing Nazi slogan**: The US Labor Department faced backlash over a post resembling extremist rhetoric, raising concerns about government messaging.
+- **White House announces Gaza ‘Board of Peace’ with prominent international figures**: Trump’s new panel to promote Gaza stability faces criticism for excluding Palestinian representatives and perceived colonial overtones.
+- **YouTube star IShowSpeed tours Africa to showcase culture**: The influencer’s tour across 20 African countries aims to highlight positive aspects of African culture to a global audience.

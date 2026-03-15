@@ -1,0 +1,30 @@
+## Tech News
+
+- **AI Layoffs and 'AI-washing'**: Companies are increasingly citing AI as the reason for layoffs, though experts warn many claims are exaggerated or investor-driven.
+- **Tesla Shifts Focus to AI and Robotics**: Tesla is rebranding to prioritize AI, robotics, and energy businesses, with major investments in xAI and potential mergers with SpaceX and xAI.
+- **Nvidia Reaffirms Commitment to OpenAI**: Nvidia CEO denied reports of stalled $100B investment in OpenAI, emphasizing ongoing partnership and support.
+- **Broadcom Challenges Nvidia's AI Chip Dominance**: Broadcom's custom AI chips are testing Nvidia's market share, but Nvidia remains the leader.
+- **Waymo Seeks $16B Funding for Autonomous Expansion**: Waymo is raising $16 billion to expand its autonomous mobility services, with a valuation of $110 billion.
+- **India Offers Zero Taxes to Attract Global AI Workloads**: India announced zero taxes on cloud services revenues through 2047 to lure global AI and data center investments.
+- **China's AI and Robotics Startups Secure Major Funding**: Companies like Zhujiji Power, Zhuoshi Technology, Deep Intelligence Yao, and Microcosm raised significant funding for AI, robotics, and quantum computing.
+- **Chinese Organized Crime Laundered $16B in Crypto**: Chinese crime networks laundered $16.1 billion in crypto in 2025, mainly via Telegram-based platforms across Southeast Asia.
+- **Former Google Engineer Convicted of AI Espionage**: A former Google engineer was found guilty in the US of stealing AI trade secrets to benefit Chinese tech firms.
+- **US President Donald Trump Signals Iran Talks, Oil Prices Drop**: Oil prices fell over 4% as President Donald Trump indicated Iran is "seriously talking" with the US, easing supply fears.
+- **UAE 'Spy Sheikh' Invests in Trump Crypto Firm**: UAE's Sheikh Tahnoon bin Zayed secretly bought a 49% stake in US President Donald Trump's crypto company for $500 million.
+- **Amazon Faces Layoffs and 'Melania' Documentary Controversy**: Amazon laid off 16,000 employees and faced scrutiny over its costly Melania Trump documentary, which underperformed at the box office.
+- **Amazon Requests Extension for Satellite Internet Deployment**: Amazon asked the FCC for a 24-month extension to deploy its Leo satellite internet service due to launch delays.
+- **SpaceX Plans 1 Million Solar-Powered Satellite Data Centers**: SpaceX seeks FCC approval to launch up to 1 million solar-powered satellite data centers for AI computing.
+- **SpaceX Prepares for 2026 IPO Amid Booming Secondaries**: SpaceX is reportedly preparing for a 2026 IPO, with strong secondary market activity providing liquidity for private shareholders.
+- **South Korea Stock Market Plunges Over 4%**: The Kospi index fell more than 4%, triggering a temporary trading halt.
+- **Gold and Silver Prices Plunge Sharply**: Gold dropped 5% and silver over 10% amid a historic sell-off driven by a stronger dollar and profit-taking.
+- **Microsoft Stock Drops on Slower Azure Growth**: Microsoft shares fell 10% due to slower Azure growth and concerns over cloud margins, despite beating revenue expectations.
+- **Apple Posts Strong iPhone Sales, Investor Response Tepid**: Apple reported robust iPhone-driven earnings, but shares barely rose as investors worry about its AI strategy.
+- **SanDisk Stock Surges on AI Data Center Demand**: SanDisk's stock jumped nearly 7% after strong earnings, driven by soaring AI-related data center demand.
+- **Fireblocks Uncovers North Korea-Linked Crypto Job Scam**: Fireblocks exposed a North Korea-linked scam targeting engineers with fake job offers to compromise crypto infrastructure.
+- **Instagram to Let Users Remove Themselves from Close Friends Lists**: Instagram is developing a feature allowing users to remove themselves from others' Close Friends lists.
+- **OnlyFans Considers $5.5B Majority Stake Sale**: OnlyFans is in talks to sell a 60% stake to Architect Capital, valuing the company at $5.5 billion.
+- **Indonesia Lifts Ban on xAI's Grok Chatbot**: Indonesia conditionally lifted its ban on xAI's Grok chatbot after assurances on misuse prevention.
+- **European Startups Achieve Unicorn Status**: Several European tech startups, including Aikido Security and Cast AI, reached unicorn status in 2026, signaling strong investor confidence.
+- **AI Industry Super PAC Raises $125 Million**: The US AI industry super PAC raised $125 million in 2025 to influence policy and regulation.
+- **Deep Low-Temperature Tech and Zhongke Qingneng Raise Nearly 500M Yuan Each**: Chinese firms in low-temperature and hydrogen tech secured major funding for nuclear fusion and quantum applications.
+- **AI Toy Market Booms in China**: Shanghai-based FoloToy saw a fivefold increase in sales, reflecting rapid growth in the AI toy sector.

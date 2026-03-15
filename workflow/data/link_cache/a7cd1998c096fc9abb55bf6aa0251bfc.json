@@ -1,0 +1,518 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01024-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68643469",
+    "https://news.futunn.com/hk/post/68640684/capital-flows-northbound-funds-have-net-purchased-xiaomi-for-8",
+    "https://news.futunn.com/hk/post/68640862",
+    "https://news.futunn.com/hk/post/68636815/zhitong-hkex-active-trading-february-9",
+    "https://news.futunn.com/hk/post/68635490/the-tracker-fund-of-hong-kong-recorded-a-net-outflow",
+    "https://news.futunn.com/hk/post/68632592",
+    "https://news.futunn.com/hk/post/68630769",
+    "https://news.futunn.com/hk/post/68627898",
+    "https://news.futunn.com/hk/post/68623213/major-bank-ratings-boc-international-upgraded-kuaishou-s-target-price",
+    "https://news.futunn.com/hk/post/68622945/global-equities-roundup-market-talk",
+    "https://news.futunn.com/hk/post/68620738",
+    "https://news.futunn.com/hk/post/68619363/kuaishou-charity-has-launched-the-helping-academy-initiative-committing-to",
+    "https://news.futunn.com/hk/post/68615677/kuaishou-technology-1024-hk-4q25-preview-inline-quarter-solidified-kling",
+    "https://news.futunn.com/hk/post/68667305/kuaishou-opened-higher-after-reaching-a-collaboration-with-the-cctv",
+    "https://news.futunn.com/hk/post/68665617",
+    "https://news.futunn.com/hk/post/68660369/china-merchants-securities-why-are-we-firmly-optimistic-about-hang",
+    "https://news.futunn.com/hk/post/68644276",
+    "https://news.futunn.com/hk/post/68644373",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will",
+    "https://news.futunn.com/hk/post/68794375/china-s-large-scale-model-spring-festival-release-kicks-off",
+    "https://news.futunn.com/hk/post/68792236",
+    "https://news.futunn.com/hk/post/68768553/港股「春節效應」能否重演？基金經理解讀來了",
+    "https://news.futunn.com/hk/post/68759420/車抵貸賽道逆勢狂奔-消金平台與銀行的2025轉型之戰",
+    "https://news.futunn.com/hk/post/68757669",
+    "https://news.futunn.com/hk/post/68807801/differentiation-of-major-companies-in-the-multimodal-deepseek-moment-bytedance",
+    "https://news.futunn.com/hk/post/68873700/goldman-sachs-has-reiterated-its-buy-rating-for-kuaishou-01024",
+    "https://news.futunn.com/hk/post/68868294",
+    "https://news.futunn.com/hk/post/68867136/guoxin-securities-seedance-2-0-unveils-new-opportunities-focus-on",
+    "https://news.futunn.com/hk/post/68865777",
+    "https://news.futunn.com/hk/post/68942485",
+    "https://news.futunn.com/hk/post/68939871",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47",
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead",
+    "https://news.futunn.com/hk/post/69089682/tai-south-korea-and-singapore-stock-markets-all-hit-record",
+    "https://news.futunn.com/hk/post/69087782/hong-kong-stock-market-morning-review-all-three-major-indices",
+    "https://news.futunn.com/hk/post/69089818",
+    "https://news.futunn.com/hk/post/69089757",
+    "https://news.futunn.com/hk/post/69082520/unpacking-the-strongest-short-form-drama-spring-festival-season-in",
+    "https://news.futunn.com/hk/post/69194802",
+    "https://news.futunn.com/hk/post/69161779",
+    "https://news.futunn.com/hk/post/69161332",
+    "https://news.futunn.com/hk/post/69327233",
+    "https://news.futunn.com/hk/post/69303042/about-to-launch-awe2026-to-host-multiple-consumer-promotion-activities",
+    "https://news.futunn.com/hk/post/69297245/hong-kong-stock-market-barometer-during-the-macro-vacuum-period",
+    "https://news.futunn.com/hk/post/69296946",
+    "https://news.futunn.com/hk/post/69296159",
+    "https://news.futunn.com/hk/post/69284143",
+    "https://news.futunn.com/hk/post/69282890/article-slug",
+    "https://news.futunn.com/hk/post/69275394/market-snapshot-all-three-major-indexes-closed-lower-with-the",
+    "https://news.futunn.com/hk/post/69274741/bank-of-america-reiterates-buy-rating-for-kuaishou-w-01024",
+    "https://news.futunn.com/hk/post/69263567/bank-of-america-market-concerns-over-ai-video-competition-may",
+    "https://news.futunn.com/hk/post/69262263/goldman-sachs-lunar-new-year-consumption-in-mainland-china-shows",
+    "https://news.futunn.com/hk/post/69256161/the-keling-3-0-model-has-topped-the-global-ranking",
+    "https://news.futunn.com/flash/20003320/miit-mobile-internet-user-access-traffic-increased-by-18-7",
+    "https://news.futunn.com/hk/post/69423812",
+    "https://news.futunn.com/hk/post/69422673",
+    "https://news.futunn.com/hk/post/69416939",
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese",
+    "https://news.futunn.com/hk/post/69509995/multiple-platforms-released-governance-results-for-february-regarding-ai-modified",
+    "https://news.futunn.com/hk/post/69510487/dongwu-securities-has-listed-the-top-ten-net-buy-and",
+    "https://news.futunn.com/hk/post/69497846/guosen-securities-focus-on-how-internet-companies-adapt-their-products",
+    "https://news.futunn.com/hk/post/69496150",
+    "https://news.futunn.com/hk/post/69494688/港股跌到位了嗎？恒科收復5000點，機構：ai回調創造了買點，馬斯克點贊阿里",
+    "https://news.futunn.com/hk/post/69525045",
+    "https://news.futunn.com/hk/post/69779034",
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai",
+    "https://news.futunn.com/hk/post/69819062",
+    "https://news.futunn.com/hk/post/69808744",
+    "https://news.futunn.com/hk/post/69779775/shenzhen-longgang-offers-subsidies-of-up-to-2-million-rmb",
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-focus-their-ai-strategies",
+    "https://news.futunn.com/hk/post/69760708"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68643469": {
+      "headline": "港股通(深)淨賣出2.42億港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:20:09.051440",
+      "last_seen": "2026-02-09T21:20:09.051448"
+    },
+    "https://news.futunn.com/hk/post/68640684/capital-flows-northbound-funds-have-net-purchased-xiaomi-for-8": {
+      "headline": "資金動向 | 北水連續8日淨買入小米，連續6日淨買入騰訊",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:20:14.277976",
+      "last_seen": "2026-02-09T21:20:14.277984"
+    },
+    "https://news.futunn.com/hk/post/68640862": {
+      "headline": "AI視頻的「1毛錢戰爭」與「萬億生意」",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:20:21.004857",
+      "last_seen": "2026-02-09T21:20:21.004867"
+    },
+    "https://news.futunn.com/hk/post/68636815/zhitong-hkex-active-trading-february-9": {
+      "headline": "智通港股通活躍成交|2月9日",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:20:24.875512",
+      "last_seen": "2026-02-09T21:20:24.875520"
+    },
+    "https://news.futunn.com/hk/post/68635490/the-tracker-fund-of-hong-kong-recorded-a-net-outflow": {
+      "headline": "港股通盈富基金淨流出45.55億港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:34.086668",
+      "last_seen": "2026-02-09T21:21:34.086677"
+    },
+    "https://news.futunn.com/hk/post/68632592": {
+      "headline": "北水賣出港股近19億港元，買入騰訊控股18億港元，賣出盈富基金超45億港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:37.851338",
+      "last_seen": "2026-02-09T21:21:37.851347"
+    },
+    "https://news.futunn.com/hk/post/68630769": {
+      "headline": "快訊 | 開年兩度被罰，外賣業務幹黃，快手王劍偉「巧婦難爲」",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:42.468700",
+      "last_seen": "2026-02-09T21:21:42.468708"
+    },
+    "https://news.futunn.com/hk/post/68627898": {
+      "headline": "短劇春節檔開打，漫劇成平台必爭之地",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:45.680341",
+      "last_seen": "2026-02-09T21:21:45.680350"
+    },
+    "https://news.futunn.com/hk/post/68623213/major-bank-ratings-boc-international-upgraded-kuaishou-s-target-price": {
+      "headline": "大行評級丨中銀國際：上調快手目標價至80港元，評級升至「買入」",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:51.993520",
+      "last_seen": "2026-02-09T21:21:51.993529"
+    },
+    "https://news.futunn.com/hk/post/68622945/global-equities-roundup-market-talk": {
+      "headline": "Global Equities Roundup: Market Talk",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:55.573293",
+      "last_seen": "2026-02-09T21:21:55.573301"
+    },
+    "https://news.futunn.com/hk/post/68620738": {
+      "headline": "恒生科技ETF、互聯網ETF，誰更值得買？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:21:59.996845",
+      "last_seen": "2026-02-09T21:21:59.996853"
+    },
+    "https://news.futunn.com/hk/post/68619363/kuaishou-charity-has-launched-the-helping-academy-initiative-committing-to": {
+      "headline": "快手公益發布「幫幫學堂」計劃，將投入千萬資金、30億流量助力數字人才培養",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:22:04.797818",
+      "last_seen": "2026-02-09T21:22:04.797827"
+    },
+    "https://news.futunn.com/hk/post/68615677/kuaishou-technology-1024-hk-4q25-preview-inline-quarter-solidified-kling": {
+      "headline": "快手科技(1024.HK) 2025年第四季度預覽：季度表現符合預期；Kling AI功能強化，釋放長期想象空間；上調評級至買入",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:22:08.532586",
+      "last_seen": "2026-02-09T21:22:08.532595"
+    },
+    "https://news.futunn.com/hk/post/68667305/kuaishou-opened-higher-after-reaching-a-collaboration-with-the-cctv": {
+      "headline": "快手開盤上漲，與總台春晚達成合作，可靈AI 3.0系列模型正式上線",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:47:43.123548",
+      "last_seen": "2026-02-10T10:47:43.123566"
+    },
+    "https://news.futunn.com/hk/post/68665617": {
+      "headline": "一圖｜AI應用「春節檔」持續上新，速看大廠即將發佈哪些AI應用新產品（附詳單）",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:47:51.773996",
+      "last_seen": "2026-02-10T10:47:51.774011"
+    },
+    "https://news.futunn.com/hk/post/68660369/china-merchants-securities-why-are-we-firmly-optimistic-about-hang": {
+      "headline": "招商證券：當前爲何堅定看好恒生科技？",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:47:56.509262",
+      "last_seen": "2026-02-10T10:47:56.509282"
+    },
+    "https://news.futunn.com/hk/post/68644276": {
+      "headline": "一月兩張巨額「罰單」，千億快手頻踩「紅線」？",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:48:00.431803",
+      "last_seen": "2026-02-10T10:48:00.431821"
+    },
+    "https://news.futunn.com/hk/post/68644373": {
+      "headline": "港股通(深)淨賣出2.42億港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:48:05.913602",
+      "last_seen": "2026-02-10T10:48:05.913619"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:33.490120",
+      "last_seen": "2026-02-12T12:06:33.490144"
+    },
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will": {
+      "headline": "知名對沖基金孤松資本：AI泡沫還要等到OpenAI上市，不博弈短期而是思考3-5年的世界格局",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:34.210645",
+      "last_seen": "2026-02-12T12:06:34.210664"
+    },
+    "https://news.futunn.com/hk/post/68794375/china-s-large-scale-model-spring-festival-release-kicks-off": {
+      "headline": "中國大模型「春節檔」打響！等待消費級AI出「爆款」",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:34.884859",
+      "last_seen": "2026-02-12T12:06:34.884875"
+    },
+    "https://news.futunn.com/hk/post/68792236": {
+      "headline": "Seedance 2.0刷屏社交圈 影視創作迎來「DeepSeek時刻」",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:35.534835",
+      "last_seen": "2026-02-12T12:06:35.534853"
+    },
+    "https://news.futunn.com/hk/post/68768553/港股「春節效應」能否重演？基金經理解讀來了": {
+      "headline": "港股風向標｜恒指站穩27000點盤整向上 短線活躍資金離場觀望",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:36.264021",
+      "last_seen": "2026-02-12T12:06:36.264042"
+    },
+    "https://news.futunn.com/hk/post/68759420/車抵貸賽道逆勢狂奔-消金平台與銀行的2025轉型之戰": {
+      "headline": "車抵貸賽道「逆勢狂奔」：消金、平台與銀行的2025轉型之戰",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:36.973737",
+      "last_seen": "2026-02-12T12:06:36.973747"
+    },
+    "https://news.futunn.com/hk/post/68757669": {
+      "headline": "傳媒行業跟蹤點評：大廠搶佔流量入口，C端路徑驗證開啓",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:06:38.316182",
+      "last_seen": "2026-02-12T12:06:38.316196"
+    },
+    "https://news.futunn.com/hk/post/68807801/differentiation-of-major-companies-in-the-multimodal-deepseek-moment-bytedance": {
+      "headline": "多模態「Deepseek時刻」下的大廠分化：字節拼「效率」，快手攻「專業」，阿里聚焦「電商」！",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:22:38.456866",
+      "last_seen": "2026-02-13T12:22:38.456890"
+    },
+    "https://news.futunn.com/hk/post/68873700/goldman-sachs-has-reiterated-its-buy-rating-for-kuaishou-01024": {
+      "headline": "《大行》高盛重申對快手(01024.HK)「買入」評級 指市場低估可靈業務估值",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:22:40.831383",
+      "last_seen": "2026-02-13T12:22:40.831395"
+    },
+    "https://news.futunn.com/hk/post/68868294": {
+      "headline": "互聯網春晚營銷十一年：撒錢180億，爲何再無微信紅包時刻？",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:22:41.735560",
+      "last_seen": "2026-02-13T12:22:41.735579"
+    },
+    "https://news.futunn.com/hk/post/68867136/guoxin-securities-seedance-2-0-unveils-new-opportunities-focus-on": {
+      "headline": "國信證券：Seedance 2.0開啓新機遇 佈局IP與平台，關注爆款催化",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:22:42.425591",
+      "last_seen": "2026-02-13T12:22:42.425607"
+    },
+    "https://news.futunn.com/hk/post/68865777": {
+      "headline": "雄韜股份：未來將聚焦於AIDC賽道推動業務實現跨越式增長",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:22:43.099164",
+      "last_seen": "2026-02-13T12:22:43.099187"
+    },
+    "https://news.futunn.com/hk/post/68942485": {
+      "headline": "國海海外·陳夢竹 |2026年港股互聯網&科技策略前瞻—結構分化，重點關注AI及盈利兌現度",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:00:23.677419",
+      "last_seen": "2026-02-16T11:00:23.677438"
+    },
+    "https://news.futunn.com/hk/post/68939871": {
+      "headline": "一邊是春晚高光，一邊是1.45億罰單：快手十五年「暗疾」集中爆發",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:00:24.435589",
+      "last_seen": "2026-02-16T11:00:24.435605"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股午評：恒科指漲3.32% 科網股、資源股走強 AI概念股回調",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:22.534738",
+      "last_seen": "2026-02-23T12:31:22.534758"
+    },
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47": {
+      "headline": "中美AI同步加速：47天30次更新，中國AI的最強主場究竟在哪？",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:23.270055",
+      "last_seen": "2026-02-23T12:31:23.270071"
+    },
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead": {
+      "headline": "無懼關稅衝擊！科技板塊擔當 「主攻手」助科指大漲4%，機構：在AI應用加速推進的背景下，科技板塊有望反彈回升",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:24.034854",
+      "last_seen": "2026-02-23T12:31:24.034872"
+    },
+    "https://news.futunn.com/hk/post/69089682/tai-south-korea-and-singapore-stock-markets-all-hit-record": {
+      "headline": "台韓星股齊破頂 港股升逾700點重上兩萬七關 科技股領漲美團揚7% AI大模型半新股急吐",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:24.908178",
+      "last_seen": "2026-02-23T12:31:24.908198"
+    },
+    "https://news.futunn.com/hk/post/69087782/hong-kong-stock-market-morning-review-all-three-major-indices": {
+      "headline": "快訊 | 港股開市：恒指漲1.46%，科指漲1.77%",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:25.650385",
+      "last_seen": "2026-02-23T12:31:25.650410"
+    },
+    "https://news.futunn.com/hk/post/69089818": {
+      "headline": "傳媒互聯網行業數據月報：AI應用關注高 春節檔票房低迷",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:26.572200",
+      "last_seen": "2026-02-23T12:31:26.572218"
+    },
+    "https://news.futunn.com/hk/post/69089757": {
+      "headline": "傳媒行業週報：節後繼續聚焦AI入口商業化、重磅新遊及長青遊戲",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:27.282791",
+      "last_seen": "2026-02-23T12:31:27.282808"
+    },
+    "https://news.futunn.com/hk/post/69082520/unpacking-the-strongest-short-form-drama-spring-festival-season-in": {
+      "headline": "拆解史上最強短劇春節檔：巨頭圍獵，誰能搶佔用戶碎片時間？",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:31:28.013483",
+      "last_seen": "2026-02-23T12:31:28.013501"
+    },
+    "https://news.futunn.com/hk/post/69194802": {
+      "headline": "2026年春節「AI紅包」派發超45億元 「脈衝式流量」後用戶黏性成關鍵",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:42:39.097509",
+      "last_seen": "2026-02-25T11:42:39.097529"
+    },
+    "https://news.futunn.com/hk/post/69161779": {
+      "headline": "季度業績前瞻 | 快手-W：AI視頻生成市場競爭激烈，預測第四季度營業收入386.17~405.84",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:42:40.640021",
+      "last_seen": "2026-02-25T11:42:40.640035"
+    },
+    "https://news.futunn.com/hk/post/69161332": {
+      "headline": "萬物梁行開年新拓50+項目 涉及TMT、先進製造、金融等多領域",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:42:41.673863",
+      "last_seen": "2026-02-25T11:42:41.673879"
+    },
+    "https://news.futunn.com/hk/post/69327233": {
+      "headline": "恒生科技指數？其實是中國內需指數",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:02.519235",
+      "last_seen": "2026-02-27T11:51:02.519252"
+    },
+    "https://news.futunn.com/hk/post/69303042/about-to-launch-awe2026-to-host-multiple-consumer-promotion-activities": {
+      "headline": "即將啓動！AWE2026開展多場促消費活動 以優質供給激發家電煥新需求|直擊AWE2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:03.624986",
+      "last_seen": "2026-02-27T11:51:03.625004"
+    },
+    "https://news.futunn.com/hk/post/69297245/hong-kong-stock-market-barometer-during-the-macro-vacuum-period": {
+      "headline": "港股風向標｜宏觀「真空期」恒科指數創階段新低 多頭扎堆AI產業鏈抱團",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:04.744676",
+      "last_seen": "2026-02-27T11:51:04.744695"
+    },
+    "https://news.futunn.com/hk/post/69296946": {
+      "headline": "業內人士：香港科網股之所以遭遇持續拋售，很大部分原因與HALO交易有關",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:05.855014",
+      "last_seen": "2026-02-27T11:51:05.855030"
+    },
+    "https://news.futunn.com/hk/post/69296159": {
+      "headline": "【財聞聯播】德國總理默茨一行參訪宇樹科技！蔚來芯片子公司，完成首輪超22億元融資",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:07.679774",
+      "last_seen": "2026-02-27T11:51:07.679791"
+    },
+    "https://news.futunn.com/hk/post/69284143": {
+      "headline": "北水賣出港股近74億港元，買入美團超3億港元，賣出中國海洋石油近9億港元",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:08.824928",
+      "last_seen": "2026-02-27T11:51:08.824945"
+    },
+    "https://news.futunn.com/hk/post/69282890/article-slug": {
+      "headline": "AI漫劇2026：千億深水區的工業化豪賭與審美突圍",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:09.945178",
+      "last_seen": "2026-02-27T11:51:09.945194"
+    },
+    "https://news.futunn.com/hk/post/69275394/market-snapshot-all-three-major-indexes-closed-lower-with-the": {
+      "headline": "收市速睇 | 三大指數齊跌，科指收跌2.87%；科網股走弱，百度、快手跌超4%，阿里跌超3%；南方兩倍做多海力士大漲超14%，天數智芯暴漲20%創新高",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:11.380501",
+      "last_seen": "2026-02-27T11:51:11.380518"
+    },
+    "https://news.futunn.com/hk/post/69274741/bank-of-america-reiterates-buy-rating-for-kuaishou-w-01024": {
+      "headline": "美銀：重申快手-W(01024)「買入」評級 目標價94港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:51:15.533111",
+      "last_seen": "2026-02-27T11:51:15.533127"
+    },
+    "https://news.futunn.com/hk/post/69263567/bank-of-america-market-concerns-over-ai-video-competition-may": {
+      "headline": "美國銀行：市場對AI視頻競爭擔憂或被高估 競品發佈對可靈收入影響有限",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:17.393446",
+      "last_seen": "2026-02-27T11:51:17.393461"
+    },
+    "https://news.futunn.com/hk/post/69262263/goldman-sachs-lunar-new-year-consumption-in-mainland-china-shows": {
+      "headline": "《大行》高盛：農曆新年內地消費顯示線下業態分化 電影票房下滑40%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:18.512257",
+      "last_seen": "2026-02-27T11:51:18.512272"
+    },
+    "https://news.futunn.com/hk/post/69256161/the-keling-3-0-model-has-topped-the-global-ranking": {
+      "headline": "可靈3.0模型登頂全球視頻生成大模型榜單",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:51:20.455451",
+      "last_seen": "2026-02-27T11:51:20.455467"
+    },
+    "https://news.futunn.com/flash/20003320/miit-mobile-internet-user-access-traffic-increased-by-18-7": {
+      "headline": "快訊 | 工信部：春節期間計移動互聯網用戶接入流量同比增長18.7%",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:01:37.717569",
+      "last_seen": "2026-03-02T10:01:37.717585"
+    },
+    "https://news.futunn.com/hk/post/69423812": {
+      "headline": "港股通(深)淨買入72.81億港元",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:01:38.616115",
+      "last_seen": "2026-03-02T10:01:38.616130"
+    },
+    "https://news.futunn.com/hk/post/69422673": {
+      "headline": "傳媒行業週報：把握更確定方向，聚焦頭部新遊及核心AI應用",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:01:39.330527",
+      "last_seen": "2026-03-02T10:01:39.330543"
+    },
+    "https://news.futunn.com/hk/post/69416939": {
+      "headline": "2025快手電商治理報告：AI驅動機制創新，共築信任新生態",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:01:41.972036",
+      "last_seen": "2026-03-02T10:01:41.972054"
+    },
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese": {
+      "headline": "百億基金經理夏俊傑：中國股票是最便宜主流資產，AI泡沫土壤或不在",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:51:17.946298",
+      "last_seen": "2026-03-04T09:51:17.946318"
+    },
+    "https://news.futunn.com/hk/post/69509995/multiple-platforms-released-governance-results-for-february-regarding-ai-modified": {
+      "headline": "多平台公佈2月涉「AI魔改」視頻治理結果",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:51:19.077112",
+      "last_seen": "2026-03-04T09:51:19.077133"
+    },
+    "https://news.futunn.com/hk/post/69510487/dongwu-securities-has-listed-the-top-ten-net-buy-and": {
+      "headline": "《大行》東吳證券列出南向資金上周對港股十大淨買入及淨賣出名單(表)",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:51:20.540247",
+      "last_seen": "2026-03-04T09:51:20.540262"
+    },
+    "https://news.futunn.com/hk/post/69497846/guosen-securities-focus-on-how-internet-companies-adapt-their-products": {
+      "headline": "國信證券：關注互聯網廠商產品如何適配Agent產品 優選領先大模型廠商和算力供應鏈",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:51:22.207858",
+      "last_seen": "2026-03-04T09:51:22.207874"
+    },
+    "https://news.futunn.com/hk/post/69496150": {
+      "headline": "互聯網行業2026年3月投資策略：觀察AGENT對互聯網生態流量和用戶的影響 優選領先大模型廠商和算力供應鏈",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:56:35.407089",
+      "last_seen": "2026-03-04T09:56:35.407104"
+    },
+    "https://news.futunn.com/hk/post/69494688/港股跌到位了嗎？恒科收復5000點，機構：ai回調創造了買點，馬斯克點贊阿里": {
+      "headline": "港股跌到位了嗎？恒科收復5000點，機構：AI回調創造了買點，馬斯克點贊阿里",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T12:02:53.692140",
+      "last_seen": "2026-03-04T12:02:53.692159"
+    },
+    "https://news.futunn.com/hk/post/69525045": {
+      "headline": "快手(1024.HK)：看好可靈AI商業化潛力釋放 首予買入",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:19:52.190581",
+      "last_seen": "2026-03-04T13:19:52.190595"
+    },
+    "https://news.futunn.com/hk/post/69779034": {
+      "headline": "傳媒行業點評報告：OpenClaw出圈，政策再助力，繼續佈局AI及遊戲",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:32:30.033739",
+      "last_seen": "2026-03-09T12:32:30.033757"
+    },
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai": {
+      "headline": "《大行》瑞銀：內地科網巨擘AI戰略聚焦本土市場 新興AI企業著力境外業務",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:32:31.234891",
+      "last_seen": "2026-03-09T12:32:31.234908"
+    },
+    "https://news.futunn.com/hk/post/69819062": {
+      "headline": "快手與磁力引擎攜手發力 漫劇單日廣告消耗成功衝破1500萬大關",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:19:05.643128",
+      "last_seen": "2026-03-10T10:19:05.643146"
+    },
+    "https://news.futunn.com/hk/post/69808744": {
+      "headline": "港股風向標｜恒指放量收跌再創階段新低 地緣風險加劇通脹擔憂",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:19:06.553708",
+      "last_seen": "2026-03-10T10:19:06.553727"
+    },
+    "https://news.futunn.com/hk/post/69779775/shenzhen-longgang-offers-subsidies-of-up-to-2-million-rmb": {
+      "headline": "深圳龍崗支持免費「養龍蝦」提供最多200萬人幣補貼 工信部提示OpenClaw安全隱患",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:19:08.099209",
+      "last_seen": "2026-03-10T10:19:08.099226"
+    },
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-focus-their-ai-strategies": {
+      "headline": "《大行》瑞銀：內地科網巨擘AI戰略聚焦本土市場，新興AI企業著力境外業務",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:19:09.006094",
+      "last_seen": "2026-03-10T10:19:09.006110"
+    },
+    "https://news.futunn.com/hk/post/69760708": {
+      "headline": "AI應用更新 | AI Agentic迭代加速，多模態原生融合趨勢增強【浙商傳媒互聯網馮翠婷】",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:19:09.793804",
+      "last_seen": "2026-03-10T10:19:09.793821"
+    }
+  }
+}

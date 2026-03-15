@@ -1,0 +1,1827 @@
+{
+  "website": "https://techcrunch.com/latest/",
+  "links": [
+    "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl",
+    "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt",
+    "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor",
+    "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras",
+    "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax",
+    "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project",
+    "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams",
+    "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own",
+    "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads",
+    "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be",
+    "https://techcrunch.com/2026/02/08/major-tech-companies-strategic-ai-initiatives-model-launches-updates",
+    "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech",
+    "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all",
+    "https://techcrunch.com/2026/02/08/edge-computing-for-ai-applications-gaining-attention-in-infrastructure-trends",
+    "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers",
+    "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name",
+    "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round",
+    "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant",
+    "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads",
+    "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues",
+    "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo",
+    "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens",
+    "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps",
+    "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package",
+    "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination",
+    "https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir",
+    "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials",
+    "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics",
+    "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts",
+    "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville",
+    "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step",
+    "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim",
+    "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company",
+    "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies",
+    "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats",
+    "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation",
+    "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip",
+    "https://techcrunch.com/2026/02/10/large-language-models-llms-and-generative-ai",
+    "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software",
+    "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music",
+    "https://techcrunch.com/2026/02/10/data-center-developments-and-investments-for-ai",
+    "https://techcrunch.com/2026/02/10/gpu-and-ai-accelerator-supply-demand",
+    "https://techcrunch.com/2026/02/10/enterprise-ai-software-and-platforms",
+    "https://techcrunch.com/2026/02/10/ai-integration-in-business-applications",
+    "https://techcrunch.com/2026/02/10/tech-company-strategic-ai-initiatives",
+    "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands",
+    "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say",
+    "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development",
+    "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation",
+    "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy",
+    "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users",
+    "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program",
+    "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm",
+    "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur",
+    "https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open",
+    "https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal",
+    "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices",
+    "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal",
+    "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed",
+    "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan",
+    "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp",
+    "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth",
+    "https://techcrunch.com/2026/02/11/twilio-co-founder-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv",
+    "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce",
+    "https://techcrunch.com/2026/02/12/anthropic-raises-another-30b-in-series-g-with-a-new-value-of-380b",
+    "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip",
+    "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai",
+    "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot",
+    "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025",
+    "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers",
+    "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai",
+    "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most",
+    "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house",
+    "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-news-suppresses-right-wing-content",
+    "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round",
+    "https://techcrunch.com/2026/02/12/cloud-and-data-center-investments-surge-to-support-ai-infrastructure-growth",
+    "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck",
+    "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-infrastructure",
+    "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says",
+    "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface",
+    "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai",
+    "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage",
+    "https://techcrunch.com/2026/02/15/gpu-and-ai-accelerator-supply-demand-tightens-amid-rising-enterprise-ai-adoption",
+    "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior",
+    "https://techcrunch.com/2026/02/15/ai-company-funding-rounds-highlight-growing-valuations-and-strategic-investor-interest",
+    "https://techcrunch.com/2026/02/15/ai-regulation-and-policy-changes-under-consideration-could-impact-enterprise-ai-deployments",
+    "https://techcrunch.com/2026/02/15/robotics-and-automation-companies-see-increased-funding-as-industrial-automation-accelerates",
+    "https://techcrunch.com/2026/02/15/hardware-startups-in-semiconductors-and-chip-design-secure-major-funding-rounds",
+    "https://techcrunch.com/2026/02/15/robotech-ipos-and-ma-activity-reflect-growing-confidence-in-automation-technologies",
+    "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again",
+    "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem",
+    "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation",
+    "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use",
+    "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025",
+    "https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business",
+    "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window",
+    "https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others",
+    "https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory",
+    "https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court",
+    "https://techcrunch.com/2026/02/19/major-tech-firms-accelerate-ai-integration-in-enterprise-platforms",
+    "https://techcrunch.com/2026/02/19/robotics-and-automation-companies-see-increased-funding-and-product-launches",
+    "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive",
+    "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop",
+    "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up",
+    "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats",
+    "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too",
+    "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac",
+    "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead",
+    "https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back",
+    "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash",
+    "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app",
+    "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere",
+    "https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe",
+    "https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers",
+    "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates",
+    "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026",
+    "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports",
+    "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability",
+    "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm",
+    "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public",
+    "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push",
+    "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting",
+    "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy",
+    "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude",
+    "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras",
+    "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report",
+    "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products",
+    "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all",
+    "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots",
+    "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation",
+    "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to",
+    "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets",
+    "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m",
+    "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers",
+    "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery",
+    "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal",
+    "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes",
+    "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model",
+    "https://techcrunch.com/2026/02/24/large-language-models-llms-and-generative-ai",
+    "https://techcrunch.com/2026/02/24/ai-agent-platforms-and-applications",
+    "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute",
+    "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai",
+    "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors",
+    "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would",
+    "https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications",
+    "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach",
+    "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process",
+    "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google",
+    "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging",
+    "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs",
+    "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android",
+    "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve",
+    "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia",
+    "https://techcrunch.com/2026/02/25/nvidia-has-another-record-quarter-amid-record-capex-spends-ai",
+    "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next",
+    "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms",
+    "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery",
+    "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers",
+    "https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade",
+    "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture",
+    "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers",
+    "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation",
+    "https://techcrunch.com/2026/02/26/spyware-maker-sentenced-to-prison-in-greece-for-wiretapping-politicians-and-journalists",
+    "https://techcrunch.com/2026/02/26/x-tries-wooing-advertisers-by-letting-them-reuse-creative-assets-from-other-platforms",
+    "https://techcrunch.com/2026/02/26/cisco-says-hackers-have-been-exploiting-a-critical-bug-to-break-into-big-customer-networks-since-2023",
+    "https://techcrunch.com/2026/02/26/a-vc-and-some-big-name-programmers-are-trying-to-solve-open-sources-funding-problem-permanently",
+    "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut",
+    "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report",
+    "https://techcrunch.com/2026/02/26/ebay-to-lay-off-800-staff",
+    "https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids",
+    "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate",
+    "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon",
+    "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta",
+    "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute",
+    "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself",
+    "https://techcrunch.com/2026/03/01/investors-spill-what-they-aren-t-looking-for-anymore-in-ai-saas-companies",
+    "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok",
+    "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk",
+    "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank",
+    "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order",
+    "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets",
+    "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history",
+    "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center",
+    "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government",
+    "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups",
+    "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599",
+    "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e",
+    "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage",
+    "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue",
+    "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens",
+    "https://techcrunch.com/2026/03/02/parade-s-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding",
+    "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay",
+    "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data",
+    "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth",
+    "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes",
+    "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch",
+    "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push",
+    "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round",
+    "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down",
+    "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability",
+    "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage",
+    "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5",
+    "https://techcrunch.com/2026/03/03/activist-investor-elliott-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth",
+    "https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran",
+    "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid",
+    "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict",
+    "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros",
+    "https://techcrunch.com/2026/03/03/data-center-developments-and-investments-for-ai-infrastructure",
+    "https://techcrunch.com/2026/03/03/chip-manufacturing-and-semiconductor-news-impacting-ai-hardware-supply-chain",
+    "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices",
+    "https://techcrunch.com/2026/03/03/cloud-computing-infrastructure-developments-for-ai",
+    "https://techcrunch.com/2026/03/03/supply-chain-and-manufacturing-developments-affecting-hardware-and-semiconductor-sectors",
+    "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers",
+    "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies",
+    "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20",
+    "https://techcrunch.com/2026/03/04/google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users",
+    "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing",
+    "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report",
+    "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599",
+    "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation",
+    "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals",
+    "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion",
+    "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal",
+    "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse",
+    "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air",
+    "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court",
+    "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers",
+    "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk",
+    "https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months",
+    "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models",
+    "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions",
+    "https://techcrunch.com/2026/03/05/google-says-half-of-all-zero-days-it-tracked-in-2025-targeted-buggy-enterprise-tech",
+    "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year",
+    "https://techcrunch.com/2026/03/05/ai-chip-developments-gpus-tpus-ai-accelerators",
+    "https://techcrunch.com/2026/03/07/openai-hardware-exec-caitlin-kalinowski-quits-in-response-to-pentagon-deal",
+    "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department",
+    "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks",
+    "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles",
+    "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package",
+    "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen",
+    "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts",
+    "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again",
+    "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit",
+    "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor",
+    "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation",
+    "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work",
+    "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps",
+    "https://techcrunch.com/2026/03/08/anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks",
+    "https://techcrunch.com/2026/03/08/supply-chain-and-manufacturing-developments-in-ai-hardware-and-chips",
+    "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code",
+    "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents",
+    "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation",
+    "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning",
+    "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation",
+    "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage",
+    "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say",
+    "https://techcrunch.com/2026/03/09/large-language-models-llms-and-generative-ai",
+    "https://techcrunch.com/2026/03/09/data-center-developments-and-investments-for-ai",
+    "https://techcrunch.com/2026/03/09/industrial-automation-and-autonomous-vehicle-developments",
+    "https://techcrunch.com/2026/03/09/enterprise-ai-software-and-platform-strategies"
+  ],
+  "metadata": {
+    "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl": {
+      "headline": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:02:18.548337",
+      "last_seen": "2026-02-09T21:02:18.548345"
+    },
+    "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt": {
+      "headline": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:21.629105",
+      "last_seen": "2026-02-09T21:02:21.629112"
+    },
+    "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor": {
+      "headline": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:24.549213",
+      "last_seen": "2026-02-09T21:02:24.549220"
+    },
+    "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras": {
+      "headline": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:27.668673",
+      "last_seen": "2026-02-09T21:02:27.668679"
+    },
+    "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax": {
+      "headline": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:30.719165",
+      "last_seen": "2026-02-09T21:02:30.719172"
+    },
+    "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project": {
+      "headline": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:02:33.808485",
+      "last_seen": "2026-02-09T21:02:33.808494"
+    },
+    "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams": {
+      "headline": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:39.080952",
+      "last_seen": "2026-02-09T21:02:39.080959"
+    },
+    "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own": {
+      "headline": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:43.107528",
+      "last_seen": "2026-02-09T21:02:43.107536"
+    },
+    "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads": {
+      "headline": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:46.372199",
+      "last_seen": "2026-02-09T21:02:46.372206"
+    },
+    "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be": {
+      "headline": "Most Popular: OpenAI’s GPT-4o retirement sparks debate on AI companions’ safety",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:49.567184",
+      "last_seen": "2026-02-09T21:02:49.567195"
+    },
+    "https://techcrunch.com/2026/02/08/major-tech-companies-strategic-ai-initiatives-model-launches-updates": {
+      "headline": "Major tech companies’ strategic AI initiatives (implied from context of AI model launches and updates)",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:02:56.432370",
+      "last_seen": "2026-02-09T21:02:56.432379"
+    },
+    "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech": {
+      "headline": "AI regulation and policy changes affecting investments (implied from recent policy discussions)",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:02:59.936472",
+      "last_seen": "2026-02-09T21:02:59.936479"
+    },
+    "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all": {
+      "headline": "AI agents potentially becoming lawyers after recent developments",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:02.324694",
+      "last_seen": "2026-02-09T21:03:02.324704"
+    },
+    "https://techcrunch.com/2026/02/08/edge-computing-for-ai-applications-gaining-attention-in-infrastructure-trends": {
+      "headline": "Edge computing for AI applications gaining attention (implied from infrastructure trends)",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:03:06.171927",
+      "last_seen": "2026-02-09T21:03:06.171936"
+    },
+    "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers": {
+      "headline": "Data center developments and investments in AI infrastructure (implied from policy and infrastructure news)",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:03:09.191963",
+      "last_seen": "2026-02-09T21:03:09.191970"
+    },
+    "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name": {
+      "headline": "Anthropic’s India expansion collides with a local company that already had the name",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:32.702205",
+      "last_seen": "2026-02-10T10:31:32.702218"
+    },
+    "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round": {
+      "headline": "Anthropic closes in on $20B round",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:36.111380",
+      "last_seen": "2026-02-10T10:31:36.111397"
+    },
+    "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant": {
+      "headline": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:39.326302",
+      "last_seen": "2026-02-10T10:31:39.326316"
+    },
+    "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads": {
+      "headline": "ChatGPT rolls out ads",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:42.538106",
+      "last_seen": "2026-02-10T10:31:42.538120"
+    },
+    "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues": {
+      "headline": "Ouster buys vision company StereoLabs as sensor consolidation continues",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:45.706435",
+      "last_seen": "2026-02-10T10:31:45.706449"
+    },
+    "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo": {
+      "headline": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:48.936830",
+      "last_seen": "2026-02-10T10:31:48.936845"
+    },
+    "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens": {
+      "headline": "Lyft opens its ride-hailing app to teens",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:51.962419",
+      "last_seen": "2026-02-10T10:31:51.962432"
+    },
+    "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps": {
+      "headline": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:55.189380",
+      "last_seen": "2026-02-10T10:31:55.189397"
+    },
+    "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package": {
+      "headline": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:31:58.295045",
+      "last_seen": "2026-02-10T10:31:58.295062"
+    },
+    "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination": {
+      "headline": "Snapchat now lets you inform others when you have arrived at your destination",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:32:02.073748",
+      "last_seen": "2026-02-10T10:32:02.073763"
+    },
+    "https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir": {
+      "headline": "Uber to buy delivery arm of Turkey’s Getir",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:32:05.180551",
+      "last_seen": "2026-02-10T10:32:05.180567"
+    },
+    "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials": {
+      "headline": "Most Popular: From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:32:08.794937",
+      "last_seen": "2026-02-10T10:32:08.794951"
+    },
+    "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics": {
+      "headline": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:32:15.756565",
+      "last_seen": "2026-02-10T10:32:15.756578"
+    },
+    "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts": {
+      "headline": "Bluesky finally adds drafts",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:32:18.834111",
+      "last_seen": "2026-02-10T10:32:18.834127"
+    },
+    "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville": {
+      "headline": "Waymo is testing driverless robotaxis in Nashville",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:32:22.019842",
+      "last_seen": "2026-02-10T10:32:22.019858"
+    },
+    "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step": {
+      "headline": "Fintech: MrBeast’s company buys Gen Z-focused fintech app Step",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:32:24.960735",
+      "last_seen": "2026-02-10T10:32:24.960749"
+    },
+    "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim": {
+      "headline": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:05.130904",
+      "last_seen": "2026-02-11T11:31:05.130920"
+    },
+    "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company": {
+      "headline": "Okay, now exactly half of xAI’s founding team has left the company",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:08.624455",
+      "last_seen": "2026-02-11T11:31:08.624471"
+    },
+    "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies": {
+      "headline": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:11.766419",
+      "last_seen": "2026-02-11T11:31:11.766434"
+    },
+    "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats": {
+      "headline": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:15.071828",
+      "last_seen": "2026-02-11T11:31:15.071843"
+    },
+    "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation": {
+      "headline": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:18.543576",
+      "last_seen": "2026-02-11T11:31:18.543593"
+    },
+    "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip": {
+      "headline": "AI infrastructure investments and chip developments",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:25.058971",
+      "last_seen": "2026-02-11T11:31:25.058992"
+    },
+    "https://techcrunch.com/2026/02/10/large-language-models-llms-and-generative-ai": {
+      "headline": "Large language models (LLMs) and generative AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:29.465707",
+      "last_seen": "2026-02-11T11:31:29.465722"
+    },
+    "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software": {
+      "headline": "Robotics company news, funding, and product launches",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:34.901134",
+      "last_seen": "2026-02-11T11:31:34.901150"
+    },
+    "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music": {
+      "headline": "Autonomous vehicles and drones",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:39.495433",
+      "last_seen": "2026-02-11T11:31:39.495450"
+    },
+    "https://techcrunch.com/2026/02/10/data-center-developments-and-investments-for-ai": {
+      "headline": "Data center developments and investments for AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:44.153394",
+      "last_seen": "2026-02-11T11:31:44.153409"
+    },
+    "https://techcrunch.com/2026/02/10/gpu-and-ai-accelerator-supply-demand": {
+      "headline": "GPU and AI accelerator supply/demand",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:49.557066",
+      "last_seen": "2026-02-11T11:31:49.557083"
+    },
+    "https://techcrunch.com/2026/02/10/enterprise-ai-software-and-platforms": {
+      "headline": "Enterprise AI software and platforms",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:31:56.361355",
+      "last_seen": "2026-02-11T11:31:56.361369"
+    },
+    "https://techcrunch.com/2026/02/10/ai-integration-in-business-applications": {
+      "headline": "AI integration in business applications",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:32:00.245669",
+      "last_seen": "2026-02-11T11:32:00.245685"
+    },
+    "https://techcrunch.com/2026/02/10/tech-company-strategic-ai-initiatives": {
+      "headline": "Tech company strategic AI initiatives",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:32:04.773045",
+      "last_seen": "2026-02-11T11:32:04.773060"
+    },
+    "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands": {
+      "headline": "xAI lays out interplanetary ambitions in public all-hands",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:12.400651",
+      "last_seen": "2026-02-12T11:45:12.400666"
+    },
+    "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say": {
+      "headline": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:15.514023",
+      "last_seen": "2026-02-12T11:45:15.514038"
+    },
+    "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development": {
+      "headline": "OpenAI disbands mission alignment team",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:18.595432",
+      "last_seen": "2026-02-12T11:45:18.595447"
+    },
+    "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation": {
+      "headline": "Uber Eats launches AI assistant to help with grocery cart creation",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:21.919333",
+      "last_seen": "2026-02-12T11:45:21.919349"
+    },
+    "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy": {
+      "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:25.396471",
+      "last_seen": "2026-02-12T11:45:25.396486"
+    },
+    "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users": {
+      "headline": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:28.417526",
+      "last_seen": "2026-02-12T11:45:28.417545"
+    },
+    "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program": {
+      "headline": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:31.686068",
+      "last_seen": "2026-02-12T11:45:31.686083"
+    },
+    "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm": {
+      "headline": "Cash App adds payment links so you can get paid in a DM",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:35.225232",
+      "last_seen": "2026-02-12T11:45:35.225249"
+    },
+    "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur": {
+      "headline": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:38.158104",
+      "last_seen": "2026-02-12T11:45:38.158126"
+    },
+    "https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open": {
+      "headline": "The search is on: 2026 Joseph C. Belden Innovation Award nominations are open",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:41.437024",
+      "last_seen": "2026-02-12T11:45:41.437041"
+    },
+    "https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal": {
+      "headline": "Activist investor Ancora publicly opposes the WBD-Netflix deal",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:44.519221",
+      "last_seen": "2026-02-12T11:45:44.519236"
+    },
+    "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices": {
+      "headline": "DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:48.972929",
+      "last_seen": "2026-02-12T11:45:48.972946"
+    },
+    "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal": {
+      "headline": "Why the economics of orbital AI are so brutal",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:52.268576",
+      "last_seen": "2026-02-12T11:45:52.268593"
+    },
+    "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed": {
+      "headline": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:55.534800",
+      "last_seen": "2026-02-12T11:45:55.534815"
+    },
+    "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan": {
+      "headline": "Google releases the first beta of Android 17, adopts a continuous developer release plan",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:45:58.827530",
+      "last_seen": "2026-02-12T11:45:58.827545"
+    },
+    "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp": {
+      "headline": "How AI changes the math for startups, according to a Microsoft VP",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:46:02.132890",
+      "last_seen": "2026-02-12T11:46:02.132909"
+    },
+    "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth": {
+      "headline": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:46:05.287287",
+      "last_seen": "2026-02-12T11:46:05.287303"
+    },
+    "https://techcrunch.com/2026/02/11/twilio-co-founder-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv": {
+      "headline": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:46:08.800520",
+      "last_seen": "2026-02-12T11:46:08.800535"
+    },
+    "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce": {
+      "headline": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:46:11.851476",
+      "last_seen": "2026-02-12T11:46:11.851492"
+    },
+    "https://techcrunch.com/2026/02/12/anthropic-raises-another-30b-in-series-g-with-a-new-value-of-380b": {
+      "headline": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:06.929522",
+      "last_seen": "2026-02-13T12:01:06.929534"
+    },
+    "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip": {
+      "headline": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:11.066561",
+      "last_seen": "2026-02-13T12:01:11.066578"
+    },
+    "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai": {
+      "headline": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:14.731211",
+      "last_seen": "2026-02-13T12:01:14.731220"
+    },
+    "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot": {
+      "headline": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:18.344620",
+      "last_seen": "2026-02-13T12:01:18.344632"
+    },
+    "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025": {
+      "headline": "Rivian was saved by software in 2025",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:25.059752",
+      "last_seen": "2026-02-13T12:01:25.059760"
+    },
+    "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers": {
+      "headline": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:29.188481",
+      "last_seen": "2026-02-13T12:01:29.188493"
+    },
+    "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai": {
+      "headline": "IBM will hire your entry-level talent in the age of AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:32.951482",
+      "last_seen": "2026-02-13T12:01:32.951494"
+    },
+    "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most": {
+      "headline": "The first signs of burnout are coming from the people who embrace AI the most",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:01:36.425601",
+      "last_seen": "2026-02-13T12:01:36.425612"
+    },
+    "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house": {
+      "headline": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:40.794322",
+      "last_seen": "2026-02-13T12:01:40.794335"
+    },
+    "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-news-suppresses-right-wing-content": {
+      "headline": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:45.031711",
+      "last_seen": "2026-02-13T12:01:45.031724"
+    },
+    "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round": {
+      "headline": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:01:49.106223",
+      "last_seen": "2026-02-13T12:01:49.106234"
+    },
+    "https://techcrunch.com/2026/02/12/cloud-and-data-center-investments-surge-to-support-ai-infrastructure-growth": {
+      "headline": "Cloud and data center investments surge to support AI infrastructure growth",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:02:01.336515",
+      "last_seen": "2026-02-13T12:02:01.336530"
+    },
+    "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck": {
+      "headline": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:02.251490",
+      "last_seen": "2026-02-16T10:44:02.251505"
+    },
+    "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-infrastructure": {
+      "headline": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:06.634226",
+      "last_seen": "2026-02-16T10:44:06.634245"
+    },
+    "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says": {
+      "headline": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:09.668170",
+      "last_seen": "2026-02-16T10:44:09.668187"
+    },
+    "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface": {
+      "headline": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:12.885479",
+      "last_seen": "2026-02-16T10:44:12.885494"
+    },
+    "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai": {
+      "headline": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:15.714933",
+      "last_seen": "2026-02-16T10:44:15.714948"
+    },
+    "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage": {
+      "headline": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:18.709289",
+      "last_seen": "2026-02-16T10:44:18.709309"
+    },
+    "https://techcrunch.com/2026/02/15/gpu-and-ai-accelerator-supply-demand-tightens-amid-rising-enterprise-ai-adoption": {
+      "headline": "GPU and AI accelerator supply/demand tightens amid rising enterprise AI adoption",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:24.886641",
+      "last_seen": "2026-02-16T10:44:24.886656"
+    },
+    "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior": {
+      "headline": "Chip manufacturing news signals strategic shifts in AI hardware supply chains",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:27.733323",
+      "last_seen": "2026-02-16T10:44:27.733340"
+    },
+    "https://techcrunch.com/2026/02/15/ai-company-funding-rounds-highlight-growing-valuations-and-strategic-investor-interest": {
+      "headline": "AI company funding rounds highlight growing valuations and strategic investor interest",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:32.008847",
+      "last_seen": "2026-02-16T10:44:32.008862"
+    },
+    "https://techcrunch.com/2026/02/15/ai-regulation-and-policy-changes-under-consideration-could-impact-enterprise-ai-deployments": {
+      "headline": "AI regulation and policy changes under consideration could impact enterprise AI deployments",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:35.855929",
+      "last_seen": "2026-02-16T10:44:35.855945"
+    },
+    "https://techcrunch.com/2026/02/15/robotics-and-automation-companies-see-increased-funding-as-industrial-automation-accelerates": {
+      "headline": "Robotics and automation companies see increased funding as industrial automation accelerates",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:39.806906",
+      "last_seen": "2026-02-16T10:44:39.806922"
+    },
+    "https://techcrunch.com/2026/02/15/hardware-startups-in-semiconductors-and-chip-design-secure-major-funding-rounds": {
+      "headline": "Hardware startups in semiconductors and chip design secure major funding rounds",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:45.996579",
+      "last_seen": "2026-02-16T10:44:45.996594"
+    },
+    "https://techcrunch.com/2026/02/15/robotech-ipos-and-ma-activity-reflect-growing-confidence-in-automation-technologies": {
+      "headline": "Robotics IPOs and M&A activity reflect growing confidence in automation technologies",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:44:52.245532",
+      "last_seen": "2026-02-16T10:44:52.245548"
+    },
+    "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again": {
+      "headline": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:14:48.044461",
+      "last_seen": "2026-02-20T11:14:48.044478"
+    },
+    "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem": {
+      "headline": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:14:53.142918",
+      "last_seen": "2026-02-20T11:14:53.142933"
+    },
+    "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation": {
+      "headline": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:14:58.070420",
+      "last_seen": "2026-02-20T11:14:58.070436"
+    },
+    "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use": {
+      "headline": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:15:03.814403",
+      "last_seen": "2026-02-20T11:15:03.814427"
+    },
+    "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025": {
+      "headline": "AI systems helped deter Play Store malware in 2025, says Google",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:09.255059",
+      "last_seen": "2026-02-20T11:15:09.255073"
+    },
+    "https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business": {
+      "headline": "An AI data center boom is fueling Redwood’s energy storage business",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:14.800859",
+      "last_seen": "2026-02-20T11:15:14.800873"
+    },
+    "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window": {
+      "headline": "Second and last chance for innovators to win scaling perks: Belden extends nomination window",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:19.610281",
+      "last_seen": "2026-02-20T11:15:19.610301"
+    },
+    "https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others": {
+      "headline": "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:25.506537",
+      "last_seen": "2026-02-20T11:15:25.506554"
+    },
+    "https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory": {
+      "headline": "Toyota contracts seven Agility humanoid robots for Canadian factory",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:30.753557",
+      "last_seen": "2026-02-20T11:15:30.753571"
+    },
+    "https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court": {
+      "headline": "SpaceX’s Starbase city is getting its own court",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:35.594671",
+      "last_seen": "2026-02-20T11:15:35.594685"
+    },
+    "https://techcrunch.com/2026/02/19/major-tech-firms-accelerate-ai-integration-in-enterprise-platforms": {
+      "headline": "Major tech firms accelerate AI integration in enterprise platforms",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:51.836523",
+      "last_seen": "2026-02-20T11:15:51.836538"
+    },
+    "https://techcrunch.com/2026/02/19/robotics-and-automation-companies-see-increased-funding-and-product-launches": {
+      "headline": "Robotics and automation companies see increased funding and product launches",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:15:58.213291",
+      "last_seen": "2026-02-20T11:15:58.213306"
+    },
+    "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive": {
+      "headline": "Google VP warns that two types of AI startups may not survive",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:39.211229",
+      "last_seen": "2026-02-23T12:16:39.211244"
+    },
+    "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop": {
+      "headline": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:42.358105",
+      "last_seen": "2026-02-23T12:16:42.358119"
+    },
+    "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up": {
+      "headline": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:45.051609",
+      "last_seen": "2026-02-23T12:16:45.051631"
+    },
+    "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats": {
+      "headline": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:47.815064",
+      "last_seen": "2026-02-23T12:16:47.815081"
+    },
+    "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too": {
+      "headline": "Sam Altman would like to remind you that humans use a lot of energy, too",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:50.536570",
+      "last_seen": "2026-02-23T12:16:50.536583"
+    },
+    "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac": {
+      "headline": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:16:54.219984",
+      "last_seen": "2026-02-23T12:16:54.219997"
+    },
+    "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead": {
+      "headline": "China’s brain-computer interface industry is racing ahead",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:16:57.254573",
+      "last_seen": "2026-02-23T12:16:57.254588"
+    },
+    "https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back": {
+      "headline": "The 9,000-pound monster I don’t want to give back",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:17:00.331997",
+      "last_seen": "2026-02-23T12:17:00.332012"
+    },
+    "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash": {
+      "headline": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:17:03.287431",
+      "last_seen": "2026-02-23T12:17:03.287445"
+    },
+    "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app": {
+      "headline": "Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:17:06.445479",
+      "last_seen": "2026-02-23T12:17:06.445493"
+    },
+    "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere": {
+      "headline": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:17:10.639366",
+      "last_seen": "2026-02-23T12:17:10.639380"
+    },
+    "https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe": {
+      "headline": "Bill Gurley says that right now, the worst thing you can do for your career is play it safe",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:17:13.931397",
+      "last_seen": "2026-02-23T12:17:13.931411"
+    },
+    "https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers": {
+      "headline": "Quantonation’s double-sized second fund shows quantum still has believers",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:17:17.391922",
+      "last_seen": "2026-02-23T12:17:17.391937"
+    },
+    "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates": {
+      "headline": "TechCrunch Disrupt 2026: 6 days left to lock in the lowest rates",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:17:20.585883",
+      "last_seen": "2026-02-23T12:17:20.585899"
+    },
+    "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026": {
+      "headline": "TechCrunch Disrupt 2026: 7 days until ticket prices rise",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:17:23.847189",
+      "last_seen": "2026-02-23T12:17:23.847203"
+    },
+    "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports": {
+      "headline": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:09.326508",
+      "last_seen": "2026-02-24T10:41:09.326527"
+    },
+    "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability": {
+      "headline": "Google’s Cloud AI leads on the three frontiers of model capability",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:13.751570",
+      "last_seen": "2026-02-24T10:41:13.751587"
+    },
+    "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm": {
+      "headline": "Guide Labs debuts a new kind of interpretable LLM",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:18.363464",
+      "last_seen": "2026-02-24T10:41:18.363479"
+    },
+    "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public": {
+      "headline": "Finnish quantum unicorn IQM set to go public",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:22.652986",
+      "last_seen": "2026-02-24T10:41:22.653001"
+    },
+    "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push": {
+      "headline": "OpenAI calls in the consultants for its enterprise push",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:27.608563",
+      "last_seen": "2026-02-24T10:41:27.608578"
+    },
+    "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting": {
+      "headline": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:34.094733",
+      "last_seen": "2026-02-24T10:41:34.094751"
+    },
+    "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy": {
+      "headline": "AI agents could destroy the economy, raising concerns for investors",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:38.111749",
+      "last_seen": "2026-02-24T10:41:38.111769"
+    },
+    "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude": {
+      "headline": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:42.424564",
+      "last_seen": "2026-02-24T10:41:42.424580"
+    },
+    "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras": {
+      "headline": "Flock surveillance cameras under attack as Americans destroy devices, impacting security infrastructure investments",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:48.551950",
+      "last_seen": "2026-02-24T10:41:48.551964"
+    },
+    "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report": {
+      "headline": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, raising security concerns",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:41:52.973620",
+      "last_seen": "2026-02-24T10:41:52.973636"
+    },
+    "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products": {
+      "headline": "Apple might take a new approach to announcing its next products, signaling strategic shifts",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:42:00.771964",
+      "last_seen": "2026-02-24T10:42:00.771984"
+    },
+    "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all": {
+      "headline": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:42:04.757604",
+      "last_seen": "2026-02-24T10:42:04.757621"
+    },
+    "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots": {
+      "headline": "Uber aims to be a Swiss Army Knife for robotaxis, indicating autonomous vehicle market evolution",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:42:10.430383",
+      "last_seen": "2026-02-24T10:42:10.430399"
+    },
+    "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation": {
+      "headline": "Wispr Flow launches an Android app for AI-powered dictation, expanding enterprise AI tools",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:42:14.672600",
+      "last_seen": "2026-02-24T10:42:14.672618"
+    },
+    "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to": {
+      "headline": "Particle’s AI news app listens to podcasts for interesting clips, enhancing AI content curation",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:42:19.221641",
+      "last_seen": "2026-02-24T10:42:19.221657"
+    },
+    "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets": {
+      "headline": "Spotify rolls out AI-powered Prompted Playlists to the UK and other markets, expanding AI-driven music personalization",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:42:24.093832",
+      "last_seen": "2026-02-24T10:42:24.093850"
+    },
+    "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m": {
+      "headline": "Nvidia challenger AI chip startup MatX raised $500M",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:11.229299",
+      "last_seen": "2026-02-25T11:06:11.229316"
+    },
+    "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers": {
+      "headline": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:21.200242",
+      "last_seen": "2026-02-25T11:06:21.200258"
+    },
+    "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery": {
+      "headline": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:27.457222",
+      "last_seen": "2026-02-25T11:06:27.457239"
+    },
+    "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal": {
+      "headline": "Google adds a way to create automated workflows to Opal",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:33.870543",
+      "last_seen": "2026-02-25T11:06:33.870560"
+    },
+    "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes": {
+      "headline": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:41.889662",
+      "last_seen": "2026-02-25T11:06:41.889680"
+    },
+    "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model": {
+      "headline": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:47.479697",
+      "last_seen": "2026-02-25T11:06:47.479713"
+    },
+    "https://techcrunch.com/2026/02/24/large-language-models-llms-and-generative-ai": {
+      "headline": "Large language models (LLMs) and generative AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:06:59.009582",
+      "last_seen": "2026-02-25T11:06:59.009599"
+    },
+    "https://techcrunch.com/2026/02/24/ai-agent-platforms-and-applications": {
+      "headline": "AI agent platforms and applications",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:07:06.705797",
+      "last_seen": "2026-02-25T11:07:06.705813"
+    },
+    "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute": {
+      "headline": "AI regulation and policy changes affecting investments",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:07:12.026471",
+      "last_seen": "2026-02-25T11:07:12.026490"
+    },
+    "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai": {
+      "headline": "Nvidia has another record quarter amid record capex spends",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:56:57.116406",
+      "last_seen": "2026-02-26T10:56:57.116423"
+    },
+    "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors": {
+      "headline": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:00.526850",
+      "last_seen": "2026-02-26T10:57:00.526868"
+    },
+    "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would": {
+      "headline": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:04.089302",
+      "last_seen": "2026-02-26T10:57:04.089322"
+    },
+    "https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications": {
+      "headline": "Samsung shows off new display tech that adds a privacy screen to apps and notifications",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:07.933838",
+      "last_seen": "2026-02-26T10:57:07.933854"
+    },
+    "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach": {
+      "headline": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:10.950812",
+      "last_seen": "2026-02-26T10:57:10.950828"
+    },
+    "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process": {
+      "headline": "OpenAI COO says ads will be ‘an iterative process’",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:14.019034",
+      "last_seen": "2026-02-26T10:57:14.019052"
+    },
+    "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google": {
+      "headline": "Alphabet-owned robotics software company Intrinsic joins Google",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:17.414308",
+      "last_seen": "2026-02-26T10:57:17.414326"
+    },
+    "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging": {
+      "headline": "Gushwork bets on AI search for customer leads — and early results are emerging",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:20.905017",
+      "last_seen": "2026-02-26T10:57:20.905033"
+    },
+    "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs": {
+      "headline": "US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:25.622000",
+      "last_seen": "2026-02-26T10:57:25.622020"
+    },
+    "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android": {
+      "headline": "Gemini can now automate some multi-step tasks on Android",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:29.249728",
+      "last_seen": "2026-02-26T10:57:29.249745"
+    },
+    "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve": {
+      "headline": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:33.797938",
+      "last_seen": "2026-02-26T10:57:33.797958"
+    },
+    "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia": {
+      "headline": "Inside the story of the US defense contractor who leaked hacking tools to Russia",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:38.629884",
+      "last_seen": "2026-02-26T10:57:38.629902"
+    },
+    "https://techcrunch.com/2026/02/25/nvidia-has-another-record-quarter-amid-record-capex-spends-ai": {
+      "headline": "AI chip developments (GPUs, TPUs, AI accelerators) remain a key focus for hardware investors",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:57:44.077277",
+      "last_seen": "2026-02-26T10:57:44.077293"
+    },
+    "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next": {
+      "headline": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:10.754515",
+      "last_seen": "2026-02-27T11:13:10.754532"
+    },
+    "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms": {
+      "headline": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:17.256631",
+      "last_seen": "2026-02-27T11:13:17.256647"
+    },
+    "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery": {
+      "headline": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:21.692849",
+      "last_seen": "2026-02-27T11:13:21.692864"
+    },
+    "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers": {
+      "headline": "Sophia Space raises $10M seed to demo novel space computers",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:25.828689",
+      "last_seen": "2026-02-27T11:13:25.828706"
+    },
+    "https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade": {
+      "headline": "Memory shortage could cause the biggest dip in smartphone shipments in over a decade",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:29.596070",
+      "last_seen": "2026-02-27T11:13:29.596088"
+    },
+    "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture": {
+      "headline": "Mistral AI inks a deal with global consulting giant Accenture",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:33.541833",
+      "last_seen": "2026-02-27T11:13:33.541851"
+    },
+    "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers": {
+      "headline": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:37.322488",
+      "last_seen": "2026-02-27T11:13:37.322504"
+    },
+    "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation": {
+      "headline": "Google launches Nano Banana 2 model with faster image generation",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:40.954618",
+      "last_seen": "2026-02-27T11:13:40.954633"
+    },
+    "https://techcrunch.com/2026/02/26/spyware-maker-sentenced-to-prison-in-greece-for-wiretapping-politicians-and-journalists": {
+      "headline": "Spyware makers sentenced to prison in Greece for wiretapping politicians and journalists",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:44.654623",
+      "last_seen": "2026-02-27T11:13:44.654640"
+    },
+    "https://techcrunch.com/2026/02/26/x-tries-wooing-advertisers-by-letting-them-reuse-creative-assets-from-other-platforms": {
+      "headline": "X tries wooing advertisers by letting them reuse creatives made for other platforms",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:48.642201",
+      "last_seen": "2026-02-27T11:13:48.642216"
+    },
+    "https://techcrunch.com/2026/02/26/cisco-says-hackers-have-been-exploiting-a-critical-bug-to-break-into-big-customer-networks-since-2023": {
+      "headline": "Cisco says hackers have been exploiting a critical bug to break into big customer networks since 2023",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:53.061141",
+      "last_seen": "2026-02-27T11:13:53.061157"
+    },
+    "https://techcrunch.com/2026/02/26/a-vc-and-some-big-name-programmers-are-trying-to-solve-open-sources-funding-problem-permanently": {
+      "headline": "A VC and some big-name programmers are trying to solve open source’s funding problem, permanently",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:13:56.626120",
+      "last_seen": "2026-02-27T11:13:56.626149"
+    },
+    "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut": {
+      "headline": "Self-driving truck startup Einride raises $113M PIPE ahead of public debut",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:14:01.856205",
+      "last_seen": "2026-02-27T11:14:01.856221"
+    },
+    "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report": {
+      "headline": "In Brief: PayPal might not be looking to sell itself: Report",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:14:05.175107",
+      "last_seen": "2026-02-27T11:14:05.175123"
+    },
+    "https://techcrunch.com/2026/02/26/ebay-to-lay-off-800-staff": {
+      "headline": "In Brief: eBay to lay off 800 staff",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:14:08.589186",
+      "last_seen": "2026-02-27T11:14:08.589201"
+    },
+    "https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids": {
+      "headline": "Most Popular: It’s time to pull the plug on plug-in hybrids",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:14:13.295341",
+      "last_seen": "2026-02-27T11:14:13.295358"
+    },
+    "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate": {
+      "headline": "Most Popular: Grok is now pretty good at answering questions about Baldur’s Gate",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:14:19.552841",
+      "last_seen": "2026-02-27T11:14:19.552858"
+    },
+    "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon": {
+      "headline": "OpenAI reveals more details about its agreement with the Pentagon",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:47:01.415067",
+      "last_seen": "2026-03-02T09:47:01.415084"
+    },
+    "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta": {
+      "headline": "The billion-dollar infrastructure deals powering the AI boom",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:04.694747",
+      "last_seen": "2026-03-02T09:47:04.694774"
+    },
+    "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute": {
+      "headline": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:47:09.130721",
+      "last_seen": "2026-03-02T09:47:09.130746"
+    },
+    "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself": {
+      "headline": "AI: The trap Anthropic built for itself",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:12.324188",
+      "last_seen": "2026-03-02T09:47:12.324208"
+    },
+    "https://techcrunch.com/2026/03/01/investors-spill-what-they-aren-t-looking-for-anymore-in-ai-saas-companies": {
+      "headline": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:47:17.786886",
+      "last_seen": "2026-03-02T09:47:17.786920"
+    },
+    "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok": {
+      "headline": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:22.414535",
+      "last_seen": "2026-03-02T09:47:22.414548"
+    },
+    "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk": {
+      "headline": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:25.483526",
+      "last_seen": "2026-03-02T09:47:25.483547"
+    },
+    "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank": {
+      "headline": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:28.810686",
+      "last_seen": "2026-03-02T09:47:28.810706"
+    },
+    "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order": {
+      "headline": "India disrupts access to popular developer platform Supabase with blocking order",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:31.714536",
+      "last_seen": "2026-03-02T09:47:31.714552"
+    },
+    "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets": {
+      "headline": "OpenAI fires employee for using confidential info on prediction markets",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:34.651215",
+      "last_seen": "2026-03-02T09:47:34.651234"
+    },
+    "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history": {
+      "headline": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:47:39.258994",
+      "last_seen": "2026-03-02T09:47:39.259022"
+    },
+    "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center": {
+      "headline": "Stripe wants to turn your AI costs into a profit center",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:21.091637",
+      "last_seen": "2026-03-03T13:41:21.091654"
+    },
+    "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government": {
+      "headline": "No one has a good plan for how AI companies should work with the government",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:25.167590",
+      "last_seen": "2026-03-03T13:41:25.167606"
+    },
+    "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups": {
+      "headline": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:29.141621",
+      "last_seen": "2026-03-03T13:41:29.141637"
+    },
+    "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599": {
+      "headline": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:33.351968",
+      "last_seen": "2026-03-03T13:41:33.351988"
+    },
+    "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e": {
+      "headline": "Apple bakes in AI smarts into its new $599 iPhone 17e",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:37.561526",
+      "last_seen": "2026-03-03T13:41:37.561543"
+    },
+    "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage": {
+      "headline": "Anthropic’s Claude reports widespread outage",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:41.389228",
+      "last_seen": "2026-03-03T13:41:41.389244"
+    },
+    "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue": {
+      "headline": "In Brief: Cursor has reportedly surpassed $2B in annualized revenue",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:45.188434",
+      "last_seen": "2026-03-03T13:41:45.188450"
+    },
+    "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens": {
+      "headline": "Startups: MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:49.552435",
+      "last_seen": "2026-03-03T13:41:49.552452"
+    },
+    "https://techcrunch.com/2026/03/02/parade-s-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding": {
+      "headline": "Venture: Parade’s Cami Tellez announces new creator economy marketing platform, $4M in funding",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:41:56.189893",
+      "last_seen": "2026-03-03T13:41:56.189908"
+    },
+    "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay": {
+      "headline": "In Brief: Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:42:00.347458",
+      "last_seen": "2026-03-03T13:42:00.347475"
+    },
+    "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data": {
+      "headline": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:42:04.246633",
+      "last_seen": "2026-03-03T13:42:04.246651"
+    },
+    "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth": {
+      "headline": "Security: A new app alerts you if someone nearby is wearing smart glasses",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:42:08.155847",
+      "last_seen": "2026-03-03T13:42:08.155866"
+    },
+    "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes": {
+      "headline": "Security: Hackers and internet outages hit Iran amid US air strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:42:12.499582",
+      "last_seen": "2026-03-03T13:42:12.499600"
+    },
+    "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch": {
+      "headline": "AI: Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:42:17.163917",
+      "last_seen": "2026-03-03T13:42:17.163932"
+    },
+    "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push": {
+      "headline": "Alibaba’s Qwen tech lead steps down after major AI push",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:20.337482",
+      "last_seen": "2026-03-04T09:22:20.337506"
+    },
+    "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round": {
+      "headline": "Anduril aims at $60 billion valuation in new funding round",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:23.974645",
+      "last_seen": "2026-03-04T09:22:23.974663"
+    },
+    "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down": {
+      "headline": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:27.650259",
+      "last_seen": "2026-03-04T09:22:27.650273"
+    },
+    "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability": {
+      "headline": "Claude Code rolls out a voice mode capability",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:30.975754",
+      "last_seen": "2026-03-04T09:22:30.975772"
+    },
+    "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage": {
+      "headline": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:34.361715",
+      "last_seen": "2026-03-04T09:22:34.361736"
+    },
+    "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5": {
+      "headline": "Apple unveils new MacBook Air and MacBook Pro with M5",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:38.516585",
+      "last_seen": "2026-03-04T09:22:38.516603"
+    },
+    "https://techcrunch.com/2026/03/03/activist-investor-elliott-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth": {
+      "headline": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:44.726035",
+      "last_seen": "2026-03-04T09:22:44.726050"
+    },
+    "https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran": {
+      "headline": "Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:49.298467",
+      "last_seen": "2026-03-04T09:22:49.298483"
+    },
+    "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid": {
+      "headline": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:22:54.771067",
+      "last_seen": "2026-03-04T09:22:54.771084"
+    },
+    "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict": {
+      "headline": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:01.214249",
+      "last_seen": "2026-03-04T09:23:01.214266"
+    },
+    "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros": {
+      "headline": "AI infrastructure investments and chip developments (e.g., GPU/TPU supply/demand)",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:23:09.997517",
+      "last_seen": "2026-03-04T09:23:09.997533"
+    },
+    "https://techcrunch.com/2026/03/03/data-center-developments-and-investments-for-ai-infrastructure": {
+      "headline": "Data center developments and investments for AI infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:16.977762",
+      "last_seen": "2026-03-04T09:23:16.977779"
+    },
+    "https://techcrunch.com/2026/03/03/chip-manufacturing-and-semiconductor-news-impacting-ai-hardware-supply-chain": {
+      "headline": "Chip manufacturing and semiconductor news impacting AI hardware supply chain",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:21.131270",
+      "last_seen": "2026-03-04T09:23:21.131285"
+    },
+    "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices": {
+      "headline": "Enterprise AI software and platform strategic moves (implied in AI integration trends)",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:25.257362",
+      "last_seen": "2026-03-04T09:23:25.257378"
+    },
+    "https://techcrunch.com/2026/03/03/cloud-computing-infrastructure-developments-for-ai": {
+      "headline": "Cloud computing infrastructure developments for AI",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:30.334490",
+      "last_seen": "2026-03-04T09:23:30.334508"
+    },
+    "https://techcrunch.com/2026/03/03/supply-chain-and-manufacturing-developments-affecting-hardware-and-semiconductor-sectors": {
+      "headline": "Supply chain and manufacturing developments affecting hardware and semiconductor sectors",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:23:34.853864",
+      "last_seen": "2026-03-04T09:23:34.853882"
+    },
+    "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers": {
+      "headline": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:08.618410",
+      "last_seen": "2026-03-05T11:44:08.618430"
+    },
+    "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies": {
+      "headline": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:13.143339",
+      "last_seen": "2026-03-05T11:44:13.143355"
+    },
+    "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20": {
+      "headline": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:16.311487",
+      "last_seen": "2026-03-05T11:44:16.311541"
+    },
+    "https://techcrunch.com/2026/03/04/google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users": {
+      "headline": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:19.714194",
+      "last_seen": "2026-03-05T11:44:19.714207"
+    },
+    "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing": {
+      "headline": "The US military is still using Claude — but defense-tech clients are fleeing",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:22.988710",
+      "last_seen": "2026-03-05T11:44:22.988729"
+    },
+    "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report": {
+      "headline": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:27.110518",
+      "last_seen": "2026-03-05T11:44:27.110531"
+    },
+    "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599": {
+      "headline": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:30.560879",
+      "last_seen": "2026-03-05T11:44:30.560897"
+    },
+    "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation": {
+      "headline": "Decagon completes first tender offer at $4.5B valuation",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:33.641532",
+      "last_seen": "2026-03-05T11:44:33.641544"
+    },
+    "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals": {
+      "headline": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:44:36.895014",
+      "last_seen": "2026-03-05T11:44:36.895033"
+    },
+    "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion": {
+      "headline": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:40.050614",
+      "last_seen": "2026-03-05T11:44:40.050639"
+    },
+    "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal": {
+      "headline": "Most Popular: ChatGPT uninstalls surged by 295% after DoD deal",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:44:42.808262",
+      "last_seen": "2026-03-05T11:44:42.808279"
+    },
+    "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse": {
+      "headline": "Most Popular: SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:44:49.161559",
+      "last_seen": "2026-03-05T11:44:49.161574"
+    },
+    "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air": {
+      "headline": "Robotics company news, funding, and product launches",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:44:55.823224",
+      "last_seen": "2026-03-05T11:44:55.823241"
+    },
+    "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court": {
+      "headline": "Anthropic to challenge DOD’s supply chain label in court",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:16.797381",
+      "last_seen": "2026-03-06T10:56:16.797398"
+    },
+    "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers": {
+      "headline": "AWS launches a new AI agent platform specifically for healthcare",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:20.258072",
+      "last_seen": "2026-03-06T10:56:20.258088"
+    },
+    "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk": {
+      "headline": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:23.744730",
+      "last_seen": "2026-03-06T10:56:23.744752"
+    },
+    "https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months": {
+      "headline": "Nominal hits $1B valuation, raises $155M in 10 months",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:27.177657",
+      "last_seen": "2026-03-06T10:56:27.177672"
+    },
+    "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models": {
+      "headline": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:31.080952",
+      "last_seen": "2026-03-06T10:56:31.080969"
+    },
+    "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions": {
+      "headline": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:34.731133",
+      "last_seen": "2026-03-06T10:56:34.731149"
+    },
+    "https://techcrunch.com/2026/03/05/google-says-half-of-all-zero-days-it-tracked-in-2025-targeted-buggy-enterprise-tech": {
+      "headline": "Google says half of all zero-days it tracked in 2025 targeted buggy enterprise tech",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:38.286060",
+      "last_seen": "2026-03-06T10:56:38.286076"
+    },
+    "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year": {
+      "headline": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:42.631727",
+      "last_seen": "2026-03-06T10:56:42.631744"
+    },
+    "https://techcrunch.com/2026/03/05/ai-chip-developments-gpus-tpus-ai-accelerators": {
+      "headline": "AI chip developments (GPUs, TPUs, AI accelerators)",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:56:52.180198",
+      "last_seen": "2026-03-06T10:56:52.180213"
+    },
+    "https://techcrunch.com/2026/03/07/openai-hardware-exec-caitlin-kalinowski-quits-in-response-to-pentagon-deal": {
+      "headline": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:38.508018",
+      "last_seen": "2026-03-09T12:10:38.508033"
+    },
+    "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department": {
+      "headline": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:41.603106",
+      "last_seen": "2026-03-09T12:10:41.603127"
+    },
+    "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks": {
+      "headline": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:44.702602",
+      "last_seen": "2026-03-09T12:10:44.702619"
+    },
+    "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles": {
+      "headline": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:47.669366",
+      "last_seen": "2026-03-09T12:10:47.669388"
+    },
+    "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package": {
+      "headline": "Google just gave Sundar Pichai a $692M pay package",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:50.957812",
+      "last_seen": "2026-03-09T12:10:50.957839"
+    },
+    "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen": {
+      "headline": "A roadmap for AI, if anyone will listen",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:54.511061",
+      "last_seen": "2026-03-09T12:10:54.511087"
+    },
+    "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts": {
+      "headline": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:10:58.027911",
+      "last_seen": "2026-03-09T12:10:58.027929"
+    },
+    "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again": {
+      "headline": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:11:01.477506",
+      "last_seen": "2026-03-09T12:11:01.477519"
+    },
+    "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit": {
+      "headline": "TechCrunch Mobility: Rivian’s R2 gambit",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:10.277852",
+      "last_seen": "2026-03-09T12:11:10.277865"
+    },
+    "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor": {
+      "headline": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:11:13.868294",
+      "last_seen": "2026-03-09T12:11:13.868319"
+    },
+    "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation": {
+      "headline": "In Brief: Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:17.524189",
+      "last_seen": "2026-03-09T12:11:17.524216"
+    },
+    "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work": {
+      "headline": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:20.910749",
+      "last_seen": "2026-03-09T12:11:20.910769"
+    },
+    "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps": {
+      "headline": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:26.100900",
+      "last_seen": "2026-03-09T12:11:26.100973"
+    },
+    "https://techcrunch.com/2026/03/08/anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks": {
+      "headline": "Robotics & Automation: No specific headlines, but implied interest in autonomous and industrial robotics",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:39.627362",
+      "last_seen": "2026-03-09T12:11:39.627386"
+    },
+    "https://techcrunch.com/2026/03/08/supply-chain-and-manufacturing-developments-in-ai-hardware-and-chips": {
+      "headline": "Supply chain and manufacturing developments in AI hardware and chips",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:11:47.470641",
+      "last_seen": "2026-03-09T12:11:47.470659"
+    },
+    "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code": {
+      "headline": "Anthropic launches code review tool to check flood of AI-generated code",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:31.968375",
+      "last_seen": "2026-03-10T09:59:31.968418"
+    },
+    "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents": {
+      "headline": "OpenAI acquires Promptfoo to secure its AI agents",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:35.250671",
+      "last_seen": "2026-03-10T09:59:35.250687"
+    },
+    "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation": {
+      "headline": "Anthropic sues Defense Department over supply-chain risk designation",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:39.168828",
+      "last_seen": "2026-03-10T09:59:39.168845"
+    },
+    "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning": {
+      "headline": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:42.402962",
+      "last_seen": "2026-03-10T09:59:42.402979"
+    },
+    "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation": {
+      "headline": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:45.684263",
+      "last_seen": "2026-03-10T09:59:45.684320"
+    },
+    "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage": {
+      "headline": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:59:50.040073",
+      "last_seen": "2026-03-10T09:59:50.040092"
+    },
+    "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say": {
+      "headline": "AI company funding, valuations, and IPOs",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:59:58.715549",
+      "last_seen": "2026-03-10T09:59:58.715569"
+    },
+    "https://techcrunch.com/2026/03/09/large-language-models-llms-and-generative-ai": {
+      "headline": "Large language models (LLMs) and generative AI",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:00:04.342432",
+      "last_seen": "2026-03-10T10:00:04.342449"
+    },
+    "https://techcrunch.com/2026/03/09/data-center-developments-and-investments-for-ai": {
+      "headline": "Data center developments and investments for AI",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:00:09.960979",
+      "last_seen": "2026-03-10T10:00:09.961006"
+    },
+    "https://techcrunch.com/2026/03/09/industrial-automation-and-autonomous-vehicle-developments": {
+      "headline": "Industrial automation and autonomous vehicle developments",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:00:17.177398",
+      "last_seen": "2026-03-10T10:00:17.177415"
+    },
+    "https://techcrunch.com/2026/03/09/enterprise-ai-software-and-platform-strategies": {
+      "headline": "Enterprise AI software and platform strategies",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:00:21.249225",
+      "last_seen": "2026-03-10T10:00:21.249254"
+    }
+  }
+}

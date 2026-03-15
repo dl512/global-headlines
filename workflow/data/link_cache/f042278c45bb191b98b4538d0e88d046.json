@@ -1,0 +1,35 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09868-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306433779/xpeng-w-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306425857/xpeng-w-next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306607384/xpeng-w-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306606839/xpeng-w-notice-of-board-meeting"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306433779/xpeng-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "小鵬汽車-W：截至二零二六年一月三十一日止之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:28:44.402659",
+      "last_seen": "2026-02-09T21:28:44.402667"
+    },
+    "https://news.futunn.com/hk/notice/306425857/xpeng-w-next-day-disclosure-return": {
+      "headline": "小鵬汽車-W：翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:54:54.643356",
+      "last_seen": "2026-02-10T10:54:54.643372"
+    },
+    "https://news.futunn.com/hk/notice/306607384/xpeng-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "小鵬汽車-W：截至二零二六年二月二十八日止之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:33:14.571034",
+      "last_seen": "2026-03-06T11:33:14.571053"
+    },
+    "https://news.futunn.com/hk/notice/306606839/xpeng-w-notice-of-board-meeting": {
+      "headline": "小鵬汽車-W：董事會會議通告",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:33:15.940580",
+      "last_seen": "2026-03-06T11:33:15.940595"
+    }
+  }
+}

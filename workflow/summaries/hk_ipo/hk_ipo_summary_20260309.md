@@ -1,0 +1,5 @@
+## HK IPO News Summary
+
+- ESTUN (02715.HK) [debuted on March 9, 2026, closing down 13.9% at $13.22](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1507559/ipo-news/AAFN) from its listing price of $15.36, with 13.77 million shares traded and turnover of $203.98 million.
+- ZHAOWEI (02692.HK) [rose 3.1% to $73.5 at midday on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1507558/ipo-news/AAFN) on March 9, 2026, after opening at $78 (up 9.4% from its $71.28 listing price), with 4.02 million shares traded and turnover of $319.52 million.
+- ALSCO POOLING (02649.HK) [fell 39.1% to $6.7 at midday on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1507557/ipo-news/AAFN) on March 9, 2026, after opening at $7.5 (down 31.8% from its $11 listing price), with 16.28 million shares traded and turnover of $170.44 million.

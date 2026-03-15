@@ -1,0 +1,42 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09866-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306433809/nio-sw-inside-information-profit-alert-in-relation-to-fourth",
+    "https://news.futunn.com/hk/notice/306403655/nio-sw-voluntary-announcement-january-2026-delivery-update",
+    "https://news.futunn.com/hk/notice/306548631/nio-sw-date-of-board-meeting",
+    "https://news.futunn.com/hk/notice/306548581/nio-sw-voluntary-announcement-nio-s-subsidiary-enters-into-definitive",
+    "https://news.futunn.com/hk/notice/306570762/nio-sw-voluntary-announcement-february-2026-delivery-update"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306433809/nio-sw-inside-information-profit-alert-in-relation-to-fourth": {
+      "headline": "蔚來-SW：內幕消息 - 有關2025年第四季度的盈利預告",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:46.777370",
+      "last_seen": "2026-02-09T21:27:46.777377"
+    },
+    "https://news.futunn.com/hk/notice/306403655/nio-sw-voluntary-announcement-january-2026-delivery-update": {
+      "headline": "蔚來-SW：自願公告 - 2026年1月交付更新資料",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:53:20.473814",
+      "last_seen": "2026-02-10T10:53:20.473828"
+    },
+    "https://news.futunn.com/hk/notice/306548631/nio-sw-date-of-board-meeting": {
+      "headline": "蔚來-SW：董事會會議日期",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:58:39.971629",
+      "last_seen": "2026-02-27T11:58:39.971649"
+    },
+    "https://news.futunn.com/hk/notice/306548581/nio-sw-voluntary-announcement-nio-s-subsidiary-enters-into-definitive": {
+      "headline": "蔚來-SW：自願公告 - 蔚來子公司就22.57億元人民幣投資訂立最終協議",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:58:41.074847",
+      "last_seen": "2026-02-27T11:58:41.074863"
+    },
+    "https://news.futunn.com/hk/notice/306570762/nio-sw-voluntary-announcement-february-2026-delivery-update": {
+      "headline": "蔚來-SW：自願公告 - 2026年2月交付更新資料",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:06:02.521101",
+      "last_seen": "2026-03-02T10:06:02.521120"
+    }
+  }
+}

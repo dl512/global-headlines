@@ -1,0 +1,27 @@
+## Most Important Stories
+
+- **China executes four Myanmar mafia members in crackdown on cross-border crime**: China executed four Bai family mafia members as part of efforts to dismantle scam and violence networks linked to Myanmar.
+- **Hong Kong company’s Panama Canal port concession ruled unconstitutional**: A court declared a Hong Kong firm's rights to operate Panama Canal ports unconstitutional, raising regional trade uncertainties.
+- **Millions of Jeffrey Epstein files released, implicating global elites**: The US Department of Justice released millions of Epstein-related files, revealing ties to high-profile figures and sparking calls for full disclosure.
+- **UK’s Lord Mandelson resigns from Labour Party over Epstein payment revelations**: Lord Mandelson quit Labour after reports of financial payments from Jeffrey Epstein surfaced.
+- **Norway’s PM criticizes crown princess’s links to Epstein**: Norway’s prime minister acknowledged Crown Princess Mette-Marit’s “poor judgement” over her contacts with Jeffrey Epstein.
+- **Russian drone strike kills 12 miners in Ukraine**: A Russian drone attack on a bus in Ukraine’s Dnipropetrovsk region killed 12 miners and injured at least 15.
+- **Israeli airstrikes in Gaza kill over 30, military acknowledges 70,000 total deaths**: Israeli strikes resulted in the deadliest day in months in Gaza, with the military now recognizing 70,000 deaths since the conflict began.
+- **Iran warns US attack would trigger regional war, but signals openness to negotiations**: Iran’s Supreme Leader threatened regional war if attacked, while top diplomats expressed optimism for US talks despite military buildup.
+- **Iranian protester Erfan Soltani released on bail amid execution fears**: Erfan Soltani, previously reported sentenced to death, was released on bail as Iran faces ongoing protest crackdowns.
+- **India faces deadly snakebite crisis and Delhi water shortage from river pollution**: India struggles with tens of thousands of annual snakebite deaths and a severe water crisis in Delhi due to Yamuna River pollution.
+- **Hundreds feared dead after mine collapse in eastern Congo**: A mining disaster in eastern Congo has left hundreds feared dead, with rescue efforts ongoing.
+- **US President Donald Trump’s threatened tariffs on Cuban oil put Mexico in a bind**: US President Donald Trump’s proposed tariffs on oil exports to Cuba complicate Mexico’s regional economic interests.
+- **US President Donald Trump renames Kennedy Center, announces two-year closure for renovations**: The Kennedy Center in Washington DC will close for renovations and be renamed after US President Donald Trump, sparking controversy.
+- **Sheikh Tahnoon of UAE buys major stake in Trump crypto company**: UAE’s Sheikh Tahnoon bin Zayed Al Nahyan acquired a 49% stake in US President Donald Trump’s World Liberty Financial.
+- **US House Speaker Johnson ‘confident’ government shutdown will end by Tuesday**: Speaker Mike Johnson expects the partial US government shutdown to end soon, pending a House vote on a Senate spending package.
+- **Democrat Christian Menefee wins Texas House seat, narrowing GOP majority**: Christian Menefee’s victory in Texas’s 18th Congressional District narrows the Republican majority in the US House.
+- **India pushes rare earths and data centers amid global tensions**: India’s new budget boosts infrastructure and strategic sectors like rare earths and semiconductors to attract foreign investment.
+- **Costa Rica elections dominated by crime and inequality concerns**: Rising crime and public disenchantment are key issues ahead of Costa Rica’s upcoming elections.
+- **Animated film ‘KPop Demon Hunters’ becomes global sensation, wins first K-pop Grammy**: Netflix’s “KPop Demon Hunters” topped charts and became the first K-pop song to win a Grammy, reflecting Korean culture’s global rise.
+- **Bad Bunny makes Grammy history with all-Spanish Album of the Year win**: Bad Bunny became the first artist to win Album of the Year at the Grammys with an all-Spanish record.
+- **Olivia Dean named best new artist at 2026 Grammy Awards**: British singer Olivia Dean won the Grammy for best new artist, marking her breakout year.
+- **Beyoncé’s country album prompts Grammy category split**: The Grammys split best country album into traditional and contemporary categories after Beyoncé’s crossover win.
+- **Australian snowboarder dies in Japan ski lift accident**: An Australian snowboarder was killed after becoming caught on a ski lift in Japan.
+- **AI-generated schoolgirl meme ‘Amelia’ spreads among far-right groups**: A viral AI-generated meme is raising concerns over extremist content online.
+- **Iran faces ongoing internet blackouts and protest crackdowns**: Iran’s internet remains unreliable amid government censorship and suppression of dissent.

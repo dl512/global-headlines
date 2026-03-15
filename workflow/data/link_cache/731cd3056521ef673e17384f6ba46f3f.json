@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02665-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306097103/seyond-list-of-directors-and-their-roles-and-functions",
+    "https://news.futunn.com/hk/notice/306097096/seyond-terms-of-reference-of-the-nomination-committee",
+    "https://news.futunn.com/hk/notice/306622299/voluntary-announcementinclusion-in-the-lists-of-eligible-securities-forsouthbound-trading"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306097103/seyond-list-of-directors-and-their-roles-and-functions": {
+      "headline": "圖達通：董事名單及其角色與職能",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:35:44.477732",
+      "last_seen": "2026-02-09T21:35:44.477745"
+    },
+    "https://news.futunn.com/hk/notice/306097096/seyond-terms-of-reference-of-the-nomination-committee": {
+      "headline": "圖達通：提名委員會職權範圍",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:00:56.530577",
+      "last_seen": "2026-02-10T11:00:56.530591"
+    },
+    "https://news.futunn.com/hk/notice/306622299/voluntary-announcementinclusion-in-the-lists-of-eligible-securities-forsouthbound-trading": {
+      "headline": "自願公告獲納入滬港通及深港通下港股通標的證券名單",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:45:07.440255",
+      "last_seen": "2026-03-09T12:45:07.440275"
+    }
+  }
+}

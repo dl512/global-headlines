@@ -1,0 +1,616 @@
+{
+  "website": "https://news.google.com/rss/search?q=Anthropic+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxouu0xmjlkeu5eouvtbnp3enjqtwfybjzhmetbtzzfm1vjzlzgzfowdvoyr0z6elfvszhxyzzwevzlyv9fnjfkduxjatrpelaymlfytc1nmmi0am53mdznee5krjnuqlz6ajlxn2u2wng3a3vzew9mmdvqtw11avzimmz2xzr3u25qampbswdqv19mems?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxpotrqekr5wfvpltlzskflsk5od0k0wtfonk1kvnrqzurqufnjzi1uzkdlctfnvjqtnlphcxbjehc1axbrtedudeiyegsydkplvfdmvxdcmhrxwg9qofrpnej3ovf3v1pybhvwugs5aurvnnlisxbnous0yumytfb3aknmegtmqmtrdhl4bkp3tetkadluoxnydevrvq?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqx0c2mgdoslpbd01qx1zuzhv6zxpyzld1umfttnpmawhtq3dpq3ffzgdzwghvmfm1dgfrcmixy2m4qmzleth5nlptvu9tbmnnvfbuaxpvz29fnxjkew9xvwo5nnzjbklxngtrekxdsetlsvvlcke0qzrqqm1hyjgxmwlpovfbvtb6axbxwgxhm3fdrxdjdjvpta?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5kulnoyk1vlvzwc204oefkbtvrn3jtchl4nc1kr1bwmthkvfzqzwloouwxrjrpqulmnw5tuzjvnzlvthzmrdvqnvnuunhyzlheseu4y0zyrm9mzk91t25gogvmt1gzvu9et3hjsjlvy0hfaxjnngjwq3v6euu?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpwxzmm1fhvtvjzmdkehbnr1ltrldkofrsvejmevzzcv9lvxlitfbzvnfnqljwdhjhdzllq09sa3bdwdhdz2rlcmjhsuv3mhlntxfankj5zhzusvm1yxbwmldpvutvrhhmbtzeyjdrzgfhq0cxuwtlatzjos11be54qlvyt0jytkhdevfpvkhwdkjwevhwc3y5behn?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbfv3y2u3mtmi1ottbetxbdohq5chuzau9evwu3vdbzrgdurnetvgr5m1pybnjoqkvyemz4df9odflwvfzcdkjkue4zavvfcjdqzmeybgdyutlvvtrirw1pzktrbv9zqkzlmwvtr0rmqudrqkpfotbjzlhb?oc=5",
+    "https://news.google.com/rss/articles/cbmihgnbvv95cuxntgpqq0tlyxawy3gyne04y19zm2linu9jcll3dji3ugfzu291d2han2pkmnz5uehwcllfs3jvec1sbvlisfbwrjzsmuvhazradtfstudssdhnswzvs2nnsmdktw1wagnfrg1nwc1qdwntrvlhlvrbujfnrmhxb0d0zmvzugnxt09tnev0m2k1cjlrq3ryd1zrn2dvnnvsstrrmw5pvhl2adblbgpcu1c1ltqxbevwa0xqbwrjqlndu1lfakpwmnntui16vetkqmnrblu2vjfpczjwb0rxtenhttzkmmc0skvzsjf2se5rvljvdnz6cw5vsww5yldoahkxqtnmqkhra0zhuvnedunetev2tmdbdnfsb2nqvetabxlkmw4ywfhkv3vweg92vwham3hpbhjub0z6v1lweflyrnnknepcqwhwv1jizglwnhvzvu16blpqowdzdzrtegt3t3rtb01voxcxrkq2rmxeck9ramtbuknydnn0rfverwzlwwxloee?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpvww1yk5ptwh4rmktltg2og1jndlybgy4vutyml94nxn5a1n0b0m3s2x4wnrtbktvwuj4vxzjwnhlagzscxnnclnyser2bffwcg1iove3mlnhbw5grl9lwk5pzevqqmrta2tqyjc3dmx2rfvebjfmamrynwlrstdgx2fwvzkxewuyotnkodi3bex2q3zvuwrvcmnpv0lpsufucxnazdnrbjdfu3rmu1jottbouhpzdw5cuhjpbtjwtq?oc=5",
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxqv3dnotutm2i4bxzwynndsjyzakk0shrncmxru1bxt0g3vkjqbkyxugdhsv9kdhy0ny1jenrdoddlqzvqcvzpbfhhdtlhdf9rzlh5vda1tjvjne1sbmpkogjrd2d0lve0cxpbuhq3vhn4zeq4yuhsaenlcxfgy1pyselxogtnwe4ywnhkotrhu3dqzll3rwyzve9ya21lzjdtsnnhuvjjn0vqn2jyzwutekhcsgntnxo5rlzora?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnn01kejbewe1rq0tpsgxtai1jes1gtgxzt2ftdtvnqu5pvvpqylpkwg5nn2o3rtnkmmzhx1kycdfiwjbvutqtwenmbze3z2u3qs1uakzivjbbwldjzuxyv1exmmdnzm9rms1jtkmzy1bxwvl3wmd1dfnudhhoqmhywwjtanlfa3hqegctwxqwna?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxqmlrpufhfothxng40r2rkag43yutovg9kselmddnin1y2bhnutexfwgt4b2l3etm0agxtmlvacjc2cjdyq2l0dwctsllwlxgwa1nobnjru2z5owpjrvbjutjpbg93medauhlnm1bwefbuv0hvc19ivjf1metnbxjkoa?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxoqxntauf1skzwa0szufbdmlloytnzmfltahe1zg92alnscl9wb0hurkrhxzk1r2x0rmxxzhdvckzloe1rt3zoewtbtjz6vgnqbxdss0tiner3u0uyrunrqu8zencxuk4ybkdecetmu0lsbzbkcznqsxrluzjoy3r2mufjcthinmzvtxv2ytgyclpdc3f4nndhs202si1hn1y2twvtvezgq2w?oc=5",
+    "https://news.google.com/rss/articles/cbmigajbvv95cuxqukrnve1un1vmderuouhunzn4zlizaehdaen3umjadwj3cunisejkufbnbtvdykw0cnfjoxhmmew3wlhxsnjfb2rylwvsq2hyb1zymthhu2hit0g0dmtlb1njdlvktzngdmdhruljcmxtcjjpyuh0tum2tjhmz0pxx3fxcwkwnl95dddtylvzbtvftk1fufjvqk1safk1rw1mawzyrnk4q3izqtvmb19lqvnqvffxuwqtym9idlnnvwm5swr0exvjnjhqdhvlrkxku2rvekq3vgrtzknpa1qwm08waff5emhttxzxemvtuklxudnteg5vwvbucvq0d2dp?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxnd1zytwtur1bbc0tttwk1x3rqnmplr3bhm2d4dhu5egdfnlg1nzq5rvu5d016yzgxcunlwxywcgpmnwl3uhdsumkybktduhdimtfjdlhyskp5rjvvbzc0y01zzdzhzxrfzu04dvdicjhuvhc2snnkovzssvrdzfrou2r5d0ver3zrekh3utffa3lxetvmuxhtq2jwvzvtdvjmsldmaurovfc4ruzjrtrjrxzwvktqlv9zszrusjlfbutrvlnzy2vmwf9veefhz182n1dzchu4qq?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxtfbuzljzd1hsbdzkndataefong90lxd0y2z3y3dtdwdksuncwtl5de12vfpzqzg3vkvacuzqowdxlutbn2vytmtubvbmdehbtmhnclzktxp5rxi0rejsvunsbfvmvutbm0tvu1nnyvlzzk00venbave?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqy29cclhqmuvddlbooemwluzfdnfsqkfrtelzoc1num1idwi2t0jlamvwtzluzmyyavltrhjqewnlandnrunrckpkshbkm0h0de1vn0hfywdhthzqvtizzxi4v3h4dek0ng1gnevxymryevvlmkt3s1pjrvjjctjsevv6mu1ftwy0cmetowkzelrkztn0b2pqrxhxtgftuhdvuvr5yvvnvkvjslldlue?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxnm0prnlvtwc1qwjiwrgjcsg1tngj1nww3se14mko1bkpsbupfchrtsfb0bvczuvv4txiyuetulwhumhvpa3hewutwdtnkwwsxthzlutk1vhfbqu9xaglqsfdkbez6dhzfvnj1cut4s2zxnufzzxdsmjvtsfloz045cgncrhpfeetzm2p3dkjhyzzkzy1itnjfqxdr?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqeefuoxjyqmplwfpzyxnkbnhjnwduwkjwout2mejfemdaajvid295wvj5rgvjtup1nedymgu2mvhpoxfnq1e0smhksmpcvmzoqwx3yurymupgwep2nfrrs3ljdl9ir0ppemswzkzozlaymdlytljwbnexn05anlvobwo1nu1lrja?oc=5",
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxnewuwagpfsutfenuxavqwbzm3vuy5n1g2x0rlttvja3nnamw2a1a5nlhoeupln1rjddm3bwditlbuog0znhnasfrkclc5n19snhf5vnhzu0zrtmm2r0vgoxz1blpuc0m2mefxceply045eld1x1n5ofe5ze52v0f1btlwoe5eswzdethcsevtuejttxrvd0c1mhdcyxrsagrfvutvdtjdemnjmkfht3g1ykt2du1kewvlmnr0dlc2recwzk5bbejtmezazkptuq?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnaxy3cusxbghpvw9tuhayc0mwnfleoujjrvfxyvbhntbzzdnkakxytw4yenq0n3numgk0zk1kbhvyvmprswtjqzk3dgzjruq1qwhvbi00unbjwlhsb0lpqnfycdqxuw9bwfmteevfekdvsg5acdrhu1pdqxb0m2m2wlhqcle1vgjfsunxoxrzymi2thldywp4mzlucgdlwnb1enjpuxvuclbvzu5o?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxoujbxblvtq3lkvnhqadjwbvrcrexsbfjvnuv1lwhln21mnvjxr1n4ulcxyw9kz09dexjmtvpkwwg1wtf6advrbg1vlujfwvhknxlcvtdku2j3ndbncf9srgpsc2ldovfuskxfedbnywpvtzrfzdzrvlzpahbtag4znmpcoeo5mhbrzkvfy1jpngnwmmnz?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxnawhdzu5kug5foeh0sgw2ue1nbkzpngftb0dlaenxswg2slpyazhvmxj1axrbwk5fyufxwghpu28xdkzymvfsbwqzc29novuxylboy1rpaudycllqdfnkoxffsutkbl9wahjybnlicxzty2tltk5iu1k0zlb1qjbiwvbxogjsv1zlzmvxltjyserpzgdezhhrcfnjewxkae9hznvjwtzyszdyvjdfnumydvnfrgter2gwbkkw0ghaaufvx3lxtfbjww5oqnp6zwthvkf3rlrqz19jdzvyd3lfri1zqwlqywxft3jmnucxnelwrktowku0q1dqrzq4y2twn0tsvhf0nurztnnswkpztm9omzj6vkw0m1i2ttjps05bcjffmu1iwdzecw5tsuitmurinflsvdzack5ubtruvwzrmmxmuc12uw9iwtvcrmhgawdjawf0etz6qvhwnkc1cfdiagfvcjhycuxrcfu4c2hvzxhirxpmxzfxvk85xw?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfa1eux0znzpqnr3vzkxczjuvnlxanrruhfqyvjlwhvoetz3the1u3voq2tjava5a3duyi13dedtm0fqrg5pvhvoy244dektneyyd215uzc1dffzvhgtttfvsmfpvm5odk1lzek4d1rgujduefphekxhcez6rq?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpbhlhzknxqw5aqnl3rnfpnhhltm5sttr3d05vvxlfvtdmlxutvxrvrjjmten6mwvmsfl5dmxoav9cwthbr0ddchdswdfuzvdyenpirljhcffsnth4dgxmynvmtvrxaxhpce1qvtczd09tzuxizmktx3vmzxpyt05xnhr6uvlysm1srkhytfktzhrsazybqvvfexfmtmp3cv95rndsz3vcbfjfwhayeki2ngjhyzflstbjmnvbshhwbffnrnhlzxpovxpnnvlfv190sgteckc0oxbpwxbjwdzkcha0wni3utblcwozzmn3dxiwzmvsn3nsawhsy2dgs3frumztam5pqi1pmdrsu0p0emrcm09xulrqbxvjdnpluktyaxdyeg9cx2lr?oc=5",
+    "https://news.google.com/rss/articles/cbmitwnbvv95cuxor0jhvkfsnkxxvhdhm2wwsglnwg1drmtrqui0eu05dwvqz3jqemxcx3voznp6nxztqupdegxvnxdbvfpszgixwhytrznamez0swj2wegzberic1bmmgxxedvjq21oaehrsxpnq1o2y1v1djfbzmdzve96rfpoegniwkt0d0psq3plyxneculun3i4qlmxstbxb3iyck1qcnzgqxljnjnqexffakpwy1e3znnuclrxn2jgn2vjazkwrxpfatcyb3pwqwrjvtzpvmpieuxmm252auzpvut4v3vpsm5ybni1tudilxlpa00wczrlctbtnw5ioxvjtnhmogu4oghrsxnsexd3ytjjqknosufyswzoruj4cxixqkrmvzlynwgym2qxunrouhu4vnj5dkpxru5kzvfzx1rmeddum0cza2stu0g4zmlnzvdjqulunezcdlnqcwtvquu5wfltovbdogdta214tkl1u21xa0m1r0zas2rtchixnvhnvdjsavpmuljnylphte94evpjwjhabjlxt2xsrwjfnxlwodhvvhlcsmr1vxzdaznpwf9oofu4lxdz?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxordnvslfxykzpntjtmtc1bzrpwehfaffiv0c5zzvhs2dteme5c2dhefrizlgzbwnxvwnrrwy3eelqmfntu1jzbv93d3q4cflnb2xmedqtm2z6rhlit184uzmtclzhzle3wfpqudvxewpkzxjcvktmukneretdbef1t3r4nkpnx090swfynjhpefbbqxhvaufsr1dyoxh3luvsvg1uqw?oc=5",
+    "https://news.google.com/rss/articles/cbmixgfbvv95cuxnwey2bhveotfkzfbgmnzbbukynupjrgrzns1ovxvgwtfxuk1uudbgcnpqbi1vt1hyeurncthkcxl5ckfxu3y0runmchbaaup1edzydjhaal93elj3curry1jla1vjegxpehm1ml81shq2tufmnexyn3o4b3dzvjuzrnayes1jcetabe95ugs0bk5ravk3akp6odjtrtliam9wztjst0lrz3pov3n2ywfnmu12rtdsy1fizhf6bfffuthfnnd0zwc?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqckt0qzvluuvzm1a2bwziz1fqt2m3wnbovwpdeflmnklywupmexdivhpsmxbbdmfyddnhwfhhmf9yegtnqzlkndhzogs0nwjtu1zja1ezsdaxvgixx0rpauk4dgzoekfetvjat012vhfzatnock8xc3p0uul4dwdsmujteejzzxhky3nodk9jbfu5mgqtmenonfhgntf2aldycvh5ru9fqllnsejumkcysddylvnjafnhsjcw?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpqs0ymhrpvtjzburrnthmbjfjdxjwaetymgvnwmzqmejxnfbcbvjjzupcejfvri1urnjtcxr5m184mtbeynnpymrvm1blzknfmk1lbhbpsnvcvenquepbytfwuhpfcfhhn2rnx1u0sfhmnwryc2rlazbfdhrum2s2vugzrvbwsm5wnghkufzmqvi1twfuvhc?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1oylpnnehzndrnbfp1dzbcyuxrz1nzytzaqvfybjjmx2f3x2dwquc0n1n0ukozqmtjtti4r2dfsvrgv203tu5ozzvtr0rzu2p3udg3ewvtuvj6chu2a2wtmti2bkczmnfex0lfafp1ctc?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9qzettm0fems1pmhfozxl4agh5m0ywm1dbynrmbhe4ovnmdujhlunmekduzurrmvcwswdss1ntdtlswgpmmgtnqxzqu2nksm9wrgu0dxvsd0trmktddvfhy0m3t3fomf9ab3q0mghjwvfpdw?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxovufymuv2dzbvmu00cw13wjvxevrpstjsczjusc1znxruwnnttfv1c09ztkrpzlfyehb5nwlzv1dutkfioerwltlpmgppb1huwvjwuxhyclvtehbxemc0eu43sldvsf9rvuwwotbuzhnmdkc0ruhta3brdzfkzejutm5vb3dllvlzdnzjdjzyrva0y09xbll4ckoysgtnsjdjwxnkoey0zkq3wxphovfiq0n4rexkmhg0wgxfc25eekqtc09wbgmxte1fmkqzyl84vlhiqg?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqbxnqvkjqv193ukcxtk5fafbuykuxrzz4uenmtxy3ejdvnxzxvljya1f5t3jhawhoum5iqlnsq080zg1uzdzwujvex0lyck5xuktnq3llsec1c1hwqnjosef5swtpmzzmwxdsrzbvv21mx2tvb0tgz0zwt1dhz0jya08weujsy1hvrdf1z1lun0xjwnzcsufzotrrrzbkbedavwjsteliodj1mzrrovzuyjzfqvfvme9m?oc=5",
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte12wg1zedgta0p1aghwqlzrai1pnkhgy01jaflsm2dky3hwqy1luvfhtfnpwjdynnbjlu42n2xmz0e2ug40dfnkawswvc1rv0dnuzbjd2fasnznz3pddlb4ous3twm4ve5zdkjjtfrmlwrovws0m3bwrfz3a3hnuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqt0zjrtvzcfvoes1ix3nedgfpdgxjexb2nmnvvut0vvzauenydkxizkg1edjhedhoymvrz2rjx3jnlufjwwdtrtetnunvunffq3baovpnbtbhouo5a1zkqmtrdwozwhy3u3hlmjzsddhwc2uxqzven3lrwmv4nfvtvvl1zgfpv0y4zunj?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxpq1n3sgnhnk1vai1pt0fovxvimwnibvjyas1vv0vgclnfqvj6z1gyt2jpwg8tbdbhc3pscvvua2k3a29ma1yzt3bialvfvmwwwffnddbydfb1ag1ltfbtqvhemmtwc1jwbe80unj1du1saxzxohdsoehungtfvm1oqmltazhkbkjlemezawnfrmzzrhl5out4tjfvblewuvk?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxqemcteg5rctjpa1ftmhjruhbfbwtnnwftbznnneh2ltrndfjiddy3n3npumnrd2jdb3zzswfmee9saznzwnlbedhxsc1xumxfau5kuutixznur0dzug14cmhhvtlmb3u2ugpstjbpexlhmexosg8tcmfxdwtyeg1sthvsneg4uwrxb1zsrkhqmdbautzqbjjncu9wsen1m3lyluozoguyude?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxobtjsu0y5y0tianrsmnfqvke5uktwdehhx0dilu5hcfiyt0zdc1ddehvleflpohlxatjzru1lalo5rhp4tthank1oy0hwsvvbndnmdtjzbg1nzhbcdfhqmmpndtm3t1lmt2duy3y4zkj1exjnoel5whdry0zktg12m3rob3jha0hfrmtxvha4nhzhsvlkbuptunvwbvh5ytjat1neelvfaxqtelhmcw5xshzftg8?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqavu3nvjrvmfxu3vfsg9uavpaoudus1jdv1recdr5q3cyvvzjenqys1ntq0tangfswjzvuzbhc1gwtgfvevznsjvnt1qzcezmyldkogrlcw16zi0ydhlrvdlzaxh4cjjru2ruoefhbdvfdwfwt3iwzez6mes4zm1jzf8xmhrmoudwejdvyxzutmexaujfwvpvvwyzbwhlbvitqnlwdhixnudiderwwke?oc=5",
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte1bckzlt0nmn0tzbuu0tjhycnyyawxkqknuwhflwu0wm016a0xjbm5mn2v0b3p2vxq0s2fbrwznavu3rxlfexmyyjlxvkxumulddwl5zjvobefzx21zakl3nedftvbtrff2d3c?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxneezmmvhrzmxur0lvu2vvmwt1dephcedpm1npnwnjwvpywm5ma2dty0vktzrgluc3vvvyu2dcwwzxsu1qcflzdwpsvjd2stuwvm9rzhblmzbkaehpqy1pogzbthjwnhbpdfhhsdddac1iovbvnuf2vdvfmkrsbmdpchlhohblejywuwfxzi1faffamzey?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxqn1nqq2v5a0fecnbuczbkblk4vxlxlwm5zglxdgfkxzhfrw9mr0gtogitrudxrmdsvdv1bwzxltbzvxrzajlwywdpx1lkd1ryzwtrnzvzvuzpnlv5n0fvdvhqnw9sqjbvv3bqwmhqcxfltwjonkdxm2c3d3rsqu9gxzv1dmvod242ngvnzmfkujblckfcr29wverjvmxsqjvcrgfpmunxce1sv0hunfdxcuezaxd6mmezwnfjsgzzmm4?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfbfmvz2txezeedlwfbvblg3tvi5r3hcns0ybvbdtdawt25tv2l3wvdrcexcrejkyxa4rflaa1uzytnuc0dhq3jhvvrtvwizqkpamvrknkfvwwczrtbgu2t4uglhtexveutztwtswtztbliwdw?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqajnlbmfrywk1zwdzvfn5d2tcz0m3b3vzu1pia3dxznvtr3nwtmwyz0dxdzbeq3bzejfmadlpv2jhngxiujljvfu5nuteuhhslxrmnexcqwlnum9vtfvunk9vwffyzmliqw05wvzorhzzrfc2etq4cffhywdxwkdftg1zskd2mknfngg5oxddzvlodw?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte9ic05oznh0tl95cfdqx1pkwghmugy0rll1exzrwflxevpcvvjuenbgcvu3ys1ry2f6x3dtogz1av80zfr3yktfdjbnrhi0v0hmahh0sw0yr0p2rvq3mktweuhpd3bkuxzlcmetwg5waxczyy11zffhvkrr?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9tbjvvx3nzajzlqje2ruzanjvnre1roupitelqmfvsbwntcm92sm5txzhxqvv5smpzmkfcqnftlxltutlja09yutrqumngv1f5nexfqthsdkjfnwlvsw9ttud5sxazq0ryeuvhb01dnu1icgwwqudjskutenk?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwnbvv95cuxndwi5dmxtbkdmamytcwyysjlmnemzdkhlx0pamk5szufjsgg4cgc4ektyzgpbc1loahd2os0wx1m0s1vkwws5wmppnlbqtghuenr5v3jadlhxcdn5zmfdbee2u1vwx0fnwkvuvgdgs3etdvh0ttrru1rwagfyxzlhbdjpc1f2v09iq0fqs2zvz0jkuerudndwaejvowfha0nhwnuzseftshhxeujlrlozqvzyvhm2t3m3q1vxmms0mhbccxpbsy1myxfkmnn0uec0n1uyrzrrdusty1mxquftmu95wgs0sflkoudgbtlrsnhoytrwc2janhrpuhlfymh6m2e1zfnicefyt1oxmxnhm1nootnjnhribedfzv84bli0s0pmuvbjmvrds2peb3lbd1pgylpcqjktwgm1as1ldul4qy15zwfdzly5mjzlywoxulfldlhzvzazsnldv2tomkvkn2hnmi1kthl5cjrbvwpxwxjpdnixvxjkmnv4blpkwtzwbjhwrwrbzw?oc=5",
+    "https://news.google.com/rss/articles/cbmibefvx3lxtfboqmxuv1r3zfvyegjznflev1djcxaxmwxdbdhhrjdvvnlubmjteezvs0lwq0jin3bob3fmbxz0ntrzn2xqyxhivmx3v3jrddjgdvpkr0kyv2hmm280mhv4wmr1wm1ywxewqm1mmg?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnukdmb1z6vhjgdnz4ajfoznlqddvyueveyujymuw5t2hzefficmu1tkjlbfhpctluvue1ns1lzjrusdlud3zttgliweg1rc1qunizyznocglxa016su9irwtkexbqztjottk0m2rvsxjzmnrcvs1fx1l1ogdabepzqudhu3dabek?oc=5",
+    "https://news.google.com/rss/articles/cbmiw0fvx3lxte9qwml2ckjcczjycgdennrwskmyrk54vko0tvdvtzdjbhrhblzsb1iylw82slrqajm4rhdmrk5ou3vmek1ga0dfs01stgjssgg4dk9ky0c1wkc4czq?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte1xaedbn1vbslntrnnendjqdzbxal9uqupmd19tbkvhls0yy0xamtharjn5thnrd3zymfktczfly0jfwnnxne5kt04xsljtynu4u2tccmdktk51cghcc2jlckg5zzu0axk3ak5jzmz5vgflazbqemfr?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxocxdtru5ey0u1amloslpra2hkutllbld5cdfddy1ia3p5whhhznfvzm9azu5sqjhqlwx5cnhlnwoxnf83mvdrreyxcvd6rxd5b3o4x200ywxctvvob3zfatnwt2q1t1nkohnjuej3dwp0exv2rfpxseszt2uzzexrdthhzum1yk1yv0zsc01zwu9fvvfhmjj0y1lwrfa5adq?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte56qlawcf95bzdlevnfcu8xz3c1dvpjwulystnus2t5qlvwefcyywjsu0nnag1vbujfyvv4zw5icvv4nno2mut4t1nny242ahg1cje1exflelzqewdsnjjkdhhqztltz0nyzjhqodjuahkzathx0gf6qvvfexfmtuwytdyxcvk3v1ftvvywrxncwthymezaynvtttbtetfjlv9kvhbbn1i5x0dimvfotgthxzzsek9yz3rxuu9bc3droud6snj1x3hdyktrbndbdm5ym2tjeeq5vhzcm1zlowvpx2fanerqzxztdfd6yunxyle?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqb2zgn3rubxf0mxlbeezlu3hwagrqeglrthlhow9nb1r5zw1uvjziu2f6muc3rvzwzxdcchk0aty0mw9qbtzmz1vooutqcfjgthlhz0pzwhlzyut1dmrbmeryx3fbx1bhzne5rmjivnj0mdi2vjhvr05ibepzclvzc05odng2evv2nvd0zfjjtmpqql9tekzack9ddnlhuhdoswfzwnzwahnmvew5ltdtv2xlogr2tdfyde9hwc10qm9vmw9obxffs0pjcgdunejkyle?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpcg52nutvd2ctyjq4c25kagvzcndsznfkwmi0zehzwgznsfvfzkzkqmvqltbfzjlbouiwx21pvnu2tlljeljtwhzpv3p3dmvqvllvy0rkbevrwjn2qvzvwvfcrjjsekrimtfjy2g4dunvmm9yz0tdzhvkyuyyelrfunfwze4?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqufzyblg5muntdg1ianfttudiemutq3dus1h5mldrcjjorc15eg12dhdpewtrr1j1zv9qwwhkr2y3q0pvn2pnufvosgxkr21rr1dyoe90chm3yxbwckznm0jvcv9ld2vjd2g4nvfzbwh6nmxzlutwcmozy0vxahz4x1jprkdfwvvvc1lvsvyzewptqq?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxpegp4ay1et1nrcxi3exvubgpqdg1qr2fnz3c1ze5ydfrocei2ujbqaeziuhzxewp5ti02m1hiddrtv3lmyy16cjhqa0nowfnpuevvbup4aujgrdk4d2j3cnfkvwt3cja5rvvrsxv6vgvmv0zpyzd1vnbwne5sald3y2vemxy1by1tvmtxbuhdsnphdwd0zerkb3rjzkphuq?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnefdjtku1oudxq1hvn1htafpnbkh0dg5xsnp4ek9jovnhulu3rtfvwffmy1ktx2fsqvl3njbiqjnvtlpqc0rtb1bmvkn3rznfz1d2ohb5vk5ycklzrjj1meg2bfzlckrys0hmtky0cgjlbuq3qxhkbxzymdv6bglrr2hfy1zkmzjutfjcwu9r?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxovnvudkzsn3nztdvlcllqmkt3vle0u0xym0vkum03wkpznezibkxqvllsrnhmcdzrc3liylbdtw5dnfzows1ka1n0wmfft1hyyutzamhfm0tor2jgu0xqshm5t1l4odjeewhot0nldkhanu9zrxitv3y3n1pobevwvk94dfayodjzdtlgegnqyucwqwlsnlzjwfbivxbdqtq?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpvwj2qmvudefjn1dolvpbdxywseztyzbzsmjwuerobvrenwlyouhftknndhe5yjfby0fcd0mxzwp4nxa2ylhosgs2c2j6vhfsem9tt2p5z2hnefznt1ixlujwenzsmtjobmdhd3ezswjpzwtyovd0zxbzdwdkmfnrvnrsblq5mgdab2i3azrxyw?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxozv9yze1aq1kycfrkamvpegrjtg55ngh2q3e5cmpvugt3zfb3t3nmmm4zy2rsrjlomzb5tfm2vl96v0jrclhqu3fmcejrdnfldxvrnc1em3g4adf6axfietutvdrwrfflow9rmi1oqxlpme9sc2hyt1i0zndfr2ltnfq1sxo1adg?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqc3ffz3hymwjzcnrkc2xnnmm2sktmzkxjcw9pv1nubejorzrlsursvkv2muvjwnvwdldkwhp1bw1org9ht0cxwkfxvu00vutzbzdts20tuenhx1pmwg5lq1nzzdlvz0uwaklwbjnprwfnrki4lujtnmnudwlyejvaafvqdvh6cw5xdtrtuzv3u3picktfaknizjj3mehsbkhsaaqbqvvfexfmtukxwmgtmefwy0hxswj0uepfchrjd0w3ujfmqmd4a0o1qv9mvhnpwvrnsufkchrkwhlnummyzml3vg5ecwffcmvxskdry3pmyum3avzlrvfilxm0q0lozdc0x1bnyjqzc2wyaw1za200a09cqwhanzbxcgp1zjldc0n5nwlpadryz0xkmlm0qxlzwenctxp1skpdsuvjvk1eyjhtq1e?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnuwrste9wvuljqwn1eg1qrm43whuwvxnvsxdqu2gxs1rgbmexee9sxzfivezdmxrcukpzlvrwqwnob2rvsvpzbkq3tw14mzrdqjq1cmvhtelwos01dg5odhljt0c5v1v3wm05aetnrllnamtfcgjhulvlsk41bdq0chi5eetnnzcxvwlacnllnfffmg44x0fvetr1z3jgzzzqz3nmy2s4sm94su50rfnjunq2nthudw?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte1otjrkrjbdwtnuannctwhnctr2d3h0tvb6cjktnwhjof9itnq4nvboq3vnmi1jrtvinek2tgrxwjvrwjbawxlzcdzjswdltlbizkzvevhvbm5tc0reqmzfsjrpoa?oc=5",
+    "https://news.google.com/rss/articles/cbmi9wjbvv95cuxqzwxmunzpqxqtofvzrjg3r3bqwxzjcmlntezmwtrgv09wwxvyclhkck9xddrjaddhtnvvbw9qn0l6uurwmjzkvjvnc1e3zkrhdji3mehft1dsymjbzmq1ymxwofhbmdvqdnnyugtyb3qxd2dunhpnmzrmdusyc1lqt3h6elv2zhvxvzy0ms1xrtfeazeyndf3bfnlymvxd1e2t2e5aulyqmpfns1xzwxtql82ruvnodjldgjet045zfvdanjjcdr4mm5dalbsltdvn3l0awnqv1v0rfn2qji1ng5nc3lnn29im0xsq2xplxpzzmzyquhrblzqrxflcdjhm1rgauftn0pyudvlrmxwyw5azg85ytm5ntvubwftmkxsc3blatg5qm5revnlnmrstxnuwxbqwldozg4xx3ruy1fcevffx3lzbexfmtfvs2joq1zuzepyzvjpds0xyzvtlu5wmfl0mxrneerwevatm29gy0v4ww8?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxqvei0cutpz0q0r0hozhawevnpof9tv1aznkswrlz2ukd5zxpwddnhret5vc1kttzzvktuvjvldmqtr3kyymrjzgjizem0ehphdvdhufr2mujzzutwqvvxahjprlutzzqzov9fv3dweklmc242zf9xdxf2ql9tuglpuursvkm4sgsyuezfelnsajzuzm1wcjd2txczvk9by2dezufmzwnmx0ryektooevfdk4zrwllvtq?oc=5",
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte1nx29vby1wcnh1te9bq1nawkthcxzjn3dsufjan2phztfucfnjmlu0b19eqtl2bm13wvfewk53mgnpmfdwx2zfvdrvcmi5rkrjmgg1qxzetxbhrknzr2f3vujcyzhmcwmtu1zb?oc=5",
+    "https://news.google.com/rss/articles/cbmi9wjbvv95cuxnq0vqbkjiohi1d2znchq0vdfqwm1qqzy2rtvpmnj0n196nfnhrmixm3zwegrqdxhwefjhzkvit0lyexctci1hymfjrgj1duuty09cte5kefp1ofa4ynu2bwi0t0pxsniyqwu1elltdwltvlfld1nicwdhbnlnevhlr0fpm3fpuxnatvv4defodtm1sulubjbnm1nxbjhkwuo2svljmdlym3q5vndwngxlbme3mk9zqxvhullmzl9is1rmtgnqbknxlwjwb1dmvkloz3lxz1bumzjunlvvqlbvr0jyd0fzcjyzyl9qn09evwy1a1d0snnqnfhzzuyxdldqb2ztzxlqc0hptudwq25tvthenhdvtepjv3jstwhmumlttu5kzzjlq2zssvqwaxvtzmvtt2rwd3lfmthjbxqyuupvveqzx3zqogttveo3zndru0vfqy14vkk3qkstew91ofrsm2nwtvm1mw9jr0vzb29uu1pitg8?oc=5",
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1zqwjxunlft2lcawexnzrfwxiyafrhsuzlzfj2uku0stqybzvzv2vgaeh0a3dqz0nxt1jnslribmx4nwlpmvdfy3f3rgq1bwhkny1aukvqu3ddt0k5selgluxxttbqu0zvn2pwlu53?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqqxdflulibefcymh4cjvsnjf3v1vquhdmwtmtnfpjtkpfrzc1skvmotbismnoaeppylkxt2xmwnlravhuekduq2nznxl0lupivnu3rg1qm3hurs1rymu2dzc4u2fsa1ncbg9vtednzm1tq3zvbnflbfdtwuraauxizmnfoehpngzpuwrntnzfwdvjzkpsmwtpwe5sze5ucda0butha2hnthbudc1immhytkn3?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxnlw5pn1j0wtvhznnzdjrgmejsdjqzuy1sq3gzcljmbwtumnc2qtrey3hev0rsnhnvmdhnbtnlbenstgffvkt1qs1huevrofkztuztof9qsfpdejq5buhlm1juvgxjbjbfdkzqm09xai1yvlp6x2dwrxozce5dstd0mc1keg93efzuzdfob3psby1takjrvtm1qvezcwx5wfi3blrzzmz1r3vieklirmrhcmf4wefnulo5sdk2b3nmqtb6qwnqddj6tmzhsuwtcs1mddjqlwxmtwtmluk?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxob0f2y3y3ec1utjbwyno2owd1m1lnsmhprnzcz05ubgzidxy1tu90wjnucgtardjzrs1lqnlydtzqznrkx1nlz1bqddjprkzkmkrmu3jbwhjoa2vzwm0yem9ub1lwzhj5nuxfejrlefzkoefvmxfazzjjov9jrmznmtdjzxctue45tkf6cw9temo0bu9mml95wddrz2dqcgrnb0dzcufllvl6ukx3odv2n1fzdlzyzw?oc=5",
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxougzrodn2q1lhy1hswut5d3rwm1pnb0d3c202q2rxwtlimi1yzmh3ou1ysgtirmsxbhdasuy5zzzsyv9kvfjxogiwugtlclv5qzhlrmvswun3am03owjpag9vm3b2ohplmf9zcgrmt2thtfj0qvd4ew96rvdhntjbs1vlz19lcglcsxhjmviwzejtrkjqmkx1dmc0chbxclroos1vvkrtqwhmwxc2rzf5luhqenfawmtwcwzdt2vhzvlrtzjhsjqxmzr5z2xdbfzvauxmtvitcllycjbg?oc=5",
+    "https://news.google.com/rss/articles/cbmizefvx3lxte9idfcyaguywxbiyllnr2vzy2k4dzi1zgrkec1pzlvouc1zt09kmzbonulhz1jxmgplndreb0lzwi04a25fdvjjww0ts0pvy25qdvpptgc0r3noalnbnjj6q0sxvwxsawpbvv95cuxqdtnbzexpv0jdak9bnti4yvnjbufay2hpztyzx0zwbjjydkt1yulav3rzx2j5yxb3dezomxjnyk1kswi3yknwq1loof9fu2vmrxjwagrpzk1xwjdluxfmvk0wywpnsznpbff3?oc=5",
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte03tzu5uvbtywdnbfhdcthiag9tbtzxnumxck1qu0pwmhjsodr1uhzhu3vedmf1aw1mlvjlvektajbxc192qw1tsvrbdjlsylztrenwazm2zfcydw?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqtxdbsww3vmzvmxgwyznsoxptuw45dkzorgd2dfnzblppaxjwthrpchjns0zqdwm4nxlfoulnqkjmywdfdkfrvghqni04zldnwelwb2vusy00yw1zdxhnyxp0aepur3bgdeqwx2nqm2hqnkvruxlwoglxajj5x1ddm256ce1uqxq0r0tmuexmsxjfc2zur0x0cwrxu0zzdw?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnv0z1swr6ahaxrlzdx0plvdveqlhsz2pfz1v0y1p3yw80s0djnnm0depxeknootnmqwfwakzmddfnqmdtnxrndff0qkhsytdzuweyc2flwkktduxgvkt3q1flukd5zg9fuvl6wuxcowrmmfp5zlrbrkt0u3nvcmleyjazt3bkalbvtzjgnkfn0ggtaufvx3lxte5pei00tlv6evzjqvvxeg9fzm5mwg1sqzzhz21zy25imu11nzrcdljzbkq0ukpmcc03oxbonkh6me91burgs3plwhzzsgxpwtbolug0nk1qtmjgafv4wnbuq0vvcmdnnnr3azlpoflpoul6bgptskfib19jru5jlufyx2fkx2fdwxn3mexiowj4wvbxsq?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxqs3qxaxizsxlvsudvbvy5ttmzt3bpuxdjts0wm0jbtkzeadlsngtcb1hzzzfkdtzadufoz05ormvzv1dpeu5jrupodmzolu5ox1lsszvpcxz2bv81z3fjmdvvq1rfewnhoee4agxtngm5y05uvghhbge3ylf6v3zvr3ruvvm2blfzbezqyu5tdu85wxyxnwc4wwfmzkf2al9anti2znpjufrowktudtrkz0taum15zxbuchlqrdrlczjyx1luskrlefjevlvtbuhsadqbqvvfexfmtuitcl9xbs1zetdksjlud2tong51n0w3og9jc3jjtmnlmjvprwnibwzpz2tflvdvnehowtvzzmlqm1yyaznjofdyuhjzugq5wtvdzxpjrmh2bejruedvd0hlcgvvsmj3x09lqjnpmdlhvw5gb2ljrjfzewu1zhj5mjlqdth2agr3q21sdgytbev3ekw5x2jcckvwt3m2zzbadtj4n05wtkc0wvfqn3nra2cxm2zabzhhbzfsu0oym0h1qjgynglyukjzs25izvi3yvuxoe0?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnr2tcnwr4bkfcqm9js1v4nvbfuvfjzi1qzuh4mvbnn2hkzvllswhpz3r1nlhwovnoakvkmvnib0vcvldtsvlrd3rfaknlwwzpvgw3eu00wnhcthjcuzjiu1jitlfjuvv6tm9ovvvfdxatsjnlsxhnalotq25iv3jqdw5kt3i3smz1ou1sdmi1uwqyv2t5zgf4akhlv2zznu1jsgj1repjung4atzfvmxdem1hews?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxqdmt6y3fuvdfpcxltm3zynfnialnkeuk3sfnwvgvhm3rxcfhkwvzqc1bqzdfxrxj6qm4xmkjfc0lhrkhkeupytw1trzbytgo1ruo5quxbttdubnryc1jjylhxtwxis0vhau42snm3emfjsfkxbhjka2nhwmnsvtnjaxbismncugzivlgtzehhsxr3vufrundzsl9um2f2shhstui4x3d0u1rhs0vqyndjnxpqlwrgblblbc04tmxkswxoamvqzg9sourtvmlieedxltldew9iaw?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqr3dyykjmrlpntum0unprwjdmmdjkrknjus15augwuuo1muxpltdjvmq1auvwa1zaq2dpyu91dmdzdxpjb1rhexzutwnadg5jovjaxzq0tnffclnvx0j0vxrrv1j1x19zcfj6bfpwaumxrfnbvdlrahlrbnjpswytn1fbx0r1tzbiqndvt3bqqtb0rvr3emm4rnnjbm9hrjjwc0e?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxpd0zpdwryn1dgquhzvk8xvfh3m2qzcungu05gmw9utjmwvxpuzkpnuza4ufrrdgjbzvk2cwvyx2dlqzhix2rva2rxr0xjzuhhetnnbtbxmem2reznautduerhugpfofzvckllz1pynfzqajc0szzfthfcwv9wmzhmykfyruutogfmqu1tawthcephohaxauvicdfurvjoswvvekpasha2q3vzv1nuuzgytkjcma?oc=5",
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte00ogdyaujwykpkvmjduuvwouy2aexxrkr0ekrebmfdakpoc1rtv0tyykp0a0m5vfvqalhcd1hjewvyx0pdnk9czzbdwf8xs2gymc03n2q3m2rmqq?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxpwwlmdvvfaeiyag9faensawphbvlvq2zrzwdkvjvlawuzbm1ybwtlznzwr0hetxp0chvla0i5ufh6owfndndfcjn0mlfzlxvxrjnwagdzahr3eu9dcnywry1pylvsmfb2qljnwvhoel9xzjiyn2rguehlddh0wxzfzdfqu2jstgo2s29loe84rmotuda3rm5rdfvoutrlqnnvu210yxrn?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxnvhnwzw03vfpjz016vwpaqlnndwxkzjaxufhtsjc5mznxdk5texrdodg1tnhesdaxowtmvnpwmgthv25qztfgbwtzehdxnuztrthjcfn4zjlfqnzkrjblclr1y05ku1fjreu2aulfthjvtdzpr3vwr3j0uzneb2szqvhr?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxpatcwmwhyvm1pyk8xvgh0nk1bty0wnghdow1ta2zvakytvgqxsw5wylfiuhuwdksyquj0cmxia0tycu11clutzneytmzsbzf4dgfqngpvek0xzdbobxdwsthjswzhlurnwglzdld3retcttlinfzbsxnlt3ates1ibg13m1qylu0?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqsmhnatq1qw4yv3dwzu1gvu9kvy1grhdeynfjejjqenuyqw5brvjxngdyy1pmoghratzob3joynllsu9wefd4wjb3nuu3x2cyeg1nn3vuego2tzj5zk1mnvdvwe5ncu9lbdrfuutcuhzsmtdjtw9ed2r6n2c1m3lrnuf5uzjqu0jtexb4qvd5zdvocgz2ww00bdq3tznytjdndee?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxouu0xmjlkeu5eouvtbnp3enjqtwfybjzhmetbtzzfm1vjzlzgzfowdvoyr0z6elfvszhxyzzwevzlyv9fnjfkduxjatrpelaymlfytc1nmmi0am53mdznee5krjnuqlz6ajlxn2u2wng3a3vzew9mmdvqtw11avzimmz2xzr3u25qampbswdqv19mems?oc=5": {
+      "headline": "What Is Claude? Anthropic Doesn’t Know, Either - The New Yorker",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:07.129628",
+      "last_seen": "2026-02-09T21:57:07.129640"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxpotrqekr5wfvpltlzskflsk5od0k0wtfonk1kvnrqzurqufnjzi1uzkdlctfnvjqtnlphcxbjehc1axbrtedudeiyegsydkplvfdmvxdcmhrxwg9qofrpnej3ovf3v1pybhvwugs5aurvnnlisxbnous0yumytfb3aknmegtmqmtrdhl4bkp3tetkadluoxnydevrvq?oc=5": {
+      "headline": "OpenAI vs. Anthropic Super Bowl ad clash and trash talk signals a new era in the battle over AI - Fortune",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:12.039108",
+      "last_seen": "2026-02-09T21:57:12.039121"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqx0c2mgdoslpbd01qx1zuzhv6zxpyzld1umfttnpmawhtq3dpq3ffzgdzwghvmfm1dgfrcmixy2m4qmzleth5nlptvu9tbmnnvfbuaxpvz29fnxjkew9xvwo5nnzjbklxngtrekxdsetlsvvlcke0qzrqqm1hyjgxmwlpovfbvtb6axbxwgxhm3fdrxdjdjvpta?oc=5": {
+      "headline": "Is Anthropic's Agentic Artificial Intelligence (AI) Tool, Claude Cowork, Software's DeepSeek Moment? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:15.269104",
+      "last_seen": "2026-02-09T21:57:15.269112"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5kulnoyk1vlvzwc204oefkbtvrn3jtchl4nc1kr1bwmthkvfzqzwloouwxrjrpqulmnw5tuzjvnzlvthzmrdvqnvnuunhyzlheseu4y0zyrm9mzk91t25gogvmt1gzvu9et3hjsjlvy0hfaxjnngjwq3v6euu?oc=5": {
+      "headline": "Super Bowl Matchup: Anthropic vs OpenAI - Marcus on AI | Gary Marcus | Substack",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:17.999805",
+      "last_seen": "2026-02-09T21:57:17.999817"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpwxzmm1fhvtvjzmdkehbnr1ltrldkofrsvejmevzzcv9lvxlitfbzvnfnqljwdhjhdzllq09sa3bdwdhdz2rlcmjhsuv3mhlntxfankj5zhzusvm1yxbwmldpvutvrhhmbtzeyjdrzgfhq0cxuwtlatzjos11be54qlvyt0jytkhdevfpvkhwdkjwevhwc3y5behn?oc=5": {
+      "headline": "The Super Bowl AI ad showdown: Anthropic snarks, OpenAI goes earnest - Business Insider",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:57:20.555496",
+      "last_seen": "2026-02-09T21:57:20.555510"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbfv3y2u3mtmi1ottbetxbdohq5chuzau9evwu3vdbzrgdurnetvgr5m1pybnjoqkvyemz4df9odflwvfzcdkjkue4zavvfcjdqzmeybgdyutlvvtrirw1pzktrbv9zqkzlmwvtr0rmqudrqkpfotbjzlhb?oc=5": {
+      "headline": "Anthropic Super Bowl LX ads mock ChatGPT - Mashable",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:50.170093",
+      "last_seen": "2026-02-10T11:19:50.170109"
+    },
+    "https://news.google.com/rss/articles/cbmihgnbvv95cuxntgpqq0tlyxawy3gyne04y19zm2linu9jcll3dji3ugfzu291d2han2pkmnz5uehwcllfs3jvec1sbvlisfbwrjzsmuvhazradtfstudssdhnswzvs2nnsmdktw1wagnfrg1nwc1qdwntrvlhlvrbujfnrmhxb0d0zmvzugnxt09tnev0m2k1cjlrq3ryd1zrn2dvnnvsstrrmw5pvhl2adblbgpcu1c1ltqxbevwa0xqbwrjqlndu1lfakpwmnntui16vetkqmnrblu2vjfpczjwb0rxtenhttzkmmc0skvzsjf2se5rvljvdnz6cw5vsww5yldoahkxqtnmqkhra0zhuvnedunetev2tmdbdnfsb2nqvetabxlkmw4ywfhkv3vweg92vwham3hpbhjub0z6v1lweflyrnnknepcqwhwv1jizglwnhvzvu16blpqowdzdzrtegt3t3rtb01voxcxrkq2rmxeck9ramtbuknydnn0rfverwzlwwxloee?oc=5": {
+      "headline": "Meet the One Woman Anthropic Trusts to Teach AI Morals - The Wall Street Journal",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:53.356862",
+      "last_seen": "2026-02-10T11:19:53.356877"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpvww1yk5ptwh4rmktltg2og1jndlybgy4vutyml94nxn5a1n0b0m3s2x4wnrtbktvwuj4vxzjwnhlagzscxnnclnyser2bffwcg1iove3mlnhbw5grl9lwk5pzevqqmrta2tqyjc3dmx2rfvebjfmamrynwlrstdgx2fwvzkxewuyotnkodi3bex2q3zvuwrvcmnpv0lpsufucxnazdnrbjdfu3rmu1jottbouhpzdw5cuhjpbtjwtq?oc=5": {
+      "headline": "Anthropic AI Safety Researcher Warns Of World ‘In Peril’ In Resignation - Forbes",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:56.523024",
+      "last_seen": "2026-02-10T11:19:56.523041"
+    },
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxqv3dnotutm2i4bxzwynndsjyzakk0shrncmxru1bxt0g3vkjqbkyxugdhsv9kdhy0ny1jenrdoddlqzvqcvzpbfhhdtlhdf9rzlh5vda1tjvjne1sbmpkogjrd2d0lve0cxpbuhq3vhn4zeq4yuhsaenlcxfgy1pyselxogtnwe4ywnhkotrhu3dqzll3rwyzve9ya21lzjdtsnnhuvjjn0vqn2jyzwutekhcsgntnxo5rlzora?oc=5": {
+      "headline": "Anthropic's Data Center Ambition—and the Ex-Google Execs Who Could Make It Happen - The Information",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:19:59.631173",
+      "last_seen": "2026-02-10T11:19:59.631190"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnn01kejbewe1rq0tpsgxtai1jes1gtgxzt2ftdtvnqu5pvvpqylpkwg5nn2o3rtnkmmzhx1kycdfiwjbvutqtwenmbze3z2u3qs1uakzivjbbwldjzuxyv1exmmdnzm9rms1jtkmzy1bxwvl3wmd1dfnudhhoqmhywwjtanlfa3hqegctwxqwna?oc=5": {
+      "headline": "Anthropic Researcher Quits in Cryptic Public Letter - Futurism",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T12:00:14.064332",
+      "last_seen": "2026-02-11T12:00:14.064349"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxqmlrpufhfothxng40r2rkag43yutovg9kselmddnin1y2bhnutexfwgt4b2l3etm0agxtmlvacjc2cjdyq2l0dwctsllwlxgwa1nobnjru2z5owpjrvbjutjpbg93medauhlnm1bwefbuv0hvc19ivjf1metnbxjkoa?oc=5": {
+      "headline": "Anthropic Safety Leader Resigns, Warns ‘the World Is in Peril’ - eWeek",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T12:00:17.614416",
+      "last_seen": "2026-02-11T12:00:17.614432"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxoqxntauf1skzwa0szufbdmlloytnzmfltahe1zg92alnscl9wb0hurkrhxzk1r2x0rmxxzhdvckzloe1rt3zoewtbtjz6vgnqbxdss0tiner3u0uyrunrqu8zencxuk4ybkdecetmu0lsbzbkcznqsxrluzjoy3r2mufjcthinmzvtxv2ytgyclpdc3f4nndhs202si1hn1y2twvtvezgq2w?oc=5": {
+      "headline": "Anthropic AI safety researcher Mrinank Sharma resigns, warns of ‘world in peril’ - The American Bazaar",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T12:00:20.949446",
+      "last_seen": "2026-02-11T12:00:20.949463"
+    },
+    "https://news.google.com/rss/articles/cbmigajbvv95cuxqukrnve1un1vmderuouhunzn4zlizaehdaen3umjadwj3cunisejkufbnbtvdykw0cnfjoxhmmew3wlhxsnjfb2rylwvsq2hyb1zymthhu2hit0g0dmtlb1njdlvktzngdmdhruljcmxtcjjpyuh0tum2tjhmz0pxx3fxcwkwnl95dddtylvzbtvftk1fufjvqk1safk1rw1mawzyrnk4q3izqtvmb19lqvnqvffxuwqtym9idlnnvwm5swr0exvjnjhqdhvlrkxku2rvekq3vgrtzknpa1qwm08waff5emhttxzxemvtuklxudnteg5vwvbucvq0d2dp?oc=5": {
+      "headline": "Anthropic AI's safety lead quits with epic vaguepost claiming 'the world is in peril', and so he's off to become 'invisible' and study poetry - PC Gamer",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T12:00:24.514489",
+      "last_seen": "2026-02-11T12:00:24.514507"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxnd1zytwtur1bbc0tttwk1x3rqnmplr3bhm2d4dhu5egdfnlg1nzq5rvu5d016yzgxcunlwxywcgpmnwl3uhdsumkybktduhdimtfjdlhyskp5rjvvbzc0y01zzdzhzxrfzu04dvdicjhuvhc2snnkovzssvrdzfrou2r5d0ver3zrekh3utffa3lxetvmuxhtq2jwvzvtdvjmsldmaurovfc4ruzjrtrjrxzwvktqlv9zszrusjlfbutrvlnzy2vmwf9veefhz182n1dzchu4qq?oc=5": {
+      "headline": "Anthropic’s Claude and Its Implications for Certain Stocks - The Globe and Mail",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:30:09.025996",
+      "last_seen": "2026-02-11T13:30:09.026011"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxtfbuzljzd1hsbdzkndataefong90lxd0y2z3y3dtdwdksuncwtl5de12vfpzqzg3vkvacuzqowdxlutbn2vytmtubvbmdehbtmhnclzktxp5rxi0rejsvunsbfvmvutbm0tvu1nnyvlzzk00venbave?oc=5": {
+      "headline": "Covering electricity price increases from our data centers - Anthropic",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:50:20.044750",
+      "last_seen": "2026-02-12T12:50:20.044764"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqy29cclhqmuvddlbooemwluzfdnfsqkfrtelzoc1num1idwi2t0jlamvwtzluzmyyavltrhjqewnlandnrunrckpkshbkm0h0de1vn0hfywdhthzqvtizzxi4v3h4dek0ng1gnevxymryevvlmkt3s1pjrvjjctjsevv6mu1ftwy0cmetowkzelrkztn0b2pqrxhxtgftuhdvuvr5yvvnvkvjslldlue?oc=5": {
+      "headline": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday - VentureBeat",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:50:24.193822",
+      "last_seen": "2026-02-12T12:50:24.193839"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxnm0prnlvtwc1qwjiwrgjcsg1tngj1nww3se14mko1bkpsbupfchrtsfb0bvczuvv4txiyuetulwhumhvpa3hewutwdtnkwwsxthzlutk1vhfbqu9xaglqsfdkbez6dhzfvnj1cut4s2zxnufzzxdsmjvtsfloz045cgncrhpfeetzm2p3dkjhyzzkzy1itnjfqxdr?oc=5": {
+      "headline": "Can Anthropic Control What It's Building? - The New Yorker",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:50:28.431099",
+      "last_seen": "2026-02-12T12:50:28.431114"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqeefuoxjyqmplwfpzyxnkbnhjnwduwkjwout2mejfemdaajvid295wvj5rgvjtup1nedymgu2mvhpoxfnq1e0smhksmpcvmzoqwx3yurymupgwep2nfrrs3ljdl9ir0ppemswzkzozlaymdlytljwbnexn05anlvobwo1nu1lrja?oc=5": {
+      "headline": "Anthropic says latest model could be misused for \"heinous crimes\" like chemical weapons - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:50:32.228744",
+      "last_seen": "2026-02-12T12:50:32.228760"
+    },
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxnewuwagpfsutfenuxavqwbzm3vuy5n1g2x0rlttvja3nnamw2a1a5nlhoeupln1rjddm3bwditlbuog0znhnasfrkclc5n19snhf5vnhzu0zrtmm2r0vgoxz1blpuc0m2mefxceply045eld1x1n5ofe5ze52v0f1btlwoe5eswzdethcsevtuejttxrvd0c1mhdcyxrsagrfvutvdtjdemnjmkfht3g1ykt2du1kewvlmnr0dlc2recwzk5bbejtmezazkptuq?oc=5": {
+      "headline": "As Claude disrupts stock market, Anthropic researcher warns ’world is in peril’ - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:50:35.087361",
+      "last_seen": "2026-02-12T12:50:35.087376"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnaxy3cusxbghpvw9tuhayc0mwnfleoujjrvfxyvbhntbzzdnkakxytw4yenq0n3numgk0zk1kbhvyvmprswtjqzk3dgzjruq1qwhvbi00unbjwlhsb0lpqnfycdqxuw9bwfmteevfekdvsg5acdrhu1pdqxb0m2m2wlhqcle1vgjfsunxoxrzymi2thldywp4mzlucgdlwnb1enjpuxvuclbvzu5o?oc=5": {
+      "headline": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation - Anthropic",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:19:24.210470",
+      "last_seen": "2026-02-13T13:19:24.210487"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxoujbxblvtq3lkvnhqadjwbvrcrexsbfjvnuv1lwhln21mnvjxr1n4ulcxyw9kz09dexjmtvpkwwg1wtf6advrbg1vlujfwvhknxlcvtdku2j3ndbncf9srgpsc2ldovfuskxfedbnywpvtzrfzdzrvlzpahbtag4znmpcoeo5mhbrzkvfy1jpngnwmmnz?oc=5": {
+      "headline": "Anthropic Is Valued at $380 Billion in New Funding Round - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:19:29.125307",
+      "last_seen": "2026-02-13T13:19:29.125323"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxnawhdzu5kug5foeh0sgw2ue1nbkzpngftb0dlaenxswg2slpyazhvmxj1axrbwk5fyufxwghpu28xdkzymvfsbwqzc29novuxylboy1rpaudycllqdfnkoxffsutkbl9wahjybnlicxzty2tltk5iu1k0zlb1qjbiwvbxogjsv1zlzmvxltjyserpzgdezhhrcfnjewxkae9hznvjwtzyszdyvjdfnumydvnfrgter2gwbkkw0ghaaufvx3lxtfbjww5oqnp6zwthvkf3rlrqz19jdzvyd3lfri1zqwlqywxft3jmnucxnelwrktowku0q1dqrzq4y2twn0tsvhf0nurztnnswkpztm9omzj6vkw0m1i2ttjps05bcjffmu1iwdzecw5tsuitmurinflsvdzack5ubtruvwzrmmxmuc12uw9iwtvcrmhgawdjawf0etz6qvhwnkc1cfdiagfvcjhycuxrcfu4c2hvzxhirxpmxzfxvk85xw?oc=5": {
+      "headline": "Elon Musk slams Anthropic AI models as 'misanthropic and evil' in scathing social media post - Fox Business",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:19:33.196179",
+      "last_seen": "2026-02-13T13:19:33.196191"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfa1eux0znzpqnr3vzkxczjuvnlxanrruhfqyvjlwhvoetz3the1u3voq2tjava5a3duyi13dedtm0fqrg5pvhvoy244dektneyyd215uzc1dffzvhgtttfvsmfpvm5odk1lzek4d1rgujduefphekxhcez6rq?oc=5": {
+      "headline": "Anthropic $30 billion in Series G funding raise led by D. E. Shaw Ventures, Dragoneer, Founders Fund and others - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:19:38.240260",
+      "last_seen": "2026-02-13T13:19:38.240279"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpbhlhzknxqw5aqnl3rnfpnhhltm5sttr3d05vvxlfvtdmlxutvxrvrjjmten6mwvmsfl5dmxoav9cwthbr0ddchdswdfuzvdyenpirljhcffsnth4dgxmynvmtvrxaxhpce1qvtczd09tzuxizmktx3vmzxpyt05xnhr6uvlysm1srkhytfktzhrsazybqvvfexfmtmp3cv95rndsz3vcbfjfwhayeki2ngjhyzflstbjmnvbshhwbffnrnhlzxpovxpnnvlfv190sgteckc0oxbpwxbjwdzkcha0wni3utblcwozzmn3dxiwzmvsn3nsawhsy2dgs3frumztam5pqi1pmdrsu0p0emrcm09xulrqbxvjdnpluktyaxdyeg9cx2lr?oc=5": {
+      "headline": "AI safety researcher quits Anthropic, warning ‘world is in peril’ - The Hill",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:19:43.052899",
+      "last_seen": "2026-02-13T13:19:43.052914"
+    },
+    "https://news.google.com/rss/articles/cbmitwnbvv95cuxor0jhvkfsnkxxvhdhm2wwsglnwg1drmtrqui0eu05dwvqz3jqemxcx3voznp6nxztqupdegxvnxdbvfpszgixwhytrznamez0swj2wegzberic1bmmgxxedvjq21oaehrsxpnq1o2y1v1djfbzmdzve96rfpoegniwkt0d0psq3plyxneculun3i4qlmxstbxb3iyck1qcnzgqxljnjnqexffakpwy1e3znnuclrxn2jgn2vjazkwrxpfatcyb3pwqwrjvtzpvmpieuxmm252auzpvut4v3vpsm5ybni1tudilxlpa00wczrlctbtnw5ioxvjtnhmogu4oghrsxnsexd3ytjjqknosufyswzoruj4cxixqkrmvzlynwgym2qxunrouhu4vnj5dkpxru5kzvfzx1rmeddum0cza2stu0g4zmlnzvdjqulunezcdlnqcwtvquu5wfltovbdogdta214tkl1u21xa0m1r0zas2rtchixnvhnvdjsavpmuljnylphte94evpjwjhabjlxt2xsrwjfnxlwodhvvhlcsmr1vxzdaznpwf9oofu4lxdz?oc=5": {
+      "headline": "Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid - The Wall Street Journal",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:34:01.540357",
+      "last_seen": "2026-02-16T11:34:01.540376"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxordnvslfxykzpntjtmtc1bzrpwehfaffiv0c5zzvhs2dteme5c2dhefrizlgzbwnxvwnrrwy3eelqmfntu1jzbv93d3q4cflnb2xmedqtm2z6rhlit184uzmtclzhzle3wfpqudvxewpkzxjcvktmukneretdbef1t3r4nkpnx090swfynjhpefbbqxhvaufsr1dyoxh3luvsvg1uqw?oc=5": {
+      "headline": "Anthropic and the Pentagon are reportedly arguing over Claude usage - TechCrunch",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:34:06.174366",
+      "last_seen": "2026-02-16T11:34:06.174383"
+    },
+    "https://news.google.com/rss/articles/cbmixgfbvv95cuxnwey2bhveotfkzfbgmnzbbukynupjrgrzns1ovxvgwtfxuk1uudbgcnpqbi1vt1hyeurncthkcxl5ckfxu3y0runmchbaaup1edzydjhaal93elj3curry1jla1vjegxpehm1ml81shq2tufmnexyn3o4b3dzvjuzrnayes1jcetabe95ugs0bk5ravk3akp6odjtrtliam9wztjst0lrz3pov3n2ywfnmu12rtdsy1fizhf6bfffuthfnnd0zwc?oc=5": {
+      "headline": "Pentagon Reportedly Hopping Mad at Anthropic for Not Blindly Supporting Everything Military Does - Gizmodo",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:34:11.104305",
+      "last_seen": "2026-02-16T11:34:11.104321"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqckt0qzvluuvzm1a2bwziz1fqt2m3wnbovwpdeflmnklywupmexdivhpsmxbbdmfyddnhwfhhmf9yegtnqzlkndhzogs0nwjtu1zja1ezsdaxvgixx0rpauk4dgzoekfetvjat012vhfzatnock8xc3p0uul4dwdsmujteejzzxhky3nodk9jbfu5mgqtmenonfhgntf2aldycvh5ru9fqllnsejumkcysddylvnjafnhsjcw?oc=5": {
+      "headline": "US used Anthropic’s Claude during the Venezuela raid, WSJ reports By Reuters - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:34:16.194654",
+      "last_seen": "2026-02-16T11:34:16.194669"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpqs0ymhrpvtjzburrnthmbjfjdxjwaetymgvnwmzqmejxnfbcbvjjzupcejfvri1urnjtcxr5m184mtbeynnpymrvm1blzknfmk1lbhbpsnvcvenquepbytfwuhpfcfhhn2rnx1u0sfhmnwryc2rlazbfdhrum2s2vugzrvbwsm5wnghkufzmqvi1twfuvhc?oc=5": {
+      "headline": "Elon Musk says Anthropic's philosopher has no stake in the future because she doesn't have kids. Here's her response. - Business Insider",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:34:19.037921",
+      "last_seen": "2026-02-16T11:34:19.037937"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1oylpnnehzndrnbfp1dzbcyuxrz1nzytzaqvfybjjmx2f3x2dwquc0n1n0ukozqmtjtti4r2dfsvrgv203tu5ozzvtr0rzu2p3udg3ewvtuvj6chu2a2wtmti2bkczmnfex0lfafp1ctc?oc=5": {
+      "headline": "Claude Sonnet 5 release expected imminently. What we know. - Mashable",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:15:51.019514",
+      "last_seen": "2026-02-20T12:15:51.019534"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9qzettm0fems1pmhfozxl4agh5m0ywm1dbynrmbhe4ovnmdujhlunmekduzurrmvcwswdss1ntdtlswgpmmgtnqxzqu2nksm9wrgu0dxvsd0trmktddvfhy0m3t3fomf9ab3q0mghjwvfpdw?oc=5": {
+      "headline": "Anthropic: AI triggers the ‘SaaSpocalypse’ - The Week",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:15:58.998442",
+      "last_seen": "2026-02-20T12:15:58.998457"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxovufymuv2dzbvmu00cw13wjvxevrpstjsczjusc1znxruwnnttfv1c09ztkrpzlfyehb5nwlzv1dutkfioerwltlpmgppb1huwvjwuxhyclvtehbxemc0eu43sldvsf9rvuwwotbuzhnmdkc0ruhta3brdzfkzejutm5vb3dllvlzdnzjdjzyrva0y09xbll4ckoysgtnsjdjwxnkoey0zkq3wxphovfiq0n4rexkmhg0wgxfc25eekqtc09wbgmxte1fmkqzyl84vlhiqg?oc=5": {
+      "headline": "OpenAI's Sam Altman and Anthropic's Dario Amodei refuse to hold hands weeks after Super Bowl ad war - Fortune",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:16:07.400010",
+      "last_seen": "2026-02-20T12:16:07.400026"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqbxnqvkjqv193ukcxtk5fafbuykuxrzz4uenmtxy3ejdvnxzxvljya1f5t3jhawhoum5iqlnsq080zg1uzdzwujvex0lyck5xuktnq3llsec1c1hwqnjosef5swtpmzzmwxdsrzbvv21mx2tvb0tgz0zwt1dhz0jya08weujsy1hvrdf1z1lun0xjwnzcsufzotrrrzbkbedavwjsteliodj1mzrrovzuyjzfqvfvme9m?oc=5": {
+      "headline": "The Cost of Conscience: What the Anthropic-Pentagon Feud Means for AI Governance - NYU Stern Center for Business & Human Rights",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:16:18.053839",
+      "last_seen": "2026-02-20T12:16:18.053853"
+    },
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte12wg1zedgta0p1aghwqlzrai1pnkhgy01jaflsm2dky3hwqy1luvfhtfnpwjdynnbjlu42n2xmz0e2ug40dfnkawswvc1rv0dnuzbjd2fasnznz3pddlb4ous3twm4ve5zdkjjtfrmlwrovws0m3bwrfz3a3hnuq?oc=5": {
+      "headline": "Anthropic on shaky ground with Pentagon amid feud after Maduro raid - The Hill",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:16:25.998588",
+      "last_seen": "2026-02-20T12:16:25.998604"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqt0zjrtvzcfvoes1ix3nedgfpdgxjexb2nmnvvut0vvzauenydkxizkg1edjhedhoymvrz2rjx3jnlufjwwdtrtetnunvunffq3baovpnbtbhouo5a1zkqmtrdwozwhy3u3hlmjzsddhwc2uxqzven3lrwmv4nfvtvvl1zgfpv0y4zunj?oc=5": {
+      "headline": "After a deadly raid, an AI power struggle erupts at the Pentagon - The Washington Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:05:03.084095",
+      "last_seen": "2026-02-23T13:05:03.084113"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxpq1n3sgnhnk1vai1pt0fovxvimwnibvjyas1vv0vgclnfqvj6z1gyt2jpwg8tbdbhc3pscvvua2k3a29ma1yzt3bialvfvmwwwffnddbydfb1ag1ltfbtqvhemmtwc1jwbe80unj1du1saxzxohdsoehungtfvm1oqmltazhkbkjlemezawnfrmzzrhl5out4tjfvblewuvk?oc=5": {
+      "headline": "Anthropic Rolls Out Autonomous Vulnerability-Hunting AI Tool for Claude Code - PCMag",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:05:08.188844",
+      "last_seen": "2026-02-23T13:05:08.188859"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxqemcteg5rctjpa1ftmhjruhbfbwtnnwftbznnneh2ltrndfjiddy3n3npumnrd2jdb3zzswfmee9saznzwnlbedhxsc1xumxfau5kuutixznur0dzug14cmhhvtlmb3u2ugpstjbpexlhmexosg8tcmfxdwtyeg1sthvsneg4uwrxb1zsrkhqmdbautzqbjjncu9wsen1m3lyluozoguyude?oc=5": {
+      "headline": "Anthropic Jolts Cybersecurity Stocks, JFrog After Finance, Health Care, Legal Drama - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:05:11.510938",
+      "last_seen": "2026-02-23T13:05:11.510954"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxobtjsu0y5y0tianrsmnfqvke5uktwdehhx0dilu5hcfiyt0zdc1ddehvleflpohlxatjzru1lalo5rhp4tthank1oy0hwsvvbndnmdtjzbg1nzhbcdfhqmmpndtm3t1lmt2duy3y4zkj1exjnoel5whdry0zktg12m3rob3jha0hfrmtxvha4nhzhsvlkbuptunvwbvh5ytjat1neelvfaxqtelhmcw5xshzftg8?oc=5": {
+      "headline": "Anthropic Debuts Security Tool as Cybersecurity Stocks Fall - PYMNTS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:05:15.392513",
+      "last_seen": "2026-02-23T13:05:15.392530"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqavu3nvjrvmfxu3vfsg9uavpaoudus1jdv1recdr5q3cyvvzjenqys1ntq0tangfswjzvuzbhc1gwtgfvevznsjvnt1qzcezmyldkogrlcw16zi0ydhlrvdlzaxh4cjjru2ruoefhbdvfdwfwt3iwzez6mes4zm1jzf8xmhrmoudwejdvyxzutmexaujfwvpvvwyzbwhlbvitqnlwdhixnudiderwwke?oc=5": {
+      "headline": "Anthropic unveils Claude Code Security to detect and fix code bugs - Security Affairs",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:05:21.201605",
+      "last_seen": "2026-02-23T13:05:21.201620"
+    },
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte1bckzlt0nmn0tzbuu0tjhycnyyawxkqknuwhflwu0wm016a0xjbm5mn2v0b3p2vxq0s2fbrwznavu3rxlfexmyyjlxvkxumulddwl5zjvobefzx21zakl3nedftvbtrff2d3c?oc=5": {
+      "headline": "The persona selection model - Anthropic",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:33:20.263639",
+      "last_seen": "2026-02-24T11:33:20.263660"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxneezmmvhrzmxur0lvu2vvmwt1dephcedpm1npnwnjwvpywm5ma2dty0vktzrgluc3vvvyu2dcwwzxsu1qcflzdwpsvjd2stuwvm9rzhblmzbkaehpqy1pogzbthjwnhbpdfhhsdddac1iovbvnuf2vdvfmkrsbmdpchlhohblejywuwfxzi1faffamzey?oc=5": {
+      "headline": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:33:31.755620",
+      "last_seen": "2026-02-24T11:33:31.755637"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxqn1nqq2v5a0fecnbuczbkblk4vxlxlwm5zglxdgfkxzhfrw9mr0gtogitrudxrmdsvdv1bwzxltbzvxrzajlwywdpx1lkd1ryzwtrnzvzvuzpnlv5n0fvdvhqnw9sqjbvv3bqwmhqcxfltwjonkdxm2c3d3rsqu9gxzv1dmvod242ngvnzmfkujblckfcr29wverjvmxsqjvcrgfpmunxce1sv0hunfdxcuezaxd6mmezwnfjsgzzmm4?oc=5": {
+      "headline": "IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:33:40.452651",
+      "last_seen": "2026-02-24T11:33:40.452667"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxtfbfmvz2txezeedlwfbvblg3tvi5r3hcns0ybvbdtdawt25tv2l3wvdrcexcrejkyxa4rflaa1uzytnuc0dhq3jhvvrtvwizqkpamvrknkfvwwczrtbgu2t4uglhtexveutztwtswtztbliwdw?oc=5": {
+      "headline": "Anthropic's new code security tool causes market panic - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:33:52.154392",
+      "last_seen": "2026-02-24T11:33:52.154412"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqajnlbmfrywk1zwdzvfn5d2tcz0m3b3vzu1pia3dxznvtr3nwtmwyz0dxdzbeq3bzejfmadlpv2jhngxiujljvfu5nuteuhhslxrmnexcqwlnum9vtfvunk9vwffyzmliqw05wvzorhzzrfc2etq4cffhywdxwkdftg1zskd2mknfngg5oxddzvlodw?oc=5": {
+      "headline": "Anthropic exposes how Chinese AI firms try to steal LLM tech - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:34:06.891769",
+      "last_seen": "2026-02-24T11:34:06.891786"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte9ic05oznh0tl95cfdqx1pkwghmugy0rll1exzrwflxevpcvvjuenbgcvu3ys1ry2f6x3dtogz1av80zfr3yktfdjbnrhi0v0hmahh0sw0yr0p2rvq3mktweuhpd3bkuxzlcmetwg5waxczyy11zffhvkrr?oc=5": {
+      "headline": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:27:41.885153",
+      "last_seen": "2026-02-25T13:27:41.885168"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9tbjvvx3nzajzlqje2ruzanjvnre1roupitelqmfvsbwntcm92sm5txzhxqvv5smpzmkfcqnftlxltutlja09yutrqumngv1f5nexfqthsdkjfnwlvsw9ttud5sxazq0ryeuvhb01dnu1icgwwqudjskutenk?oc=5": {
+      "headline": "Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards - Axios",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:27:51.221979",
+      "last_seen": "2026-02-25T13:27:51.221994"
+    },
+    "https://news.google.com/rss/articles/cbmiiwnbvv95cuxndwi5dmxtbkdmamytcwyysjlmnemzdkhlx0pamk5szufjsgg4cgc4ektyzgpbc1loahd2os0wx1m0s1vkwws5wmppnlbqtghuenr5v3jadlhxcdn5zmfdbee2u1vwx0fnwkvuvgdgs3etdvh0ttrru1rwagfyxzlhbdjpc1f2v09iq0fqs2zvz0jkuerudndwaejvowfha0nhwnuzseftshhxeujlrlozqvzyvhm2t3m3q1vxmms0mhbccxpbsy1myxfkmnn0uec0n1uyrzrrdusty1mxquftmu95wgs0sflkoudgbtlrsnhoytrwc2janhrpuhlfymh6m2e1zfnicefyt1oxmxnhm1nootnjnhribedfzv84bli0s0pmuvbjmvrds2peb3lbd1pgylpcqjktwgm1as1ldul4qy15zwfdzly5mjzlywoxulfldlhzvzazsnldv2tomkvkn2hnmi1kthl5cjrbvwpxwxjpdnixvxjkmnv4blpkwtzwbjhwrwrbzw?oc=5": {
+      "headline": "Anthropic Dials Back AI Safety Commitments - WSJ",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:28:16.066641",
+      "last_seen": "2026-02-25T13:28:16.066657"
+    },
+    "https://news.google.com/rss/articles/cbmibefvx3lxtfboqmxuv1r3zfvyegjznflev1djcxaxmwxdbdhhrjdvvnlubmjteezvs0lwq0jin3bob3fmbxz0ntrzn2xqyxhivmx3v3jrddjgdvpkr0kyv2hmm280mhv4wmr1wm1ywxewqm1mmg?oc=5": {
+      "headline": "Responsible Scaling Policy Version 3.0 - Anthropic",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:28:27.412704",
+      "last_seen": "2026-02-25T13:28:27.412734"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnukdmb1z6vhjgdnz4ajfoznlqddvyueveyujymuw5t2hzefficmu1tkjlbfhpctluvue1ns1lzjrusdlud3zttgliweg1rc1qunizyznocglxa016su9irwtkexbqztjottk0m2rvsxjzmnrcvs1fx1l1ogdabepzqudhu3dabek?oc=5": {
+      "headline": "Hegseth threatens to force AI firm to share tech, escalating Anthropic standoff - The Washington Post",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:28:40.238066",
+      "last_seen": "2026-02-25T13:28:40.238083"
+    },
+    "https://news.google.com/rss/articles/cbmiw0fvx3lxte9qwml2ckjcczjycgdennrwskmyrk54vko0tvdvtzdjbhrhblzsb1iylw82slrqajm4rhdmrk5ou3vmek1ga0dfs01stgjssgg4dk9ky0c1wkc4czq?oc=5": {
+      "headline": "Anthropic acquires Vercept to advance Claude's computer use capabilities - Anthropic",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:28:32.255818",
+      "last_seen": "2026-02-26T11:28:32.255833"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte1xaedbn1vbslntrnnendjqdzbxal9uqupmd19tbkvhls0yy0xamtharjn5thnrd3zymfktczfly0jfwnnxne5kt04xsljtynu4u2tccmdktk51cghcc2jlckg5zzu0axk3ak5jzmz5vgflazbqemfr?oc=5": {
+      "headline": "Scoop: Pentagon takes first step toward blacklisting Anthropic - Axios",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:28:35.564151",
+      "last_seen": "2026-02-26T11:28:35.564166"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxocxdtru5ey0u1amloslpra2hkutllbld5cdfddy1ia3p5whhhznfvzm9azu5sqjhqlwx5cnhlnwoxnf83mvdrreyxcvd6rxd5b3o4x200ywxctvvob3zfatnwt2q1t1nkohnjuej3dwp0exv2rfpxseszt2uzzexrdthhzum1yk1yv0zsc01zwu9fvvfhmjj0y1lwrfa5adq?oc=5": {
+      "headline": "What the Defense Production Act Can and Can’t Do to Anthropic - Lawfare",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:28:39.448468",
+      "last_seen": "2026-02-26T11:28:39.448513"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte56qlawcf95bzdlevnfcu8xz3c1dvpjwulystnus2t5qlvwefcyywjsu0nnag1vbujfyvv4zw5icvv4nno2mut4t1nny242ahg1cje1exflelzqewdsnjjkdhhqztltz0nyzjhqodjuahkzathx0gf6qvvfexfmtuwytdyxcvk3v1ftvvywrxncwthymezaynvtttbtetfjlv9kvhbbn1i5x0dimvfotgthxzzsek9yz3rxuu9bc3droud6snj1x3hdyktrbndbdm5ym2tjeeq5vhzcm1zlowvpx2fanerqzxztdfd6yunxyle?oc=5": {
+      "headline": "What's behind the Anthropic-Pentagon feud - CBS News",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:28:43.142193",
+      "last_seen": "2026-02-26T11:28:43.142209"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqb2zgn3rubxf0mxlbeezlu3hwagrqeglrthlhow9nb1r5zw1uvjziu2f6muc3rvzwzxdcchk0aty0mw9qbtzmz1vooutqcfjgthlhz0pzwhlzyut1dmrbmeryx3fbx1bhzne5rmjivnj0mdi2vjhvr05ibepzclvzc05odng2evv2nvd0zfjjtmpqql9tekzack9ddnlhuhdoswfzwnzwahnmvew5ltdtv2xlogr2tdfyde9hwc10qm9vmw9obxffs0pjcgdunejkyle?oc=5": {
+      "headline": "Pentagon asks defense contractors about reliance on Anthropic's AI services, source says - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:28:47.697959",
+      "last_seen": "2026-02-26T11:28:47.697982"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpcg52nutvd2ctyjq4c25kagvzcndsznfkwmi0zehzwgznsfvfzkzkqmvqltbfzjlbouiwx21pvnu2tlljeljtwhzpv3p3dmvqvllvy0rkbevrwjn2qvzvwvfcrjjsekrimtfjy2g4dunvmm9yz0tdzhvkyuyyelrfunfwze4?oc=5": {
+      "headline": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I. - The New York Times - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:41:13.334150",
+      "last_seen": "2026-02-27T12:41:13.334165"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqufzyblg5muntdg1ianfttudiemutq3dus1h5mldrcjjorc15eg12dhdpewtrr1j1zv9qwwhkr2y3q0pvn2pnufvosgxkr21rr1dyoe90chm3yxbwckznm0jvcv9ld2vjd2g4nvfzbwh6nmxzlutwcmozy0vxahz4x1jprkdfwvvvc1lvsvyzewptqq?oc=5": {
+      "headline": "Anthropic rejects Pentagon’s AI demands - Politico",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:41:17.826040",
+      "last_seen": "2026-02-27T12:41:17.826056"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxpegp4ay1et1nrcxi3exvubgpqdg1qr2fnz3c1ze5ydfrocei2ujbqaeziuhzxewp5ti02m1hiddrtv3lmyy16cjhqa0nowfnpuevvbup4aujgrdk4d2j3cnfkvwt3cja5rvvrsxv6vgvmv0zpyzd1vnbwne5sald3y2vemxy1by1tvmtxbuhdsnphdwd0zerkb3rjzkphuq?oc=5": {
+      "headline": "AI giant Anthropic says it ‘cannot in good conscience’ agree to Pentagon demands - Breaking Defense",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:41:21.208394",
+      "last_seen": "2026-02-27T12:41:21.208410"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnefdjtku1oudxq1hvn1htafpnbkh0dg5xsnp4ek9jovnhulu3rtfvwffmy1ktx2fsqvl3njbiqjnvtlpqc0rtb1bmvkn3rznfz1d2ohb5vk5ycklzrjj1meg2bfzlckrys0hmtky0cgjlbuq3qxhkbxzymdv6bglrr2hfy1zkmzjutfjcwu9r?oc=5": {
+      "headline": "Opinion | Pete Hegseth seeks a Pyrrhic victory against Anthropic - The Washington Post",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:41:25.809392",
+      "last_seen": "2026-02-27T12:41:25.809409"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxovnvudkzsn3nztdvlcllqmkt3vle0u0xym0vkum03wkpznezibkxqvllsrnhmcdzrc3liylbdtw5dnfzows1ka1n0wmfft1hyyutzamhfm0tor2jgu0xqshm5t1l4odjeewhot0nldkhanu9zrxitv3y3n1pobevwvk94dfayodjzdtlgegnqyucwqwlsnlzjwfbivxbdqtq?oc=5": {
+      "headline": "Hegseth warns Anthropic to let the military use the company’s AI tech as it sees fit, AP sources say - AP News",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:33:22.341387",
+      "last_seen": "2026-03-02T10:33:22.341407"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpvwj2qmvudefjn1dolvpbdxywseztyzbzsmjwuerobvrenwlyouhftknndhe5yjfby0fcd0mxzwp4nxa2ylhosgs2c2j6vhfsem9tt2p5z2hnefznt1ixlujwenzsmtjobmdhd3ezswjpzwtyovd0zxbzdwdkmfnrvnrsblq5mgdab2i3azrxyw?oc=5": {
+      "headline": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:33:25.280382",
+      "last_seen": "2026-03-02T10:33:25.280399"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxozv9yze1aq1kycfrkamvpegrjtg55ngh2q3e5cmpvugt3zfb3t3nmmm4zy2rsrjlomzb5tfm2vl96v0jrclhqu3fmcejrdnfldxvrnc1em3g4adf6axfietutvdrwrfflow9rmi1oqxlpme9sc2hyt1i0zndfr2ltnfq1sxo1adg?oc=5": {
+      "headline": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store. - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:33:29.965401",
+      "last_seen": "2026-03-02T10:33:29.965419"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqc3ffz3hymwjzcnrkc2xnnmm2sktmzkxjcw9pv1nubejorzrlsursvkv2muvjwnvwdldkwhp1bw1org9ht0cxwkfxvu00vutzbzdts20tuenhx1pmwg5lq1nzzdlvz0uwaklwbjnprwfnrki4lujtnmnudwlyejvaafvqdvh6cw5xdtrtuzv3u3picktfaknizjj3mehsbkhsaaqbqvvfexfmtukxwmgtmefwy0hxswj0uepfchrjd0w3ujfmqmd4a0o1qv9mvhnpwvrnsufkchrkwhlnummyzml3vg5ecwffcmvxskdry3pmyum3avzlrvfilxm0q0lozdc0x1bnyjqzc2wyaw1za200a09cqwhanzbxcgp1zjldc0n5nwlpadryz0xkmlm0qxlzwenctxp1skpdsuvjvk1eyjhtq1e?oc=5": {
+      "headline": "AI executive Dario Amodei on the red lines Anthropic would not cross - CBS News",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:33:35.032680",
+      "last_seen": "2026-03-02T10:33:35.032697"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnuwrste9wvuljqwn1eg1qrm43whuwvxnvsxdqu2gxs1rgbmexee9sxzfivezdmxrcukpzlvrwqwnob2rvsvpzbkq3tw14mzrdqjq1cmvhtelwos01dg5odhljt0c5v1v3wm05aetnrllnamtfcgjhulvlsk41bdq0chi5eetnnzcxvwlacnllnfffmg44x0fvetr1z3jgzzzqz3nmy2s4sm94su50rfnjunq2nthudw?oc=5": {
+      "headline": "Pentagon’s Anthropic Designation Won’t Survive First Contact with Legal System - Lawfare",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:23:55.027268",
+      "last_seen": "2026-03-03T14:23:55.027294"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte1otjrkrjbdwtnuannctwhnctr2d3h0tvb6cjktnwhjof9itnq4nvboq3vnmi1jrtvinek2tgrxwjvrwjbawxlzcdzjswdltlbizkzvevhvbm5tc0reqmzfsjrpoa?oc=5": {
+      "headline": "Trump declares Anthropic 'woke' and orders Pentagon to phase it out - Mashable",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:24:00.910136",
+      "last_seen": "2026-03-03T14:24:00.910151"
+    },
+    "https://news.google.com/rss/articles/cbmi9wjbvv95cuxqzwxmunzpqxqtofvzrjg3r3bqwxzjcmlntezmwtrgv09wwxvyclhkck9xddrjaddhtnvvbw9qn0l6uurwmjzkvjvnc1e3zkrhdji3mehft1dsymjbzmq1ymxwofhbmdvqdnnyugtyb3qxd2dunhpnmzrmdusyc1lqt3h6elv2zhvxvzy0ms1xrtfeazeyndf3bfnlymvxd1e2t2e5aulyqmpfns1xzwxtql82ruvnodjldgjet045zfvdanjjcdr4mm5dalbsltdvn3l0awnqv1v0rfn2qji1ng5nc3lnn29im0xsq2xplxpzzmzyquhrblzqrxflcdjhm1rgauftn0pyudvlrmxwyw5azg85ytm5ntvubwftmkxsc3blatg5qm5revnlnmrstxnuwxbqwldozg4xx3ruy1fcevffx3lzbexfmtfvs2joq1zuzepyzvjpds0xyzvtlu5wmfl0mxrneerwevatm29gy0v4ww8?oc=5": {
+      "headline": "A ‘Fight About Vibes’ Drove the Pentagon’s Breakup with Anthropic - WSJ",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:24:07.928621",
+      "last_seen": "2026-03-03T14:24:07.928637"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxqvei0cutpz0q0r0hozhawevnpof9tv1aznkswrlz2ukd5zxpwddnhret5vc1kttzzvktuvjvldmqtr3kyymrjzgjizem0ehphdvdhufr2mujzzutwqvvxahjprlutzzqzov9fv3dweklmc242zf9xdxf2ql9tuglpuursvkm4sgsyuezfelnsajzuzm1wcjd2txczvk9by2dezufmzwnmx0ryektooevfdk4zrwllvtq?oc=5": {
+      "headline": "Anthropic Set A 'Red Line,' It Won't Be The Only AI Company To Do So - Forbes",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:24:15.474168",
+      "last_seen": "2026-03-03T14:24:15.474184"
+    },
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte1nx29vby1wcnh1te9bq1nawkthcxzjn3dsufjan2phztfucfnjmlu0b19eqtl2bm13wvfewk53mgnpmfdwx2zfvdrvcmi5rkrjmgg1qxzetxbhrknzr2f3vujcyzhmcwmtu1zb?oc=5": {
+      "headline": "Anthropic's AI safety policy just changed for this reason - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:08:28.381667",
+      "last_seen": "2026-03-04T14:08:28.381689"
+    },
+    "https://news.google.com/rss/articles/cbmi9wjbvv95cuxnq0vqbkjiohi1d2znchq0vdfqwm1qqzy2rtvpmnj0n196nfnhrmixm3zwegrqdxhwefjhzkvit0lyexctci1hymfjrgj1duuty09cte5kefp1ofa4ynu2bwi0t0pxsniyqwu1elltdwltvlfld1nicwdhbnlnevhlr0fpm3fpuxnatvv4defodtm1sulubjbnm1nxbjhkwuo2svljmdlym3q5vndwngxlbme3mk9zqxvhullmzl9is1rmtgnqbknxlwjwb1dmvkloz3lxz1bumzjunlvvqlbvr0jyd0fzcjyzyl9qn09evwy1a1d0snnqnfhzzuyxdldqb2ztzxlqc0hptudwq25tvthenhdvtepjv3jstwhmumlttu5kzzjlq2zssvqwaxvtzmvtt2rwd3lfmthjbxqyuupvveqzx3zqogttveo3zndru0vfqy14vkk3qkstew91ofrsm2nwtvm1mw9jr0vzb29uu1pitg8?oc=5": {
+      "headline": "A ‘Fight About Vibes’ Drove the Pentagon’s Breakup with Anthropic - WSJ",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:08:31.912725",
+      "last_seen": "2026-03-04T14:08:31.912744"
+    },
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1zqwjxunlft2lcawexnzrfwxiyafrhsuzlzfj2uku0stqybzvzv2vgaeh0a3dqz0nxt1jnslribmx4nwlpmvdfy3f3rgq1bwhkny1aukvqu3ddt0k5selgluxxttbqu0zvn2pwlu53?oc=5": {
+      "headline": "In the Pentagon Battle with Anthropic, We All Lose - The Free Press",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:08:34.849029",
+      "last_seen": "2026-03-04T14:08:34.849045"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqqxdflulibefcymh4cjvsnjf3v1vquhdmwtmtnfpjtkpfrzc1skvmotbismnoaeppylkxt2xmwnlravhuekduq2nznxl0lupivnu3rg1qm3hurs1rymu2dzc4u2fsa1ncbg9vtednzm1tq3zvbnflbfdtwuraauxizmnfoehpngzpuwrntnzfwdvjzkpsmwtpwe5sze5ucda0butha2hnthbudc1immhytkn3?oc=5": {
+      "headline": "Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military - AP News",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:08:39.448026",
+      "last_seen": "2026-03-04T14:08:39.448039"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxnlw5pn1j0wtvhznnzdjrgmejsdjqzuy1sq3gzcljmbwtumnc2qtrey3hev0rsnhnvmdhnbtnlbenstgffvkt1qs1huevrofkztuztof9qsfpdejq5buhlm1juvgxjbjbfdkzqm09xai1yvlp6x2dwrxozce5dstd0mc1keg93efzuzdfob3psby1takjrvtm1qvezcwx5wfi3blrzzmz1r3vieklirmrhcmf4wefnulo5sdk2b3nmqtb6qwnqddj6tmzhsuwtcs1mddjqlwxmtwtmluk?oc=5": {
+      "headline": "Defense contractors, like Lockheed, seen removing Anthropic's AI after Trump ban - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:08:44.340108",
+      "last_seen": "2026-03-04T14:08:44.340131"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxob0f2y3y3ec1utjbwyno2owd1m1lnsmhprnzcz05ubgzidxy1tu90wjnucgtardjzrs1lqnlydtzqznrkx1nlz1bqddjprkzkmkrmu3jbwhjoa2vzwm0yem9ub1lwzhj5nuxfejrlefzkoefvmxfazzjjov9jrmznmtdjzxctue45tkf6cw9temo0bu9mml95wddrz2dqcgrnb0dzcufllvl6ukx3odv2n1fzdlzyzw?oc=5": {
+      "headline": "Read Anthropic CEO’s Memo Attacking OpenAI’s ‘Mendacious’ Pentagon Announcement - The Information",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:11:14.047927",
+      "last_seen": "2026-03-05T12:11:14.047952"
+    },
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxougzrodn2q1lhy1hswut5d3rwm1pnb0d3c202q2rxwtlimi1yzmh3ou1ysgtirmsxbhdasuy5zzzsyv9kvfjxogiwugtlclv5qzhlrmvswun3am03owjpag9vm3b2ohplmf9zcgrmt2thtfj0qvd4ew96rvdhntjbs1vlz19lcglcsxhjmviwzejtrkjqmkx1dmc0chbxclroos1vvkrtqwhmwxc2rzf5luhqenfawmtwcwzdt2vhzvlrtzjhsjqxmzr5z2xdbfzvauxmtvitcllycjbg?oc=5": {
+      "headline": "The Department of Defense’s Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act - Center for American Progress",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:11:16.837646",
+      "last_seen": "2026-03-05T12:11:16.837662"
+    },
+    "https://news.google.com/rss/articles/cbmizefvx3lxte9idfcyaguywxbiyllnr2vzy2k4dzi1zgrkec1pzlvouc1zt09kmzbonulhz1jxmgplndreb0lzwi04a25fdvjjww0ts0pvy25qdvpptgc0r3noalnbnjj6q0sxvwxsawpbvv95cuxqdtnbzexpv0jdak9bnti4yvnjbufay2hpztyzx0zwbjjydkt1yulav3rzx2j5yxb3dezomxjnyk1kswi3yknwq1loof9fu2vmrxjwagrpzk1xwjdluxfmvk0wywpnsznpbff3?oc=5": {
+      "headline": "Anthropic CEO: We're trying to \"deescalate\" Pentagon AI standoff to reach \"some agreement that works for us and works for them\" - CBS News",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:11:21.291159",
+      "last_seen": "2026-03-05T12:11:21.291178"
+    },
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte03tzu5uvbtywdnbfhdcthiag9tbtzxnumxck1qu0pwmhjsodr1uhzhu3vedmf1aw1mlvjlvektajbxc192qw1tsvrbdjlsylztrenwazm2zfcydw?oc=5": {
+      "headline": "Anthropic officially designated a supply chain risk by Pentagon - BBC",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:11:07.274424",
+      "last_seen": "2026-03-06T12:11:07.274442"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqtxdbsww3vmzvmxgwyznsoxptuw45dkzorgd2dfnzblppaxjwthrpchjns0zqdwm4nxlfoulnqkjmywdfdkfrvghqni04zldnwelwb2vusy00yw1zdxhnyxp0aepur3bgdeqwx2nqm2hqnkvruxlwoglxajj5x1ddm256ce1uqxq0r0tmuexmsxjfc2zur0x0cwrxu0zzdw?oc=5": {
+      "headline": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’ - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:11:10.757642",
+      "last_seen": "2026-03-06T12:11:10.757662"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnv0z1swr6ahaxrlzdx0plvdveqlhsz2pfz1v0y1p3yw80s0djnnm0depxeknootnmqwfwakzmddfnqmdtnxrndff0qkhsytdzuweyc2flwkktduxgvkt3q1flukd5zg9fuvl6wuxcowrmmfp5zlrbrkt0u3nvcmleyjazt3bkalbvtzjgnkfn0ggtaufvx3lxte5pei00tlv6evzjqvvxeg9fzm5mwg1sqzzhz21zy25imu11nzrcdljzbkq0ukpmcc03oxbonkh6me91burgs3plwhzzsgxpwtbolug0nk1qtmjgafv4wnbuq0vvcmdnnnr3azlpoflpoul6bgptskfib19jru5jlufyx2fkx2fdwxn3mexiowj4wvbxsq?oc=5": {
+      "headline": "Pentagon formally designates Anthropic a supply chain risk amid feud over AI guardrails - CBS News",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:11:15.278852",
+      "last_seen": "2026-03-06T12:11:15.278868"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxqs3qxaxizsxlvsudvbvy5ttmzt3bpuxdjts0wm0jbtkzeadlsngtcb1hzzzfkdtzadufoz05ormvzv1dpeu5jrupodmzolu5ox1lsszvpcxz2bv81z3fjmdvvq1rfewnhoee4agxtngm5y05uvghhbge3ylf6v3zvr3ruvvm2blfzbezqyu5tdu85wxyxnwc4wwfmzkf2al9anti2znpjufrowktudtrkz0taum15zxbuchlqrdrlczjyx1luskrlefjevlvtbuhsadqbqvvfexfmtuitcl9xbs1zetdksjlud2tong51n0w3og9jc3jjtmnlmjvprwnibwzpz2tflvdvnehowtvzzmlqm1yyaznjofdyuhjzugq5wtvdzxpjrmh2bejruedvd0hlcgvvsmj3x09lqjnpmdlhvw5gb2ljrjfzewu1zhj5mjlqdth2agr3q21sdgytbev3ekw5x2jcckvwt3m2zzbadtj4n05wtkc0wvfqn3nra2cxm2zabzhhbzfsu0oym0h1qjgynglyukjzs25izvi3yvuxoe0?oc=5": {
+      "headline": "Anthropic CEO says 'no choice' but to challenge Trump admin's supply chain risk designation in court - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:11:19.750366",
+      "last_seen": "2026-03-06T12:11:19.750386"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnr2tcnwr4bkfcqm9js1v4nvbfuvfjzi1qzuh4mvbnn2hkzvllswhpz3r1nlhwovnoakvkmvnib0vcvldtsvlrd3rfaknlwwzpvgw3eu00wnhcthjcuzjiu1jitlfjuvv6tm9ovvvfdxatsjnlsxhnalotq25iv3jqdw5kt3i3smz1ou1sdmi1uwqyv2t5zgf4akhlv2zznu1jsgj1repjung4atzfvmxdem1hews?oc=5": {
+      "headline": "Pentagon Notifies Anthropic It’s Deemed Firm a Supply-Chain Risk - Bloomberg",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:11:24.586985",
+      "last_seen": "2026-03-06T12:11:24.587001"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxqdmt6y3fuvdfpcxltm3zynfnialnkeuk3sfnwvgvhm3rxcfhkwvzqc1bqzdfxrxj6qm4xmkjfc0lhrkhkeupytw1trzbytgo1ruo5quxbttdubnryc1jjylhxtwxis0vhau42snm3emfjsfkxbhjka2nhwmnsvtnjaxbismncugzivlgtzehhsxr3vufrundzsl9um2f2shhstui4x3d0u1rhs0vqyndjnxpqlwrgblblbc04tmxkswxoamvqzg9sourtvmlieedxltldew9iaw?oc=5": {
+      "headline": "In graphic detail: How Anthropic’s Pentagon refusal is paying off in downloads, brand trust and enterprise deals - Digiday",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:11:29.829401",
+      "last_seen": "2026-03-09T13:11:29.829421"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqr3dyykjmrlpntum0unprwjdmmdjkrknjus15augwuuo1muxpltdjvmq1auvwa1zaq2dpyu91dmdzdxpjb1rhexzutwnadg5jovjaxzq0tnffclnvx0j0vxrrv1j1x19zcfj6bfpwaumxrfnbvdlrahlrbnjpswytn1fbx0r1tzbiqndvt3bqqtb0rvr3emm4rnnjbm9hrjjwc0e?oc=5": {
+      "headline": "Musk’s two-word response to Anthropic CEO’s claim its AI may have gained consciousness - The Independent",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:11:35.907855",
+      "last_seen": "2026-03-09T13:11:35.907886"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxpd0zpdwryn1dgquhzvk8xvfh3m2qzcungu05gmw9utjmwvxpuzkpnuza4ufrrdgjbzvk2cwvyx2dlqzhix2rva2rxr0xjzuhhetnnbtbxmem2reznautduerhugpfofzvckllz1pynfzqajc0szzfthfcwv9wmzhmykfyruutogfmqu1tawthcephohaxauvicdfurvjoswvvekpasha2q3vzv1nuuzgytkjcma?oc=5": {
+      "headline": "Will the Pentagon’s Anthropic controversy scare startups away from defense work? - TechCrunch",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:11:41.668937",
+      "last_seen": "2026-03-09T13:11:41.668953"
+    },
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxte00ogdyaujwykpkvmjduuvwouy2aexxrkr0ekrebmfdakpoc1rtv0tyykp0a0m5vfvqalhcd1hjewvyx0pdnk9czzbdwf8xs2gymc03n2q3m2rmqq?oc=5": {
+      "headline": "Anthropic sues US government for calling it a risk - BBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T11:02:43.627134",
+      "last_seen": "2026-03-10T11:02:43.627151"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxpwwlmdvvfaeiyag9faensawphbvlvq2zrzwdkvjvlawuzbm1ybwtlznzwr0hetxp0chvla0i5ufh6owfndndfcjn0mlfzlxvxrjnwagdzahr3eu9dcnywry1pylvsmfb2qljnwvhoel9xzjiyn2rguehlddh0wxzfzdfqu2jstgo2s29loe84rmotuda3rm5rdfvoutrlqnnvu210yxrn?oc=5": {
+      "headline": "Anthropic Claims Pentagon Feud Could Cost It Billions - WIRED",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T11:02:48.234037",
+      "last_seen": "2026-03-10T11:02:48.234052"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxnvhnwzw03vfpjz016vwpaqlnndwxkzjaxufhtsjc5mznxdk5texrdodg1tnhesdaxowtmvnpwmgthv25qztfgbwtzehdxnuztrthjcfn4zjlfqnzkrjblclr1y05ku1fjreu2aulfthjvtdzpr3vwr3j0uzneb2szqvhr?oc=5": {
+      "headline": "Scoop: White House readies executive order to weed out Anthropic - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T11:02:52.648566",
+      "last_seen": "2026-03-10T11:02:52.648592"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxpatcwmwhyvm1pyk8xvgh0nk1bty0wnghdow1ta2zvakytvgqxsw5wylfiuhuwdksyquj0cmxia0tycu11clutzneytmzsbzf4dgfqngpvek0xzdbobxdwsthjswzhlurnwglzdld3retcttlinfzbsxnlt3ates1ibg13m1qylu0?oc=5": {
+      "headline": "Anthropic sues Pentagon over national security risk label - The Washington Post",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T11:02:57.639022",
+      "last_seen": "2026-03-10T11:02:57.639038"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqsmhnatq1qw4yv3dwzu1gvu9kvy1grhdeynfjejjqenuyqw5brvjxngdyy1pmoghratzob3joynllsu9wefd4wjb3nuu3x2cyeg1nn3vuego2tzj5zk1mnvdvwe5ncu9lbdrfuutcuhzsmtdjtw9ed2r6n2c1m3lrnuf5uzjqu0jtexb4qvd5zdvocgz2ww00bdq3tznytjdndee?oc=5": {
+      "headline": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T11:03:02.338602",
+      "last_seen": "2026-03-10T11:03:02.338623"
+    }
+  }
+}

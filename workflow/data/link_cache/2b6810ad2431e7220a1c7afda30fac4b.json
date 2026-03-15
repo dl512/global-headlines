@@ -1,0 +1,651 @@
+{
+  "website": "https://news.google.com/rss/search?q=Leap+Motor+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte03lutoy1vwenriy2xtrevab0hyslvlwunrzjrkrdvxci1tbw1ic0r6t01uc2xizhvpbuc3ynprn25zdlzutg4ymhnzvklsoxk4d0vjutbhnxk3snfcvmk3afjknmfgcxbwnfjksedud205dk1uwgxz?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxosenpzvu2wedoamgtwkthwfu2unrhdhkylus2sktsz3pnbkzsr1vsvu5zu1fns09iv3vbvlnqdkdvouh4akd1ltq2cgvkogptekw3ejm2q3jpdmd2elu4ovh0setyby1senv1yxhuwef4y1kttfrrzwxjqtrwykoynzr2m2lzsvhlcu9gr2psn1nvqly0aerjvdncvwjqrfnss2noohfxbznrdxrnr3lubhlqyw?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1fzge0snbgwwhzweh6udnlcgxjdwhabwczdfpsnw5vzktzrmpbwtzyyxe4ndnfvufsylitne82blf3bey0sk9ueta3uhjrsjq3af9r?oc=5",
+    "https://news.google.com/rss/articles/cbmiowjbvv95cuxnvelblxzrnlrsadzwmmvvnenuukfzng82rjrqannenuqtx1nwzudmohlnsznwrmtpbepczmhttxloyknjsfvcckdaumnywxa2rujnotrmshvzwmqzvkm2z080qkliclprceuybfrtmnn4ahp1rl9hoezusgpsrhjyynp5bmhiue9nn19mnm8wmgdimmq2n3nuznuwai0wa2qzr0fla1rxyvgynks5yv9pwmpzenzyakl5vxroam4zzfjoa0vdstjyse0tam9lyi1yvjzknkxzsy1sbnetq29onglrrxqyt3fjz0r6wunfrnbytlpioeywq1jiymh4ztnjlxgtedzjb1rqevc0bjzkekxsutjnttfcalowsxdiutdkwja?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxnywytrm9mshninzbfu2xtcvpybjdkutl1tzllszzicnlor1hask9mqlpvmum0vel2zk1yodzoclvznhbjx3huawtqtxy1a3jywvawd0z1wnhuz0szewzra3v3dk9ytwv5bmvnstnwbfe4wv95a1gwznhcmni2uxrmrzbvbk9ithd2vjjcdgxtagptq0t3wle?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqcnhqr1bhvkfamulkdve5rwvsedrfngtksndktnduclo4t1vcd0rjullht0rinvdov2v3tmxzzehluflylur1chr2zwdzbth5mnu0owlab2podk91ohzamfo0zhhiqupire84zxded18ytxfgruditml5q1vicwl0tc1hnvbjrhbhuerctvdpclvlnefzcwrungx1bjh1tmvuehl5wet0meo0etnkctzuulpfnu53bmpumevjylkwbhl1m3h3atzidfi2m1f4bzjnemjb?oc=5",
+    "https://news.google.com/rss/articles/cbmis0fvx3lxte1ta0fkdexfwu44s2dcme5haky3s3lfa0fvwlp1edi5agdkdgholwhud2f5ympirudin3plz0hlakvyb3lbzdbncudkc9ibu0fvx3lxte9pwwjpa0pqshl2czjnounbntnbd2d5tne5m2djm3jtcvjnbepsbuppemheohixujvgsu1zwml0dvi0qnutcdvutgnqdkzjyzhdlxuw?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqzzniuxjkzm9obwhzdxyzx2prdkjan3nazi1tzjh5uvr4wdzeb1rgszfavzy3x2fldfiwykjaaxvfzkrmsnnqsfhqq2ywevbzmlruc3djuupeylnsuw81d2ffwlnfzehss1pomlvzqtznmv95svhvalq0chlpbkphqv9lc1jxskhdrzvwzlhfq0fotdlccxfivjlcawt3mkexztfjm2vpcwwyq3q5ovlinnvmt1z1rdlszeh6zmjxtznxmmlo?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnvuzpduljmm9fzjvkzerqa2ltnvz2nghxnmxeyvlobtbncjjtam9jm2xnylvzyvg3mknxcmzfnc10auo2cmvmtgdvbeuxb2zfz3b5utbvdwllqmkwuxvvyzg0z1vyedvluu1ucwvpnjhqvepubf9vrtfidvplegtqvwzvbun6n1e?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxoc3e2zw84s3l3wfbjzkxtq0vjshl5b0ewbjf2c0ttt1uyrjrfsllmvy1vn01xs1y5btdzmndtownkzdbvumpbdg15qjjlszrlcni0whbuymrkc2l3wgllwxrlwge2lvc5ymy4y2tgskwzrew3sxzrmv92mfg0ofrxvtjqzktxodh5ofnqcgiwtfpkauntr284tdhyrlfmdvhxsdb3a0hqcm92bty2vl9kvwxkrnd0emxl?oc=5",
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxqq2ljuhh0c2hwuvnjsfnibwxst0dzyuzszzgwvmv3svk5ote2wmd3tzvkthfnsfrpzuduqvrmctfevdgxvwnzmdzvyln4etd0vvpqcdnic21ocu5fedbwbnv6lutjv1jjcko1weg1ovm2mvvzzm85aurjrtfau3fftu1mv0fhmzbxd2lpbe0xadr5cf82nkzvul9iukv3ugrwqtzxrk9wt21mnzzyem1qtkf4eejedfj2mw1ez29jnm55t1utltu5v3r1mfe?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpsfvdwtdsamv0nklhs0fwmwxgvtnmnfvkn1zgbhpjtlfmc1f1dhbfbtjgdtroykrtrnm0rnrkvwlxmkjpsvzpbxn2uffpazlomep4eeztrfhnrjmwsdhhzudpq0pnrl9ylvbwltd1uezjbzrfvlrqefzzmw5jtwitmu5mctrirnnjv0vcthzrbw1vemrqohvhzklpn0e0nlhgn0kwb29bshllujq1uui5unm2sly1rf8znmxmctyxcw?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpdli1r3rtsdg2u2fpmknqakkwtfrlumjntu5bvdgwywxxaulqb2piruzqr3pwc3hxckq0blzfqtnodmdvn0pprk5wy29mbwtvsk53ehfpexnmdwnuv1hmcgriedyxwfn3rteztgfxc0t4d3uxv2pmsnlzvfbwcnvdvc1mb2tkutrwzedcy3hbc9iblafbvv95cuxoteh3vthlou01ukzgumvqzknvvmrjv3vvrujacmixtnc3auptm3c2avbrrwnoddezm05fws10bu9sq3dty1llz3dqve0tuufraevyqwhmwllgwurythd1vfjna2h1ulblq0dgag5yc2dxbep5si14t0s4bkreedvsou1lmc1sqk5wbjb0ujzwsnhxtxlw?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxpshrjwufxykx0zlo0wegwrfdgwgk1c21zzme5axrzvwm4ywz0ogvmekvomhvdltfqadhkwenfcnhwogy0x3vksg8wt2hyb3zirly0uel5zlpzuzfraehtb1qzalfyeetldgnpsgvivs1ec0ttrg9sehmtalrmy2gyvjnvctfjrvgtn2ljqtu5vgtfc2vxnhvkejvsvlv3wtz2afyyzmlrahb3ehrs?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqowtpx29ytfhxamjjcmfxqk1auvdisw5mznnjmtjgehbomejjwjl5s1bremtoyy12cu84rvbivdfdmeyyrdyym0d4wm51oti1uwn0z0hcmfvys21ntuloektxs0letdfhrkczsxdgztl4bulyszlyalnhehvnrmryddbjahpmqlzlrzb5cgznwmt0dzhmq0mxum5n?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpx3aztvbdtelysurnakfzbel0q2xxsdqzzluyqu56czqtsjbwody4zhzyree5sepvq2tftvfrn2tyne1iofjld1njdgprxzn4uddltjlgru56thpfmhhjne4wbxrlcndpztbaqtfkmklguuv6uzrbrgtpajfdnjvhz1bjufppaklebnf6af9rwnvksmhqlxd3x2i4q044dxnrseo0a1d5a0hsyjnzulnfvmhtz1foadlmaxfztdhnvkx6vvvw?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnr0ncz09hzl94axbmampyotfjrehybjjxtfhzuu5auxbwowd6yjzwbfrnafnlnjd2rtzurdu5ullfzmxjugvuu3zrwedasdhes0y0alrvcklvnvpfrvqyufb4rwxwqjvyawffdmxdnfjna2tot1btmf92utjiselncjd0exncnhdnrxvms1blofnxmnj2nwpcs0daqnj2mvbattk0chk4bw9jbfo5rg5bwg4xm0lfsvrkmhc?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqcgzsbkn2bhhqltvwcgnprfc3rurvshphevlmmdbedefmbhlrz1potm1zum9nbmzrzth4z0s1d1byz285m3mxvgnvtfz4enztyujrrmlywxlnshvwzhdjczrnse9wtvptruk0b2pjnxjsv1njdzvlwujqz0nkdkwtq19brnryaud1sjfjcvvqsk1izzrluuvbtgp3?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxqvlbzadnwqnpsrfyzx0xqbg5rukrfx2poavvpzmresunmue9ym296bklrdtdib0tqbjnllvznv0xoefbutdczwwnov1bbm3jtbunvtxjfx2zgcvzsq2vprue2c2r5wkdqltvuvdvobgrsckyyqwt1s0pwwdg4sukzewxpc1pqvniwnfhnztvxthbtmvbhx3joofbxzf9vc2zoajlvrzbpwxnfdgzvzxf4delkm3ryuq?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte1fn0jqd1y2qurxzmtlvey2bmlmnmtqcjfpyzzqzhjhchflr1jiqvbxwthybtqtuvvpx2hfmxnjnv9rytjiaedqbmjastbjbwn1lwzirgjicevzyzk0wezjwmnym2vsqvrhendrb0xfuwzzazzhvjfsmdnpr1u?oc=5",
+    "https://news.google.com/rss/articles/cbmi6wfbvv95cuxnx1podxzmoejmaxr2tgc4rdlxddy3uxp6zvlkowhmsenhwxnarxlfow16eg1dteduodzquk15wfbfutrtulaxchuydunonng0du9pce1lbvzutenaswdwy0fntdlfznk3nxuwqutpc0xmv0lfbtrnuxq4v1qzmenuaefkowtpx2e3bkxrcfpvbflquxv1qxnrttvxznrzytrfahozdldmnvlozexzzee4mldewtfxy2jhwulyztdry2ppdjfizk5vqjbedettwflpswuzvjjgvkqyclfbqnnlsxp5rkxjcflituhv?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnwelmx0hynu1hchywvhducdrjnthfr21gakywmu1rbepsbzholtnnbkdux0xxv2ncb1jrckd3zfjrn256vlfnctvewvdddnnteww0ck5qcfhvb0rwedrxlxfucdfuqjjycgdjdjjtcvbny2vkmlh1u280whazq2vuvdzrcxktyjzjcxnjumtrntbdczzvcupvvdnyow9wmjatnlb5uk5rvfllz0ht0ggsaufvx3lxte1yswzfshi1twfwdjbud25wngm1oevhbuzqrjaxtwtssmxvoggtm01ur25fthfxy0jvulfyr3dkule3bnpwuwdxnurzv0n2c1n5bdrytmpwwg9vrhb4nhetcw5wmvrcmnjwz2n2mm1xugdjzuoywhvtbzrycdndzvrunmtxes1inklxc0lsa1e1menznlvxslvum1g5b3aymc02uhlstmtuwutnsfm?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpu0zbdtniywtpuutxeudnclhrdf9ynmpuekdunvvwrnpyrvrsunffv0qwzw9vdgrtcwpcd2ley1bzywh5umjpx3hysgmxctddotzwltc2nhvqytjsvfleru44tjrxbc05chjos1utefloath2s3i4yvbxtvq5tlfjrjnoskj1znbanznmdfbr?oc=5",
+    "https://news.google.com/rss/articles/cbmibefvx3lxte5er1nwoejjnwtqnee2yzjgq3uyvglwrxzmswzxde5gvwznden2x2ywcwpltudwrudgc21edgl0qzh5uehvetfxzzhvqxfzy2ptdnhtagjds2u4ulrosunmumvmyxbju1l2ae9pda?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnmy1nltk5n1dorvlptmhrrlizr09pz0y3r1lzy0k5mwhqmky1dngwvw40dzzozdlntkzbrlb6v29wyxnduwfowf9xcejhmhzfee9wvvvsmdn1y2kxu3jibw5brejzctrst2tsneriqmhsmenmc29ktgfbvkdmq3fregjxdmpvrwnrzdvftwk3oungamxpm01kr3bvzlfvwedvanlsyxfduel6zw?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqbk15zun0odb4zlpwzgl3dnbvyjlmx0jzv0ztr0rjylk1zfgynlzgb25zaexbvvmxn1nws25zy19smhnsm2l0q0fhulawtvj3vkhwym5xtnl0otrodxpeukljb1j0tmv1nwuwdulqrjywclg3es1nq1fvtwdmzkflu3hxzwhoburfztzrrno3ogvwbvr5ahbkbkjb0ggfaufvx3lxte8xtwzjy3hfcmrlvu1dzm1pvevuuliynuntsgljvxlsqmf0zfzbvfqybefacnjmynk3egfrogvmmulxss1yowtxejhod0yxtzlxn0swqzb3vzbsmhf0ltnecenmmhe4n2r4bfb4ckvncnatzktoykp6t0p3quvkmkw5rfdvuhbvd0xhbmfvqnbhsw43otlwy3btehrxmuo0wq?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqejnwnleyqtv6mnzrbmdsnme2dgxmr04tugvmouhtnmdqzfdycwpmuej5nfvzztf4vkjgywdkrfhswhvnzkjgz2i2dhpywnzyas1hy25ldg5belq2tvlfbfk1nkpkamrhr1o4nzlucmziclnyagvzeengala5y3zyu1vfvwzftg1va0xpuwttuenungf0nxfuq1yyq0jkrkdpmm440ggjaufvx3lxtfb6m3a2utjbnxoydmtuz2w2ytz0bgzhti1qzuw5sfm2z1bkv3jxamzqqnk0vxnlmxhwqkzhz2rewfjydwdmqkznyjz0elhadnjpludjbkt0bkf6vdznwuvswtu2smrqzedhwjg3ovryzkhyu3jozxn4q0zqudljdnjtvuvvzl9mbw9rte9ra21qq1q0yxq1cvrdvjjdqkpgr2kybjg?oc=5",
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxpbfzgrdl0vtdjv01obmpsa2rfzdixethkrfhncnd3m0zuqwlqmvoytfhfog5qdl9mrg5ezzrbnjhiewotatlyzwttnhjsbf9mqjdyynrozgxxddvjbgjpwue1b3pnthi1djmzcmo0vtjtz3dammzqympibel2ny1ls0toddfrd2m5tdhtaed6z1jqr3e2n0zpqnpuvtrpszfuzmk3tflvqlfnann4rnpzn05mumz1ve1xeu5btmzyukh3ngxdvhztrvpiq0xgykhotw5xrhdmtdjsadgbqvvfexfmt2xwrkq5dfu3svdnag5qumtkx2qymxk4zerytxj3dzngvefpajfamkxyxzhuuhzfterurgc0qty4shlqlwk5wgvrbtrybgxftei3wgj0agrsv3q1y2xit1lbnw96z0xynxyzm3jqnfuyu2d3wjjmugjqymxjdjcts0tlahqxuxdjouw4bwhhemdsakdxnjdgauj6vfu0t0sxvgzpn0xzb0jrtwpzeez6czdotfjmdvrncxloqu5mcljidzrsq1r2buvayknmrmjiae1uv0r3tew4?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxns3eydl9dlvjyx1pjazg3d2lisffuwhi3vwxws0zhwljuzxyxn1fsmfbwdmzrtzhzu09wahn6cgxbnwncm2dldxbbwm8zemvnmjlaovk0zzhav1nzcfy1lwqtnv9eovhncxjlu04ywmjqamzksl9fm0zrm1b2dflnn09xetngrvjuqti2alqzajfnn0fvnvzsuk1ymuvozkdktmmztexebzayuuxrrv95wks0mjvlvxrkn3jns3njma?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxncufnn1kwdtziz0dfvuj6a2g5zkx0muhkqjzdwhlkvwozujh1luy5mvexmnrhy2j3ouw1wi1sumdtakl1mek4vdvvmdftmmjowwndovzqohzxtjq3mznonk04cvlcskdxlvrqrm93sev3ufrzzepjq3fwci12chporvftoxnqsgdru3hsuxnjzmfsse5xuetza3pr?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqrgpjtgi1vmxmt1vmsmjbndbhrlc4cxfwsdr2uznuodzxx1h1uhzmaldrmdfhcwt4amjlqla0xzawu3zwwgjtadlwotricetsbtbjbwzuvll6df9tx0q0vurcu0ptrk9rykhstkppd2yxzmtyrgp2ujl6ctzcszlvrg5oyujxr0gwdzg0t1bn0ggtaufvx3lxte50rgdxd3jwy3qzm2dmm2dgrvlynhzvuvrjng16ujnooty4zkeyxzdkd2nvnmc0b0rqtxhmahzhnjnhywxmrtvgykzhn3flavdbcu9euzljmetbrvrldm5xevjkudjzm1zfazljmvzuqmrpaus3wvm1djnqvedishnwv19itxv4de1vcgp2vndqanhyuq?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqr2hrelrgb0otuwjeumnnsnmxwujjv0jscgxqoxlpahnxbxjrdmjwvle2sdhibnfxbmf5medyzmdnqjrqoxfslwrmudntrl9hvfcxdje4t2m5melfouvmtldxcnuyb1zfazgxr3m3t2hjdxfqvwwyyujyvfllvfi2zlliz0zjohd5njblulzxrzdgvuw4svq0tmfdckdqtm9uzjvxa21b?oc=5",
+    "https://news.google.com/rss/articles/cbmiganbvv95cuxnr3neyjf3zwfhse5mexhfyko3skpirxlnznjaqulkb1fcuwzkv1bktju0r2j5lxjjdevqtvoxqzq2uu5id0hkwev1a3y3amjwlvvrsmi3cddhwmezstg5ymzpskjoznq1werwbm5jzkjtynfvszdvamdkzzrtx2lpb1czoudfdthecmnxmm9manrjwvnzcwvtdkhtegzzowxwmvitluxsvwgzdvfdderfshhwcwetd2dddtzkd185nnyzcvh2mnbomkjeskpuwdfjn1lkqjztoxprnvpodfmxvgxxuu5itjnlrzr4z295yze1nhpztgltrfndby1ib0ffv2dvwfz5a1lzau9tsu1vz0rsowjjmjbgn3rpugs0yvnrs0m3ee9xmw9ycm1vekr5a2jfs0k4a1livhbltmzqrgyxu0xbq2zacnzhcwtnauvlvv95nzdunfhwdjl6dge2tgfynm4wduxhcklnywjuwg1xagp0ufhtwm1icvlceu4?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpx2dzzenunwtmcelpstlgbg9lsvhkm29ntuxywc03zgi1rkjjtxnnvvlxahy3v19szgiyx2nvq3nqdexyttnpqzzdu2cts1pvr2zsc2stsenxnedslwtjckpaa2jxnlvumdrwszl1blloykuzb0m4njzoqknvrjrgwnvqmhi?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxqelnsrlrlmgl2sujzdzrmcehorkhkqs1ztgdyakrcc09uzllhamj2mkrgbw13d0gtevjkbmr3ahdmmdnevgn6mfc1vnhllwixwtgxrnrvz29kdfvzxzu5uvjeywvzmktpsvyyylhmelzsdtnbu1nvetfnbktlovjub3mwv2ffsnzqnhc4c1vbrnffzfvyeum4alfhna?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxovtvgd2x5rfdzdnjmrfc3net4cxlfdv9fexhswefsd3zavlbxvdczcgtltxvysja0ulbvsu9vd2ppvutkowzfoul4oxrxdzjooudjwlzurg9otujkbnewudk2tg96odlucwl5yxbrsny4cudvz2zpr2rjmldtseljym1pduxsrgtoznrstmfku0vjt3dzbez4ti1rykr3t3dpvmtsrkywaxzlmk0?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqt2rzr2rxsjl5lwppzw9ybw05nhrdwmjatejtz2p6dtzud3heevkxq25qs1dgnhvwqlliwxbqmw5lq2tfau5hskrezunfyvn0alpnq2zlc0decwtamtfsttn4oedrbwpjtev3vjg5njhlaxbav3nwtzu2yjbxsvc3exnru2fqow5wr0jvblbdvze5cfnomxjry05eqw1sq3pnvxblz3nhrmxcuvzzcld5yupr?oc=5",
+    "https://news.google.com/rss/articles/cbmiaefvx3lxte5xsgjlrf9ndtjtbdfjdexwbniywv9fv2xxb1ewbs1ktkqxse9ivflqotrkmkhlsc1utguwqwpja1zumnjgwvjbu3u5bmjir0jyt01nlwfusugyb3voc0frtdb3nwlsdvfu?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqnlfga0drrtkwqvi5ehm5lvhlquzmy3mwakzqtejtzwzxlxk0vtfccktcbw5gzeuts2fgtmvwz01xyvp5yjayqnj6zjrwme1rmulox3pqsur2wujwqknpd1vemhdhmu5xvmkynudhcxfjexjzau50txhizgn5zmlpm1jkshncb3htdelbwvyzrndzbef2unnkzgtmzgswzw?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9jakfodhyxotl6ngg4wnpcnmrfy2lcukd5vhjxd1dlrkrsd2xra2nxngrmamrfei1svhdhdwzasv9xck41xzlxvulvngpswgr0be5iv3ffctn1mjjjzuryundjek9xyupubeo1ntg3ma?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpefozrjdswwpdei1zywzxcy1icuxnmdftbzc0re5fnmtkqup1ndjcbxdhn1vpm3hiv2k2m1vrrlr1owdothl0d0q0n2lnsnfotgfzc2wyuxq3zenyznfgdl91vkk0nelidezrrmpgywv5vmtbtf9muxlvv0tmqvbvoum4tjrzae1tuunnawjb?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnd3pydgljwjzxc0lyztzqnezpv2hlmuniqzrlnwxor0tbcms2tf9benlwyxj2bmownvnna1zwulllthmwsfdxbi14cwrgreyyvwp1zmo1evr4tuzpcujirhnhs0zucwxgt0hgekrptupomvlhsnpfzdndouqzvdjvruncmvpowxfrag1jzeozuewzbjlqvxq2reeynvdxzufia0k0evfhttdfrzuyodbsdvryyxo?oc=5",
+    "https://news.google.com/rss/articles/cbmi8gfbvv95cuxqzmxsmjfode5ebnhzrdngcuuwvnberer5rxpea05cr2d5rep2tlitadg4wkrvdvbxduqxczrqsl84shfhymy3zhprz2rwa3bgtxp3mg54eeq2chzen3y3awqzd0jru1g4cef2awhyvzrjve4zmtixuxnscef0qxd4dunmwel6a3vtsdbzstj4aktwump3oed2szviwwnyvvjpdndsltb6ti1vu2xmqs1imfatbwp2nvn1vhj3wxq5m2pjuenrblqtm3qxotl5ovdpy29lylzkmddwyuvetgvvnvrlrw5id2pjdvfsumvxzzrgdw?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpx3dkts1qbjlfrtncufhardl2uwhadfvncy1ry25pnfy5ug9vtwrrqwxwtmjnr2lea3blwth1wdzbqkzyuel0bfrscjrst3vlathkr0rtadhna1m5uk91avjftggtmmzfwfjsajlnmhzzvgplawfdutkxbdhjyncxaa?oc=5",
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte1wvnhzv3l5uxjnwjfivelwyv81efjfltczcg1vuw5kz29xdwm5bdjsshh4qwrtmu10rtrjsex1avzjykrrshvcvhh0ouphcfe4zlota3czzljenxpwsulmujbmc3vtbzg?oc=5",
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxqrdjjdw9wzxvnctn3tk1xruk0mk1mnedudjvrqkpzrzduoffrmw9qu1lrbll2ver5q3rjalzqlxvvrfjmzvaybgzfcw5hm0rydudztui0afhanzq2tgllyk5scgdkwk56ztr3yv80cgpnueh5ym9tr2qxdzdaagtrwjqzqmhru0rmmha2y25xbuxvtzlyauhnqzr4s1fntwx1zjvdve1qetnotukzwepayxfyv3zttwvprljgcc13?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqsdrkt1jzlw1jseixsvfeu0phdef0mfmwbehtvefsyulha3jhvmr3bu43qmftvklrnfhervjyanrlz3vqbvlmywp1m2tpsuxtzdf3twcxefq3r2itu2jfrtdfd0jgak42rfloq2xmqmdlt1i3rmpqr0jtsufewnbhrfdsz0tfzuntt0x5dlhpa1hduulvqknymtn3?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqqkdywwlklulbevg4euq1b2dcv1pra2iza21fluvfveztslc2sxlknepwz01fvwt4ztlocmpqmm1tr3dbcdbfrvztnu0ycffsbzb2rud5eujftkhjtfzwq0j3deewd1jjb0x3z3dwtnbkoedqdujjrtyxawr6umk2qmrtvs1lb3hlq2nwuvu2x05mshbqwk83sf9rvkjhc1hsazsbqvvfexfmug5foupkrlljbuyznhjsathfcvbuvkfhsu1idllxz1zxnu9pmum5x0lzmgc2vm91mf85rfpnz0zxymewrdviovd5wk1pq25oq3rhohvqvelxavbecwr1dgztzfutn1fwrfl6wujycxvtq1pqak1nchuwn2iyckvwx3bishpxlxc5dtdna0xwy1pcswj6rvnwnddjbjg?oc=5",
+    "https://news.google.com/rss/articles/cbmimwjbvv95cuxosxatyl9hvfvwmdixzlhxsflmruppdzhmwdlnnw9wwhc5uwpncfywzwhowdzjv215cmrrmwtvyjb0n1phbgrnagz5ry1wbzzqmhqzruplehzxuze5n0tdvxlfq19patlobe9wcmsxdmnzrtbfzudxoevqadvmytlfn0utx3uwtdnsnhj4bxm5au9ltdn1r0c0tkrwc3fxamjesfl3vhl1nvpdmudvzuj6bxlmz2hqblvnau1wx1frc2zdy1znm29kehnprwz0a3zmttzzcuhoymg0we1xv0xydvvvz0rorhpquknfedb2uxhmmlriqvrqt3ayx3lbedvkvff5shi1ngnjr19oqvbsdi1zb2xteuk0ehdz?oc=5",
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxoowg4ofnitglewfverxfuv3jlsk1frmjxtnpkntlmsmrcbzhlx3pbbzdus0rmnnzaslpitl9dy3bfulhadjbivhg0n0t6v0rxnxvqtwfbamfhluphrgnsz0jryknlz1hxowq5mtbhvuu1sxfjv19iukhmty1nntfsmxdgrhljdffndxjfx1rnmhjfenbydvnga2jgczdozdz2xznkzhr1twplyxzrafhqy05cuc1am0m1q2jjmjk5ahy0zw?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqmlrzwxpvv2rva1znc09htddtn1zuogwzce1zz2wxvmxtqwjrv2czyk9jqjfzouxrt29rttzpcg9aznfslwt1t1p3tmljcmrty1b1ckxfwdlnwnbhtzdmdg5tnvrfnfjmbmhzujrrv01cyndowjhjt3ppae1dafdlegxkuq?oc=5",
+    "https://news.google.com/rss/articles/cbmixefvx3lxte5puk9czes5zjrga3bvnthbzmxozta2s0tlnfe4znd3weo0n2rvlujycnmxbddhvgtqannunm1lmxq0mud4we51elnvb05aeuz4ouvav3ljzfpnou54?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxquvzkatnruzfictv0mutlvep4cwdyu3fzv2tqavfunlj1mwf1lwhschbiwudrqnfcegjkvdfuc25twfpwefnpouzabhdiywrecdhgrv90mfzzmfuwx196yuriz2hys09brc1qcmvpwldwngvtltdztlvlttndeno1zjblru90x3pzredsu3q1mhppa1nnrmf2bvzrnzvqa2jxsmxuyvh0tkvhaw9raujltvfndtrjzw?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxpdlnerhoycju0vhpmrw5oejd6vvo1bxpwvdbuv3z5wnfbynkyqwrzc3mxvgzmbvd6bktyn21ywtlqrm92ody0rgo0ylvja180n0ljvednbxpcrw9frxeynmprs2e4mkncdunny0xfytbbqxm2aew3zgjqrtngrmxhotvaszjfqulot3lhqk5zc2t5mefdvxpvsg?oc=5",
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte9ermjpa2hktzjrs1zjzznvdg5hrejkrdjoaurir2vwc2rvls1goflnykewdeppmgpnzkfqogtwnjdqrhf1shnlefh3q3hmuu41u21em2vozjdjaxq4qk1ju29irw85yxc?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqyliywvvov05vywtkbk03bwphavfnoefdofnwquvpn2lxws1rrndwd2han19zrvrazjb3dgxoa2xqn3vtcnn5b2thyxnktufntfmtqml1uehymu03uc1xa3zkvmfqtmkxmdnic0lzrhjjq3platffausyaulvahywys1sau1nohfqsvlfwgjzzfg1znfltuhrd2vocllcyvldn2viehzjrw1jr1k?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxorux0m1pyuffhbhuylxjknzrjc3pdbmu1twnqltjfwvfpqlryyux3agfbdwvnejbyn0tjndznvtbwakxqutnpnmc4t1drzu5vue1zrfprne9ztnjzzmvkazveourzlw5wbwe0vnlyn2t5tv9wovvazwxsrnbcqmlwlvuzowduri1zzkltmwewvq?oc=5",
+    "https://news.google.com/rss/articles/cbmixefvx3lxte5vtwnky0zuqvj1bwd4ymvwb2pcnw1dclhxnul0qzz0qk1utehvnf9ntzjxb2rktmnnndc3wndtcdbym1ztmde2vuluaw5xvurosve3yxhyejvssxmw?oc=5",
+    "https://news.google.com/rss/articles/cbmiywfbvv95cuxqv3fvnutuuwd6ee5pbwk1q09ycgtkewo1mhzia0lhdkxznddxuni3slvutvbwqjrqwnbczgjmsdy2x0hnrjvma3psb3dnbdv4ouniyjvvcdbnzxddavbjs0pmyve0nmy1nnpnmgvdbxjzbzr2x1bcbtf4m0c1mjjiqndzn09iqmrddudayxhtczrwn0fjwfu3dmrld0pymljva01kt0dpslzjrfr2etzrmmlwvtbdsdfzwhphdew3r245twi5tzrnofdodw?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxnms10oetvzudzs2gzbjqtzzroazdzdmfbzxdbdzvenkljefdvtvjqz3dwqwfvshnszms4mtq0ttv3d0jqbmt2ofdvaezirdduqvjydxbwc0dusgx1ovktskdcsevonvfytvfxmfgxau8xzm5mnuzjr3i5c3lfngxvr2jpy0xrb0uzbvczzhvuckvkuwq1me5oqjbxshcyce45ajjpbkdtzlvxawvxyzvnu1dzaengwev6wdczzw5yytbutvjxsej0n1pvn1zltddpb0e?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxtfbbuxbhmejwqw1ttms1ug4xylv0qjllqxzinlc0oxdga3rwq0twtdv3nf9kzef3ukhzmgt0clnprvpuzmjivlpxafgyzxjkt2k0twq0?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxqm2hxcuzvws03q0dub2xqa2w1bxdotexxmle1n09xbmxzdwiztwpzeddfmja3qjvbu0fkmvptvuzyqtvkqlmzwxnlzu1hr0nswetln2u0y196lurjq21zeulyskowqtryohv2t3v3uguwvxhysulhb01lvmrvovndqnz1m1ntzw?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqyvkyu2xpedr6ny1ucvdzb25catzwzenunfa4m2czvjvlqufndfpsskf3lutvte1qdxlqc1q3exhqy0hvc0tzckdin3vuqmm5ry11ckjunva1wff2uuxonmtcbnd5nlfuvlgzsnpux2t0t19zcza2wmlittfmm0p5ts03twy2a0jjav94vxhmx19iahflbzbtmdrmvg5trvrcdhzyclf5dy1rsgjsy0fmrjzqvhu?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxpv1nrzegwu1czbe9zsjlsr2psyknnynlvwxrxdddeexpasehxtnluuv9dcwlzsvjyoenwx1rgwumzrmjedjz1yuzfbu9gwhnzqm94m0l6btcxvkznavqtcwnpzufdrlvyzunms3hmmvvzrmlzrfntdgtubwfpykd0nwzommvnmuhnrhc?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxonwvhuenbzdh0nmzqvxpytuzilve4xzj1muowblozszjkmej5ufljsunkvutswvpwz1pun0pvy3kzcgmtrzvqrjrpnxfidvhwqxfssllhuk5wbjdymkczn3divhzrstvnmv9vc3nxunowdfp4z2hzx2rcelnptkljbmjytks?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxqavlma1rnm1vxc2pvzzrvs0tsz1rua0xnbmp4bg8zemdlsu95vffxnji3nkkyzutzamp0edlgutn3agrosjrizkxkogxgburiafzdbuzicmxmn1zib0nvclcyt3dga3pks0llsg9enhq3rnbivjbhagfsegt3zvy0ngfjs2r6x1nezwt0z0wtvwvncki2ykhobhlsew5lsuvnefljcxfctzrlrl9ftg90deqtvwpjvuxsabwbqvvfexfmtxrvb3nfcvjnv0s2yvpcyurpafnptkm3ofd6tenawmvuvnhyzjzsvmvjzumycwx5m2f3smzurlb1uc1ycfj1ufvlrefntmhyefrhtkfwbxixodhtczu5vxhxcexmrhi2n1nmduh3vmtzamjtlutzcl9iv0n4wm5jn3dzowm0vlfwcxhtn1vyzfloty1nyi1zy2nqwddzm2uzmtvtbi1zbkpysur4y1rnsjb2vzdmbzrfzwrjlxy?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxpawo2szjyakqwuxixzmfulxa5yxpocdrjwhjxeezbcdrsnkvpm0t5uw5ubvhoahzunkyzdc1jvvzhcvrmrhh1aznietq2mf9lnjbutedtttnkb0kyek14qndwqndvt3dpdi1wemluqmz2cw16mdheq2hqzxzqcdi0vxkyvdduzwpzc3vtau43x3dobvfctkzzdvk3y0llme03wvl4nuxdwdvld2n0m0twt2hxtmitdm1xcjbnquqyalvwzeu?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte8xc05zyuzodkt1ugq0c2jickzgtlrbumneegfoajexbwl6ohvickrwrndxa3lnexnluknnwufazxb1tu1kz2fibfnketzbbgxft29n?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxoukrqsgdzqwk2uu1ca25vqkrinv9pmefqcy1nrwtwue1wd25msgjjahrycge1z01hrxpmmu9va1j4r3iwtlbfownua05nrut4y1pybg4xudvxtmnbt2f2otrzq081dtdtuhr3nkliyvjoqmvbstn0awdzq3dwrfbzrzdflu9owmztetnius1yahq0nkdzx3jksg9itlbmsxvpbleyqg?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte5vvu9zn20wz2tbak9vstcymfnedxf5zzz3anbjttm0n1bmyjbaz2htwku4sjayverca0yzlwn6d3uxend1tuxrwvyyq3brcfqzzmf2nxi3uux3exhun01rvwjbeerlcgxwnmytrejzq0hwcnfwawc?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxoslzjazrqyxhktflta1gxtzdpujbzn0duv0dhbefhmxhqszjts2tiylz0ddlxq0vjtu9ldghadfrudhuzeklznkrqshlhqtm0dgpfmgjtmvzluxqyzdnzzlrxvhrwvfzmr05drlu1r0l1mu5guxvvvwxoowtmchrltm1ablnwszu2mjrcltfurxc?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte9rb3jvxzfpy1ppzedydknyd21ra0lxsta2znljukjsvxrowgx1unc2sl9xaecxtxr4vgdhcu9jvvf4tlzec3hmddhcrudua3mzr1ljymzsufj1mlncvkhwwnbpqdiby0fvx3lxte9rb3jvxzfpy1ppzedydknyd21ra0lxsta2znljukjsvxrowgx1unc2sl9xaecxtxr4vgdhcu9jvvf4tlzec3hmddhcrudua3mzr1ljymzsufj1mlncvkhwwnbpqq?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqdxk4wvkwefu3bk1sn1lbvxjqr3hfcjbyrzvyuc1zzgrod0itqkr0c295vgfkzxnhcjzpm0vyuzlsmwzbr2owvtjna0jtwknrbehhrgxwztjwr05wdupwbetodm5tn2fhwjdfywrzwfjkn3vkczhxb0xeenb5b2dham1nqu9zdw9snuxvogj5d0f6luprugxicwzft3das2xowg5ltertcw?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnzhlvltbusgrdn2vprm5szwliejnfvtjyudnzvmtqevvwuhlimnrowvnioestunrvd3ryztbytvryazjbluhcwwf6chi3u1viqtvyltfyc0vmwtlznvlivflur3zmcna1y1ffavhkr25xuvnyt2zodtvwx2dyyxlgchlsvvlnwke0wmlncc1uq05xbvniunj6sg?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnaudxltfhttzsb0dkvxfarjdrbg55n3kwsmdhy2ncehvwszjbyl9qnwi0s1djs1hzwtnonxppntg2sgw0welcowjrmdnrz2nyzkpvvnqzefhazxjtdmxecdf4dmlwb2m4qzdiserutzkxnjjrrlm5cefnefn2authqu41cfqyd2xdtxzbx3rtvefbwklnmk9v?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqmehwnxhla1zas0vivvfvohrbnjrkmgzwwf9ht0dov216r0lvnznsvkv4n0lmehe2wfhiwfhjdgvonnbrzuzdmglydunzourrvknpyk51mu1umfywx1pgwehjcl9qognzeerrvllrqzgwnfizstnynkdwefe0bu9xt1bmnenbytfqm1ndzkfkegvnukvytthmduo1zw90rtnauwdaqmdwrhbyavktwu0wdhm3teszoeg4?oc=5",
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte1fb1ztoevku0zmzkc1emnqmvp2dfrnsi1sndzoqlzirdlxcvo3r2i4q2lvve02s3pqvwpudw5pthrvwxvyqmrsrjnqvxjjr3r4oetosji4mvnpnu1ssdhfu3nhu3bydhloemc?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxorf9vbtu5vxpjcgzndjctr0lybxldyw9fwvnoczdfdwrus1dwshfjtulfv004n3pnyzzmsgjosdbpu1fewlz2tfvwrghnvedovvlxrmfzb2tcnwvirmfxynn6quh6azmyovrvn3r3a1b1c1pldxjkyjlxdur6uw1sqkk5x0jnt0rmdjvid2rxuhpechq5cnpinzfaukj5mu9o?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxoeevkzvg1skpmd1a2uev3ugdnnja1lvpnuwfxnjvjuwluz3feckdumky4nf9wdvjhamvrtdz4ohbtcv9jmtzks1vmt3lmylnlri1idey2d1m3ufzoqtb3m1rrdhbpumxrdvk2znvzb0hfzgdfmg5ucfpjwfn2x3k2zutldddhc1dwzg52atlsseu4svotwxrxr1ziz1bddfpzvxa2bfrgvlhynelpbue?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxonlj2b21vmgpjquvzowvdnm5frzzpu2nusw1wuza4eurpv1n0tg90dhfkajj6dxu5zkrfreq5txd3bhvkee0wbhq5aew5euu4cexby2fwthzubljmdgpievlsrdbpejhkekvctnruwkzjbgvaqwc5yk5lbxblx1jvdzzxtmw5ts15zufeevnn?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxpunpubxzerxz2cwxhqkdvm2putwzuugutsm9rmnq3znrjbfhnc1bkwes5mexmwktsbjy1wfh2rlzwefbsmdjnuw5wmklms2tpcxnlmtfty24xtm1aa09vdtbhcu1eae5objnzytrsvhjtwvozv0r6wjlmc1v0ouq2dmln?oc=5",
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxovxu1ne5uovqzy1rucjnhsulywfbxwhdnbetpwwrdttrprdd4shljr2txc3jdbukxavy5xznmtldqutayc0nsmw5tmtdfnwhzekxwwmtyegvtyuewatjnx2mzekzydu1qdfzjeu40ruzaatnrmnzanhhxq01nyxnxcen0v011nuxytuxrcmf3n25smtfymznebw1hqunomduwahzwbdrpmv93owzuy184y1vnzthivflwbxj6s2vjetzds0vvy0h0whrea2uzy2xpczvwvjr4dzc4uefdsmrkyln3?oc=5",
+    "https://news.google.com/rss/articles/cbmi0afbvv95cuxpd1k5a01oszr0affcwk4ynjdtry1jy2zowkhsr2drndg5y1vqalfqnfnsohi4d0s5wgc2ymdmdudxtjz5akdiahrmmggzsuv2umnqz1u1ew5hswluugfsevh3rhjnbtn0ajlaajljr3byrun1bupnwe1vm1hcvemtadyxwg83yu1pzmnsc0zobkl1yjk3cgxzsulxvwjxuxvwynvhci1ecfj6wk1ddetyzlvpttbfanhyrzd1umvjrlf1bc1zmmfeyzj5q1zudhlp0ghwaufvx3lxte1lwjlqr0thz1jjumhkrhpjaeztoxfvugtbttfrntz1bxnxq0dxsjbgtujsvugwt3d1mznorfa5udrwyzruy2g2ym51rmvoexvyltrxzgd5oerzrutksetutkv4qljjumffcm50mhexwkqxdehjmfrgv1hpadu0yvfmb0pnb0zvnhf5qknwne1snunns09xc1e3emcwy2vluuduzzhxm21czhjmnw9fukvgx3pluzhxyvvusljwcffkq1ftckthyxjabdhvmxp0we11euzrugc?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqag9idhuwq05va0rgvzvkvehjzy1rywtgalyycmhdeukxtgjpzhpdq21lr2s4nmpcudetemllmvrbshrkotcxu1g4rnrrrjjjvklerg1lx0zwwhnnu1jrwthjrkv6yujnltfavvu3qve4tdhlsjziddjrm1zrbtrwujltskjkavzdthnmqnhizvdkavrur2v1zujon2dlatr1qkv3aa?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxptjbmcxfuq2xfx2mxlvlgzkjjzmy1b1vlmuziqxbsdufqsjnmbvrwaetrbkjudjdrm1dkb2xxqvl5cejmcllqatf6eu5bbhbkmmxfalj1zdzut2jtwg52vwtzthjpn28xtehma0diegnhefc5u1d3v1lvbvdwr08zefv3vklunu1zqk1achhadvbpqxfwqnhpm3u4axh1x01duwj6a2n3b0dfwgrkblawymhyc24?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnugxyv0fhwg1vq3jbdvzjuxfzafb1y2lrswu3rmkwcvrtuwfsq05uqwxpm1futg1qefnkotrzn29ta21xngw0ltbwm3h5rvv4r2hqy0jxzznotgqwetz4qvlfnfczumler2fpqv9pnmzqc0hgdfj6etniazrxvknid1zqws1qq3m?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqqzh1x0rodksyu09bmgizqmjdenjlelfxttfyn0jsvgvoyjh2dflvagnhlvfcamlstlnwwulndk9udtgwykr2zuvuzghyceheamheejm3utrfoc1zntm5zmvfzu9ldnbaq2den1fia2q2d09xchrsslpdnuporulbyjlrtk5gunluovy00gglaufvx3lxtfbdohvfre52szjtt0ewyjncykn6cmv6uxfnmxi3qljuzu5iohz0ww9oy0ctuujqawxou1zzsu12t1r1odbirhzlrw5kafhwserqaer6mzdrnf84lvk1mzlmzuvlt0t2cfpdz0q3uuhrzdz3t3fwdgxkwkm1sk5fsufiowtotkzsew45vjq?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxoou41uedhd0zmy2tkuffhrmhoa3dwwf90v292ttz1qkr3qnplb3zqsllnrnjdsvo5wdfuz252q3dhsvbqa3v3z3rjrdj6qtkxq0rmd0e0czzec3pry0rnu3haag5jbdjvqujzm2tidtr1r0jqbwnovku3bwxzvk1jz0xtsxv0c3n3ylbqohlb?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxpzwferwnvr0u4ngxlzwlwy2zzdkvfnuhsrulvzm51dfllnfvsejzeuglhu2fcnfvvz0zvvdq2vdytrwhjnmlvzhvhofrkr2f4mtleshnhekjwtmt1wtjurfzxwesystn5zm1aceptdxfjcwlsbuu1mzc4eddsvnptzgnhd3pyrhyzzurkb1jpbm9fbjq?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxndedmzjz1mzhcuzhtu1hyv1jxelzvns0wmvdlqkpob1czlxg5rem3v0ptywx5x05vvmcyaxhtx3lhemr2q1pos1p6v3ryuljfwtbjrujmm2xltdz3bed6zmyxuzlqq21peldnbhz3ajbpm2czb1znotl4nfrfvjzrdhdld0nhzw?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxod0rgv1dswwjeym5cdhdpburndmvdm1ncdglozgitbwzxnl9btwjoy1h2vc1wx2vangjwuxz0ug9uuelut25oehawm1z3u2qxvedkv0lwnu4wafq3owjasfbwsdgtrwtjzu5sndazywpaqujyqzz6r3justg2zujpm1bwujf6dhbltuc2vw9iymnqrjlitxfcuwddzfboehfwcdnkullfowdzy29luzmttu9goa?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxozuqyvnbsczzuwwlauf8tdunjyndldhptnenyudltbdfadnfyt3pjsvrun1cwwi1pdtm4qmxwuhnxdvp5mlk1y0pfoetzewptc3vrvxnzn2hxywdwcf9ru0foagtlsnhjdhh3shq2renuuuo2mk5zwwhfbk1mdthicm5ewudfbgriz3btcfa4rvnuz0tbb0j1awjpre1fvketv3fwbfplz1nmouzsavz2c1dmd1p0ejbwlvetwvaybehwtflwohhwd0ndevfmyjhudkt3?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte03lutoy1vwenriy2xtrevab0hyslvlwunrzjrkrdvxci1tbw1ic0r6t01uc2xizhvpbuc3ynprn25zdlzutg4ymhnzvklsoxk4d0vjutbhnxk3snfcvmk3afjknmfgcxbwnfjksedud205dk1uwgxz?oc=5": {
+      "headline": "Pem-Air widens LEAP engine support - AviTrader Aviation News",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:31:52.410092",
+      "last_seen": "2026-02-09T21:31:52.410107"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxosenpzvu2wedoamgtwkthwfu2unrhdhkylus2sktsz3pnbkzsr1vsvu5zu1fns09iv3vbvlnqdkdvouh4akd1ltq2cgvkogptekw3ejm2q3jpdmd2elu4ovh0setyby1senv1yxhuwef4y1kttfrrzwxjqtrwykoynzr2m2lzsvhlcu9gr2psn1nvqly0aerjvdncvwjqrfnss2noohfxbznrdxrnr3lubhlqyw?oc=5": {
+      "headline": "Leapmotor: China’s no-frills EV maker aiming to become the next BYD - The Irish Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:31:55.338949",
+      "last_seen": "2026-02-09T21:31:55.338960"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1fzge0snbgwwhzweh6udnlcgxjdwhabwczdfpsnw5vzktzrmpbwtzyyxe4ndnfvufsylitne82blf3bey0sk9ueta3uhjrsjq3af9r?oc=5": {
+      "headline": "World's Fourth - Largest Automaker Suffers Electrification Setback, Incurs $170 Billion Loss in Half a Year - 36Kr.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:31:58.036371",
+      "last_seen": "2026-02-09T21:31:58.036381"
+    },
+    "https://news.google.com/rss/articles/cbmiowjbvv95cuxnvelblxzrnlrsadzwmmvvnenuukfzng82rjrqannenuqtx1nwzudmohlnsznwrmtpbepczmhttxloyknjsfvcckdaumnywxa2rujnotrmshvzwmqzvkm2z080qkliclprceuybfrtmnn4ahp1rl9hoezusgpsrhjyynp5bmhiue9nn19mnm8wmgdimmq2n3nuznuwai0wa2qzr0fla1rxyvgynks5yv9pwmpzenzyakl5vxroam4zzfjoa0vdstjyse0tam9lyi1yvjzknkxzsy1sbnetq29onglrrxqyt3fjz0r6wunfrnbytlpioeywq1jiymh4ztnjlxgtedzjb1rqevc0bjzkekxsutjnttfcalowsxdiutdkwja?oc=5": {
+      "headline": "Ford’s cheap car tsunami: Blue Oval to introduce five electrified models under $55,000 to boost its EV footprint as it takes on BYD, Chery and Leapmotor - Inner East Review",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:32:01.096652",
+      "last_seen": "2026-02-09T21:32:01.096662"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxnywytrm9mshninzbfu2xtcvpybjdkutl1tzllszzicnlor1hask9mqlpvmum0vel2zk1yodzoclvznhbjx3huawtqtxy1a3jywvawd0z1wnhuz0szewzra3v3dk9ytwv5bmvnstnwbfe4wv95a1gwznhcmni2uxrmrzbvbk9ithd2vjjcdgxtagptq0t3wle?oc=5": {
+      "headline": "CLSA: Hiking Costs Further Compress Automaker Profits; BYD, Leapmotor Better Absorb Pressure - AASTOCKS.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:32:03.815261",
+      "last_seen": "2026-02-09T21:32:03.815272"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqcnhqr1bhvkfamulkdve5rwvsedrfngtksndktnduclo4t1vcd0rjullht0rinvdov2v3tmxzzehluflylur1chr2zwdzbth5mnu0owlab2podk91ohzamfo0zhhiqupire84zxded18ytxfgruditml5q1vicwl0tc1hnvbjrhbhuerctvdpclvlnefzcwrungx1bjh1tmvuehl5wet0meo0etnkctzuulpfnu53bmpumevjylkwbhl1m3h3atzidfi2m1f4bzjnemjb?oc=5": {
+      "headline": "Toyota's Secret Weapon: Inside Fluorite, the Automaker's Surprising Leap Into Open-Source Game Engine Development - WebProNews",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:57:17.922191",
+      "last_seen": "2026-02-10T10:57:17.922207"
+    },
+    "https://news.google.com/rss/articles/cbmis0fvx3lxte1ta0fkdexfwu44s2dcme5haky3s3lfa0fvwlp1edi5agdkdgholwhud2f5ympirudin3plz0hlakvyb3lbzdbncudkc9ibu0fvx3lxte9pwwjpa0pqshl2czjnounbntnbd2d5tne5m2djm3jtcvjnbepsbuppemheohixujvgsu1zwml0dvi0qnutcdvutgnqdkzjyzhdlxuw?oc=5": {
+      "headline": "Leapmotor C10 REEV: Range, solved - gadget.co.za",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:57:20.822544",
+      "last_seen": "2026-02-10T10:57:20.822559"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqzzniuxjkzm9obwhzdxyzx2prdkjan3nazi1tzjh5uvr4wdzeb1rgszfavzy3x2fldfiwykjaaxvfzkrmsnnqsfhqq2ywevbzmlruc3djuupeylnsuw81d2ffwlnfzehss1pomlvzqtznmv95svhvalq0chlpbkphqv9lc1jxskhdrzvwzlhfq0fotdlccxfivjlcawt3mkexztfjm2vpcwwyq3q5ovlinnvmt1z1rdlszeh6zmjxtznxmmlo?oc=5": {
+      "headline": "Ryanair and CFM strengthen landmark partnership with long-term services agreement - Safran",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:46:37.416226",
+      "last_seen": "2026-02-11T11:46:37.416243"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnvuzpduljmm9fzjvkzerqa2ltnvz2nghxnmxeyvlobtbncjjtam9jm2xnylvzyvg3mknxcmzfnc10auo2cmvmtgdvbeuxb2zfz3b5utbvdwllqmkwuxvvyzg0z1vyedvluu1ucwvpnjhqvepubf9vrtfidvplegtqvwzvbun6n1e?oc=5": {
+      "headline": "Ryanair inks major engine support MoU with CFM - AviTrader Aviation News",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:46:40.956230",
+      "last_seen": "2026-02-11T11:46:40.956248"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxoc3e2zw84s3l3wfbjzkxtq0vjshl5b0ewbjf2c0ttt1uyrjrfsllmvy1vn01xs1y5btdzmndtownkzdbvumpbdg15qjjlszrlcni0whbuymrkc2l3wgllwxrlwge2lvc5ymy4y2tgskwzrew3sxzrmv92mfg0ofrxvtjqzktxodh5ofnqcgiwtfpkauntr284tdhyrlfmdvhxsdb3a0hqcm92bty2vl9kvwxkrnd0emxl?oc=5": {
+      "headline": "Ryanair (RYAAY) inks multi-billion engine spares deal and plans in-house MRO - Stock Titan",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:46:44.329915",
+      "last_seen": "2026-02-11T11:46:44.329934"
+    },
+    "https://news.google.com/rss/articles/cbmizafbvv95cuxqq2ljuhh0c2hwuvnjsfnibwxst0dzyuzszzgwvmv3svk5ote2wmd3tzvkthfnsfrpzuduqvrmctfevdgxvwnzmdzvyln4etd0vvpqcdnic21ocu5fedbwbnv6lutjv1jjcko1weg1ovm2mvvzzm85aurjrtfau3fftu1mv0fhmzbxd2lpbe0xadr5cf82nkzvul9iukv3ugrwqtzxrk9wt21mnzzyem1qtkf4eejedfj2mw1ez29jnm55t1utltu5v3r1mfe?oc=5": {
+      "headline": "Ryanair to set up in-house engine MRO facilities as it extends CFM partnership - FlightGlobal",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:46:47.618533",
+      "last_seen": "2026-02-11T11:46:47.618553"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxpsfvdwtdsamv0nklhs0fwmwxgvtnmnfvkn1zgbhpjtlfmc1f1dhbfbtjgdtroykrtrnm0rnrkvwlxmkjpsvzpbxn2uffpazlomep4eeztrfhnrjmwsdhhzudpq0pnrl9ylvbwltd1uezjbzrfvlrqefzzmw5jtwitmu5mctrirnnjv0vcthzrbw1vemrqohvhzklpn0e0nlhgn0kwb29bshllujq1uui5unm2sly1rf8znmxmctyxcw?oc=5": {
+      "headline": "Royal Enfield owner beats profit view as India motorcycle sales jump - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:46:50.975067",
+      "last_seen": "2026-02-11T11:46:50.975086"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpdli1r3rtsdg2u2fpmknqakkwtfrlumjntu5bvdgwywxxaulqb2piruzqr3pwc3hxckq0blzfqtnodmdvn0pprk5wy29mbwtvsk53ehfpexnmdwnuv1hmcgriedyxwfn3rteztgfxc0t4d3uxv2pmsnlzvfbwcnvdvc1mb2tkutrwzedcy3hbc9iblafbvv95cuxoteh3vthlou01ukzgumvqzknvvmrjv3vvrujacmixtnc3auptm3c2avbrrwnoddezm05fws10bu9sq3dty1llz3dqve0tuufraevyqwhmwllgwurythd1vfjna2h1ulblq0dgag5yc2dxbep5si14t0s4bkreedvsou1lmc1sqk5wbjb0ujzwsnhxtxlw?oc=5": {
+      "headline": "Ryanair to pay CFM $1B per year to supply its new in-house engine MRO shops - AeroTime",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:18:45.655103",
+      "last_seen": "2026-02-11T13:18:45.655117"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxpshrjwufxykx0zlo0wegwrfdgwgk1c21zzme5axrzvwm4ywz0ogvmekvomhvdltfqadhkwenfcnhwogy0x3vksg8wt2hyb3zirly0uel5zlpzuzfraehtb1qzalfyeetldgnpsgvivs1ec0ttrg9sehmtalrmy2gyvjnvctfjrvgtn2ljqtu5vgtfc2vxnhvkejvsvlv3wtz2afyyzmlrahb3ehrs?oc=5": {
+      "headline": "SAEL CEO: Risk Of Spare Engine Oversupply Once Issues Are Fixed - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:18:31.509578",
+      "last_seen": "2026-02-12T12:18:31.509594"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqowtpx29ytfhxamjjcmfxqk1auvdisw5mznnjmtjgehbomejjwjl5s1bremtoyy12cu84rvbivdfdmeyyrdyym0d4wm51oti1uwn0z0hcmfvys21ntuloektxs0letdfhrkczsxdgztl4bulyszlyalnhehvnrmryddbjahpmqlzlrzb5cgznwmt0dzhmq0mxum5n?oc=5": {
+      "headline": "2026 Leapmotor C10 AWD Review – their most powerful leap - Tarmac Life",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:18:34.388575",
+      "last_seen": "2026-02-12T12:18:34.388592"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpx3aztvbdtelysurnakfzbel0q2xxsdqzzluyqu56czqtsjbwody4zhzyree5sepvq2tftvfrn2tyne1iofjld1njdgprxzn4uddltjlgru56thpfmhhjne4wbxrlcndpztbaqtfkmklguuv6uzrbrgtpajfdnjvhz1bjufppaklebnf6af9rwnvksmhqlxd3x2i4q044dxnrseo0a1d5a0hsyjnzulnfvmhtz1foadlmaxfztdhnvkx6vvvw?oc=5": {
+      "headline": "Ryanair and CFM Strengthen Landmark Partnership With Long-te - ASDNews",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:18:37.210557",
+      "last_seen": "2026-02-12T12:18:37.210572"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnr0ncz09hzl94axbmampyotfjrehybjjxtfhzuu5auxbwowd6yjzwbfrnafnlnjd2rtzurdu5ullfzmxjugvuu3zrwedasdhes0y0alrvcklvnvpfrvqyufb4rwxwqjvyawffdmxdnfjna2tot1btmf92utjiselncjd0exncnhdnrxvms1blofnxmnj2nwpcs0daqnj2mvbattk0chk4bw9jbfo5rg5bwg4xm0lfsvrkmhc?oc=5": {
+      "headline": "BWB hopefuls: JetZero aims for MOM sector; Natilus raises $28m for heart of the market - Leeham News and Analysis",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:18:40.112813",
+      "last_seen": "2026-02-12T12:18:40.112832"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqcgzsbkn2bhhqltvwcgnprfc3rurvshphevlmmdbedefmbhlrz1potm1zum9nbmzrzth4z0s1d1byz285m3mxvgnvtfz4enztyujrrmlywxlnshvwzhdjczrnse9wtvptruk0b2pjnxjsv1njdzvlwujqz0nkdkwtq19brnryaud1sjfjcvvqsk1izzrluuvbtgp3?oc=5": {
+      "headline": "Ryanair agrees with CFM to in-house engine maintenance - ch-aviation",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:18:44.494870",
+      "last_seen": "2026-02-12T12:18:44.494887"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxqvlbzadnwqnpsrfyzx0xqbg5rukrfx2poavvpzmresunmue9ym296bklrdtdib0tqbjnllvznv0xoefbutdczwwnov1bbm3jtbunvtxjfx2zgcvzsq2vprue2c2r5wkdqltvuvdvobgrsckyyqwt1s0pwwdg4sukzewxpc1pqvniwnfhnztvxthbtmvbhx3joofbxzf9vc2zoajlvrzbpwxnfdgzvzxf4delkm3ryuq?oc=5": {
+      "headline": "Disk Durability Has Southwest Concerned Over CFM Leap Availability - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:38:22.089979",
+      "last_seen": "2026-02-13T12:38:22.089997"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte1fn0jqd1y2qurxzmtlvey2bmlmnmtqcjfpyzzqzhjhchflr1jiqvbxwthybtqtuvvpx2hfmxnjnv9rytjiaedqbmjastbjbwn1lwzirgjicevzyzk0wezjwmnym2vsqvrhendrb0xfuwzzazzhvjfsmdnpr1u?oc=5": {
+      "headline": "Is It Time To Reassess Ford Motor (F) After A 61% One Year Share Price Jump? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:38:26.033011",
+      "last_seen": "2026-02-13T12:38:26.033024"
+    },
+    "https://news.google.com/rss/articles/cbmi6wfbvv95cuxnx1podxzmoejmaxr2tgc4rdlxddy3uxp6zvlkowhmsenhwxnarxlfow16eg1dteduodzquk15wfbfutrtulaxchuydunonng0du9pce1lbvzutenaswdwy0fntdlfznk3nxuwqutpc0xmv0lfbtrnuxq4v1qzmenuaefkowtpx2e3bkxrcfpvbflquxv1qxnrttvxznrzytrfahozdldmnvlozexzzee4mldewtfxy2jhwulyztdry2ppdjfizk5vqjbedettwflpswuzvjjgvkqyclfbqnnlsxp5rkxjcflituhv?oc=5": {
+      "headline": "Great Wall Motor surges 127% in Middle East丨China’s passenger vehicle exporters overview in 2025 - Gasgoo",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:38:29.565684",
+      "last_seen": "2026-02-13T12:38:29.565705"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxnwelmx0hynu1hchywvhducdrjnthfr21gakywmu1rbepsbzholtnnbkdux0xxv2ncb1jrckd3zfjrn256vlfnctvewvdddnnteww0ck5qcfhvb0rwedrxlxfucdfuqjjycgdjdjjtcvbny2vkmlh1u280whazq2vuvdzrcxktyjzjcxnjumtrntbdczzvcupvvdnyow9wmjatnlb5uk5rvfllz0ht0ggsaufvx3lxte1yswzfshi1twfwdjbud25wngm1oevhbuzqrjaxtwtssmxvoggtm01ur25fthfxy0jvulfyr3dkule3bnpwuwdxnurzv0n2c1n5bdrytmpwwg9vrhb4nhetcw5wmvrcmnjwz2n2mm1xugdjzuoywhvtbzrycdndzvrunmtxes1inklxc0lsa1e1menznlvxslvum1g5b3aymc02uhlstmtuwutnsfm?oc=5": {
+      "headline": "AUMOVIO supplies safety systems to Leapmotor for Chinese EV platforms - SpeedMe.ru",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:38:33.664685",
+      "last_seen": "2026-02-13T12:38:33.664703"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpu0zbdtniywtpuutxeudnclhrdf9ynmpuekdunvvwrnpyrvrsunffv0qwzw9vdgrtcwpcd2ley1bzywh5umjpx3hysgmxctddotzwltc2nhvqytjsvfleru44tjrxbc05chjos1utefloath2s3i4yvbxtvq5tlfjrjnoskj1znbanznmdfbr?oc=5": {
+      "headline": "GE Aerospace reveals $300m investment and new R&D partnerships - Aerospace Manufacturing magazine",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:38:37.588146",
+      "last_seen": "2026-02-13T12:38:37.588158"
+    },
+    "https://news.google.com/rss/articles/cbmibefvx3lxte5er1nwoejjnwtqnee2yzjgq3uyvglwrxzmswzxde5gvwznden2x2ywcwpltudwrudgc21edgl0qzh5uehvetfxzzhvqxfzy2ptdnhtagjds2u4ulrosunmumvmyxbju1l2ae9pda?oc=5": {
+      "headline": "The 2026 Leapmotor C10 REEV Fixes The Biggest EV Problem Only To Fail At The Basics - Carscoops",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:09:11.052788",
+      "last_seen": "2026-02-16T11:09:11.052801"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnmy1nltk5n1dorvlptmhrrlizr09pz0y3r1lzy0k5mwhqmky1dngwvw40dzzozdlntkzbrlb6v29wyxnduwfowf9xcejhmhzfee9wvvvsmdn1y2kxu3jibw5brejzctrst2tsneriqmhsmenmc29ktgfbvkdmq3fregjxdmpvrwnrzdvftwk3oungamxpm01kr3bvzlfvwedvanlsyxfduel6zw?oc=5": {
+      "headline": "Leapmotor Accelerates in NZ with Safer, Smarter, More Accessible B10 - Tarmac Life",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:09:15.451533",
+      "last_seen": "2026-02-16T11:09:15.451545"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqbk15zun0odb4zlpwzgl3dnbvyjlmx0jzv0ztr0rjylk1zfgynlzgb25zaexbvvmxn1nws25zy19smhnsm2l0q0fhulawtvj3vkhwym5xtnl0otrodxpeukljb1j0tmv1nwuwdulqrjywclg3es1nq1fvtwdmzkflu3hxzwhoburfztzrrno3ogvwbvr5ahbkbkjb0ggfaufvx3lxte8xtwzjy3hfcmrlvu1dzm1pvevuuliynuntsgljvxlsqmf0zfzbvfqybefacnjmynk3egfrogvmmulxss1yowtxejhod0yxtzlxn0swqzb3vzbsmhf0ltnecenmmhe4n2r4bfb4ckvncnatzktoykp6t0p3quvkmkw5rfdvuhbvd0xhbmfvqnbhsw43otlwy3btehrxmuo0wq?oc=5": {
+      "headline": "Safran to build landing gear facility in Morocco to help ramp-up A320 production - AeroTime",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:09:18.383128",
+      "last_seen": "2026-02-16T11:09:18.383153"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqejnwnleyqtv6mnzrbmdsnme2dgxmr04tugvmouhtnmdqzfdycwpmuej5nfvzztf4vkjgywdkrfhswhvnzkjgz2i2dhpywnzyas1hy25ldg5belq2tvlfbfk1nkpkamrhr1o4nzlucmziclnyagvzeengala5y3zyu1vfvwzftg1va0xpuwttuenungf0nxfuq1yyq0jkrkdpmm440ggjaufvx3lxtfb6m3a2utjbnxoydmtuz2w2ytz0bgzhti1qzuw5sfm2z1bkv3jxamzqqnk0vxnlmxhwqkzhz2rewfjydwdmqkznyjz0elhadnjpludjbkt0bkf6vdznwuvswtu2smrqzedhwjg3ovryzkhyu3jozxn4q0zqudljdnjtvuvvzl9mbw9rte9ra21qq1q0yxq1cvrdvjjdqkpgr2kybjg?oc=5": {
+      "headline": "Stellantis explores Leapmotor EREV tech for up to 1000km range - SpeedMe.ru",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:09:21.193459",
+      "last_seen": "2026-02-16T11:09:21.193476"
+    },
+    "https://news.google.com/rss/articles/cbmi2afbvv95cuxpbfzgrdl0vtdjv01obmpsa2rfzdixethkrfhncnd3m0zuqwlqmvoytfhfog5qdl9mrg5ezzrbnjhiewotatlyzwttnhjsbf9mqjdyynrozgxxddvjbgjpwue1b3pnthi1djmzcmo0vtjtz3dammzqympibel2ny1ls0toddfrd2m5tdhtaed6z1jqr3e2n0zpqnpuvtrpszfuzmk3tflvqlfnann4rnpzn05mumz1ve1xeu5btmzyukh3ngxdvhztrvpiq0xgykhotw5xrhdmtdjsadgbqvvfexfmt2xwrkq5dfu3svdnag5qumtkx2qymxk4zerytxj3dzngvefpajfamkxyxzhuuhzfterurgc0qty4shlqlwk5wgvrbtrybgxftei3wgj0agrsv3q1y2xit1lbnw96z0xynxyzm3jqnfuyu2d3wjjmugjqymxjdjcts0tlahqxuxdjouw4bwhhemdsakdxnjdgauj6vfu0t0sxvgzpn0xzb0jrtwpzeez6czdotfjmdvrncxloqu5mcljidzrsq1r2buvayknmrmjiae1uv0r3tew4?oc=5": {
+      "headline": "Leapmotor C10 REEV 2026 Solves a Key Electric Vehicle Problem, But Fails at the Basics - ТопЖир",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:09:24.188849",
+      "last_seen": "2026-02-16T11:09:24.188866"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxns3eydl9dlvjyx1pjazg3d2lisffuwhi3vwxws0zhwljuzxyxn1fsmfbwdmzrtzhzu09wahn6cgxbnwncm2dldxbbwm8zemvnmjlaovk0zzhav1nzcfy1lwqtnv9eovhncxjlu04ywmjqamzksl9fm0zrm1b2dflnn09xetngrvjuqti2alqzajfnn0fvnvzsuk1ymuvozkdktmmztexebzayuuxrrv95wks0mjvlvxrkn3jns3njma?oc=5": {
+      "headline": "American Airlines chooses CFM International engines to power future deliveries of Airbus A321neos - American Airlines",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:42:15.621005",
+      "last_seen": "2026-02-20T11:42:15.621023"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxncufnn1kwdtziz0dfvuj6a2g5zkx0muhkqjzdwhlkvwozujh1luy5mvexmnrhy2j3ouw1wi1sumdtakl1mek4vdvvmdftmmjowwndovzqohzxtjq3mznonk04cvlcskdxlvrqrm93sev3ufrzzepjq3fwci12chporvftoxnqsgdru3hsuxnjzmfsse5xuetza3pr?oc=5": {
+      "headline": "American Picks LEAP Engines for Future A321neo Deliveries - AirlineGeeks.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:42:24.011468",
+      "last_seen": "2026-02-20T11:42:24.011487"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqrgpjtgi1vmxmt1vmsmjbndbhrlc4cxfwsdr2uznuodzxx1h1uhzmaldrmdfhcwt4amjlqla0xzawu3zwwgjtadlwotricetsbtbjbwzuvll6df9tx0q0vurcu0ptrk9rykhstkppd2yxzmtyrgp2ujl6ctzcszlvrg5oyujxr0gwdzg0t1bn0ggtaufvx3lxte50rgdxd3jwy3qzm2dmm2dgrvlynhzvuvrjng16ujnooty4zkeyxzdkd2nvnmc0b0rqtxhmahzhnjnhywxmrtvgykzhn3flavdbcu9euzljmetbrvrldm5xevjkudjzm1zfazljmvzuqmrpaus3wvm1djnqvedishnwv19itxv4de1vcgp2vndqanhyuq?oc=5": {
+      "headline": "American Airlines confirms upcoming A321neos to be powered by LEAP-1A engines - AeroTime",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:42:32.665530",
+      "last_seen": "2026-02-20T11:42:32.665551"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqr2hrelrgb0otuwjeumnnsnmxwujjv0jscgxqoxlpahnxbxjrdmjwvle2sdhibnfxbmf5medyzmdnqjrqoxfslwrmudntrl9hvfcxdje4t2m5melfouvmtldxcnuyb1zfazgxr3m3t2hjdxfqvwwyyujyvfllvfi2zlliz0zjohd5njblulzxrzdgvuw4svq0tmfdckdqtm9uzjvxa21b?oc=5": {
+      "headline": "Fast 5: IER On Engine Test Cells, Middle East Capacity Gaps - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:42:41.212449",
+      "last_seen": "2026-02-20T11:42:41.212468"
+    },
+    "https://news.google.com/rss/articles/cbmiganbvv95cuxnr3neyjf3zwfhse5mexhfyko3skpirxlnznjaqulkb1fcuwzkv1bktju0r2j5lxjjdevqtvoxqzq2uu5id0hkwev1a3y3amjwlvvrsmi3cddhwmezstg5ymzpskjoznq1werwbm5jzkjtynfvszdvamdkzzrtx2lpb1czoudfdthecmnxmm9manrjwvnzcwvtdkhtegzzowxwmvitluxsvwgzdvfdderfshhwcwetd2dddtzkd185nnyzcvh2mnbomkjeskpuwdfjn1lkqjztoxprnvpodfmxvgxxuu5itjnlrzr4z295yze1nhpztgltrfndby1ib0ffv2dvwfz5a1lzau9tsu1vz0rsowjjmjbgn3rpugs0yvnrs0m3ee9xmw9ycm1vekr5a2jfs0k4a1livhbltmzqrgyxu0xbq2zacnzhcwtnauvlvv95nzdunfhwdjl6dge2tgfynm4wduxhcklnywjuwg1xagp0ufhtwm1icvlceu4?oc=5": {
+      "headline": "GE Aerospace Stock Wins Big as Engine Battle Roars on - Barron's",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:42:49.175640",
+      "last_seen": "2026-02-20T11:42:49.175660"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpx2dzzenunwtmcelpstlgbg9lsvhkm29ntuxywc03zgi1rkjjtxnnvvlxahy3v19szgiyx2nvq3nqdexyttnpqzzdu2cts1pvr2zsc2stsenxnedslwtjckpaa2jxnlvumdrwszl1blloykuzb0m4njzoqknvrjrgwnvqmhi?oc=5": {
+      "headline": "Owner review of the 2025 Leapmotor C10 B11 range-extender EV - CarExpert",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:41:09.647970",
+      "last_seen": "2026-02-23T12:41:09.647986"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxqelnsrlrlmgl2sujzdzrmcehorkhkqs1ztgdyakrcc09uzllhamj2mkrgbw13d0gtevjkbmr3ahdmmdnevgn6mfc1vnhllwixwtgxrnrvz29kdfvzxzu5uvjeywvzmktpsvyyylhmelzsdtnbu1nvetfnbktlovjub3mwv2ffsnzqnhc4c1vbrnffzfvyeum4alfhna?oc=5": {
+      "headline": "Chinese brand’s next models for Qz revealed - South Coast Register",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:41:13.060560",
+      "last_seen": "2026-02-23T12:41:13.060576"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxovtvgd2x5rfdzdnjmrfc3net4cxlfdv9fexhswefsd3zavlbxvdczcgtltxvysja0ulbvsu9vd2ppvutkowzfoul4oxrxdzjooudjwlzurg9otujkbnewudk2tg96odlucwl5yxbrsny4cudvz2zpr2rjmldtseljym1pduxsrgtoznrstmfku0vjt3dzbez4ti1rykr3t3dpvmtsrkywaxzlmk0?oc=5": {
+      "headline": "GE Aerospace stock price jumps on Morgan Stanley’s $425 call — what to watch before Monday - TechStock²",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:41:16.007742",
+      "last_seen": "2026-02-23T12:41:16.007757"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqt2rzr2rxsjl5lwppzw9ybw05nhrdwmjatejtz2p6dtzud3heevkxq25qs1dgnhvwqlliwxbqmw5lq2tfau5hskrezunfyvn0alpnq2zlc0decwtamtfsttn4oedrbwpjtev3vjg5njhlaxbav3nwtzu2yjbxsvc3exnru2fqow5wr0jvblbdvze5cfnomxjry05eqw1sq3pnvxblz3nhrmxcuvzzcld5yupr?oc=5": {
+      "headline": "India-France defence cooperation deepens with technology transfer and joint production - ddnews.gov.in",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:41:18.895457",
+      "last_seen": "2026-02-23T12:41:18.895476"
+    },
+    "https://news.google.com/rss/articles/cbmiaefvx3lxte5xsgjlrf9ndtjtbdfjdexwbniywv9fv2xxb1ewbs1ktkqxse9ivflqotrkmkhlsc1utguwqwpja1zumnjgwvjbu3u5bmjir0jyt01nlwfusugyb3voc0frtdb3nwlsdvfu?oc=5": {
+      "headline": "Leapmotor B10 review – first UK drive - The Car Expert",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:03:20.830078",
+      "last_seen": "2026-02-24T11:03:20.830093"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqnlfga0drrtkwqvi5ehm5lvhlquzmy3mwakzqtejtzwzxlxk0vtfccktcbw5gzeuts2fgtmvwz01xyvp5yjayqnj6zjrwme1rmulox3pqsur2wujwqknpd1vemhdhmu5xvmkynudhcxfjexjzau50txhizgn5zmlpm1jkshncb3htdelbwvyzrndzbef2unnkzgtmzgswzw?oc=5": {
+      "headline": "Leapmotor B10 design LR review: snapshot - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:03:29.201217",
+      "last_seen": "2026-02-24T11:03:29.201234"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9jakfodhyxotl6ngg4wnpcnmrfy2lcukd5vhjxd1dlrkrsd2xra2nxngrmamrfei1svhdhdwzasv9xck41xzlxvulvngpswgr0be5iv3ffctn1mjjjzuryundjek9xyupubeo1ntg3ma?oc=5": {
+      "headline": "Leapmotor B10 Design LR review: snapshot – Could this be the best-value small EV? - CarsGuide",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:03:39.480341",
+      "last_seen": "2026-02-24T11:03:39.480357"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpefozrjdswwpdei1zywzxcy1icuxnmdftbzc0re5fnmtkqup1ndjcbxdhn1vpm3hiv2k2m1vrrlr1owdothl0d0q0n2lnsnfotgfzc2wyuxq3zenyznfgdl91vkk0nelidezrrmpgywv5vmtbtf9muxlvv0tmqvbvoum4tjrzae1tuunnawjb?oc=5": {
+      "headline": "Vehicles to watch from Stellantis brands in 2026 - Fleet News",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:03:54.351995",
+      "last_seen": "2026-02-24T11:03:54.352010"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnd3pydgljwjzxc0lyztzqnezpv2hlmuniqzrlnwxor0tbcms2tf9benlwyxj2bmownvnna1zwulllthmwsfdxbi14cwrgreyyvwp1zmo1evr4tuzpcujirhnhs0zucwxgt0hgekrptupomvlhsnpfzdndouqzvdjvruncmvpowxfrag1jzeozuewzbjlqvxq2reeynvdxzufia0k0evfhttdfrzuyodbsdvryyxo?oc=5": {
+      "headline": "Updated 2026 Leapmotor C10 teased for Malaysia – More power, to arrive as a CKD model? - AutoBuzz.my",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:04:02.899718",
+      "last_seen": "2026-02-24T11:04:02.899734"
+    },
+    "https://news.google.com/rss/articles/cbmi8gfbvv95cuxqzmxsmjfode5ebnhzrdngcuuwvnberer5rxpea05cr2d5rep2tlitadg4wkrvdvbxduqxczrqsl84shfhymy3zhprz2rwa3bgtxp3mg54eeq2chzen3y3awqzd0jru1g4cef2awhyvzrjve4zmtixuxnscef0qxd4dunmwel6a3vtsdbzstj4aktwump3oed2szviwwnyvvjpdndsltb6ti1vu2xmqs1imfatbwp2nvn1vhj3wxq5m2pjuenrblqtm3qxotl5ovdpy29lylzkmddwyuvetgvvnvrlrw5id2pjdvfsumvxzzrgdw?oc=5": {
+      "headline": "REVIEW | Leapmotor C10 REEV: The electric SUV that makes range anxiety a thing of the past - News24",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:19:44.951739",
+      "last_seen": "2026-02-25T12:19:44.951753"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpx3dkts1qbjlfrtncufhardl2uwhadfvncy1ry25pnfy5ug9vtwrrqwxwtmjnr2lea3blwth1wdzbqkzyuel0bfrscjrst3vlathkr0rtadhna1m5uk91avjftggtmmzfwfjsajlnmhzzvgplawfdutkxbdhjyncxaa?oc=5": {
+      "headline": "GE Aerospace vs. RTX: Which Aerospace & Defense Stock Should You Bet On? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:19:58.386400",
+      "last_seen": "2026-02-25T12:19:58.386416"
+    },
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte1wvnhzv3l5uxjnwjfivelwyv81efjfltczcg1vuw5kz29xdwm5bdjsshh4qwrtmu10rtrjsex1avzjykrrshvcvhh0ouphcfe4zlota3czzljenxpwsulmujbmc3vtbzg?oc=5": {
+      "headline": "Leapmotor D99 Interior Spy Shot zero-gravity seats vehicle-grade oxygen cabin dual-chamber air suspension - bitauto.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:20:08.786007",
+      "last_seen": "2026-02-25T12:20:08.786022"
+    },
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxqrdjjdw9wzxvnctn3tk1xruk0mk1mnedudjvrqkpzrzduoffrmw9qu1lrbll2ver5q3rjalzqlxvvrfjmzvaybgzfcw5hm0rydudztui0afhanzq2tgllyk5scgdkwk56ztr3yv80cgpnueh5ym9tr2qxdzdaagtrwjqzqmhru0rmmha2y25xbuxvtzlyauhnqzr4s1fntwx1zjvdve1qetnotukzwepayxfyv3zttwvprljgcc13?oc=5": {
+      "headline": "Airbus A320neo Family 2026 Rate Reality: 70-75 Aircraft Per Month - Forecast International",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:20:18.675048",
+      "last_seen": "2026-02-25T12:20:18.675064"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqsdrkt1jzlw1jseixsvfeu0phdef0mfmwbehtvefsyulha3jhvmr3bu43qmftvklrnfhervjyanrlz3vqbvlmywp1m2tpsuxtzdf3twcxefq3r2itu2jfrtdfd0jgak42rfloq2xmqmdlt1i3rmpqr0jtsufewnbhrfdsz0tfzuntt0x5dlhpa1hduulvqknymtn3?oc=5": {
+      "headline": "GE Aerospace Climbed 27% in 6 Months. Here’s Where Shares Could Go Next - TIKR.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:20:28.982886",
+      "last_seen": "2026-02-25T12:20:28.982902"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqqkdywwlklulbevg4euq1b2dcv1pra2iza21fluvfveztslc2sxlknepwz01fvwt4ztlocmpqmm1tr3dbcdbfrvztnu0ycffsbzb2rud5eujftkhjtfzwq0j3deewd1jjb0x3z3dwtnbkoedqdujjrtyxawr6umk2qmrtvs1lb3hlq2nwuvu2x05mshbqwk83sf9rvkjhc1hsazsbqvvfexfmug5foupkrlljbuyznhjsathfcvbuvkfhsu1idllxz1zxnu9pmum5x0lzmgc2vm91mf85rfpnz0zxymewrdviovd5wk1pq25oq3rhohvqvelxavbecwr1dgztzfutn1fwrfl6wujycxvtq1pqak1nchuwn2iyckvwx3bishpxlxc5dtdna0xwy1pcswj6rvnwnddjbjg?oc=5": {
+      "headline": "Leapmotor reveals the interior of the upcoming A10 small SUV - ArenaEV - ArenaEV",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:11:55.756838",
+      "last_seen": "2026-02-26T11:11:55.756852"
+    },
+    "https://news.google.com/rss/articles/cbmimwjbvv95cuxosxatyl9hvfvwmdixzlhxsflmruppdzhmwdlnnw9wwhc5uwpncfywzwhowdzjv215cmrrmwtvyjb0n1phbgrnagz5ry1wbzzqmhqzruplehzxuze5n0tdvxlfq19patlobe9wcmsxdmnzrtbfzudxoevqadvmytlfn0utx3uwtdnsnhj4bxm5au9ltdn1r0c0tkrwc3fxamjesfl3vhl1nvpdmudvzuj6bxlmz2hqblvnau1wx1frc2zdy1znm29kehnprwz0a3zmttzzcuhoymg0we1xv0xydvvvz0rorhpquknfedb2uxhmmlriqvrqt3ayx3lbedvkvff5shi1ngnjr19oqvbsdi1zb2xteuk0ehdz?oc=5": {
+      "headline": "[Gasgoo News] Leapmotor's registered capital increases to 5.558 billion yuan; Tesla AI4 chip adopts full redundant failover architecture - Gasgoo",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:11:59.780430",
+      "last_seen": "2026-02-26T11:11:59.780446"
+    },
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxoowg4ofnitglewfverxfuv3jlsk1frmjxtnpkntlmsmrcbzhlx3pbbzdus0rmnnzaslpitl9dy3bfulhadjbivhg0n0t6v0rxnxvqtwfbamfhluphrgnsz0jryknlz1hxowq5mtbhvuu1sxfjv19iukhmty1nntfsmxdgrhljdffndxjfx1rnmhjfenbydvnga2jgczdozdz2xznkzhr1twplyxzrafhqy05cuc1am0m1q2jjmjk5ahy0zw?oc=5": {
+      "headline": "GE Aerospace Delivered $7.7 Billion in Free Cash Flow Last Year: Here’s Where Shares Could Go in 2026 - TIKR.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:12:02.553989",
+      "last_seen": "2026-02-26T11:12:02.554005"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqmlrzwxpvv2rva1znc09htddtn1zuogwzce1zz2wxvmxtqwjrv2czyk9jqjfzouxrt29rttzpcg9aznfslwt1t1p3tmljcmrty1b1ckxfwdlnwnbhtzdmdg5tnvrfnfjmbmhzujrrv01cyndowjhjt3ppae1dafdlegxkuq?oc=5": {
+      "headline": "MRO Industry Rolling Daily Updates (February 2026) - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:12:05.214062",
+      "last_seen": "2026-02-26T11:12:05.214077"
+    },
+    "https://news.google.com/rss/articles/cbmixefvx3lxte5puk9czes5zjrga3bvnthbzmxozta2s0tlnfe4znd3weo0n2rvlujycnmxbddhvgtqannunm1lmxq0mud4we51elnvb05aeuz4ouvav3ljzfpnou54?oc=5": {
+      "headline": "From Leapmotor, Fiat, and Subaru to Jeep and Ferrari: A new CEO for Samelet - The Jerusalem Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:12:08.509737",
+      "last_seen": "2026-02-26T11:12:08.509753"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxquvzkatnruzfictv0mutlvep4cwdyu3fzv2tqavfunlj1mwf1lwhschbiwudrqnfcegjkvdfuc25twfpwefnpouzabhdiywrecdhgrv90mfzzmfuwx196yuriz2hys09brc1qcmvpwldwngvtltdztlvlttndeno1zjblru90x3pzredsu3q1mhppa1nnrmf2bvzrnzvqa2jxsmxuyvh0tkvhaw9raujltvfndtrjzw?oc=5": {
+      "headline": "Stellantis Weighs Using Chinese EV Tech for First Time in Europe - Bloomberg",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:03:31.675281",
+      "last_seen": "2026-02-27T12:03:31.675300"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxpdlnerhoycju0vhpmrw5oejd6vvo1bxpwvdbuv3z5wnfbynkyqwrzc3mxvgzmbvd6bktyn21ywtlqrm92ody0rgo0ylvja180n0ljvednbxpcrw9frxeynmprs2e4mkncdunny0xfytbbqxm2aew3zgjqrtngrmxhotvaszjfqulot3lhqk5zc2t5mefdvxpvsg?oc=5": {
+      "headline": "Stellantis could use Leapmotor’s EV tech for Fiat, Peugeot, Opel cars - Automotive News",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:03:35.975577",
+      "last_seen": "2026-02-27T12:03:35.975593"
+    },
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte9ermjpa2hktzjrs1zjzznvdg5hrejkrdjoaurir2vwc2rvls1goflnykewdeppmgpnzkfqogtwnjdqrhf1shnlefh3q3hmuu41u21em2vozjdjaxq4qk1ju29irw85yxc?oc=5": {
+      "headline": "Stellantis Weighs Using China EV Tech for Affordable Cars - Transport Topics",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:03:39.071380",
+      "last_seen": "2026-02-27T12:03:39.071397"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqyliywvvov05vywtkbk03bwphavfnoefdofnwquvpn2lxws1rrndwd2han19zrvrazjb3dgxoa2xqn3vtcnn5b2thyxnktufntfmtqml1uehymu03uc1xa3zkvmfqtmkxmdnic0lzrhjjq3platffausyaulvahywys1sau1nohfqsvlfwgjzzfg1znfltuhrd2vocllcyvldn2viehzjrw1jr1k?oc=5": {
+      "headline": "Leapmotor Releases Official A10 Interior Images - Gasgoo",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:03:43.111454",
+      "last_seen": "2026-02-27T12:03:43.111470"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxorux0m1pyuffhbhuylxjknzrjc3pdbmu1twnqltjfwvfpqlryyux3agfbdwvnejbyn0tjndznvtbwakxqutnpnmc4t1drzu5vue1zrfprne9ztnjzzmvkazveourzlw5wbwe0vnlyn2t5tv9wovvazwxsrnbcqmlwlvuzowduri1zzkltmwewvq?oc=5": {
+      "headline": "Could Stellantis soon adopt Leapmotor technology? - electrive.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:03:46.800812",
+      "last_seen": "2026-02-27T12:03:46.800828"
+    },
+    "https://news.google.com/rss/articles/cbmixefvx3lxte5vtwnky0zuqvj1bwd4ymvwb2pcnw1dclhxnul0qzz0qk1utehvnf9ntzjxb2rktmnnndc3wndtcdbym1ztmde2vuluaw5xvurosve3yxhyejvssxmw?oc=5": {
+      "headline": "Leapmotor B10: Israel’s cheap electric crossover hit - The Jerusalem Post",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:11:36.882353",
+      "last_seen": "2026-03-02T10:11:36.882382"
+    },
+    "https://news.google.com/rss/articles/cbmiywfbvv95cuxqv3fvnutuuwd6ee5pbwk1q09ycgtkewo1mhzia0lhdkxznddxuni3slvutvbwqjrqwnbczgjmsdy2x0hnrjvma3psb3dnbdv4ouniyjvvcdbnzxddavbjs0pmyve0nmy1nnpnmgvdbxjzbzr2x1bcbtf4m0c1mjjiqndzn09iqmrddudayxhtczrwn0fjwfu3dmrld0pymljva01kt0dpslzjrfr2etzrmmlwvtbdsdfzwhphdew3r245twi5tzrnofdodw?oc=5": {
+      "headline": "Leapmotor extends delivery momentum as new models anchor 2026 expansion - Gasgoo",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:11:42.309704",
+      "last_seen": "2026-03-02T10:11:42.309721"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxnms10oetvzudzs2gzbjqtzzroazdzdmfbzxdbdzvenkljefdvtvjqz3dwqwfvshnszms4mtq0ttv3d0jqbmt2ofdvaezirdduqvjydxbwc0dusgx1ovktskdcsevonvfytvfxmfgxau8xzm5mnuzjr3i5c3lfngxvr2jpy0xrb0uzbvczzhvuckvkuwq1me5oqjbxshcyce45ajjpbkdtzlvxawvxyzvnu1dzaengwev6wdczzw5yytbutvjxsej0n1pvn1zltddpb0e?oc=5": {
+      "headline": "Leapmotor reclaimed top spot from HIMA, Xpeng is last among major NEV startup players, Feb 2026 sales - CarNewsChina.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:11:46.588801",
+      "last_seen": "2026-03-02T10:11:46.588829"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxtfbbuxbhmejwqw1ttms1ug4xylv0qjllqxzinlc0oxdga3rwq0twtdv3nf9kzef3ukhzmgt0clnprvpuzmjivlpxafgyzxjkt2k0twq0?oc=5": {
+      "headline": "Xiaomi Surpasses AITO Again: Li Auto Returns to Top Two Among New Car - Making Forces as Top 10 Automakers See Monthly Sales Decline - 36 Kr",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:11:50.908845",
+      "last_seen": "2026-03-02T10:11:50.908862"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxqm2hxcuzvws03q0dub2xqa2w1bxdotexxmle1n09xbmxzdwiztwpzeddfmja3qjvbu0fkmvptvuzyqtvkqlmzwxnlzu1hr0nswetln2u0y196lurjq21zeulyskowqtryohv2t3v3uguwvxhysulhb01lvmrvovndqnz1m1ntzw?oc=5": {
+      "headline": "Brand New Electric Car Brand Coming To India From Stellantis: All You Need To Know - Cartoq",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:11:54.892597",
+      "last_seen": "2026-03-02T10:11:54.892613"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqyvkyu2xpedr6ny1ucvdzb25catzwzenunfa4m2czvjvlqufndfpsskf3lutvte1qdxlqc1q3exhqy0hvc0tzckdin3vuqmm5ry11ckjunva1wff2uuxonmtcbnd5nlfuvlgzsnpux2t0t19zcza2wmlittfmm0p5ts03twy2a0jjav94vxhmx19iahflbzbtmdrmvg5trvrcdhzyclf5dy1rsgjsy0fmrjzqvhu?oc=5": {
+      "headline": "French R&T Project Targets Composites Use In Engine Warm Area - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:02:29.049119",
+      "last_seen": "2026-03-03T14:02:29.049136"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxpv1nrzegwu1czbe9zsjlsr2psyknnynlvwxrxdddeexpasehxtnluuv9dcwlzsvjyoenwx1rgwumzrmjedjz1yuzfbu9gwhnzqm94m0l6btcxvkznavqtcwnpzufdrlvyzunms3hmmvvzrmlzrfntdgtubwfpykd0nwzommvnmuhnrhc?oc=5": {
+      "headline": "China’s Leapmotor Cars Gain Traction in Domestic EV Market - Hungary Today",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:02:37.112344",
+      "last_seen": "2026-03-03T14:02:37.112362"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxonwvhuenbzdh0nmzqvxpytuzilve4xzj1muowblozszjkmej5ufljsunkvutswvpwz1pun0pvy3kzcgmtrzvqrjrpnxfidvhwqxfssllhuk5wbjdymkczn3divhzrstvnmv9vc3nxunowdfp4z2hzx2rcelnptkljbmjytks?oc=5": {
+      "headline": "Light-powered soft robot jumps 188 times without electronics - Interesting Engineering",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:02:42.805351",
+      "last_seen": "2026-03-03T14:02:42.805367"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxqavlma1rnm1vxc2pvzzrvs0tsz1rua0xnbmp4bg8zemdlsu95vffxnji3nkkyzutzamp0edlgutn3agrosjrizkxkogxgburiafzdbuzicmxmn1zib0nvclcyt3dga3pks0llsg9enhq3rnbivjbhagfsegt3zvy0ngfjs2r6x1nezwt0z0wtvwvncki2ykhobhlsew5lsuvnefljcxfctzrlrl9ftg90deqtvwpjvuxsabwbqvvfexfmtxrvb3nfcvjnv0s2yvpcyurpafnptkm3ofd6tenawmvuvnhyzjzsvmvjzumycwx5m2f3smzurlb1uc1ycfj1ufvlrefntmhyefrhtkfwbxixodhtczu5vxhxcexmrhi2n1nmduh3vmtzamjtlutzcl9iv0n4wm5jn3dzowm0vlfwcxhtn1vyzfloty1nyi1zy2nqwddzm2uzmtvtbi1zbkpysur4y1rnsjb2vzdmbzrfzwrjlxy?oc=5": {
+      "headline": "Leapmotor’s big move for Australia - News.com.au",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:02:48.715440",
+      "last_seen": "2026-03-03T14:02:48.715457"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxpawo2szjyakqwuxixzmfulxa5yxpocdrjwhjxeezbcdrsnkvpm0t5uw5ubvhoahzunkyzdc1jvvzhcvrmrhh1aznietq2mf9lnjbutedtttnkb0kyek14qndwqndvt3dpdi1wemluqmz2cw16mdheq2hqzxzqcdi0vxkyvdduzwpzc3vtau43x3dobvfctkzzdvk3y0llme03wvl4nuxdwdvld2n0m0twt2hxtmitdm1xcjbnquqyalvwzeu?oc=5": {
+      "headline": "Stellantis Considers Using Chinese EV Technology To Save Money - Autoguide.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:02:54.624443",
+      "last_seen": "2026-03-03T14:02:54.624483"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte8xc05zyuzodkt1ugq0c2jickzgtlrbumneegfoajexbwl6ohvickrwrndxa3lnexnluknnwufazxb1tu1kz2fibfnketzbbgxft29n?oc=5": {
+      "headline": "Which Will Fall Behind in 2026: \"Wei Xia Li\" or Leapmotor? - 36Kr",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:33:16.263800",
+      "last_seen": "2026-03-04T13:33:16.263814"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxoukrqsgdzqwk2uu1ca25vqkrinv9pmefqcy1nrwtwue1wd25msgjjahrycge1z01hrxpmmu9va1j4r3iwtlbfownua05nrut4y1pybg4xudvxtmnbt2f2otrzq081dtdtuhr3nkliyvjoqmvbstn0awdzq3dwrfbzrzdflu9owmztetnius1yahq0nkdzx3jksg9itlbmsxvpbleyqg?oc=5": {
+      "headline": "Data: Checking In On 'Ground Days' For GTF And Leap-Powered Narrowbodies - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:33:20.152082",
+      "last_seen": "2026-03-04T13:33:20.152096"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte5vvu9zn20wz2tbak9vstcymfnedxf5zzz3anbjttm0n1bmyjbaz2htwku4sjayverca0yzlwn6d3uxend1tuxrwvyyq3brcfqzzmf2nxi3uux3exhun01rvwjbeerlcgxwnmytrejzq0hwcnfwawc?oc=5": {
+      "headline": "Stellantis-backed Leapmotor sets Mar 26 for global SUV model pre-sale - CnEVPost",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:33:25.629088",
+      "last_seen": "2026-03-04T13:33:25.629100"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxoslzjazrqyxhktflta1gxtzdpujbzn0duv0dhbefhmxhqszjts2tiylz0ddlxq0vjtu9ldghadfrudhuzeklznkrqshlhqtm0dgpfmgjtmvzluxqyzdnzzlrxvhrwvfzmr05drlu1r0l1mu5guxvvvwxoowtmchrltm1ablnwszu2mjrcltfurxc?oc=5": {
+      "headline": "Stellantis confirms Leapmotor production in Spain - electrive.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:33:29.299785",
+      "last_seen": "2026-03-04T13:33:29.299804"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte9rb3jvxzfpy1ppzedydknyd21ra0lxsta2znljukjsvxrowgx1unc2sl9xaecxtxr4vgdhcu9jvvf4tlzec3hmddhcrudua3mzr1ljymzsufj1mlncvkhwwnbpqdiby0fvx3lxte9rb3jvxzfpy1ppzedydknyd21ra0lxsta2znljukjsvxrowgx1unc2sl9xaecxtxr4vgdhcu9jvvf4tlzec3hmddhcrudua3mzr1ljymzsufj1mlncvkhwwnbpqq?oc=5": {
+      "headline": "GE Aerospace Shares Drop 3.36% Even With Robust Profits, Placing 60th Amid $1.84B Trading Volume Spike - Bitget",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:33:32.342747",
+      "last_seen": "2026-03-04T13:33:32.342759"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxqdxk4wvkwefu3bk1sn1lbvxjqr3hfcjbyrzvyuc1zzgrod0itqkr0c295vgfkzxnhcjzpm0vyuzlsmwzbr2owvtjna0jtwknrbehhrgxwztjwr05wdupwbetodm5tn2fhwjdfywrzwfjkn3vkczhxb0xeenb5b2dham1nqu9zdw9snuxvogj5d0f6luprugxicwzft3das2xowg5ltertcw?oc=5": {
+      "headline": "Leapmotor A10 Pre-sales to Begin on March 26 - Gasgoo",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:57:25.709080",
+      "last_seen": "2026-03-05T11:57:25.709094"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnzhlvltbusgrdn2vprm5szwliejnfvtjyudnzvmtqevvwuhlimnrowvnioestunrvd3ryztbytvryazjbluhcwwf6chi3u1viqtvyltfyc0vmwtlznvlivflur3zmcna1y1ffavhkr25xuvnyt2zodtvwx2dyyxlgchlsvvlnwke0wmlncc1uq05xbvniunj6sg?oc=5": {
+      "headline": "Stellantis Considers Using Leapmotor Technology In Europe To Cut EV Costs - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:57:28.853834",
+      "last_seen": "2026-03-05T11:57:28.853854"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnaudxltfhttzsb0dkvxfarjdrbg55n3kwsmdhy2ncehvwszjbyl9qnwi0s1djs1hzwtnonxppntg2sgw0welcowjrmdnrz2nyzkpvvnqzefhazxjtdmxecdf4dmlwb2m4qzdiserutzkxnjjrrlm5cefnefn2authqu41cfqyd2xdtxzbx3rtvefbwklnmk9v?oc=5": {
+      "headline": "Stellantis Considers Using Leapmotor Technology In Europe To Cut EV Costs - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:57:33.323062",
+      "last_seen": "2026-03-05T11:57:33.323089"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqmehwnxhla1zas0vivvfvohrbnjrkmgzwwf9ht0dov216r0lvnznsvkv4n0lmehe2wfhiwfhjdgvonnbrzuzdmglydunzourrvknpyk51mu1umfywx1pgwehjcl9qognzeerrvllrqzgwnfizstnynkdwefe0bu9xt1bmnenbytfqm1ndzkfkegvnukvytthmduo1zw90rtnauwdaqmdwrhbyavktwu0wdhm3teszoeg4?oc=5": {
+      "headline": "Mecachrome Studies Improvements To Leap Turbine Blade Factory - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:57:36.009336",
+      "last_seen": "2026-03-05T11:57:36.009354"
+    },
+    "https://news.google.com/rss/articles/cbmiakfvx3lxte1fb1ztoevku0zmzkc1emnqmvp2dfrnsi1sndzoqlzirdlxcvo3r2i4q2lvve02s3pqvwpudw5pthrvwxvyqmrsrjnqvxjjr3r4oetosji4mvnpnu1ssdhfu3nhu3bydhloemc?oc=5": {
+      "headline": "Leapmotor B10 Interior Layout & Technology - Top Gear",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:57:39.002861",
+      "last_seen": "2026-03-05T11:57:39.002878"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxorf9vbtu5vxpjcgzndjctr0lybxldyw9fwvnoczdfdwrus1dwshfjtulfv004n3pnyzzmsgjosdbpu1fewlz2tfvwrghnvedovvlxrmfzb2tcnwvirmfxynn6quh6azmyovrvn3r3a1b1c1pldxjkyjlxdur6uw1sqkk5x0jnt0rmdjvid2rxuhpechq5cnpinzfaukj5mu9o?oc=5": {
+      "headline": "Boeing and CFM Are Closing In On Leap Safety Fix - Aviation Week",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:39:43.897114",
+      "last_seen": "2026-03-06T11:39:43.897130"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxoeevkzvg1skpmd1a2uev3ugdnnja1lvpnuwfxnjvjuwluz3feckdumky4nf9wdvjhamvrtdz4ohbtcv9jmtzks1vmt3lmylnlri1idey2d1m3ufzoqtb3m1rrdhbpumxrdvk2znvzb0hfzgdfmg5ucfpjwfn2x3k2zutldddhc1dwzg52atlsseu4svotwxrxr1ziz1bddfpzvxa2bfrgvlhynelpbue?oc=5": {
+      "headline": "Leapmotor B10 Production Confirmed at Stellantis Spain Plant for 2026 - Electric Cars Report",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:39:48.500891",
+      "last_seen": "2026-03-06T11:39:48.500906"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxonlj2b21vmgpjquvzowvdnm5frzzpu2nusw1wuza4eurpv1n0tg90dhfkajj6dxu5zkrfreq5txd3bhvkee0wbhq5aew5euu4cexby2fwthzubljmdgpievlsrdbpejhkekvctnruwkzjbgvaqwc5yk5lbxblx1jvdzzxtmw5ts15zufeevnn?oc=5": {
+      "headline": "Is Zhejiang Leapmotor Technology (SEHK:9863) Offering Value After Recent Share Price Weakness - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:39:54.557400",
+      "last_seen": "2026-03-06T11:39:54.557421"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxpunpubxzerxz2cwxhqkdvm2putwzuugutsm9rmnq3znrjbfhnc1bkwes5mexmwktsbjy1wfh2rlzwefbsmdjnuw5wmklms2tpcxnlmtfty24xtm1aa09vdtbhcu1eae5objnzytrsvhjtwvozv0r6wjlmc1v0ouq2dmln?oc=5": {
+      "headline": "Stellantis, Battled And Bruised, Will Build Chinese EVs In Europe - InsideEVs",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:39:58.168091",
+      "last_seen": "2026-03-06T11:39:58.168107"
+    },
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxovxu1ne5uovqzy1rucjnhsulywfbxwhdnbetpwwrdttrprdd4shljr2txc3jdbukxavy5xznmtldqutayc0nsmw5tmtdfnwhzekxwwmtyegvtyuewatjnx2mzekzydu1qdfzjeu40ruzaatnrmnzanhhxq01nyxnxcen0v011nuxytuxrcmf3n25smtfymznebw1hqunomduwahzwbdrpmv93owzuy184y1vnzthivflwbxj6s2vjetzds0vvy0h0whrea2uzy2xpczvwvjr4dzc4uefdsmrkyln3?oc=5": {
+      "headline": "StandardAero Signs General Terms Agreement with AviLease for LEAP and CFM56-7B MRO Services - Business Wire",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:40:01.534205",
+      "last_seen": "2026-03-06T11:40:01.534221"
+    },
+    "https://news.google.com/rss/articles/cbmi0afbvv95cuxpd1k5a01oszr0affcwk4ynjdtry1jy2zowkhsr2drndg5y1vqalfqnfnsohi4d0s5wgc2ymdmdudxtjz5akdiahrmmggzsuv2umnqz1u1ew5hswluugfsevh3rhjnbtn0ajlaajljr3byrun1bupnwe1vm1hcvemtadyxwg83yu1pzmnsc0zobkl1yjk3cgxzsulxvwjxuxvwynvhci1ecfj6wk1ddetyzlvpttbfanhyrzd1umvjrlf1bc1zmmfeyzj5q1zudhlp0ghwaufvx3lxte1lwjlqr0thz1jjumhkrhpjaeztoxfvugtbttfrntz1bxnxq0dxsjbgtujsvugwt3d1mznorfa5udrwyzruy2g2ym51rmvoexvyltrxzgd5oerzrutksetutkv4qljjumffcm50mhexwkqxdehjmfrgv1hpadu0yvfmb0pnb0zvnhf5qknwne1snunns09xc1e3emcwy2vluuduzzhxm21czhjmnw9fukvgx3pluzhxyvvusljwcffkq1ftckthyxjabdhvmxp0we11euzrugc?oc=5": {
+      "headline": "Assessing General Electric’s Valuation As New Defense Engine Contract Highlights Aerospace Strength - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:41:26.622072",
+      "last_seen": "2026-03-09T12:41:26.622089"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqag9idhuwq05va0rgvzvkvehjzy1rywtgalyycmhdeukxtgjpzhpdq21lr2s4nmpcudetemllmvrbshrkotcxu1g4rnrrrjjjvklerg1lx0zwwhnnu1jrwthjrkv6yujnltfavvu3qve4tdhlsjziddjrm1zrbtrwujltskjkavzdthnmqnhizvdkavrur2v1zujon2dlatr1qkv3aa?oc=5": {
+      "headline": "Chosun Ilbo unveils state-of-the-art AI news platform - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:41:30.378452",
+      "last_seen": "2026-03-09T12:41:30.378469"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxptjbmcxfuq2xfx2mxlvlgzkjjzmy1b1vlmuziqxbsdufqsjnmbvrwaetrbkjudjdrm1dkb2xxqvl5cejmcllqatf6eu5bbhbkmmxfalj1zdzut2jtwg52vwtzthjpn28xtehma0diegnhefc5u1d3v1lvbvdwr08zefv3vklunu1zqk1achhadvbpqxfwqnhpm3u4axh1x01duwj6a2n3b0dfwgrkblawymhyc24?oc=5": {
+      "headline": "Sunday China Drive | Huawei’s entry-level strike: Saic H5 targets Tesla & Leapmotor - CarNewsChina.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:41:33.434230",
+      "last_seen": "2026-03-09T12:41:33.434249"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxnugxyv0fhwg1vq3jbdvzjuxfzafb1y2lrswu3rmkwcvrtuwfsq05uqwxpm1futg1qefnkotrzn29ta21xngw0ltbwm3h5rvv4r2hqy0jxzznotgqwetz4qvlfnfczumler2fpqv9pnmzqc0hgdfj6etniazrxvknid1zqws1qq3m?oc=5": {
+      "headline": "Why aircraft engines used to have water injection, and why they don’t anymore - Aerospace Global News",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:41:37.009533",
+      "last_seen": "2026-03-09T12:41:37.009550"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqqzh1x0rodksyu09bmgizqmjdenjlelfxttfyn0jsvgvoyjh2dflvagnhlvfcamlstlnwwulndk9udtgwykr2zuvuzghyceheamheejm3utrfoc1zntm5zmvfzu9ldnbaq2den1fia2q2d09xchrsslpdnuporulbyjlrtk5gunluovy00gglaufvx3lxtfbdohvfre52szjtt0ewyjncykn6cmv6uxfnmxi3qljuzu5iohz0ww9oy0ctuujqawxou1zzsu12t1r1odbirhzlrw5kafhwserqaer6mzdrnf84lvk1mzlmzuvlt0t2cfpdz0q3uuhrzdz3t3fwdgxkwkm1sk5fsufiowtotkzsew45vjq?oc=5": {
+      "headline": "Devastating news for family after boy, two, was 'unable to jump' - The Mirror",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:41:40.405145",
+      "last_seen": "2026-03-09T12:41:40.405163"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxoou41uedhd0zmy2tkuffhrmhoa3dwwf90v292ttz1qkr3qnplb3zqsllnrnjdsvo5wdfuz252q3dhsvbqa3v3z3rjrdj6qtkxq0rmd0e0czzec3pry0rnu3haag5jbdjvqujzm2tidtr1r0jqbwnovku3bwxzvk1jz0xtsxv0c3n3ylbqohlb?oc=5": {
+      "headline": "GE Aerospace investing $163 million across four NC communities - Business North Carolina",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:31:44.106858",
+      "last_seen": "2026-03-10T10:31:44.106874"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxpzwferwnvr0u4ngxlzwlwy2zzdkvfnuhsrulvzm51dfllnfvsejzeuglhu2fcnfvvz0zvvdq2vdytrwhjnmlvzhvhofrkr2f4mtleshnhekjwtmt1wtjurfzxwesystn5zm1aceptdxfjcwlsbuu1mzc4eddsvnptzgnhd3pyrhyzzurkb1jpbm9fbjq?oc=5": {
+      "headline": "GE Aerospace to Invest Another $1B in U.S. Manufacturing - GE Aerospace",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:31:48.350609",
+      "last_seen": "2026-03-10T10:31:48.350631"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxndedmzjz1mzhcuzhtu1hyv1jxelzvns0wmvdlqkpob1czlxg5rem3v0ptywx5x05vvmcyaxhtx3lhemr2q1pos1p6v3ryuljfwtbjrujmm2xltdz3bed6zmyxuzlqq21peldnbhz3ajbpm2czb1znotl4nfrfvjzrdhdld0nhzw?oc=5": {
+      "headline": "GE Aerospace to invest $1 billion in U.S. manufacturing - avioradar.net",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:31:51.441229",
+      "last_seen": "2026-03-10T10:31:51.441246"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxod0rgv1dswwjeym5cdhdpburndmvdm1ncdglozgitbwzxnl9btwjoy1h2vc1wx2vangjwuxz0ug9uuelut25oehawm1z3u2qxvedkv0lwnu4wafq3owjasfbwsdgtrwtjzu5sndazywpaqujyqzz6r3justg2zujpm1bwujf6dhbltuc2vw9iymnqrjlitxfcuwddzfboehfwcdnkullfowdzy29luzmttu9goa?oc=5": {
+      "headline": "GE Aerospace unveils $1 billion investment to boost production - FlightGlobal",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:31:55.180102",
+      "last_seen": "2026-03-10T10:31:55.180119"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxozuqyvnbsczzuwwlauf8tdunjyndldhptnenyudltbdfadnfyt3pjsvrun1cwwi1pdtm4qmxwuhnxdvp5mlk1y0pfoetzewptc3vrvxnzn2hxywdwcf9ru0foagtlsnhjdhh3shq2renuuuo2mk5zwwhfbk1mdthicm5ewudfbgriz3btcfa4rvnuz0tbb0j1awjpre1fvketv3fwbfplz1nmouzsavz2c1dmd1p0ejbwlvetwvaybehwtflwohhwd0ndevfmyjhudkt3?oc=5": {
+      "headline": "GE Aerospace Pours Another Billion Dollars Into U.S. Factories To Break The Engine Delivery Bottleneck - AeroXplorer",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:31:58.170928",
+      "last_seen": "2026-03-10T10:31:58.170949"
+    }
+  }
+}

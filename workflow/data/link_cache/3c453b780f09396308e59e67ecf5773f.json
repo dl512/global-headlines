@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09618-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306277592/voluntary-announcement-updates-of-share-repurchase-and-cancellation",
+    "https://news.futunn.com/hk/notice/306118686/spin-off-and-separate-listing-of-jingdong-industrials-inc-on",
+    "https://news.futunn.com/hk/notice/306607542/announcement-of-the-fourth-quarter-and-full-year-2025-results"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306277592/voluntary-announcement-updates-of-share-repurchase-and-cancellation": {
+      "headline": "自願公告 - 股份回購和註銷事項進展",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:16:37.981743",
+      "last_seen": "2026-02-09T21:16:37.981751"
+    },
+    "https://news.futunn.com/hk/notice/306118686/spin-off-and-separate-listing-of-jingdong-industrials-inc-on": {
+      "headline": "分拆京東工業股份有限公司於香港聯合交易所有限公司主板獨立上市 - 京東工業股份有限公司上市及京東工業股份有限公司股份開始買賣",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:45:22.584497",
+      "last_seen": "2026-02-10T10:45:22.584512"
+    },
+    "https://news.futunn.com/hk/notice/306607542/announcement-of-the-fourth-quarter-and-full-year-2025-results": {
+      "headline": "2025 年第四季度及全年業績及年度股利公告",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:16:33.244677",
+      "last_seen": "2026-03-06T11:16:33.244696"
+    }
+  }
+}

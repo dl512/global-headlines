@@ -1,0 +1,31 @@
+## Most Important Stories
+
+- **US Congress Nears Government Funding Deal**: US President Donald Trump endorsed a Senate agreement to fund most federal agencies, with the Department of Homeland Security temporarily excluded amid shutdown concerns and immigration disputes.
+- **US President Donald Trump to Name New Fed Chair**: President Donald Trump will announce his pick for Federal Reserve chair Friday, with markets reacting to the anticipated change.
+- **US President Donald Trump Warns UK on China Ties**: President Donald Trump cautioned the UK against deepening business relations with China as Prime Minister Keir Starmer seeks closer ties.
+- **China Grants Visa-Free Travel to UK Citizens**: China will allow British citizens 30-day visa-free entry, aiming to boost trade and diplomatic relations with the UK.
+- **China Executes 11 Members of Myanmar Mafia Family**: China swiftly executed 11 members of the Ming mafia family for cross-border crimes, signaling a crackdown on organized crime.
+- **Xi Jinping Launches Major Military Purge**: Chinese President Xi Jinping’s sweeping military purge raises concerns about political stability and leadership consolidation in China.
+- **US and China Dispute Over Aircraft Certification**: President Donald Trump announced decertification of Bombardier jets and tariffs on Canadian aircraft amid a certification standoff.
+- **US President Donald Trump Sues IRS and Treasury for $10 Billion**: President Donald Trump and his sons filed a $10 billion lawsuit over an alleged leak of their tax records.
+- **US Conducts Military Drills Amid Iran Tensions**: The US increased military activity in the Middle East as tensions with Iran escalate following President Donald Trump’s demands.
+- **EU Designates Iran’s Revolutionary Guard as Terrorist Organization**: The EU labeled Iran’s IRGC a terrorist group, prompting warnings of “hazardous consequences” from Iran.
+- **Russia Strikes Civilian Train in Ukraine**: A Russian missile attack on a Ukrainian train killed five, with President Zelensky condemning it as terrorism.
+- **Ukraine Welcomes Claimed Pause in Russian Attacks**: Ukraine welcomed President Donald Trump’s claim of a pause in Russian attacks, though Moscow has not confirmed.
+- **US Trade Deficit Surges Despite Tariffs**: The US trade deficit soared 94% in November, with tariffs failing to curb the imbalance.
+- **Microsoft Loses $357 Billion in Market Value**: Microsoft’s stock plunged 10% after disappointing earnings, erasing $357 billion in market capitalization.
+- **India’s Supreme Court Ruling Rattles Foreign Investors**: A court ruling requiring Tiger Global to pay tax on Flipkart shares unsettles foreign investors in India.
+- **Venezuelan Lawmakers Open Oil Industry to Foreign Firms**: Venezuela approved a law allowing foreign investment in its oil sector to boost production.
+- **Venezuela’s Oil Towns Hope for US Investment Revival**: Communities in Venezuela’s oil-rich region look to US investment plans for economic recovery.
+- **Kurdish Forces Defiant Amid Syrian Government Advances**: Kurdish fighters in northeastern Syria vow to resist Syrian government offensives despite feeling betrayed by former US allies.
+- **Pakistan Military Intensifies Crackdown on Dissent**: Pakistan’s military is silencing critics, including ex-Prime Minister Imran Khan, raising fears of authoritarianism.
+- **Australia Endures Record Heatwave**: Australian towns hit 120°F in a severe heatwave, intensifying bushfire and climate concerns.
+- **China Sends Police to Australia in Assault Case**: China dispatched police to Australia to help find a suspect accused of dousing a baby with boiling coffee.
+- **Crypto Regulation Advances in US Senate**: The Senate Agriculture Committee advanced a bill to give the CFTC regulatory authority over digital commodities.
+- **Crypto PAC Fairshake Amasses $193 Million for US Elections**: Fairshake, backed by major crypto firms, is preparing to influence US midterm elections.
+- **Polar Bears in Norway Adapt Despite Ice Loss**: Svalbard polar bears are fatter and healthier despite sea ice decline, but long-term survival remains uncertain.
+- **Weight-Loss Injections Linked to Gallbladder Surgeries in UK**: Surge in UK gallbladder removals may be tied to popular weight-loss drugs, raising safety concerns.
+- **Protests Erupt Over Nigeria Slum Demolition**: Nigerian residents and activists protest the demolition of a slum, highlighting urban housing rights issues.
+- **No Survivors in Colombian Plane Crash**: A plane crash in Colombia killed all 15 on board, including a lawmaker.
+- **Denmark and US Restore Diplomatic Stability Over Greenland**: Denmark praised renewed constructive talks with the US on Greenland’s future after previous tensions.
+- **Amy Klobuchar Runs for Minnesota Governor**: Democratic Senator Amy Klobuchar announced her candidacy for Minnesota governor after the incumbent dropped out.

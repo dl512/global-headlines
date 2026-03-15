@@ -1,0 +1,665 @@
+{
+  "website": "https://news.google.com/rss/search?q=AMD+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxoue5zoxvymmlvnc14ve00a1puclbkwvddnejsuelzedl0owtwymramfzjzgxwb2qtewrjmdetvtzlatlhnf9nmuxwdlrxvlc2yjvzaupiulbodvvisdb5rknkbc01afp3z1blwdbvetntnu5ontdcuwfyekryee9xai1qcw?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxorvfcdvnladbxbwvxnvlfd1g4vzvqamvoa2o4og9yb3jnqupnyuvocv9ydjywu1bvdkhive9ttnfqunvpvkhvyuxpee9pdedowvkysfhxx24tu3btvknmdtznmznhm1buahjjstvlautyae82ts1rblhwuxz3cudnb3o1a2z4t05tmnnpbe9bajb6tvvrm3uzdmrxsgjoyuwwqkzvsg?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqmud3sg5sdmlsnhflz2jmmkvtt1vptkpizfg4u0nortkyatbzwfdyck5betdgvk55nuphttfrc19tudzuds1td2iyzvp4cxdqqmzxynpervh2egg4mw1nnnatv2hluxr3dzaxselvy2t6ruxhs0zolvcwahvhzmzjblpyszd5qtjywe5r?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxozedkz2kwcxnyafvrcgltvu9onhjpr1vszwfpmkr1vviwqtdrrwdrckhtoetkatvvanzwuktmswz5n25lbzfirjvxtefhvzvmtmzhbtrjbkveuv9sv3rprvjsztmws2w1aflta2v4cnfbzuddq3flbi1feg0wwlzssvnztwzxys1jtmnyanu4bhdpcgtlahcxugffoxpjsdhgci1ivxrwqmx2m1j2yw82mf9za1pfutd5yvfz?oc=5",
+    "https://news.google.com/rss/articles/cbmi5afbvv95cuxpvutros1urtbzmv8ys3bvcg93tg8yx05jbjhtwgxhwep3ajrmyi1prtfmb08yczhhcewymwvpmnrby3vmdzayedhjx2tmm09vauhpnfdmuulbuljirkrrsufhdzdhwmlqbmvprk5qnv9tvtdjekutzuczcl81tlhlnhdjbuw2wdiwy2xtcv9icktubf8yukzwntldqnzjdflctfjxr2vfze5jywlqt3c3annyoufur3hzmk9lu2rqdgz0atjmd2p2ni1htkv2b2ftmkixednmbjyxqle1ckrqt3jzrzi?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqt3n3owdwrw9trkutq1p6munay0xynwi3c0xez0dpaxloelbystrsqwpwexb6redmqkotq1dtvnm1rxnqoxlgcfk4b1dkq3ftqnrbqufgtf9lmk4tmumxtdvwauzbbnrcmmzuvtrslvcxv2w1cthmumhsy2p6b3nry1rssk5vzgd0mnnbtnztm1b6bee3?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpuuj6y2pccmzoqtjrdzlgbwnnaexdd19otu55cujhnjawmvltx1jsdwx1yjdjqvlvny1vanfqwdzsc1pwylfgvfvfr3dlevo5zgzsc3rnq3pdt19fqtzvbfg1dk5im0flwhhinf80og9rx2lxzuljrmhntejdwwe2atg3ufbsov9os2zrls1gv2rlszbtquvtz0zyrudpvkvjne83tuvqbtqytfvzrgw0ujjcc1zkr09ftvg0?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxps0rvcxb2z2q3rhbcshrpcldqa2j1qvhqowjsejzseuplohlpwgz0qkvmddnzc0hozvr1q01oyke3vu5yngt1ve1zdjbxx25iek1cmnf4zutnrjq5tgs1dtrys05zaeiwqlf0eg16axfqqxdpsgtwnxdqm3dvvgvjc3hfekrstezaqvi5repnd0pvogowltnj?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9tu0x6dgzyr2hjog9lywl0mu05mwtis3otv2hncvc3nzexenhxazj1ogrtvlhss0xsogtxrxvzmzlodknrchbpendxdzfnenblc0rcutlywfjdy1brewnmrmoywjywlwjyunk5se80dw11buh1tenmtxluvmc?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxnnxraslvhtepneflstgpzeexvsknwenzpn09urg41yuhcwljkyvezu0pvyzfkdy1lcl9rrxbqqjvxr2fwmfbpnkzzudhks2hrbxlocnv0b2zuwmldctvseurtyvf4s2ran2h1qmzkchbrbktmymf2v0xtaza2z3hysjjvwxflv2tgz2jsmupny0jqcwjlrnatehhmsu91b014nmc?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqswgwmdjfmmu5anhzqlntrm5frtdoohh5djrbmlf5zy1uy2ptcfjra0vrznjivkrsudn4mzbouxq0dxdjcutjc1nkzkzxr0nrseotqxhsewjhvvllvfl3thbbbexlakrgr2hzclbqqxu3rzm4wghwme1aetn6sepsdwvzykn2bnc?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxomefuqzbpa0rpdejqeuzjytnvny1tstdoymnfdgjfae12bnp0mw05zdz3bldjytbuwwrmyjjzqnqtce4ycglnq3fntwrlcerwtnpvzdvwqjrwtgvovzbqofnxb2dyd0g2qjlns2dmythtywuza3fsyjjqcuxuy2t1tgpcqlnvev9r?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxoqu9fwmvvmmxfugi4lwdjnkgwcmpfsjjvtlprnedobw9iudl2nertymdhsgnwtmphbs1uvwj3zjjmnjzmu3dhmxhqag13vk5ebkvlzdrjunhyrhvmcvrhzehfvmtlrktxr3ptvxi3mnlgbmr4vhetejzorzi1t0nmyw?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfayn05jttfxac1psmn1ymhtttdrbzdzt3jmwwpmempev0g1zdfowu5ovjitazjoa292rddpzgx4tk4yejl5mwdpzexydefryi1invowqw5hcza2ttzhovd4cjnhdzdxwnb1anb3twu4ekg2qljrew5qnll3?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxownuxr2zawhz6rgfpdfm2rtbey1vjsgjjltjiwhvbbk1oqldfs3brvvm0szrxrgdyntg5wdjgq1jmq2ffbjvwvexovgjncutsdw90njbstmf3vtfsu2jbmlrkemdinezmrmv1s3ltthz4avg5emtpd2hex2tieknynzc0bkzaa1rnruv6rg1mtffune5ktvpj?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqtmxqvv9mwdzvvhrpymhvsnlvyzlqrjdnzgo3bjjfd21rvw9mbgnxzxpmz3lqrexvn1jrowdhtkfintvorxeybln4qnppt0zgbk9xnnhnqkpaq3nam1fhdvrbquiza1ltsuvza2fxnkfjseq0umqzes1vvedjswvtvnvumlrpuuntvljbv2pqdjfvexzulxlvstmzctztbghuevdfntfyrlfttxg2snhivfpszhfytfpyugxru3lrvzlftghxzzk3zm5vmwxuwhqzb1e?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxptgxhwfjuddrmreztti0ytl9woe9hzhrqme50otzrvhhvbznym3l6ltfwmwfiuvmzbwz6vhjsame1aetdcnbxrha1s1g5uuzrvy1rel83rnjyqwo3lxfsd3pnx3h3nznbtxkzce9rz0vfbfrxdkzodkrfcvjreumxotbsugvhetj6zxp5ttdsegtboenevvy0?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxpcw5oa1hvberct3cxvnffaglks3blcvpnvkxgu0yttfnlovqxc0rjm3vhb1bbbk83uzn3rvr5vxfwsm1xduvnnwnsreploxlhoejaymjab1awqld1snpymenzte8xtlr5ejrobzfjohywcerobzvitmhyef9jcflonf81uevvcwxzcwq4?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5ib3dxogzwtuflagp5txnyzw01rujtwk5juflyvmc4ukppohk4rgutwfrxzjvku1r5zkzicg11quxclwvjd3llx0y5yunmqw9nczhhs2rhbg5im1lsvfr2ntuxavravgjpu3zgodnhx3cwwvgyr19r?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqdkvhtelubhrbm1hvsuuxewlklw5rexpfsnewn1pctfrxb01ru2rdtmzezezysulxa1flbkl0r1fjcwzgeud0ddm1struwgn6dk5itw81oxdyedqtauxoz1rvwvvfymnfwmlnoer4sjbddm4wqna4dhzwykj1ynrqvzjylvdluffm0ggoaufvx3lxte9ra3rqbkp0rhezvhjhb2hxvnpjvkw1lxjswvryzjhnmtjwewntqwxxaxppn0tjy29fukfyrup6q2lioe9jv3dmzmvltmtzddvuzljmb1q2ouc0vej1ueryvnu1dxndqv9xni1ldy1rlwjqadjbzwrwvdf5wddilwqxtxhgyu13n1dzq054c1e?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxpuzlwakvia01isfg3nxvmazb0cg91u3y3qtbqzldpwexeu0nozhprmu5tmk94cgpiqufhtthkmtfrcjhhz210z3npn21ndg1ovzrumgyzzgdfov9tcnlhvvvidfa0bxbyltexcvhive1mcnjpu2hutm5vmlbvnetzvjrbnhbhewg5vwl4dla1yvbilvhktddmm3y0zgrpvzrxvtdddxqtz2dels0welozx1fjx3nzvxk2bu9gmjdkrw9xc0m3mwlizjnhunjirws?oc=5",
+    "https://news.google.com/rss/articles/cbmihwjbvv95cuxomhn6t05nvzdxtmria1vldu42vmxelwvibutirujoehlptkjmugjaag4yaxlws3u3b0l0zermugl2exixvmpxem1qcmi0bmhvuvbzb09fogtfwws4c3dbsfnodtc3blhcs2ldrkxyawxjbk1hc2httepjqxv3rghrmfu0sfzgeetbwmzfwulix3nnes1ky25hrez0ulq1ennsnujvtjbaukfoevnsmlvfbwgwne1pt0frclrzogr5quktuuhjwtdjcgtgqmfbzxfva0nqm1rsmk9esjawt0rnazvktxrfamzjm0ptlvppuumzsnllx2h1qkfwswlrbjvolxbvbhphuq?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxnvuroaxcwylq2vek3zu4xsfh4mjmtyvzpv2dnrnn2wgjvqmjzandfa3pzns0xmexqqmvgsnrjz3zprw9ra0lidezwsmpsm3jusmniclbcv3u3nmxaoxlynutobhvmemnxd1josgllctu3odruvg5emkrod3d3anzhbkp3ule2lwzfyjfzx0y4r2d3bju4dmhuwnbqzwfotuffogf1c2h3?oc=5",
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte4wbhv3zy1ydwdybm5ytthhrwzvafhwsmu0burpzudzwkrzymt1sndtnxuwvghda2cwmedbbepfmnnmzjyyewndbutiue51yudfcun1wuc3uepwmwrwegg0?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpmu93zg5cte8trgyxm1bvlte2y1btrknybgjuqucwmujgz3vsquiznflpuff6tuj0qu92umn4cy1sykk3zhqts1novwo0dgvrmlhemnjrbzdpz3jdwtrrzzbdy19zuf9jykxmdxbiwe4wdwxrmfzwsndqs2nrnjzzemttcmpirmhbq1qxrezmwxa4m3fprxc?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9qwuvzbw9fdwx5sxvbdm9qsvnsu21ooxjiuuvqturimjb4cdl6d0eyb0hhwlnkyzitohntaufnnti1c004djvfwty0atnkznnhv29salvxzwfyvfl5oed0dzfecjztrwvwy1awrvnqmkpvcnpsaxhbvv95cuxodlfkmnlpsfncnm9ldxlbmnpqu1fcytmwmehezmx2wjbybmtgtuxcy0hwumrxtvmyynzhsjiya0nkthbrmuv0ymqtlxjsluuteedzn0pos0m4ujruzthwbm95y0xjutnhvhfpwnzzx2lise9nteettge?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxoyy1tvtvmufc2mwjyr3dbrnp5shzwavhry3pmtuhndxvkvjburlfvouj0oxfxm3rmoev1s19ws19luvpnu05pngdxdm4zvhfxt1i3x3prdwprlwv3tkhmu0eyeef4cxdgztgysfdmnllpdfnczvjfsu9helrha3q0wvpiefzpv1ytuvzqq3hpqmxnnfbbd3ztsgvxsm8tmkews2mxskvdaezuvs1hd3jurxdptnjuc3bftutwsnzhwfzfu1jqzknrrs13?oc=5",
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxpyuxtnjuzsda2eluznxdtqzzoqm5jchrsavn0zlhtslblc2hksul4vnnos2vtre90q2zkbng4deu3wkflyxdkwkvgt25pnfppns15agtpblbkz0p4yvnkmm1iai1bcfjrttdqymfnaxnutzuzcmxms0djzwvmtvm1t1zlquvtcmvfaxleb1lksf9ks2vnstiysuk5nxbfwm50bkxqqurcy2twbnvmrwrr?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxoa1lmou45dtj1yk9cnfdoaxziwmnprkdhx2uxrwrzyvfhynm5x1dyturarglyq3lry3d3dwttdeqwqtqzqjjoafp6cwn6cerhvekzv3nsb2pqzkflce16exfuunnetw4tzjq2au84adhba0fuczvxohnrtdg4mgttb29dohvgbhu3bwj1c2pnq2jga1fnmzdoyg?oc=5",
+    "https://news.google.com/rss/articles/cbmizwjbvv95cuxqby1yymr0nhdrmm0wnw1lczfqy0m1luvxmufhcjfxvm11durrtjbocjnzqzn1elpkewmxovvjovjgvhvavfjfx2pzuuu3y2m4wkf4t01pmm9fd2ziz2o0vgptnvvoqld0aghvbi1zz21jwffkru1xbmxqwnvgaldicevhef9utkhsztktzhzszue2yi1mtmraeuvqruhxexlxew5jwuzivfvsykzjwepveelkefbvxzfktufoagxjeglqec1xdwt1dmr1vuc5ev9xrmzcdvdils1trtdpazbnemc4wjzybhd1m19cuvrtm1jitxzouvn1nwdwtuk1z3fmdtvpbnrsvzvln0uywejux0nfyxr4dzzxelh1tuyxu0f0rlrcwdhjemxoz3bat1oyz1dvovjuttvsog9aanrmstfeb1ziaznlq1e3ehjwdw?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxovwm3bfp1nhnnwmdzdi1iztdedjvzqwdfr3k1me5uszczdednnvlfwurgt3h4bnzpde9jukpvv25ictjzm3dktjdqytmxumpzsefxyxu4n0tca050u3g2uuhnntztckx0n1dqeexcmlhyvzhivhvvwnlwyzm3lwtjzmlr?oc=5",
+    "https://news.google.com/rss/articles/cbmijarbvv95cuxoznm1d1g5d3f3s0l5ru9zvzkwvkhsbs1fehlhemfketl2utu2adi1vu9icuzawffnwmhwaws5athrr0huuk5bywzqqxl6qkvqs29aekd1v3hittqxufvzmxhoq0v4vfpmztzquujiadbfoffrcjhnajlyqy03ejbum2zzzuvxdnpqazv1dzdbnzq4vddxzgxyamluuzd1wdruajfboxa2m0uysva4b0pzwjc1ltlbew1kve1xagrxmfawmw1zwkxwovhomxg4n2nza21jqy1jc1zaum5kz3pkyzfjs2howkfkm2xgr2o4yvnvdndla3hmwfnksfhomm9pqldnr3f6vmdychrluzvmmjfnyulpa2zkv2pwbgu1uvd6buizngdozfjctwjbtvlhvgnxbugxrg1lznvwrv9pdk9zmv83tmrdazninzzbnfvzvuywr3flai1nn2j4zjztt2npsljnttjsae9isjkznzuwn09aotrlotlwrujswhjpt3hcac00suloc0i1nwdws3l5tktdrefxnzjhbwqwdfyybdrkdkdhyv9lt3zhcmqys053b0jyrg1ds3phdzn4vnbqevjwqi13wfzvugt2vjbud1pqaezucddnvdriuduwzlley1r5ohe4v0u5bvfzvgdvegzomwzjn1vmbevmuvatu2lnq0u2sknrwg?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxnq24tqmtus2z6mhniyvzotnfnzvq3c0rzwwdjsle3rhpvmhdvmjzwn09zskryqvznbxhymzatrkdoc0r1ahowderqzerpvxa5d2lpcvv3a3hrvzlzu1i0q0nkmllfnurptnjln2o3snjvdvdrclj0dndrq08zt1hquncxbm02evdunznznxlqymhbs3bnq25pqlfjzvrprfrslvnymq?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxomwn3zxbosgz5lvdtqw5wrnfqekdya3dnz29vdv9faug2ethwqtr3m2q4vutstfbwddlbtkjiyuu5wenzrvj6bdhwv2rjyxdpb19tsffcmkxblwhzm3kzeulht2vpwwfhcfqtywzsmk1xluzutfbsajdocmtymvb0b1vmaejovmyxttfqrnnnm1fydnzqb1o1eg94r1bvvzzlvufqwa?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxonxvloezbdetiuvh4sje1axhid1zmx3pdsdfnndcxszrzzmt3ddjtcs1ebnzsqnphoejhc081odlxmjrzne1ys1ffc3dou2jbc3dqovv0blp2cxrbtji1rm1abgtbtxm2tkdux3b1znnzbw5la1forw1wx29enm9pv01xnkhzd0tnzfexytrbqwjlx09na3dzeg?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxoq0jrbjfydw5jbwzxoey1mjz1qmdwu0e2bwlhmmxvmzdunnrhne9zrnlmetjmamh1bnvunvpku0rwrvptewxazxq4ahrmq1vwd3zzuzdpv1vvvk9xzmljy29iyvg1a0vid2njx3cybel0n2oyx1bvek9owjvmn1hnwhlvdko5efplrjdgx3utzzy2zw?oc=5",
+    "https://news.google.com/rss/articles/cbmiswjbvv95cuxobxaymknkze9mv0xrykj1uvrfdzktqvdqzkjzuxdumk1rzf9beuxvu1gxnmzlukt3rhgxlu5lvhn3y2pjdxnsdjjivddrdgoyny0zbvnmehz5owzsuezvnujaz1a0svyxqjhzugrfcndhmzk2re1zstfknlvunm5fzfpmywd4zupqwm45u0ntnmhnbznmwnlpb1l0awzqunzunhi1ewezthvivlvjdjjrula5udhocmowv0jkwdv0b09htw5lte5haxhkzhftc3jfnncwzmc5engys3zzblc0v1znoxrpzdf3ekw5otd0vlbwuknxumnozvm1rhkzakr4s2v5mdfsrvvftfnftwxtwghubkxraknjzmthzgryzgdgrm1qnw9ib3jtahqwsvn4vld3?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpaefjbg5msjvmcmzpd3nlztf6au9uamjfrxh1ntllcgnjznfsaeitd3drofhjtefqmgzkouj2rfrrc0xyqkt5vvlzsghis1jsehjncfdhnzfxltv0cuvjnmvkdenysfhrdmrswtflemvuztjhovbcne8ycgcwlvbtdk1amulwnxvxvwk1bxmtnffpdkpyaue?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoslyxsmjisy1xde0xtxbzchruu09mqm9xvkdxejhrrxbguk40r1pheehcyxfjlvfpnffmmfzhnhhcety5q2k0m1u5amzmwehurvg0r1v6t09snuzyv3fqbw43qzjpuzdlnvhqukduoenkefy5luu2vgplbhcwbuhkytc2ahu?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnqkxtujdbnfj1mgpztwy0autwueppquzrbze5otnnvwtux3j4s1bfuw5ps2xmuuhuamxjmlozchfudzzzotreqzrxoxo4shnit0tdmmzuqkhsdwfstgu1enc0rw5fd1fybgxfsfjjclnrx2u3vxhxmkjmsehqvmwxdllmdedkafp5vnc?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxnculybzi1tgxsmgvhqmjzmna4chltrnbtwlf6m1y0vv93unvvalfwtzvqmu9rufgyvxcwr0npsgnkwhpmdxvcdvjuqu40anbmee1lbtbpvdfgtmdtbxpzbzc5eutlntjkswpyu2lzt3htylnucu9yrs13nueyqwjjtlfr?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxnsnnsvglwuermuvfsny1kcldltmnfmgrfb0xhnudzqujrqjj5uxvitlmwn25yajvmnhdor2o2njmyy0ztcxnive1fndhuqjnbuu9qt1vnzhi1wnfguhdvsghtdzzonlzhlujwrjv0z2zusgv6mfvbatj3wmpdmdzovvdpmnz2v050s3hnchnqrmnzqxpyr2u1c0jxbkphdezh?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnvefdyu9ktmxym0czbu8tt0jjafg5ckg1owlpoxztz04wufboqlzkbdfrynvqzgriy0r5dfjvcmtft0zjq0i1tgkwlurndw9fww9ilujkehrkc1i0y3c3mxz4ndl5vxuywe5maxfmlxbimf9dmtnnnvnkwhdpnjj1ulnpnm4?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoykpxshneeg5pmwz5cklrqy1onxm0ymvjugl2lwjyuejcvkhwodbnymnkyuznzvrxxzrzzwhsajlyby1eody1zzhtyxbmbzc5bez5ahvhdxp2sjvrre1jrw05aklrthjqoelzqxp5alz5btbwwmnod0pwvdznmusxqwzmake?oc=5",
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxnwhbhykfbsddwclvdwnzsujztnnlgznzdnllpcde5ttbptw1yzxroz2nwtddtx0jrmjbpbtuxzlo3mv95njnjedzlz0x3bvvibtfralbqzmlnakj2ywjddtn4vzm1dkvstm5czfpkufnvm1bnulvnnvvesxzpow9lvg1fouw5v0f0rmutrxvhr25usutum0fld1zfuwpiwwxxy2e3luvkbmfcckexsnv1dldqdujxrw85dtfvs3lpt2pdcg9uue9bcmpitzrvagwtewg4u0fznhfbb2pjrtvb0ghkaufvx3lxtfa2x2dzwhjqtepot2xyuxdhdu9bzmzmqmvpqzd0wmtmee0zsuvluktptu54m3rfednxzgxcwjzkbtvfuevzegdergzhn2ttdgtxt09prjiwvhfeumzscehcehhiszlwnvpnmky1aksxui1txzr1uha3mjljtvzxwhpynkpmbmppoxbyugznzjdrylm2wnq0me5fnml4rkdvnnc4elk4eeoznfa2ww1ittfvwwzyunllbtrgm1pwvdv3amhcc291svpqv0pts0pwvs1psg5vsmv6njgxngf6ynpudgrpbq?oc=5",
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxnqlzivtbkvzzltwtodk9sczlsd0jwd1r4q0z3cepky284uxjlwkjtykxzv2dtmlfwahfnwkv1euprs3exntvkwxbltvzrdwnqr3hmmll5wlbubnluzxnyaxzoym8zbk9nb3htv2z6r2uxwfdkc2ris05vadi5cjbaevpmslp1v3f1c3bdrvl3vnrjb2ffugv4unjobwlqoxdoufryu0plmg9weuzntkxnqmvuqmxnnxjobhpucw?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1imlbvuw9hb3g4t3jvvzzsclrwu3ndt3lroffqre02tzzxazfnq3lvzelxes1evc1nak9mohpllwxlaen1r1z1wlroek14owm5wkjiqzvkahlod0hjynzbz05fu1d5uuvkwk5la1vlaxnzuq?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxquxl0mnduwffomxyzzzawc25cblfoavladk5bbzhundhbvuzvdy1wc2hplwvrmmgzsldedenjsxnsafmwmlhvq1jyu0f4cwvhazrgwju4stboehrlvgdgrnrlmul0qw45b2vzmgy3cxjys1bdr0zhmwxvvu5xrm91ngvqvmljtfb1nwtzegjiqxo2offtrw41cq?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte5jmnrwutk4amrwmmhfvvnfdddbr0xjrf9qn3o1szjathywa3zbnxbgmmpwszzcmfffnf9qvmzgu0vxueldvtjrvxf5dzlzbepmlw5eu1zgvmt3vmxdue1od3jbzu1nul9fzhlqui1ftzrlevr0?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqajnty3jkytngcf9fdte4rgsyudn3uxloeejsavnmumzmvu5lyxh5yuzyngvownrzm0liehg4rffrcfppefhnzlbznmvmrvg5shlavlvzcmlhluhzal92zjzstedlugh5lwplehltnke1utjpyuzosutnmtvksdlot0xswkvyevfey3h1wfdxcdn5u196?oc=5",
+    "https://news.google.com/rss/articles/cbmihwnbvv95cuxpdvjprgpywenfd0rzsddsxzlicthxnu9ft3zbcmxqmw4xmwy3sveyd3awmmjknkp1n1lkuwjyefctcdc4b3f4yxj4chp0ztjlrlnrylpmodfpyzuxeeztqxotvektv1bbmkpkaepad1jqdmk4wgfkwtblaw50ngnnwnz0rglrrehxm2zteg51aevmwfpszm1nohhuwgx5quxqwefqbwe5cehzs0cwm3rpeehxcjdgrljodzditljodvndulhkwghwawfdv0y3tepqm2vuv3oyczlenjdqlthhou5hagnor2c0dkztx1rpszg5ywnxmtvsszlsb0xkmtzjukziawfsznf0mfbnvve3ngm4nxnnbdfweu1itvftzu4tadb5wgprsuv6ngxqz01vednandbewul6mmphslzwmunibzritwt5axvnquxsym4tbfdyz19szdu3avh1sxvfs1hbm3zemmnjz3rywnpscuwwzephrtk4wwnanmxvdmzzrmvqm2xf?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnzgteufc1t3z5odvymkzqmzhru2dswxotn0dtvxfitzv4nv9uuui5evq1r243x1iwqlrdzxrruwdybjvnwfdwr2derdhywffnbunjmhbdquvmynezb01jqkvjwkxhzhjeb0mywjzuafvdazy2uleyqnc0tjzrmwjtrnz4zunnb0tez18xr0hwq2xqu0m5m3njuexvbmpzv0s0nfrpewlidlhdd0wxsvz1s2xpefo?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxnnzg5dfddef9ndf9kz09ewenabfn2z0lwvmfkzlnwczlqq2jss3i3b184amxurlbsbwdvzfbwdxnvoghvzndkt2jft2tvyxbkdglrvtl2njlvbhz6sdv1txjrxzhdd0jeztywbe1xnus3eu8zc1nusfzdyw9fmlrrde9cdetkmg9ftkpbylfsrhdwztdntuftvjgxbgcxeknq?oc=5",
+    "https://news.google.com/rss/articles/cbmiiajbvv95cuxquwvwbklfujaxeu9hd3fxuvdim0vuswxrdmfbnhpyqjzhzgrbeejcc3dnafk2mzvmcgd5rvzsyuhodhlqmfftv1vkcw03sudjrnhkbux0amdqy0pnq0nlndvfnnq5qlu1bll0ynayzuruv0laqu54s3r1ejlcvjzesufkqzljyjy0vtrdvwrlug1xeuljceq2tdfbsvp3tmvhzgvmwnnqbhfqzmrnvgnrsuv4zxbfse1pz3k2ylhxd0rgz2lccngxluxdexq0ri1rufruzghlv3rhcw1wynjuxzrxa25hexnyehdqdhytzeltbs1pngnydwdtvvpwz2v5yvb0s0dzafm?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqwfbxenn1mm1dcww1dfvonthrrknxc1duuy00rmvsdlpfaw1fa1noadjgdfrvog9irvj5vw1iuup6c1j4clpnx0rwehb3bhjhbkpfr3zqtwrewlg2a3btvnbube1asxqtzfdlv2v3sm1oee16ue9esjjpvurmdtdhrc1mmzjqcwrjwjrmaxo1ag5zluhjdetluu1rrvixym5fz2poltzev1rzrtzydwc?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbjcja0blbmvgnscghroxhcwmzeemptn25uaulzow1ywujmswxowlb2qzfsaeuxsglnc0xnulledudcuejnrkh6aev1yzjnae9lu3y1bendlxzjrjvwddher3ntvgvodgnmzxv3uu13etletjzcrxbvrtfr?oc=5",
+    "https://news.google.com/rss/articles/cbmisanbvv95cuxoadhyzzkznlnqm24tehy2q2ftqklty0g0axhxntlwduc3nu9bbejjcvnzrktduvpqtjvlannmeufpadbezxz2vuixqng0m1kznhnqntjsa0lpula4bfj4njfhcll2ovlpazngoud1vezzuervdk5xyuv3uxnclupiaxpnagxrzm9ay1bdy2g3seo0szdnexrrwdhhrkp5rkv5qkvxztlqymj2ynuyd3yyzm9vttixvxdcdhfawc1zu1letvrlyxvhem5wwkw3utfrmdvidwpky2jqy2pln0hfmwvpyw9zlvdneffxswz4z3vgwl9leml5b2x1vhbbogetqzlfui1kugdwntgwoxbuoutgwv9zzgnotezkctvxotc0lxdgsddnszvduuzmofpfnmzwbhpox2k5y05cc1rxb0xkqvf0wmcxrnhcrdbuqzvnmjzqyvjnvu43mhq5ukfpsjzvyljnmxbreedoczzeautdmlbobe0tdv9xz0nmmdjsx1zkt0xtz0f2bfzluvbscxjtcmm1zffbb3dpzwvjntq1c3pxeen0zhvtzmxqmtq?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqs1dhwulxs2dlugtbmevhwfbpcwhwtw9sedvbrjbsm3fxm200bfb3em9uu3npahvlqmf1ctazckpyq3zurlviwvzysdfmnm1loxfrykrnx2viegc4vtuwwvvpousyswhiuljuzkj4qxztude2z085cejdyvzzqmvtvgfgdnjvtgtebwjpewflvliwtgjwb0j6rmjculjqq3v6dfdhqq?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpd3vhznzscnpnry1ftf9ivxz4zeo0ewvmrvf1zkrddwruz21fvdb0n3hczkdzts0tu2jkdhhyb3boa2dwx0r4swl4ymqtne9nqtdlvlppeg5jcujjyjhdahlmrgpfa3pqq09sdguxow1vtzruaefsa1d0eudzcwu3mwxfyu5lnw5uc2nfbjy4tlzncfbnczr4wwsybe01emnlctdpcffxs28znejzm0lpyuv3?oc=5",
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte5tymlvnkdhwlfhsw9srljlc2h6zkvzmfzkadg1shdibfvpynfdcfnaskdetf9wuk96vzvtykjusw5pzkhrskpnumfbmzngqlrgy3vhr3lvul9rtdnkwi04wfpqt2xxvzrmq3hed0hruffqwkdotxfkmurltevcdw?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte5nn0jfndfnwvu1akjpnetwqtzhn3h3rxz4ck45njbqehzwsmtplvvpmm9umlfra0pjwmhldnbwafjrn0jkwvh0ufvzagm4ztnvaf9ingwzdw5nbdbvbxjhq3ffn01zlvy1m3z6rvk1na?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpbu1mrxmttwq5nfnovdntm1vpq2hwbkztrljadnvstfzos0lrql9nrs1hsmvnrxzvrnvuujhzakzzzvrwbnpxtetiotc4bnvin3fhx29knlf6dwfjdgfrbgdyrzlptkppaw41u3rzawvnn09jcelurtm5agktunhxmmphuwpqzvnhaetoz0pwwu9wdzlpsuvsnvbynwgwvxi0r2dyui1kz2k?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxnelhumk9ytknox2fltu1wrmlrwfzztgt6nvrhc3fwcznjws04ndliqxjmdmhwukxqvdnulvhyvm1fewe2cgxlz0flsnpfadzta2xlcdbhztrjzkj6z3rowmdomk5mstdebujnulbfrg1uwtbidjfex0tfqxj2z1zkafewvk5uazvvs01myjf3ouzlztnubuk5rfrvqxytmtcza25xyulhxzhez0djqkqyn3qxzu42qjayzw5lvwrlslbfsm8w0ghkaufvx3lxtfbuazdvb3p1b3bpeumtbzztug9irhphsxjlmjk0swfdvklisnbwavfly1zfdhuyatd0owhrbmj5y0zkn05jwwroehnseuj4effndgppunnbzkduajn1vldxai1ia2vxrxb0bklry1fly1u5sk9ub2lhujjcem8yenrtrezyruflyv9ttdvddgvhvtcwugjocc1dn0ppwklstlddq1lhymzvuudcb0nysexpnk15u3pywuxhcullngrotw0zohpaqjnsnee?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte85m3rxtexpvkrir0c5z0nkrzndnzdxy2trsdhav1lmukiwufdrutbqrgvlnurylwlxtta2v0d3mfvyshdsulpjtkk2vwvtc3fqwk9qohhxv3nnm0fmbtjcqwvqamxynwdsawnjohe2cmuxund4ug9nald5dho?oc=5",
+    "https://news.google.com/rss/articles/cbmimwjbvv95cuxpvgtklwpunuw3dvnwsl9vyvraluxwrlbjuvfwbetuemg2r0pktk1gamzfcmdwovhiskvsseduwdjnluvhwum3tfazvhdjandrutrjtkdpmtnlzm5scfvzc0fovg5uzli4ndfoylnirnjfx3psmnprdwdjsm9umknyqwdxmhvalxfodw16d1vzrglvr3hvlurwu0xhd2juvwv6whljbhzbwllzb2pobgdocmdragljcnl4vwh6cjg1yjg0yldhcvpiaxytx1fmvfi5a0y5t1pfmel0vunwsxdwutuwvmnrywreoujnqvnrmzjjnjdqx0dknhhgcxnkrxpzvzhpyvlhcmngnnvudzjnbf9uvw9bc0z2r2m4?oc=5",
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxpcjfnnuhhmevwyktkben3zkfoa1zkm2hnsxhpv24xrjq1ogpwahb3r1rxbzlutlrfy2roue5qmxljemtwtvblnudgwgx3x0zaq00ybgrgcenmrvdlynbvmmvtsvjedzvoy1y4dwzjei1sazlunvnfyl9drk5uaxvkexhwa3zirzhpmjfovudrvkfemw5mbdhyq09kqvfybezmte1bx3ewzdjks3lbsmdhngrjnlezwjzrx2jvwjvtazi4rwrvni16tndmnvr1mufprehmm3jklwjanjkyv2rz?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpzhjudxhtetvlstjps2ytqvj4thotskoxaursyv9hmhzyvfk4vmfanm5odmjrb1fqbezhswq2cjdlsznfu1rnuwdytwphenjycefjtzr2oupmwfhlcgfyek9obxk0ukzvb2lhbk0wu3vzem9manh5mkdib0vjmnhznwqxm0jhdzrzchvnuurqbmdfc1dcr0phejdprxhanndgy3uwq2y3ltflskxxue00za?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnddnxvehjy29woehhywvkrvz0ce1nx2nfsmvwwhnrbjy1txjjn3nxs0jfm2ptdnpxqwxcm3dacfkzd1iytgxlqtu4t2jgx3bqog0tumtlz2lhevzbltnazmw5us0tq2zfmnpqbvvuaul0nldsdkzowlnhel80que5nghvb1fmbnfubmn0yw9xrujzuxuxwtluuhjmsgfudmp5z2vubu9fzi1snkrmafvhy3lubvr3dw?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqaghktxnzrwc2d21yrjvxt21yrjd2ry1nmknlanrolwhnqxdqtkpusuzfbgfaq3psclixuhrbmtm3bunhcmrwmhzrb1jmovvms3o2qtrsr3jvow94vw1pmwf1zuxtvezirhe0yjn0mgxlqwlfwvfwvu5zt2vjsetrtudydkjaowljzjzhnuxb?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxouketqm1lbm93bnzvy0vjnupmzndnvwhzrdvusxzjexp4avnloxyxt0xit0des3z6wk9iqjhnofn1nnpxtu9zs3hay0ozndfnthl2amo3chy3odroshzsneroev9wr0hlcgjrc3nlaxpuctbqmw1qdnd5cnvoclbzlxr5qwp6x0y4ckvsmwpcduvxdjlrsvd3ekhnchpwzw?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbltjhkynhdnla3ew5gc01qrnpxv21vtw1sytgxrc1rvljds1ranunzznfprzvhvwvcluq1vvfxaxrjekljalppyl9fvhvzyuxycxzfczu5ml9qodfvvvdwmuphakh3eevmx2trn2peenzlu3ltmha5cjdrekeywdg?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxntkxau1h6m1bdzgh0zei2whnib01ps25xc1ztunjsnuzjtkzvdkprwnrfohaws29jcwjsqm8tbmrkcxrfq1v2vfbvshpytujwenlaujf5a0vhy3hwckzjvflyruxwrfc3d2p0uzjlx1dunmlitl9rb2lzcg41d0jmwvvysgjruxjysxk3t210vtvxlurod1d2exniqtjink8yrdbzcf9b?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnmkdoexdhsgxwus04envyekfeb21ouxfwqzh6z0xyx2cxvk1eyvvfzzvkdfb0zgtiaum3zwt5z0tiutg1vwxunuvnu0fxwusxtmtfwjqtbwjwadrwsfbssv9pmm9frte3u25nuwpyv016czflvtrszvfjrgv1sunscujpmnzwvg5iamu0au5uq0k?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxte1yxzvmvkvlqlp1yzm3qktnuza1rk1fdhe3sdrhmmroufnibffwatrktnrumkf2wjjkytnor0xdv1z5dm5heghtemn6dg5zvwlptkljsgr0cxjquerwewmwagq3c3lkwe5tvfjlu2t1yw15thyyxzrroxp5dw?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxon1zkc1u1euxrzutorhpyzvvrz3ztudrnbzqttdkzq0zwetduslpcavczaly1rhltvunbluxiavlhx2pgdxjsulzuuelgcnmwnkhorxrqrdlvb2xmn29mujvqohj2ukuwal8xzl90nzfgwgthbkxqwepftw1pmxjdcefgawrsmjb0r2jfvm4xm04xm2vuoxlyvevzztjyafjlcze4?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqazyznxdlbhhznfdwoth5ekfpumtstfa3mw5yuhdabglcwwo2lvyzb3fhdhnnrgnorxjhnfk2svmztxo4ownjdtzwdxhcuzvrttvqnhvtv1c4aff3mev0tkgwedvnyju4t0tnd1h3shdxrhzuqklkowhzm1hyaug5tgfpt2pzbvdrrfdpm0h5wmwwuextbvgxwq?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxpetvnznlawee0rfa3x0dozzmwx2fzq3pyduo5mhjiwmpcutfxqlzvwdmzqwftwhzuu3ndnktplxdramv6rhb1ymfwzkw4n1u2d1h3ujjaaenraetou1d6eujeb0uzt3vlvc04dgjtevnkmun1melsumjjudnjdww5ru9gexjzu0hzaxrsrk8ttg9nclr2sg5dmwl1tnntdw?oc=5",
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte9jufbouvboauzzn1p3nfphzlbmaflmwlrptwzbdlf1ewzdtkhebxzuuhjilujpzzdfcjdznml3v0tkzg02luw0bhfxb0z1tnk5wc11rhrduu5ytjdwyji0v0htnnr1tdrmnf9n?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnrvz3rnf1z0tnuhfkr0dtcdb5rznknzdmd2y2d3lzcvzpn19ly0hrewlqc2h2u1nfctjqsglztlrwuuttavl1dkzfmuhnexdoui1bvmxlduo2tvnrvgjrcvbzdffbdkpcsmutzw9bnnlua1vxbthibwnvakvfavvmz05rdw?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9wmdzkcy1zbnbrdv9lym80c0xovujxzjn3rhfpsddcswvywk9aa3lub0pubzhrow1jewphmux2qm5rbfpvni1rd0t1btbnsgvlx1pgmk56vlo3se5jy2nxu24wmlf3umz5zuhhb2zraxd2aw8?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpunj0tg94mwlqu1rntfnobuqzmkn3ekfvmkexruhidlnyz2xbnmzxc2vwzhf3ag5mr1lywtljq09mbzrmqunncjdjtm5uuurymujhn1rjrdc3atu5a0rrcdzbctjvaf95c2lhef8xvw95tg9jwmoxt0y0rlnjtvpdz3p6wwpmcnrmane1qmnmwe1zvmhtutqwqnjonwpbrxq5mfhkvwvxc1v1dkwyvflqx2j3?oc=5",
+    "https://news.google.com/rss/articles/cbmibefvx3lxte5jty1gnvzqexbptnjxejnslxj2ev9fxzjxczzomgkws25vtgrgewrovujlb05wodn4elnosxb2wuv2rk92q2yyvevavuf6cuzirtnjdffrmkzzb1nark83wer5qldwtflbtehtda?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnlw1rcmrqdkvmszzpcxffd3bxtkfkukjlrlhitmdiaek4wdv0u053s3plzmpan2rpvhvstuffdjvkzfnltezjq293rzjyehhss1dzwvnzr0p6evfgskzru2g1vuo3elrwsfzxexloei16zdzimnz6bnp5nzlsmwdnrlzzowpizwvjvevamkvnrmvvuehszmtjtll2nfexng85yvhin25imedfewm5oxkwved1s2ewndhkt0lqskpmsgvnquu?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxnvvhowkftr3rvekhhrhvla09hv3vkbeqynfzhzfhizktobzhwd3lzvulibk5vvxlss1extklcdugxni1ir2nwotftcv9pdm5yswngu3o4c3lmxy1mqzyxeknmytr0uvbvx0hwbu11aum5otvawetowuo0y3u0s0p5de5od2k2c05lrjlsm2vsqlzzovbxrke?oc=5",
+    "https://news.google.com/rss/articles/cbmi8gjbvv95cuxqbmtkt29vz3g5m2jlnes4ehqyeus2b2vcm21hownioufwrgtayu9gmjvfaezhmxhtcu1xcnhzwlfsu2hqwlldngzyb0tfm3cyd0rucenpcelnmjh6oesywkxqrmhjrs1nejmtotrlnm9sowtuq2dhu0u2ofbuqy1kwwjwalfgxzd5detqrldqchp4ow5lekzheu54z0xushljqwgtbgcyzlzfdgjbogl2b1nqslbpbxfxbll0ngx0vhnha005n3fpb0trukxbmnptamm1ow9vtkx4d3qylxhzvllrdnjkr0jrrhdbwurjvxy4nefhwvdsy3pmcg5uyw9nsuxvszdkd2xwc085v1jldjqtv0dsz19wvdfkm245n05vsfbuatjiec1tvvhuvupmylg0y1bjt2jos25uq29oytfrnuxeumtpnhh0cg52mtntmwt3vjrctwvgr2ntbzy5ofnccdhtwfnjaxlive5pwhr3?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfa4eerptgd1n3dhrhv6dvm5d2o3ug4zb1fnsm1mbwpsqwvfmgpwblhqzgqtwfrbcthfwexqqjkwvkplujzvls1oynfxnmzzvxvhowtfwhc0uldsqlv0nmhhcc1fac0wx1dsqv9ktgmzmhu4clk?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnbmrsdxi3wfnsowndddbzmtnmam5qbwrcy2jroex2ak0tb1dlz0yyddlpahj2ztvfx19nei1lwnltrgnxytbnnjfzdvrkzxvnzehadk9jy29ntdq1v0lyrudjwuhpmhlqcgvxyvhkaedzswjnvvlfu3npsmxhswcxlur1av9tclnzvuleatdhrlzwa1npefjpx2dxevnlszljddlwcdh3n2f3m19rowiwelrgrfu3nkdxvdzxyvdvbldsacabqvvfexfmtw5kunvyn1htujljq3qwczezzmpuug1kqmniuthmdmpnlw9xs2dgmnq5awhydmu1x19fz3otzvp5burjcwewttyxc3vuzgv1z2riwnzpswnvtuw0nvdjckvhy1litzb5anblcwfysmhhwuliz1vzrvnzt0psr0lnms1edwlfbxjtc1vjrgk3yuzwvmttaxhst19nv3ltzus5y3q5cha4dzdhdznfazlimhpurkrvnzzhv1q2cwfxb25q?oc=5",
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnag1wym53wvhfr2psbupqwes2cfyzbkc5zufscjvvyxdmse9iykrfrw5izlvjmmncsfh1ykxume1olw0ysvrmmmrveljgu2lqzguwzgzldu1newi5ovdkehrmrjltdnhrrgh6lvy2edzstg9wrkfmr0rsmkitng53ztfpc1hibfznt3bwz3beekizqtg2m21yelpaewpzvwjkszlwcmm2uww4skzwb3nxes1ony1xeee?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxpmvqwsm8xctzktdfdcvr3thc2cmzmzwnerjdkte5ytm83n0xfdjbcqxrkuwdszxdwcdfkuxuzyxaxlxiweupxouzidjrcvi0zewrxd3zlqmhps2g5mnfymezzckztrke1rjlrslrbumxwrhcwrwtwqutvctmtrfnpyjraluzmdlnma3fjvuziundytexpetlmx1i0ykvzrm8?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte4wmuriandaswxusmlmn1pgt0hiwfbiwg9wanp1cg1hwgxsm3nidfu5rw43mgjfmgtlwnrlwgdrtzktwe9kzdv3effpwuotoexpqzl6tkxbuunpz3e0wlnwcxjfnvdinnbfmwxit1hoyzbsaxzbvv95cuxqoudmnedsmjc0vgtwwky3xzb3b2jyelh0mk00aezbmkjssfm4cln6u3lxem9qduflenrnze16z0ttatled25fnm5tmvp2qzr5s3p5vhjxsk4xseznb1c0oeexvk1uzxjoa1licg13thjlemhar3pb?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxte5yundpcu54y2wxekhid3zjshoyyvhxrghxewcyate3rmvtyuz5u3lzcxf5zkzmaefotgxlewjru0lcrjvqavzcq0fnogheefr0t2rqcelzwexzswfcc1phvuewnvvob2syamjbtehtohl0z0dhne1dvkfyaw?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxqzfdqy3nwnv85ddboofb6rjzvuhzccel2yulzodc1cet5mhrld3pzlwhjd2znvtzmcuxvdc1yd1dtwxgtru53thvhwwj6tzbpx05esf9in2uzn19pbejqttjzxzlyzxvnsxowz0frbng4yxfjznnvwjg5zhnzowtpr2prz2nxvdhonmfeedi4aufacxhocla3rkjcdfnxmvi2mgj3nki1wljqnjflavjieettaejplvbfyko1cji0rnqtc1ntnjq0uxhks01ex3m?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxoa1zsc094b0nht05lt1rnuutpcdrauzdqdfzjsu9lswlkcuncdtkzrzf0dthhq3nzs09ibxy4nw9nzjvjnhu0eldxrdlubu93uufiymphtunpc0xnauf4dffnylfpx0q1unlhbxlrmle0n1hkzdbkmzrnqk5ot2lha2o4agloa3k1aud2te1xz0xfc05ya2tjcgm5rfdeemltugjmqmfauno0vkha?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpr3fymi16vxdwakzmt1phwhi1s21yal8tsumztnprexn5axdox1iwune1nevqoengdwjiewxzutbvr1q1cknwq0vymvr1zuzfnkzttmpms0tamejcbjreqmnxtml6uzflvgcwnhd3z1dmodzgwuftagyxvzflsw1lztk4elrnrdiybdfrnmrlzhbav09kswpiv0pwvxr0tvbsz1rkrzdjrmvvvhzbwxdxy0lftnf5anniwunocm5cotntvxbv0ghkaufvx3lxte45yv84vxzoegqwtdjomniyovpwcmvecwi0cwzontnmahk4sdgznmhcexy3vkpwazbiwwy5z3pzrtnyaghhani0z1rtxy04wvpqds1tc0lomwzzyndjvgr3cgm4nfizdzrvverkwxllufm4rlnabjjfme4zuvhfwepbcthsrjj5wek3cxzhze9wtmneyu1ucelssujiunfwykt6celuv21hbw1fytl5qmtooflqx3h5tlhpndnzrzrrvtjmavdevtlvvle?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxoue5zoxvymmlvnc14ve00a1puclbkwvddnejsuelzedl0owtwymramfzjzgxwb2qtewrjmdetvtzlatlhnf9nmuxwdlrxvlc2yjvzaupiulbodvvisdb5rknkbc01afp3z1blwdbvetntnu5ontdcuwfyekryee9xai1qcw?oc=5": {
+      "headline": "AMD Rally Raises 2026 Expectations as Chip Demand Strengthens - Eudaimonia and Co",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:53:58.162171",
+      "last_seen": "2026-02-09T21:53:58.162182"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxorvfcdvnladbxbwvxnvlfd1g4vzvqamvoa2o4og9yb3jnqupnyuvocv9ydjywu1bvdkhive9ttnfqunvpvkhvyuxpee9pdedowvkysfhxx24tu3btvknmdtznmznhm1buahjjstvlautyae82ts1rblhwuxz3cudnb3o1a2z4t05tmnnpbe9bajb6tvvrm3uzdmrxsgjoyuwwqkzvsg?oc=5": {
+      "headline": "12 years ago, I left AMD for NVIDIA, and AMD has never given me a reason to come back - XDA",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:00.830644",
+      "last_seen": "2026-02-09T21:54:00.830657"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqmud3sg5sdmlsnhflz2jmmkvtt1vptkpizfg4u0nortkyatbzwfdyck5betdgvk55nuphttfrc19tudzuds1td2iyzvp4cxdqqmzxynpervh2egg4mw1nnnatv2hluxr3dzaxselvy2t6ruxhs0zolvcwahvhzmzjblpyszd5qtjywe5r?oc=5": {
+      "headline": "AMD comments on FSR 4 (INT8) support plans - OC3D",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:03.712750",
+      "last_seen": "2026-02-09T21:54:03.712760"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxozedkz2kwcxnyafvrcgltvu9onhjpr1vszwfpmkr1vviwqtdrrwdrckhtoetkatvvanzwuktmswz5n25lbzfirjvxtefhvzvmtmzhbtrjbkveuv9sv3rprvjsztmws2w1aflta2v4cnfbzuddq3flbi1feg0wwlzssvnztwzxys1jtmnyanu4bhdpcgtlahcxugffoxpjsdhgci1ivxrwqmx2m1j2yw82mf9za1pfutd5yvfz?oc=5": {
+      "headline": "AMD still has no plans to bring FSR 4 to RDNA 3 GPUs, and that's a shame - TweakTown",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:06.558464",
+      "last_seen": "2026-02-09T21:54:06.558477"
+    },
+    "https://news.google.com/rss/articles/cbmi5afbvv95cuxpvutros1urtbzmv8ys3bvcg93tg8yx05jbjhtwgxhwep3ajrmyi1prtfmb08yczhhcewymwvpmnrby3vmdzayedhjx2tmm09vauhpnfdmuulbuljirkrrsufhdzdhwmlqbmvprk5qnv9tvtdjekutzuczcl81tlhlnhdjbuw2wdiwy2xtcv9icktubf8yukzwntldqnzjdflctfjxr2vfze5jywlqt3c3annyoufur3hzmk9lu2rqdgz0atjmd2p2ni1htkv2b2ftmkixednmbjyxqle1ckrqt3jzrzi?oc=5": {
+      "headline": "Next-Gen Xbox 2027 Launch Reportedly 'Best Case Scenario', Following AMD Hint That Microsoft May Ship New Hardware Next Year - IGN",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:09.871561",
+      "last_seen": "2026-02-09T21:54:09.871574"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqt3n3owdwrw9trkutq1p6munay0xynwi3c0xez0dpaxloelbystrsqwpwexb6redmqkotq1dtvnm1rxnqoxlgcfk4b1dkq3ftqnrbqufgtf9lmk4tmumxtdvwauzbbnrcmmzuvtrslvcxv2w1cthmumhsy2p6b3nry1rssk5vzgd0mnnbtnztm1b6bee3?oc=5": {
+      "headline": "Why AMD Stock Is Up Today and What Morgan Stanley Sees Ahead - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:31.462524",
+      "last_seen": "2026-02-10T11:16:31.462539"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpuuj6y2pccmzoqtjrdzlgbwnnaexdd19otu55cujhnjawmvltx1jsdwx1yjdjqvlvny1vanfqwdzsc1pwylfgvfvfr3dlevo5zgzsc3rnq3pdt19fqtzvbfg1dk5im0flwhhinf80og9rx2lxzuljrmhntejdwwe2atg3ufbsov9os2zrls1gv2rlszbtquvtz0zyrudpvkvjne83tuvqbtqytfvzrgw0ujjcc1zkr09ftvg0?oc=5": {
+      "headline": "Angiogenesis 2026: Continuous AI severity scoring could transform AMD monitoring - Ophthalmology Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:34.420440",
+      "last_seen": "2026-02-10T11:16:34.420456"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxps0rvcxb2z2q3rhbcshrpcldqa2j1qvhqowjsejzseuplohlpwgz0qkvmddnzc0hozvr1q01oyke3vu5yngt1ve1zdjbxx25iek1cmnf4zutnrjq5tgs1dtrys05zaeiwqlf0eg16axfqqxdpsgtwnxdqm3dvvgvjc3hfekrstezaqvi5repnd0pvogowltnj?oc=5": {
+      "headline": "AMD's Growth Rate is Declining. Should Investors Be Worried? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:37.312769",
+      "last_seen": "2026-02-10T11:16:37.312784"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9tu0x6dgzyr2hjog9lywl0mu05mwtis3otv2hncvc3nzexenhxazj1ogrtvlhss0xsogtxrxvzmzlodknrchbpendxdzfnenblc0rcutlywfjdy1brewnmrmoywjywlwjyunk5se80dw11buh1tenmtxluvmc?oc=5": {
+      "headline": "AMD: Why I'm Buying Post-Earnings (NASDAQ:AMD) - Seeking Alpha",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:40.081227",
+      "last_seen": "2026-02-10T11:16:40.081238"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxnnxraslvhtepneflstgpzeexvsknwenzpn09urg41yuhcwljkyvezu0pvyzfkdy1lcl9rrxbqqjvxr2fwmfbpnkzzudhks2hrbxlocnv0b2zuwmldctvseurtyvf4s2ran2h1qmzkchbrbktmymf2v0xtaza2z3hysjjvwxflv2tgz2jsmupny0jqcwjlrnatehhmsu91b014nmc?oc=5": {
+      "headline": "ASRock unveils \"no-boot\" BIOS fix for AMD AM5 motherboards - OC3D",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:43.426855",
+      "last_seen": "2026-02-10T11:16:43.426870"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqswgwmdjfmmu5anhzqlntrm5frtdoohh5djrbmlf5zy1uy2ptcfjra0vrznjivkrsudn4mzbouxq0dxdjcutjc1nkzkzxr0nrseotqxhsewjhvvllvfl3thbbbexlakrgr2hzclbqqxu3rzm4wghwme1aetn6sepsdwvzykn2bnc?oc=5": {
+      "headline": "Sell AMD Stock At $215? - Forbes",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:56:42.710975",
+      "last_seen": "2026-02-11T11:56:42.710995"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxomefuqzbpa0rpdejqeuzjytnvny1tstdoymnfdgjfae12bnp0mw05zdz3bldjytbuwwrmyjjzqnqtce4ycglnq3fntwrlcerwtnpvzdvwqjrwtgvovzbqofnxb2dyd0g2qjlns2dmythtywuza3fsyjjqcuxuy2t1tgpcqlnvev9r?oc=5": {
+      "headline": "Save $35 Off the AMD Ryzen 7 9800X3D Processor and Get a Free Copy of Crimson Desrt - IGN",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:56:47.193327",
+      "last_seen": "2026-02-11T11:56:47.193346"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxoqu9fwmvvmmxfugi4lwdjnkgwcmpfsjjvtlprnedobw9iudl2nertymdhsgnwtmphbs1uvwj3zjjmnjzmu3dhmxhqag13vk5ebkvlzdrjunhyrhvmcvrhzehfvmtlrktxr3ptvxi3mnlgbmr4vhetejzorzi1t0nmyw?oc=5": {
+      "headline": "AMD Ryzen 9 7900X Hits All-Time Low At $240 For A Killer Deal - HotHardware",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:56:50.753221",
+      "last_seen": "2026-02-11T11:56:50.753239"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfayn05jttfxac1psmn1ymhtttdrbzdzt3jmwwpmempev0g1zdfowu5ovjitazjoa292rddpzgx4tk4yejl5mwdpzexydefryi1invowqw5hcza2ttzhovd4cjnhdzdxwnb1anb3twu4ekg2qljrew5qnll3?oc=5": {
+      "headline": "AMD vs. NVDA: What's the Better AI Stock? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:56:53.929154",
+      "last_seen": "2026-02-11T11:56:53.929170"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxownuxr2zawhz6rgfpdfm2rtbey1vjsgjjltjiwhvbbk1oqldfs3brvvm0szrxrgdyntg5wdjgq1jmq2ffbjvwvexovgjncutsdw90njbstmf3vtfsu2jbmlrkemdinezmrmv1s3ltthz4avg5emtpd2hex2tieknynzc0bkzaa1rnruv6rg1mtffune5ktvpj?oc=5": {
+      "headline": "Better Artificial Intelligence Stock: AMD vs. Alphabet - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:56:57.246946",
+      "last_seen": "2026-02-11T11:56:57.246965"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqtmxqvv9mwdzvvhrpymhvsnlvyzlqrjdnzgo3bjjfd21rvw9mbgnxzxpmz3lqrexvn1jrowdhtkfintvorxeybln4qnppt0zgbk9xnnhnqkpaq3nam1fhdvrbquiza1ltsuvza2fxnkfjseq0umqzes1vvedjswvtvnvumlrpuuntvljbv2pqdjfvexzulxlvstmzctztbghuevdfntfyrlfttxg2snhivfpszhfytfpyugxru3lrvzlftghxzzk3zm5vmwxuwhqzb1e?oc=5": {
+      "headline": "AMD vs. Nvidia: Which AI Stock Will Outperform in 2026? - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:27:19.866840",
+      "last_seen": "2026-02-11T13:27:19.866855"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxptgxhwfjuddrmreztti0ytl9woe9hzhrqme50otzrvhhvbznym3l6ltfwmwfiuvmzbwz6vhjsame1aetdcnbxrha1s1g5uuzrvy1rel83rnjyqwo3lxfsd3pnx3h3nznbtxkzce9rz0vfbfrxdkzodkrfcvjreumxotbsugvhetj6zxp5ttdsegtboenevvy0?oc=5": {
+      "headline": "AMD vs. Nvidia: Which AI Stock Will Outperform in 2026? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:27:24.755024",
+      "last_seen": "2026-02-11T13:27:24.755039"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxpcw5oa1hvberct3cxvnffaglks3blcvpnvkxgu0yttfnlovqxc0rjm3vhb1bbbk83uzn3rvr5vxfwsm1xduvnnwnsreploxlhoejaymjab1awqld1snpymenzte8xtlr5ejrobzfjohywcerobzvitmhyef9jcflonf81uevvcwxzcwq4?oc=5": {
+      "headline": "GIGABYTE Partners with AMD to Enhance Game Value through Crimson Desert Bundle - Yahoo! Finance Canada",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:27:30.703664",
+      "last_seen": "2026-02-11T13:27:30.703689"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5ib3dxogzwtuflagp5txnyzw01rujtwk5juflyvmc4ukppohk4rgutwfrxzjvku1r5zkzicg11quxclwvjd3llx0y5yunmqw9nczhhs2rhbg5im1lsvfr2ntuxavravgjpu3zgodnhx3cwwvgyr19r?oc=5": {
+      "headline": "AMD: Something Doesn't Add Up (NASDAQ:AMD) - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:46:37.827541",
+      "last_seen": "2026-02-12T12:46:37.827556"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqdkvhtelubhrbm1hvsuuxewlklw5rexpfsnewn1pctfrxb01ru2rdtmzezezysulxa1flbkl0r1fjcwzgeud0ddm1struwgn6dk5itw81oxdyedqtauxoz1rvwvvfymnfwmlnoer4sjbddm4wqna4dhzwykj1ynrqvzjylvdluffm0ggoaufvx3lxte9ra3rqbkp0rhezvhjhb2hxvnpjvkw1lxjswvryzjhnmtjwewntqwxxaxppn0tjy29fukfyrup6q2lioe9jv3dmzmvltmtzddvuzljmb1q2ouc0vej1ueryvnu1dxndqv9xni1ldy1rlwjqadjbzwrwvdf5wddilwqxtxhgyu13n1dzq054c1e?oc=5": {
+      "headline": "AMD Ryzen 7 5800X/XT Outsells Nearly Every CPU, Becoming Even More Popular Than Ryzen 7 7800X3D - Wccftech",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:46:41.899033",
+      "last_seen": "2026-02-12T12:46:41.899047"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxpuzlwakvia01isfg3nxvmazb0cg91u3y3qtbqzldpwexeu0nozhprmu5tmk94cgpiqufhtthkmtfrcjhhz210z3npn21ndg1ovzrumgyzzgdfov9tcnlhvvvidfa0bxbyltexcvhive1mcnjpu2hutm5vmlbvnetzvjrbnhbhewg5vwl4dla1yvbilvhktddmm3y0zgrpvzrxvtdddxqtz2dels0welozx1fjx3nzvxk2bu9gmjdkrw9xc0m3mwlizjnhunjirws?oc=5": {
+      "headline": "Save $35 Off the AMD Ryzen 7 9800X3D Processor and Get a Free Copy of Crimson Desrt - IGN Southeast Asia",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:46:46.170599",
+      "last_seen": "2026-02-12T12:46:46.170614"
+    },
+    "https://news.google.com/rss/articles/cbmihwjbvv95cuxomhn6t05nvzdxtmria1vldu42vmxelwvibutirujoehlptkjmugjaag4yaxlws3u3b0l0zermugl2exixvmpxem1qcmi0bmhvuvbzb09fogtfwws4c3dbsfnodtc3blhcs2ldrkxyawxjbk1hc2httepjqxv3rghrmfu0sfzgeetbwmzfwulix3nnes1ky25hrez0ulq1ennsnujvtjbaukfoevnsmlvfbwgwne1pt0frclrzogr5quktuuhjwtdjcgtgqmfbzxfva0nqm1rsmk9esjawt0rnazvktxrfamzjm0ptlvppuumzsnllx2h1qkfwswlrbjvolxbvbhphuq?oc=5": {
+      "headline": "WVU Medicine highlights age-related macular degeneration awareness, detection, and emerging treatments - WVU Medicine",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:46:48.973119",
+      "last_seen": "2026-02-12T12:46:48.973130"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxnvuroaxcwylq2vek3zu4xsfh4mjmtyvzpv2dnrnn2wgjvqmjzandfa3pzns0xmexqqmvgsnrjz3zprw9ra0lidezwsmpsm3jusmniclbcv3u3nmxaoxlynutobhvmemnxd1josgllctu3odruvg5emkrod3d3anzhbkp3ule2lwzfyjfzx0y4r2d3bju4dmhuwnbqzwfotuffogf1c2h3?oc=5": {
+      "headline": "How Low Could AMD Stock (AMD) Go? Street-Low Price Target Sparks Concerns - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:46:51.919671",
+      "last_seen": "2026-02-12T12:46:51.919687"
+    },
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte4wbhv3zy1ydwdybm5ytthhrwzvafhwsmu0burpzudzwkrzymt1sndtnxuwvghda2cwmedbbepfmnnmzjyyewndbutiue51yudfcun1wuc3uepwmwrwegg0?oc=5": {
+      "headline": "AAV-based gene therapies for neovascular AMD - Nature",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:14:52.489433",
+      "last_seen": "2026-02-13T13:14:52.489446"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpmu93zg5cte8trgyxm1bvlte2y1btrknybgjuqucwmujgz3vsquiznflpuff6tuj0qu92umn4cy1sykk3zhqts1novwo0dgvrmlhemnjrbzdpz3jdwtrrzzbdy19zuf9jykxmdxbiwe4wdwxrmfzwsndqs2nrnjzzemttcmpirmhbq1qxrezmwxa4m3fprxc?oc=5": {
+      "headline": "AMD Just Announced a Huge Turnaround. Is It a Buy? - The Motley Fool",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:14:58.291370",
+      "last_seen": "2026-02-13T13:14:58.291385"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9qwuvzbw9fdwx5sxvbdm9qsvnsu21ooxjiuuvqturimjb4cdl6d0eyb0hhwlnkyzitohntaufnnti1c004djvfwty0atnkznnhv29salvxzwfyvfl5oed0dzfecjztrwvwy1awrvnqmkpvcnpsaxhbvv95cuxodlfkmnlpsfncnm9ldxlbmnpqu1fcytmwmehezmx2wjbybmtgtuxcy0hwumrxtvmyynzhsjiya0nkthbrmuv0ymqtlxjsluuteedzn0pos0m4ujruzthwbm95y0xjutnhvhfpwnzzx2lise9nteettge?oc=5": {
+      "headline": "AMD Radeon Graphics Drivers - TechPowerUp",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:04.011680",
+      "last_seen": "2026-02-13T13:15:04.011691"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxoyy1tvtvmufc2mwjyr3dbrnp5shzwavhry3pmtuhndxvkvjburlfvouj0oxfxm3rmoev1s19ws19luvpnu05pngdxdm4zvhfxt1i3x3prdwprlwv3tkhmu0eyeef4cxdgztgysfdmnllpdfnczvjfsu9helrha3q0wvpiefzpv1ytuvzqq3hpqmxnnfbbd3ztsgvxsm8tmkews2mxskvdaezuvs1hd3jurxdptnjuc3bftutwsnzhwfzfu1jqzknrrs13?oc=5": {
+      "headline": "Intel’s Supply Issues Helped AMD Grab Record-High CPU Market Share: Researcher - crn.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:09.232702",
+      "last_seen": "2026-02-13T13:15:09.232719"
+    },
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxpyuxtnjuzsda2eluznxdtqzzoqm5jchrsavn0zlhtslblc2hksul4vnnos2vtre90q2zkbng4deu3wkflyxdkwkvgt25pnfppns15agtpblbkz0p4yvnkmm1iai1bcfjrttdqymfnaxnutzuzcmxms0djzwvmtvm1t1zlquvtcmvfaxleb1lksf9ks2vnstiysuk5nxbfwm50bkxqqurcy2twbnvmrwrr?oc=5": {
+      "headline": "AMD Software: Adrenalin Edition 26.2.1 for Radeon GPUs is here - TweakTown",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:13.956610",
+      "last_seen": "2026-02-13T13:15:13.956626"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxoa1lmou45dtj1yk9cnfdoaxziwmnprkdhx2uxrwrzyvfhynm5x1dyturarglyq3lry3d3dwttdeqwqtqzqjjoafp6cwn6cerhvekzv3nsb2pqzkflce16exfuunnetw4tzjq2au84adhba0fuczvxohnrtdg4mgttb29dohvgbhu3bwj1c2pnq2jga1fnmzdoyg?oc=5": {
+      "headline": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:30:10.142933",
+      "last_seen": "2026-02-16T11:30:10.142950"
+    },
+    "https://news.google.com/rss/articles/cbmizwjbvv95cuxqby1yymr0nhdrmm0wnw1lczfqy0m1luvxmufhcjfxvm11durrtjbocjnzqzn1elpkewmxovvjovjgvhvavfjfx2pzuuu3y2m4wkf4t01pmm9fd2ziz2o0vgptnvvoqld0aghvbi1zz21jwffkru1xbmxqwnvgaldicevhef9utkhsztktzhzszue2yi1mtmraeuvqruhxexlxew5jwuzivfvsykzjwepveelkefbvxzfktufoagxjeglqec1xdwt1dmr1vuc5ev9xrmzcdvdils1trtdpazbnemc4wjzybhd1m19cuvrtm1jitxzouvn1nwdwtuk1z3fmdtvpbnrsvzvln0uywejux0nfyxr4dzzxelh1tuyxu0f0rlrcwdhjemxoz3bat1oyz1dvovjuttvsog9aanrmstfeb1ziaznlq1e3ehjwdw?oc=5": {
+      "headline": "AMD's stock got crushed today. CEO Lisa Su says demand is 'on fire' - MSN",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:14.624848",
+      "last_seen": "2026-02-16T11:30:14.624868"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxovwm3bfp1nhnnwmdzdi1iztdedjvzqwdfr3k1me5uszczdednnvlfwurgt3h4bnzpde9jukpvv25ictjzm3dktjdqytmxumpzsefxyxu4n0tca050u3g2uuhnntztckx0n1dqeexcmlhyvzhivhvvwnlwyzm3lwtjzmlr?oc=5": {
+      "headline": "Advanced Micro Devices Inc. (AMD) Was Down Way Too Much, Says Jim Cramer - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:30:17.946857",
+      "last_seen": "2026-02-16T11:30:17.946874"
+    },
+    "https://news.google.com/rss/articles/cbmijarbvv95cuxoznm1d1g5d3f3s0l5ru9zvzkwvkhsbs1fehlhemfketl2utu2adi1vu9icuzawffnwmhwaws5athrr0huuk5bywzqqxl6qkvqs29aekd1v3hittqxufvzmxhoq0v4vfpmztzquujiadbfoffrcjhnajlyqy03ejbum2zzzuvxdnpqazv1dzdbnzq4vddxzgxyamluuzd1wdruajfboxa2m0uysva4b0pzwjc1ltlbew1kve1xagrxmfawmw1zwkxwovhomxg4n2nza21jqy1jc1zaum5kz3pkyzfjs2howkfkm2xgr2o4yvnvdndla3hmwfnksfhomm9pqldnr3f6vmdychrluzvmmjfnyulpa2zkv2pwbgu1uvd6buizngdozfjctwjbtvlhvgnxbugxrg1lznvwrv9pdk9zmv83tmrdazninzzbnfvzvuywr3flai1nn2j4zjztt2npsljnttjsae9isjkznzuwn09aotrlotlwrujswhjpt3hcac00suloc0i1nwdws3l5tktdrefxnzjhbwqwdfyybdrkdkdhyv9lt3zhcmqys053b0jyrg1ds3phdzn4vnbqevjwqi13wfzvugt2vjbud1pqaezucddnvdriuduwzlley1r5ohe4v0u5bvfzvgdvegzomwzjn1vmbevmuvatu2lnq0u2sknrwg?oc=5": {
+      "headline": "AMD's Growth Rate is Declining. Should Investors Be Worried? - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:22.892962",
+      "last_seen": "2026-02-16T11:30:22.892979"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxnq24tqmtus2z6mhniyvzotnfnzvq3c0rzwwdjsle3rhpvmhdvmjzwn09zskryqvznbxhymzatrkdoc0r1ahowderqzerpvxa5d2lpcvv3a3hrvzlzu1i0q0nkmllfnurptnjln2o3snjvdvdrclj0dndrq08zt1hquncxbm02evdunznznxlqymhbs3bnq25pqlfjzvrprfrslvnymq?oc=5": {
+      "headline": "Is AMD Stock a Buy? Why Wall Street Sees 40% Upside From Here. - Barchart.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:26.758846",
+      "last_seen": "2026-02-16T11:30:26.758861"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxomwn3zxbosgz5lvdtqw5wrnfqekdya3dnz29vdv9faug2ethwqtr3m2q4vutstfbwddlbtkjiyuu5wenzrvj6bdhwv2rjyxdpb19tsffcmkxblwhzm3kzeulht2vpwwfhcfqtywzsmk1xluzutfbsajdocmtymvb0b1vmaejovmyxttfqrnnnm1fydnzqb1o1eg94r1bvvzzlvufqwa?oc=5": {
+      "headline": "AMD to Backstop $300 Million Crusoe Loan, Following Nvidia Playbook - The Information",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:08:33.719673",
+      "last_seen": "2026-02-20T12:08:33.719690"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxonxvloezbdetiuvh4sje1axhid1zmx3pdsdfnndcxszrzzmt3ddjtcs1ebnzsqnphoejhc081odlxmjrzne1ys1ffc3dou2jbc3dqovv0blp2cxrbtji1rm1abgtbtxm2tkdux3b1znnzbw5la1forw1wx29enm9pv01xnkhzd0tnzfexytrbqwjlx09na3dzeg?oc=5": {
+      "headline": "Nvidia is moving in on Intel and AMD’s home turf - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:08:42.219457",
+      "last_seen": "2026-02-20T12:08:42.219473"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxoq0jrbjfydw5jbwzxoey1mjz1qmdwu0e2bwlhmmxvmzdunnrhne9zrnlmetjmamh1bnvunvpku0rwrvptewxazxq4ahrmq1vwd3zzuzdpv1vvvk9xzmljy29iyvg1a0vid2njx3cybel0n2oyx1bvek9owjvmn1hnwhlvdko5efplrjdgx3utzzy2zw?oc=5": {
+      "headline": "AMD Responds to Rumors About Potential Delays - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:08:50.589530",
+      "last_seen": "2026-02-20T12:08:50.589548"
+    },
+    "https://news.google.com/rss/articles/cbmiswjbvv95cuxobxaymknkze9mv0xrykj1uvrfdzktqvdqzkjzuxdumk1rzf9beuxvu1gxnmzlukt3rhgxlu5lvhn3y2pjdxnsdjjivddrdgoyny0zbvnmehz5owzsuezvnujaz1a0svyxqjhzugrfcndhmzk2re1zstfknlvunm5fzfpmywd4zupqwm45u0ntnmhnbznmwnlpb1l0awzqunzunhi1ewezthvivlvjdjjrula5udhocmowv0jkwdv0b09htw5lte5haxhkzhftc3jfnncwzmc5engys3zzblc0v1znoxrpzdf3ekw5otd0vlbwuknxumnozvm1rhkzakr4s2v5mdfsrvvftfnftwxtwghubkxraknjzmthzgryzgdgrm1qnw9ib3jtahqwsvn4vld3?oc=5": {
+      "headline": "AMD's next-gen Ryzen 10000 desktop CPUs rumored to come in seven different configs — Starting from 6 cores, flagship \"Olympic Ridge\" silicon may feature up to 24 cores - Tom's Hardware",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:09:01.715933",
+      "last_seen": "2026-02-20T12:09:01.715948"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxpaefjbg5msjvmcmzpd3nlztf6au9uamjfrxh1ntllcgnjznfsaeitd3drofhjtefqmgzkouj2rfrrc0xyqkt5vvlzsghis1jsehjncfdhnzfxltv0cuvjnmvkdenysfhrdmrswtflemvuztjhovbcne8ycgcwlvbtdk1amulwnxvxvwk1bxmtnffpdkpyaue?oc=5": {
+      "headline": "AMD Shareholders Received Amazing News From a Massive New Customer - Nasdaq",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:09:09.909325",
+      "last_seen": "2026-02-20T12:09:09.909338"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoslyxsmjisy1xde0xtxbzchruu09mqm9xvkdxejhrrxbguk40r1pheehcyxfjlvfpnffmmfzhnhhcety5q2k0m1u5amzmwehurvg0r1v6t09snuzyv3fqbw43qzjpuzdlnvhqukduoenkefy5luu2vgplbhcwbuhkytc2ahu?oc=5": {
+      "headline": "Cathie Wood Isn’t Done Buying AMD Stock – Here’s Why - TipRanks",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:01:42.153914",
+      "last_seen": "2026-02-23T13:01:42.153931"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnqkxtujdbnfj1mgpztwy0autwueppquzrbze5otnnvwtux3j4s1bfuw5ps2xmuuhuamxjmlozchfudzzzotreqzrxoxo4shnit0tdmmzuqkhsdwfstgu1enc0rw5fd1fybgxfsfjjclnrx2u3vxhxmkjmsehqvmwxdllmdedkafp5vnc?oc=5": {
+      "headline": "AMD replicates Nvidia's playbook to backstop US$300 million Crusoe loan - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:01:45.991921",
+      "last_seen": "2026-02-23T13:01:45.991937"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxnculybzi1tgxsmgvhqmjzmna4chltrnbtwlf6m1y0vv93unvvalfwtzvqmu9rufgyvxcwr0npsgnkwhpmdxvcdvjuqu40anbmee1lbtbpvdfgtmdtbxpzbzc5eutlntjkswpyu2lzt3htylnucu9yrs13nueyqwjjtlfr?oc=5": {
+      "headline": "Did Nvidia Just Deliver a Crushing Blow to AMD? - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:01:49.330232",
+      "last_seen": "2026-02-23T13:01:49.330249"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxnsnnsvglwuermuvfsny1kcldltmnfmgrfb0xhnudzqujrqjj5uxvitlmwn25yajvmnhdor2o2njmyy0ztcxnive1fndhuqjnbuu9qt1vnzhi1wnfguhdvsghtdzzonlzhlujwrjv0z2zusgv6mfvbatj3wmpdmdzovvdpmnz2v050s3hnchnqrmnzqxpyr2u1c0jxbkphdezh?oc=5": {
+      "headline": "AMD FPGA Tools 2025.1/2025.2 Install on Ubuntu 24.04 - Hackster.io",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:01:55.286583",
+      "last_seen": "2026-02-23T13:01:55.286601"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxnvefdyu9ktmxym0czbu8tt0jjafg5ckg1owlpoxztz04wufboqlzkbdfrynvqzgriy0r5dfjvcmtft0zjq0i1tgkwlurndw9fww9ilujkehrkc1i0y3c3mxz4ndl5vxuywe5maxfmlxbimf9dmtnnnvnkwhdpnjj1ulnpnm4?oc=5": {
+      "headline": "Should You Buy the Dip on AMD Stock? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:24:45.445072",
+      "last_seen": "2026-02-24T11:24:45.445089"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoykpxshneeg5pmwz5cklrqy1onxm0ymvjugl2lwjyuejcvkhwodbnymnkyuznzvrxxzrzzwhsajlyby1eody1zzhtyxbmbzc5bez5ahvhdxp2sjvrre1jrw05aklrthjqoelzqxp5alz5btbwwmnod0pwvdznmusxqwzmake?oc=5": {
+      "headline": "Is Advanced Micro Devices (AMD) Still Attractively Priced After Recent Share Price Pullback? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:24:57.346444",
+      "last_seen": "2026-02-24T11:24:57.346462"
+    },
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxnwhbhykfbsddwclvdwnzsujztnnlgznzdnllpcde5ttbptw1yzxroz2nwtddtx0jrmjbpbtuxzlo3mv95njnjedzlz0x3bvvibtfralbqzmlnakj2ywjddtn4vzm1dkvstm5czfpkufnvm1bnulvnnvvesxzpow9lvg1fouw5v0f0rmutrxvhr25usutum0fld1zfuwpiwwxxy2e3luvkbmfcckexsnv1dldqdujxrw85dtfvs3lpt2pdcg9uue9bcmpitzrvagwtewg4u0fznhfbb2pjrtvb0ghkaufvx3lxtfa2x2dzwhjqtepot2xyuxdhdu9bzmzmqmvpqzd0wmtmee0zsuvluktptu54m3rfednxzgxcwjzkbtvfuevzegdergzhn2ttdgtxt09prjiwvhfeumzscehcehhiszlwnvpnmky1aksxui1txzr1uha3mjljtvzxwhpynkpmbmppoxbyugznzjdrylm2wnq0me5fnml4rkdvnnc4elk4eeoznfa2ww1ittfvwwzyunllbtrgm1pwvdv3amhcc291svpqv0pts0pwvs1psg5vsmv6njgxngf6ynpudgrpbq?oc=5": {
+      "headline": "AMD Ties Helios AI Platform To India Data Center Growth Story - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:25:11.482196",
+      "last_seen": "2026-02-24T11:25:11.482215"
+    },
+    "https://news.google.com/rss/articles/cbmivafbvv95cuxnqlzivtbkvzzltwtodk9sczlsd0jwd1r4q0z3cepky284uxjlwkjtykxzv2dtmlfwahfnwkv1euprs3exntvkwxbltvzrdwnqr3hmmll5wlbubnluzxnyaxzoym8zbk9nb3htv2z6r2uxwfdkc2ris05vadi5cjbaevpmslp1v3f1c3bdrvl3vnrjb2ffugv4unjobwlqoxdoufryu0plmg9weuzntkxnqmvuqmxnnxjobhpucw?oc=5": {
+      "headline": "Crimson Desert is the next game to support AMD's FSR Redstone technology - TweakTown",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:25:22.732924",
+      "last_seen": "2026-02-24T11:25:22.732942"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte1imlbvuw9hb3g4t3jvvzzsclrwu3ndt3lroffqre02tzzxazfnq3lvzelxes1evc1nak9mohpllwxlaen1r1z1wlroek14owm5wkjiqzvkahlod0hjynzbz05fu1d5uuvkwk5la1vlaxnzuq?oc=5": {
+      "headline": "AMD CEO Lisa Su says AI data center market will be worth $1 trillion by 2030 - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:25:35.946839",
+      "last_seen": "2026-02-24T11:25:35.946862"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxquxl0mnduwffomxyzzzawc25cblfoavladk5bbzhundhbvuzvdy1wc2hplwvrmmgzsldedenjsxnsafmwmlhvq1jyu0f4cwvhazrgwju4stboehrlvgdgrnrlmul0qw45b2vzmgy3cxjys1bdr0zhmwxvvu5xrm91ngvqvmljtfb1nwtzegjiqxo2offtrw41cq?oc=5": {
+      "headline": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears - The Guardian",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:18:57.720883",
+      "last_seen": "2026-02-25T13:18:57.720900"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte5jmnrwutk4amrwmmhfvvnfdddbr0xjrf9qn3o1szjathywa3zbnxbgmmpwszzcmfffnf9qvmzgu0vxueldvtjrvxf5dzlzbepmlw5eu1zgvmt3vmxdue1od3jbzu1nul9fzhlqui1ftzrlevr0?oc=5": {
+      "headline": "Racing to Catch Up With Nvidia, AMD Signs Chips-for-Stock Deal With Meta - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:19:08.564643",
+      "last_seen": "2026-02-25T13:19:08.564659"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqajnty3jkytngcf9fdte4rgsyudn3uxloeejsavnmumzmvu5lyxh5yuzyngvownrzm0liehg4rffrcfppefhnzlbznmvmrvg5shlavlvzcmlhluhzal92zjzstedlugh5lwplehltnke1utjpyuzosutnmtvksdlot0xswkvyevfey3h1wfdxcdn5u196?oc=5": {
+      "headline": "AMD Stock Rises On Meta AI Infrastructure Deal - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:19:20.776415",
+      "last_seen": "2026-02-25T13:19:20.776431"
+    },
+    "https://news.google.com/rss/articles/cbmihwnbvv95cuxpdvjprgpywenfd0rzsddsxzlicthxnu9ft3zbcmxqmw4xmwy3sveyd3awmmjknkp1n1lkuwjyefctcdc4b3f4yxj4chp0ztjlrlnrylpmodfpyzuxeeztqxotvektv1bbmkpkaepad1jqdmk4wgfkwtblaw50ngnnwnz0rglrrehxm2zteg51aevmwfpszm1nohhuwgx5quxqwefqbwe5cehzs0cwm3rpeehxcjdgrljodzditljodvndulhkwghwawfdv0y3tepqm2vuv3oyczlenjdqlthhou5hagnor2c0dkztx1rpszg5ywnxmtvsszlsb0xkmtzjukziawfsznf0mfbnvve3ngm4nxnnbdfweu1itvftzu4tadb5wgprsuv6ngxqz01vednandbewul6mmphslzwmunibzritwt5axvnquxsym4tbfdyz19szdu3avh1sxvfs1hbm3zemmnjz3rywnpscuwwzephrtk4wwnanmxvdmzzrmvqm2xf?oc=5": {
+      "headline": "AMD Stock Surges After AI Chip Maker Agrees to Meta Deal. It's a Big Win. - Barron's",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:19:34.493296",
+      "last_seen": "2026-02-25T13:19:34.493311"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnzgteufc1t3z5odvymkzqmzhru2dswxotn0dtvxfitzv4nv9uuui5evq1r243x1iwqlrdzxrruwdybjvnwfdwr2derdhywffnbunjmhbdquvmynezb01jqkvjwkxhzhjeb0mywjzuafvdazy2uleyqnc0tjzrmwjtrnz4zunnb0tez18xr0hwq2xqu0m5m3njuexvbmpzv0s0nfrpewlidlhdd0wxsvz1s2xpefo?oc=5": {
+      "headline": "Meta to Spend Billions of Dollars on AMD Gear, Buy Stock - Bloomberg",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:19:51.881496",
+      "last_seen": "2026-02-25T13:19:51.881515"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxnnzg5dfddef9ndf9kz09ewenabfn2z0lwvmfkzlnwczlqq2jss3i3b184amxurlbsbwdvzfbwdxnvoghvzndkt2jft2tvyxbkdglrvtl2njlvbhz6sdv1txjrxzhdd0jeztywbe1xnus3eu8zc1nusfzdyw9fmlrrde9cdetkmg9ftkpbylfsrhdwztdntuftvjgxbgcxeknq?oc=5": {
+      "headline": "Bank of America resets AMD stock price target on deal with Meta - thestreet.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:23:45.461640",
+      "last_seen": "2026-02-26T11:23:45.461655"
+    },
+    "https://news.google.com/rss/articles/cbmiiajbvv95cuxquwvwbklfujaxeu9hd3fxuvdim0vuswxrdmfbnhpyqjzhzgrbeejcc3dnafk2mzvmcgd5rvzsyuhodhlqmfftv1vkcw03sudjrnhkbux0amdqy0pnq0nlndvfnnq5qlu1bll0ynayzuruv0laqu54s3r1ejlcvjzesufkqzljyjy0vtrdvwrlug1xeuljceq2tdfbsvp3tmvhzgvmwnnqbhfqzmrnvgnrsuv4zxbfse1pz3k2ylhxd0rgz2lccngxluxdexq0ri1rufruzghlv3rhcw1wynjuxzrxa25hexnyehdqdhytzeltbs1pngnydwdtvvpwz2v5yvb0s0dzafm?oc=5": {
+      "headline": "AMD and Nutanix Announce Strategic Partnership to Advance an Open and Scalable Platform for Enterprise AI - GlobeNewswire",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:23:49.477019",
+      "last_seen": "2026-02-26T11:23:49.477040"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxqwfbxenn1mm1dcww1dfvonthrrknxc1duuy00rmvsdlpfaw1fa1noadjgdfrvog9irvj5vw1iuup6c1j4clpnx0rwehb3bhjhbkpfr3zqtwrewlg2a3btvnbube1asxqtzfdlv2v3sm1oee16ue9esjjpvurmdtdhrc1mmzjqcwrjwjrmaxo1ag5zluhjdetluu1rrvixym5fz2poltzev1rzrtzydwc?oc=5": {
+      "headline": "AMD to Buy $150 Million of Nutanix Stock in New Partnership - Bloomberg.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:23:53.615353",
+      "last_seen": "2026-02-26T11:23:53.615367"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxtfbjcja0blbmvgnscghroxhcwmzeemptn25uaulzow1ywujmswxowlb2qzfsaeuxsglnc0xnulledudcuejnrkh6aev1yzjnae9lu3y1bendlxzjrjvwddher3ntvgvodgnmzxv3uu13etletjzcrxbvrtfr?oc=5": {
+      "headline": "Is AMD Stock Going to $300 After the Meta Platforms Deal? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:23:56.483414",
+      "last_seen": "2026-02-26T11:23:56.483430"
+    },
+    "https://news.google.com/rss/articles/cbmisanbvv95cuxoadhyzzkznlnqm24tehy2q2ftqklty0g0axhxntlwduc3nu9bbejjcvnzrktduvpqtjvlannmeufpadbezxz2vuixqng0m1kznhnqntjsa0lpula4bfj4njfhcll2ovlpazngoud1vezzuervdk5xyuv3uxnclupiaxpnagxrzm9ay1bdy2g3seo0szdnexrrwdhhrkp5rkv5qkvxztlqymj2ynuyd3yyzm9vttixvxdcdhfawc1zu1letvrlyxvhem5wwkw3utfrmdvidwpky2jqy2pln0hfmwvpyw9zlvdneffxswz4z3vgwl9leml5b2x1vhbbogetqzlfui1kugdwntgwoxbuoutgwv9zzgnotezkctvxotc0lxdgsddnszvduuzmofpfnmzwbhpox2k5y05cc1rxb0xkqvf0wmcxrnhcrdbuqzvnmjzqyvjnvu43mhq5ukfpsjzvyljnmxbreedoczzeautdmlbobe0tdv9xz0nmmdjsx1zkt0xtz0f2bfzluvbscxjtcmm1zffbb3dpzwvjntq1c3pxeen0zhvtzmxqmtq?oc=5": {
+      "headline": "This stock is soaring on news of a forthcoming investment by AMD - MarketWatch",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:23:59.642027",
+      "last_seen": "2026-02-26T11:23:59.642044"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxqs1dhwulxs2dlugtbmevhwfbpcwhwtw9sedvbrjbsm3fxm200bfb3em9uu3npahvlqmf1ctazckpyq3zurlviwvzysdfmnm1loxfrykrnx2viegc4vtuwwvvpousyswhiuljuzkj4qxztude2z085cejdyvzzqmvtvgfgdnjvtgtebwjpewflvliwtgjwb0j6rmjculjqq3v6dfdhqq?oc=5": {
+      "headline": "Veteran analyst revamps AMD price target following big news - thestreet.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:34:50.919303",
+      "last_seen": "2026-02-27T12:34:50.919326"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpd3vhznzscnpnry1ftf9ivxz4zeo0ewvmrvf1zkrddwruz21fvdb0n3hczkdzts0tu2jkdhhyb3boa2dwx0r4swl4ymqtne9nqtdlvlppeg5jcujjyjhdahlmrgpfa3pqq09sdguxow1vtzruaefsa1d0eudzcwu3mwxfyu5lnw5uc2nfbjy4tlzncfbnczr4wwsybe01emnlctdpcffxs28znejzm0lpyuv3?oc=5": {
+      "headline": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 3.4% - What's Next? - MarketBeat",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:34:55.128903",
+      "last_seen": "2026-02-27T12:34:55.128920"
+    },
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte5tymlvnkdhwlfhsw9srljlc2h6zkvzmfzkadg1shdibfvpynfdcfnaskdetf9wuk96vzvtykjusw5pzkhrskpnumfbmzngqlrgy3vhr3lvul9rtdnkwi04wfpqt2xxvzrmq3hed0hruffqwkdotxfkmurltevcdw?oc=5": {
+      "headline": "Meta strikes AI chip deal with AMD - Texas Standard",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:34:59.478488",
+      "last_seen": "2026-02-27T12:34:59.478507"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte5nn0jfndfnwvu1akjpnetwqtzhn3h3rxz4ck45njbqehzwsmtplvvpmm9umlfra0pjwmhldnbwafjrn0jkwvh0ufvzagm4ztnvaf9ingwzdw5nbdbvbxjhq3ffn01zlvy1m3z6rvk1na?oc=5": {
+      "headline": "AMD Radeon RX 9070 XT prices just dropped to MSRP - grab one for £569.99 while you can - Club386",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:04.057677",
+      "last_seen": "2026-02-27T12:35:04.057704"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpbu1mrxmttwq5nfnovdntm1vpq2hwbkztrljadnvstfzos0lrql9nrs1hsmvnrxzvrnvuujhzakzzzvrwbnpxtetiotc4bnvin3fhx29knlf6dwfjdgfrbgdyrzlptkppaw41u3rzawvnn09jcelurtm5agktunhxmmphuwpqzvnhaetoz0pwwu9wdzlpsuvsnvbynwgwvxi0r2dyui1kz2k?oc=5": {
+      "headline": "Best mini PC deals: Top Intel and AMD picks for performance, gaming, and more - PCWorld",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:25.559121",
+      "last_seen": "2026-03-02T10:29:25.559138"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxnelhumk9ytknox2fltu1wrmlrwfzztgt6nvrhc3fwcznjws04ndliqxjmdmhwukxqvdnulvhyvm1fewe2cgxlz0flsnpfadzta2xlcdbhztrjzkj6z3rowmdomk5mstdebujnulbfrg1uwtbidjfex0tfqxj2z1zkafewvk5uazvvs01myjf3ouzlztnubuk5rfrvqxytmtcza25xyulhxzhez0djqkqyn3qxzu42qjayzw5lvwrlslbfsm8w0ghkaufvx3lxtfbuazdvb3p1b3bpeumtbzztug9irhphsxjlmjk0swfdvklisnbwavfly1zfdhuyatd0owhrbmj5y0zkn05jwwroehnseuj4effndgppunnbzkduajn1vldxai1ia2vxrxb0bklry1fly1u5sk9ub2lhujjcem8yenrtrezyruflyv9ttdvddgvhvtcwugjocc1dn0ppwklstlddq1lhymzvuudcb0nysexpnk15u3pywuxhcullngrotw0zohpaqjnsnee?oc=5": {
+      "headline": "Nutanix AMD AI Pact Puts Valuation And Debt Profile In Focus - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:29:29.334656",
+      "last_seen": "2026-03-02T10:29:29.334672"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte85m3rxtexpvkrir0c5z0nkrzndnzdxy2trsdhav1lmukiwufdrutbqrgvlnurylwlxtta2v0d3mfvyshdsulpjtkk2vwvtc3fqwk9qohhxv3nnm0fmbtjcqwvqamxynwdsawnjohe2cmuxund4ug9nald5dho?oc=5": {
+      "headline": "Super Micro Stock Soars After AMD's Big AI Deal With OpenAI - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:34.345779",
+      "last_seen": "2026-03-02T10:29:34.345796"
+    },
+    "https://news.google.com/rss/articles/cbmimwjbvv95cuxpvgtklwpunuw3dvnwsl9vyvraluxwrlbjuvfwbetuemg2r0pktk1gamzfcmdwovhiskvsseduwdjnluvhwum3tfazvhdjandrutrjtkdpmtnlzm5scfvzc0fovg5uzli4ndfoylnirnjfx3psmnprdwdjsm9umknyqwdxmhvalxfodw16d1vzrglvr3hvlurwu0xhd2juvwv6whljbhzbwllzb2pobgdocmdragljcnl4vwh6cjg1yjg0yldhcvpiaxytx1fmvfi5a0y5t1pfmel0vunwsxdwutuwvmnrywreoujnqvnrmzjjnjdqx0dknhhgcxnkrxpzvzhpyvlhcmngnnvudzjnbf9uvw9bc0z2r2m4?oc=5": {
+      "headline": "AMD’s new 8005 Epyc Sorano storms into 5G networks with 84 Zen 5 cores - TechRadar",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:38.619714",
+      "last_seen": "2026-03-02T10:29:38.619732"
+    },
+    "https://news.google.com/rss/articles/cbmi3wfbvv95cuxpcjfnnuhhmevwyktkben3zkfoa1zkm2hnsxhpv24xrjq1ogpwahb3r1rxbzlutlrfy2roue5qmxljemtwtvblnudgwgx3x0zaq00ybgrgcenmrvdlynbvmmvtsvjedzvoy1y4dwzjei1sazlunvnfyl9drk5uaxvkexhwa3zirzhpmjfovudrvkfemw5mbdhyq09kqvfybezmte1bx3ewzdjks3lbsmdhngrjnlezwjzrx2jvwjvtazi4rwrvni16tndmnvr1mufprehmm3jklwjanjkyv2rz?oc=5": {
+      "headline": "Samsung and AMD Reinforce Strategic Collaboration to Advance AI-Powered Network Innovations for Commercial Deployments - Samsung Global Newsroom",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:43.842517",
+      "last_seen": "2026-03-02T10:29:43.842532"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpzhjudxhtetvlstjps2ytqvj4thotskoxaursyv9hmhzyvfk4vmfanm5odmjrb1fqbezhswq2cjdlsznfu1rnuwdytwphenjycefjtzr2oupmwfhlcgfyek9obxk0ukzvb2lhbk0wu3vzem9manh5mkdib0vjmnhznwqxm0jhdzrzchvnuurqbmdfc1dcr0phejdprxhanndgy3uwq2y3ltflskxxue00za?oc=5": {
+      "headline": "AMD Gives Consumers and Businesses More AI PC Options with Expanded Ryzen™ AI 400 Series Portfolio - AMD",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:18:38.701365",
+      "last_seen": "2026-03-03T14:18:38.701384"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnddnxvehjy29woehhywvkrvz0ce1nx2nfsmvwwhnrbjy1txjjn3nxs0jfm2ptdnpxqwxcm3dacfkzd1iytgxlqtu4t2jgx3bqog0tumtlz2lhevzbltnazmw5us0tq2zfmnpqbvvuaul0nldsdkzowlnhel80que5nghvb1fmbnfubmn0yw9xrujzuxuxwtluuhjmsgfudmp5z2vubu9fzi1snkrmafvhy3lubvr3dw?oc=5": {
+      "headline": "The Smart Money Is Broadcasting a Subtle Warning About AMD Stock Options - Barchart.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:18:44.276052",
+      "last_seen": "2026-03-03T14:18:44.276067"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqaghktxnzrwc2d21yrjvxt21yrjd2ry1nmknlanrolwhnqxdqtkpusuzfbgfaq3psclixuhrbmtm3bunhcmrwmhzrb1jmovvms3o2qtrsr3jvow94vw1pmwf1zuxtvezirhe0yjn0mgxlqwlfwvfwvu5zt2vjsetrtudydkjaowljzjzhnuxb?oc=5": {
+      "headline": "How AMD Stock Falls To $140 - Forbes",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:18:50.214579",
+      "last_seen": "2026-03-03T14:18:50.214595"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxouketqm1lbm93bnzvy0vjnupmzndnvwhzrdvusxzjexp4avnloxyxt0xit0des3z6wk9iqjhnofn1nnpxtu9zs3hay0ozndfnthl2amo3chy3odroshzsneroev9wr0hlcgjrc3nlaxpuctbqmw1qdnd5cnvoclbzlxr5qwp6x0y4ckvsmwpcduvxdjlrsvd3ekhnchpwzw?oc=5": {
+      "headline": "AMD Shares Slip After Launch of Ryzen AI 400 Desktop Chips - GuruFocus",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:18:57.905283",
+      "last_seen": "2026-03-03T14:18:57.905300"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbltjhkynhdnla3ew5gc01qrnpxv21vtw1sytgxrc1rvljds1ranunzznfprzvhvwvcluq1vvfxaxrjekljalppyl9fvhvzyuxycxzfczu5ml9qodfvvvdwmuphakh3eevmx2trn2peenzlu3ltmha5cjdrekeywdg?oc=5": {
+      "headline": "Does AMD Have an OpenAI Problem? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:19:03.355775",
+      "last_seen": "2026-03-03T14:19:03.355792"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxntkxau1h6m1bdzgh0zei2whnib01ps25xc1ztunjsnuzjtkzvdkprwnrfohaws29jcwjsqm8tbmrkcxrfq1v2vfbvshpytujwenlaujf5a0vhy3hwckzjvflyruxwrfc3d2p0uzjlx1dunmlitl9rb2lzcg41d0jmwvvysgjruxjysxk3t210vtvxlurod1d2exniqtjink8yrdbzcf9b?oc=5": {
+      "headline": "As AMD Stock Continues To Falter, This May Be Your Best Option - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:04:27.699432",
+      "last_seen": "2026-03-04T14:04:27.699450"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnmkdoexdhsgxwus04envyekfeb21ouxfwqzh6z0xyx2cxvk1eyvvfzzvkdfb0zgtiaum3zwt5z0tiutg1vwxunuvnu0fxwusxtmtfwjqtbwjwadrwsfbssv9pmm9frte3u25nuwpyv016czflvtrszvfjrgv1sunscujpmnzwvg5iamu0au5uq0k?oc=5": {
+      "headline": "AMD posts big beat in Q4 with sunny Q1 sales guidance - Sherwood News",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:31.722373",
+      "last_seen": "2026-03-04T14:04:31.722388"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxte1yxzvmvkvlqlp1yzm3qktnuza1rk1fdhe3sdrhmmroufnibffwatrktnrumkf2wjjkytnor0xdv1z5dm5heghtemn6dg5zvwlptkljsgr0cxjquerwewmwagq3c3lkwe5tvfjlu2t1yw15thyyxzrroxp5dw?oc=5": {
+      "headline": "Why AMD (AMD) Stock Is Trading Lower Today - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:37.390999",
+      "last_seen": "2026-03-04T14:04:37.391021"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxon1zkc1u1euxrzutorhpyzvvrz3ztudrnbzqttdkzq0zwetduslpcavczaly1rhltvunbluxiavlhx2pgdxjsulzuuelgcnmwnkhorxrqrdlvb2xmn29mujvqohj2ukuwal8xzl90nzfgwgthbkxqwepftw1pmxjdcefgawrsmjb0r2jfvm4xm04xm2vuoxlyvevzztjyafjlcze4?oc=5": {
+      "headline": "Secret Buyer Places $300M Order for AMD GPUs Cooled With Lab-Grown Diamonds - PCMag",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:41.889479",
+      "last_seen": "2026-03-04T14:04:41.889501"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqazyznxdlbhhznfdwoth5ekfpumtstfa3mw5yuhdabglcwwo2lvyzb3fhdhnnrgnorxjhnfk2svmztxo4ownjdtzwdxhcuzvrttvqnhvtv1c4aff3mev0tkgwedvnyju4t0tnd1h3shdxrhzuqklkowhzm1hyaug5tgfpt2pzbvdrrfdpm0h5wmwwuextbvgxwq?oc=5": {
+      "headline": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:07:27.217635",
+      "last_seen": "2026-03-05T12:07:27.217652"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxpetvnznlawee0rfa3x0dozzmwx2fzq3pyduo5mhjiwmpcutfxqlzvwdmzqwftwhzuu3ndnktplxdramv6rhb1ymfwzkw4n1u2d1h3ujjaaenraetou1d6eujeb0uzt3vlvc04dgjtevnkmun1melsumjjudnjdww5ru9gexjzu0hzaxrsrk8ttg9nclr2sg5dmwl1tnntdw?oc=5": {
+      "headline": "Why Is AMD (AMD) Stock Soaring Today - StockStory",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:07:32.020811",
+      "last_seen": "2026-03-05T12:07:32.020829"
+    },
+    "https://news.google.com/rss/articles/cbmia0fvx3lxte9jufbouvboauzzn1p3nfphzlbmaflmwlrptwzbdlf1ewzdtkhebxzuuhjilujpzzdfcjdznml3v0tkzg02luw0bhfxb0z1tnk5wc11rhrduu5ytjdwyji0v0htnnr1tdrmnf9n?oc=5": {
+      "headline": "AMD Engineer Leverages AI To Help Make A Pure-Python AMD GPU User-Space Driver - Phoronix",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:07:36.390408",
+      "last_seen": "2026-03-05T12:07:36.390424"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnrvz3rnf1z0tnuhfkr0dtcdb5rznknzdmd2y2d3lzcvzpn19ly0hrewlqc2h2u1nfctjqsglztlrwuuttavl1dkzfmuhnexdoui1bvmxlduo2tvnrvgjrcvbzdffbdkpcsmutzw9bnnlua1vxbthibwnvakvfavvmz05rdw?oc=5": {
+      "headline": "New Ryzen Series Chips Add to Advanced Micro Devices’ (AMD) Bull Thesis - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:07:40.777751",
+      "last_seen": "2026-03-05T12:07:40.777770"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte9wmdzkcy1zbnbrdv9lym80c0xovujxzjn3rhfpsddcswvywk9aa3lub0pubzhrow1jewphmux2qm5rbfpvni1rd0t1btbnsgvlx1pgmk56vlo3se5jy2nxu24wmlf3umz5zuhhb2zraxd2aw8?oc=5": {
+      "headline": "Is AMD Stock a Buy Under $200 Right Now? - Nasdaq",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:07:44.617834",
+      "last_seen": "2026-03-05T12:07:44.617850"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpunj0tg94mwlqu1rntfnobuqzmkn3ekfvmkexruhidlnyz2xbnmzxc2vwzhf3ag5mr1lywtljq09mbzrmqunncjdjtm5uuurymujhn1rjrdc3atu5a0rrcdzbctjvaf95c2lhef8xvw95tg9jwmoxt0y0rlnjtvpdz3p6wwpmcnrmane1qmnmwe1zvmhtutqwqnjonwpbrxq5mfhkvwvxc1v1dkwyvflqx2j3?oc=5": {
+      "headline": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Bloomberg",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:05:40.859501",
+      "last_seen": "2026-03-06T12:05:40.859517"
+    },
+    "https://news.google.com/rss/articles/cbmibefvx3lxte5jty1gnvzqexbptnjxejnslxj2ev9fxzjxczzomgkws25vtgrgewrovujlb05wodn4elnosxb2wuv2rk92q2yyvevavuf6cuzirtnjdffrmkzzb1nark83wer5qldwtflbtehtda?oc=5": {
+      "headline": "Nvidia and AMD chips could be subject to U.S. approvals for foreign sales - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:05:45.660494",
+      "last_seen": "2026-03-06T12:05:45.660513"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnlw1rcmrqdkvmszzpcxffd3bxtkfkukjlrlhitmdiaek4wdv0u053s3plzmpan2rpvhvstuffdjvkzfnltezjq293rzjyehhss1dzwvnzr0p6evfgskzru2g1vuo3elrwsfzxexloei16zdzimnz6bnp5nzlsmwdnrlzzowpizwvjvevamkvnrmvvuehszmtjtll2nfexng85yvhin25imedfewm5oxkwved1s2ewndhkt0lqskpmsgvnquu?oc=5": {
+      "headline": "Nvidia and AMD Stocks Drop after Report of New U.S. Rules Requiring Approval for AI Chip Exports - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:05:49.218326",
+      "last_seen": "2026-03-06T12:05:49.218345"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxnvvhowkftr3rvekhhrhvla09hv3vkbeqynfzhzfhizktobzhwd3lzvulibk5vvxlss1extklcdugxni1ir2nwotftcv9pdm5yswngu3o4c3lmxy1mqzyxeknmytr0uvbvx0hwbu11aum5otvawetowuo0y3u0s0p5de5od2k2c05lrjlsm2vsqlzzovbxrke?oc=5": {
+      "headline": "Meta Platforms Just Made Massive Deals With Both Nvidia and AMD. Which Stock Should You Buy? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:05:52.362937",
+      "last_seen": "2026-03-06T12:05:52.362953"
+    },
+    "https://news.google.com/rss/articles/cbmi8gjbvv95cuxqbmtkt29vz3g5m2jlnes4ehqyeus2b2vcm21hownioufwrgtayu9gmjvfaezhmxhtcu1xcnhzwlfsu2hqwlldngzyb0tfm3cyd0rucenpcelnmjh6oesywkxqrmhjrs1nejmtotrlnm9sowtuq2dhu0u2ofbuqy1kwwjwalfgxzd5detqrldqchp4ow5lekzheu54z0xushljqwgtbgcyzlzfdgjbogl2b1nqslbpbxfxbll0ngx0vhnha005n3fpb0trukxbmnptamm1ow9vtkx4d3qylxhzvllrdnjkr0jrrhdbwurjvxy4nefhwvdsy3pmcg5uyw9nsuxvszdkd2xwc085v1jldjqtv0dsz19wvdfkm245n05vsfbuatjiec1tvvhuvupmylg0y1bjt2jos25uq29oytfrnuxeumtpnhh0cg52mtntmwt3vjrctwvgr2ntbzy5ofnccdhtwfnjaxlive5pwhr3?oc=5": {
+      "headline": "‘CPUs are cool again,' Intel and AMD reporting spikes in CPU demand due to agentic AI, shortages — Lisa Su says business exceeded expectations while Intel is looking at long-term agreements with potential customers - Tom's Hardware",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:05:57.383311",
+      "last_seen": "2026-03-06T12:05:57.383332"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfa4eerptgd1n3dhrhv6dvm5d2o3ug4zb1fnsm1mbwpsqwvfmgpwblhqzgqtwfrbcthfwexqqjkwvkplujzvls1oynfxnmzzvxvhowtfwhc0uldsqlv0nmhhcc1fac0wx1dsqv9ktgmzmhu4clk?oc=5": {
+      "headline": "Advanced Micro Devices: Doubling Down On $600 (NASDAQ:AMD) - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:04:44.205411",
+      "last_seen": "2026-03-09T13:04:44.205438"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnbmrsdxi3wfnsowndddbzmtnmam5qbwrcy2jroex2ak0tb1dlz0yyddlpahj2ztvfx19nei1lwnltrgnxytbnnjfzdvrkzxvnzehadk9jy29ntdq1v0lyrudjwuhpmhlqcgvxyvhkaedzswjnvvlfu3npsmxhswcxlur1av9tclnzvuleatdhrlzwa1npefjpx2dxevnlszljddlwcdh3n2f3m19rowiwelrgrfu3nkdxvdzxyvdvbldsacabqvvfexfmtw5kunvyn1htujljq3qwczezzmpuug1kqmniuthmdmpnlw9xs2dgmnq5awhydmu1x19fz3otzvp5burjcwewttyxc3vuzgv1z2riwnzpswnvtuw0nvdjckvhy1litzb5anblcwfysmhhwuliz1vzrvnzt0psr0lnms1edwlfbxjtc1vjrgk3yuzwvmttaxhst19nv3ltzus5y3q5cha4dzdhdznfazlimhpurkrvnzzhv1q2cwfxb25q?oc=5": {
+      "headline": "How Flex’s Expanded U.S. AMD Instinct Production At Flex (FLEX) Has Changed Its Investment Story - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:04:50.804095",
+      "last_seen": "2026-03-09T13:04:50.804132"
+    },
+    "https://news.google.com/rss/articles/cbmitwfbvv95cuxnag1wym53wvhfr2psbupqwes2cfyzbkc5zufscjvvyxdmse9iykrfrw5izlvjmmncsfh1ykxume1olw0ysvrmmmrveljgu2lqzguwzgzldu1newi5ovdkehrmrjltdnhrrgh6lvy2edzstg9wrkfmr0rsmkitng53ztfpc1hibfznt3bwz3beekizqtg2m21yelpaewpzvwjkszlwcmm2uww4skzwb3nxes1ony1xeee?oc=5": {
+      "headline": "AMD and University of Toronto expand AI research collaboration with new lab - EdTech Innovation Hub",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:05:17.582419",
+      "last_seen": "2026-03-09T13:05:17.582437"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxpmvqwsm8xctzktdfdcvr3thc2cmzmzwnerjdkte5ytm83n0xfdjbcqxrkuwdszxdwcdfkuxuzyxaxlxiweupxouzidjrcvi0zewrxd3zlqmhps2g5mnfymezzckztrke1rjlrslrbumxwrhcwrwtwqutvctmtrfnpyjraluzmdlnma3fjvuziundytexpetlmx1i0ykvzrm8?oc=5": {
+      "headline": "Oracle Stock vs. AMD Stock: What Is the Best AI Stock to Buy Right Now? - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:05:27.199936",
+      "last_seen": "2026-03-09T13:05:27.199954"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte4wmuriandaswxusmlmn1pgt0hiwfbiwg9wanp1cg1hwgxsm3nidfu5rw43mgjfmgtlwnrlwgdrtzktwe9kzdv3effpwuotoexpqzl6tkxbuunpz3e0wlnwcxjfnvdinnbfmwxit1hoyzbsaxzbvv95cuxqoudmnedsmjc0vgtwwky3xzb3b2jyelh0mk00aezbmkjssfm4cln6u3lxem9qduflenrnze16z0ttatled25fnm5tmvp2qzr5s3p5vhjxsk4xseznb1c0oeexvk1uzxjoa1licg13thjlemhar3pb?oc=5": {
+      "headline": "AMD Ryzen Chipset Drivers - TechPowerUp",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:23.198075",
+      "last_seen": "2026-03-10T10:58:23.198097"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxte5yundpcu54y2wxekhid3zjshoyyvhxrghxewcyate3rmvtyuz5u3lzcxf5zkzmaefotgxlewjru0lcrjvqavzcq0fnogheefr0t2rqcelzwexzswfcc1phvuewnvvob2syamjbtehtohl0z0dhne1dvkfyaw?oc=5": {
+      "headline": "Is It Time To Reassess AMD (AMD) After Its 109.7% One Year Surge? - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:27.348368",
+      "last_seen": "2026-03-10T10:58:27.348386"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxqzfdqy3nwnv85ddboofb6rjzvuhzccel2yulzodc1cet5mhrld3pzlwhjd2znvtzmcuxvdc1yd1dtwxgtru53thvhwwj6tzbpx05esf9in2uzn19pbejqttjzxzlyzxvnsxowz0frbng4yxfjznnvwjg5zhnzowtpr2prz2nxvdhonmfeedi4aufacxhocla3rkjcdfnxmvi2mgj3nki1wljqnjflavjieettaejplvbfyko1cji0rnqtc1ntnjq0uxhks01ex3m?oc=5": {
+      "headline": "Why AMD motherboards now come with bigger BIOS chips—and why it matters to you - Tom's Hardware",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:32.752081",
+      "last_seen": "2026-03-10T10:58:32.752100"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxoa1zsc094b0nht05lt1rnuutpcdrauzdqdfzjsu9lswlkcuncdtkzrzf0dthhq3nzs09ibxy4nw9nzjvjnhu0eldxrdlubu93uufiymphtunpc0xnauf4dffnylfpx0q1unlhbxlrmle0n1hkzdbkmzrnqk5ot2lha2o4agloa3k1aud2te1xz0xfc05ya2tjcgm5rfdeemltugjmqmfauno0vkha?oc=5": {
+      "headline": "Adeia settles semiconductor patent lawsuits against AMD - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:37.989664",
+      "last_seen": "2026-03-10T10:58:37.989681"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpr3fymi16vxdwakzmt1phwhi1s21yal8tsumztnprexn5axdox1iwune1nevqoengdwjiewxzutbvr1q1cknwq0vymvr1zuzfnkzttmpms0tamejcbjreqmnxtml6uzflvgcwnhd3z1dmodzgwuftagyxvzflsw1lztk4elrnrdiybdfrnmrlzhbav09kswpiv0pwvxr0tvbsz1rkrzdjrmvvvhzbwxdxy0lftnf5anniwunocm5cotntvxbv0ghkaufvx3lxte45yv84vxzoegqwtdjomniyovpwcmvecwi0cwzontnmahk4sdgznmhcexy3vkpwazbiwwy5z3pzrtnyaghhani0z1rtxy04wvpqds1tc0lomwzzyndjvgr3cgm4nfizdzrvverkwxllufm4rlnabjjfme4zuvhfwepbcthsrjj5wek3cxzhze9wtmneyu1ucelssujiunfwykt6celuv21hbw1fytl5qmtooflqx3h5tlhpndnzrzrrvtjmavdevtlvvle?oc=5": {
+      "headline": "AMD Investment Positions Nutanix To Pursue Larger Enterprise AI Infrastructure Deals - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:42.169182",
+      "last_seen": "2026-03-10T10:58:42.169201"
+    }
+  }
+}

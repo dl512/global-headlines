@@ -1,0 +1,27 @@
+## Global Financial News
+
+- **US President Donald Trump backs off Europe tariffs after Greenland deal framework with NATO**: US President Donald Trump announced a framework agreement with NATO on Greenland, suspending planned tariffs on Europe and Canada, easing recent trade tensions.
+- **Asian markets rebound, South Korea's Kospi hits record high above 5,000 points**: Asia-Pacific stocks surged, led by South Korea's Kospi, as easing US-Europe trade tensions and strong AI demand boosted market sentiment.
+- **Gold and silver hit record highs amid geopolitical uncertainty, then retreat as risks ease**: Gold surpassed $4,700/oz and silver reached new highs before profit-taking and easing tensions triggered a pullback.
+- **US dollar fluctuates as safe-haven demand rises, then falls back on positive economic data**: The US dollar initially weakened on tariff fears but rebounded on upbeat US data and reduced Fed rate cut expectations.
+- **US stock markets rally over 1% as tech and memory stocks surge, led by NVIDIA, Tesla, Micron, and SanDisk**: All three major US indices rose, with tech and memory sectors hitting new highs amid revived "TACO trade" optimism.
+- **AI-driven demand fuels global chip and storage stock rally, TSMC and South Korean exports soar**: Semiconductor stocks in Asia, Europe, and the US surged on record profits, strong exports, and AI storage demand.
+- **Oil prices edge higher as Middle East supply risks persist despite easing Iran tensions**: Brent and WTI crude rose slightly, supported by ongoing geopolitical risks and a large US inventory build.
+- **European markets volatile on US tariff threats and Greenland tensions, luxury and auto sectors hit**: European indices fell sharply after US tariff threats, with luxury and automotive stocks like LVMH and Volkswagen declining.
+- **Hong Kong's Hang Seng and Tech Index open higher, led by Baidu and Kingdee gains**: Hong Kong markets showed positive momentum, with Baidu and Kingdee International leading early advances.
+- **Longqi Technology debuts nearly 13% higher on HKEX, attracting strong investor demand**: Longqi Technology's IPO saw nearly 1,150 times oversubscription and a strong first-day premium.
+- **Hong Kong commercial aerospace stocks surge as Jianda plans rights issue for space battery R&D**: Jianda Shares led gains among aerospace stocks after announcing fundraising for space photovoltaic battery development.
+- **ASMPT shares rise as Samsung seeks to diversify HBM equipment supply chain**: ASMPT gained on reports of supply discussions with Samsung, reflecting ongoing semiconductor sector momentum.
+- **China's Baidu launches Wenxin 5.0 large language model, expanding AI capabilities**: Baidu formally released Wenxin 5.0, its latest AI model, aiming to enhance multi-modal data integration and efficiency.
+- **Chinese surgical robot sector boosted by new pricing standards, MicroPort Robotics jumps 15%**: New national pricing guidelines support broader adoption of surgical robots, benefiting leading companies.
+- **UBS warns bond market panic could drive gold higher, shift investments to commodities by 2026**: UBS forecasts a move from tech stocks to commodities as bond market instability grows.
+- **South Korea's semiconductor exports surge over 70%, Philadelphia Semiconductor Index hits record**: Robust chip exports from South Korea contributed to a global semiconductor rally.
+- **Danish pension fund sells $100 million in US Treasurys over debt concerns amid US-Denmark tensions**: AkademikerPension divested US Treasurys, citing US fiscal worries and Greenland-related disputes.
+- **Chow Tai Fook raises sales guidance as gold prices and retail growth boost outlook**: The Hong Kong jeweler projects stronger revenue and profit margins, with gold products driving sales.
+- **Tianshu Zhixin stock hits new high, to unveil next-gen GPGPU roadmap**: The company reached a record share price and plans to announce future AI chip products.
+- **Chinese tech and energy sectors see strategic moves: Alibaba invests in nuclear energy JV, MicroPort Robotics gains on policy support**: Alibaba partners in nuclear power for AI, while MicroPort Robotics benefits from new healthcare pricing.
+- **Foreign capital flows shift in Hong Kong stocks, with Cinda Biologics and SMIC seeing inflows, Alibaba and HSBC outflows**: Significant changes in foreign investment patterns were observed in the Hong Kong market.
+- **US Congress delays Cryptocurrency Bill; US President Donald Trump to focus on real estate first**: Legislative delays push back US crypto regulation, with Trump prioritizing real estate market initiatives.
+- **AI super cycle and rising storage prices drive transformation in consumer electronics and storage sectors**: Soaring demand for AI and storage components is reshaping the tech and electronics industries.
+- **Sunny Optical target price cut on memory chip cost concerns, but long-term growth outlook remains**: Daiwa lowered its target for Sunny Optical due to rising memory prices impacting smartphones, but remains positive on future prospects.
+- **Microsoft target price trimmed to $660 on higher OpenAI costs, but AI growth optimism remains**: Citigroup maintains a "Buy" rating, expecting accelerated Azure and AI-driven revenue growth.

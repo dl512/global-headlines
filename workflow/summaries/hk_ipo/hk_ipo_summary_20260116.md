@@ -1,0 +1,3 @@
+## HK IPO News Summary
+
+- **Hong Kong IPO Market**: Approximately 200,000 fake securities accounts, opened through brokers in countries with relaxed approval procedures such as New Zealand and Vietnam, are actively participating in Hong Kong's IPO market, according to reports from Chinese financial media. (Sources: [AAStocks](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1496593/ipo-news/AAFN))

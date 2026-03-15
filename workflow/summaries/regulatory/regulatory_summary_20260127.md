@@ -1,0 +1,3 @@
+## Regulatory Announcements
+
+- **Hesai Group Seeks Shareholder Approval for Capital Restructuring and New Issuance Mandates**: Hesai Group will hold key meetings on March 3, 2026, to vote on changes to share capital structure, governance documents, and grant mandates for share issuance and repurchases, aiming to enhance capital management and support future growth. (Source: [Hesai Group](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0126/2026012601350.pdf))

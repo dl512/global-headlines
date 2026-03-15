@@ -1,0 +1,35 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09988-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306201315/announcement-grant-of-awards-pursuant-to-the-2024-plan",
+    "https://news.futunn.com/hk/notice/305994598/announcement-of-the-september-quarter-2025-results-and-interim-results",
+    "https://news.futunn.com/hk/notice/306482684/overseas-regulatory-announcement",
+    "https://news.futunn.com/hk/notice/306587379/monthly-return-for-equity-issuer-on-movements-in-securities-for"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306201315/announcement-grant-of-awards-pursuant-to-the-2024-plan": {
+      "headline": "阿里巴巴-W (09988) 最新公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:12:18.497904",
+      "last_seen": "2026-02-09T21:12:18.497912"
+    },
+    "https://news.futunn.com/hk/notice/305994598/announcement-of-the-september-quarter-2025-results-and-interim-results": {
+      "headline": "業績公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:40:16.030261",
+      "last_seen": "2026-02-10T10:40:16.030276"
+    },
+    "https://news.futunn.com/hk/notice/306482684/overseas-regulatory-announcement": {
+      "headline": "阿里巴巴-W (09988) 最新公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:10:47.195041",
+      "last_seen": "2026-02-13T12:10:47.195053"
+    },
+    "https://news.futunn.com/hk/notice/306587379/monthly-return-for-equity-issuer-on-movements-in-securities-for": {
+      "headline": "阿里巴巴-W (09988) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:35:37.448125",
+      "last_seen": "2026-03-04T09:35:37.448143"
+    }
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09618-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68639638",
+    "https://news.futunn.com/hk/post/68638647",
+    "https://news.futunn.com/hk/post/68635802",
+    "https://news.futunn.com/hk/post/68636209",
+    "https://news.futunn.com/hk/post/68629208",
+    "https://news.futunn.com/hk/post/68622395",
+    "https://news.futunn.com/hk/post/68619089",
+    "https://news.futunn.com/hk/post/68618088",
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong",
+    "https://news.futunn.com/hk/post/68600721",
+    "https://news.futunn.com/hk/post/68600563",
+    "https://news.futunn.com/hk/post/68598823",
+    "https://news.futunn.com/hk/post/68668068/jdcom-s-jialin-kaixin-smooth-integration-with-jdcom-s-operations",
+    "https://news.futunn.com/hk/post/68664920/jdai-ai-toy-duplicate-xiaotiancai-offline-add-friends",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68801020",
+    "https://news.futunn.com/hk/post/68796091",
+    "https://news.futunn.com/hk/post/68787415",
+    "https://news.futunn.com/hk/post/68774574/from-the-stage-of-the-spring-festival-gala-to-various-industries-the-robot-industry-in-china-embarks-on-a-new-journey-of-practical-action-in-2026",
+    "https://news.futunn.com/hk/post/68796704/jdcom-together-with-midea-haier-hisense-and-tcl-has-set",
+    "https://news.futunn.com/hk/post/68766312/alibaba-plans-to-continue-making-significant-investments-in-taobao-flash",
+    "https://news.futunn.com/hk/post/68764583/ceconomy-maintained-on-rating-watch-positive-after-fitch-s-corporate",
+    "https://news.futunn.com/hk/post/68764144/jdcom-s-local-life-enters-yangpu-shanghai-issuing-millions-in",
+    "https://news.futunn.com/hk/post/68765733",
+    "https://news.futunn.com/hk/post/68870932",
+    "https://news.futunn.com/hk/post/68868294",
+    "https://news.futunn.com/hk/post/68868326",
+    "https://news.futunn.com/hk/post/68866147/jdcom-logistics-02618-hk-collaborates-with-south-korean-e-commerce",
+    "https://news.futunn.com/hk/post/68867428",
+    "https://news.futunn.com/hk/post/68868480",
+    "https://news.futunn.com/hk/post/68843400",
+    "https://news.futunn.com/hk/post/68839828",
+    "https://news.futunn.com/hk/post/68832667",
+    "https://news.futunn.com/hk/post/68947016",
+    "https://news.futunn.com/hk/post/68944755/jdcom-09618-hk-to-invest-22-billion-rmb-over-the",
+    "https://news.futunn.com/hk/post/68943422",
+    "https://news.futunn.com/hk/post/68939563",
+    "https://news.futunn.com/hk/post/68938328",
+    "https://news.futunn.com/hk/post/68938248",
+    "https://news.futunn.com/hk/post/68931687",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69090089/during-the-spring-festival-the-pageviews-of-jdcom-s-robotic",
+    "https://news.futunn.com/hk/post/69089841",
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead",
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record",
+    "https://news.futunn.com/hk/post/69088733",
+    "https://news.futunn.com/hk/post/69194807/robots-during-the-spring-festival-were-busier-than-ever-with",
+    "https://news.futunn.com/hk/post/69194802",
+    "https://news.futunn.com/hk/post/69193102",
+    "https://news.futunn.com/hk/post/69192919",
+    "https://news.futunn.com/hk/post/69337522/jdcom-s-hardware-city-has-launched-its-seasonal-promotion-with",
+    "https://news.futunn.com/hk/post/69335768",
+    "https://news.futunn.com/hk/post/69334634",
+    "https://news.futunn.com/hk/post/69334360",
+    "https://news.futunn.com/hk/post/69557899",
+    "https://news.futunn.com/hk/post/69535064/purchase-hardware-on-jdcom-as-jdcom-hardware-city-launches-a",
+    "https://news.futunn.com/hk/post/69536064",
+    "https://news.futunn.com/hk/post/69532944",
+    "https://news.futunn.com/hk/post/69532440",
+    "https://news.futunn.com/hk/post/69530725",
+    "https://news.futunn.com/hk/post/69529974",
+    "https://news.futunn.com/hk/post/69525693",
+    "https://news.futunn.com/hk/post/69657552/stocks-related-to-jdcom-surged-across-the-board-after-earnings",
+    "https://news.futunn.com/hk/post/69696631/the-gains-in-hong-kong-stocks-expanded-with-the-hang",
+    "https://news.futunn.com/hk/post/69696395",
+    "https://news.futunn.com/hk/post/69695859/the-hs-tech-etf-e-fund-513010-rose-by-2",
+    "https://news.futunn.com/hk/post/69695442/clean-ingredients-soft-even-after-5-days-jdcom-s-seven",
+    "https://news.futunn.com/hk/post/69696065/uob-kay-hian-has-lowered-its-target-price-for-jdcom",
+    "https://news.futunn.com/flash/20025476/russia-is-planning-to-introduce-a-stablecoin-bill-stating-that",
+    "https://news.futunn.com/hk/post/69779482/daiwa-securities-jdcom-s-09618-hk-quarterly-results-met-expectations",
+    "https://news.futunn.com/hk/post/69779179/haitong-international-jdcom-s-jdus-share-buyback-and-dividend-provide",
+    "https://news.futunn.com/hk/post/69826977",
+    "https://news.futunn.com/hk/post/69829587"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68639638": {
+      "headline": "京潮年貨地圖 | 景區快遞單量上漲15%，非遺融合線下場景北京春節電商體驗式消費擴容",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:16:51.030731",
+      "last_seen": "2026-02-09T21:16:51.030743"
+    },
+    "https://news.futunn.com/hk/post/68638647": {
+      "headline": "養生醫美產品成剛需「新年貨」 京東京喜自營按摩美容儀器賣出20萬單",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:16:54.750832",
+      "last_seen": "2026-02-09T21:16:54.750840"
+    },
+    "https://news.futunn.com/hk/post/68635802": {
+      "headline": "五大頭部「甲方」談：我們需要怎樣的具身智能？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:16:59.905353",
+      "last_seen": "2026-02-09T21:16:59.905363"
+    },
+    "https://news.futunn.com/hk/post/68636209": {
+      "headline": "連籤20多家大牌！首家NAJ京東養車改裝中心在武漢開業",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:07.395218",
+      "last_seen": "2026-02-09T21:17:07.395228"
+    },
+    "https://news.futunn.com/hk/post/68629208": {
+      "headline": "15家公司獲批島民免稅經營資格 9家上市公司搶灘佈局",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:13.199551",
+      "last_seen": "2026-02-09T21:17:13.199562"
+    },
+    "https://news.futunn.com/hk/post/68622395": {
+      "headline": "可萊特信號通信設備賦能AGV，助力智能物流與工廠高效協同發展",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:17.765544",
+      "last_seen": "2026-02-09T21:17:17.765558"
+    },
+    "https://news.futunn.com/hk/post/68619089": {
+      "headline": "京東自研AI產品JoyAI：能問診點外賣，但沒法自動下單",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:21.910885",
+      "last_seen": "2026-02-09T21:17:21.910899"
+    },
+    "https://news.futunn.com/hk/post/68618088": {
+      "headline": "太突然！劉強東拿下千億大生意",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:27.417895",
+      "last_seen": "2026-02-09T21:17:27.417903"
+    },
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong": {
+      "headline": "港股AI應用、光通訊情緒持續回暖，券商研報指明AI價值重構新路徑",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:34.416179",
+      "last_seen": "2026-02-09T21:17:34.416187"
+    },
+    "https://news.futunn.com/hk/post/68600721": {
+      "headline": "資本紀元的分水嶺：道指首破五萬點與AI「硬軟分化」下的估值大洗牌",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:41.454712",
+      "last_seen": "2026-02-09T21:17:41.454723"
+    },
+    "https://news.futunn.com/hk/post/68600563": {
+      "headline": "美團截胡京東阿里，下一站：樸樸超市",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:47.121064",
+      "last_seen": "2026-02-09T21:17:47.121077"
+    },
+    "https://news.futunn.com/hk/post/68598823": {
+      "headline": "國海海外·陳夢竹 | 京東集團-SW（9618.HK）2025Q4業績前瞻：核心零售短期承壓，外賣UE持續改善",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:17:51.750725",
+      "last_seen": "2026-02-09T21:17:51.750739"
+    },
+    "https://news.futunn.com/hk/post/68668068/jdcom-s-jialin-kaixin-smooth-integration-with-jdcom-s-operations": {
+      "headline": "京東佳宝林凱欣：與京東業務及供應鏈整合順利",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:45:36.434277",
+      "last_seen": "2026-02-10T10:45:36.434293"
+    },
+    "https://news.futunn.com/hk/post/68664920/jdai-ai-toy-duplicate-xiaotiancai-offline-add-friends": {
+      "headline": "京東AI玩具複製「小天才」，線下加好友？！",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:45:41.575983",
+      "last_seen": "2026-02-10T10:45:41.575999"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:08.393106",
+      "last_seen": "2026-02-12T12:02:08.393130"
+    },
+    "https://news.futunn.com/hk/post/68801020": {
+      "headline": "京東航空空客A330P2F客改貨機開啓國際首航",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:09.070526",
+      "last_seen": "2026-02-12T12:02:09.070630"
+    },
+    "https://news.futunn.com/hk/post/68796091": {
+      "headline": "京東外賣「雙百計劃」升級三大舉措，已助力近400家餐飲品牌訂單量破百萬",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:09.617876",
+      "last_seen": "2026-02-12T12:02:09.617897"
+    },
+    "https://news.futunn.com/hk/post/68787415": {
+      "headline": "恒生科技本輪最大回撤超百分之二十 龍頭企業應向\"質量型增長\"轉變",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:10.266835",
+      "last_seen": "2026-02-12T12:02:10.266852"
+    },
+    "https://news.futunn.com/hk/post/68774574/from-the-stage-of-the-spring-festival-gala-to-various-industries-the-robot-industry-in-china-embarks-on-a-new-journey-of-practical-action-in-2026": {
+      "headline": "從春晚舞臺到千行百業：2026中國機器人產業開啓「實幹」新徵程",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:10.911786",
+      "last_seen": "2026-02-12T12:02:10.911800"
+    },
+    "https://news.futunn.com/hk/post/68796704/jdcom-together-with-midea-haier-hisense-and-tcl-has-set": {
+      "headline": "京東科技推出「京東 AI 付」：語音支付新體驗，安全保障再升級",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:11.593260",
+      "last_seen": "2026-02-12T12:02:11.593278"
+    },
+    "https://news.futunn.com/hk/post/68766312/alibaba-plans-to-continue-making-significant-investments-in-taobao-flash": {
+      "headline": "阿里要繼續大投入淘寶閃購，三年不擔心虧損",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:12.312726",
+      "last_seen": "2026-02-12T12:02:12.312742"
+    },
+    "https://news.futunn.com/hk/post/68764583/ceconomy-maintained-on-rating-watch-positive-after-fitch-s-corporate": {
+      "headline": "在惠譽更新企業評級標準後，Ceconomy的評級仍維持在正面觀察名單",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:12.988017",
+      "last_seen": "2026-02-12T12:02:12.988033"
+    },
+    "https://news.futunn.com/hk/post/68764144/jdcom-s-local-life-enters-yangpu-shanghai-issuing-millions-in": {
+      "headline": "京東本地生活進上海楊浦發放百萬消費券",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:02:15.709362",
+      "last_seen": "2026-02-12T12:02:15.709376"
+    },
+    "https://news.futunn.com/hk/post/68765733": {
+      "headline": "騰訊、京東、阿里、字節跳動等巨頭悉數加入「春節紅包大戰」，總額飆至近100億",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:02:16.363583",
+      "last_seen": "2026-02-12T12:02:16.363597"
+    },
+    "https://news.futunn.com/hk/post/68870932": {
+      "headline": "京東Joyinside推AI社交新功能",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:19:26.574218",
+      "last_seen": "2026-02-13T12:19:26.574230"
+    },
+    "https://news.futunn.com/hk/post/68868294": {
+      "headline": "互聯網春晚營銷十一年：撒錢180億，爲何再無微信紅包時刻？",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:27.286116",
+      "last_seen": "2026-02-13T12:19:27.286132"
+    },
+    "https://news.futunn.com/hk/post/68868326": {
+      "headline": "海南首批5家「零關稅」進境商品免稅商店開業，首日銷售額達48.88萬元",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:28.021971",
+      "last_seen": "2026-02-13T12:19:28.021995"
+    },
+    "https://news.futunn.com/hk/post/68866147/jdcom-logistics-02618-hk-collaborates-with-south-korean-e-commerce": {
+      "headline": "京東物流(02618.HK)與南韓電商11Street合作 為中國消費者引進南韓商家",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:19:30.853058",
+      "last_seen": "2026-02-13T12:19:30.853075"
+    },
+    "https://news.futunn.com/hk/post/68867428": {
+      "headline": "道指重挫逾600點！黃金、白銀深夜跳水",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:31.481212",
+      "last_seen": "2026-02-13T12:19:31.481226"
+    },
+    "https://news.futunn.com/hk/post/68868480": {
+      "headline": "京東航空A330寬體貨機國際首航！TEMU、SHEIN、速賣通在該國規模居前三！",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:32.170531",
+      "last_seen": "2026-02-13T12:19:32.170550"
+    },
+    "https://news.futunn.com/hk/post/68843400": {
+      "headline": "化學發光企業跨界保健品，做成京東銷量第一！",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:32.770665",
+      "last_seen": "2026-02-13T12:19:32.770679"
+    },
+    "https://news.futunn.com/hk/post/68839828": {
+      "headline": "港股風向標｜多空博弈恒指險守27000點 機構看好春節港股搶跑補漲",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:33.404418",
+      "last_seen": "2026-02-13T12:19:33.404442"
+    },
+    "https://news.futunn.com/hk/post/68832667": {
+      "headline": "恒生科技投資者，錯失AI大時代浪潮",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:19:34.046322",
+      "last_seen": "2026-02-13T12:19:34.046341"
+    },
+    "https://news.futunn.com/hk/post/68947016": {
+      "headline": "多家平台遭約談 相關股份應聲受壓 京東集團跌2.16%",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:35.349897",
+      "last_seen": "2026-02-16T10:58:35.349912"
+    },
+    "https://news.futunn.com/hk/post/68944755/jdcom-09618-hk-to-invest-22-billion-rmb-over-the": {
+      "headline": "京東(09618.HK)：未來五年投入220億人幣新建15萬套「小哥之家」",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:58:38.394547",
+      "last_seen": "2026-02-16T10:58:38.394564"
+    },
+    "https://news.futunn.com/hk/post/68943422": {
+      "headline": "京東新春賀信佈局AI與全球化，旗下子公司因暖手寶問題受行政處罰",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:39.068583",
+      "last_seen": "2026-02-16T10:58:39.068600"
+    },
+    "https://news.futunn.com/hk/post/68939563": {
+      "headline": "反壟斷重拳直擊網絡平台內卷",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:39.785610",
+      "last_seen": "2026-02-16T10:58:39.785626"
+    },
+    "https://news.futunn.com/hk/post/68938328": {
+      "headline": "花旗集團四季度持倉曝光：英偉達爲第一大重倉股 大幅減持美國銀行",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:40.374174",
+      "last_seen": "2026-02-16T10:58:40.374190"
+    },
+    "https://news.futunn.com/hk/post/68938248": {
+      "headline": "三部門爲低空經濟「上保險」！2027年建立強制保險！",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:41.082357",
+      "last_seen": "2026-02-16T10:58:41.082375"
+    },
+    "https://news.futunn.com/hk/post/68931687": {
+      "headline": "（新春見聞）科技融入生活 AI打開中國民衆新春消費新空間",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:58:41.720235",
+      "last_seen": "2026-02-16T10:58:41.720252"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股午評：恒科指漲3.32% 科網股、資源股走強 AI概念股回調",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:28:42.941523",
+      "last_seen": "2026-02-23T12:28:42.941537"
+    },
+    "https://news.futunn.com/hk/post/69090089/during-the-spring-festival-the-pageviews-of-jdcom-s-robotic": {
+      "headline": "春節期間京東機器人產品訪問量同比提升超4倍",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:28:45.550588",
+      "last_seen": "2026-02-23T12:28:45.550604"
+    },
+    "https://news.futunn.com/hk/post/69089841": {
+      "headline": "京東七鮮春節線上訂單激增102% 線上下同步引爆馬年新春消費熱潮",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:28:48.169009",
+      "last_seen": "2026-02-23T12:28:48.169023"
+    },
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead": {
+      "headline": "無懼關稅衝擊！科技板塊擔當 「主攻手」助科指大漲4%，機構：在AI應用加速推進的背景下，科技板塊有望反彈回升",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:28:48.906379",
+      "last_seen": "2026-02-23T12:28:48.906395"
+    },
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record": {
+      "headline": "台韓星股齊破頂 港股升逾700點重上兩萬七關 科技股領漲美團揚7% AI大模型半新股急吐",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:28:49.627158",
+      "last_seen": "2026-02-23T12:28:49.627176"
+    },
+    "https://news.futunn.com/hk/post/69088733": {
+      "headline": "量增價跌，機器人表演租賃「出圈」",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:28:50.357943",
+      "last_seen": "2026-02-23T12:28:50.357962"
+    },
+    "https://news.futunn.com/hk/post/69194807/robots-during-the-spring-festival-were-busier-than-ever-with": {
+      "headline": "比人還忙的春節機器人 萬元租金一去不返！",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:35:49.426562",
+      "last_seen": "2026-02-25T11:35:49.426579"
+    },
+    "https://news.futunn.com/hk/post/69194802": {
+      "headline": "2026年春節「AI紅包」派發超45億元 「脈衝式流量」後用戶黏性成關鍵",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:35:50.351775",
+      "last_seen": "2026-02-25T11:35:50.351794"
+    },
+    "https://news.futunn.com/hk/post/69193102": {
+      "headline": "易方達恒生科技ETF佈局港股新經濟核心資產",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:35:51.246315",
+      "last_seen": "2026-02-25T11:35:51.246334"
+    },
+    "https://news.futunn.com/hk/post/69192919": {
+      "headline": "狂攬700多萬客流，這個春節京東折扣超市賣爆了！",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:35:52.109487",
+      "last_seen": "2026-02-25T11:35:52.109504"
+    },
+    "https://news.futunn.com/hk/post/69337522/jdcom-s-hardware-city-has-launched-its-seasonal-promotion-with": {
+      "headline": "京東五金城開工季官方直降超15% 助中小企業和工人師傅「開門紅」",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:46:32.703864",
+      "last_seen": "2026-02-27T11:46:32.703879"
+    },
+    "https://news.futunn.com/hk/post/69335768": {
+      "headline": "京東與DHL集團簽署MOU 助力德國品牌深耕中歐市場",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:46:34.032151",
+      "last_seen": "2026-02-27T11:46:34.032168"
+    },
+    "https://news.futunn.com/hk/post/69334634": {
+      "headline": "AWE2026啓幕在即：以優質供給激發家電煥新活力",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:46:35.351959",
+      "last_seen": "2026-02-27T11:46:35.351975"
+    },
+    "https://news.futunn.com/hk/post/69334360": {
+      "headline": "劉強東豪擲50億攪局：要把富豪上億的遊艇，打到10萬塊？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:46:36.663944",
+      "last_seen": "2026-02-27T11:46:36.663975"
+    },
+    "https://news.futunn.com/hk/post/69557899": {
+      "headline": "中國機器人產業動態頻出 量產與場景落地成核心焦點",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:46:39.114663",
+      "last_seen": "2026-03-04T09:46:39.114678"
+    },
+    "https://news.futunn.com/hk/post/69535064/purchase-hardware-on-jdcom-as-jdcom-hardware-city-launches-a": {
+      "headline": "買五金上京東 京東五金城推出電動工具以舊換新和大牌正品1分試活動",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:46:43.185835",
+      "last_seen": "2026-03-04T09:46:43.185850"
+    },
+    "https://news.futunn.com/hk/post/69536064": {
+      "headline": "京東外賣2026年目標30%市佔率，要從淘閃和美團誰手裏搶市場？",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:46:44.387675",
+      "last_seen": "2026-03-04T09:46:44.387693"
+    },
+    "https://news.futunn.com/hk/post/69532944": {
+      "headline": "京東酒世界負責人「被動」離職，前置倉折戟引發架構大調整？",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:46:48.160316",
+      "last_seen": "2026-03-04T09:46:48.160332"
+    },
+    "https://news.futunn.com/hk/post/69532440": {
+      "headline": "京東「百億超市」上線：一場以「高頻消費」爲核心的零售新戰役",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:46:51.925870",
+      "last_seen": "2026-03-04T09:46:51.925886"
+    },
+    "https://news.futunn.com/hk/post/69530725": {
+      "headline": "分衆傳媒：擬發行股份及支付現金購買成都新潮傳媒集團股權（草案）",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:46:53.403790",
+      "last_seen": "2026-03-04T09:46:53.403813"
+    },
+    "https://news.futunn.com/hk/post/69529974": {
+      "headline": "京東防守反擊，從最能改變全球的長板開始",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:46:54.690836",
+      "last_seen": "2026-03-04T09:46:54.690866"
+    },
+    "https://news.futunn.com/hk/post/69525693": {
+      "headline": "京東工品彙「開工季」推出平替商品推薦功能",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:46:55.563412",
+      "last_seen": "2026-03-04T09:46:55.563433"
+    },
+    "https://news.futunn.com/hk/post/69657552/stocks-related-to-jdcom-surged-across-the-board-after-earnings": {
+      "headline": "「京東系」個股績後全線走高！京東Q4淨營收同比增長1.5%至3523億元，新業務投入致單季淨虧損27億元",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:18:38.738917",
+      "last_seen": "2026-03-06T11:18:38.738936"
+    },
+    "https://news.futunn.com/hk/post/69696631/the-gains-in-hong-kong-stocks-expanded-with-the-hang": {
+      "headline": "港股漲幅擴大 恒生科技指數漲超3%",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:18:40.068912",
+      "last_seen": "2026-03-06T11:18:40.068929"
+    },
+    "https://news.futunn.com/hk/post/69696395": {
+      "headline": "【TechWeb】3月6日消息，經歷外賣大戰、京東工業上市等後，京東集團交出了一份「喜憂參半」的2025年成績單。儘管第四季度因對即時零售、國際業務等新業務的戰略性投入導致短期虧損，但從全年維度看，京東集團總收入首次突破1.3萬億元人民幣大關，核心零售業務的利潤率和用戶增長均表現穩健。截至2025年12月31日，京東生態體系下的人員總數超過90萬名，全年人力資源總支出達1572億元人民幣。業績發佈",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:18:43.828251",
+      "last_seen": "2026-03-06T11:18:43.828265"
+    },
+    "https://news.futunn.com/hk/post/69695859/the-hs-tech-etf-e-fund-513010-rose-by-2": {
+      "headline": "恒生科技ETF易方達(513010)漲2.03%，近20日資金淨買入51.36億元",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:18:45.755021",
+      "last_seen": "2026-03-06T11:18:45.755036"
+    },
+    "https://news.futunn.com/hk/post/69695442/clean-ingredients-soft-even-after-5-days-jdcom-s-seven": {
+      "headline": "配料乾淨、5天也柔軟！京東七鮮「酵醒」系列吐司上線",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:18:49.645190",
+      "last_seen": "2026-03-06T11:18:49.645205"
+    },
+    "https://news.futunn.com/hk/post/69696065/uob-kay-hian-has-lowered-its-target-price-for-jdcom": {
+      "headline": "《大行》大華繼顯降京東(09618.HK)目標價至133元 維持「買入」評級",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:18:53.375067",
+      "last_seen": "2026-03-06T11:18:53.375082"
+    },
+    "https://news.futunn.com/flash/20025476/russia-is-planning-to-introduce-a-stablecoin-bill-stating-that": {
+      "headline": "快訊 | 俄羅斯擬推出穩定幣法案，稱其具有「巨大潛力」",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:29:30.646683",
+      "last_seen": "2026-03-09T12:29:30.646702"
+    },
+    "https://news.futunn.com/hk/post/69779482/daiwa-securities-jdcom-s-09618-hk-quarterly-results-met-expectations": {
+      "headline": "《大行》大和：京東(09618.HK)季績符預期 目標價微升至172元",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:29:35.633333",
+      "last_seen": "2026-03-09T12:29:35.633350"
+    },
+    "https://news.futunn.com/hk/post/69779179/haitong-international-jdcom-s-jdus-share-buyback-and-dividend-provide": {
+      "headline": "《大行》海通國際：京東(JD.US)回購與股息提供約10%年化回報率 維持目標價33美元",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:29:40.093163",
+      "last_seen": "2026-03-09T12:29:40.093182"
+    },
+    "https://news.futunn.com/hk/post/69826977": {
+      "headline": "新業務一年燒掉零售九成利潤，京東圖什麼？",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:16:47.630726",
+      "last_seen": "2026-03-10T10:16:47.630745"
+    },
+    "https://news.futunn.com/hk/post/69829587": {
+      "headline": "「雙4S融合模式」落地北京",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:16:48.614069",
+      "last_seen": "2026-03-10T10:16:48.614087"
+    }
+  }
+}

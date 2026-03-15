@@ -1,0 +1,30 @@
+## Global Financial News
+
+- **Asia-Pacific Markets Mixed as S&P 500 Hits Record**: Asian markets were mixed after the S&P 500's record close, with South Korea's Kospi reaching new highs and Japan's Nikkei declining.
+- **Hang Seng and HSI Surge to Multi-Year Highs**: Hong Kong stocks jumped over 600 points to a four-and-a-half-year high, led by financials, property, and telecoms, while some consumer stocks like Mixue fell sharply.
+- **Gold and Silver Hit Record Highs Amid Uncertainty**: Gold surged to an all-time high above $5,100/oz and silver neared $111/oz, driven by safe-haven demand and central bank buying.
+- **US Dollar Drops to Four-Year Low, Yen Strengthens**: The US dollar fell to a near four-year low amid intervention risks and comments from US President Donald Trump, while the yen remained steady.
+- **Oil Prices Rise 3% as US Winter Storm Disrupts Output**: Oil prices climbed as a severe US winter storm slashed crude production by up to 2 million barrels per day.
+- **EU and India Announce Landmark Free Trade Deal**: European stocks rose after the EU signed a major free trade agreement with India, covering a quarter of global GDP.
+- **China Real Estate Stocks Rebound on Vanke Debt Progress**: Most Chinese property stocks rose as Vanke made significant headway in resolving debt issues, boosting sector optimism.
+- **AI Infrastructure Drives Optical Fiber and Semiconductor Rally**: Hong Kong-listed Changfei Fiber Optic Cable and NovaChip surged on global AI-driven demand for optical fibers and semiconductors.
+- **Pop Mart Shares Rebound on Buybacks and New Product Optimism**: Pop Mart's stock continued to recover, supported by share buybacks and positive outlooks for new products.
+- **China's Power Generation Capacity Soars**: China's total installed power generation capacity is projected to reach 3.89 billion kilowatts by end-2025, up 16.1% year-on-year.
+- **Bank of Japan Holds Rates, Yen Depreciation a Concern**: The BOJ kept interest rates steady at 0.75%, with meeting minutes highlighting worries over yen weakness.
+- **US President Donald Trump Threatens Tariffs on South Korea and Europe**: President Donald Trump threatened higher tariffs on South Korea and European nations amid trade deal disputes and his Greenland acquisition bid.
+- **Tensions Escalate Between US and Canada Over Trade and Davos Speech**: Diplomatic strains rose after a serious exchange between US President Donald Trump and Canadian officials at Davos.
+- **US President Donald Trump Signals Military Action Against Venezuela**: US Secretary of State Rubio warned of possible military action to ensure Venezuelan government cooperation.
+- **Iran Initiates Wartime Measures as US Fleet Approaches**: Iran began emergency wartime measures as US President Donald Trump announced a "beautiful fleet" nearing the region, with Gulf allies hesitant to join.
+- **Silver Tipped to Reach $150 as China and India Drive Demand**: Citi forecasted silver could hit $150 soon, calling it "gold on steroids" with China and India leading demand.
+- **China Hongqiao Hits New High on Aluminum Price Optimism**: China Hongqiao's stock rose over 4% as major banks predicted further aluminum price gains.
+- **GigaDevice and Huit Technology Benefit from AI and Memory Demand**: GigaDevice shares rose on tight global memory supply and strong earnings, while Huit Technology surged on AI infrastructure growth.
+- **OpenAI Launches Prism AI Plugin for Scientists**: OpenAI released Prism, an AI tool designed to enhance scientific research capabilities.
+- **China's SASAC Pushes Central Enterprises to Develop Emerging Industries**: China's SASAC is drafting policies to guide state-owned enterprises in cultivating new pillar industries.
+- **Bank of Thailand Imposes Gold Trading Limits to Support Baht**: The central bank set a daily gold trading cap and banned short selling to stabilize the Thai Baht.
+- **Major Banks Bullish on AIA Group and Kuaishou**: Morgan Stanley raised AIA Group's target price on strong Asia growth, while UBS upgraded Kuaishou citing AI monetization progress.
+- **China's NetEase and Meituan See Mixed Financial Outlooks**: NetEase's revenue growth lagged expectations, while Meituan reported a large quarterly loss but maintained a positive long-term outlook.
+- **Anta Sports' PUMA Stake Unlikely to Affect Dividends**: UBS said Anta's acquisition of a major PUMA stake should not impact its dividend policy.
+- **Hong Kong Property Prices Expected to Rise 3-5% in 2026**: Savills Hong Kong forecasts continued gains in residential property prices, supported by strong market activity and government policies.
+- **Semiconductor Supply Chain: NVIDIA to Collaborate with Intel**: NVIDIA's next-gen GPU will partner with Intel, following Apple's similar move, to align with US policy.
+- **China's Aluminum and Telecom Stocks Rally on Upbeat Outlooks**: Aluminum and telecom shares led gains in Hong Kong, reflecting optimism in key sectors.
+- **All-Star Investor Warns of US Tech Bubble, Bullish on Non-US Markets**: A prominent investor labeled the "Mag 7" US tech stocks a bubble, favoring international markets for long-term growth.

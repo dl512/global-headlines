@@ -1,0 +1,3 @@
+## Hong Kong News
+
+- An independent commission will [hold a public hearing on March 19](https://www.stheadline.com/society/3541996/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E6%8C%87%E7%A4%BA%E6%9C%83%E8%AD%B0%E4%BB%8A%E8%BE%9B%E8%A1%8C-%E4%B8%BB%E5%B8%AD%E9%99%B8%E5%BC%80%E5%BE%B73%E6%9C%8819%E6%97%A5%E5%B0%87%E9%80%B2%E8%A1%8C%E8%81%BD%E8%AD%89%E6%9C%83) to investigate the fatal Hong Fook Court fire, focusing on building safety standards, maintenance, and regulatory oversight amid heightened public concern.

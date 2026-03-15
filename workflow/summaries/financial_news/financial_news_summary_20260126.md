@@ -1,0 +1,29 @@
+## Global Financial News
+
+- **Gold and Silver Hit Record Highs**: Spot gold surged past $5,000/oz and silver exceeded $100, driving strong gains in Hong Kong-listed gold stocks and global precious metals markets.
+- **Asia-Pacific Markets Volatile Amid Geopolitical Tensions**: Asia-Pacific stocks traded mixed as investors reacted to ongoing geopolitical concerns, with Japan's Nikkei pressured by yen volatility and South Korea's Kospi reaching new highs.
+- **US President Donald Trump Eases Tariff Threats on Europe and Greenland**: US President Donald Trump suspended planned tariffs on European countries after a "framework" agreement on Greenland, boosting European and Asian markets.
+- **Oil Prices Slide on Reduced Geopolitical Risks**: Oil fell about 2% as US President Donald Trump dialed back threats toward Greenland and Iran, easing supply concerns.
+- **US Dollar Weakens as Geopolitical Tensions Ease**: The US dollar edged lower following the easing of Greenland-related tensions and strong US consumer spending, while the Australian dollar jumped on positive jobs data.
+- **Hong Kong Market Mixed; Gold Stocks Outperform**: The Hang Seng Index saw slight gains while the tech index declined, with gold concept stocks such as Chifeng Gold and Laopu Gold surging.
+- **Institutional Bullishness on Gold Continues**: Analysts forecast gold could reach $6,600/oz amid strong safe-haven demand and ongoing global uncertainty.
+- **US-Taiwan Trade Deal Boosts Asian Chip Stocks**: Asian chipmakers rallied after a US-Taiwan trade agreement, with TSMC and South Korea's Kospi hitting record highs.
+- **European Chip Stocks Surge on TSMC Results**: European AI chip stocks, led by ASML, soared following TSMC's record quarterly profit and robust AI demand.
+- **Fed Rate Decision and Tech Earnings in Focus**: Markets await the first Fed interest rate decision of the year and earnings from Tesla, Apple, Microsoft, and Meta.
+- **US President Donald Trump Refocuses on Rare Earths**: US rare earth stocks surged nearly 20% as the Trump administration renewed its focus on the sector.
+- **New York Fed Signals Possible US-Japan Yen Intervention**: The New York Fed made a rare inquiry about the yen, suggesting potential joint intervention with Japan to address currency volatility.
+- **Morgan Stanley Expects Fed to Pause Rate Hikes**: Morgan Stanley anticipates a Fed rate hike pause, but the policy tone remains uncertain.
+- **Hong Kong Market Confidence Strengthens**: Analysts project a 10% profit growth for Hong Kong stocks in 2026, with banks and property sectors favored.
+- **China Merchants Bank and Tencent Receive Positive Ratings**: Goldman Sachs and Haitong maintain "Buy" ratings on China Merchants Bank and Tencent, citing solid earnings and growth prospects.
+- **Pop Mart and J&T Express Upgraded by Analysts**: Pop Mart and J&T Express received "Buy" ratings, with Pop Mart supported by share buybacks and J&T Express by convertible bond issuance and growth in new markets.
+- **China Life and Ping An Preferred Among Insurers**: Morgan Stanley favors China Life and Ping An for their strong growth outlook compared to regional peers.
+- **Luoyang Molybdenum Rises on Brazil Gold Mine Acquisition**: The company’s shares climbed after acquiring a Brazilian gold mine expected to produce 6-8 tons of gold this year.
+- **AI and Tech Sector Developments**: Kingsoft Cloud upgraded its AI platform, Changfei Fiber Optic Cable surged on AI demand, and JPMorgan highlighted eSSD and Kioxia as top picks in NAND storage.
+- **Commercial Space Race Intensifies in China**: Chinese private space companies revealed plans to achieve major commercial milestones by 2026.
+- **Dongpeng Beverage Launches Hong Kong IPO**: Functional beverage company Dongpeng Beverage plans to list in Hong Kong on February 3.
+- **Merck & Co and Revolution Deal Collapses**: A $30 billion acquisition deal between Merck & Co and Revolution ended due to pricing disagreements.
+- **JinkoSolar Shares Rise on Space-Based Solar Power Plans**: JinkoSolar’s Hong Kong shares gained as the company plans to invest in Xingyi Core Energy and Elon Musk backs space-based solar power.
+- **Baidu Target Price Raised Amid Focus on Chip IPO**: Nomura raised Baidu’s target price to $196, with market attention on its chip subsidiary’s IPO and capital return plans.
+- **COSCO Shipping Energy Forecasted for Record Profits**: Analysts expect COSCO Shipping Energy to achieve record profits in 2025, maintaining an "Overweight" rating.
+- **General Electric Seen as Buy Opportunity After Stock Dip**: Citibank and Goldman Sachs view GE's recent stock decline as a buying opportunity, citing strong aerospace and defense growth.
+- **China Pacific Insurance Earnings Expected to Surge**: China Pacific Insurance is projected to see 215%-225% profit growth in 2025, with a target price of HK$29.6.

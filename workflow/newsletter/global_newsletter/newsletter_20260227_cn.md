@@ -1,0 +1,23 @@
+## 最重要的消息
+
+- [巴基斯坦對阿富汗喀布爾和坎大哈城市發動軍事打擊](https://www.bbc.com/news/articles/c0j5qx9n887o)，以回應跨境攻擊升級，造成傷亡並在邊境地區引發新一輪衝突。
+- [習近平領導下的中國大規模軍事清洗](https://edition.cnn.com/2026/02/25/china/csis-report-china-military-purges-intl-hnk-ml)可能削弱其軍事準備和戰鬥力，令人擔憂國家應對衝突的能力。
+- [國會推動立法](https://www.cnbc.com/2026/02/26/congress-pushes-back-on-nvidia-white-house-with-chip-export-limits.html)，限制向中國出口先進半導體，賦予國會審查並可能阻止許可的權力，以應對科技緊張局勢升高。
+- [Netflix撤回收購華納兄弟探索公司](https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html)的出價，此前派拉蒙斯凱德恩提交了每股31美元的更高出價，結束長期談判，可能重塑媒體格局。
+- [Block股價飆升24%](https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html)，公司宣布裁員近一半，超過4,000名員工，以通過AI自動化提升效率。
+- [美國總統唐納德·特朗普的政府面臨法院截止期限](https://www.cnbc.com/2026/02/26/trump-tariff-refunds-doj-court-deadline.html)，需對超過2,000宗尋求加快關稅退還的案件作出回應，最高法院裁定其關稅非法。
+- [美國與伊朗在日內瓦結束了“最激烈”的核談判](https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html)，未取得突破，談判延續，區域緊張局勢持續，並就伊朗彈道導彈計劃存在爭議。
+- [匈牙利指控烏克蘭“油封鎖”](https://www.cnbc.com/2026/02/26/hungary-ukraine-oil-blockade-soldiers-energy-facilities-orban-elections-russia-.html)，因延遲重新開放向俄羅斯供油的管道，匈牙利部署士兵以保護重要能源基礎設施。
+- [古巴部隊在與一艘佛羅里達註冊快艇的槍戰中擊斃四人](https://edition.cnn.com/2026/02/25/wo/cuba-speedboat-shootout-us-citizen-killed-intl-latam)，其中包括一名美國公民，局勢升級，並引起國際關注。
+- [加拿大宣布計劃協助古巴](https://edition.cnn.com/2026/02/24/americas/canada-cuba-assist-washington-intl-hnk)，因華盛頓對該島加大經濟壓力和制裁，表達對古巴的支持，反映美古關係緊張。
+- [一名前美國空軍F-35教官被控密謀訓練中國軍方](https://edition.cnn.com/2026/02/26/china/us-air-force-pilot-china-instructor-charges-intl-hnk-ml)，凸顯對軍事間諜和技術轉讓的持續擔憂。
+- [民主黨計劃下周就伊朗戰爭權力投票](https://www.cnbc.com/2026/02/26/democrats-plan-to-force-iran-war-powers-vote-next-week)，反映對美國在中東軍事介入的持續辯論。
+- [州農宣布向汽車保險會員派發50億美元股息](https://www.cnbc.com/2026/02/26/state-farm-dividend-car-insurance-customers.html)，預計客戶平均可獲得100美元退款及10%的保費減免，覆蓋40個州。
+- [香港活動家郭小姐指控](https://www.bbc.com/news/articles/cly897pv4j9o)其父被監禁以封口其海外的活動，凸顯香港政府日益使用法律手段壓制異議和打擊激進分子家庭。
+- [世界經濟論壇CEO布爾格·布倫德辭職](https://www.cnbc.com/2026/02/26/world-economic-forum-ceo-epstein-files.html)，因多次與杰弗里·愛泼斯坦會面曝光，臨時任命接班人選。
+- [澳大利亞總理安東尼·阿爾巴內塞在其住所被疏散](https://edition.cnn.com/2026/02/25/australia/albanese-evacuates-residence-bomb-threat-shen-yun-intl-hnk)，因與被中國禁止的舞蹈團“神韻”反對者相關的炸彈威脅，事件具有政治敏感性。
+- [北韓領導人金正恩暗示](https://www.bbc.com/news/articles/c0q3747jvnwo)若華盛頓接受北韓的核地位，或有改善美國關係的可能，但對與韓國改善關係的希望表示不看好。
+- [泰國數十隻老虎因病毒爆發死亡](https://edition.cnn.com/2026/02/26/world/video/dozens-dead-tigers-virus-outbreak-thailand-digvid)，引發對野生動物健康與保育的擔憂。
+- [伊朗當局施壓遇難抗議者家屬](https://edition.cnn.com/2026/02/26/middleeast/iran-protesters-crackdown-pressure-intl)，試圖隱瞞政府鎮壓的真相，激起國際對人權侵犯的關注。
+- [哥倫比亞大學學生艾爾米娜·阿加耶娃在紐約市長佐蘭·曼德拉尼和特朗普的干預下](https://www.cnbc.com/2026/02/26/columbia-ice-dhs-immigration-detainment.html)被釋放，因校園內ICE行動引發爭議。
+- [服用膠原蛋白補充劑](https://www.bbc.com/news/articles/cge82vq9x9ro)可以改善皮膚彈性和水潤，但無法預防皺紋，根據一項新的科學評估。

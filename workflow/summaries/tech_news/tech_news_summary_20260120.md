@@ -1,0 +1,32 @@
+## Tech News
+
+- **US AI Startups See Massive Funding Surge**: 49 US AI startups raised $100M+ in 2025, with multi-billion dollar valuations and continued strong investment momentum into 2026.
+- **Meta Retreats from Metaverse, Shifts Focus to AI**: Meta has scaled back metaverse efforts after heavy losses, pivoting to prioritize AI development.
+- **AI Security Attracts Major VC Investment Amid Rogue Agent Risks**: Venture capital is pouring into AI security startups as incidents involving rogue AI agents increase.
+- **Sequoia Backs Anthropic in $25B Round, Breaking VC Taboo**: Sequoia Capital is investing in Anthropic alongside rivals OpenAI and xAI, valuing Anthropic at over $350B.
+- **Physical AI and Robotics Hype Grows at CES 2026**: Robotics and embodied AI, including humanoid robots, drew major attention at CES, with industry leaders touting their potential.
+- **Threads Surpasses X in Daily Mobile Users**: Meta’s Threads overtook X in daily mobile active users, reaching 141.5 million in January 2026.
+- **Apple Partners with Google Gemini to Enhance Siri AI**: Apple is collaborating with Google Gemini to boost Siri’s AI capabilities.
+- **OpenAI to Focus on Practical AI Adoption in 2026**: OpenAI will prioritize real-world AI applications, with revenue surpassing $20B and major infrastructure expansion.
+- **OpenAI Begins Testing Ads in ChatGPT US Version**: Ads will appear for free and Go users on ChatGPT, while paid tiers remain ad-free.
+- **OpenAI Commits Billions to Chip Deals with Cerebras, Nvidia, AMD, and Broadcom**: OpenAI has signed over $1.4 trillion in chip infrastructure deals to support AI workloads.
+- **Alibaba-Backed Moonshot AI Valuation Rises to $4.8B**: Moonshot AI’s value jumped $500M after a funding round, amid Hong Kong IPO surges for Chinese AI firms.
+- **Chinese AI and Tech Startups Secure Major Funding**: Noumena, Qingchu Yu Lan, Super Magnetic Energy, Shuli Innovation, Shiying Technology, Xurun Technology, and Deepgram all completed significant financing rounds for AI, semiconductor, and fusion technologies.
+- **WeLab Completes $220M Series D for Southeast Asia Expansion**: Hong Kong-based WeLab raised its largest funding round to date to expand in Southeast Asia and accelerate AI initiatives.
+- **Significant Rise in Rare Earth Prices Boosts Chinese Stocks**: Rare earth prices surged over 11% in 2026, driving strong performance in related Chinese stocks.
+- **President Donald Trump Imposes 25% Tariff on Chips, Escalating US-EU Trade Tensions**: New tariffs on chips spark European threats of €93B in retaliatory tariffs, with markets reacting negatively.
+- **US President Donald Trump to Attend Davos as Key Leaders Skip**: President Trump will attend the World Economic Forum in Davos, while leaders from China and India are absent.
+- **Stock Markets Fall on President Donald Trump’s Greenland Tariff Threats**: US and European markets dropped over 300 points as Trump threatened escalating tariffs on NATO countries.
+- **TSMC Expands $250B US Investment Amid AI Chip Boom**: TSMC’s strong earnings and new investments in Arizona reflect soaring global AI chip demand.
+- **ASML Hits Record High on AI Demand and Strong Earnings**: ASML’s stock surged 25% in 2026, with analysts projecting further growth due to AI chip manufacturing.
+- **Micron Stock Soars on AI-Driven Memory Demand**: Micron’s shares jumped nearly 8% as the company invests $200B to expand US manufacturing.
+- **Elon Musk’s xAI Faces Regulatory and Legal Challenges**: xAI is under fire for illegal use of natural gas turbines, sexual deepfake content, and digital undressing controversies, facing EPA and California AG actions.
+- **Elon Musk Sues OpenAI for Up to $134B Over Nonprofit Mission**: Musk seeks damages, alleging OpenAI and Microsoft abandoned OpenAI’s original nonprofit goals.
+- **States Race to Add Bitcoin to Public Balance Sheets**: Texas leads US states in adopting Bitcoin reserves, with others following amid ongoing crypto regulation debates.
+- **Australia-Style Social Media Ban for Under-16s Gains Global Attention**: The UK is likely to follow Australia in enforcing age restrictions on social media for minors.
+- **Google Appeals US Search Monopoly Ruling**: Google is appealing a federal court decision that found it held an illegal monopoly in internet search.
+- **BioticsAI Wins FDA Approval for AI Fetal Ultrasound**: BioticsAI’s AI-powered ultrasound product, aimed at improving maternal health, received FDA approval.
+- **NASA and SpaceX Launch Mission to Study the Heliosphere**: The IMAP spacecraft will explore the heliosphere’s structure and its interaction with cosmic rays.
+- **NASA Finds Clearest Sign of Ancient Life on Mars**: A Mars rock sample reveals the strongest evidence yet of ancient life on the planet.
+- **Rare ‘Tooth-in-Eye’ Surgery Restores Vision**: A groundbreaking procedure restored a man’s sight after two decades of blindness.
+- **Ethical Concerns Rise Over Space Commercialization and Colonization**: Experts warn of power imbalances and resource exploitation as space commercialization accelerates.

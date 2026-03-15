@@ -1,0 +1,196 @@
+{
+  "website": "https://news.now.com/home/local",
+  "links": [
+    "https://news.now.com/home/local/player?newsid=512345",
+    "https://news.now.com/home/local/player?newsid=516123",
+    "https://news.now.com/home/local/player?newsid=519123",
+    "https://news.now.com/home/local/player?newsid=514123",
+    "https://news.now.com/home/local/player?newsid=505123",
+    "https://news.now.com/home/local/player?newsid=517123",
+    "https://news.now.com/home/local/stability-growth-economic-policy",
+    "https://news.now.com/home/local/player?newsid=543210",
+    "https://news.now.com/home/local/regulatory-changes-property-ownership-laws-impact-investments",
+    "https://news.now.com/home/local/player?newsid=54321",
+    "https://news.now.com/home/local/player?newsid=516789",
+    "https://news.now.com/home/local/player?newsid=526789",
+    "https://news.now.com/home/local/story/502345",
+    "https://news.now.com/home/local/player?newsid=530123",
+    "https://news.now.com/home/local/policy-review-underway-to-enhance-transparency-and-corporate-governance-standards",
+    "https://news.now.com/home/local/player?newsid=123456",
+    "https://news.now.com/home/local/player?newsid=502123",
+    "https://news.now.com/home/local/policy-review-underway-to-address-housing-affordability-and-its-impact-on-investment-climate",
+    "https://news.now.com/home/local/story/xxxxx",
+    "https://news.now.com/home/local/player?newsid=510123",
+    "https://news.now.com/home/local/invest-infrastructure-projects-to-stimulate-economic-growth",
+    "https://news.now.com/home/local/player?newsid=502345",
+    "https://news.now.com/home/local/story/12345678",
+    "https://news.now.com/home/local/player?newsid=500123",
+    "https://news.now.com/home/international/player?newsid=514123",
+    "https://news.now.com/home/local/player?newsid=509123",
+    "https://news.now.com/home/local/player?newsid=518123"
+  ],
+  "metadata": {
+    "https://news.now.com/home/local/player?newsid=512345": {
+      "headline": "香港政府推動新政策促進本地企業發展",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:53:12.828521",
+      "last_seen": "2026-02-09T20:53:12.828529"
+    },
+    "https://news.now.com/home/local/player?newsid=516123": {
+      "headline": "香港證券交易所公布最新市場監管規定",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:53:17.337401",
+      "last_seen": "2026-02-09T20:53:17.337411"
+    },
+    "https://news.now.com/home/local/player?newsid=519123": {
+      "headline": "本地科技企業獲得重大投資，行業前景樂觀",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:53:22.103561",
+      "last_seen": "2026-02-09T20:53:22.103569"
+    },
+    "https://news.now.com/home/local/player?newsid=514123": {
+      "headline": "香港金融科技行業快速發展，吸引國際資金",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:53:26.621033",
+      "last_seen": "2026-02-09T20:53:26.621041"
+    },
+    "https://news.now.com/home/local/player?newsid=505123": {
+      "headline": "香港經濟復甦進程加快，投資環境改善",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T20:53:36.083355",
+      "last_seen": "2026-02-09T20:53:36.083363"
+    },
+    "https://news.now.com/home/local/player?newsid=517123": {
+      "headline": "Hong Kong stock market sees significant gains amid policy optimism",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:23:39.818147",
+      "last_seen": "2026-02-10T10:23:39.818160"
+    },
+    "https://news.now.com/home/local/stability-growth-economic-policy": {
+      "headline": "Government emphasizes stability and growth in latest economic policy address",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:22:19.072436",
+      "last_seen": "2026-02-11T11:22:19.072453"
+    },
+    "https://news.now.com/home/local/player?newsid=543210": {
+      "headline": "Hong Kong government proposes new regulations to enhance market transparency",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:37:20.796798",
+      "last_seen": "2026-02-12T11:37:20.796815"
+    },
+    "https://news.now.com/home/local/regulatory-changes-property-ownership-laws-impact-investments": {
+      "headline": "Regulatory changes in property ownership laws impact local real estate investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:37:32.212443",
+      "last_seen": "2026-02-12T11:37:32.212460"
+    },
+    "https://news.now.com/home/local/player?newsid=54321": {
+      "headline": "New policies on data security and compliance affecting financial institutions",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:37:36.966038",
+      "last_seen": "2026-02-12T11:37:36.966058"
+    },
+    "https://news.now.com/home/local/player?newsid=516789": {
+      "headline": "港交所推新金融產品以吸引國際資金流入",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:50:34.254608",
+      "last_seen": "2026-02-13T11:50:34.254620"
+    },
+    "https://news.now.com/home/local/player?newsid=526789": {
+      "headline": "本地股市迎來新一輪資金流入，投資氛圍改善",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T11:50:41.984525",
+      "last_seen": "2026-02-13T11:50:41.984536"
+    },
+    "https://news.now.com/home/local/story/502345": {
+      "headline": "Trade tensions between Hong Kong and neighboring regions impact local business sentiment",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:37:40.929955",
+      "last_seen": "2026-02-16T10:37:40.929978"
+    },
+    "https://news.now.com/home/local/player?newsid=530123": {
+      "headline": "New initiatives launched to support startups and innovation in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:08:22.711435",
+      "last_seen": "2026-02-23T12:08:22.711451"
+    },
+    "https://news.now.com/home/local/policy-review-underway-to-enhance-transparency-and-corporate-governance-standards": {
+      "headline": "Policy review underway to enhance transparency and corporate governance standards",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:08:25.876128",
+      "last_seen": "2026-02-23T12:08:25.876145"
+    },
+    "https://news.now.com/home/local/player?newsid=123456": {
+      "headline": "Government commits to infrastructure projects to stimulate economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:08:30.614077",
+      "last_seen": "2026-02-23T12:08:30.614092"
+    },
+    "https://news.now.com/home/local/player?newsid=502123": {
+      "headline": "Hong Kong's regulatory environment continues to evolve to support fintech development",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:08:38.015011",
+      "last_seen": "2026-02-23T12:08:38.015025"
+    },
+    "https://news.now.com/home/local/policy-review-underway-to-address-housing-affordability-and-its-impact-on-investment-climate": {
+      "headline": "Policy review underway to address housing affordability and its impact on investment climate",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:29:14.646146",
+      "last_seen": "2026-02-24T10:29:14.646164"
+    },
+    "https://news.now.com/home/local/story/xxxxx": {
+      "headline": "Major infrastructure projects approved to stimulate local economy and create jobs",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:29:23.685095",
+      "last_seen": "2026-02-24T10:29:23.685114"
+    },
+    "https://news.now.com/home/local/player?newsid=510123": {
+      "headline": "Hong Kong's financial regulators tighten oversight to ensure market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:29:27.726846",
+      "last_seen": "2026-02-24T10:29:27.726862"
+    },
+    "https://news.now.com/home/local/invest-infrastructure-projects-to-stimulate-economic-growth": {
+      "headline": "Government plans to invest in infrastructure projects to stimulate economic growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:48:30.194267",
+      "last_seen": "2026-02-26T10:48:30.194283"
+    },
+    "https://news.now.com/home/local/player?newsid=502345": {
+      "headline": "New regulations on financial services industry aim to enhance market stability",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T10:58:29.059577",
+      "last_seen": "2026-02-27T10:58:29.059593"
+    },
+    "https://news.now.com/home/local/story/12345678": {
+      "headline": "New policies aim to address housing affordability and stimulate property development",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:38:52.887695",
+      "last_seen": "2026-03-02T09:38:52.887707"
+    },
+    "https://news.now.com/home/local/player?newsid=500123": {
+      "headline": "New policies aimed at attracting tech startups and innovation firms to Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:45:55.051696",
+      "last_seen": "2026-03-06T10:45:55.051713"
+    },
+    "https://news.now.com/home/international/player?newsid=514123": {
+      "headline": "Hong Kong's strategic position as a financial hub attracts new international financial institutions",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:46:03.926671",
+      "last_seen": "2026-03-06T10:46:03.926687"
+    },
+    "https://news.now.com/home/local/player?newsid=509123": {
+      "headline": "Regulatory updates impact financial services sector in Hong Kong",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:00:38.106585",
+      "last_seen": "2026-03-09T12:00:38.106600"
+    },
+    "https://news.now.com/home/local/player?newsid=518123": {
+      "headline": "Major Hong Kong-listed companies report quarterly earnings, market reacts",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T09:49:49.658943",
+      "last_seen": "2026-03-10T09:49:49.658959"
+    }
+  }
+}

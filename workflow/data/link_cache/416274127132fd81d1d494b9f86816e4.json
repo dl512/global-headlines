@@ -1,0 +1,2289 @@
+{
+  "website": "https://www.bbc.com/news",
+  "links": [
+    "https://www.bbc.com/news/articles/c8d5pl34vv0o",
+    "https://www.bbc.com/news/articles/cj4zxknd7evo",
+    "https://www.bbc.com/news/articles/c20z4254524o",
+    "https://www.bbc.com/news/articles/c62grw02gpjo",
+    "https://www.bbc.com/news/articles/cjdjj44xxr5o",
+    "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo",
+    "https://www.bbc.com/news/articles/c394g7nnzmzo",
+    "https://www.bbc.com/news/articles/c3vevxnw9pko",
+    "https://www.bbc.com/sport/winter-olympics/live/cx2k6028mrpt",
+    "https://www.bbc.com/news/articles/cvgn2k285ypo",
+    "https://www.bbc.com/news/articles/cx2p32g8dx7o",
+    "https://www.bbc.com/news/articles/cjd9k852zdjo",
+    "https://www.bbc.com/news/articles/ce8rl71n4r3o",
+    "https://www.bbc.com/sport/articles/c338y36kngzo",
+    "https://www.bbc.com/sport/articles/c4g5lj59rr9o",
+    "https://www.bbc.com/sport/articles/clyzw5vp07ko",
+    "https://www.bbc.com/sport/articles/c98q5g51z4no",
+    "https://www.bbc.com/news/articles/c5yqr485d84o",
+    "https://www.bbc.com/news/articles/cm24j1dpexvo",
+    "https://www.bbc.com/news/articles/c62v248xkl5o",
+    "https://www.bbc.com/news/articles/cqlgv3z79klo",
+    "https://www.bbc.com/news/articles/cvgv5yre39zo",
+    "https://www.bbc.com/news/articles/c77ely7nv2do",
+    "https://www.bbc.com/news/articles/cvg5x2l3v0qo",
+    "https://www.bbc.com/news/articles/cddn7qed35eo",
+    "https://www.bbc.com/news/articles/c5y6534y3y5o",
+    "https://www.bbc.com/news/articles/cgrzjv1kykxo",
+    "https://www.bbc.com/news/articles/cn0zed0dekgo",
+    "https://www.bbc.com/news/articles/c62036e10d9o",
+    "https://www.bbc.com/news/articles/c4geqzqd8qeo",
+    "https://www.bbc.com/news/articles/c89kwj8kjy9o",
+    "https://www.bbc.com/news/articles/c0mgndkklvmo",
+    "https://www.bbc.com/news/articles/c3wlpqpe2z4o",
+    "https://www.bbc.com/sport/articles/czj1yj9pj00o",
+    "https://www.bbc.com/sport/articles/c78v857elp9o",
+    "https://www.bbc.com/sport/articles/c0rjwee0g45o",
+    "https://www.bbc.com/culture/entertainment-news",
+    "https://www.bbc.com/news/live/cr5lnzqdr5pt",
+    "https://www.bbc.com/news/articles/cx2gmde0vjlo",
+    "https://www.bbc.com/news/videos/c5yr82796j4o",
+    "https://www.bbc.com/sport/articles/clyzvzpndn0o",
+    "https://www.bbc.com/news/articles/cx2407jrn83o",
+    "https://www.bbc.com/news/articles/c24dp6veylqo",
+    "https://www.bbc.com/news/articles/cwyk917xy8no",
+    "https://www.bbc.com/news/articles/cvgjwpx9j2do",
+    "https://www.bbc.com/news/articles/cy4wdgxr081o",
+    "https://www.bbc.com/news/articles/ckgkjg76lvxo",
+    "https://www.bbc.com/news/articles/c07jnmgy8jmo",
+    "https://www.bbc.com/news/articles/c2d1pz3pxewo",
+    "https://www.bbc.com/news/articles/c80jrg08rk3o",
+    "https://www.bbc.com/sport/articles/c5y5j358zrlo",
+    "https://www.bbc.com/sport/articles/c2lrn7qw75yo",
+    "https://www.bbc.com/news/articles/cn71y2l51zno",
+    "https://www.bbc.com/news/articles/clyg4lgm1d2o",
+    "https://www.bbc.com/news/articles/c1e98w35qyjo",
+    "https://www.bbc.com/news/articles/cj98nvre2jeo",
+    "https://www.bbc.com/news/articles/ckglv1n4dzeo",
+    "https://www.bbc.com/news/articles/cm2r4d5mnero",
+    "https://www.bbc.com/news/live/cd03znje072t",
+    "https://www.bbc.com/news/articles/cdjm33kwxx4o",
+    "https://www.bbc.com/news/articles/ce3x0lnyxd3o",
+    "https://www.bbc.com/news/videos/cy8g741k920o",
+    "https://www.bbc.com/news/videos/c2047rm71npo",
+    "https://www.bbc.com/sport/articles/c6274mgve33o",
+    "https://www.bbc.com/sport/articles/czr073m884yo",
+    "https://www.bbc.com/sport/articles/c1mj9mpz7p5o",
+    "https://www.bbc.com/news/articles/ce8w95knp55o",
+    "https://www.bbc.com/news/articles/cx2y85xdyw3o",
+    "https://www.bbc.com/news/articles/cn0zdd7yl4vo",
+    "https://www.bbc.com/news/videos/c99jr58m4z4o",
+    "https://www.bbc.com/news/articles/c14mlrd460vo",
+    "https://www.bbc.com/news/articles/czj17z7l9jmo",
+    "https://www.bbc.com/news/articles/c5yqr8eggvwo",
+    "https://www.bbc.com/sport/articles/cly2jknym20o",
+    "https://www.bbc.com/news/articles/c0rjg9ddgkqo",
+    "https://www.bbc.com/news/articles/c4g5pjn3p50o",
+    "https://www.bbc.com/news/articles/cx2rlzqjglvo",
+    "https://www.bbc.com/news/articles/c20znqe2yqlo",
+    "https://www.bbc.com/news/articles/c78x9256pn7o",
+    "https://www.bbc.com/sport/articles/cx2dnd7g209o",
+    "https://www.bbc.com/sport/articles/c4gjmlnr004o",
+    "https://www.bbc.com/news/articles/cpw05yv4y9po",
+    "https://www.bbc.com/news/articles/c3ewje4xk3yo",
+    "https://www.bbc.com/news/articles/crk845r4vlyo",
+    "https://www.bbc.com/news/articles/c4g5380xwqjo",
+    "https://www.bbc.com/news/articles/c8r15eyvk2do",
+    "https://www.bbc.com/news/articles/c5yrv2g16e2o",
+    "https://www.bbc.com/news/articles/crm87109l3wo",
+    "https://www.bbc.com/news/articles/cz7genjx9njo",
+    "https://www.bbc.com/news/articles/cj3vve6v17xo",
+    "https://www.bbc.com/news/videos/cn71g84yn12o",
+    "https://www.bbc.com/news/articles/c875d3d3x34o",
+    "https://www.bbc.com/sport/cricket/articles/cp8r25807zro",
+    "https://www.bbc.com/news/articles/cm289we7jzdo",
+    "https://www.bbc.com/news/articles/c4gjx1j1nkjo",
+    "https://www.bbc.com/news/articles/cx2k23mlkzlo",
+    "https://www.bbc.com/news/articles/czr0lykl4g4o",
+    "https://www.bbc.com/sport/articles/cm2x7m17jydo",
+    "https://www.bbc.com/sport/articles/cz6ejev058eo",
+    "https://www.bbc.com/sport/articles/cjen94eg9nko",
+    "https://www.bbc.com/sport/articles/c24dnjnp39qo",
+    "https://www.bbc.com/news/articles/cz6eljqvyp1o",
+    "https://www.bbc.com/news/articles/cd6z007wgg6o",
+    "https://www.bbc.com/news/articles/cm2y2538lz8o",
+    "https://www.bbc.com/news/articles/cn9e1q4797wo",
+    "https://www.bbc.com/news/articles/c0k1xkllknmo",
+    "https://www.bbc.com/news/articles/cj98egkl7l1o",
+    "https://www.bbc.com/news/articles/c875p9q59vjo",
+    "https://www.bbc.com/news/articles/ce8n4l8elpgo",
+    "https://www.bbc.com/news/articles/c1d64p3q2d0o",
+    "https://www.bbc.com/news/articles/czx41k51595o",
+    "https://www.bbc.com/news/articles/cx2g8rz7yedo",
+    "https://www.bbc.com/news/articles/c23z0kdypm3o",
+    "https://www.bbc.com/news/articles/c4grxvdyy00o",
+    "https://www.bbc.com/news/articles/cvg3n7j8xyqo",
+    "https://www.bbc.com/news/articles/c2lrjlkpw2eo",
+    "https://www.bbc.com/news/articles/ceqvjwre8vqo",
+    "https://www.bbc.com/news/articles/cy0dy1v14d1o",
+    "https://www.bbc.com/news/articles/c98g1klxnpxo",
+    "https://www.bbc.co.uk/news/resources/idt-8d2b6944-4f7a-45b4-96fd-2d92499ff97d",
+    "https://www.bbc.com/news/articles/ce3kenge1k9o",
+    "https://www.bbc.com/news/articles/ckg1dl410q9o",
+    "https://www.bbc.com/news/articles/c747nqply93o",
+    "https://www.bbc.com/news/articles/c4g57gqqln1o",
+    "https://www.bbc.com/news/articles/c78j01n775ko",
+    "https://www.bbc.com/sport/ice-hockey/articles/c07j84jpn55o",
+    "https://www.bbc.com/news/articles/c4g02nxx2plo",
+    "https://www.bbc.com/news/articles/c39wj94me31o",
+    "https://www.bbc.com/news/articles/ck3rkwzdnwo",
+    "https://www.bbc.com/news/articles/czr0vj13ezjo",
+    "https://www.bbc.com/news/world/africa-66866567",
+    "https://www.bbc.com/news/articles/cvgj9p15y87o",
+    "https://www.bbc.com/news/articles/cy4wywnrdd8o",
+    "https://www.bbc.com/news/articles/c75ere6z4weo",
+    "https://www.bbc.com/news/articles/cvg18588mdko",
+    "https://www.bbc.com/news/articles/cp32l9w9pgyo",
+    "https://www.bbc.com/news/articles/cwygnw91wl0o",
+    "https://www.bbc.com/news/articles/cn5gk15rr70o",
+    "https://www.bbc.com/news/articles/c15xvy7k2q5o",
+    "https://www.bbc.com/sport/articles/cgl5z5xg303o",
+    "https://www.bbc.com/news/articles/czx7e100r48o",
+    "https://www.bbc.com/news/articles/cj0dme87l84o",
+    "https://www.bbc.com/news/articles/c98qjl76eyro",
+    "https://www.bbc.com/news/articles/cy7jnvdzpr7o",
+    "https://www.bbc.com/news/articles/cn0e30d9wj9o",
+    "https://www.bbc.com/news/articles/cpv8r34mn0po",
+    "https://www.bbc.com/news/articles/c0r4l1gn801o",
+    "https://www.bbc.com/news/articles/c5yvvjw8pdvo",
+    "https://www.bbc.com/news/articles/cnv61zv534eo",
+    "https://www.bbc.com/news/articles/cx2lp7xwql4o",
+    "https://www.bbc.com/news/articles/c4gqkg87293o",
+    "https://www.bbc.com/news/articles/cvg53xp5857o",
+    "https://www.bbc.com/news/articles/cx289g1yw97o",
+    "https://www.bbc.com/news/articles/c8xy5jzrrxzo",
+    "https://www.bbc.com/news/articles/c89k0lxlpnpo",
+    "https://www.bbc.com/news/articles/cly3vm7ddjmo",
+    "https://www.bbc.com/news/articles/c743dzvp73xo",
+    "https://www.bbc.com/news/articles/c2e4ng18nv3o",
+    "https://www.bbc.com/news/articles/c4gj20xzw39o",
+    "https://www.bbc.com/news/articles/c4gjz2p8wr2o",
+    "https://www.bbc.com/news/articles/czx4pyx9g46o",
+    "https://www.bbc.com/news/articles/cj32l00k47lo",
+    "https://www.bbc.com/news/articles/c75e4l4796vo",
+    "https://www.bbc.com/news/articles/c6268292086o",
+    "https://www.bbc.com/news/articles/c1jkw18e19jo",
+    "https://www.bbc.com/news/articles/clyxrv8z0vdo",
+    "https://www.bbc.com/news/articles/ck12030ye3o",
+    "https://www.bbc.com/news/videos/c77e6824pgxo",
+    "https://www.bbc.com/news/articles/c3v79dz99eko",
+    "https://www.bbc.com/news/articles/cgml2djwwvno",
+    "https://www.bbc.com/news/articles/cg4gxng2y4xo",
+    "https://www.bbc.com/news/articles/cz7gw3l395ro",
+    "https://www.bbc.com/news/articles/clyg7r3nd3ko",
+    "https://www.bbc.com/news/articles/cy57p1v61d1o",
+    "https://www.bbc.com/news/articles/ce3gj7jjl7jo",
+    "https://www.bbc.com/news/articles/cy4wd11j0evo",
+    "https://www.bbc.com/news/articles/c07jpx7kkvpo",
+    "https://www.bbc.com/news/articles/c05vey47yddo",
+    "https://www.bbc.com/news/articles/cewzyqjq2ygo",
+    "https://www.bbc.com/news/articles/ce8w2r69wyeo",
+    "https://www.bbc.com/news/articles/cjwz6z14w65o",
+    "https://www.bbc.com/news/articles/cd9g2ggq4epo",
+    "https://www.bbc.com/news/articles/ckg12030ye3o",
+    "https://www.bbc.com/news/articles/cx2g3vmde0eo",
+    "https://www.bbc.com/news/articles/c4g5qx357dzo",
+    "https://www.bbc.com/news/articles/cm280j2jgvyo",
+    "https://www.bbc.com/news/articles/cdxg2r11g35o",
+    "https://www.bbc.com/news/articles/cdr2kmjd31ro",
+    "https://www.bbc.com/news/articles/c74xge7z8gqo",
+    "https://www.bbc.com/news/articles/cvg3jvkpdn2o",
+    "https://www.bbc.com/news/articles/cvg1vd95nl9o",
+    "https://www.bbc.com/news/articles/c24drvj8yl2o",
+    "https://www.bbc.com/news/articles/cnv6rjp468ro",
+    "https://www.bbc.com/news/articles/cpw011vpgy9o",
+    "https://www.bbc.com/news/articles/c4g058v3d35o",
+    "https://www.bbc.com/news/articles/cev7z9802zjo",
+    "https://www.bbc.com/news/articles/cwygrnjz9wro",
+    "https://www.bbc.com/news/articles/c204626888zo",
+    "https://www.bbc.com/news/articles/clygx788x7go",
+    "https://www.bbc.com/news/articles/cgmlzg0p8k2o",
+    "https://www.bbc.com/news/articles/c0j5qx9n887o",
+    "https://www.bbc.com/news/articles/cd6z3e1vdvzo",
+    "https://www.bbc.com/news/articles/cgqgl88w155o",
+    "https://www.bbc.com/news/articles/cp85jdqdyq7o",
+    "https://www.bbc.com/news/articles/cly897pv4j9o",
+    "https://www.bbc.com/news/articles/c78x973y5zvo",
+    "https://www.bbc.com/news/articles/c80j3rlp904o",
+    "https://www.bbc.com/news/articles/c5y6p5ypgmzo",
+    "https://www.bbc.com/news/articles/cge82vq9x9ro",
+    "https://www.bbc.com/news/articles/ckg3e63jwj8o",
+    "https://www.bbc.com/news/articles/c0q3747jvnwo",
+    "https://www.bbc.com/news/articles/cvgv92p6qzqo",
+    "https://www.bbc.com/news/articles/c2k8zyq0qgzo",
+    "https://www.bbc.com/news/articles/cpw0xw5nqglo",
+    "https://www.bbc.com/news/articles/cx2dyz6p3weo",
+    "https://www.bbc.com/news/articles/c1jk922dgjgo",
+    "https://www.bbc.com/news/articles/cx2lgvg5rl1o",
+    "https://www.bbc.com/news/live/cn5ge95q6y7t",
+    "https://www.bbc.com/news/articles/c86y5540vnno",
+    "https://www.bbc.com/news/articles/c75evve6l63o",
+    "https://www.bbc.com/news/articles/cgjzdlx983po",
+    "https://www.bbc.com/news/articles/cgjznzgly0po",
+    "https://www.bbc.com/news/articles/cp81wegj123o",
+    "https://www.bbc.com/news/articles/cre0xy1w1n3o",
+    "https://www.bbc.com/news/articles/c0rjpr575g9o",
+    "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no",
+    "https://www.bbc.com/news/articles/c0rjpxxpp49o",
+    "https://www.bbc.com/news/articles/c70n99e396jo",
+    "https://www.bbc.com/news/articles/c0lj18d5lx3o",
+    "https://www.bbc.com/news/articles/cqj9g11p1ezo",
+    "https://www.bbc.com/news/articles/c98gne0z0rxo",
+    "https://www.bbc.com/news/articles/cd6z382de8yo",
+    "https://www.bbc.com/sport/football/articles/c20j8jnezl8o",
+    "https://www.bbc.com/news/articles/cwy8ppn4142o",
+    "https://www.bbc.com/news/articles/c178z0p902vo",
+    "https://www.bbc.com/news/articles/cm214xk30vxo",
+    "https://www.bbc.com/news/articles/cly8gqj9r6go",
+    "https://www.bbc.co.uk/news/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4",
+    "https://www.bbc.com/news/articles/c20zg7prz12o",
+    "https://www.bbc.com/news/articles/cj4zlnezrl7o",
+    "https://www.bbc.com/news/articles/c0mgkvy4wr8o",
+    "https://www.bbc.com/news/articles/cg5ng0l35q7o",
+    "https://www.bbc.com/news/articles/cx24gl7jrgno",
+    "https://www.bbc.com/news/articles/clyx93597l4o",
+    "https://www.bbc.com/news/videos/ce3gev0nqqno",
+    "https://www.bbc.com/news/articles/czj1g3zjkg1o",
+    "https://www.bbc.com/news/articles/cd9gennp9plo",
+    "https://www.bbc.com/sport/football/articles/cy8pdr55219o",
+    "https://www.bbc.com/news/articles/cd9gzzxv7e3o",
+    "https://www.bbc.com/news/articles/cgrz1rx0ejzo",
+    "https://www.bbc.com/news/articles/c98qpz144nvo",
+    "https://www.bbc.com/news/articles/cjrqqd8lw2wo",
+    "https://www.bbc.com/news/videos/cd70zp0v3g4o",
+    "https://www.bbc.com/news/articles/cn8z5zvlz5yo",
+    "https://www.bbc.com/news/articles/c20zg54g5vvo",
+    "https://www.bbc.com/news/articles/cy7jm7k7pxzo",
+    "https://www.bbc.com/news/articles/cd9gepe7z4yo",
+    "https://www.bbc.com/news/articles/cddngg31n0mo",
+    "https://www.bbc.com/news/articles/cpv87wwmd0lo",
+    "https://www.bbc.com/news/articles/c5yk5yw49nqo",
+    "https://www.bbc.com/news/articles/c178zzw780xo",
+    "https://www.bbc.com/news/articles/c0j5v6e2py6o",
+    "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+    "https://www.bbc.com/news/articles/c0e5r28y3xqo",
+    "https://www.bbc.com/news/articles/cjd9jgnrdpko",
+    "https://www.bbc.com/news/articles/c15x38x7z8xo",
+    "https://www.bbc.com/sport/athletics/articles/c1e9vqn4xd6o",
+    "https://www.bbc.com/news/articles/cy5791kekwgo",
+    "https://www.bbc.com/news/articles/cwy8gwdvr10o",
+    "https://www.bbc.com/news/articles/c5yjj28jjd0o",
+    "https://www.bbc.com/news/articles/c0e55g03v2zo",
+    "https://www.bbc.com/news/articles/cdxzzqe82d2o",
+    "https://www.bbc.com/news/articles/cj4zze5lzjpo",
+    "https://www.bbc.com/news/articles/cwy884ekn0jo",
+    "https://www.bbc.com/news/live/cvg5qd5201vt",
+    "https://www.bbc.com/news/articles/cqxddwl93qjo",
+    "https://www.bbc.com/news/articles/c2lrxyke7kro",
+    "https://www.bbc.com/news/videos/cy7jjnekeepo",
+    "https://www.bbc.com/news/articles/cx2ggpq1742o",
+    "https://www.bbc.com/news/articles/cr5ll27z52do",
+    "https://www.bbc.com/news/articles/c2044vzrdpzo",
+    "https://www.bbc.com/news/articles/cj6d023rjpzo",
+    "https://www.bbc.com/news/articles/c93jj3gz8x0o",
+    "https://www.bbc.com/news/articles/cm215nnjyr0o",
+    "https://www.bbc.com/news/articles/c5yqqyly9n0o",
+    "https://www.bbc.com/news/articles/c2e4v7yvjx8o",
+    "https://www.bbc.com/news/articles/cr733nyjv9go",
+    "https://www.bbc.com/news/articles/cx2gg22yepno",
+    "https://www.bbc.com/news/articles/c747vezn7zwo",
+    "https://www.bbc.com/news/articles/cn71j8mlkk8o",
+    "https://www.bbc.com/news/videos/c0mgjz03zrko",
+    "https://www.bbc.com/news/articles/c77ee23n6zjo",
+    "https://www.bbc.com/sport/football/articles/cr731n9g521o",
+    "https://www.bbc.com/news/articles/cyv959eyjgjo",
+    "https://www.bbc.com/news/articles/c78xxg05w0zo",
+    "https://www.bbc.com/news/articles/c79542n0grwo",
+    "https://www.bbc.com/news/articles/clygpxq41l3o",
+    "https://www.bbc.com/news/articles/c4g0pnnj8xyo",
+    "https://www.bbc.com/news/articles/c05v28eqjyvo",
+    "https://www.bbc.com/news/live/c93j7975n9et",
+    "https://www.bbc.com/news/articles/c5yjegg892lo",
+    "https://www.bbc.com/news/articles/crk8rdz5131o",
+    "https://www.bbc.com/sport/football/articles/c0rj2kq978qo",
+    "https://www.bbc.com/sport/cricket/articles/c15x2denz30o",
+    "https://www.bbc.com/news/articles/cwy92qpv424o",
+    "https://www.bbc.com/news/articles/ckg2pm2kvkeo",
+    "https://www.bbc.com/news/articles/cy8l2wx0027o",
+    "https://www.bbc.com/news/articles/clyxp780xvro",
+    "https://www.bbc.com/news/videos/c9wnex8g5dyo",
+    "https://www.bbc.com/news/articles/cp8rp70x4n4o",
+    "https://www.bbc.com/news/videos/c9wnevqljd0o",
+    "https://www.bbc.com/news/videos/cx2g4l8mlgzo",
+    "https://www.bbc.com/news/articles/cwykdn0yn4wo",
+    "https://www.bbc.com/news/articles/cvg548lyjnyo",
+    "https://www.bbc.com/news/articles/cwy8ldyp2zwo",
+    "https://www.bbc.com/news/articles/cwy8e978xl8o",
+    "https://www.bbc.com/news/articles/cz7g5vv2gejo",
+    "https://www.bbc.com/news/articles/c6271gxpdkzo",
+    "https://www.bbc.com/news/articles/cy8lwnyj40eo",
+    "https://www.bbc.com/news/articles/cy4we8ev5lpo",
+    "https://www.bbc.com/news/articles/c93j2l32lzgo",
+    "https://www.bbc.com/news/articles/clygrnv2rdpo",
+    "https://www.bbc.com/news/articles/c204ymjnn80o",
+    "https://www.bbc.com/news/articles/cdr24g1p3vpo",
+    "https://www.bbc.com/news/videos/cpv83ndmezno",
+    "https://www.bbc.com/news/articles/c20lyk1lpn2o"
+  ],
+  "metadata": {
+    "https://www.bbc.com/news/articles/c8d5pl34vv0o": {
+      "headline": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:22.104681",
+      "last_seen": "2026-02-09T20:47:22.104691"
+    },
+    "https://www.bbc.com/news/articles/cj4zxknd7evo": {
+      "headline": "William and Catherine say they are 'deeply concerned' in first statement on Epstein revelations",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:25.049408",
+      "last_seen": "2026-02-09T20:47:25.049418"
+    },
+    "https://www.bbc.com/news/articles/c20z4254524o": {
+      "headline": "Outrage as South Korean official suggests 'importing' foreign women to boost birth rate",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:27.629888",
+      "last_seen": "2026-02-09T20:47:27.629898"
+    },
+    "https://www.bbc.com/news/articles/c62grw02gpjo": {
+      "headline": "Police pepper spray protesters as Israeli president visits Sydney",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:30.516405",
+      "last_seen": "2026-02-09T20:47:30.516414"
+    },
+    "https://www.bbc.com/news/articles/cjdjj44xxr5o": {
+      "headline": "Are Bangladesh's youth turning against India?",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:33.478896",
+      "last_seen": "2026-02-09T20:47:33.478907"
+    },
+    "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo": {
+      "headline": "Seahawks dominate Patriots to win Super Bowl",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:36.487777",
+      "last_seen": "2026-02-09T20:47:36.487789"
+    },
+    "https://www.bbc.com/news/articles/c394g7nnzmzo": {
+      "headline": "Bad Bunny makes history as Trump criticises 'terrible' Super Bowl show",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:39.156554",
+      "last_seen": "2026-02-09T20:47:39.156565"
+    },
+    "https://www.bbc.com/news/articles/c3vevxnw9pko": {
+      "headline": "Christchurch shooter seeks to overturn guilty plea",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:42.190936",
+      "last_seen": "2026-02-09T20:47:42.190946"
+    },
+    "https://www.bbc.com/sport/winter-olympics/live/cx2k6028mrpt": {
+      "headline": "Winter Olympics: New team alpine skiing event makes Games debut",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:45.287534",
+      "last_seen": "2026-02-09T20:47:45.287543"
+    },
+    "https://www.bbc.com/news/articles/cvgn2k285ypo": {
+      "headline": "The tech firms embracing a 72-hour working week",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:48.124844",
+      "last_seen": "2026-02-09T20:47:48.124853"
+    },
+    "https://www.bbc.com/news/articles/cx2p32g8dx7o": {
+      "headline": "KPop Demon Hunters sequel 'in process', reveals Golden songwriter",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:50.514969",
+      "last_seen": "2026-02-09T20:47:50.514978"
+    },
+    "https://www.bbc.com/news/articles/cjd9k852zdjo": {
+      "headline": "Japanese stocks surge as Takaichi secures historic election victory",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:52.886334",
+      "last_seen": "2026-02-09T20:47:52.886342"
+    },
+    "https://www.bbc.com/news/articles/ce8rl71n4r3o": {
+      "headline": "'Trump's psyche': The aide driving president's most controversial policies",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:55.383223",
+      "last_seen": "2026-02-09T20:47:55.383232"
+    },
+    "https://www.bbc.com/sport/articles/c338y36kngzo": {
+      "headline": "GB's Brookes and Muir target medals, plus curling semi-final - Monday's guide",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:47:57.836510",
+      "last_seen": "2026-02-09T20:47:57.836521"
+    },
+    "https://www.bbc.com/sport/articles/c4g5lj59rr9o": {
+      "headline": "Olympic bosses investigate why medals are breaking",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:00.699634",
+      "last_seen": "2026-02-09T20:48:00.699644"
+    },
+    "https://www.bbc.com/sport/articles/clyzw5vp07ko": {
+      "headline": "GB's Kenworthy receives death threats for anti-ICE post",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:03.286517",
+      "last_seen": "2026-02-09T20:48:03.286525"
+    },
+    "https://www.bbc.com/sport/articles/c98q5g51z4no": {
+      "headline": "Skier Vonn has surgery on leg fracture after crash in downhill",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:05.785636",
+      "last_seen": "2026-02-09T20:48:05.785645"
+    },
+    "https://www.bbc.com/news/articles/c5yqr485d84o": {
+      "headline": "This billionaire tested China's limits. It cost him his freedom",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:08.475710",
+      "last_seen": "2026-02-09T20:48:08.475719"
+    },
+    "https://www.bbc.com/news/articles/cm24j1dpexvo": {
+      "headline": "Plane makers chase Asia's super-rich with luxe new private jets",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:10.708039",
+      "last_seen": "2026-02-09T20:48:10.708048"
+    },
+    "https://www.bbc.com/news/articles/c62v248xkl5o": {
+      "headline": "Revealing names and faces of the victims of Iran's protest crackdown",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T20:48:13.085808",
+      "last_seen": "2026-02-09T20:48:13.085818"
+    },
+    "https://www.bbc.com/news/articles/cqlgv3z79klo": {
+      "headline": "King's 'profound concern' as police consider Andrew claims over Epstein",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:18:52.223454",
+      "last_seen": "2026-02-10T10:18:52.223464"
+    },
+    "https://www.bbc.com/news/articles/cvgv5yre39zo": {
+      "headline": "Maxwell refuses to answer questions about Epstein in congressional hearing",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:18:54.278834",
+      "last_seen": "2026-02-10T10:18:54.278845"
+    },
+    "https://www.bbc.com/news/articles/c77ely7nv2do": {
+      "headline": "Twenty years is 'a death sentence', son of British media tycoon jailed by China says",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:18:56.505048",
+      "last_seen": "2026-02-10T10:18:56.505057"
+    },
+    "https://www.bbc.com/news/articles/cvg5x2l3v0qo": {
+      "headline": "Palestinians say new Israeli measures in West Bank amount to de facto annexation",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:18:59.034359",
+      "last_seen": "2026-02-10T10:18:59.034371"
+    },
+    "https://www.bbc.com/news/articles/cddn7qed35eo": {
+      "headline": "Japan has given Takaichi a landslide win - but can she bring back the economy?",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:01.437150",
+      "last_seen": "2026-02-10T10:19:01.437161"
+    },
+    "https://www.bbc.com/news/articles/c5y6534y3y5o": {
+      "headline": "Thailand election: The result the polls never saw coming",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:04.384472",
+      "last_seen": "2026-02-10T10:19:04.384490"
+    },
+    "https://www.bbc.com/news/articles/cgrzjv1kykxo": {
+      "headline": "Trump's world order hangs over Europe on eve of key defence conference",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:07.482834",
+      "last_seen": "2026-02-10T10:19:07.482852"
+    },
+    "https://www.bbc.com/news/articles/cn0zed0dekgo": {
+      "headline": "Australia police defend actions after violence at protest over Israeli president visit",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:13.201068",
+      "last_seen": "2026-02-10T10:19:13.201085"
+    },
+    "https://www.bbc.com/news/articles/c62036e10d9o": {
+      "headline": "Oil, tariffs and farming: What we still don't know about US-India trade deal",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:16.085302",
+      "last_seen": "2026-02-10T10:19:16.085319"
+    },
+    "https://www.bbc.com/news/articles/c4geqzqd8qeo": {
+      "headline": "'We are at an hour of desperation' - Savannah Guthrie pleads for help for missing mother",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:19.859771",
+      "last_seen": "2026-02-10T10:19:19.859786"
+    },
+    "https://www.bbc.com/news/articles/c89kwj8kjy9o": {
+      "headline": "Cabinet ministers rally round Starmer as Scottish Labour leader tells him to quit",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:25.306930",
+      "last_seen": "2026-02-10T10:19:25.306945"
+    },
+    "https://www.bbc.com/news/articles/c0mgndkklvmo": {
+      "headline": "BBC assesses weaponry used to massacre Iran's protesters",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:28.670027",
+      "last_seen": "2026-02-10T10:19:28.670042"
+    },
+    "https://www.bbc.com/news/articles/c3wlpqpe2z4o": {
+      "headline": "Instagram and YouTube owners built 'addiction machines', trial hears",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:31.826481",
+      "last_seen": "2026-02-10T10:19:31.826498"
+    },
+    "https://www.bbc.com/sport/articles/czj1yj9pj00o": {
+      "headline": "Ukraine skeleton racer says war victim helmet banned",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:35.861351",
+      "last_seen": "2026-02-10T10:19:35.861369"
+    },
+    "https://www.bbc.com/sport/articles/c78v857elp9o": {
+      "headline": "In Pictures: The best of the Winter Olympics - day by day",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:39.701925",
+      "last_seen": "2026-02-10T10:19:39.701941"
+    },
+    "https://www.bbc.com/sport/articles/c0rjwee0g45o": {
+      "headline": "Dramatic or distracting? Olympic drone footage catches the eye",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:43.293752",
+      "last_seen": "2026-02-10T10:19:43.293768"
+    },
+    "https://www.bbc.com/culture/entertainment-news": {
+      "headline": "Celebrity appearances, controversial ads and other Super Bowl takeaways",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:19:47.414271",
+      "last_seen": "2026-02-10T10:19:47.414288"
+    },
+    "https://www.bbc.com/news/live/cr5lnzqdr5pt": {
+      "headline": "At least seven dead after school shooting in British Columbia, Canada, police say",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:40.539078",
+      "last_seen": "2026-02-11T11:17:40.539095"
+    },
+    "https://www.bbc.com/news/articles/cx2gmde0vjlo": {
+      "headline": "US lawmakers urge Andrew to testify over Epstein files",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:43.890378",
+      "last_seen": "2026-02-11T11:17:43.890395"
+    },
+    "https://www.bbc.com/news/videos/c5yr82796j4o": {
+      "headline": "Watch: BBC in Tehran for first time since protest crackdown",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:47.165766",
+      "last_seen": "2026-02-11T11:17:47.165786"
+    },
+    "https://www.bbc.com/sport/articles/clyzvzpndn0o": {
+      "headline": "South Korean skiers disqualified for using banned wax",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:50.379422",
+      "last_seen": "2026-02-11T11:17:50.379439"
+    },
+    "https://www.bbc.com/news/articles/cx2407jrn83o": {
+      "headline": "Ex-police chief said Trump told him in 2006 'everyone' knew of Epstein's behaviour",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:55.140480",
+      "last_seen": "2026-02-11T11:17:55.140500"
+    },
+    "https://www.bbc.com/news/articles/c24dp6veylqo": {
+      "headline": "Shaheen Malik: An acid attack survivor's fight for justice and dignity",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:17:57.961462",
+      "last_seen": "2026-02-11T11:17:57.961479"
+    },
+    "https://www.bbc.com/news/articles/cwyk917xy8no": {
+      "headline": "Dad shot daughter after 'arguing about Donald Trump'",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:00.974207",
+      "last_seen": "2026-02-11T11:18:00.974224"
+    },
+    "https://www.bbc.com/news/articles/cvgjwpx9j2do": {
+      "headline": "Indonesia preparing to deploy up to 8,000 soldiers to Gaza",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:04.107877",
+      "last_seen": "2026-02-11T11:18:04.107895"
+    },
+    "https://www.bbc.com/news/articles/cy4wdgxr081o": {
+      "headline": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:07.359873",
+      "last_seen": "2026-02-11T11:18:07.359892"
+    },
+    "https://www.bbc.com/news/articles/ckgkjg76lvxo": {
+      "headline": "Afghan asylum seeker guilty of raping girl, 12",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:10.390119",
+      "last_seen": "2026-02-11T11:18:10.390140"
+    },
+    "https://www.bbc.com/news/articles/c07jnmgy8jmo": {
+      "headline": "Sanctions-busting shadow ships are increasing - the big question is what to do about them",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:14.763599",
+      "last_seen": "2026-02-11T11:18:14.763616"
+    },
+    "https://www.bbc.com/news/articles/c2d1pz3pxewo": {
+      "headline": "Pilot praised after crash-landing faulty Somali passenger plane on seashore",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:18.019691",
+      "last_seen": "2026-02-11T11:18:18.019712"
+    },
+    "https://www.bbc.com/news/articles/c80jrg08rk3o": {
+      "headline": "Six key questions about Keir Starmer's future",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:21.234219",
+      "last_seen": "2026-02-11T11:18:21.234237"
+    },
+    "https://www.bbc.com/sport/articles/c5y5j358zrlo": {
+      "headline": "Ukrainian racer says he will wear 'helmet of remembrance' despite IOC ban",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:24.767586",
+      "last_seen": "2026-02-11T11:18:24.767603"
+    },
+    "https://www.bbc.com/sport/articles/c2lrn7qw75yo": {
+      "headline": "Speed skating star Leerdam wins gold as fiance Paul weeps",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:27.847240",
+      "last_seen": "2026-02-11T11:18:27.847256"
+    },
+    "https://www.bbc.com/news/articles/cn71y2l51zno": {
+      "headline": "As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:34.118896",
+      "last_seen": "2026-02-11T11:18:34.118912"
+    },
+    "https://www.bbc.com/news/articles/clyg4lgm1d2o": {
+      "headline": "New video game sees Africans fantasise about taking back looted treasures",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:18:37.169392",
+      "last_seen": "2026-02-11T11:18:37.169409"
+    },
+    "https://www.bbc.com/news/articles/c1e98w35qyjo": {
+      "headline": "Police identify 18-year-old as suspect in Canada school shooting",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:37.546823",
+      "last_seen": "2026-02-12T11:33:37.546840"
+    },
+    "https://www.bbc.com/news/articles/cj98nvre2jeo": {
+      "headline": "Principal shot in Thailand school siege dies of injuries",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:40.328236",
+      "last_seen": "2026-02-12T11:33:40.328253"
+    },
+    "https://www.bbc.com/news/articles/ckglv1n4dzeo": {
+      "headline": "UK PM tells Man Utd co-owner Sir Jim Ratcliffe to apologise for 'colonised' remarks",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:45.336478",
+      "last_seen": "2026-02-12T11:33:45.336496"
+    },
+    "https://www.bbc.com/news/articles/cm2r4d5mnero": {
+      "headline": "Australia's first female Liberal leader faces leadership challenge",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:48.208235",
+      "last_seen": "2026-02-12T11:33:48.208250"
+    },
+    "https://www.bbc.com/news/live/cd03znje072t": {
+      "headline": "Bangladesh votes in first election since Gen Z protests ousted former PM Sheikh Hasina",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:50.973909",
+      "last_seen": "2026-02-12T11:33:50.973918"
+    },
+    "https://www.bbc.com/news/articles/cdjm33kwxx4o": {
+      "headline": "Lyse Doucet: In Tehran, rallies for Iran's revolution overshadowed by discontent and defiance",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:54.071590",
+      "last_seen": "2026-02-12T11:33:54.071606"
+    },
+    "https://www.bbc.com/news/articles/ce3x0lnyxd3o": {
+      "headline": "Dawson's Creek star James Van Der Beek dies aged 48",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:33:57.183603",
+      "last_seen": "2026-02-12T11:33:57.183621"
+    },
+    "https://www.bbc.com/news/videos/cy8g741k920o": {
+      "headline": "Listen to emergency call of Australian boy who swam for hours to save family",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:00.303766",
+      "last_seen": "2026-02-12T11:34:00.303782"
+    },
+    "https://www.bbc.com/news/videos/c2047rm71npo": {
+      "headline": "Three issues that matter to voters in the Bangladesh election",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:03.304063",
+      "last_seen": "2026-02-12T11:34:03.304079"
+    },
+    "https://www.bbc.com/sport/articles/c6274mgve33o": {
+      "headline": "Ukrainian skeleton slider wears helmet of remembrance despite IOC ban",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:09.596344",
+      "last_seen": "2026-02-12T11:34:09.596362"
+    },
+    "https://www.bbc.com/sport/articles/czr073m884yo": {
+      "headline": "‘Costly and devastating’ error sees GB's Fear & Gibson miss skating medal",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:12.454427",
+      "last_seen": "2026-02-12T11:34:12.454446"
+    },
+    "https://www.bbc.com/sport/articles/c1mj9mpz7p5o": {
+      "headline": "‘Hard to forgive’ love cheat biathlete, says ex-girlfriend",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:15.568640",
+      "last_seen": "2026-02-12T11:34:15.568658"
+    },
+    "https://www.bbc.com/news/articles/ce8w95knp55o": {
+      "headline": "More to explore",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:25.933838",
+      "last_seen": "2026-02-12T11:34:25.933855"
+    },
+    "https://www.bbc.com/news/articles/cx2y85xdyw3o": {
+      "headline": "The Dutch love four-day working weeks, but are they sustainable?",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:34:28.924394",
+      "last_seen": "2026-02-12T11:34:28.924410"
+    },
+    "https://www.bbc.com/news/articles/cn0zdd7yl4vo": {
+      "headline": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:44:58.036636",
+      "last_seen": "2026-02-13T11:44:58.036652"
+    },
+    "https://www.bbc.com/news/videos/c99jr58m4z4o": {
+      "headline": "'My son is dead': Swiss bar owners confronted by fire victim families",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:02.671194",
+      "last_seen": "2026-02-13T11:45:02.671208"
+    },
+    "https://www.bbc.com/news/articles/c14mlrd460vo": {
+      "headline": "Scottish city finally sees sunshine after 21 days of gloom",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:06.392715",
+      "last_seen": "2026-02-13T11:45:06.392734"
+    },
+    "https://www.bbc.com/news/articles/czj17z7l9jmo": {
+      "headline": "'Everyone knows somebody affected' - small Canadian town united in grief after mass shooting",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:10.044887",
+      "last_seen": "2026-02-13T11:45:10.044899"
+    },
+    "https://www.bbc.com/news/articles/c5yqr8eggvwo": {
+      "headline": "Norway's former PM charged with gross corruption over Epstein links",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:13.750014",
+      "last_seen": "2026-02-13T11:45:13.750029"
+    },
+    "https://www.bbc.com/sport/articles/cly2jknym20o": {
+      "headline": "Choi, 17, denies Kim historic third halfpipe gold",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:17.967568",
+      "last_seen": "2026-02-13T11:45:17.967582"
+    },
+    "https://www.bbc.com/news/articles/c0rjg9ddgkqo": {
+      "headline": "Victims of shootings in Canada named by police",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:21.335463",
+      "last_seen": "2026-02-13T11:45:21.335477"
+    },
+    "https://www.bbc.com/news/articles/c4g5pjn3p50o": {
+      "headline": "Sussan Ley and the glass cliff: Does Australian politics still have a problem with women?",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:25.045995",
+      "last_seen": "2026-02-13T11:45:25.046009"
+    },
+    "https://www.bbc.com/news/articles/cx2rlzqjglvo": {
+      "headline": "DHS shutdown looms as funding bill fails over immigration demands",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:28.125621",
+      "last_seen": "2026-02-13T11:45:28.125635"
+    },
+    "https://www.bbc.com/news/articles/c20znqe2yqlo": {
+      "headline": "Can a pulse of electricity to the brain make us less selfish?",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:31.646662",
+      "last_seen": "2026-02-13T11:45:31.646678"
+    },
+    "https://www.bbc.com/news/articles/c78x9256pn7o": {
+      "headline": "Costs from Trump's tariffs paid almost entirely by US consumers, NY Fed says",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:35.543592",
+      "last_seen": "2026-02-13T11:45:35.543605"
+    },
+    "https://www.bbc.com/sport/articles/cx2dnd7g209o": {
+      "headline": "How a Ukrainian athlete's tribute to the dead cost him his place at the Games",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:39.102604",
+      "last_seen": "2026-02-13T11:45:39.102627"
+    },
+    "https://www.bbc.com/sport/articles/c4gjmlnr004o": {
+      "headline": "Nordic combined - the only event in which women cannot compete",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:42.557383",
+      "last_seen": "2026-02-13T11:45:42.557398"
+    },
+    "https://www.bbc.com/news/articles/cpw05yv4y9po": {
+      "headline": "Wuthering Heights soundtrack the perfect pivot for Charli XCX, says Brat co-writer",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:47.966280",
+      "last_seen": "2026-02-13T11:45:47.966294"
+    },
+    "https://www.bbc.com/news/articles/c3ewje4xk3yo": {
+      "headline": "The US economy is growing - so where are all the jobs?",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:52.075903",
+      "last_seen": "2026-02-13T11:45:52.075917"
+    },
+    "https://www.bbc.com/news/articles/crk845r4vlyo": {
+      "headline": "What is the SAVE America Act that mandates voter ID?",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T11:45:55.049548",
+      "last_seen": "2026-02-13T11:45:55.049566"
+    },
+    "https://www.bbc.com/news/articles/c4g5380xwqjo": {
+      "headline": "Ukraine's ex-energy minister detained while attempting to leave country",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:09.728137",
+      "last_seen": "2026-02-16T10:32:09.728156"
+    },
+    "https://www.bbc.com/news/articles/c8r15eyvk2do": {
+      "headline": "Eleven killed in Israeli strikes on Gaza, rescuers say",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:13.353444",
+      "last_seen": "2026-02-16T10:32:13.353460"
+    },
+    "https://www.bbc.com/news/articles/c5yrv2g16e2o": {
+      "headline": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:16.879431",
+      "last_seen": "2026-02-16T10:32:16.879450"
+    },
+    "https://www.bbc.com/news/articles/crm87109l3wo": {
+      "headline": "Bedding firm backs down on 'Swift Home' trademark after Taylor Swift appeal",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:20.291258",
+      "last_seen": "2026-02-16T10:32:20.291274"
+    },
+    "https://www.bbc.com/news/articles/cz7genjx9njo": {
+      "headline": "Bondi criticised after saying all Epstein files have been released",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:24.276549",
+      "last_seen": "2026-02-16T10:32:24.276566"
+    },
+    "https://www.bbc.com/news/articles/cj3vve6v17xo": {
+      "headline": "'Dragged out and set on fire' - the Bangladesh mob killing that shocked the world",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:27.729481",
+      "last_seen": "2026-02-16T10:32:27.729498"
+    },
+    "https://www.bbc.com/news/videos/cn71g84yn12o": {
+      "headline": "Watch: Singles pray to a goddess for love in Bangkok",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:31.007067",
+      "last_seen": "2026-02-16T10:32:31.007082"
+    },
+    "https://www.bbc.com/news/articles/c875d3d3x34o": {
+      "headline": "China confirms visa-free travel for UK and Canadian nationals",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:33.882276",
+      "last_seen": "2026-02-16T10:32:33.882294"
+    },
+    "https://www.bbc.com/sport/cricket/articles/cp8r25807zro": {
+      "headline": "'India v Pakistan becoming a political rivalry rather than sporting one'",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:37.582303",
+      "last_seen": "2026-02-16T10:32:37.582319"
+    },
+    "https://www.bbc.com/news/articles/cm289we7jzdo": {
+      "headline": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:41.222712",
+      "last_seen": "2026-02-16T10:32:41.222728"
+    },
+    "https://www.bbc.com/news/articles/c4gjx1j1nkjo": {
+      "headline": "Trump has big plans for Venezuela's oil but are they feasible?",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:44.352466",
+      "last_seen": "2026-02-16T10:32:44.352480"
+    },
+    "https://www.bbc.com/news/articles/cx2k23mlkzlo": {
+      "headline": "Ex-church minister who admitted child sexual abuse to BBC still free years later",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:47.610916",
+      "last_seen": "2026-02-16T10:32:47.610934"
+    },
+    "https://www.bbc.com/news/articles/czr0lykl4g4o": {
+      "headline": "Hundreds of thousands join Iran protests around the world",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:50.769149",
+      "last_seen": "2026-02-16T10:32:50.769168"
+    },
+    "https://www.bbc.com/sport/articles/cm2x7m17jydo": {
+      "headline": "Weston & Stoecker win GB's second gold of day",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:53.911173",
+      "last_seen": "2026-02-16T10:32:53.911189"
+    },
+    "https://www.bbc.com/sport/articles/cz6ejev058eo": {
+      "headline": "Why are Team GB so good at skeleton?",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:32:57.250286",
+      "last_seen": "2026-02-16T10:32:57.250301"
+    },
+    "https://www.bbc.com/sport/articles/cjen94eg9nko": {
+      "headline": "Canada accused of cheating again in curling row",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:33:00.687282",
+      "last_seen": "2026-02-16T10:33:00.687302"
+    },
+    "https://www.bbc.com/sport/articles/c24dnjnp39qo": {
+      "headline": "The samba-dancing skier making Brazil Olympic history",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:33:04.094314",
+      "last_seen": "2026-02-16T10:33:04.094332"
+    },
+    "https://www.bbc.com/news/articles/cz6eljqvyp1o": {
+      "headline": "Is this a 'very Chinese time in your life'? The trend boosting China's soft power",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:33:07.584775",
+      "last_seen": "2026-02-16T10:33:07.584793"
+    },
+    "https://www.bbc.com/news/articles/cd6z007wgg6o": {
+      "headline": "After the landslide: Can India reset ties with a BNP-led Bangladesh?",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:33:10.846256",
+      "last_seen": "2026-02-16T10:33:10.846275"
+    },
+    "https://www.bbc.com/news/articles/cm2y2538lz8o": {
+      "headline": "The spectacular multimillion-euro heist nobody noticed",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:33:14.246563",
+      "last_seen": "2026-02-16T10:33:14.246581"
+    },
+    "https://www.bbc.com/news/articles/cn9e1q4797wo": {
+      "headline": "Andrew released under investigation after arrest on suspicion of misconduct in public office",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:13.624002",
+      "last_seen": "2026-02-20T10:57:13.624018"
+    },
+    "https://www.bbc.com/news/articles/c0k1xkllknmo": {
+      "headline": "Austrian climber found guilty after girlfriend froze to death on mountain",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:20.424274",
+      "last_seen": "2026-02-20T10:57:20.424302"
+    },
+    "https://www.bbc.com/news/articles/cj98egkl7l1o": {
+      "headline": "UK has not given US permission to use RAF bases for Iran strikes",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:25.660487",
+      "last_seen": "2026-02-20T10:57:25.660503"
+    },
+    "https://www.bbc.com/news/articles/c875p9q59vjo": {
+      "headline": "Trump's foreign policy dilemma laid bare by Iran tensions",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:30.611243",
+      "last_seen": "2026-02-20T10:57:30.611261"
+    },
+    "https://www.bbc.com/news/articles/ce8n4l8elpgo": {
+      "headline": "The Russian village that lost its men to war",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:36.501193",
+      "last_seen": "2026-02-20T10:57:36.501210"
+    },
+    "https://www.bbc.com/news/articles/c1d64p3q2d0o": {
+      "headline": "US build-up of warships and fighter jets tracked near Iran",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:42.915602",
+      "last_seen": "2026-02-20T10:57:42.915620"
+    },
+    "https://www.bbc.com/news/articles/czx41k51595o": {
+      "headline": "Epstein eyed record label investment to access women, files suggest",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:48.495584",
+      "last_seen": "2026-02-20T10:57:48.495600"
+    },
+    "https://www.bbc.com/news/articles/cx2g8rz7yedo": {
+      "headline": "Single vaccine could protect against all coughs, colds and flus, researchers say",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:57:56.051875",
+      "last_seen": "2026-02-20T10:57:56.051892"
+    },
+    "https://www.bbc.com/news/articles/c23z0kdypm3o": {
+      "headline": "Hamas holds vote to choose new interim leader, source tells BBC",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:04.063704",
+      "last_seen": "2026-02-20T10:58:04.063719"
+    },
+    "https://www.bbc.com/news/articles/c4grxvdyy00o": {
+      "headline": "Lion DNA helps convict poachers for first time",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:09.796019",
+      "last_seen": "2026-02-20T10:58:09.796040"
+    },
+    "https://www.bbc.com/news/articles/cvg3n7j8xyqo": {
+      "headline": "Cats may hold clues for human cancer treatment",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:14.980185",
+      "last_seen": "2026-02-20T10:58:14.980201"
+    },
+    "https://www.bbc.com/news/articles/c2lrjlkpw2eo": {
+      "headline": "Revealed: The billions given to charity by ordinary Indians every year",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:20.061165",
+      "last_seen": "2026-02-20T10:58:20.061182"
+    },
+    "https://www.bbc.com/news/articles/ceqvjwre8vqo": {
+      "headline": "South African farmers fear devastation as foot-and-mouth takes hold",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:24.886229",
+      "last_seen": "2026-02-20T10:58:24.886247"
+    },
+    "https://www.bbc.com/news/articles/cy0dy1v14d1o": {
+      "headline": "The Grammy winner bringing traditional country to new audiences",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:29.685553",
+      "last_seen": "2026-02-20T10:58:29.685569"
+    },
+    "https://www.bbc.com/news/articles/c98g1klxnpxo": {
+      "headline": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:36.218413",
+      "last_seen": "2026-02-20T10:58:36.218431"
+    },
+    "https://www.bbc.co.uk/news/resources/idt-8d2b6944-4f7a-45b4-96fd-2d92499ff97d": {
+      "headline": "As Trump retreats from climate goals, China is becoming a green superpower",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:41.824760",
+      "last_seen": "2026-02-20T10:58:41.824775"
+    },
+    "https://www.bbc.com/news/articles/ce3kenge1k9o": {
+      "headline": "What could happen if the US strikes Iran? Here are seven scenarios",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:46.573325",
+      "last_seen": "2026-02-20T10:58:46.573342"
+    },
+    "https://www.bbc.com/news/articles/ckg1dl410q9o": {
+      "headline": "The Chinese AI app sending Hollywood into a panic",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:51.346709",
+      "last_seen": "2026-02-20T10:58:51.346724"
+    },
+    "https://www.bbc.com/news/articles/c747nqply93o": {
+      "headline": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T10:58:56.361459",
+      "last_seen": "2026-02-20T10:58:56.361475"
+    },
+    "https://www.bbc.com/news/articles/c4g57gqqln1o": {
+      "headline": "Trump directs US government to prepare release of files on aliens and UFOs",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:06.317254",
+      "last_seen": "2026-02-20T12:46:06.317266"
+    },
+    "https://www.bbc.com/news/articles/c78j01n775ko": {
+      "headline": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:17.164094",
+      "last_seen": "2026-02-20T12:46:17.164104"
+    },
+    "https://www.bbc.com/sport/ice-hockey/articles/c07j84jpn55o": {
+      "headline": "US clinch ice hockey gold with overtime winner",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:22.391786",
+      "last_seen": "2026-02-20T12:46:22.391795"
+    },
+    "https://www.bbc.com/news/articles/c4g02nxx2plo": {
+      "headline": "Two sisters among those killed in Lake Tahoe avalanche",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:25.958180",
+      "last_seen": "2026-02-20T12:46:25.958201"
+    },
+    "https://www.bbc.com/news/articles/c39wj94me31o": {
+      "headline": "New Mexico reopens criminal inquiry into Jeffrey Epstein's Zorro Ranch",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:31.294608",
+      "last_seen": "2026-02-20T12:46:31.294618"
+    },
+    "https://www.bbc.com/news/articles/ck3rkwzdnwo": {
+      "headline": "Watch as Andrew Mountbatten-Windsor's car leaves police station",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:34.693630",
+      "last_seen": "2026-02-20T12:46:34.693641"
+    },
+    "https://www.bbc.com/news/articles/czr0vj13ezjo": {
+      "headline": "Shell-shocked, haunted photo of Andrew will be part of how arrest is remembered",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:39.636903",
+      "last_seen": "2026-02-20T12:46:39.636912"
+    },
+    "https://www.bbc.com/news/world/africa-66866567": {
+      "headline": "South African farmers fear devastation as foot-and-mouth takes hold",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:46:44.637963",
+      "last_seen": "2026-02-20T12:46:44.637973"
+    },
+    "https://www.bbc.com/news/articles/cvgj9p15y87o": {
+      "headline": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:13.686478",
+      "last_seen": "2026-02-23T12:03:13.686488"
+    },
+    "https://www.bbc.com/news/articles/cy4wywnrdd8o": {
+      "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:15.595428",
+      "last_seen": "2026-02-23T12:03:15.595438"
+    },
+    "https://www.bbc.com/news/articles/c75ere6z4weo": {
+      "headline": "Powerful winter storm slams US northeast as NYC issues travel ban",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:18.624062",
+      "last_seen": "2026-02-23T12:03:18.624079"
+    },
+    "https://www.bbc.com/news/articles/cvg18588mdko": {
+      "headline": "Kim Jong Un re-appointed leader of North Korea's ruling party",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:22.377737",
+      "last_seen": "2026-02-23T12:03:22.377756"
+    },
+    "https://www.bbc.com/news/articles/cp32l9w9pgyo": {
+      "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:25.304982",
+      "last_seen": "2026-02-23T12:03:25.305001"
+    },
+    "https://www.bbc.com/news/articles/cwygnw91wl0o": {
+      "headline": "How South Korea's democracy rallied after the president tried to impose military rule",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:28.375958",
+      "last_seen": "2026-02-23T12:03:28.375974"
+    },
+    "https://www.bbc.com/news/articles/cn5gk15rr70o": {
+      "headline": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:31.095175",
+      "last_seen": "2026-02-23T12:03:31.095192"
+    },
+    "https://www.bbc.com/news/articles/c15xvy7k2q5o": {
+      "headline": "How budget fast fashion is taking small-town India by storm",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:33.903658",
+      "last_seen": "2026-02-23T12:03:33.903675"
+    },
+    "https://www.bbc.com/sport/articles/cgl5z5xg303o": {
+      "headline": "Milan-Cortina 2026 closes with ceremony in Verona",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:37.154526",
+      "last_seen": "2026-02-23T12:03:37.154542"
+    },
+    "https://www.bbc.com/news/articles/czx7e100r48o": {
+      "headline": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:40.609033",
+      "last_seen": "2026-02-23T12:03:40.609050"
+    },
+    "https://www.bbc.com/news/articles/cj0dme87l84o": {
+      "headline": "Former UK PM Brown urges police probe into whether Andrew used RAF bases to meet Epstein",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:43.872845",
+      "last_seen": "2026-02-23T12:03:43.872862"
+    },
+    "https://www.bbc.com/news/articles/c98qjl76eyro": {
+      "headline": "The uncertainties facing businesses and consumers after Trump's tariff changes",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:47.073770",
+      "last_seen": "2026-02-23T12:03:47.073787"
+    },
+    "https://www.bbc.com/news/articles/cy7jnvdzpr7o": {
+      "headline": "Greenland says 'no thanks' to Trump US hospital boat",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:50.056978",
+      "last_seen": "2026-02-23T12:03:50.056995"
+    },
+    "https://www.bbc.com/news/articles/cn0e30d9wj9o": {
+      "headline": "Are you cut out for living and working in Antarctica?",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:53.114414",
+      "last_seen": "2026-02-23T12:03:53.114431"
+    },
+    "https://www.bbc.com/news/articles/cpv8r34mn0po": {
+      "headline": "How football is helping girls fight against forced marriage",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:56.870493",
+      "last_seen": "2026-02-23T12:03:56.870510"
+    },
+    "https://www.bbc.com/news/articles/c0r4l1gn801o": {
+      "headline": "I didn't know I was experiencing burnout until it was too late",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:03:59.779438",
+      "last_seen": "2026-02-23T12:03:59.779454"
+    },
+    "https://www.bbc.com/news/articles/c5yvvjw8pdvo": {
+      "headline": "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:04:02.532725",
+      "last_seen": "2026-02-23T12:04:02.532742"
+    },
+    "https://www.bbc.com/news/articles/cnv61zv534eo": {
+      "headline": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:04:06.356005",
+      "last_seen": "2026-02-23T12:04:06.356022"
+    },
+    "https://www.bbc.com/news/articles/cx2lp7xwql4o": {
+      "headline": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:32.261588",
+      "last_seen": "2026-02-24T10:23:32.261612"
+    },
+    "https://www.bbc.com/news/articles/c4gqkg87293o": {
+      "headline": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:36.275829",
+      "last_seen": "2026-02-24T10:23:36.275848"
+    },
+    "https://www.bbc.com/news/articles/cvg53xp5857o": {
+      "headline": "First British baby born using transplanted womb from deceased donor",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:41.096889",
+      "last_seen": "2026-02-24T10:23:41.096905"
+    },
+    "https://www.bbc.com/news/articles/cx289g1yw97o": {
+      "headline": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:45.819446",
+      "last_seen": "2026-02-24T10:23:45.819463"
+    },
+    "https://www.bbc.com/news/articles/c8xy5jzrrxzo": {
+      "headline": "Lord Mandelson arrested on suspicion of misconduct in public office",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:49.616735",
+      "last_seen": "2026-02-24T10:23:49.616755"
+    },
+    "https://www.bbc.com/news/articles/c89k0lxlpnpo": {
+      "headline": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:54.793296",
+      "last_seen": "2026-02-24T10:23:54.793319"
+    },
+    "https://www.bbc.com/news/articles/cly3vm7ddjmo": {
+      "headline": "Nick Reiner pleads not guilty to killing parents Rob and Michele",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:23:58.689348",
+      "last_seen": "2026-02-24T10:23:58.689364"
+    },
+    "https://www.bbc.com/news/articles/c743dzvp73xo": {
+      "headline": "Landmark royal commission into antisemitism prompted by Bondi shooting begins",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:02.440818",
+      "last_seen": "2026-02-24T10:24:02.440835"
+    },
+    "https://www.bbc.com/news/articles/c2e4ng18nv3o": {
+      "headline": "Queen tells Gisèle Pelicot her new memoir left her 'speechless'",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:06.577885",
+      "last_seen": "2026-02-24T10:24:06.577902"
+    },
+    "https://www.bbc.com/news/articles/c4gj20xzw39o": {
+      "headline": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:10.671360",
+      "last_seen": "2026-02-24T10:24:10.671375"
+    },
+    "https://www.bbc.com/news/articles/c4gjz2p8wr2o": {
+      "headline": "New Zealand backs removing Andrew from royal line of succession",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:14.208212",
+      "last_seen": "2026-02-24T10:24:14.208229"
+    },
+    "https://www.bbc.com/news/articles/czx4pyx9g46o": {
+      "headline": "Explosion near Moscow train station kills police officer",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:18.380989",
+      "last_seen": "2026-02-24T10:24:18.381012"
+    },
+    "https://www.bbc.com/news/articles/cj32l00k47lo": {
+      "headline": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:22.937151",
+      "last_seen": "2026-02-24T10:24:22.937168"
+    },
+    "https://www.bbc.com/news/articles/c75e4l4796vo": {
+      "headline": "Is US crime at a historic low?",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:26.986173",
+      "last_seen": "2026-02-24T10:24:26.986189"
+    },
+    "https://www.bbc.com/news/articles/c6268292086o": {
+      "headline": "‘We pray for peace’: Indian filmmaker from troubled state who won a Bafta",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:31.033134",
+      "last_seen": "2026-02-24T10:24:31.033153"
+    },
+    "https://www.bbc.com/news/articles/c1jkw18e19jo": {
+      "headline": "Who was El Mencho, Mexico's most wanted man?",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:34.673847",
+      "last_seen": "2026-02-24T10:24:34.673864"
+    },
+    "https://www.bbc.com/news/articles/clyxrv8z0vdo": {
+      "headline": "Anti-government student protests spread to more Iranian universities",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:39.981982",
+      "last_seen": "2026-02-24T10:24:39.981999"
+    },
+    "https://www.bbc.com/news/articles/ck12030ye3o": {
+      "headline": "'A conman stole my money and bought his wife a 10-carat diamond ring'",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:43.743105",
+      "last_seen": "2026-02-24T10:24:43.743125"
+    },
+    "https://www.bbc.com/news/videos/c77e6824pgxo": {
+      "headline": "What to watch for during Trump's State of the Union address",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:24:47.771814",
+      "last_seen": "2026-02-24T10:24:47.771830"
+    },
+    "https://www.bbc.com/news/articles/c3v79dz99eko": {
+      "headline": "Trump says 'our nation is back' as he delivers State of the Union address",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:42:27.481482",
+      "last_seen": "2026-02-25T10:42:27.481499"
+    },
+    "https://www.bbc.com/news/articles/cgml2djwwvno": {
+      "headline": "Threat of further violence looms after Mexican cartel rampage",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:42:35.566802",
+      "last_seen": "2026-02-25T10:42:35.566819"
+    },
+    "https://www.bbc.com/news/articles/cg4gxng2y4xo": {
+      "headline": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:42:41.397122",
+      "last_seen": "2026-02-25T10:42:41.397142"
+    },
+    "https://www.bbc.com/news/articles/cz7gw3l395ro": {
+      "headline": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:42:47.074290",
+      "last_seen": "2026-02-25T10:42:47.074320"
+    },
+    "https://www.bbc.com/news/articles/clyg7r3nd3ko": {
+      "headline": "Ukraine remembers its dead as war enters a fifth year",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:42:56.339758",
+      "last_seen": "2026-02-25T10:42:56.339774"
+    },
+    "https://www.bbc.com/news/articles/cy57p1v61d1o": {
+      "headline": "What is the UK's new travel system and how are dual nationals affected?",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:03.306833",
+      "last_seen": "2026-02-25T10:43:03.306854"
+    },
+    "https://www.bbc.com/news/articles/ce3gj7jjl7jo": {
+      "headline": "Louvre museum director resigns months after high-profile heist",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:07.767064",
+      "last_seen": "2026-02-25T10:43:07.767082"
+    },
+    "https://www.bbc.com/news/articles/cy4wd11j0evo": {
+      "headline": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:12.995178",
+      "last_seen": "2026-02-25T10:43:12.995195"
+    },
+    "https://www.bbc.com/news/articles/c07jpx7kkvpo": {
+      "headline": "Mexico hunts 23 inmates sprung from jail during wave of violence",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:17.965538",
+      "last_seen": "2026-02-25T10:43:17.965556"
+    },
+    "https://www.bbc.com/news/articles/c05vey47yddo": {
+      "headline": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:23.448986",
+      "last_seen": "2026-02-25T10:43:23.449003"
+    },
+    "https://www.bbc.com/news/articles/cewzyqjq2ygo": {
+      "headline": "Nigeria denies report it paid 'huge' ransom to free pupils in mass abduction",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:28.400392",
+      "last_seen": "2026-02-25T10:43:28.400418"
+    },
+    "https://www.bbc.com/news/articles/ce8w2r69wyeo": {
+      "headline": "Who is Abigail Spanberger, the Democrat set to give State of the Union response",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:34.144858",
+      "last_seen": "2026-02-25T10:43:34.144878"
+    },
+    "https://www.bbc.com/news/articles/cjwz6z14w65o": {
+      "headline": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:42.163765",
+      "last_seen": "2026-02-25T10:43:42.163782"
+    },
+    "https://www.bbc.com/news/articles/cd9g2ggq4epo": {
+      "headline": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:48.428074",
+      "last_seen": "2026-02-25T10:43:48.428092"
+    },
+    "https://www.bbc.com/news/articles/ckg12030ye3o": {
+      "headline": "A conman stole my money and bought his wife a 10-carat diamond ring",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T10:43:54.719583",
+      "last_seen": "2026-02-25T10:43:54.719599"
+    },
+    "https://www.bbc.com/news/articles/cx2g3vmde0eo": {
+      "headline": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:22.605963",
+      "last_seen": "2026-02-26T10:43:22.605981"
+    },
+    "https://www.bbc.com/news/articles/c4g5qx357dzo": {
+      "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:26.131021",
+      "last_seen": "2026-02-26T10:43:26.131038"
+    },
+    "https://www.bbc.com/news/articles/cm280j2jgvyo": {
+      "headline": "Six months after two police officers killed, will conspiracy theorist who ran into bush ever be found?",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:29.629631",
+      "last_seen": "2026-02-26T10:43:29.629651"
+    },
+    "https://www.bbc.com/news/articles/cdxg2r11g35o": {
+      "headline": "US 'suitcase murderer' deported from Bali after 11 years in jail",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:34.803303",
+      "last_seen": "2026-02-26T10:43:34.803366"
+    },
+    "https://www.bbc.com/news/articles/cdr2kmjd31ro": {
+      "headline": "Why Asian firms are not cheering Trump tariff ruling",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:37.823519",
+      "last_seen": "2026-02-26T10:43:37.823539"
+    },
+    "https://www.bbc.com/news/articles/c74xge7z8gqo": {
+      "headline": "'I can't breathe any more': Inside the night a mob burned a newspaper",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:43.467760",
+      "last_seen": "2026-02-26T10:43:43.467784"
+    },
+    "https://www.bbc.com/news/articles/cvg3jvkpdn2o": {
+      "headline": "Australian PM apologises after calling child sex abuse survivor and advocate 'difficult'",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:47.068408",
+      "last_seen": "2026-02-26T10:43:47.068426"
+    },
+    "https://www.bbc.com/news/articles/cvg1vd95nl9o": {
+      "headline": "US and Iran to hold talks as pressure for nuclear deal builds",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:50.461889",
+      "last_seen": "2026-02-26T10:43:50.461909"
+    },
+    "https://www.bbc.com/news/articles/c24drvj8yl2o": {
+      "headline": "Four shot dead on US-registered speedboat by border guards, Cuba says",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:54.189392",
+      "last_seen": "2026-02-26T10:43:54.189409"
+    },
+    "https://www.bbc.com/news/articles/cnv6rjp468ro": {
+      "headline": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:43:57.649734",
+      "last_seen": "2026-02-26T10:43:57.649752"
+    },
+    "https://www.bbc.com/news/articles/cpw011vpgy9o": {
+      "headline": "Two charged over alleged murder of Sydney grandfather kidnapped by mistake",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:00.961467",
+      "last_seen": "2026-02-26T10:44:00.961484"
+    },
+    "https://www.bbc.com/news/articles/c4g058v3d35o": {
+      "headline": "Politician brothers convicted in Brazil for ordering murder of prominent councillor",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:04.091865",
+      "last_seen": "2026-02-26T10:44:04.091882"
+    },
+    "https://www.bbc.com/news/articles/cev7z9802zjo": {
+      "headline": "Nepal election 2026: When is the vote and who are the main candidates?",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:07.589197",
+      "last_seen": "2026-02-26T10:44:07.589215"
+    },
+    "https://www.bbc.com/news/articles/cwygrnjz9wro": {
+      "headline": "Is Ethiopia heading back to war in Tigray?",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:10.953076",
+      "last_seen": "2026-02-26T10:44:10.953099"
+    },
+    "https://www.bbc.com/news/articles/c204626888zo": {
+      "headline": "Why scientists fear Emperor penguins' annual moult may be killing them",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:17.447892",
+      "last_seen": "2026-02-26T10:44:17.447914"
+    },
+    "https://www.bbc.com/news/articles/clygx788x7go": {
+      "headline": "Brazil floods: 'I saw people trapped in their homes crying for help'",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:20.768844",
+      "last_seen": "2026-02-26T10:44:20.768867"
+    },
+    "https://www.bbc.com/news/articles/cgmlzg0p8k2o": {
+      "headline": "Fact-checking Trump's longest ever State of the Union",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:44:23.840827",
+      "last_seen": "2026-02-26T10:44:23.840850"
+    },
+    "https://www.bbc.com/news/articles/c0j5qx9n887o": {
+      "headline": "Pakistan strikes Kabul and Kandahar as Afghan Taliban escalate cross-border attacks",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:33.842434",
+      "last_seen": "2026-02-27T10:50:33.842453"
+    },
+    "https://www.bbc.com/news/articles/cd6z3e1vdvzo": {
+      "headline": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:37.388420",
+      "last_seen": "2026-02-27T10:50:37.388437"
+    },
+    "https://www.bbc.com/news/articles/cgqgl88w155o": {
+      "headline": "Remains found in Tasmania most likely belong to missing Belgian backpacker",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:43.396556",
+      "last_seen": "2026-02-27T10:50:43.396574"
+    },
+    "https://www.bbc.com/news/articles/cp85jdqdyq7o": {
+      "headline": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:47.368476",
+      "last_seen": "2026-02-27T10:50:47.368498"
+    },
+    "https://www.bbc.com/news/articles/cly897pv4j9o": {
+      "headline": "Hong Kong jailed my dad to stop me speaking out, says activist",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:51.952900",
+      "last_seen": "2026-02-27T10:50:51.952927"
+    },
+    "https://www.bbc.com/news/articles/c78x973y5zvo": {
+      "headline": "The Boys' Love at the heart of Heated Rivalry is a familiar tale in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:55.420534",
+      "last_seen": "2026-02-27T10:50:55.420554"
+    },
+    "https://www.bbc.com/news/articles/c80j3rlp904o": {
+      "headline": "American citizen among those killed in Cuba boat shooting, US official says",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:50:59.687535",
+      "last_seen": "2026-02-27T10:50:59.687553"
+    },
+    "https://www.bbc.com/news/articles/c5y6p5ypgmzo": {
+      "headline": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:03.299058",
+      "last_seen": "2026-02-27T10:51:03.299075"
+    },
+    "https://www.bbc.com/news/articles/cge82vq9x9ro": {
+      "headline": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:07.226074",
+      "last_seen": "2026-02-27T10:51:07.226094"
+    },
+    "https://www.bbc.com/news/articles/ckg3e63jwj8o": {
+      "headline": "Danish PM calls snap election with Greenland issue centre-stage",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:11.175711",
+      "last_seen": "2026-02-27T10:51:11.175730"
+    },
+    "https://www.bbc.com/news/articles/c0q3747jvnwo": {
+      "headline": "North Korea could 'get along' with US, says Kim Jong Un",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:14.956374",
+      "last_seen": "2026-02-27T10:51:14.956397"
+    },
+    "https://www.bbc.com/news/articles/cvgv92p6qzqo": {
+      "headline": "EU states told to use existing fund for safe abortions after citizens' petition",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:19.769881",
+      "last_seen": "2026-02-27T10:51:19.769898"
+    },
+    "https://www.bbc.com/news/articles/c2k8zyq0qgzo": {
+      "headline": "Bridgerton's first East Asian family is a beautiful thing, say cast",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:37.921854",
+      "last_seen": "2026-02-27T10:51:37.921872"
+    },
+    "https://www.bbc.com/news/articles/cpw0xw5nqglo": {
+      "headline": "Pokémon at 30: Fans explain what the series means to them",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T10:51:42.624539",
+      "last_seen": "2026-02-27T10:51:42.624555"
+    },
+    "https://www.bbc.com/news/articles/cx2dyz6p3weo": {
+      "headline": "Trump says 'there will likely be more' US deaths as Iran strikes to continue until 'all' goals achieved",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:32:50.431911",
+      "last_seen": "2026-03-02T09:32:50.431929"
+    },
+    "https://www.bbc.com/news/articles/c1jk922dgjgo": {
+      "headline": "Allies of US in the Gulf bear brunt of Iran attacks",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:32:54.892724",
+      "last_seen": "2026-03-02T09:32:54.892808"
+    },
+    "https://www.bbc.com/news/articles/cx2lgvg5rl1o": {
+      "headline": "Iran's regime is still intact - the coming days will show if it can hold out",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:32:59.007805",
+      "last_seen": "2026-03-02T09:32:59.007826"
+    },
+    "https://www.bbc.com/news/live/cn5ge95q6y7t": {
+      "headline": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:02.440558",
+      "last_seen": "2026-03-02T09:33:02.440575"
+    },
+    "https://www.bbc.com/news/articles/c86y5540vnno": {
+      "headline": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:05.723020",
+      "last_seen": "2026-03-02T09:33:05.723038"
+    },
+    "https://www.bbc.com/news/articles/c75evve6l63o": {
+      "headline": "Oil prices jump after ships attacked near Strait of Hormuz",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:08.899728",
+      "last_seen": "2026-03-02T09:33:08.899748"
+    },
+    "https://www.bbc.com/news/articles/cgjzdlx983po": {
+      "headline": "Could Kim's teen daughter become North Korea's next leader?",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:12.621574",
+      "last_seen": "2026-03-02T09:33:12.621590"
+    },
+    "https://www.bbc.com/news/articles/cgjznzgly0po": {
+      "headline": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:15.459809",
+      "last_seen": "2026-03-02T09:33:15.459825"
+    },
+    "https://www.bbc.com/news/articles/cp81wegj123o": {
+      "headline": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:18.692501",
+      "last_seen": "2026-03-02T09:33:18.692519"
+    },
+    "https://www.bbc.com/news/articles/cre0xy1w1n3o": {
+      "headline": "Olivia Dean crowned new UK queen of pop as Brit Awards",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:33:21.136992",
+      "last_seen": "2026-03-02T09:33:21.137010"
+    },
+    "https://www.bbc.com/news/articles/c0rjpr575g9o": {
+      "headline": "Flights cancelled and new travel warnings issued after Iran strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:25.746883",
+      "last_seen": "2026-03-02T09:33:25.746905"
+    },
+    "https://www.bbc.com/sport/athletics/articles/c9v0j7xd22no": {
+      "headline": "Kenya's Kosgei wins Tokyo Marathon in record time",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:28.880357",
+      "last_seen": "2026-03-02T09:33:28.880374"
+    },
+    "https://www.bbc.com/news/articles/c0rjpxxpp49o": {
+      "headline": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:32.091610",
+      "last_seen": "2026-03-02T09:33:32.091626"
+    },
+    "https://www.bbc.com/news/articles/c70n99e396jo": {
+      "headline": "Catherine shares first message entirely in Welsh for St David's Day",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:38.565964",
+      "last_seen": "2026-03-02T09:33:38.565983"
+    },
+    "https://www.bbc.com/news/articles/c0lj18d5lx3o": {
+      "headline": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:42.236086",
+      "last_seen": "2026-03-02T09:33:42.236103"
+    },
+    "https://www.bbc.com/news/articles/cqj9g11p1ezo": {
+      "headline": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:45.101456",
+      "last_seen": "2026-03-02T09:33:45.101472"
+    },
+    "https://www.bbc.com/news/articles/c98gne0z0rxo": {
+      "headline": "The third man who links Andrew with Jeffrey Epstein",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:48.420240",
+      "last_seen": "2026-03-02T09:33:48.420257"
+    },
+    "https://www.bbc.com/news/articles/cd6z382de8yo": {
+      "headline": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:51.395093",
+      "last_seen": "2026-03-02T09:33:51.395110"
+    },
+    "https://www.bbc.com/sport/football/articles/c20j8jnezl8o": {
+      "headline": "Iran, the US, and a World Cup that starts in three months",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:54.423053",
+      "last_seen": "2026-03-02T09:33:54.423070"
+    },
+    "https://www.bbc.com/news/articles/cwy8ppn4142o": {
+      "headline": "Mountaineers weigh up risks and rewards after Austrian climb ended in manslaughter conviction",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:33:57.486728",
+      "last_seen": "2026-03-02T09:33:57.486746"
+    },
+    "https://www.bbc.com/news/articles/c178z0p902vo": {
+      "headline": "Three days in, we still have no idea where this war is heading",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:25:49.099676",
+      "last_seen": "2026-03-03T13:25:49.099695"
+    },
+    "https://www.bbc.com/news/articles/cm214xk30vxo": {
+      "headline": "Trump's Iran endgame unclear after mixed messaging on war aims",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:25:53.149680",
+      "last_seen": "2026-03-03T13:25:53.149697"
+    },
+    "https://www.bbc.com/news/articles/cly8gqj9r6go": {
+      "headline": "What is behind the strategy to take out Iran's leadership?",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:25:58.533170",
+      "last_seen": "2026-03-03T13:25:58.533192"
+    },
+    "https://www.bbc.co.uk/news/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4": {
+      "headline": "Inside the Mar-a-Lago war room as Trump monitored US-Israeli strikes on Iran",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:03.365507",
+      "last_seen": "2026-03-03T13:26:03.365528"
+    },
+    "https://www.bbc.com/news/articles/c20zg7prz12o": {
+      "headline": "Leaked photo, hot tub, and Pizzagate - video of Clintons' testimony on Epstein ties released",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:08.331480",
+      "last_seen": "2026-03-03T13:26:08.331501"
+    },
+    "https://www.bbc.com/news/articles/cj4zlnezrl7o": {
+      "headline": "France to boost nuclear arsenal and extend deterrence to European allies",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:12.015064",
+      "last_seen": "2026-03-03T13:26:12.015082"
+    },
+    "https://www.bbc.com/news/articles/c0mgkvy4wr8o": {
+      "headline": "At least 169 people killed in South Sudan 'surprise' attack",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:15.615314",
+      "last_seen": "2026-03-03T13:26:15.615330"
+    },
+    "https://www.bbc.com/news/articles/cg5ng0l35q7o": {
+      "headline": "Melania Trump chairs UN Security Council meeting on children in conflict amid Iran strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:19.714550",
+      "last_seen": "2026-03-03T13:26:19.714568"
+    },
+    "https://www.bbc.com/news/articles/cx24gl7jrgno": {
+      "headline": "India and Canada reset ties with 'landmark' nuclear energy deal",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:23.823291",
+      "last_seen": "2026-03-03T13:26:23.823307"
+    },
+    "https://www.bbc.com/news/articles/clyx93597l4o": {
+      "headline": "Jacinda Ardern's move to Australia renews spotlight on New Zealand's brain drain problem",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:29.019475",
+      "last_seen": "2026-03-03T13:26:29.019492"
+    },
+    "https://www.bbc.com/news/videos/ce3gev0nqqno": {
+      "headline": "Watch dramatic hot air balloon rescue 900ft in the air",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:33.312080",
+      "last_seen": "2026-03-03T13:26:33.312101"
+    },
+    "https://www.bbc.com/news/articles/czj1g3zjkg1o": {
+      "headline": "Carney to push his middle power strategy during Australia visit",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:38.169368",
+      "last_seen": "2026-03-03T13:26:38.169389"
+    },
+    "https://www.bbc.com/news/articles/cd9gennp9plo": {
+      "headline": "Why independence is still a political dividing line in Scotland",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:42.608471",
+      "last_seen": "2026-03-03T13:26:42.608492"
+    },
+    "https://www.bbc.com/sport/football/articles/cy8pdr55219o": {
+      "headline": "What can players and clubs do about 'AI slop'?",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:46.284637",
+      "last_seen": "2026-03-03T13:26:46.284662"
+    },
+    "https://www.bbc.com/news/articles/cd9gzzxv7e3o": {
+      "headline": "Jammu and Kashmir's long road to India cricketing glory",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:51.858271",
+      "last_seen": "2026-03-03T13:26:51.858288"
+    },
+    "https://www.bbc.com/news/articles/cgrz1rx0ejzo": {
+      "headline": "Anglican divisions deepen as rebel clerics pick rival to first female leader",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:26:55.762075",
+      "last_seen": "2026-03-03T13:26:55.762098"
+    },
+    "https://www.bbc.com/news/articles/c98qpz144nvo": {
+      "headline": "Israel launches new strikes on Iran as US identifies first American soldiers killed in conflict",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:03:47.031939",
+      "last_seen": "2026-03-04T09:03:47.031978"
+    },
+    "https://www.bbc.com/news/articles/cjrqqd8lw2wo": {
+      "headline": "'All red lines have been crossed': Gulf states weigh response to Iranian strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:03:52.507552",
+      "last_seen": "2026-03-04T09:03:52.507571"
+    },
+    "https://www.bbc.com/news/videos/cd70zp0v3g4o": {
+      "headline": "Watch: Footage from across Iran shows scale of strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:03:55.936239",
+      "last_seen": "2026-03-04T09:03:55.936256"
+    },
+    "https://www.bbc.com/news/articles/cn8z5zvlz5yo": {
+      "headline": "Why Europe's leaders have struggled to speak as one on Iran",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:03:59.570565",
+      "last_seen": "2026-03-04T09:03:59.570584"
+    },
+    "https://www.bbc.com/news/articles/c20zg54g5vvo": {
+      "headline": "Trump says US Navy will protect ships in Middle East 'if necessary'",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:03.360252",
+      "last_seen": "2026-03-04T09:04:03.360270"
+    },
+    "https://www.bbc.com/news/articles/cy7jm7k7pxzo": {
+      "headline": "US commerce secretary to testify before Congress about Epstein ties",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:07.819722",
+      "last_seen": "2026-03-04T09:04:07.819739"
+    },
+    "https://www.bbc.com/news/articles/cd9gepe7z4yo": {
+      "headline": "Andrew Mountbatten-Windsor gives up lease on Crown Estate property",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:11.836516",
+      "last_seen": "2026-03-04T09:04:11.836533"
+    },
+    "https://www.bbc.com/news/articles/cddngg31n0mo": {
+      "headline": "China removes three retired generals from national advisory body",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:15.742710",
+      "last_seen": "2026-03-04T09:04:15.742758"
+    },
+    "https://www.bbc.com/news/articles/cpv87wwmd0lo": {
+      "headline": "Guilty verdict for US father of teenage school shooter",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:19.554094",
+      "last_seen": "2026-03-04T09:04:19.554111"
+    },
+    "https://www.bbc.com/news/articles/c5yk5yw49nqo": {
+      "headline": "Australian girl, 8, killed in snowmobile accident in Japan",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:23.161696",
+      "last_seen": "2026-03-04T09:04:23.161713"
+    },
+    "https://www.bbc.com/news/articles/c178zzw780xo": {
+      "headline": "India's top court angry after junior judge cites fake AI-generated orders",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:26.682804",
+      "last_seen": "2026-03-04T09:04:26.682816"
+    },
+    "https://www.bbc.com/news/articles/c0j5v6e2py6o": {
+      "headline": "Mexican drug lord 'El Mencho' buried in golden coffin",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:30.018934",
+      "last_seen": "2026-03-04T09:04:30.018953"
+    },
+    "https://www.bbc.com/news/articles/cly2m5e5ke4o": {
+      "headline": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:34.435642",
+      "last_seen": "2026-03-04T09:04:34.435659"
+    },
+    "https://www.bbc.com/news/articles/c0e5r28y3xqo": {
+      "headline": "New charges for son of Norway's crown princess on trial for rape",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:39.389740",
+      "last_seen": "2026-03-04T09:04:39.389759"
+    },
+    "https://www.bbc.com/news/articles/cjd9jgnrdpko": {
+      "headline": "Goodbye officer, hello touchscreen - a vision for policing in Ethiopia",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:43.588877",
+      "last_seen": "2026-03-04T09:04:43.588895"
+    },
+    "https://www.bbc.com/news/articles/c15x38x7z8xo": {
+      "headline": "The little town making nearly all of China's lanterns",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:47.440759",
+      "last_seen": "2026-03-04T09:04:47.440778"
+    },
+    "https://www.bbc.com/sport/athletics/articles/c1e9vqn4xd6o": {
+      "headline": "I take training seriously but Ramadan is more important",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:50.979098",
+      "last_seen": "2026-03-04T09:04:50.979116"
+    },
+    "https://www.bbc.com/news/articles/cy5791kekwgo": {
+      "headline": "The spin-off game starring a 'weirdo' Pokémon that's got reviewers raving",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:54.341002",
+      "last_seen": "2026-03-04T09:04:54.341019"
+    },
+    "https://www.bbc.com/news/articles/cwy8gwdvr10o": {
+      "headline": "Nepal leaders call on voters to ensure success of 'historic' election",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:04:58.779739",
+      "last_seen": "2026-03-04T09:04:58.779758"
+    },
+    "https://www.bbc.com/news/articles/c5yjj28jjd0o": {
+      "headline": "US Senate backs Trump's war powers as Iran launches new missile barrage at Israel",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:32:46.215132",
+      "last_seen": "2026-03-05T11:32:46.215144"
+    },
+    "https://www.bbc.com/news/articles/c0e55g03v2zo": {
+      "headline": "Meanwhile, the Pentagon identifies two more servicemen believed to have been killed in a drone attack in Kuwait on Sunday.",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:32:48.475022",
+      "last_seen": "2026-03-05T11:32:48.475033"
+    },
+    "https://www.bbc.com/news/articles/cdxzzqe82d2o": {
+      "headline": "How depleted weapons stockpiles could affect the Iran conflict",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:32:52.743407",
+      "last_seen": "2026-03-05T11:32:52.743419"
+    },
+    "https://www.bbc.com/news/articles/cj4zze5lzjpo": {
+      "headline": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:32:57.023894",
+      "last_seen": "2026-03-05T11:32:57.023905"
+    },
+    "https://www.bbc.com/news/articles/cwy884ekn0jo": {
+      "headline": "Stock markets and oil prices still volatile over fears Iran war may drag on",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:00.361077",
+      "last_seen": "2026-03-05T11:33:00.361089"
+    },
+    "https://www.bbc.com/news/live/cvg5qd5201vt": {
+      "headline": "Nepal votes in first general election since Gen Z protests overturned government",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:03.623833",
+      "last_seen": "2026-03-05T11:33:03.623846"
+    },
+    "https://www.bbc.com/news/articles/cqxddwl93qjo": {
+      "headline": "China sets lowest economic growth target since 1991",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:07.793762",
+      "last_seen": "2026-03-05T11:33:07.793779"
+    },
+    "https://www.bbc.com/news/articles/c2lrxyke7kro": {
+      "headline": "It is also the first time the target has been lowered since it was cut to 'around 5%' in 2023.",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:09.989926",
+      "last_seen": "2026-03-05T11:33:09.989937"
+    },
+    "https://www.bbc.com/news/videos/cy7jjnekeepo": {
+      "headline": "Watch: Moment wolf rescued from canal in northern Italy",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:12.178494",
+      "last_seen": "2026-03-05T11:33:12.178505"
+    },
+    "https://www.bbc.com/news/articles/cx2ggpq1742o": {
+      "headline": "Millions of Cubans plunged into darkness as fuel crisis deepens",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:16.266962",
+      "last_seen": "2026-03-05T11:33:16.266973"
+    },
+    "https://www.bbc.com/news/articles/cr5ll27z52do": {
+      "headline": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:33:19.442789",
+      "last_seen": "2026-03-05T11:33:19.442800"
+    },
+    "https://www.bbc.com/news/articles/c2044vzrdpzo": {
+      "headline": "US says 'firepower over Iran to surge dramatically' as Israel bombards Beirut and Tehran",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:39:36.640613",
+      "last_seen": "2026-03-06T10:39:36.640633"
+    },
+    "https://www.bbc.com/news/articles/cj6d023rjpzo": {
+      "headline": "Israelis back war with Iran despite uncertainty and fatigue",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:39:43.784779",
+      "last_seen": "2026-03-06T10:39:43.784793"
+    },
+    "https://www.bbc.com/news/articles/c93jj3gz8x0o": {
+      "headline": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:39:48.865046",
+      "last_seen": "2026-03-06T10:39:48.865100"
+    },
+    "https://www.bbc.com/news/articles/cm215nnjyr0o": {
+      "headline": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:39:52.559334",
+      "last_seen": "2026-03-06T10:39:52.559351"
+    },
+    "https://www.bbc.com/news/articles/c5yqqyly9n0o": {
+      "headline": "Iran school and nearby military base struck multiple times, satellite image reveals",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:39:56.260383",
+      "last_seen": "2026-03-06T10:39:56.260403"
+    },
+    "https://www.bbc.com/news/articles/c2e4v7yvjx8o": {
+      "headline": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:01.358757",
+      "last_seen": "2026-03-06T10:40:01.358782"
+    },
+    "https://www.bbc.com/news/articles/cr733nyjv9go": {
+      "headline": "Tears and cheers as controversial long-running Australian breakfast radio show implodes",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:06.368103",
+      "last_seen": "2026-03-06T10:40:06.368121"
+    },
+    "https://www.bbc.com/news/articles/cx2gg22yepno": {
+      "headline": "Savannah Guthrie plans return to NBC as search for missing mother continues",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:09.481178",
+      "last_seen": "2026-03-06T10:40:09.481200"
+    },
+    "https://www.bbc.com/news/articles/c747vezn7zwo": {
+      "headline": "Sri Lanka takes control of second Iranian vessel a day after US sub attack",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:16.119177",
+      "last_seen": "2026-03-06T10:40:16.119193"
+    },
+    "https://www.bbc.com/news/articles/cn71j8mlkk8o": {
+      "headline": "Fuel and remittances: How Iran conflict hits India at home",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:20.216832",
+      "last_seen": "2026-03-06T10:40:20.216852"
+    },
+    "https://www.bbc.com/news/videos/c0mgjz03zrko": {
+      "headline": "Frozen in time: The once-glamorous Iranian embassy in the US sits empty",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:26.650435",
+      "last_seen": "2026-03-06T10:40:26.650456"
+    },
+    "https://www.bbc.com/news/articles/c77ee23n6zjo": {
+      "headline": "Weekly quiz: How much will a Spice Girls commemorative coin cost?",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:30.287793",
+      "last_seen": "2026-03-06T10:40:30.287809"
+    },
+    "https://www.bbc.com/sport/football/articles/cr731n9g521o": {
+      "headline": "Disillusionment and disbelief - thousands leave early as Spurs in freefall",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:33.972052",
+      "last_seen": "2026-03-06T10:40:33.972073"
+    },
+    "https://www.bbc.com/news/articles/cyv959eyjgjo": {
+      "headline": "These women fought in Ethiopia's last civil war and warn against another one",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:40:38.616117",
+      "last_seen": "2026-03-06T10:40:38.616135"
+    },
+    "https://www.bbc.com/news/articles/c78xxg05w0zo": {
+      "headline": "Mojtaba Khamenei to succeed his father as Iran's supreme leader as oil prices surge",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:01.930012",
+      "last_seen": "2026-03-09T11:54:01.930028"
+    },
+    "https://www.bbc.com/news/articles/c79542n0grwo": {
+      "headline": "Oil prices surge above $110 and shares slide over Iran war",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:06.469454",
+      "last_seen": "2026-03-09T11:54:06.469476"
+    },
+    "https://www.bbc.com/news/articles/clygpxq41l3o": {
+      "headline": "'Night turned into day': Iranians tell of strikes on oil depots",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:15.157442",
+      "last_seen": "2026-03-09T11:54:15.157460"
+    },
+    "https://www.bbc.com/news/articles/c4g0pnnj8xyo": {
+      "headline": "In maps: Nine days of strikes across the Middle East",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:19.421162",
+      "last_seen": "2026-03-09T11:54:19.421178"
+    },
+    "https://www.bbc.com/news/articles/c05v28eqjyvo": {
+      "headline": "Starmer and Trump speak for first time since president's Iran criticism",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:23.336711",
+      "last_seen": "2026-03-09T11:54:23.336739"
+    },
+    "https://www.bbc.com/news/live/c93j7975n9et": {
+      "headline": "Nepal election 2026: Balendra Shah on course to be PM as party heads for landslide",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:26.651171",
+      "last_seen": "2026-03-09T11:54:26.651188"
+    },
+    "https://www.bbc.com/news/articles/c5yjegg892lo": {
+      "headline": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:30.358386",
+      "last_seen": "2026-03-09T11:54:30.358404"
+    },
+    "https://www.bbc.com/news/articles/crk8rdz5131o": {
+      "headline": "Spain's migrants welcome amnesty: 'It will help us in every way'",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:34.355223",
+      "last_seen": "2026-03-09T11:54:34.355245"
+    },
+    "https://www.bbc.com/sport/football/articles/c0rj2kq978qo": {
+      "headline": "Masked fan unplugs VAR monitor in German match",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:38.698184",
+      "last_seen": "2026-03-09T11:54:38.698201"
+    },
+    "https://www.bbc.com/sport/cricket/articles/c15x2denz30o": {
+      "headline": "Superb India crush New Zealand to defend T20 title",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:42.813749",
+      "last_seen": "2026-03-09T11:54:42.813766"
+    },
+    "https://www.bbc.com/news/articles/cwy92qpv424o": {
+      "headline": "Australians must prove they are over 18 to access porn under new laws",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:46.068507",
+      "last_seen": "2026-03-09T11:54:46.068526"
+    },
+    "https://www.bbc.com/news/articles/ckg2pm2kvkeo": {
+      "headline": "Rihanna's Beverly Hills home hit by gunfire, police say",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:49.705395",
+      "last_seen": "2026-03-09T11:54:49.705416"
+    },
+    "https://www.bbc.com/news/articles/cy8l2wx0027o": {
+      "headline": "Huge fire at Glasgow Central Station prompts evacuations as building collapses",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:53.304004",
+      "last_seen": "2026-03-09T11:54:53.304024"
+    },
+    "https://www.bbc.com/news/articles/clyxp780xvro": {
+      "headline": "‘Mind boggles’ at doubts over legality of Iran war, Israeli president says",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:54:57.512900",
+      "last_seen": "2026-03-09T11:54:57.512917"
+    },
+    "https://www.bbc.com/news/videos/c9wnex8g5dyo": {
+      "headline": "Kuwaiti government high-rise hit by Iranian drone",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:55:01.125686",
+      "last_seen": "2026-03-09T11:55:01.125704"
+    },
+    "https://www.bbc.com/news/articles/cp8rp70x4n4o": {
+      "headline": "UK opens charter flights booking portal for Britons in Dubai",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:55:05.196427",
+      "last_seen": "2026-03-09T11:55:05.196448"
+    },
+    "https://www.bbc.com/news/videos/c9wnevqljd0o": {
+      "headline": "‘This is a moment of grave peril’ - UN humanitarian chief",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T11:55:11.054084",
+      "last_seen": "2026-03-09T11:55:11.054105"
+    },
+    "https://www.bbc.com/news/videos/cx2g4l8mlgzo": {
+      "headline": "Trump says Iran war will be over 'pretty quickly' but US hasn't 'won enough' yet",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:34.390886",
+      "last_seen": "2026-03-10T09:44:34.390905"
+    },
+    "https://www.bbc.com/news/articles/cwykdn0yn4wo": {
+      "headline": "Iran's new leader has never been tested. He now faces an existential battle",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:39.282528",
+      "last_seen": "2026-03-10T09:44:39.282549"
+    },
+    "https://www.bbc.com/news/articles/cvg548lyjnyo": {
+      "headline": "US missile hit military base near Iran school, video analysis shows",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:43.023038",
+      "last_seen": "2026-03-10T09:44:43.023066"
+    },
+    "https://www.bbc.com/news/articles/cwy8ldyp2zwo": {
+      "headline": "Iranians deeply divided over Mojtaba Khamenei's rise to power",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:46.394414",
+      "last_seen": "2026-03-10T09:44:46.394430"
+    },
+    "https://www.bbc.com/news/articles/cwy8e978xl8o": {
+      "headline": "Five Iranian footballers granted Australian visas after anthem protest",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:49.684875",
+      "last_seen": "2026-03-10T09:44:49.684897"
+    },
+    "https://www.bbc.com/news/articles/cz7g5vv2gejo": {
+      "headline": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:53.012661",
+      "last_seen": "2026-03-10T09:44:53.012680"
+    },
+    "https://www.bbc.com/news/articles/c6271gxpdkzo": {
+      "headline": "Why is China set to approve a new law promoting 'ethnic unity'?",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:44:58.461918",
+      "last_seen": "2026-03-10T09:44:58.461937"
+    },
+    "https://www.bbc.com/news/articles/cy8lwnyj40eo": {
+      "headline": "Alleged Bondi gunman seeks order to suppress family's identity",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:01.445536",
+      "last_seen": "2026-03-10T09:45:01.445555"
+    },
+    "https://www.bbc.com/news/articles/cy4we8ev5lpo": {
+      "headline": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:04.473426",
+      "last_seen": "2026-03-10T09:45:04.473442"
+    },
+    "https://www.bbc.com/news/articles/c93j2l32lzgo": {
+      "headline": "Hundreds of teenagers report for duty as Croatia reinstates conscription",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:07.672073",
+      "last_seen": "2026-03-10T09:45:07.672091"
+    },
+    "https://www.bbc.com/news/articles/clygrnv2rdpo": {
+      "headline": "Live Nation reaches settlement in US monopoly case",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:11.011845",
+      "last_seen": "2026-03-10T09:45:11.011864"
+    },
+    "https://www.bbc.com/news/articles/c204ymjnn80o": {
+      "headline": "Istanbul's mayor on trial for corruption charges",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:14.088507",
+      "last_seen": "2026-03-10T09:45:14.088525"
+    },
+    "https://www.bbc.com/news/articles/cdr24g1p3vpo": {
+      "headline": "US teacher killed after toilet paper prank goes wrong",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:17.126412",
+      "last_seen": "2026-03-10T09:45:17.126430"
+    },
+    "https://www.bbc.com/news/videos/cpv83ndmezno": {
+      "headline": "Watch: Ukrainian drone experts to share their knowledge in the Middle East",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:25.932597",
+      "last_seen": "2026-03-10T09:45:25.932617"
+    },
+    "https://www.bbc.com/news/articles/c20lyk1lpn2o": {
+      "headline": "Has Hollywood golden boy Timothée Chalamet lost his shine?",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T09:45:29.499893",
+      "last_seen": "2026-03-10T09:45:29.499913"
+    }
+  }
+}

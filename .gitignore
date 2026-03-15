@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+global-headlines-*-*.json
+
+# Nested git repos and non-pipeline folders (optional: remove if you want them tracked)
+archive/
+public/
+global-headlines-restore/
+.ipynb_checkpoints/
+

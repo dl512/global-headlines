@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09888-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306429733/inside-information-new-share-repurchase-program-and-dividend-policy",
+    "https://news.futunn.com/hk/notice/306344365/date-of-board-meeting",
+    "https://news.futunn.com/hk/notice/306548067/announcement-of-the-fourth-quarter-and-full-year-2025-results"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306429733/inside-information-new-share-repurchase-program-and-dividend-policy": {
+      "headline": "內幕消息 新股份回購計劃及股息政策",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:15:43.198626",
+      "last_seen": "2026-02-09T21:15:43.198634"
+    },
+    "https://news.futunn.com/hk/notice/306344365/date-of-board-meeting": {
+      "headline": "董事會會議召開日期",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:43:38.371754",
+      "last_seen": "2026-02-10T10:43:38.371769"
+    },
+    "https://news.futunn.com/hk/notice/306548067/announcement-of-the-fourth-quarter-and-full-year-2025-results": {
+      "headline": "2025年第四季度及全年業績公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:44:17.852132",
+      "last_seen": "2026-02-27T11:44:17.852148"
+    }
+  }
+}

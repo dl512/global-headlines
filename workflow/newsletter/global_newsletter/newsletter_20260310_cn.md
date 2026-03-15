@@ -1,0 +1,28 @@
+## 最重要的消息
+
+- [美國總統唐納德·特朗普表示](https://www.bbc.com/news/videos/cx2g4l8mlgzo)伊朗戰爭將「很快」結束，但不是在本週，預測近期油價的上漲後將會下跌，並強調美國的重大軍事行動，包括擊沉一艘伊朗軍艦。
+- [伊朗任命莫吉塔巴·哈梅內伊為新任最高領袖](https://edition.cnn.com/2026/03/09/middleeast/iran-names-khamenei-son-new-leader-intl-hnk)，繼承父親的職位，象徵權力鞏固，內部分歧深重，地區緊張局勢升高。
+- [油價下跌10%](https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html)後，美國總統唐納德·特朗普警告伊朗若阻擋霍爾木茲海峽的油流，將受到「二十倍更猛烈」的打擊，反映市場在衝突中的波動。
+- [道瓊斯工業平均指數收盤上漲200點](https://www.cnbc.com/2026/03/09/trump-says-iran-war-will-end-very-soon-predicts-lower-oil-prices)，油價反轉下跌，特朗普暗示伊朗衝突可能很快結束，提振市場樂觀情緒。
+- [伊朗與美國互相指責](https://www.bbc.com/news/articles/cvg548lyjnyo)，美國一枚戰斧巡航導彈擊中伊朗學校附近的軍事基地，影片分析確認多次攻擊，但由於伊朗的網路封鎖，細節仍難以核實。
+- [伊朗外交部警告油輪](https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html)在霍爾木茲海峽要格外小心，為對美軍事資產的攻擊辯護，導致原油價格突破每桶100美元。
+- [一名伊朗高官告訴CNN](https://edition.cnn.com/2026/03/09/middleeast/iran-long-war-kamal-kharazi-interview-intl)，伊朗已準備好與美國進行長期戰爭，並聲稱只有經濟痛苦才能使其結束。
+- [在緊張局勢升級之際，特朗普舉行記者會](https://www.cnbc.com/2026/03/09/watch-live-trump-press-conference-iran-war-oil-hormuz-doral.html)，暗示可能控制霍爾木茲海峽，導致油價先升後跌。
+- [美國參議院民主黨正計劃就戰爭權力進行投票](https://www.cnbc.com/2026/03/09/iran-war-powers-votes-congress.html)，限制對伊朗的進一步軍事行動，除非高層官員公開作證，旨在追究特朗普政府的行動責任。
+- [美國國防部確認陸軍士兵本傑明·彭寧頓](https://www.cnbc.com/2026/03/09/iran-war-us-service-deaths-army-sgt-benjamin-pennington.html)為伊朗戰爭中第七名喪生的美國軍人，此前伊朗對沙特基地的攻擊造成傷亡。
+- [國會民主黨要求取消對印度購買俄羅斯石油的制裁豁免](https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html)，批評其對全球能源價格和美國利益的影響，並指出伊朗戰爭背景下的負面影響。
+- [中國警告「戰火之焰」擴散](https://edition.cnn.com/2026/03/07/china/china-us-iran-wang-yi-intl-hnk)，但也表示願意與習近平和特朗普會面，彰顯在緊張升高中的複雜外交信號。
+- [中國將批准一項推動「民族團結」的新法](https://www.bbc.com/news/articles/c6271gxpdkzo)，旨在加強抑制少數民族身份和宗教實踐的政策，並因此被批評威脅維吾爾族和藏族的權利。
+- [Live Nation 與美國司法部達成臨時和解](https://www.bbc.com/news/articles/clygrnv2rdpo)，同意出售演唱會場館並支付2.8億美元賠償金，同時允許更多競爭進入票務市場。
+- [五名伊朗女子足球運動員在亞洲盃抗議後獲得澳大利亞簽證](https://www.bbc.com/news/articles/cwy8e978xl8o)，她們以安全為由提出申請，彰顯澳大利亞對面臨政治迫害運動員的支持。
+- [克羅地亞自2008年以來首次恢復義務兵役](https://www.bbc.com/news/articles/c93j2l32lzgo)，由於烏克蘭衝突帶來的地區安全關切，計劃每年訓練4,000名新兵。
+- [挪威警方正在調查奧斯陸美國大使館的爆炸事件](https://edition.cnn.com/2026/03/07/europe/explosion-hits-us-embassy-oslo-intl-hnk)，尚未排除恐怖主義，但強調調查仍處於初期階段。
+- [兩名男子因恐怖罪名被起訴](https://www.bbc.com/news/articles/cy4we8ev5lpo)，他們在反伊斯蘭示威中企圖在紐約市長官邸外引爆自製炸彈，該示威受到ISIS的激勵。
+- [伊斯坦堡市長埃克雷姆·伊馬莫盧正面臨超過140項指控](https://www.bbc.com/news/articles/c204ymjnn80o)，包括貪污，支持者稱是土耳其總統埃爾多安的政治動機。
+- [烏克蘭無人機專家將與遭伊朗攻擊的海灣國家分享反無人機技術](https://www.bbc.com/news/videos/cpv83ndmezno)，旨在增強地區安全，對抗伊朗無人機。
+- [黎巴嫩呼籲與以色列進行直接會談](https://edition.cnn.com/2026/03/09/middleeast/lebanon-president-israel-talks-hezbollah-latam-intl)，並指控真主黨背叛國家，暗示區域外交可能出現轉變。
+- [特朗普在與華納兄弟探索公司競標華特迪士尼期間，購買超過110萬美元的Netflix債券](https://www.cnbc.com/2026/03/09/trump-netflix-wbd-bonds-bidding-war-paramount.html)，披露總投資高達225萬美元。
+- [白宮解僱國家運輸安全委員會董事會成員托德·英曼](https://www.cnbc.com/2026/03/09/ntsb-member-says-he-was-fired-without-explanation-by-the-trump-administration-.html)，此前有不當行為的報導，英曼否認並稱此舉具有政治動機。
+- [特朗普誓言在通過「拯救美國」選民身份證法案前，阻擋立法](https://www.cnbc.com/2026/03/08/trump-vows-legislative-blockade-until-save-america-voter-id-bill-is-passed)，未提供進一步細節。
+- [大多數歐洲領導人避免直接回應特朗普的伊朗立場](https://edition.cnn.com/2026/03/08/europe/spain-sanchez-rejection-trump-iran-war-intl-cmd)，只有西班牙首相公開拒絕，凸顯歐洲內部對衝突的分歧。
+- [數百名烏克蘭青少年在戰爭四年後，以狂歡文化作為抵抗](https://edition.cnn.com/2026/03/08/europe/ukraine-rave-scene-war-russia-intl-cmd)，象徵韌性與反抗俄羅斯侵略。

@@ -1,0 +1,28 @@
+## Global Financial News
+
+- **US President Donald Trump’s Greenland Tariff Threats Roil Global Markets**: US President Donald Trump's threats of tariffs on eight European countries over Greenland sparked sharp declines in US and European stocks, with the Dow dropping 870 points and the Stoxx 600 falling, while European leaders consider countermeasures.
+- **Gold and Silver Hit Record Highs as Investors Flee to Safe Havens**: Gold surged above $4,700/oz and silver exceeded $95, with spot gold briefly topping $4,800, as geopolitical tensions and risk aversion drove a global flight to safe-haven assets.
+- **US Dollar and Treasurys Slide Amid 'Sell America' Sentiment**: The US dollar and Treasury prices tumbled as global investors shifted away from US assets, boosting gold and safe-haven currencies like the yen and Swiss franc.
+- **Asia-Pacific Markets Slip, Hang Seng Opens Lower**: Asia-Pacific equities mostly declined as investors reacted to US-Europe tensions and key China economic data, with the Hang Seng Index opening 0.34% lower and tech stocks leading the drop.
+- **Oil Prices Edge Up on Middle East Supply Risks, Iran Tensions**: Oil prices rose slightly as easing Iranian protests reduced the risk of US military action, but supply risks in the region remain in focus.
+- **Danish Pension Fund Dumps US Treasurys Over Fiscal Concerns**: Denmark’s AkademikerPension sold $100 million in US Treasurys, citing worries about US government debt and rising tensions over Greenland.
+- **Greenland’s Freshwater Reserves Gain Strategic Importance**: Greenland’s vast freshwater resources are increasingly seen as a critical geopolitical asset amid global water security concerns.
+- **US President Donald Trump to Reveal Greenland Takeover Strategy**: US President Donald Trump signaled he will soon announce his strategy regarding the potential US acquisition of Greenland, intensifying tensions with Europe.
+- **European Chip Stocks Surge After TSMC’s Record Profit**: European AI chipmakers rallied, led by ASML, after TSMC reported a 35% jump in quarterly profit on strong AI chip demand.
+- **Asian Chip Stocks Rally on US-Taiwan Semiconductor Deal**: Asian semiconductor stocks soared as Taiwan’s chipmakers committed $250 billion to US production, with the Taiwan Weighted Index and Kospi hitting record highs.
+- **Netflix Shares Drop After Weak Guidance, Warner Bros. Acquisition**: Netflix stock fell over 5% post-earnings due to lackluster Q1 guidance and a pause in share repurchases following its Warner Bros. acquisition.
+- **Morgan Stanley Downgrades US IT Hardware Sector**: US IT hardware stocks plunged after Morgan Stanley issued a sector downgrade.
+- **Kingboard Laminates Jumps on CCL Price Hike by Japanese Manufacturer**: Kingboard Laminates rose over 6% after a major Japanese company raised CCL prices by 30%, sparking speculation in the sector.
+- **GigaDevice and SanDisk Hit New Highs on AI Memory Demand**: GigaDevice and SanDisk continued to reach record highs, driven by strong AI-powered demand in the memory sector.
+- **Hong Kong Issues 11 Virtual Asset Trading Platform Licenses**: Hong Kong granted licenses to 11 virtual asset trading platforms and plans to issue stablecoin licenses later this year.
+- **Skyworth Group Shares Surge on Privatization and Photovoltaic Spinoff Plans**: Skyworth Group’s stock jumped as it announced plans to privatize and spin off its photovoltaic business for a separate listing.
+- **TCL and Sony Form Joint Venture, TV Market Concentration Rises**: TCL Electronics’ shares soared to a 20-year high after announcing a home entertainment joint venture with Sony.
+- **Hong Kong Property Market Sets New Records**: A duplex at The Palace in Mid-Levels sold for nearly HKD 880 million, and a unit at North Point’s 101 Kings Road set a new price per square foot record.
+- **Shanghai and Shenzhen Indices Dip, Gold Stocks Outperform**: Mainland Chinese stock indices opened lower, with gold stocks rising and chip stocks subdued amid cautious sentiment.
+- **Hong Kong Hang Seng Index Opens Lower Amid Geopolitical Tensions**: The Hang Seng Index dropped 90 points at open, led by declines in major tech and financial stocks due to US-Europe tensions.
+- **GUM Reports Strong MPF Gains for January**: Hong Kong MPF accounts saw average gains of HKD 8,395 in January, driven by Asian equities.
+- **CMR Surgical Shares Surge on Robotic Surgery Pricing Guidance**: CMR Surgical’s stock rose over 15% after China’s National Healthcare Security Administration issued clear pricing guidance for robotic surgeries.
+- **Planning Department Supports 32-Storey Hotel Redevelopment in Chai Wan**: Hong Kong’s Planning Department does not oppose the redevelopment of Dechang Building into a 32-storey hotel, expected by 2030.
+- **DeepSeek Unveils New AI Model Architecture**: DeepSeek revealed a new AI model, “MODEL1,” featuring advancements in memory optimization and architecture.
+- **US Fed Chair Nominee Announcement Delayed, Powell Criticized**: The nomination of the new US Fed chair remains delayed, with Bessent openly criticizing current chair Powell.
+- **AI Chips from NVIDIA, AMD to Arrive in UAE Soon**: The UAE’s G42 CEO announced advanced AI chips from NVIDIA and AMD will arrive within months.

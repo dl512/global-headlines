@@ -1,0 +1,31 @@
+## Most Important Stories
+
+- **US-Iran Tensions Escalate as Military Buildup Continues**: US President Donald Trump warns Iran "time is running out" for a nuclear deal, deploying a carrier strike group and conducting military drills in the Gulf, as Iran asserts readiness to defend itself.
+- **US Government Faces Imminent Partial Shutdown Over DHS Funding**: Congress struggles to pass funding for the Department of Homeland Security, with Republicans considering splitting the bill and Democrats demanding changes to immigration enforcement.
+- **Shooting of Alex Pretti Sparks Political Tensions in Minnesota**: The fatal shooting of nurse Alex Pretti by border agents leads to protests, administrative leave for agents, and political disputes over immigration enforcement.
+- **Fed Holds Interest Rates Amid Political Pressure and Ongoing Investigation**: The US Federal Reserve keeps rates steady, defends its independence, and faces a criminal probe into Chair Jerome Powell.
+- **Meta to Double AI Spending to $135 Billion in 2023**: Facebook-owner Meta announces a major increase in AI infrastructure investment, aiming to accelerate development despite industry warnings of a potential bubble.
+- **Tesla to End Model S and X Production, Focus on Optimus Robots**: Elon Musk announces Tesla will halt Model S and X production, converting factory lines to manufacture humanoid robots.
+- **Russia Strikes Civilian Train in Ukraine, Killing Five**: A Russian drone attack on a crowded Ukrainian train kills five, drawing condemnation from President Zelensky and highlighting ongoing conflict.
+- **Colombian Plane Crash Leaves No Survivors, Including Lawmaker**: A passenger plane crash in northern Colombia kills all 15 on board, including a lawmaker and a congressional candidate.
+- **UK Labour Leader Starmer Meets Xi Jinping to Reset UK-China Relations**: Sir Keir Starmer visits Beijing, meeting President Xi to discuss improving UK-China ties and global stability.
+- **China Sends Police to Australia in Hunt for Suspect in Baby Coffee Attack**: China dispatches a police team to Australia to help locate a man accused of dousing a baby with boiling coffee.
+- **Spain to Grant Legal Status to 500,000 Undocumented Migrants**: Spain adopts a human rights-based migration model, planning to legalize half a million undocumented migrants.
+- **Gold and Silver Hit Record Highs Amid Volatility**: Precious metals prices surge to new records, with analysts warning of market instability and thin liquidity.
+- **JPMorgan, Bank of America, Wells Fargo to Match US $1,000 Child Retirement Accounts**: Major US banks join a pilot program to match government contributions to children's retirement accounts.
+- **India-EU Sign Historic Free Trade Agreement, US-India Talks Ongoing**: India and the EU sign a major free trade deal, while US-India trade negotiations continue amid shifting global alliances.
+- **Iranian Protesters Treated in Secret Amid Crackdown**: Protesters in Iran seek underground medical help to avoid arrest as security forces monitor hospitals.
+- **Iran’s Internet Returns Partially After Shutdown**: Internet access in Iran resumes but remains restricted as authorities tighten control amid protests.
+- **EU Urged to Boost Defense and Reduce US Reliance**: EU’s Kaja Kallas calls for urgent action to strengthen European defense and decrease dependence on the US.
+- **ICE Criticized by Minnesota Judge for Ignoring Court Orders**: A federal judge warns ICE after repeated violations of court orders regarding immigrant detentions.
+- **Home Depot Lays Off 800 Workers, Ends Remote Work for Corporate Staff**: Home Depot announces layoffs and a return to full-time office work for corporate employees.
+- **Venezuelan Political Tensions Rise Amid Asset Unblocking and Deportation Fears**: Venezuela’s acting president criticizes US demands, while the US begins unblocking Venezuelan assets and a former mayor fears deportation.
+- **US Returns Seized Oil Tanker to Venezuela**: The US hands back a seized oil tanker to Venezuela amid ongoing sanctions and diplomatic tensions.
+- **Texas Governor Suspends New H-1B Visa Petitions by State Agencies**: Texas halts new H-1B visa applications for state agencies and universities, citing concerns over program abuse.
+- **Crypto PAC Fairshake Amasses $193 Million for Regulatory Fight**: The pro-crypto PAC Fairshake builds a large war chest as a key regulation bill faces its first vote.
+- **South Korea’s Former First Lady Kim Keon Hee Falls from Grace Over Luxury Scandal**: Kim Keon Hee faces public and political backlash for her lavish lifestyle.
+- **Palestinian Community Faces Displacement Amid Intensified Israeli Settler Violence**: A Palestinian community reports severe displacement, drawing parallels to the Nakba amid ongoing conflict.
+- **British Airways Plane Loses Wheel After Takeoff in Las Vegas, Lands Safely**: A BA Airbus A350-1000 loses a wheel after takeoff but lands safely with no injuries.
+- **US Embassy in Copenhagen Angers Veterans by Removing Flags Honoring Danish Soldiers**: The US Embassy’s removal of memorial flags sparks outrage among Danish veterans.
+- **NYC Mayor Proposes Tax Hike on Wealthy to Address $12B Budget Deficit**: NYC Mayor Zohran Mamdani calls for higher taxes on the rich to tackle the city’s deficit.
+- **Wired Headphones Return as Fashion Trend**: Wired headphones are making a comeback as a popular style accessory.

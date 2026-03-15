@@ -1,0 +1,1778 @@
+{
+  "website": "https://www.cnbc.com/technology/",
+  "links": [
+    "https://www.cnbc.com/2026/02/09/big-tech-stocks-post-selloff-week.html",
+    "https://www.cnbc.com/2026/02/09/ai-anthropic-software-short-selling-tech-sell-off-private-credit-funds.html",
+    "https://www.cnbc.com/2026/02/06/nvidia-rises-7percent-as-ceo-says-660-billion-capex-buildout-is-sustainable.html",
+    "https://www.cnbc.com/2026/02/06/ai-fears-pummel-software-stocks-is-it-illogical-panic-or-a-saas-apocalypse",
+    "https://www.cnbc.com/2026/02/06/google-microsoft-pay-creators-500000-and-more-to-promote-ai",
+    "https://www.cnbc.com/2023/02/07/amazon-cloud-unit-beats-on-revenue-and-profit-as-parent-company-ramps-up-ai-spending.html",
+    "https://www.cnbc.com/2026/02/06/openai-altman-nvidia-musk-anthropic-super-bowl.html",
+    "https://www.cnbc.com/2026/02/06/openai-executives-try-to-quiet-critics-as-ai-model-breakthroughs-are-announced.html",
+    "https://www.cnbc.com/2026/02/09/ai-narrative-now-has-a-new-trade---shorting-software-stocks.html",
+    "https://www.cnbc.com/2026/02/06/ai-spending-may-near-700-billion-this-year-but-the-blow-to-cash-raises-red-flags.html",
+    "https://www.cnbc.com/2026/02/09/chinese-chip-designer-montage-technology-soars-over-60percent-in-hong-kong-debut.html",
+    "https://www.cnbc.com/2023/10/12/edge-computing-for-ai-applications-gaining-traction.html",
+    "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html",
+    "https://www.cnbc.com/2026/02/09/autonomous-vehicles-and-drone-technology-updates.html",
+    "https://www.cnbc.com/2026/02/09/supply-chain-developments-influence-chip-manufacturing-and-ai-infrastructure.html",
+    "https://www.cnbc.com/2026/02/09/alphabet-highlights-new-ai-related-risks-in-tapping-debt-market.html",
+    "https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html",
+    "https://www.cnbc.com/2026/02/09/under-the-hood-of-the-ai-economy-with-databricks-ceo-ali-ghodsi.html",
+    "https://www.cnbc.com/2026/02/09/meta-big-week-in-court-opening-arguments-in-new-mexico-la-trials.html",
+    "https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html",
+    "https://www.cnbc.com/2026/02/09/tesla-exec-raj-jegannathan-leaves-automaker-after-13-years.html",
+    "https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html",
+    "https://www.cnbc.com/2026/02/09/applovin-pops-14percent-after-short-seller-capitalwatch-apologizes-and-retracts-report",
+    "https://www.cnbc.com/2026/02/09/monday-com-stock-ai-software.html",
+    "https://www.cnbc.com/2026/02/09/morgan-stanley-says-buy-2-beaten-down-software-stocks-we-agree-on-one-of-them.html",
+    "https://www.cnbc.com/2026/02/10/cnbc-daily-open-takaichi-and-the-ai-trade-in-focus-this-week.html",
+    "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html",
+    "https://www.cnbc.com/2026/02/10/amazon-gets-fcc-approval-to-launch-4500-leo-internet-satellites.html",
+    "https://www.cnbc.com/2026/02/10/astera-labs-alab-earnings-report-q4-2025.html",
+    "https://www.cnbc.com/2026/02/10/lyft-lyft-q4-2025-earnings-.html",
+    "https://www.cnbc.com/2026/02/10/salesforce-employees-call-on-ceo-benioff-to-cancel-ice-opportunities.html",
+    "https://www.cnbc.com/2026/02/11/hong-kong-stablecoin-licenses-china-crypto-ban-usdt-usdc-cny-cnh-rmb-usd-fiat-currency.html",
+    "https://www.cnbc.com/2026/02/09/short-seller-capitalwatch-retraction-applovin-hao-tang.html",
+    "https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html",
+    "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html",
+    "https://www.cnbc.com/2026/02/09/meta-starts-big-week-in-court-with-opening-arguments-in-new-mexico-la-trials.html",
+    "https://www.cnbc.com/2026/02/10/cnbc-daily-open-us-markets-rise-on-tech-rebound-while-takaichi-trade-lifts-japanese-stocks.html",
+    "https://www.cnbc.com/2026/02/11/meta-threads-dear-algo-ai-algorithm-personalization.html",
+    "https://www.cnbc.com/2026/02/11/lyft-ceo-david-risher-earnings-stock.html",
+    "https://www.cnbc.com/2026/02/11/cloudflare-net-q4-earnings-2025.html",
+    "https://www.cnbc.com/2026/02/11/shopify-shop-earnings-q4-2025.html",
+    "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+    "https://www.cnbc.com/2026/02/11/anthropic-vs-openai-ads-spending-criticism.html",
+    "https://www.cnbc.com/2026/02/11/alibaba-ai-model-robots-physical-ai.html",
+    "https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html",
+    "https://www.cnbc.com/2026/02/11/musk-announces-xai-reorg-following-co-founder-departures-spacex-merger.html",
+    "https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html",
+    "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
+    "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html",
+    "https://www.cnbc.com/2026/02/12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30-percent-as-a-wave-of-new-releases-hits-market.html",
+    "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
+    "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-ahead-of-2026-elections.html",
+    "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins",
+    "https://www.cnbc.com/2026/02/12/ciscos-memory-price-warning-is-having-ripple-effects-across-the-tech-sector.html",
+    "https://www.cnbc.com/2026/02/12/adyen-stock-price-earnings.html",
+    "https://www.cnbc.com/2026/02/12/space-axiom-donald-trump-jr-qatar.html",
+    "https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html",
+    "https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html",
+    "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-as-cash-keeps-flowing-into-top-ai-startups.html",
+    "https://www.cnbc.com/2026/02/12/alphabet-raises-5-billion-100-year-bond-ai-arms-race-fears.html",
+    "https://www.cnbc.com/2026/02/12/singapore-2026-budget-ai-measures-ai-support-workers-companies.html",
+    "https://www.cnbc.com/2026/02/12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30-percent-as-new-model-and-agent-releases-hit-market",
+    "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+    "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
+    "https://www.cnbc.com/2026/02/13/anthropic-open-ai-super-bowl-ads.html",
+    "https://www.cnbc.com/2026/02/13/musks-xai-faces-threat-of-naacp-lawsuit-over-pollution-in-mississippi.html",
+    "https://www.cnbc.com/2026/02/13/china-ai-lunar-new-year-bytedance-baidu-tencent-alibaba.html",
+    "https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-culprit-may-be-arista-.html",
+    "https://www.cnbc.com/2026/02/13/anthropic-30-billion-funding-round-ai-startups.html",
+    "https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html",
+    "https://www.cnbc.com/2026/02/13/us-signs-trade-deal-with-taiwan-lowering-tariffs-to-15-while-taipei-to-boost-american-goods-purchases.html",
+    "https://www.cnbc.com/2026/02/12/amazons-ring-cancels-flock-partnership-amid-super-bowl-ad-backlash.html",
+    "https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html",
+    "https://www.cnbc.com/2026/02/12/rivian-automotive-rivn-earnings-q4-2025.html",
+    "https://www.cnbc.com/2026/02/13/anthropic-30-billion-funding-round-ai-startups",
+    "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html",
+    "https://www.cnbc.com/2026/02/13/instacart-cart-stock-ceo-grocery.html",
+    "https://www.cnbc.com/2026/02/13/pinterest-stock-price-tariff-earnings-layoffs.html",
+    "https://www.cnbc.com/2026/02/13/roku-stock-earnings-premium-subscriptions.html",
+    "https://www.cnbc.com/2026/02/15/tesla-new-ai-chip-aims-to-boost-autonomous-driving-capabilities.html",
+    "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
+    "https://www.cnbc.com/2026/02/18/meta-deal-for-nvidia-chips-is-big-illustrates-why.html",
+    "https://www.cnbc.com/2026/02/18/arm-shares-edge-higher-as-nvidia-sells-entire-stake-in-company",
+    "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
+    "https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html",
+    "https://www.cnbc.com/2026/02/18/nvidia-india-ai-vc-data-center-partners.html",
+    "https://www.cnbc.com/2026/02/19/chinese-tech-companies-progress-remarkable-openai-altman-tells-cnbc.html",
+    "https://www.cnbc.com/2026/02/19/quantum-computing-data-centers-ai-tech-microsoft.html",
+    "https://www.cnbc.com/2026/02/19/accenture-ai-orders-senior-staff-lose-out-promotions.html",
+    "https://www.cnbc.com/2026/02/19/figma-stock-earnings-ai-risk.html",
+    "https://www.cnbc.com/2026/02/18/meta-deal-for-nvidia-chips-is-a-big-deal-these-2-charts-illustrate-why.html",
+    "https://www.cnbc.com/2026/02/18/europe-digital-sovereignty-geopolitical-tensions.html",
+    "https://www.cnbc.com/2026/02/18/microsoft-president-brad-smith-chinese-ai-subsidies.html",
+    "https://www.cnbc.com/2026/02/19/dueling-pacs-take-center-stage-in-midterm-elections-over-ai-regulation",
+    "https://www.cnbc.com/2026/02/18/cadence-design-systems-stock-earnings-ai-chip.html",
+    "https://www.cnbc.com/2026/02/19/openai-sam-altman-india-ai-summit.html",
+    "https://www.cnbc.com/2026/02/19/whats-behind-a-big-jump-in-january-property-tech-funding.html",
+    "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+    "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html",
+    "https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html",
+    "https://www.cnbc.com/2026/02/20/ai-infrastructure-investments-and-data-center-developments.html",
+    "https://www.cnbc.com/2026/02/20/jim-cramer-says-this-hot-tech-stock-can-help-solve-americas-energy-problems.html",
+    "https://www.cnbc.com/2026/02/20/tech-download-newsletter-china-ai-race.html",
+    "https://www.cnbc.com/2026/02/20/the-edge-computing-for-ai-applications-gaining-traction.html",
+    "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html",
+    "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
+    "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
+    "https://www.cnbc.com/2026/02/23/amazon-louisiana-ai-data-centers.html",
+    "https://www.cnbc.com/2026/02/23/anthropic-ai-dario-defense-secretary-pete-hegseth.html",
+    "https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html",
+    "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html",
+    "https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html",
+    "https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html",
+    "https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html",
+    "https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html",
+    "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
+    "https://www.cnbc.com/2026/02/23/cybersecurity-stock-selling-deepens-on-ai-threat-concerns-why-were-not-bailing",
+    "https://www.cnbc.com/2026/02/23/jim-cramer-says-ai-fears-have-made-the-stock-market-fragile.html",
+    "https://www.cnbc.com/2026/02/23/enterprise-ai-platforms-see-surge-in-funding-and-strategic-partnerships.html",
+    "https://www.cnbc.com/2026/02/23/robotics-and-automation-companies-attract-significant-investment-as-industrial-automation-accelerates.html",
+    "https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html",
+    "https://www.cnbc.com/2026/02/24/why-amds-megadeal-with-meta-shows-nvidia-is-still-the-best-game-in-town.html",
+    "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
+    "https://www.cnbc.com/2026/02/24/apple-to-move-some-mac-mini-production-to-us-in-2026.html",
+    "https://www.cnbc.com/2026/02/24/microsoft-spacex-starlink-global-internet.html",
+    "https://www.cnbc.com/2026/02/24/anthropic-ai-hegseth-spying-defense.html",
+    "https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html",
+    "https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html",
+    "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html",
+    "https://www.cnbc.com/2023/02/24/openai-lands-multiyear-deals-with-consulting-giants-in-enterprise-push.html",
+    "https://www.cnbc.com/2026/02/24/waymo-opens-robotaxi-service-to-select-riders-in-4-more-us-cities.html",
+    "https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html",
+    "https://www.cnbc.com/2026/02/25/nvidia-forecast-points-to-accelerating-growth-vera-rubin-hits-market.html",
+    "https://www.cnbc.com/2026/02/25/nvidia-keeps-the-ai-party-alive-with-a-booming-quarter-and-even-better-outlook.html",
+    "https://www.cnbc.com/2026/02/25/nvidia-earnings-report-q4-2026.html",
+    "https://www.cnbc.com/2026/02/25/thrive-capital-openai-joshua-kushner.html",
+    "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html",
+    "https://www.cnbc.com/2026/02/25/samsung-s26-launch-gemini-ai-apple-siri.html",
+    "https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html",
+    "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/02/25/axon-enterprise-axon-q4-2025-earnings.html",
+    "https://www.cnbc.com/2026/02/24/google-to-build-data-center-in-minnesota-with-solar-wind-and-battery-storage.html",
+    "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html",
+    "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+    "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html",
+    "https://www.cnbc.com/2026/02/24/workday-wday-q4-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up",
+    "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html",
+    "https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html",
+    "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
+    "https://www.cnbc.com/2026/02/26/have-we-seen-peak-pricing-power-for-nvidia-chips.html",
+    "https://www.cnbc.com/2026/02/26/jim-cramer-the-reason-why-nvidias-stock-is-falling-even-after-its-blowout-outlook.html",
+    "https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html",
+    "https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html",
+    "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
+    "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html",
+    "https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html",
+    "https://www.cnbc.com/2026/02/26/saas-software-saaspocalypse-sell-off-ai-openai-anthropic-oracle-salesforce.html",
+    "https://www.cnbc.com/2026/02/25/ai-disruption-didnt-show-up-in-salesforce-results-but-the-fears-are-hard-to-shake.html",
+    "https://www.cnbc.com/2026/02/26/huang-nvidia-anthropic-pentagon-hegseth-ai.html",
+    "https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html",
+    "https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html",
+    "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
+    "https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html",
+    "https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html",
+    "https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html",
+    "https://www.cnbc.com/2026/02/27/how-amazons-massive-stake-in-openai-could-boost-its-ai-and-cloud-businesses",
+    "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+    "https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator",
+    "https://www.cnbc.com/2026/03/01/'failure-at-scale'-the-ai-risk-that-can-tip-the-business-world-into-chaos",
+    "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html",
+    "https://www.cnbc.com/2026/02/27/why-pentagon-anthropic-ai-clash-is-pivotal-in-future-warfare",
+    "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth",
+    "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html",
+    "https://www.cnbc.com/2023/02/09/ebay-laying-off-about-800-roles-or-6percent-of-its-workforce.html",
+    "https://www.cnbc.com/2026/03/01/semiconductor-supply-chain-updates-signal-potential-shifts-in-chip-manufacturing.html",
+    "https://www.cnbc.com/2026/03/01/ai-infrastructure-investments-accelerate-with-new-data-center-developments",
+    "https://www.cnbc.com/ai-age",
+    "https://www.cnbc.com/2026/02/27/tech-firms-boost-investments-in-ai-chips-and-accelerators",
+    "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html",
+    "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+    "https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html",
+    "https://www.cnbc.com/2026/03/02/starlink-deutsche-telekom-partnership.html",
+    "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html",
+    "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html",
+    "https://www.cnbc.com/2026/02/27/openai-funding-round-amazon.html",
+    "https://www.cnbc.com/2026/03/02/nvidia-invests-4-billion-in-photonics-companies-coherent-and-lumentum.html",
+    "https://www.cnbc.com/2026/03/02/nvidia-to-invest-4-billion-into-photonics-companies-coherent-and-lumentum",
+    "https://www.cnbc.com/2026/03/02/ai-age/robotics-and-automation-startups-see-increased-funding-as-enterprise-ai-adoption-grows.html",
+    "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
+    "https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html",
+    "https://www.cnbc.com/2026/03/03/google-employees-call-for-ai-military-limits-amid-iran-war-anthropic-fallout.html",
+    "https://www.cnbc.com/2026/03/03/anthropic-pentagon-deal-mistake-correct-course-fcc-boss.html",
+    "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
+    "https://www.cnbc.com/2026/03/02/nvidia-invests-4-billion-in-photonics-coherent-lumentum.html",
+    "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
+    "https://www.cnbc.com/2026/03/03/openai-sam-altman-deals-with-pentagon-hours-after-rival-anthropic-blacklisted-by-trump.html",
+    "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain",
+    "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
+    "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
+    "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
+    "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
+    "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
+    "https://www.cnbc.com/2026/03/04/as-bond-investors-fret-over-an-ai-bubble-what-investors-need-to-know.html",
+    "https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-interns",
+    "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html",
+    "https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips-opportunity",
+    "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+    "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
+    "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
+    "https://www.cnbc.com/2026/03/04/tech-industry-group-expresses-concern-to-pete-hegseth-over-supply-chain-risk-label.html",
+    "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
+    "https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html",
+    "https://www.cnbc.com/2026/03/05/broadcom-ceo-hock-tan-copper-pledge-tanks-corning-shares-but-sellers-are-mistaken.html",
+    "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
+    "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
+    "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims",
+    "https://www.cnbc.com/2026/03/04/defense-tech-companies-are-dropping-claude-after-pentagons-anthropic-blacklist",
+    "https://www.cnbc.com/2026/03/05/xiaomi-trials-humanoid-robots-in-its-ev-factory-says-theyre-like-interns.html",
+    "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-goo",
+    "https://www.cnbc.com/2023/10/23/sam-altman-tells-openai-staff-that-operational-decisions-are-up-to-the-military.html",
+    "https://www.cnbc.com/2026/03/05/broadcom-stock-rallies-as-ceo-tan-makes-strong-case-for-why-ai-growth-will-last",
+    "https://www.cnbc.com/2026/03/05/broadcom-ceo-says-anthropic-products-remain-available-to-customers-after-security-risk-designation.html",
+    "https://www.cnbc.com/2026/03/05/ai-infrastructure-investments-surge-as-cloud-providers-expand-data-center-capacity.html",
+    "https://www.cnbc.com/2026/03/05/microsoft-says-anthropic-s-products-can-remain-available-to-customers-after-security-risk-designation.html",
+    "https://www.cnbc.com/2026/03/06/vast-funding-round-company-vies-for-nasa-space-station-contract.html",
+    "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+    "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken",
+    "https://www.cnbc.com/2026/03/05/broadcoms-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win.html",
+    "https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html",
+    "https://www.cnbc.com/2026/03/06/amazon-says-anthropic-claude-still-ok-for-aws-customers-to-use-outside-defense-work",
+    "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+    "https://www.cnbc.com/2026/03/07/irans-internet-blackout-extends-into-second-week-netblocks.html",
+    "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
+    "https://www.cnbc.com/2026/03/05/defense-experts-back-anthropic-to-congress-slam-dod-for-dangerous-precedent",
+    "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html",
+    "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html",
+    "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken.html",
+    "https://www.cnbc.com/2026/03/05/5-big-questions-anthropic-pentagon-ai-war.html",
+    "https://www.cnbc.com/2026/03/06/google-joins-microsoft-in-telling-users-anthropic-is-still-available-outside-defense",
+    "https://www.cnbc.com/2026/03/06/the-tech-download-data-centers-become-military-targets-as-iran-war-rages-on",
+    "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
+    "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
+    "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+    "https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html",
+    "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-valuation.html",
+    "https://www.cnbc.com/2026/03/09/broadcom-ceo-tan-ai-growth-will-last.html",
+    "https://www.cnbc.com/2026/03/06/vast-funding-nasa-space-station-contract",
+    "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+    "https://www.cnbc.com/2026/03/06/amazon-says-anthropic-claude-pentagon-blacklist.html",
+    "https://www.cnbc.com/2026/03/09/nvidia-backs-ai-data-center-startup-nscale-as-it-hits-14point6-billion-valuation.html"
+  ],
+  "metadata": {
+    "https://www.cnbc.com/2026/02/09/big-tech-stocks-post-selloff-week.html": {
+      "headline": "Big Tech stocks are treading water after $1 trillion sell-off week",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:04:44.350745",
+      "last_seen": "2026-02-09T21:04:44.350753"
+    },
+    "https://www.cnbc.com/2026/02/09/ai-anthropic-software-short-selling-tech-sell-off-private-credit-funds.html": {
+      "headline": "The AI narrative now has a new trade — shorting software stocks",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:04:48.190344",
+      "last_seen": "2026-02-09T21:04:48.190352"
+    },
+    "https://www.cnbc.com/2026/02/06/nvidia-rises-7percent-as-ceo-says-660-billion-capex-buildout-is-sustainable.html": {
+      "headline": "Nvidia shares rise 8% as Jensen Huang says $660 billion capex buildout is sustainable",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:04:51.495211",
+      "last_seen": "2026-02-09T21:04:51.495218"
+    },
+    "https://www.cnbc.com/2026/02/06/ai-fears-pummel-software-stocks-is-it-illogical-panic-or-a-saas-apocalypse": {
+      "headline": "AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:04:55.473628",
+      "last_seen": "2026-02-09T21:04:55.473638"
+    },
+    "https://www.cnbc.com/2026/02/06/google-microsoft-pay-creators-500000-and-more-to-promote-ai": {
+      "headline": "Google, Microsoft pay creators $500,000 and more to promote AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:04:58.624441",
+      "last_seen": "2026-02-09T21:04:58.624452"
+    },
+    "https://www.cnbc.com/2023/02/07/amazon-cloud-unit-beats-on-revenue-and-profit-as-parent-company-ramps-up-ai-spending.html": {
+      "headline": "Amazon cloud unit beats on revenue and profit as parent company ramps up AI spending",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:01.907791",
+      "last_seen": "2026-02-09T21:05:01.907799"
+    },
+    "https://www.cnbc.com/2026/02/06/openai-altman-nvidia-musk-anthropic-super-bowl.html": {
+      "headline": "OpenAI executives were on a tear this week trying to quell critics",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:06.008344",
+      "last_seen": "2026-02-09T21:05:06.008354"
+    },
+    "https://www.cnbc.com/2026/02/06/openai-executives-try-to-quiet-critics-as-ai-model-breakthroughs-are-announced.html": {
+      "headline": "AI model releases, updates, and breakthroughs",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:09.274669",
+      "last_seen": "2026-02-09T21:05:09.274675"
+    },
+    "https://www.cnbc.com/2026/02/09/ai-narrative-now-has-a-new-trade---shorting-software-stocks.html": {
+      "headline": "AI company funding, valuations, and IPOs",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:13.164648",
+      "last_seen": "2026-02-09T21:05:13.164656"
+    },
+    "https://www.cnbc.com/2026/02/06/ai-spending-may-near-700-billion-this-year-but-the-blow-to-cash-raises-red-flags.html": {
+      "headline": "AI infrastructure investments and data center developments",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:16.628075",
+      "last_seen": "2026-02-09T21:05:16.628083"
+    },
+    "https://www.cnbc.com/2026/02/09/chinese-chip-designer-montage-technology-soars-over-60percent-in-hong-kong-debut.html": {
+      "headline": "Chip design and manufacturing news impacting AI hardware supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:20.109487",
+      "last_seen": "2026-02-09T21:05:20.109495"
+    },
+    "https://www.cnbc.com/2023/10/12/edge-computing-for-ai-applications-gaining-traction.html": {
+      "headline": "Edge computing for AI applications gaining traction",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:25.202638",
+      "last_seen": "2026-02-09T21:05:25.202647"
+    },
+    "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html": {
+      "headline": "Robotics company funding and product launches",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:05:28.340427",
+      "last_seen": "2026-02-09T21:05:28.340435"
+    },
+    "https://www.cnbc.com/2026/02/09/autonomous-vehicles-and-drone-technology-updates.html": {
+      "headline": "Autonomous vehicles and drone technology updates",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:34.369766",
+      "last_seen": "2026-02-09T21:05:34.369776"
+    },
+    "https://www.cnbc.com/2026/02/09/supply-chain-developments-influence-chip-manufacturing-and-ai-infrastructure.html": {
+      "headline": "Supply chain developments influencing chip manufacturing and AI infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:05:44.271944",
+      "last_seen": "2026-02-09T21:05:44.271951"
+    },
+    "https://www.cnbc.com/2026/02/09/alphabet-highlights-new-ai-related-risks-in-tapping-debt-market.html": {
+      "headline": "Alphabet calls out new AI-related risks, as it taps debt market to fund build-out",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:33:48.685461",
+      "last_seen": "2026-02-10T10:33:48.685475"
+    },
+    "https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html": {
+      "headline": "Databricks completes $5 billion funding round as revenue growth speeds up",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:33:53.040644",
+      "last_seen": "2026-02-10T10:33:53.040658"
+    },
+    "https://www.cnbc.com/2026/02/09/under-the-hood-of-the-ai-economy-with-databricks-ceo-ali-ghodsi.html": {
+      "headline": "AI model releases, updates, and breakthroughs",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:33:57.064721",
+      "last_seen": "2026-02-10T10:33:57.064736"
+    },
+    "https://www.cnbc.com/2026/02/09/meta-big-week-in-court-opening-arguments-in-new-mexico-la-trials.html": {
+      "headline": "Meta starts big week in court, with opening arguments in New Mexico, LA trials",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:06.724407",
+      "last_seen": "2026-02-10T10:34:06.724419"
+    },
+    "https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html": {
+      "headline": "AI spending may near $700 billion this year, raising red flags over cash burn",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:34:10.233493",
+      "last_seen": "2026-02-10T10:34:10.233509"
+    },
+    "https://www.cnbc.com/2026/02/09/tesla-exec-raj-jegannathan-leaves-automaker-after-13-years.html": {
+      "headline": "Tesla exec Raj Jegannathan leaves automaker after 13 years",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:14.143462",
+      "last_seen": "2026-02-10T10:34:14.143476"
+    },
+    "https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html": {
+      "headline": "Workday CEO Carl Eschenbach stepping down, new leadership to focus on enterprise AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:18.551087",
+      "last_seen": "2026-02-10T10:34:18.551103"
+    },
+    "https://www.cnbc.com/2026/02/09/applovin-pops-14percent-after-short-seller-capitalwatch-apologizes-and-retracts-report": {
+      "headline": "AppLovin pops 14% after short seller retracts report, signaling investor confidence in AI-driven ad tech",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:34:22.498196",
+      "last_seen": "2026-02-10T10:34:22.498209"
+    },
+    "https://www.cnbc.com/2026/02/09/monday-com-stock-ai-software.html": {
+      "headline": "Monday.com drops 21% as AI disruption fears mount in software sector",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:26.246168",
+      "last_seen": "2026-02-10T10:34:26.246184"
+    },
+    "https://www.cnbc.com/2026/02/09/morgan-stanley-says-buy-2-beaten-down-software-stocks-we-agree-on-one-of-them.html": {
+      "headline": "Morgan Stanley recommends buying 2 beaten-down software stocks with AI exposure",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:30.178483",
+      "last_seen": "2026-02-10T10:34:30.178497"
+    },
+    "https://www.cnbc.com/2026/02/10/cnbc-daily-open-takaichi-and-the-ai-trade-in-focus-this-week.html": {
+      "headline": "Chip design and manufacturing news impacting AI hardware supply chain",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:34:35.935049",
+      "last_seen": "2026-02-10T10:34:35.935064"
+    },
+    "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html": {
+      "headline": "Alphabet boosts debt sale again as total raise exceeds $30 billion, sources say",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:33:48.544392",
+      "last_seen": "2026-02-11T11:33:48.544409"
+    },
+    "https://www.cnbc.com/2026/02/10/amazon-gets-fcc-approval-to-launch-4500-leo-internet-satellites.html": {
+      "headline": "Amazon gets FCC approval to launch 4,500 Leo internet satellites",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:33:52.988339",
+      "last_seen": "2026-02-11T11:33:52.988356"
+    },
+    "https://www.cnbc.com/2026/02/10/astera-labs-alab-earnings-report-q4-2025.html": {
+      "headline": "Astera Labs shares sink 10% as revenue comes up short of some expectations",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:33:57.009407",
+      "last_seen": "2026-02-11T11:33:57.009585"
+    },
+    "https://www.cnbc.com/2026/02/10/lyft-lyft-q4-2025-earnings-.html": {
+      "headline": "Lyft stock falls 15% on disappointing fourth-quarter results, rider numbers",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:34:01.366673",
+      "last_seen": "2026-02-11T11:34:01.366691"
+    },
+    "https://www.cnbc.com/2026/02/10/salesforce-employees-call-on-ceo-benioff-to-cancel-ice-opportunities.html": {
+      "headline": "Salesforce employees call on CEO Benioff to cancel ICE 'opportunities'",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:34:06.299675",
+      "last_seen": "2026-02-11T11:34:06.299690"
+    },
+    "https://www.cnbc.com/2026/02/11/hong-kong-stablecoin-licenses-china-crypto-ban-usdt-usdc-cny-cnh-rmb-usd-fiat-currency.html": {
+      "headline": "Hong Kong proceeds with stablecoin plans despite Beijing's reservations",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:34:10.905087",
+      "last_seen": "2026-02-11T11:34:10.905107"
+    },
+    "https://www.cnbc.com/2026/02/09/short-seller-capitalwatch-retraction-applovin-hao-tang.html": {
+      "headline": "AppLovin pops 14% after short seller CapitalWatch apologizes and retracts report",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:34:21.965873",
+      "last_seen": "2026-02-11T11:34:21.965887"
+    },
+    "https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html": {
+      "headline": "OpenAI's ChatGPT reacceleration as company nears $100 billion funding milestone",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:34:27.446665",
+      "last_seen": "2026-02-11T11:34:27.446682"
+    },
+    "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html": {
+      "headline": "Alibaba launches AI model to power robots as tech giants talk up 'physical AI'",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:34:31.737290",
+      "last_seen": "2026-02-11T11:34:31.737335"
+    },
+    "https://www.cnbc.com/2026/02/09/meta-starts-big-week-in-court-with-opening-arguments-in-new-mexico-la-trials.html": {
+      "headline": "Meta faces legal challenges in US courts over AI and data policies",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:34:38.426403",
+      "last_seen": "2026-02-11T11:34:38.426416"
+    },
+    "https://www.cnbc.com/2026/02/10/cnbc-daily-open-us-markets-rise-on-tech-rebound-while-takaichi-trade-lifts-japanese-stocks.html": {
+      "headline": "Nikkei 225 hits new highs amid AI and tech sector optimism in Japan",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:34:44.161994",
+      "last_seen": "2026-02-11T11:34:44.162010"
+    },
+    "https://www.cnbc.com/2026/02/11/meta-threads-dear-algo-ai-algorithm-personalization.html": {
+      "headline": "Meta launches AI algorithm personalization feature for Threads",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:47:50.683700",
+      "last_seen": "2026-02-12T11:47:50.683722"
+    },
+    "https://www.cnbc.com/2026/02/11/lyft-ceo-david-risher-earnings-stock.html": {
+      "headline": "Lyft CEO says consumer showing 'no softness' as stock slides 15% after earnings",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:47:55.486258",
+      "last_seen": "2026-02-12T11:47:55.486275"
+    },
+    "https://www.cnbc.com/2026/02/11/cloudflare-net-q4-earnings-2025.html": {
+      "headline": "Cloudflare rises 5% as AI agent wave led by viral Moltbot boosts security demand",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:47:59.399369",
+      "last_seen": "2026-02-12T11:47:59.399385"
+    },
+    "https://www.cnbc.com/2026/02/11/shopify-shop-earnings-q4-2025.html": {
+      "headline": "Shopify stock drops despite revenue beat, $2 billion buyback",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:48:03.982306",
+      "last_seen": "2026-02-12T11:48:03.982320"
+    },
+    "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html": {
+      "headline": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:48:08.020603",
+      "last_seen": "2026-02-12T11:48:08.020619"
+    },
+    "https://www.cnbc.com/2026/02/11/anthropic-vs-openai-ads-spending-criticism.html": {
+      "headline": "Anthropic executive takes a thinly-veiled swipe at OpenAI over spending and ads",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:48:11.999579",
+      "last_seen": "2026-02-12T11:48:11.999596"
+    },
+    "https://www.cnbc.com/2026/02/11/alibaba-ai-model-robots-physical-ai.html": {
+      "headline": "Alibaba launches AI model to power robots as tech giants talk up 'physical AI'",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:48:18.317922",
+      "last_seen": "2026-02-12T11:48:18.317942"
+    },
+    "https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html": {
+      "headline": "Europe's answer to OpenAI announces billion-dollar AI infrastructure push in Sweden",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:48:22.726729",
+      "last_seen": "2026-02-12T11:48:22.726744"
+    },
+    "https://www.cnbc.com/2026/02/11/musk-announces-xai-reorg-following-co-founder-departures-spacex-merger.html": {
+      "headline": "Musk announces xAI re-org following co-founder departures, SpaceX merger",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:48:26.790452",
+      "last_seen": "2026-02-12T11:48:26.790467"
+    },
+    "https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html": {
+      "headline": "Musk's xAI loses second co-founder in two days amid leadership shakeup",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:48:36.834842",
+      "last_seen": "2026-02-12T11:48:36.834860"
+    },
+    "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html": {
+      "headline": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:14.579164",
+      "last_seen": "2026-02-13T12:03:14.579176"
+    },
+    "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html": {
+      "headline": "AWS CEO Garman says software AI fears are 'overblown'",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:18.292150",
+      "last_seen": "2026-02-13T12:03:18.292161"
+    },
+    "https://www.cnbc.com/2026/02/12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30-percent-as-a-wave-of-new-releases-hits-market.html": {
+      "headline": "Zhipu leads rally in Chinese AI stocks, surging 30% as a wave of new releases hits market",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:03:22.747243",
+      "last_seen": "2026-02-13T12:03:22.747255"
+    },
+    "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html": {
+      "headline": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:28.331735",
+      "last_seen": "2026-02-13T12:03:28.331751"
+    },
+    "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-ahead-of-2026-elections.html": {
+      "headline": "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:03:33.479468",
+      "last_seen": "2026-02-13T12:03:33.479484"
+    },
+    "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins": {
+      "headline": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:03:38.101943",
+      "last_seen": "2026-02-13T12:03:38.101952"
+    },
+    "https://www.cnbc.com/2026/02/12/ciscos-memory-price-warning-is-having-ripple-effects-across-the-tech-sector.html": {
+      "headline": "Cisco's memory-price warning is having ripple effects across the tech sector",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:43.634145",
+      "last_seen": "2026-02-13T12:03:43.634160"
+    },
+    "https://www.cnbc.com/2026/02/12/adyen-stock-price-earnings.html": {
+      "headline": "Adyen shares plummet after payments giant posts weak revenue growth outlook",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:48.004742",
+      "last_seen": "2026-02-13T12:03:48.004760"
+    },
+    "https://www.cnbc.com/2026/02/12/space-axiom-donald-trump-jr-qatar.html": {
+      "headline": "Space company Axiom raises $350 million backed by Qatar fund, Trump Jr.'s firm",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:53.087780",
+      "last_seen": "2026-02-13T12:03:53.087793"
+    },
+    "https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html": {
+      "headline": "Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:03:57.339055",
+      "last_seen": "2026-02-13T12:03:57.339067"
+    },
+    "https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html": {
+      "headline": "Waymo is paying DoorDash gig workers to close its robotaxi doors",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:04:01.561669",
+      "last_seen": "2026-02-13T12:04:01.561681"
+    },
+    "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-as-cash-keeps-flowing-into-top-ai-startups.html": {
+      "headline": "Intel and AMD ramp up AI chip development amid rising demand for AI infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:04:06.571984",
+      "last_seen": "2026-02-13T12:04:06.571996"
+    },
+    "https://www.cnbc.com/2026/02/12/alphabet-raises-5-billion-100-year-bond-ai-arms-race-fears.html": {
+      "headline": "Google's parent company Alphabet raises $5 billion through 100-year bond, fueling AI arms race fears",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:04:11.181241",
+      "last_seen": "2026-02-13T12:04:11.181254"
+    },
+    "https://www.cnbc.com/2026/02/12/singapore-2026-budget-ai-measures-ai-support-workers-companies.html": {
+      "headline": "Singapore launches AI support measures, tax breaks in 2026 Budget",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:04:15.967846",
+      "last_seen": "2026-02-13T12:04:15.967856"
+    },
+    "https://www.cnbc.com/2026/02/12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30-percent-as-new-model-and-agent-releases-hit-market": {
+      "headline": "Zhipu's surge reflects increasing investor confidence in Chinese AI startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:04:20.504030",
+      "last_seen": "2026-02-13T12:04:20.504044"
+    },
+    "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html": {
+      "headline": "Cisco beats on earnings and revenue, but stocks slip as forecast only meets estimates",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:04:25.780372",
+      "last_seen": "2026-02-13T12:04:25.780388"
+    },
+    "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html": {
+      "headline": "CNBC Disruptor 50: Group pushes for AI regulation, impacting future investment landscape",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:04:33.260577",
+      "last_seen": "2026-02-13T12:04:33.260587"
+    },
+    "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html": {
+      "headline": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:46:11.298442",
+      "last_seen": "2026-02-16T10:46:11.298459"
+    },
+    "https://www.cnbc.com/2026/02/13/anthropic-open-ai-super-bowl-ads.html": {
+      "headline": "Anthropic got 11% user boost from its OpenAI-bashing Super Bowl ad, data shows",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:14.681843",
+      "last_seen": "2026-02-16T10:46:14.681858"
+    },
+    "https://www.cnbc.com/2026/02/13/musks-xai-faces-threat-of-naacp-lawsuit-over-pollution-in-mississippi.html": {
+      "headline": "Musk's xAI faces threat of NAACP lawsuit over air pollution from Mississippi facility",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:18.415248",
+      "last_seen": "2026-02-16T10:46:18.415262"
+    },
+    "https://www.cnbc.com/2026/02/13/china-ai-lunar-new-year-bytedance-baidu-tencent-alibaba.html": {
+      "headline": "China's tech titans are giving away money in 'The Lunar New Year AI War'",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:22.513502",
+      "last_seen": "2026-02-16T10:46:22.513520"
+    },
+    "https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-culprit-may-be-arista-.html": {
+      "headline": "Nvidia's stock is down and AMD is up. The culprit may be Arista",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:26.211617",
+      "last_seen": "2026-02-16T10:46:26.211631"
+    },
+    "https://www.cnbc.com/2026/02/13/anthropic-30-billion-funding-round-ai-startups.html": {
+      "headline": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:30.102078",
+      "last_seen": "2026-02-16T10:46:30.102102"
+    },
+    "https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html": {
+      "headline": "Baidu to integrate OpenClaw AI into search app for 700 million users",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:46:33.812098",
+      "last_seen": "2026-02-16T10:46:33.812114"
+    },
+    "https://www.cnbc.com/2026/02/13/us-signs-trade-deal-with-taiwan-lowering-tariffs-to-15-while-taipei-to-boost-american-goods-purchases.html": {
+      "headline": "U.S. signs trade deal with Taiwan, lowering tariffs to 15%, while Taipei to boost American goods purchases",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:39.196855",
+      "last_seen": "2026-02-16T10:46:39.196872"
+    },
+    "https://www.cnbc.com/2026/02/12/amazons-ring-cancels-flock-partnership-amid-super-bowl-ad-backlash.html": {
+      "headline": "Amazon's Ring cancels Flock partnership amid Super Bowl ad backlash",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:43.130869",
+      "last_seen": "2026-02-16T10:46:43.130884"
+    },
+    "https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html": {
+      "headline": "Apple's stock has worst day since April on FTC scrutiny, reports of Siri delay",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:46.905132",
+      "last_seen": "2026-02-16T10:46:46.905146"
+    },
+    "https://www.cnbc.com/2026/02/12/rivian-automotive-rivn-earnings-q4-2025.html": {
+      "headline": "Rivian tops fourth-quarter expectations, targets significant production increase",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:50.996712",
+      "last_seen": "2026-02-16T10:46:50.996728"
+    },
+    "https://www.cnbc.com/2026/02/13/anthropic-30-billion-funding-round-ai-startups": {
+      "headline": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:46:55.568489",
+      "last_seen": "2026-02-16T10:46:55.568503"
+    },
+    "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html": {
+      "headline": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:47:00.431189",
+      "last_seen": "2026-02-16T10:47:00.431208"
+    },
+    "https://www.cnbc.com/2026/02/13/instacart-cart-stock-ceo-grocery.html": {
+      "headline": "Instacart jumps 9% on strong results as grocery competition heats up",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:47:04.265885",
+      "last_seen": "2026-02-16T10:47:04.265900"
+    },
+    "https://www.cnbc.com/2026/02/13/pinterest-stock-price-tariff-earnings-layoffs.html": {
+      "headline": "Pinterest sinks nearly 17% as tariffs hit earnings. Here's what's happening",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:47:07.661520",
+      "last_seen": "2026-02-16T10:47:07.661534"
+    },
+    "https://www.cnbc.com/2026/02/13/roku-stock-earnings-premium-subscriptions.html": {
+      "headline": "Roku stock surges on earnings beat, record quarter for premium subscriptions",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:47:11.979187",
+      "last_seen": "2026-02-16T10:47:11.979201"
+    },
+    "https://www.cnbc.com/2026/02/15/tesla-new-ai-chip-aims-to-boost-autonomous-driving-capabilities.html": {
+      "headline": "Tesla's new AI chip aims to boost autonomous driving capabilities",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:47:15.959665",
+      "last_seen": "2026-02-16T10:47:15.959680"
+    },
+    "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html": {
+      "headline": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:18:20.146605",
+      "last_seen": "2026-02-20T11:18:20.146619"
+    },
+    "https://www.cnbc.com/2026/02/18/meta-deal-for-nvidia-chips-is-big-illustrates-why.html": {
+      "headline": "Meta deal for millions of Nvidia chips is big — these 2 charts illustrate why",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:18:25.830751",
+      "last_seen": "2026-02-20T11:18:25.830766"
+    },
+    "https://www.cnbc.com/2026/02/18/arm-shares-edge-higher-as-nvidia-sells-entire-stake-in-company": {
+      "headline": "Arm shares edge higher as Nvidia sells entire stake in company",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:18:34.440138",
+      "last_seen": "2026-02-20T11:18:34.440153"
+    },
+    "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html": {
+      "headline": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:18:43.684665",
+      "last_seen": "2026-02-20T11:18:43.684680"
+    },
+    "https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html": {
+      "headline": "AI-enabled robotics could shift global manufacturing power, says Wendy Tan White",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:18:51.386700",
+      "last_seen": "2026-02-20T11:18:51.386719"
+    },
+    "https://www.cnbc.com/2026/02/18/nvidia-india-ai-vc-data-center-partners.html": {
+      "headline": "Nvidia is partnering with major Indian VC firms in search for the country's next AI start-ups",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:18:59.645362",
+      "last_seen": "2026-02-20T11:18:59.645376"
+    },
+    "https://www.cnbc.com/2026/02/19/chinese-tech-companies-progress-remarkable-openai-altman-tells-cnbc.html": {
+      "headline": "Chinese tech companies progress 'remarkable,' OpenAI's Altman tells CNBC",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:06.210053",
+      "last_seen": "2026-02-20T11:19:06.210068"
+    },
+    "https://www.cnbc.com/2026/02/19/quantum-computing-data-centers-ai-tech-microsoft.html": {
+      "headline": "Quantum's big leap puts data centers in the spotlight",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:19:11.956394",
+      "last_seen": "2026-02-20T11:19:11.956408"
+    },
+    "https://www.cnbc.com/2026/02/19/accenture-ai-orders-senior-staff-lose-out-promotions.html": {
+      "headline": "Accenture orders senior staff to use AI tools or risk losing out on promotions",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:19:17.891104",
+      "last_seen": "2026-02-20T11:19:17.891118"
+    },
+    "https://www.cnbc.com/2026/02/19/figma-stock-earnings-ai-risk.html": {
+      "headline": "Figma shares climb on earnings beat, but analysts note that AI risk remains",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:19:25.484574",
+      "last_seen": "2026-02-20T11:19:25.484591"
+    },
+    "https://www.cnbc.com/2026/02/18/meta-deal-for-nvidia-chips-is-a-big-deal-these-2-charts-illustrate-why.html": {
+      "headline": "Meta's AI deal for millions of Nvidia chips signals major enterprise AI push",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:32.224944",
+      "last_seen": "2026-02-20T11:19:32.224963"
+    },
+    "https://www.cnbc.com/2026/02/18/europe-digital-sovereignty-geopolitical-tensions.html": {
+      "headline": "European countries accelerate bids for digital sovereignty amid AI and cloud infrastructure race",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:38.047528",
+      "last_seen": "2026-02-20T11:19:38.047542"
+    },
+    "https://www.cnbc.com/2026/02/18/microsoft-president-brad-smith-chinese-ai-subsidies.html": {
+      "headline": "Microsoft’s Brad Smith says U.S. tech should ‘worry a little’ about China's subsidies",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:43.684726",
+      "last_seen": "2026-02-20T11:19:43.684741"
+    },
+    "https://www.cnbc.com/2026/02/19/dueling-pacs-take-center-stage-in-midterm-elections-over-ai-regulation": {
+      "headline": "AI regulation and policy changes affecting investments: Dueling PACs take center stage in midterm elections over AI regulation",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:49.895929",
+      "last_seen": "2026-02-20T11:19:49.895943"
+    },
+    "https://www.cnbc.com/2026/02/18/cadence-design-systems-stock-earnings-ai-chip.html": {
+      "headline": "Chip manufacturing and semiconductor news: Cadence Design Systems shares pop on earnings beat, custom chip optimism",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:19:57.664012",
+      "last_seen": "2026-02-20T11:19:57.664031"
+    },
+    "https://www.cnbc.com/2026/02/19/openai-sam-altman-india-ai-summit.html": {
+      "headline": "AI model releases, updates, and breakthroughs: OpenAI's latest GPT-4 update boosts enterprise adoption",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:20:03.031330",
+      "last_seen": "2026-02-20T11:20:03.031348"
+    },
+    "https://www.cnbc.com/2026/02/19/whats-behind-a-big-jump-in-january-property-tech-funding.html": {
+      "headline": "Hardware startups and funding: Semiconductor equipment and materials see renewed investor interest",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:20:15.787797",
+      "last_seen": "2026-02-20T11:20:15.787813"
+    },
+    "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html": {
+      "headline": "OpenAI resets spending expectations, says compute target is around $600 billion by 2030",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:27.623492",
+      "last_seen": "2026-02-23T12:18:27.623507"
+    },
+    "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html": {
+      "headline": "Tech giants commit hundreds of billions of dollars to Indian AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:31.507716",
+      "last_seen": "2026-02-23T12:18:31.507730"
+    },
+    "https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html": {
+      "headline": "China’s humanoid robots go from viral stumbles to kung fu flips in one year",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:35.467812",
+      "last_seen": "2026-02-23T12:18:35.467836"
+    },
+    "https://www.cnbc.com/2026/02/20/ai-infrastructure-investments-and-data-center-developments.html": {
+      "headline": "AI infrastructure investments and data center developments",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:40.381689",
+      "last_seen": "2026-02-23T12:18:40.381703"
+    },
+    "https://www.cnbc.com/2026/02/20/jim-cramer-says-this-hot-tech-stock-can-help-solve-americas-energy-problems.html": {
+      "headline": "Robotics company news, funding, and product launches",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:45.506135",
+      "last_seen": "2026-02-23T12:18:45.506149"
+    },
+    "https://www.cnbc.com/2026/02/20/tech-download-newsletter-china-ai-race.html": {
+      "headline": "Chip manufacturing and semiconductor news impacting AI infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:54.403890",
+      "last_seen": "2026-02-23T12:18:54.403906"
+    },
+    "https://www.cnbc.com/2026/02/20/the-edge-computing-for-ai-applications-gaining-traction.html": {
+      "headline": "Edge computing for AI applications gaining traction",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:18:59.160827",
+      "last_seen": "2026-02-23T12:18:59.160841"
+    },
+    "https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html": {
+      "headline": "AI regulation and policy changes affecting investment landscape",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:19:02.991081",
+      "last_seen": "2026-02-23T12:19:02.991098"
+    },
+    "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html": {
+      "headline": "Major tech companies' AI and robotics IPOs and strategic moves",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:19:10.119940",
+      "last_seen": "2026-02-23T12:19:10.119954"
+    },
+    "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html": {
+      "headline": "IBM is the latest AI casualty. Shares tank 13% on Anthropic threat",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:20.814891",
+      "last_seen": "2026-02-24T10:44:20.814908"
+    },
+    "https://www.cnbc.com/2026/02/23/amazon-louisiana-ai-data-centers.html": {
+      "headline": "Amazon to spend $12 billion in Louisiana on AI data centers",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:25.478366",
+      "last_seen": "2026-02-24T10:44:25.478381"
+    },
+    "https://www.cnbc.com/2026/02/23/anthropic-ai-dario-defense-secretary-pete-hegseth.html": {
+      "headline": "Anthropic CEO to meet with Defense Secretary Pete Hegseth on AI DOD model use",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:30.591627",
+      "last_seen": "2026-02-24T10:44:30.591647"
+    },
+    "https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html": {
+      "headline": "Google spinout Aalyria valued at $1.3B as investors pour into space-based communications",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:37.384256",
+      "last_seen": "2026-02-24T10:44:37.384273"
+    },
+    "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html": {
+      "headline": "OpenAI lands multiyear deals with consulting giants in enterprise push",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:43.766530",
+      "last_seen": "2026-02-24T10:44:43.766546"
+    },
+    "https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html": {
+      "headline": "Finland's IQM to become one of Europe's first listed quantum companies",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:49.875979",
+      "last_seen": "2026-02-24T10:44:49.875994"
+    },
+    "https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html": {
+      "headline": "Sam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:44:55.379188",
+      "last_seen": "2026-02-24T10:44:55.379203"
+    },
+    "https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html": {
+      "headline": "Microsoft Xbox chief Phil Spencer retires, replaced by AI executive Asha Sharma",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:45:01.779402",
+      "last_seen": "2026-02-24T10:45:01.779418"
+    },
+    "https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html": {
+      "headline": "AI robots may outnumber workers in few decades, former Citi exec says",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:45:07.115130",
+      "last_seen": "2026-02-24T10:45:07.115147"
+    },
+    "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html": {
+      "headline": "Tesla sues California DMV to reverse ruling that company engaged in false advertising",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:45:12.282709",
+      "last_seen": "2026-02-24T10:45:12.282728"
+    },
+    "https://www.cnbc.com/2026/02/23/cybersecurity-stock-selling-deepens-on-ai-threat-concerns-why-were-not-bailing": {
+      "headline": "Cybersecurity stock selling deepens on AI threat concerns. Why we're not bailing",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:45:16.914987",
+      "last_seen": "2026-02-24T10:45:16.915004"
+    },
+    "https://www.cnbc.com/2026/02/23/jim-cramer-says-ai-fears-have-made-the-stock-market-fragile.html": {
+      "headline": "AI disruption fears cause tech stocks to decline; market impacts and strategic responses",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:45:27.498711",
+      "last_seen": "2026-02-24T10:45:27.498733"
+    },
+    "https://www.cnbc.com/2026/02/23/enterprise-ai-platforms-see-surge-in-funding-and-strategic-partnerships.html": {
+      "headline": "Enterprise AI platforms see surge in funding and strategic partnerships",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:45:46.066604",
+      "last_seen": "2026-02-24T10:45:46.066619"
+    },
+    "https://www.cnbc.com/2026/02/23/robotics-and-automation-companies-attract-significant-investment-as-industrial-automation-accelerates.html": {
+      "headline": "Robotics and automation companies attract significant investment as industrial automation accelerates",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:45:53.714481",
+      "last_seen": "2026-02-24T10:45:53.714501"
+    },
+    "https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html": {
+      "headline": "Nvidia earnings report collides with Wall Street skepticism over AI spending",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:10:31.600040",
+      "last_seen": "2026-02-25T11:10:31.600055"
+    },
+    "https://www.cnbc.com/2026/02/24/why-amds-megadeal-with-meta-shows-nvidia-is-still-the-best-game-in-town.html": {
+      "headline": "Meta to use 6GW of AMD GPUs, days after expanded Nvidia chip deal",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:10:39.960473",
+      "last_seen": "2026-02-25T11:10:39.960489"
+    },
+    "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html": {
+      "headline": "Stripe valued at $159 billion after tender offer for employees, shareholders",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:10:53.268589",
+      "last_seen": "2026-02-25T11:10:53.268604"
+    },
+    "https://www.cnbc.com/2026/02/24/apple-to-move-some-mac-mini-production-to-us-in-2026.html": {
+      "headline": "Apple moving some Mac Mini production to U.S. in boost to domestic manufacturing",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:01.067553",
+      "last_seen": "2026-02-25T11:11:01.067568"
+    },
+    "https://www.cnbc.com/2026/02/24/microsoft-spacex-starlink-global-internet.html": {
+      "headline": "Microsoft and SpaceX's Starlink partner on global community internet effort",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:08.760064",
+      "last_seen": "2026-02-25T11:11:08.760081"
+    },
+    "https://www.cnbc.com/2026/02/24/anthropic-ai-hegseth-spying-defense.html": {
+      "headline": "Anthropic faces Friday deadline in Defense AI clash with Hegseth",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:20.735472",
+      "last_seen": "2026-02-25T11:11:20.735487"
+    },
+    "https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html": {
+      "headline": "Cato Networks tops revenue milestone as CEO says AI is helping business",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:31.891802",
+      "last_seen": "2026-02-25T11:11:31.891819"
+    },
+    "https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html": {
+      "headline": "Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:40.344362",
+      "last_seen": "2026-02-25T11:11:40.344379"
+    },
+    "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html": {
+      "headline": "Intel partners with AI startup SambaNova after buyout talks reportedly failed",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:11:51.899785",
+      "last_seen": "2026-02-25T11:11:51.899800"
+    },
+    "https://www.cnbc.com/2023/02/24/openai-lands-multiyear-deals-with-consulting-giants-in-enterprise-push.html": {
+      "headline": "OpenAI lands multiyear deals with consulting giants in enterprise push",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:12:04.738437",
+      "last_seen": "2026-02-25T11:12:04.738453"
+    },
+    "https://www.cnbc.com/2026/02/24/waymo-opens-robotaxi-service-to-select-riders-in-4-more-us-cities.html": {
+      "headline": "Waymo opens robotaxi service to 'select riders' in 4 more U.S. cities",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:12:14.829611",
+      "last_seen": "2026-02-25T11:12:14.829626"
+    },
+    "https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html": {
+      "headline": "Cognizant invests heavily in AI-driven automation solutions for enterprise clients",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:12:24.097247",
+      "last_seen": "2026-02-25T11:12:24.097263"
+    },
+    "https://www.cnbc.com/2026/02/25/nvidia-forecast-points-to-accelerating-growth-vera-rubin-hits-market.html": {
+      "headline": "Nvidia's forecast points to accelerating growth, as Vera Rubin starts hitting market",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:23.261068",
+      "last_seen": "2026-02-26T10:59:23.261086"
+    },
+    "https://www.cnbc.com/2026/02/25/nvidia-keeps-the-ai-party-alive-with-a-booming-quarter-and-even-better-outlook.html": {
+      "headline": "Nvidia keeps the AI party alive with a booming quarter and even better outlook",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:27.737422",
+      "last_seen": "2026-02-26T10:59:27.737439"
+    },
+    "https://www.cnbc.com/2026/02/25/nvidia-earnings-report-q4-2026.html": {
+      "headline": "Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T10:59:32.511345",
+      "last_seen": "2026-02-26T10:59:32.511362"
+    },
+    "https://www.cnbc.com/2026/02/25/thrive-capital-openai-joshua-kushner.html": {
+      "headline": "Thrive Capital put $1 billion into OpenAI at a $285 billion valuation: Source",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:37.560552",
+      "last_seen": "2026-02-26T10:59:37.560567"
+    },
+    "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html": {
+      "headline": "Samsung launches S26 smartphone as sector braces for memory chip crunch",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:40.884458",
+      "last_seen": "2026-02-26T10:59:40.884478"
+    },
+    "https://www.cnbc.com/2026/02/25/samsung-s26-launch-gemini-ai-apple-siri.html": {
+      "headline": "Samsung's S26 gives an advance look at what the AI-powered Apple Siri could do",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:45.083989",
+      "last_seen": "2026-02-26T10:59:45.084006"
+    },
+    "https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html": {
+      "headline": "Intrinsic, former Alphabet 'moonshot' robotics company, is folding into Google",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:48.522227",
+      "last_seen": "2026-02-26T10:59:48.522244"
+    },
+    "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html": {
+      "headline": "Salesforce sinks on mixed guidance as company commits $50 billion for buybacks",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:51.972286",
+      "last_seen": "2026-02-26T10:59:51.972302"
+    },
+    "https://www.cnbc.com/2026/02/25/axon-enterprise-axon-q4-2025-earnings.html": {
+      "headline": "Taser maker Axon pops nearly 18% as AI boosts demand for its software tools",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T10:59:56.429971",
+      "last_seen": "2026-02-26T10:59:56.429987"
+    },
+    "https://www.cnbc.com/2026/02/24/google-to-build-data-center-in-minnesota-with-solar-wind-and-battery-storage.html": {
+      "headline": "Google to build data center in Minnesota with new solar, wind and battery storage",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:00:01.279513",
+      "last_seen": "2026-02-26T11:00:01.279529"
+    },
+    "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html": {
+      "headline": "First look at Nvidia’s AI system Vera Rubin and how it beats Blackwell",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:00:07.818509",
+      "last_seen": "2026-02-26T11:00:07.818526"
+    },
+    "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html": {
+      "headline": "PayPal pops nearly 7% on report Stripe is weighing an acquisition",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:00:11.108269",
+      "last_seen": "2026-02-26T11:00:11.108284"
+    },
+    "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html": {
+      "headline": "Head of Amazon’s AGI lab is leaving the company",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:00:16.428560",
+      "last_seen": "2026-02-26T11:00:16.428578"
+    },
+    "https://www.cnbc.com/2026/02/24/workday-wday-q4-earnings-report-2026.html": {
+      "headline": "Workday stock sinks on weak revenue guidance",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:00:21.025124",
+      "last_seen": "2026-02-26T11:00:21.025142"
+    },
+    "https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up": {
+      "headline": "Cursor announces major update to AI agents as coding tool battle heats up",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:00:31.349709",
+      "last_seen": "2026-02-26T11:00:31.349733"
+    },
+    "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html": {
+      "headline": "Anthropic CEO Amodei says Pentagon's threats 'do not change our position' on AI",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:16:49.067315",
+      "last_seen": "2026-02-27T11:16:49.067335"
+    },
+    "https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html": {
+      "headline": "CoreWeave shares slip 8% as quarterly revenue guidance disappoints",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:16:53.333982",
+      "last_seen": "2026-02-27T11:16:53.334002"
+    },
+    "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html": {
+      "headline": "Block shares soar 24% as company slashes workforce by nearly half",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:16:58.166551",
+      "last_seen": "2026-02-27T11:16:58.166570"
+    },
+    "https://www.cnbc.com/2026/02/26/have-we-seen-peak-pricing-power-for-nvidia-chips.html": {
+      "headline": "Have we seen peak pricing power for Nvidia chips?",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:03.043492",
+      "last_seen": "2026-02-27T11:17:03.043511"
+    },
+    "https://www.cnbc.com/2026/02/26/jim-cramer-the-reason-why-nvidias-stock-is-falling-even-after-its-blowout-outlook.html": {
+      "headline": "Jim Cramer: The reason why Nvidia's stock is falling even after its blowout outlook",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:07.112635",
+      "last_seen": "2026-02-27T11:17:07.112654"
+    },
+    "https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html": {
+      "headline": "Google launches Nano Banana 2, updating its viral AI image generator",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:12.116469",
+      "last_seen": "2026-02-27T11:17:12.116486"
+    },
+    "https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html": {
+      "headline": "C3 AI shares plummet 17% as company cuts 26% of workforce, posts big loss",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:16.636085",
+      "last_seen": "2026-02-27T11:17:16.636105"
+    },
+    "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html": {
+      "headline": "Ebay laying off about 800 roles, or 6% of its workforce",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:21.342909",
+      "last_seen": "2026-02-27T11:17:21.342925"
+    },
+    "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html": {
+      "headline": "World's biggest sovereign wealth fund using AI to for ethical investment checks",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:17:26.831041",
+      "last_seen": "2026-02-27T11:17:26.831065"
+    },
+    "https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html": {
+      "headline": "Nvidia still hasn't sold its U.S.-approved China AI chips — and it’s worried local AI rivals could take over",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:17:50.220738",
+      "last_seen": "2026-02-27T11:17:50.220759"
+    },
+    "https://www.cnbc.com/2026/02/26/saas-software-saaspocalypse-sell-off-ai-openai-anthropic-oracle-salesforce.html": {
+      "headline": "‘Software will eat AI,’ HSBC says. Here are the bank's top picks",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:18:01.764535",
+      "last_seen": "2026-02-27T11:18:01.764558"
+    },
+    "https://www.cnbc.com/2026/02/25/ai-disruption-didnt-show-up-in-salesforce-results-but-the-fears-are-hard-to-shake.html": {
+      "headline": "AI disruption didn't show up in Salesforce results. But the fears are hard to shake",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:18:29.240939",
+      "last_seen": "2026-02-27T11:18:29.240951"
+    },
+    "https://www.cnbc.com/2026/02/26/huang-nvidia-anthropic-pentagon-hegseth-ai.html": {
+      "headline": "Nvidia’s Huang says any Pentagon–Anthropic rift is 'not the end of the world'",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:18:38.974579",
+      "last_seen": "2026-02-27T11:18:38.974594"
+    },
+    "https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html": {
+      "headline": "Nvidia’s Jensen Huang says markets ‘got it wrong’ on AI threat to software companies",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:18:44.096642",
+      "last_seen": "2026-02-27T11:18:44.096663"
+    },
+    "https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html": {
+      "headline": "Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:07.004922",
+      "last_seen": "2026-03-02T09:49:07.004939"
+    },
+    "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html": {
+      "headline": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:11.091377",
+      "last_seen": "2026-03-02T09:49:11.091392"
+    },
+    "https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html": {
+      "headline": "Anthropic's Claude hits No. 1 on Apple's top free apps list after DOD rejection",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:14.463939",
+      "last_seen": "2026-03-02T09:49:14.463954"
+    },
+    "https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html": {
+      "headline": "AI just leveled up and there are no guardrails anymore",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:19.106653",
+      "last_seen": "2026-03-02T09:49:19.106672"
+    },
+    "https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html": {
+      "headline": "Jack Dorsey made the loudest case yet that AI is already replacing jobs",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:23.688675",
+      "last_seen": "2026-03-02T09:49:23.688692"
+    },
+    "https://www.cnbc.com/2026/02/27/how-amazons-massive-stake-in-openai-could-boost-its-ai-and-cloud-businesses": {
+      "headline": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:27.482905",
+      "last_seen": "2026-03-02T09:49:27.482920"
+    },
+    "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html": {
+      "headline": "OpenAI closes $110 billion funding round backed by Amazon, Nvidia, SoftBank",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:33.477039",
+      "last_seen": "2026-03-02T09:49:33.477054"
+    },
+    "https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator": {
+      "headline": "Google launches Nano Banana 2, updating its viral AI image generator",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:38.937668",
+      "last_seen": "2026-03-02T09:49:38.937694"
+    },
+    "https://www.cnbc.com/2026/03/01/'failure-at-scale'-the-ai-risk-that-can-tip-the-business-world-into-chaos": {
+      "headline": "AI Age: The risk that can tip the business world into chaos",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:43.156681",
+      "last_seen": "2026-03-02T09:49:43.156696"
+    },
+    "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html": {
+      "headline": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:49:46.857534",
+      "last_seen": "2026-03-02T09:49:46.857551"
+    },
+    "https://www.cnbc.com/2026/02/27/why-pentagon-anthropic-ai-clash-is-pivotal-in-future-warfare": {
+      "headline": "AI Age: The pivotal front in future warfare as Pentagon and Anthropic clash",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:50.663881",
+      "last_seen": "2026-03-02T09:49:50.663895"
+    },
+    "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth": {
+      "headline": "Nvidia wraps tough week as Wall Street focuses more on competition than growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:54.714803",
+      "last_seen": "2026-03-02T09:49:54.714820"
+    },
+    "https://www.cnbc.com/2026/02/27/dell-stock-earnings-memory-shortage-ai-servers.html": {
+      "headline": "Dell shares climb 22% on earnings beat amid rising memory costs",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:49:59.284171",
+      "last_seen": "2026-03-02T09:49:59.284188"
+    },
+    "https://www.cnbc.com/2023/02/09/ebay-laying-off-about-800-roles-or-6percent-of-its-workforce.html": {
+      "headline": "Ebay laying off about 800 roles, or 6% of its workforce",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:50:04.556419",
+      "last_seen": "2026-03-02T09:50:04.556433"
+    },
+    "https://www.cnbc.com/2026/03/01/semiconductor-supply-chain-updates-signal-potential-shifts-in-chip-manufacturing.html": {
+      "headline": "Semiconductor supply chain updates signal potential shifts in chip manufacturing",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:50:08.203940",
+      "last_seen": "2026-03-02T09:50:08.203956"
+    },
+    "https://www.cnbc.com/2026/03/01/ai-infrastructure-investments-accelerate-with-new-data-center-developments": {
+      "headline": "AI infrastructure investments accelerate with new data center developments",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:50:11.963609",
+      "last_seen": "2026-03-02T09:50:11.963625"
+    },
+    "https://www.cnbc.com/ai-age": {
+      "headline": "Robotics and automation companies see increased funding and product launches",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T09:50:17.195493",
+      "last_seen": "2026-03-02T09:50:17.195510"
+    },
+    "https://www.cnbc.com/2026/02/27/tech-firms-boost-investments-in-ai-chips-and-accelerators": {
+      "headline": "Major tech firms ramp up investments in AI chips and accelerators",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:50:21.215469",
+      "last_seen": "2026-03-02T09:50:21.215488"
+    },
+    "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html": {
+      "headline": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy' amid backlash",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:44:05.699055",
+      "last_seen": "2026-03-03T13:44:05.699070"
+    },
+    "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html": {
+      "headline": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:44:10.154817",
+      "last_seen": "2026-03-03T13:44:10.154834"
+    },
+    "https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html": {
+      "headline": "AI Age: 'Failure at scale': The AI risk that can tip the business world into chaos",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:44:15.693511",
+      "last_seen": "2026-03-03T13:44:15.693561"
+    },
+    "https://www.cnbc.com/2026/03/02/starlink-deutsche-telekom-partnership.html": {
+      "headline": "Starlink, Deutsche Telekom to launch satellite mobile service in Europe",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:44:23.156360",
+      "last_seen": "2026-03-03T13:44:23.156377"
+    },
+    "https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html": {
+      "headline": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:44:33.616684",
+      "last_seen": "2026-03-03T13:44:33.616698"
+    },
+    "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html": {
+      "headline": "Xiaomi launches flagship smartphone as memory price surge threatens sales",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:44:42.421340",
+      "last_seen": "2026-03-03T13:44:42.421355"
+    },
+    "https://www.cnbc.com/2026/02/27/openai-funding-round-amazon.html": {
+      "headline": "OpenAI closes $110 billion funding round backed by Amazon, Nvidia, SoftBank",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:44:48.295611",
+      "last_seen": "2026-03-03T13:44:48.295628"
+    },
+    "https://www.cnbc.com/2026/03/02/nvidia-invests-4-billion-in-photonics-companies-coherent-and-lumentum.html": {
+      "headline": "Nvidia's recent investments highlight focus on AI chip and photonics infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:44:55.826688",
+      "last_seen": "2026-03-03T13:44:55.826703"
+    },
+    "https://www.cnbc.com/2026/03/02/nvidia-to-invest-4-billion-into-photonics-companies-coherent-and-lumentum": {
+      "headline": "Major tech firms accelerate AI infrastructure investments amid geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:45:00.639506",
+      "last_seen": "2026-03-03T13:45:00.639523"
+    },
+    "https://www.cnbc.com/2026/03/02/ai-age/robotics-and-automation-startups-see-increased-funding-as-enterprise-ai-adoption-grows.html": {
+      "headline": "Robotics and automation startups see increased funding as enterprise AI adoption grows",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:45:05.185511",
+      "last_seen": "2026-03-03T13:45:05.185528"
+    },
+    "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html": {
+      "headline": "Apple raises MacBook prices as M5 chips, new displays signal AI-first strategy",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:26:23.559212",
+      "last_seen": "2026-03-04T09:26:23.559228"
+    },
+    "https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html": {
+      "headline": "Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:26:28.140161",
+      "last_seen": "2026-03-04T09:26:28.140178"
+    },
+    "https://www.cnbc.com/2026/03/03/google-employees-call-for-ai-military-limits-amid-iran-war-anthropic-fallout.html": {
+      "headline": "Google employees call for AI military limits amid Iran war, Anthropic fallout",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:34.906219",
+      "last_seen": "2026-03-04T09:26:34.906236"
+    },
+    "https://www.cnbc.com/2026/03/03/anthropic-pentagon-deal-mistake-correct-course-fcc-boss.html": {
+      "headline": "Anthropic made 'mistake' in Pentagon talks, should 'correct course': FCC boss",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:40.501401",
+      "last_seen": "2026-03-04T09:26:40.501416"
+    },
+    "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html": {
+      "headline": "Nvidia wraps tough week as Wall Street focuses more on competition than growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:44.976540",
+      "last_seen": "2026-03-04T09:26:44.976556"
+    },
+    "https://www.cnbc.com/2026/03/02/nvidia-invests-4-billion-in-photonics-coherent-lumentum.html": {
+      "headline": "Nvidia to invest in photonics companies Coherent and Lumentum",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:53.196490",
+      "last_seen": "2026-03-04T09:26:53.196505"
+    },
+    "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html": {
+      "headline": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:26:57.458574",
+      "last_seen": "2026-03-04T09:26:57.458590"
+    },
+    "https://www.cnbc.com/2026/03/03/openai-sam-altman-deals-with-pentagon-hours-after-rival-anthropic-blacklisted-by-trump.html": {
+      "headline": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:27:06.225085",
+      "last_seen": "2026-03-04T09:27:06.225101"
+    },
+    "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain": {
+      "headline": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:27:19.274462",
+      "last_seen": "2026-03-04T09:27:19.274476"
+    },
+    "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html": {
+      "headline": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:39.455465",
+      "last_seen": "2026-03-05T11:46:39.455483"
+    },
+    "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html": {
+      "headline": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:43.127398",
+      "last_seen": "2026-03-05T11:46:43.127413"
+    },
+    "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html": {
+      "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:46.686097",
+      "last_seen": "2026-03-05T11:46:46.686191"
+    },
+    "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html": {
+      "headline": "Broadcom beats on earnings and guidance as AI revenue doubles",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:50.144017",
+      "last_seen": "2026-03-05T11:46:50.144033"
+    },
+    "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html": {
+      "headline": "Apple announces MacBook Neo, its most affordable laptop ever",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:54.608037",
+      "last_seen": "2026-03-05T11:46:54.608055"
+    },
+    "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html": {
+      "headline": "Google's AI allegedly told user to stage 'mass casualty attack,' lawsuit claims",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:46:59.959826",
+      "last_seen": "2026-03-05T11:46:59.959838"
+    },
+    "https://www.cnbc.com/2026/03/04/as-bond-investors-fret-over-an-ai-bubble-what-investors-need-to-know.html": {
+      "headline": "As bond investors fret over an AI bubble, what investors need to know",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:47:04.118319",
+      "last_seen": "2026-03-05T11:47:04.118335"
+    },
+    "https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-interns": {
+      "headline": "Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:47:09.751453",
+      "last_seen": "2026-03-05T11:47:09.751471"
+    },
+    "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html": {
+      "headline": "China's Xiaomi plans yearly smartphone chip release, AI assistant for overseas",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:47:14.861669",
+      "last_seen": "2026-03-05T11:47:14.861686"
+    },
+    "https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips-opportunity": {
+      "headline": "Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:47:21.984286",
+      "last_seen": "2026-03-05T11:47:21.984302"
+    },
+    "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html": {
+      "headline": "Sam Altman tells OpenAI staff that 'operational decisions' are up to the military",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:47:26.493974",
+      "last_seen": "2026-03-05T11:47:26.493990"
+    },
+    "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html": {
+      "headline": "Anthropic made 'mistake' in Pentagon talks, should 'correct course': FCC boss",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:47:31.705644",
+      "last_seen": "2026-03-05T11:47:31.705662"
+    },
+    "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html": {
+      "headline": "Amazon Bahrain data center hit by Iran for supporting U.S. military",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:47:35.955034",
+      "last_seen": "2026-03-05T11:47:35.955048"
+    },
+    "https://www.cnbc.com/2026/03/04/tech-industry-group-expresses-concern-to-pete-hegseth-over-supply-chain-risk-label.html": {
+      "headline": "Tech industry group expresses 'concern' to Pete Hegseth over supply chain risk label",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:47:39.363662",
+      "last_seen": "2026-03-05T11:47:39.363678"
+    },
+    "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html": {
+      "headline": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:58:45.244050",
+      "last_seen": "2026-03-06T10:58:45.244067"
+    },
+    "https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html": {
+      "headline": "Anthropic CEO says 'no choice' but to challenge supply chain risk designation in court",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:58:49.196255",
+      "last_seen": "2026-03-06T10:58:49.196270"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcom-ceo-hock-tan-copper-pledge-tanks-corning-shares-but-sellers-are-mistaken.html": {
+      "headline": "Broadcom CEO's copper pledge tanks Corning shares — but sellers are mistaken",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:58:53.942372",
+      "last_seen": "2026-03-06T10:58:53.942389"
+    },
+    "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html": {
+      "headline": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:58:58.636974",
+      "last_seen": "2026-03-06T10:58:58.636989"
+    },
+    "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html": {
+      "headline": "OpenAI's Altman takes jabs at Anthropic at Morgan Stanley tech conference",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T10:59:06.281864",
+      "last_seen": "2026-03-06T10:59:06.281880"
+    },
+    "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims": {
+      "headline": "Google's AI allegedly told user to stage 'mass casualty attack,' lawsuit claims",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:14.254863",
+      "last_seen": "2026-03-06T10:59:14.254879"
+    },
+    "https://www.cnbc.com/2026/03/04/defense-tech-companies-are-dropping-claude-after-pentagons-anthropic-blacklist": {
+      "headline": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:22.688337",
+      "last_seen": "2026-03-06T10:59:22.688352"
+    },
+    "https://www.cnbc.com/2026/03/05/xiaomi-trials-humanoid-robots-in-its-ev-factory-says-theyre-like-interns.html": {
+      "headline": "Xiaomi trials humanoid robots in its EV factory — says they're like 'interns'",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:31.732605",
+      "last_seen": "2026-03-06T10:59:31.732623"
+    },
+    "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-goo": {
+      "headline": "Nvidia, Amazon temporarily close Dubai offices, Google employees stuck amid war",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:35.829340",
+      "last_seen": "2026-03-06T10:59:35.829356"
+    },
+    "https://www.cnbc.com/2023/10/23/sam-altman-tells-openai-staff-that-operational-decisions-are-up-to-the-military.html": {
+      "headline": "Sam Altman tells OpenAI staff that 'operational decisions' are up to the military",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:40.924687",
+      "last_seen": "2026-03-06T10:59:40.924706"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcom-stock-rallies-as-ceo-tan-makes-strong-case-for-why-ai-growth-will-last": {
+      "headline": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:47.624868",
+      "last_seen": "2026-03-06T10:59:47.624887"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcom-ceo-says-anthropic-products-remain-available-to-customers-after-security-risk-designation.html": {
+      "headline": "AI model releases, updates, and breakthroughs impacting enterprise applications",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:52.214430",
+      "last_seen": "2026-03-06T10:59:52.214447"
+    },
+    "https://www.cnbc.com/2026/03/05/ai-infrastructure-investments-surge-as-cloud-providers-expand-data-center-capacity.html": {
+      "headline": "AI infrastructure investments surge as cloud providers expand data center capacity",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T10:59:56.341458",
+      "last_seen": "2026-03-06T10:59:56.341476"
+    },
+    "https://www.cnbc.com/2026/03/05/microsoft-says-anthropic-s-products-can-remain-available-to-customers-after-security-risk-designation.html": {
+      "headline": "Major tech firms accelerate AI and robotics R&D to capitalize on market growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:00:02.481355",
+      "last_seen": "2026-03-06T11:00:02.481375"
+    },
+    "https://www.cnbc.com/2026/03/06/vast-funding-round-company-vies-for-nasa-space-station-contract.html": {
+      "headline": "Vast wraps $500M funding round as company vies for NASA space station contract",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:12:53.071690",
+      "last_seen": "2026-03-09T12:12:53.071710"
+    },
+    "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html": {
+      "headline": "Google joins Microsoft in telling users Anthropic is still available outside defense",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:12:58.064816",
+      "last_seen": "2026-03-09T12:12:58.064834"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken": {
+      "headline": "Broadcom CEO's copper pledge tanks Corning shares — but sellers are mistaken",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:03.576796",
+      "last_seen": "2026-03-09T12:13:03.576816"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcoms-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win.html": {
+      "headline": "Broadcom's AI chip business stays hot and gives the bulls a much-needed win",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:07.422620",
+      "last_seen": "2026-03-09T12:13:07.422637"
+    },
+    "https://www.cnbc.com/2026/03/06/marvell-shares-surge-18percent-as-ceo-points-to-continuing-ai-demand.html": {
+      "headline": "Marvell stock surges 20% as CEO touts continuing AI demand in 2027",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:13.045815",
+      "last_seen": "2026-03-09T12:13:13.045834"
+    },
+    "https://www.cnbc.com/2026/03/06/amazon-says-anthropic-claude-still-ok-for-aws-customers-to-use-outside-defense-work": {
+      "headline": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:18.745133",
+      "last_seen": "2026-03-09T12:13:18.745160"
+    },
+    "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html": {
+      "headline": "Samsung reveals first details of its AI smart glasses to CNBC",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:22.844743",
+      "last_seen": "2026-03-09T12:13:22.844762"
+    },
+    "https://www.cnbc.com/2026/03/07/irans-internet-blackout-extends-into-second-week-netblocks.html": {
+      "headline": "Iran's internet blackout extends into second week: NetBlocks",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:26.732453",
+      "last_seen": "2026-03-09T12:13:26.732467"
+    },
+    "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html": {
+      "headline": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:31.017209",
+      "last_seen": "2026-03-09T12:13:31.017228"
+    },
+    "https://www.cnbc.com/2026/03/05/defense-experts-back-anthropic-to-congress-slam-dod-for-dangerous-precedent": {
+      "headline": "Defense experts back Anthropic to Congress, slam DOD for 'dangerous precedent'",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:35.237941",
+      "last_seen": "2026-03-09T12:13:35.237964"
+    },
+    "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html": {
+      "headline": "AI's got a gender gap: Women are more skeptical",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:39.095610",
+      "last_seen": "2026-03-09T12:13:39.095628"
+    },
+    "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html": {
+      "headline": "Anthropic and the Pentagon are back at the negotiating table, FT reports",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:45.093412",
+      "last_seen": "2026-03-09T12:13:45.093432"
+    },
+    "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken.html": {
+      "headline": "Broadcom CEO's copper pledge tanks Corning shares — but sellers are mistaken",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:49.663971",
+      "last_seen": "2026-03-09T12:13:49.663990"
+    },
+    "https://www.cnbc.com/2026/03/05/5-big-questions-anthropic-pentagon-ai-war.html": {
+      "headline": "AI Age: 5 unresolved questions in the Anthropic–Pentagon fracas: 'All very puzzling'",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:54.027281",
+      "last_seen": "2026-03-09T12:13:54.027302"
+    },
+    "https://www.cnbc.com/2026/03/06/google-joins-microsoft-in-telling-users-anthropic-is-still-available-outside-defense": {
+      "headline": "Tech: Google reveals details of AI smart glasses to CNBC",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:13:58.314534",
+      "last_seen": "2026-03-09T12:13:58.314552"
+    },
+    "https://www.cnbc.com/2026/03/06/the-tech-download-data-centers-become-military-targets-as-iran-war-rages-on": {
+      "headline": "Data center developments become strategic assets amid Iran war and geopolitical tensions",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:14:05.222016",
+      "last_seen": "2026-03-09T12:14:05.222035"
+    },
+    "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html": {
+      "headline": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:01:49.369067",
+      "last_seen": "2026-03-10T10:01:49.369083"
+    },
+    "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html": {
+      "headline": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:01:53.042862",
+      "last_seen": "2026-03-10T10:01:53.042878"
+    },
+    "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html": {
+      "headline": "Anthropic sues Trump administration over Pentagon blacklist",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:01:56.762653",
+      "last_seen": "2026-03-10T10:01:56.762669"
+    },
+    "https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html": {
+      "headline": "Microsoft adds higher-priced Office tier with AI as it tries to juice sales",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:02:01.779668",
+      "last_seen": "2026-03-10T10:02:01.779685"
+    },
+    "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-valuation.html": {
+      "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:05.544672",
+      "last_seen": "2026-03-10T10:02:05.544689"
+    },
+    "https://www.cnbc.com/2026/03/09/broadcom-ceo-tan-ai-growth-will-last.html": {
+      "headline": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:15.048628",
+      "last_seen": "2026-03-10T10:02:15.048650"
+    },
+    "https://www.cnbc.com/2026/03/06/vast-funding-nasa-space-station-contract": {
+      "headline": "Vast wraps $500M funding round as company vies for NASA space station contract",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:20.198146",
+      "last_seen": "2026-03-10T10:02:20.198175"
+    },
+    "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html": {
+      "headline": "Palantir jumps 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:24.190791",
+      "last_seen": "2026-03-10T10:02:24.190808"
+    },
+    "https://www.cnbc.com/2026/03/06/amazon-says-anthropic-claude-pentagon-blacklist.html": {
+      "headline": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:28.912758",
+      "last_seen": "2026-03-10T10:02:28.912774"
+    },
+    "https://www.cnbc.com/2026/03/09/nvidia-backs-ai-data-center-startup-nscale-as-it-hits-14point6-billion-valuation.html": {
+      "headline": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:02:37.970264",
+      "last_seen": "2026-03-10T10:02:37.970280"
+    }
+  }
+}

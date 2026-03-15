@@ -1,0 +1,393 @@
+// Sample data structure - replace with your actual data
+// You can either fetch from Google Sheets API or update this manually
+const headlinesData = [
+  {
+    country: "British",
+    newspaper: "The Sunday Times",
+    website: "https://www.thetimes.com/",
+    headline:
+      "Diane Keaton obituary: Oscar winner who redefined the independent woman",
+    link: "https://www.thetimes.com/uk/obituaries/article/diane-keaton-obituary-death-60sh503dg",
+    flag: "🇬🇧",
+  },
+  {
+    country: "Qatar",
+    newspaper: "Doha News",
+    website: "https://dohanews.co/",
+    headline: "",
+    link: "",
+    flag: "🇶🇦",
+  },
+  {
+    country: "Georgia",
+    newspaper: "Civil Georgia",
+    website: "https://civil.ge/",
+    headline: "",
+    link: "",
+    flag: "🇬🇪",
+  },
+  {
+    country: "The Philippines",
+    newspaper: "Philippine Daily Inquirer",
+    website: "https://www.inquirer.net/",
+    headline: "",
+    link: "",
+    flag: "🇵🇭",
+  },
+  {
+    country: "Puerto Rico",
+    newspaper: "NotiCel",
+    website: "https://noticel.com/",
+    headline: "",
+    link: "",
+    flag: "🇵🇷",
+  },
+  {
+    country: "Jordan",
+    newspaper: "The Jordan Times",
+    website: "https://jordantimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇯🇴",
+  },
+  {
+    country: "Ireland",
+    newspaper: "The Irish Times",
+    website: "https://www.irishtimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇮🇪",
+  },
+  {
+    country: "Australia",
+    newspaper: "The Sydney Morning Herald",
+    website: "https://www.smh.com.au/",
+    headline: "",
+    link: "",
+    flag: "🇦🇺",
+  },
+  {
+    country: "Sweden",
+    newspaper: "Sveriges Television (SVT)",
+    website: "https://www.svt.se/",
+    headline: "",
+    link: "",
+    flag: "🇸🇪",
+  },
+  {
+    country: "Tunisia",
+    newspaper: "Nawaat",
+    website: "https://nawaat.org/",
+    headline: "",
+    link: "",
+    flag: "🇹🇳",
+  },
+  {
+    country: "Albania",
+    newspaper: "Tirana Times",
+    website: "https://www.tiranatimes.com/",
+    headline: "",
+    link: "",
+    flag: "🇦🇱",
+  },
+];
+
+// Country to flag emoji mapping
+const countryFlags = {
+  British: "🇬🇧",
+  "United Kingdom": "🇬🇧",
+  UK: "🇬🇧",
+  Qatar: "🇶🇦",
+  Georgia: "🇬🇪",
+  "The Philippines": "🇵🇭",
+  Philippines: "🇵🇭",
+  "Puerto Rico": "🇵🇷",
+  Jordan: "🇯🇴",
+  Ireland: "🇮🇪",
+  Australia: "🇦🇺",
+  Sweden: "🇸🇪",
+  Tunisia: "🇹🇳",
+  Albania: "🇦🇱",
+  "United States": "🇺🇸",
+  USA: "🇺🇸",
+  Canada: "🇨🇦",
+  France: "🇫🇷",
+  Germany: "🇩🇪",
+  Italy: "🇮🇹",
+  Spain: "🇪🇸",
+  Japan: "🇯🇵",
+  China: "🇨🇳",
+  India: "🇮🇳",
+  Brazil: "🇧🇷",
+  Mexico: "🇲🇽",
+  Russia: "🇷🇺",
+  "South Korea": "🇰🇷",
+  Netherlands: "🇳🇱",
+  Belgium: "🇧🇪",
+  Switzerland: "🇨🇭",
+  Austria: "🇦🇹",
+  Poland: "🇵🇱",
+  Turkey: "🇹🇷",
+  Egypt: "🇪🇬",
+  "South Africa": "🇿🇦",
+  Nigeria: "🇳🇬",
+  Kenya: "🇰🇪",
+  Argentina: "🇦🇷",
+  Chile: "🇨🇱",
+  Colombia: "🇨🇴",
+  Peru: "🇵🇪",
+  Thailand: "🇹🇭",
+  Vietnam: "🇻🇳",
+  Indonesia: "🇮🇩",
+  Malaysia: "🇲🇾",
+  Singapore: "🇸🇬",
+  "New Zealand": "🇳🇿",
+  Norway: "🇳🇴",
+  Denmark: "🇩🇰",
+  Finland: "🇫🇮",
+  Portugal: "🇵🇹",
+  Greece: "🇬🇷",
+  "Czech Republic": "🇨🇿",
+  Hungary: "🇭🇺",
+  Romania: "🇷🇴",
+  Ukraine: "🇺🇦",
+  Israel: "🇮🇱",
+  UAE: "🇦🇪",
+  "Saudi Arabia": "🇸🇦",
+  Pakistan: "🇵🇰",
+  Bangladesh: "🇧🇩",
+};
+
+// Get flag for country
+function getFlag(country) {
+  return countryFlags[country] || "🌍";
+}
+
+// Format date
+function formatDate(date) {
+  const options = {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  };
+  return date.toLocaleDateString("en-US", options);
+}
+
+// Create headline card
+function createHeadlineCard(data) {
+  const hasHeadline = data.headline && data.headline.trim() !== "";
+
+  const card = document.createElement("div");
+  card.className = `headline-card ${!hasHeadline ? "no-headline" : ""}`;
+  card.dataset.country = data.country.toLowerCase();
+  card.dataset.newspaper = data.newspaper.toLowerCase();
+
+  card.innerHTML = `
+        <div class="card-header">
+            <div class="country-info">
+                <div class="country-name">${data.country}</div>
+                <div class="newspaper-name">
+                    <a href="${
+                      data.website
+                    }" target="_blank" rel="noopener noreferrer" class="newspaper-link">
+                        ${data.newspaper}
+                    </a>
+                </div>
+            </div>
+            <div class="flag-icon">${data.flag || getFlag(data.country)}</div>
+        </div>
+        <div class="headline-content">
+            ${
+              hasHeadline
+                ? `
+                <p class="headline-text">${data.headline}</p>
+            `
+                : `
+                <p class="headline-text no-headline-text">No headline available yet</p>
+            `
+            }
+        </div>
+        ${
+          hasHeadline && data.link
+            ? `
+            <a href="${data.link}" target="_blank" rel="noopener noreferrer" class="read-more">
+                Read full story
+            </a>
+        `
+            : ""
+        }
+    `;
+
+  return card;
+}
+
+// Render headlines
+function renderHeadlines(data) {
+  const container = document.getElementById("headlinesContainer");
+  const loadingState = document.getElementById("loadingState");
+
+  loadingState.style.display = "none";
+  container.innerHTML = "";
+
+  if (data.length === 0) {
+    container.innerHTML = `
+            <div class="empty-state">
+                <p>No headlines found matching your search.</p>
+            </div>
+        `;
+    return;
+  }
+
+  data.forEach((item) => {
+    const card = createHeadlineCard(item);
+    container.appendChild(card);
+  });
+}
+
+// Search functionality
+function setupSearch() {
+  const searchInput = document.getElementById("searchInput");
+
+  searchInput.addEventListener("input", (e) => {
+    const searchTerm = e.target.value.toLowerCase();
+
+    const filteredData = headlinesData.filter((item) => {
+      return (
+        item.country.toLowerCase().includes(searchTerm) ||
+        item.newspaper.toLowerCase().includes(searchTerm)
+      );
+    });
+
+    renderHeadlines(filteredData);
+  });
+}
+
+// Initialize the app
+function init() {
+  // Update last updated time
+  const updateTimeElement = document.getElementById("updateTime");
+  updateTimeElement.textContent = formatDate(new Date());
+
+  // Render headlines
+  renderHeadlines(headlinesData);
+
+  // Setup search
+  setupSearch();
+}
+
+// Get today's date in DD/MM/YYYY format (matching the sheet format)
+function getTodayDateString() {
+  const today = new Date();
+  const day = String(today.getDate()).padStart(2, '0');
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const year = today.getFullYear();
+  return `${day}/${month}/${year}`;
+}
+
+// Fetch data from Google Sheets - GlobalNews sheet
+async function fetchFromGoogleSheets() {
+  const SHEET_ID = "1oHKGMuBynXOJkkQpDTAtjfsv-jrTXpzI2jj29VCCDaM";
+  // Google Sheets API key for public access (same key used in event project)
+  const API_KEY = "AIzaSyCPyerGljBK4JJ-XA3aRr5cRvWssI3rwhI";
+  const SHEET_NAME = "GlobalNews"; // Changed from Sheet1 to GlobalNews
+  const RANGE = `${SHEET_NAME}!A2:F`; // Start from row 2 to skip header
+  // Columns: Date, Country, Newspaper, Headline, Link, Summary
+
+  const sheetLink = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${RANGE}?key=${API_KEY}`;
+
+  try {
+    console.log("Fetching data from Google Sheets (GlobalNews sheet)...");
+    const response = await fetch(sheetLink);
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    console.log("Data fetched successfully:", data);
+
+    // Check if we got any values
+    if (!data.values || data.values.length === 0) {
+      console.warn("No data found in GlobalNews sheet");
+      return [];
+    }
+
+    // Get today's date in multiple formats for filtering
+    const today = new Date();
+    const day = String(today.getDate()).padStart(2, '0');
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const year = today.getFullYear();
+    
+    // Format 1: DD/MM/YYYY (original format)
+    const todayDateDDMM = `${day}/${month}/${year}`;
+    
+    // Format 2: Month Day, Year (new unambiguous format, e.g., "January 8, 2025")
+    const monthNames = ["January", "February", "March", "April", "May", "June",
+                       "July", "August", "September", "October", "November", "December"];
+    const todayDateEnglish = `${monthNames[today.getMonth()]} ${today.getDate()}, ${year}`;
+    
+    // Format 3: MM/DD/YYYY (alternative format)
+    const todayDateMMDD = `${month}/${day}/${year}`;
+    
+    // Format 4: YYYY-MM-DD (ISO format)
+    const todayDateISO = `${year}-${month}-${day}`;
+    
+    console.log(`Filtering for today's date in formats: ${todayDateDDMM}, ${todayDateEnglish}, ${todayDateMMDD}, ${todayDateISO}`);
+
+    // Map the rows to headline objects and filter for today's news
+    // GlobalNews columns: Date (A), Country (B), Newspaper (C), Headline (D), Link (E), Summary (F)
+    const headlines = data.values
+      .filter((row) => {
+        // Filter for today's date (row[0] is Date column) - check multiple formats
+        const rowDate = (row[0] || "").trim();
+        const isToday = rowDate === todayDateDDMM || 
+                       rowDate === todayDateEnglish || 
+                       rowDate === todayDateMMDD ||
+                       rowDate === todayDateISO ||
+                       rowDate.toLowerCase() === todayDateEnglish.toLowerCase();
+        
+        return isToday && row[1] && row[2] && row[3]; // Must have Country, Newspaper, and Headline
+      })
+      .map((row) => ({
+        country: row[1] || "", // Column B: Country
+        newspaper: row[2] || "", // Column C: Newspaper
+        website: row[4] || "", // Column E: Link (used as website)
+        headline: row[3] || "", // Column D: Headline
+        link: row[4] || "", // Column E: Link
+        summary: row[5] || "", // Column F: Summary (optional, for future use)
+        flag: getFlag(row[1] || ""), // Get flag based on Country
+      }));
+
+    console.log(`Loaded ${headlines.length} headlines from GlobalNews sheet for today`);
+    return headlines;
+  } catch (error) {
+    console.error("Error fetching data from Google Sheets:", error);
+    document.getElementById("errorState").style.display = "block";
+    document.getElementById("loadingState").style.display = "none";
+    return [];
+  }
+}
+
+// Initialize with external data
+async function initApp() {
+  // Load from Google Sheets (live data)
+  const googleSheetsData = await fetchFromGoogleSheets();
+  if (googleSheetsData && googleSheetsData.length > 0) {
+    headlinesData.splice(0, headlinesData.length, ...googleSheetsData);
+    console.log("Using live data from Google Sheets");
+  } else {
+    console.log("Using embedded sample data");
+  }
+
+  init();
+}
+
+// Run when DOM is ready
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initApp);
+} else {
+  initApp();
+}

@@ -1,0 +1,31 @@
+## Tech News
+
+- **Netflix acquires Warner Bros. in $82.7 billion deal**: Netflix consolidates major franchises like Harry Potter and DC Comics, reshaping the entertainment industry.
+- **TikTok restructures US operations to avoid ban**: ByteDance retains less than 20% as US investors take control, with Oracle overseeing data security.
+- **Xiaomi announces HK$2.5 billion share buyback**: The move aims to support its stock amid competition, cost pressures, and chip shortages.
+- **Nvidia CEO to visit China as AI chip sales face restrictions**: Jensen Huang seeks to address US export limits impacting Nvidia’s Chinese business.
+- **Waymo investigated for illegal school bus passing**: US authorities probe Waymo after its autonomous vehicles were seen passing stopped school buses.
+- **Tesla discontinues Autopilot to boost Full Self-Driving adoption**: The company shifts to a subscription model and focuses on fully autonomous vehicles and robotaxis.
+- **Tesla robotaxis begin driverless operations in Austin**: Elon Musk says Tesla’s robotaxis will be widespread in the US by end of 2026.
+- **Intel stock plunges on weak guidance and chip production issues**: Shares drop up to 17% as manufacturing troubles overshadow earnings.
+- **Databricks secures $1.8 billion debt ahead of potential IPO**: The AI company now has access to over $7 billion as it eyes a public listing.
+- **GM to end Chevy Bolt EV production, move Buick Envision to US**: Production shifts from China to Kansas amid tariffs and changing EV incentives.
+- **Vimeo starts layoffs after Bending Spoons acquisition**: The restructuring follows the $1.38 billion buyout by the Italian tech firm.
+- **Spotify launches AI ‘prompted playlist’ in US and Canada**: Premium users can now create playlists based on moods or memories using AI prompts.
+- **Meta pauses teen access to AI characters**: The company develops new parental controls amid regulatory scrutiny over teen safety.
+- **OpenAI intensifies enterprise AI push as market share declines**: The company seeks new partnerships to regain ground lost to Anthropic and Google.
+- **US President Donald Trump sues JPMorgan; Intel’s weak outlook highlighted**: Legal action and tech sector concerns make headlines in US business news.
+- **US President Donald Trump-linked crypto firm invests $2 billion in Binance**: Binance founder CZ denies direct business ties with the Trump family.
+- **Researchers link Russian hackers to failed Poland power grid attack**: Polish authorities say defenses prevented critical infrastructure damage.
+- **Microdrama apps projected to generate billions despite low quality**: TikTok-like short-form dramas thrive on in-app purchases and AI-generated content.
+- **Google advances AI-powered shopping with Universal Commerce Protocol**: The new standard aims to transform online retail with AI shopping agents.
+- **Microsoft gave FBI BitLocker keys in fraud probe**: Privacy concerns rise as Microsoft provides laptop encryption keys during a criminal investigation.
+- **OpenAI CEO Sam Altman to visit India for AI summit**: Altman will meet industry leaders and promote OpenAI’s expansion in India.
+- **Software sector sell-off sparks M&A expectations**: Investors anticipate a wave of mergers and acquisitions driven by AI disruption.
+- **Workday CEO calls AI fears overblown amid software sell-off**: AI is described as a positive driver for enterprise software demand.
+- **OpenAI’s Bret Taylor warns of possible AI bubble and market correction**: He predicts industry consolidation as competition intensifies.
+- **JuWei Technology, YinShi New Material, RuiHe Electronics, and TuoSheng Medical secure major funding rounds in China**: Chinese startups in robotics, new materials, IoT sensors, and biopharma attract significant investments for expansion and innovation.
+- **XingHe ZhuoYue raises nearly 30 billion yuan for next-gen GPU development**: The strategic financing involves multiple industry and state-backed investors, boosting China’s AI hardware sector.
+- **Greenland data center project backed by ex-US official targets global AI infrastructure**: The planned multi-billion-dollar facility seeks to expand data capacity but awaits local approvals.
+- **NASA finds strongest evidence yet of ancient life on Mars**: A newly discovered Martian rock sample advances the search for past life.
+- **Black hole collision confirms Einstein and Hawking predictions**: Astrophysicists celebrate a milestone in understanding gravitational waves and black hole behavior.

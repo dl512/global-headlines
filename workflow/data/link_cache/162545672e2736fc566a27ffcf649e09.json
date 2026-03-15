@@ -1,0 +1,21 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00020-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306424240/monthly-return-of-equity-issuer-on-movements-in-securities-for",
+    "https://news.futunn.com/hk/notice/306318140/next-day-disclosure-return"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306424240/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "商湯-W (00020) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:32:17.422993",
+      "last_seen": "2026-02-09T21:32:17.423000"
+    },
+    "https://news.futunn.com/hk/notice/306318140/next-day-disclosure-return": {
+      "headline": "翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:57:41.612104",
+      "last_seen": "2026-02-10T10:57:41.612120"
+    }
+  }
+}

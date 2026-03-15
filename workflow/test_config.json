@@ -1,0 +1,52 @@
+{
+  "name": "Daily Financial and Tech Update",
+  "components": [
+    "financial_news",
+    "tech_news",
+    "market_snapshot"
+  ],
+  "component_customizations": {
+    "market_snapshot": {
+      "assets": [
+        {
+          "name": "Apple",
+          "ticker": "AAPL",
+          "is_index": false
+        },
+        {
+          "name": "Microsoft",
+          "ticker": "MSFT",
+          "is_index": false
+        },
+        {
+          "name": "Tesla",
+          "ticker": "TSLA",
+          "is_index": false
+        },
+        {
+          "name": "Nvidia",
+          "ticker": "NVDA",
+          "is_index": false
+        },
+        {
+          "name": "S&P 500",
+          "ticker": "^GSPC",
+          "is_index": true
+        }
+      ],
+      "output_file_suffix": "user_specific_suffix"
+    }
+  },
+  "recipients": {
+    "en": [
+      "test@example.com"
+    ]
+  },
+  "email": {
+    "from_email": "david@xplorehk.com",
+    "from_name": "Morning Coffee",
+    "subject": "Your Daily Newsletter - {date}"
+  },
+  "language": "EN",
+  "translate": false
+}

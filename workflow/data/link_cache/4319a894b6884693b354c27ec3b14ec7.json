@@ -1,0 +1,1421 @@
+{
+  "website": "https://asia.nikkei.com/business/tech/semiconductors",
+  "links": [
+    "https://asia.nikkei.com/business/tech/semiconductors/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-chipmaker-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join",
+    "https://asia.nikkei.com/business/tech/semiconductors/amd-rakes-in-390m-from-ai-chip-sales-to-china-but-warns-of-uncertainty",
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-apple-shuffle",
+    "https://asia.nikkei.com/business/tech/semiconductors/china-edges-up-with-3-of-world-s-top-20-chipmaking-gear-suppliers",
+    "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/micron-plans-24bn-memory-chipmaking-plant-in-singapore",
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-google-among-us-tech-companies-vying-to-secure-material-from-top-producer",
+    "https://asia.nikkei.com/business/materials/apple-supplier-nittobo-to-roll-out-improved-glass-cloth-crucial-to-ai-chips",
+    "https://asia.nikkei.com/business/tech/semiconductors/asml-sees-ai-chip-and-memory-growth-exceeding-20-in-coming-years",
+    "https://asia.nikkei.com/business/tech/semiconductors/intel-warns-of-tough-quarter-but-sees-foundry-orders-ramping-up-in-2nd-half",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-chipmaker-renesas-sinks-into-red-missing-out-on-ai-boom",
+    "https://asia.nikkei.com/business/tech/supply-chain-hp-dell-acer-and-asus-mull-using-chinese-memory-chips-amid-supply-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-receiving-1bn",
+    "https://asia.nikkei.com/business/tech/semiconductors/chinas-memory-boost-and-apple-s-iphone-shuffle",
+    "https://asia.nikkei.com/business/tech/amd-rakes-in-390mn-from-ai-chip-sales-to-china-but-warns-of-uncertainty",
+    "https://asia.nikkei.com/techasia/china-s-memory-boost-and-apple-s-iphone-shuffle",
+    "https://asia.nikkei.com/business/tech/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch",
+    "https://asia.nikkei.com/spotlight/comment/the-next-nvidia-will-be-found-by-the-market-not-by-government-policy",
+    "https://asia.nikkei.com/business/tech/semiconductors/china-boosts-memory-chip-production-apple-shuffles-iphone-plans",
+    "https://asia.nikkei.com/business/technology/us-partner-s-bankruptcy-slow-demand-for-automotive-chips-weigh-on-japan-chipmaker-renesas",
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-and-chip-manufacturing-developments-shaping-market-dynamics",
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-switching-to-3-nm-node-to-secure-supply",
+    "https://asia.nikkei.com/business/tech/smic-warns-industry-in-crisis-mode-over-memory-crunch-aims-to-gain-market-share",
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join-with-softbank-and-sony-as-major-shareholders",
+    "https://asia.nikkei.com/business/tech/ai/amd-reports-390m-ai-chip-sales-to-china-warns-of-regulatory-uncertainty-expects-100m-more-revenue-from-china",
+    "https://asia.nikkei.com/business/technology/nvidia-google-among-us-tech-giants-vying-to-secure-materials-for-ai-chips",
+    "https://asia.nikkei.com/business/tech/kioxia-extends-memory-chip-jv-with-sandisk-secures-1bn-investment-us-partner-s-access-to-yokkaichi-plant-lasts-until-2034",
+    "https://asia.nikkei.com/business/tech/micron-plans-24bn-memory-chipmaking-plant-in-singapore-to-meet-growing-demand-driven-by-ai-and-data-centers",
+    "https://asia.nikkei.com/business/tech/asml-forecasts-ai-chip-and-memory-growth-exceeding-20-in-coming-years-cuts-1-700-jobs-to-boost-engineering-agility",
+    "https://asia.nikkei.com/business/tech/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch-aiming-to-close-gap-with-samsung-and-sk-hynix",
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-logs-fastest-gdp-growth-in-15-years-at-8.63-driven-by-solid-ai-demand-and-semiconductor-exports",
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-develop-28-32nm-systems-on-chips-for-ai-edge-computing-building-domestic-chip-value-chain",
+    "https://asia.nikkei.com/business/tech/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch-standard-models-delayed-to-2027",
+    "https://asia.nikkei.com/business/tech/us-seeks-to-include-vietnam-and-indonesia-in-pax-silica-chip-coalition",
+    "https://asia.nikkei.com/business/tech/samsung-and-sk-hynix-warn-memory-chip-shortage-to-continue-until-2027",
+    "https://asia.nikkei.com/business/markets/intel-warns-of-tough-quarter-but-expects-increased-foundry-orders-in-second-half",
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-us-access-to-yokkaichi-plant-until-2034",
+    "https://asia.nikkei.com/business/technology/china-edges-up-with-3-of-the-world-s-top-20-chipmaking-gear-suppliers",
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-gdp-growth-driven-by-ai-demand-with-annual-expansion-hitting-8.63-percent-q4-surpassing-forecasts",
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-maker-asml-anticipates-over-20-growth-in-ai-chip-and-memory-markets-restructuring-workforce",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-renesas-sinks-into-red-amid-ai-boom-impacted-by-us-partner-bankruptcy-and-slow-automotive-chip-demand",
+    "https://asia.nikkei.com/business/tech/semiconductors/tsmc-turns-japan-into-3rd-advanced-chip-base-as-ai-demand-soars",
+    "https://asia.nikkei.com/opinion/tsmc-s-american-expansion-is-not-a-surrender-it-s-insurance-for-taiwan",
+    "https://asia.nikkei.com/business/markets/amd-rakes-in-390mn-from-ai-chip-sales-to-china-but-warns-of-uncertainty",
+    "https://asia.nikkei.com/business/markets/equities/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium",
+    "https://asia.nikkei.com/business/tech/samsung-and-sk-hynix-overtake-china-s-tencent-and-alibaba-in-market-cap",
+    "https://asia.nikkei.com/business/deals/softbank-sony-set-to-become-major-shareholders-with-commitments-exceeding-target",
+    "https://asia.nikkei.com/business/tech/supply-constraints-offer-chipmakers-chance-to-close-gap-with-rivals",
+    "https://asia.nikkei.com/economy/taiwan-logs-fastest-gdp-growth-in-15-years-on-solid-ai-demand",
+    "https://asia.nikkei.com/business/tech/semiconductors/vietnam-s-fpt-and-viettel-team-up-to-build-domestic-chip-value-chain",
+    "https://asia.nikkei.com/spotlight/trump-administration/us-seeks-to-pull-board-of-peace-states-into-pax-silica-chip-coalition",
+    "https://asia.nikkei.com/business/semiconductors/micron-to-build-new-wafer-fab-in-us-to-meet-growing-demand",
+    "https://asia.nikkei.com/techasia/nvidia-s-trillion-dollar-dinner-and-a-fight-for-ai-users-in-china",
+    "https://asia.nikkei.com/business/tech/semiconductors/top-china-chipmaker-smic-says-industry-in-crisis-mode-over-memory-crunch",
+    "https://asia.nikkei.com/business/tech/nvidia-google-among-us-tech-companies-vying-to-secure-material-from-top-producer",
+    "https://asia.nikkei.com/business/technology/memory-chip-crunch-to-hit-tvs-and-consumer-devices-hardest-in-2026",
+    "https://asia.nikkei.com/business/tech/rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join",
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-and-apple-iphone-shuffle",
+    "https://asia.nikkei.com/business/tech/the-inside-story-on-the-asia-tech-trends-that-matter",
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/reliance-to-invest-110bn-in-ai-as-india-s-data-center-sector-heats-up",
+    "https://asia.nikkei.com/business/markets/us-faces-decade-long-road-to-loosening-china-s-grip-on-rare-earths",
+    "https://asia.nikkei.com/business/tech/semiconductors/global-chip-tool-makers-set-for-double-digit-revenue-growth",
+    "https://asia.nikkei.com/business/tech/ai-chip-investments-drive-demand-for-accelerated-deliveries",
+    "https://asia.nikkei.com/business/tech/semiconductors/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips",
+    "https://asia.nikkei.com/business/technology/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch",
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-and-apple-s-iphone-shuffle",
+    "https://asia.nikkei.com/business/tech/semiconductors/samsung-and-sk-hynix-warn-memory-chip-crunch-to-continue-until-2027",
+    "https://asia.nikkei.com/business/tech/semiconductors-industry-in-crisis-mode-over-memory-crunch-and-localization-shift",
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-set-for-double-digit-revenue-growth-amid-ai-chip-demand-surge",
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips-as-ai-demand-soars",
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-switching-to-3-nm-node",
+    "https://asia.nikkei.com/business/tech/chinas-memory-boost-and-apple-s-iphone-shuffle-signal-strategic-shifts-in-semiconductor-supply-chains",
+    "https://asia.nikkei.com/business/markets/amd-rakes-in-390m-from-ai-chip-sales-to-china-warns-of-regulatory-uncertainties",
+    "https://asia.nikkei.com/business/tech/nvidia-s-trillion-dollar-valuation-and-its-impact-on-ai-hardware-investments",
+    "https://asia.nikkei.com/business/tech/taiwan-s-tsmc-turns-japan-into-3rd-advanced-chip-base-to-meet-ai-demand",
+    "https://asia.nikkei.com/business/tech/smic-ymtc-to-massively-expand-output-amid-global-chip-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-supply-constraints",
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-and-materials-market-poised-for-growth-driven-by-ai-infrastructure-investments",
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-for-ai-chip-applications",
+    "https://asia.nikkei.com/business/tech/us-chipmakers-face-regulatory-hurdles-impacting-ai-hardware-exports",
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-develop-28-32nm-chips-for-ai-edge-computing",
+    "https://asia.nikkei.com/business/tech/supply-chain-disruptions-lead-to-increased-investment-in-domestic-chip-manufacturing-in-asia",
+    "https://asia.nikkei.com/business/technology/major-semiconductor-firms-expanding-ai-specific-data-center-infrastructure-globally",
+    "https://asia.nikkei.com/business/tech/china-s-local-chip-developers-gain-market-share-amid-industry-crisis-and-localization-shift",
+    "https://asia.nikkei.com/business/tech/strategic-moves-by-japanese-and-korean-firms-to-capture-ai-chip-market-share-through-new-investments",
+    "https://asia.nikkei.com/business/technology/tech-asia/china-aims-for-5-fold-increase-in-advanced-chip-output-to-meet-ai-demand",
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-efforts-on-7-nm-and-5-nm-like-production-tech-backed-by-beijing",
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-set-for-double-digit-revenue-growth-driven-by-ai-chip-investments",
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips-amid-ai-expansion",
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-investment",
+    "https://asia.nikkei.com/business/tech/semiconductors/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch-impacting-supply-chain",
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-build-domestic-chip-value-chain-for-ai-edge-computing",
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-logs-fastest-gdp-growth-in-15-years-on-solid-ai-demand-signaling-investment-opportunities",
+    "https://asia.nikkei.com/business/tech/semiconductors/semiconductor-equipment-and-materials-market-poised-for-growth-as-ai-accelerates-demand",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-semiconductor-tool-maker-tokyo-electron-expands-workforce-to-meet-chip-demand-driven-by-ai",
+    "https://asia.nikkei.com/business/tech/us-and-japanese-firms-explore-joint-investments-in-ai-chip-manufacturing-infrastructure",
+    "https://asia.nikkei.com/business/tech/china-s-local-chip-developers-to-gain-market-share-amid-industry-crisis-and-localization-shift",
+    "https://asia.nikkei.com/business/tech/ai-models-breakthroughs-boost-startup-funding-and-valuations",
+    "https://asia.nikkei.com/business/tech/edge-computing-investments-surge-to-support-ai-in-manufacturing-and-autonomous-vehicles",
+    "https://asia.nikkei.com/business/tech/major-tech-companies-ramp-up-ai-infrastructure-investments",
+    "https://asia.nikkei.com/business/tech/supply-chain-developments-in-semiconductor-materials-critical-for-ai-hardware-expansion",
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-aims-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs",
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-as-ai-demand-soars",
+    "https://asia.nikkei.com/business/technology/ai-at-the-olympics-and-trump-s-rare-earths-push-the-inside-story-on-asia-tech-trends",
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium-with-samsung-and-sk-hynix-overtaking-chinese-giants",
+    "https://asia.nikkei.com/business/big-tech-s-ai-spending-spree-gathers-pace-in-2026-chipmakers-benefit-from-demand-for-accelerated-deliveries",
+    "https://asia.nikkei.com/business/tech/tsmc-to-expand-ai-chip-manufacturing-at-japan-plant-switching-to-3-nm-node",
+    "https://asia.nikkei.com/business/tech/china-memory-boost-apple-iphone-shuffle-asia-tech-trends",
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-receives-1bn-to-support-ai-chip-supply",
+    "https://asia.nikkei.com/business/tech/smic-ymtc-to-expand-memory-output-amid-global-supply-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/modi-s-india-boosts-infra-spending-seeking-manufacturing-led-growth-in-semiconductors",
+    "https://asia.nikkei.com/business/tech/japan-s-itochu-invests-in-taiwan-systems-integrator-eyeing-chipmaking-sector-expansion",
+    "https://asia.nikkei.com/business/tech/japan-government-to-hold-10%-voting-rights-in-rapidus-with-veto-power",
+    "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-taps-160-south-korean-suppliers-to-meet-chip-demand",
+    "https://asia.nikkei.com/business/tech/d-matrix-founder-says-more-ai-adoption-key-to-unlock-further-investment",
+    "https://asia.nikkei.com/business/deals/sofbank-sony-set-to-become-major-shareholders-in-rapidus-with-commitments-exceeding-target",
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-helping-japan-secure-supply",
+    "https://asia.nikkei.com/techasia/china-s-latest-chip-push-and-ai-fever-in-india",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-bags-1.7bn-in-funding-in-step-toward-mass-production",
+    "https://asia.nikkei.com/business/tech/chinas-latest-chip-push-and-ai-fever-in-india",
+    "https://asia.nikkei.com/techasia/ai-at-the-olympics-and-trump-s-rare-earths-push",
+    "https://asia.nikkei.com/business/markets/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium-with-samsung-and-sk-hynix-overtaking-chinese-giants",
+    "https://asia.nikkei.com/business/tech/ai-models-releases-updates-and-breakthroughs-shaping-investment-landscape",
+    "https://asia.nikkei.com/business/tech/enterprise-ai-software-and-platforms-gaining-strategic-importance-for-investors",
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-surge-with-new-data-center-and-cloud-computing-developments",
+    "https://asia.nikkei.com/business/tech/semiconductors/hardware-startups-and-funding-in-semiconductor-and-ai-chip-sectors",
+    "https://asia.nikkei.com/business/tech/major-tech-companies-strategic-ai-initiatives-influence-market-valuations",
+    "https://asia.nikkei.com/business/tech/nittobo-to-roll-out-improved-glass-cloth-crucial-to-ai-chips",
+    "https://asia.nikkei.com/business/technology/china-unveils-measures-to-boost-tech-insurance-in-push-for-self-reliance",
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-on-7-nm-and-5-nm-like-production-tech",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join",
+    "https://asia.nikkei.com/business/tech/xiaomi-to-take-leica-smartphone-global",
+    "https://asia.nikkei.com/business/tech/taiwan-s-tsmc-expands-ai-chip-manufacturing-at-japan-plant-to-meet-soaring-demand",
+    "https://asia.nikkei.com/business/tech/us-chip-giant-nvidia-sees-no-revenue-from-china-despite-trump-approval",
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-closes-record-110bn-funding-round-with-amazon-nvidia-and-softbank",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-government-to-hold-10-voting-rights-in-rapidus-with-veto-power",
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-on-7-nm-and-5-nm-like-production-tech-backed-by-beijing",
+    "https://asia.nikkei.com/business/tech/ai-chip-investments-drive-demand-for-accelerated-deliveries-global-chip-tool-makers-set-for-double-digit-revenue-growth",
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-and-materials-industry-sees-record-investments-amid-supply-crunch",
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips",
+    "https://asia.nikkei.com/business/tech/ai-model-releases-updates-and-breakthroughs-continue-to-reshape-enterprise-ai-strategies",
+    "https://asia.nikkei.com/business/technology/major-tech-firms-accelerate-ai-infrastructure-investments-amid-rising-demand-for-ai-accelerators",
+    "https://asia.nikkei.com/business/tech/semiconductors/china-unveils-measures-to-boost-tech-insurance-in-push-for-self-reliance-impacting-semiconductor-industry",
+    "https://asia.nikkei.com/business/tech/tsmc-expansion-japan-ai-chip-production-regional-supply-chain-shifts",
+    "https://asia.nikkei.com/business/tech/nvidia-warns-on-china-uncertainties-despite-revenue-growth",
+    "https://asia.nikkei.com/business/tech/japan-s-semiconductor-industry-receives-government-backing-for-ai-related-chip-development",
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-surge-as-cloud-providers-expand-data-center-capacities",
+    "https://asia.nikkei.com/business/tech/semiconductors/semiconductor-industry-sees-record-136bn-spending-plan-across-asia-to-meet-ai-and-5g-demands",
+    "https://asia.nikkei.com/business/tech/semiconductors/rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-rapidus-secures-640m-investment",
+    "https://asia.nikkei.com/business/tech/ai-models-releases-updates-and-breakthroughs-impacting-enterprise-infrastructure",
+    "https://asia.nikkei.com/business/tech/semiconductors/robotics-and-automation-companies-see-increased-funding-amid-manufacturing-push",
+    "https://asia.nikkei.com/business/edge-computing-investments-accelerate-to-support-ai-applications",
+    "https://asia.nikkei.com/business/technology/tech-asia/chip-price-hikes-spread-as-asia-s-chipmakers-plan-record-136bn-spending",
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-efforts-on-7-nm-and-5-nm-like-production-tech",
+    "https://asia.nikkei.com/business/tech/chip-titan-to-switch-to-3-nm-node-helping-japan-secure-stable-supply-of-powerful-products",
+    "https://asia.nikkei.com/business/tech/semiconductors/softbank-sony-set-to-become-major-shareholders-with-commitments-exceeding-target",
+    "https://asia.nikkei.com/business/tech/semiconductors/global-chip-tool-makers-set-for-double-digit-revenue-growth-driven-by-ai-chip-investments",
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-model-releases-updates-and-breakthroughs-shaping-investment-opportunities",
+    "https://asia.nikkei.com/business/tech/japan-to-target-254bn-in-homemade-semiconductor-sales-by-2040-aiming-to-boost-domestic-industry",
+    "https://asia.nikkei.com/business/tech/semiconductors/government-aims-to-capture-30-share-of-global-physical-ai-market-on-par-with-us-and-china",
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-1.7bn-in-funding-toward-mass-production-of-advanced-chips",
+    "https://asia.nikkei.com/business/tech/india-grants-subsidy-to-360m-chip-assembly-project-to-bolster-local-semiconductor-industry",
+    "https://asia.nikkei.com/business/deals/toyota-supplier-denso-plans-to-acquire-chipmaker-rohm-in-up-to-8bn-deal-to-strengthen-supply-chain",
+    "https://asia.nikkei.com/business/tech/rapidus-adds-canon-as-first-major-domestic-customer-for-2nm-chips-signaling-industry-rebuild-efforts",
+    "https://asia.nikkei.com/business/tech/japan-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs-to-accelerate-domestic-innovation",
+    "https://asia.nikkei.com/business/tech/semiconductors/china-unveils-measures-to-boost-tech-insurance-industry-as-part-of-self-reliance-push-in-tech-sector",
+    "https://asia.nikkei.com/business/tech/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties-impacting-future-growth",
+    "https://asia.nikkei.com/business/tech/semiconductors/asia-s-chipmakers-plan-record-136bn-investment-amid-rising-chip-price-hikes-and-supply-crunch",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-tokyo-electron-expands-workforce-and-collaborates-with-160-south-korean-suppliers-to-meet-chip-demand",
+    "https://asia.nikkei.com/business/tech/tsmc-to-produce-advanced-ai-chips-at-2nm-node-in-japan-securing-supply-for-ai-applications",
+    "https://asia.nikkei.com/business/tech/china-s-latest-chip-push-aims-for-5-fold-increase-in-advanced-chip-output-to-meet-ai-demand",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-rapidus-government-backing-640m-private-sector",
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-forecast-double-digit-revenue-growth-driven-by-ai-chip-investments",
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-develop-next-gen-automotive-chips-amid-auto-industry-ai-adoption",
+    "https://asia.nikkei.com/business/tech/smic-warns-of-crisis-over-memory-crunch-plans-to-increase-local-chip-market-share",
+    "https://asia.nikkei.com/business/tech/tsmc-expands-into-japan-to-meet-ai-demand-establishing-third-advanced-chip-base",
+    "https://asia.nikkei.com/business/tech/semiconductors/bain-reduces-stake-in-kioxia-amid-market-shifts",
+    "https://asia.nikkei.com/business/tech/d-matrix-s-founder-emphasizes-ai-adoption-as-key-to-unlocking-further-investment-despite-market-barriers",
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-to-target-254bn-in-homemade-semiconductor-sales-by-2040",
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-1.7bn-in-funding-toward-mass-production-of-2nm-chips-backed-by-sony-and-softbank",
+    "https://asia.nikkei.com/business/tech/japan-to-invest-640mn-in-rapidus-with-veto-rights",
+    "https://asia.nikkei.com/business/tech/japan-aims-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs-for-designing-and-testing-cutting-edge-devices",
+    "https://asia.nikkei.com/business/tech/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties-affecting-ai-chip-market",
+    "https://asia.nikkei.com/business/tech/rapidus-adds-canon-as-first-major-domestic-customer-for-2nm-chips-signaling-japan-s-reinvestment-in-advanced-semiconductor-tech",
+    "https://asia.nikkei.com/business/markets/china-unveils-measures-to-boost-tech-insurance-industry-to-support-self-reliance-in-tech-innovation",
+    "https://asia.nikkei.com/business/china-s-latest-chip-push-and-ai-fever-in-india-highlight-regional-investments-in-advanced-manufacturing",
+    "https://asia.nikkei.com/business/technology/us-chip-giant-nvidia-sees-no-revenue-from-china-in-h200-despite-trump-administration-s-restrictions",
+    "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-expands-workforce-and-cooperates-with-160-south-korean-suppliers-to-meet-rising-chip-demand",
+    "https://asia.nikkei.com/business/tech/japan-s-semiconductor-tool-maker-expands-collaborations-to-support-record-136bn-investment-by-asia-s-chipmakers",
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-state-backed-funding-with-sony-and-softbank-among-investors-to-advance-2nm-chip-production",
+    "https://asia.nikkei.com/business/tech/memory-industry-in-crisis-as-shortages-deepen-local-chip-developers-gain-market-share",
+    "https://asia.nikkei.com/business/tech/tsmc-turns-japan-into-third-advanced-chip-manufacturing-base-to-meet-soaring-ai-demand-supplementing-taiwan-and-us-plants",
+    "https://asia.nikkei.com/business/tech/ai-model-and-infrastructure-investments-accelerate-as-global-companies-seek-to-capitalize-on-generative-ai-growth",
+    "https://asia.nikkei.com/business/tech/semiconductors/major-automaker-denso-bids-to-acquire-chipmaker-rohm-aiming-to-strengthen-supply-chain-for-evs-and-data-centers",
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-infrastructure-investments-surge-with-increased-data-center-developments-and-cloud-computing-for-ai-applications",
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-forecast-double-digit-revenue-growth-driven-by-ai-chip-demand-and-supply-chain-expansion",
+    "https://asia.nikkei.com/business/tech/japan-s-renesas-teams-with-us-based-globalfoundries-to-develop-next-generation-auto-chips-amid-ai-driven-automotive-market-growth",
+    "https://asia.nikkei.com/business/tech/china-s-tech-insurance-measures-aim-to-support-innovation-and-self-reliance-in-semiconductor-and-ai-sectors"
+  ],
+  "metadata": {
+    "https://asia.nikkei.com/business/tech/semiconductors/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant": {
+      "headline": "TSMC to make advanced chips for AI at 2nd Japan plant",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:10:54.379252",
+      "last_seen": "2026-02-09T21:10:54.379259"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-chipmaker-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join": {
+      "headline": "Japan chipmaker Rapidus tops $1bn in private investment as IBM aims to join",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:10:57.570314",
+      "last_seen": "2026-02-09T21:10:57.570321"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/amd-rakes-in-390m-from-ai-chip-sales-to-china-but-warns-of-uncertainty": {
+      "headline": "AMD rakes in $390m from AI chip sales to China but warns of uncertainty",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:00.606995",
+      "last_seen": "2026-02-09T21:11:00.607004"
+    },
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-apple-shuffle": {
+      "headline": "China's memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:05.896089",
+      "last_seen": "2026-02-09T21:11:05.896101"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-edges-up-with-3-of-world-s-top-20-chipmaking-gear-suppliers": {
+      "headline": "China edges up with 3 of world's top 20 chipmaking gear suppliers",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:09.219710",
+      "last_seen": "2026-02-09T21:11:09.219716"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch": {
+      "headline": "China's CXMT and YMTC to massively expand memory output amid global crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:12.664640",
+      "last_seen": "2026-02-09T21:11:12.664647"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/micron-plans-24bn-memory-chipmaking-plant-in-singapore": {
+      "headline": "Micron plans $24bn memory chipmaking plant in Singapore",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:15.991974",
+      "last_seen": "2026-02-09T21:11:15.991982"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-google-among-us-tech-companies-vying-to-secure-material-from-top-producer": {
+      "headline": "Nvidia, Google among US tech companies vying to secure material from top producer",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:22.067747",
+      "last_seen": "2026-02-09T21:11:22.067758"
+    },
+    "https://asia.nikkei.com/business/materials/apple-supplier-nittobo-to-roll-out-improved-glass-cloth-crucial-to-ai-chips": {
+      "headline": "Apple supplier Nittobo to roll out improved glass cloth crucial to AI chips",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:28.251819",
+      "last_seen": "2026-02-09T21:11:28.251826"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/asml-sees-ai-chip-and-memory-growth-exceeding-20-in-coming-years": {
+      "headline": "ASML sees AI chip and memory growth exceeding 20% in coming years",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:31.885845",
+      "last_seen": "2026-02-09T21:11:31.885853"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/intel-warns-of-tough-quarter-but-sees-foundry-orders-ramping-up-in-2nd-half": {
+      "headline": "Intel warns of tough quarter but sees foundry orders ramping up in 2nd half",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:35.177504",
+      "last_seen": "2026-02-09T21:11:35.177510"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-chipmaker-renesas-sinks-into-red-missing-out-on-ai-boom": {
+      "headline": "Semiconductors: Japan chipmaker Renesas sinks into red, missing out on AI boom",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:38.837770",
+      "last_seen": "2026-02-09T21:11:38.837777"
+    },
+    "https://asia.nikkei.com/business/tech/supply-chain-hp-dell-acer-and-asus-mull-using-chinese-memory-chips-amid-supply-crunch": {
+      "headline": "Supply Chain: HP, Dell, Acer and Asus mull using Chinese memory chips amid supply crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:44.104862",
+      "last_seen": "2026-02-09T21:11:44.104875"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch": {
+      "headline": "Semiconductors: China's CXMT and YMTC to massively expand memory output amid global crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:49.000568",
+      "last_seen": "2026-02-09T21:11:49.000580"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-receiving-1bn": {
+      "headline": "Semiconductors: Japan's Kioxia extends memory chip JV with Sandisk, receiving $1bn",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:11:54.241568",
+      "last_seen": "2026-02-09T21:11:54.241583"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/chinas-memory-boost-and-apple-s-iphone-shuffle": {
+      "headline": "Semiconductors: China’s memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:12:01.847408",
+      "last_seen": "2026-02-09T21:12:01.847421"
+    },
+    "https://asia.nikkei.com/business/tech/amd-rakes-in-390mn-from-ai-chip-sales-to-china-but-warns-of-uncertainty": {
+      "headline": "AMD rakes in $390m from AI chip sales to China but warns of uncertainty",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:13.998881",
+      "last_seen": "2026-02-10T10:39:13.998898"
+    },
+    "https://asia.nikkei.com/techasia/china-s-memory-boost-and-apple-s-iphone-shuffle": {
+      "headline": "China's memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:18.355371",
+      "last_seen": "2026-02-10T10:39:18.355384"
+    },
+    "https://asia.nikkei.com/business/tech/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch": {
+      "headline": "China's CXMT and YMTC to massively expand memory output amid global crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:25.396620",
+      "last_seen": "2026-02-10T10:39:25.396635"
+    },
+    "https://asia.nikkei.com/spotlight/comment/the-next-nvidia-will-be-found-by-the-market-not-by-government-policy": {
+      "headline": "Semiconductors: The next Nvidia will be found by the market, not by government policy",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:34.671723",
+      "last_seen": "2026-02-10T10:39:34.671737"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-boosts-memory-chip-production-apple-shuffles-iphone-plans": {
+      "headline": "Semiconductors: China's memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:41.558860",
+      "last_seen": "2026-02-10T10:39:41.558876"
+    },
+    "https://asia.nikkei.com/business/technology/us-partner-s-bankruptcy-slow-demand-for-automotive-chips-weigh-on-japan-chipmaker-renesas": {
+      "headline": "US partner's bankruptcy, slow demand for automotive chips weigh on Japan chipmaker Renesas",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:50.925982",
+      "last_seen": "2026-02-10T10:39:50.926000"
+    },
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-and-chip-manufacturing-developments-shaping-market-dynamics": {
+      "headline": "AI infrastructure investments and chip manufacturing developments shaping market dynamics",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:39:59.366280",
+      "last_seen": "2026-02-10T10:39:59.366296"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-switching-to-3-nm-node-to-secure-supply": {
+      "headline": "TSMC to make advanced chips for AI at 2nd Japan plant, switching to 3-nm node to secure supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:17.890647",
+      "last_seen": "2026-02-11T11:39:17.890663"
+    },
+    "https://asia.nikkei.com/business/tech/smic-warns-industry-in-crisis-mode-over-memory-crunch-aims-to-gain-market-share": {
+      "headline": "China's top chipmaker SMIC warns industry in 'crisis mode' over memory crunch, aims to gain market share amid localization shift",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:23.384424",
+      "last_seen": "2026-02-11T11:39:23.384440"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join-with-softbank-and-sony-as-major-shareholders": {
+      "headline": "Japan's Rapidus tops $1bn in private investment as IBM aims to join, with SoftBank and Sony as major shareholders",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:29.132427",
+      "last_seen": "2026-02-11T11:39:29.132444"
+    },
+    "https://asia.nikkei.com/business/tech/ai/amd-reports-390m-ai-chip-sales-to-china-warns-of-regulatory-uncertainty-expects-100m-more-revenue-from-china": {
+      "headline": "AMD reports $390m AI chip sales to China, warns of regulatory uncertainty, expects $100m more revenue from China",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:35.136475",
+      "last_seen": "2026-02-11T11:39:35.136491"
+    },
+    "https://asia.nikkei.com/business/technology/nvidia-google-among-us-tech-giants-vying-to-secure-materials-for-ai-chips": {
+      "headline": "Nvidia, Google among US tech giants vying to secure materials crucial for AI chips from top producers",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:41.379689",
+      "last_seen": "2026-02-11T11:39:41.379707"
+    },
+    "https://asia.nikkei.com/business/tech/kioxia-extends-memory-chip-jv-with-sandisk-secures-1bn-investment-us-partner-s-access-to-yokkaichi-plant-lasts-until-2034": {
+      "headline": "Kioxia extends memory chip JV with SanDisk, securing $1bn investment, US partner's access to Yokkaichi plant lasts until 2034",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:47.077507",
+      "last_seen": "2026-02-11T11:39:47.077523"
+    },
+    "https://asia.nikkei.com/business/tech/micron-plans-24bn-memory-chipmaking-plant-in-singapore-to-meet-growing-demand-driven-by-ai-and-data-centers": {
+      "headline": "Micron plans $24bn memory chipmaking plant in Singapore to meet growing demand driven by AI and data centers",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:53.162830",
+      "last_seen": "2026-02-11T11:39:53.162846"
+    },
+    "https://asia.nikkei.com/business/tech/asml-forecasts-ai-chip-and-memory-growth-exceeding-20-in-coming-years-cuts-1-700-jobs-to-boost-engineering-agility": {
+      "headline": "ASML forecasts AI chip and memory growth exceeding 20% in coming years, cuts 1,700 jobs to boost engineering agility",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:39:59.272133",
+      "last_seen": "2026-02-11T11:39:59.272148"
+    },
+    "https://asia.nikkei.com/business/tech/chinas-cxmt-and-ymtc-to-massively-expand-memory-output-amid-global-crunch-aiming-to-close-gap-with-samsung-and-sk-hynix": {
+      "headline": "China's CXMT and YMTC to massively expand memory output amid global crunch, aiming to close gap with Samsung and SK Hynix",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:05.559401",
+      "last_seen": "2026-02-11T11:40:05.559418"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-logs-fastest-gdp-growth-in-15-years-at-8.63-driven-by-solid-ai-demand-and-semiconductor-exports": {
+      "headline": "Taiwan logs fastest GDP growth in 15 years at 8.63%, driven by solid AI demand and semiconductor exports",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:10.078670",
+      "last_seen": "2026-02-11T11:40:10.078687"
+    },
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-develop-28-32nm-systems-on-chips-for-ai-edge-computing-building-domestic-chip-value-chain": {
+      "headline": "Vietnam's FPT and Viettel team up to develop 28-32nm systems-on-chips for AI edge computing, building domestic chip value chain",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:15.539525",
+      "last_seen": "2026-02-11T11:40:15.539539"
+    },
+    "https://asia.nikkei.com/business/tech/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch-standard-models-delayed-to-2027": {
+      "headline": "Apple to prioritize premium iPhone launches in 2026 amid memory crunch, standard models delayed to 2027",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:21.058550",
+      "last_seen": "2026-02-11T11:40:21.058567"
+    },
+    "https://asia.nikkei.com/business/tech/us-seeks-to-include-vietnam-and-indonesia-in-pax-silica-chip-coalition": {
+      "headline": "US seeks to include Vietnam and Indonesia in Pax Silica chip coalition, aiming to strengthen strategic supply chains",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:26.699415",
+      "last_seen": "2026-02-11T11:40:26.699433"
+    },
+    "https://asia.nikkei.com/business/tech/samsung-and-sk-hynix-warn-memory-chip-shortage-to-continue-until-2027": {
+      "headline": "Samsung and SK Hynix warn memory chip shortage to continue until 2027, acknowledging AI-driven demand outpaces supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:32.148636",
+      "last_seen": "2026-02-11T11:40:32.148654"
+    },
+    "https://asia.nikkei.com/business/markets/intel-warns-of-tough-quarter-but-expects-increased-foundry-orders-in-second-half": {
+      "headline": "Intel warns of tough quarter but expects increased foundry orders in second half, stock plunges over 10%",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:37.663866",
+      "last_seen": "2026-02-11T11:40:37.663885"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-us-access-to-yokkaichi-plant-until-2034": {
+      "headline": "Japan's Kioxia extends memory chip JV with SanDisk, securing $1bn, US access to Yokkaichi plant until 2034",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:43.083281",
+      "last_seen": "2026-02-11T11:40:43.083297"
+    },
+    "https://asia.nikkei.com/business/technology/china-edges-up-with-3-of-the-world-s-top-20-chipmaking-gear-suppliers": {
+      "headline": "China edges up with 3 of the world's top 20 chipmaking gear suppliers, local production shift fueled by US curbs",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:48.589488",
+      "last_seen": "2026-02-11T11:40:48.589502"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-gdp-growth-driven-by-ai-demand-with-annual-expansion-hitting-8.63-percent-q4-surpassing-forecasts": {
+      "headline": "Taiwan's GDP growth driven by AI demand, with annual expansion hitting 8.63%, Q4 surpassing forecasts",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:52.833087",
+      "last_seen": "2026-02-11T11:40:52.833103"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-maker-asml-anticipates-over-20-growth-in-ai-chip-and-memory-markets-restructuring-workforce": {
+      "headline": "Semiconductor equipment maker ASML anticipates over 20% growth in AI chip and memory markets, restructuring workforce",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:40:58.082917",
+      "last_seen": "2026-02-11T11:40:58.082935"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-renesas-sinks-into-red-amid-ai-boom-impacted-by-us-partner-bankruptcy-and-slow-automotive-chip-demand": {
+      "headline": "Japan's Renesas sinks into red amid AI boom, impacted by US partner bankruptcy and slow automotive chip demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:41:04.113463",
+      "last_seen": "2026-02-11T11:41:04.113480"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/tsmc-turns-japan-into-3rd-advanced-chip-base-as-ai-demand-soars": {
+      "headline": "TSMC turns Japan into 3rd advanced chip base as AI demand soars",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:52:57.982293",
+      "last_seen": "2026-02-12T11:52:57.982307"
+    },
+    "https://asia.nikkei.com/opinion/tsmc-s-american-expansion-is-not-a-surrender-it-s-insurance-for-taiwan": {
+      "headline": "TSMC's American expansion is not a surrender -- it's insurance for Taiwan",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:03.465176",
+      "last_seen": "2026-02-12T11:53:03.465191"
+    },
+    "https://asia.nikkei.com/business/markets/amd-rakes-in-390mn-from-ai-chip-sales-to-china-but-warns-of-uncertainty": {
+      "headline": "AMD rakes in $390m from AI chip sales to China but warns of uncertainty",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:14.803056",
+      "last_seen": "2026-02-12T11:53:14.803069"
+    },
+    "https://asia.nikkei.com/business/markets/equities/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium": {
+      "headline": "AI effect starts to flip 'Korea discount' on stocks into a premium",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:20.981793",
+      "last_seen": "2026-02-12T11:53:20.981809"
+    },
+    "https://asia.nikkei.com/business/tech/samsung-and-sk-hynix-overtake-china-s-tencent-and-alibaba-in-market-cap": {
+      "headline": "Samsung and SK Hynix overtake China's Tencent and Alibaba in market cap",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:26.493064",
+      "last_seen": "2026-02-12T11:53:26.493082"
+    },
+    "https://asia.nikkei.com/business/deals/softbank-sony-set-to-become-major-shareholders-with-commitments-exceeding-target": {
+      "headline": "SoftBank, Sony set to become major shareholders with commitments exceeding target",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:34.250424",
+      "last_seen": "2026-02-12T11:53:34.250440"
+    },
+    "https://asia.nikkei.com/business/tech/supply-constraints-offer-chipmakers-chance-to-close-gap-with-rivals": {
+      "headline": "Supply constraints offer chipmakers chance to close gap with rivals Samsung, SK Hynix and Micron",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:39.875668",
+      "last_seen": "2026-02-12T11:53:39.875683"
+    },
+    "https://asia.nikkei.com/economy/taiwan-logs-fastest-gdp-growth-in-15-years-on-solid-ai-demand": {
+      "headline": "Taiwan logs fastest GDP growth in 15 years on solid AI demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:45.459002",
+      "last_seen": "2026-02-12T11:53:45.459018"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/vietnam-s-fpt-and-viettel-team-up-to-build-domestic-chip-value-chain": {
+      "headline": "Vietnam's FPT and Viettel team up to build domestic chip value chain",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:49.727765",
+      "last_seen": "2026-02-12T11:53:49.727782"
+    },
+    "https://asia.nikkei.com/spotlight/trump-administration/us-seeks-to-pull-board-of-peace-states-into-pax-silica-chip-coalition": {
+      "headline": "US seeks to pull 'Board of Peace' states into Pax Silica chip coalition",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:53.621104",
+      "last_seen": "2026-02-12T11:53:53.621119"
+    },
+    "https://asia.nikkei.com/business/semiconductors/micron-to-build-new-wafer-fab-in-us-to-meet-growing-demand": {
+      "headline": "US company Micron plans new wafer fabrication plant to meet growing demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T11:53:59.085829",
+      "last_seen": "2026-02-12T11:53:59.085845"
+    },
+    "https://asia.nikkei.com/techasia/nvidia-s-trillion-dollar-dinner-and-a-fight-for-ai-users-in-china": {
+      "headline": "Nvidia's trillion-dollar dinner and a fight for AI users in China",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:09:30.629659",
+      "last_seen": "2026-02-13T12:09:30.629672"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/top-china-chipmaker-smic-says-industry-in-crisis-mode-over-memory-crunch": {
+      "headline": "Top China chipmaker SMIC says industry in 'crisis mode' over memory crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:09:36.231667",
+      "last_seen": "2026-02-13T12:09:36.231678"
+    },
+    "https://asia.nikkei.com/business/tech/nvidia-google-among-us-tech-companies-vying-to-secure-material-from-top-producer": {
+      "headline": "Nvidia, Google among US tech companies vying to secure material from top producer",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:09:48.215519",
+      "last_seen": "2026-02-13T12:09:48.215532"
+    },
+    "https://asia.nikkei.com/business/technology/memory-chip-crunch-to-hit-tvs-and-consumer-devices-hardest-in-2026": {
+      "headline": "Memory chip crunch to hit TVs and consumer devices hardest in 2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:09:55.210941",
+      "last_seen": "2026-02-13T12:09:55.210955"
+    },
+    "https://asia.nikkei.com/business/tech/rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join": {
+      "headline": "Rapidus tops $1bn in private investment as IBM aims to join",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:10:06.030580",
+      "last_seen": "2026-02-13T12:10:06.030592"
+    },
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-and-apple-iphone-shuffle": {
+      "headline": "China's memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:10:18.798059",
+      "last_seen": "2026-02-13T12:10:18.798079"
+    },
+    "https://asia.nikkei.com/business/tech/the-inside-story-on-the-asia-tech-trends-that-matter": {
+      "headline": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:51:20.473550",
+      "last_seen": "2026-02-16T10:51:20.473566"
+    },
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/reliance-to-invest-110bn-in-ai-as-india-s-data-center-sector-heats-up": {
+      "headline": "Reliance to invest $110bn in AI as India's data center sector heats up",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:26:48.594289",
+      "last_seen": "2026-02-20T11:26:48.594305"
+    },
+    "https://asia.nikkei.com/business/markets/us-faces-decade-long-road-to-loosening-china-s-grip-on-rare-earths": {
+      "headline": "US faces 'decadelong' road to loosening China's grip on rare earths",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:27:01.676118",
+      "last_seen": "2026-02-20T11:27:01.676133"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/global-chip-tool-makers-set-for-double-digit-revenue-growth": {
+      "headline": "Global chip tool makers set for double-digit revenue growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:27:08.346142",
+      "last_seen": "2026-02-20T11:27:08.346158"
+    },
+    "https://asia.nikkei.com/business/tech/ai-chip-investments-drive-demand-for-accelerated-deliveries": {
+      "headline": "AI chip investments drive demand for accelerated deliveries",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:27:19.441440",
+      "last_seen": "2026-02-20T11:27:19.441456"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips": {
+      "headline": "Renesas teams with US-based GlobalFoundries to make next-gen auto chips",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:27:25.842675",
+      "last_seen": "2026-02-20T11:27:25.842689"
+    },
+    "https://asia.nikkei.com/business/technology/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch": {
+      "headline": "Apple to prioritize premium iPhone launches in 2026 amid memory crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:27:59.102657",
+      "last_seen": "2026-02-20T11:27:59.102675"
+    },
+    "https://asia.nikkei.com/business/tech/memory-boost-in-china-and-apple-s-iphone-shuffle": {
+      "headline": "China's memory boost and Apple's iPhone shuffle",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:28:15.910052",
+      "last_seen": "2026-02-20T11:28:15.910067"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/samsung-and-sk-hynix-warn-memory-chip-crunch-to-continue-until-2027": {
+      "headline": "Samsung and SK Hynix warn memory chip crunch to continue until 2027",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:28:23.832247",
+      "last_seen": "2026-02-20T11:28:23.832268"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors-industry-in-crisis-mode-over-memory-crunch-and-localization-shift": {
+      "headline": "Semiconductors: Industry in 'crisis mode' over memory crunch and localization shift",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:22:30.912804",
+      "last_seen": "2026-02-23T12:22:30.912820"
+    },
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-set-for-double-digit-revenue-growth-amid-ai-chip-demand-surge": {
+      "headline": "Global chip tool makers set for double-digit revenue growth amid AI chip demand surge",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:50:54.098999",
+      "last_seen": "2026-02-24T10:50:54.099014"
+    },
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips-as-ai-demand-soars": {
+      "headline": "Renesas teams with US-based GlobalFoundries to make next-gen auto chips as AI demand soars",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:51:03.194040",
+      "last_seen": "2026-02-24T10:51:03.194057"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-switching-to-3-nm-node": {
+      "headline": "TSMC to make advanced chips for AI at 2nd Japan plant, switching to 3-nm node",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:51:19.463912",
+      "last_seen": "2026-02-24T10:51:19.463929"
+    },
+    "https://asia.nikkei.com/business/tech/chinas-memory-boost-and-apple-s-iphone-shuffle-signal-strategic-shifts-in-semiconductor-supply-chains": {
+      "headline": "China's memory boost and Apple's iPhone shuffle signal strategic shifts in semiconductor supply chains",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:51:32.754830",
+      "last_seen": "2026-02-24T10:51:32.754846"
+    },
+    "https://asia.nikkei.com/business/markets/amd-rakes-in-390m-from-ai-chip-sales-to-china-warns-of-regulatory-uncertainties": {
+      "headline": "AMD rakes in $390m from AI chip sales to China, warns of regulatory uncertainties",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:51:43.174378",
+      "last_seen": "2026-02-24T10:51:43.174395"
+    },
+    "https://asia.nikkei.com/business/tech/nvidia-s-trillion-dollar-valuation-and-its-impact-on-ai-hardware-investments": {
+      "headline": "Nvidia's trillion-dollar valuation and its impact on AI hardware investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:51:52.052765",
+      "last_seen": "2026-02-24T10:51:52.052781"
+    },
+    "https://asia.nikkei.com/business/tech/taiwan-s-tsmc-turns-japan-into-3rd-advanced-chip-base-to-meet-ai-demand": {
+      "headline": "Taiwan's TSMC turns Japan into 3rd advanced chip base to meet AI demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:04.413437",
+      "last_seen": "2026-02-24T10:52:04.413455"
+    },
+    "https://asia.nikkei.com/business/tech/smic-ymtc-to-massively-expand-output-amid-global-chip-crunch": {
+      "headline": "China's top memory chipmakers SMIC and YMTC to massively expand output amid global crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:13.075503",
+      "last_seen": "2026-02-24T10:52:13.075520"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-supply-constraints": {
+      "headline": "Apple to prioritize premium iPhone launches in 2026 amid memory supply constraints",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:20.402917",
+      "last_seen": "2026-02-24T10:52:20.402934"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-and-materials-market-poised-for-growth-driven-by-ai-infrastructure-investments": {
+      "headline": "Semiconductor equipment and materials market poised for growth driven by AI infrastructure investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:29.438079",
+      "last_seen": "2026-02-24T10:52:29.438096"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-for-ai-chip-applications": {
+      "headline": "Japan's Kioxia extends memory chip JV with Sandisk, securing $1bn for AI chip applications",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:38.924465",
+      "last_seen": "2026-02-24T10:52:38.924481"
+    },
+    "https://asia.nikkei.com/business/tech/us-chipmakers-face-regulatory-hurdles-impacting-ai-hardware-exports": {
+      "headline": "US chipmakers like AMD and Nvidia face regulatory hurdles impacting AI hardware exports",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:47.963749",
+      "last_seen": "2026-02-24T10:52:47.963766"
+    },
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-develop-28-32nm-chips-for-ai-edge-computing": {
+      "headline": "Vietnam's FPT and Viettel team up to develop 28-32nm chips for AI edge computing",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:52:56.971805",
+      "last_seen": "2026-02-24T10:52:56.971821"
+    },
+    "https://asia.nikkei.com/business/tech/supply-chain-disruptions-lead-to-increased-investment-in-domestic-chip-manufacturing-in-asia": {
+      "headline": "Supply chain disruptions lead to increased investment in domestic chip manufacturing in Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:53:05.420974",
+      "last_seen": "2026-02-24T10:53:05.420989"
+    },
+    "https://asia.nikkei.com/business/technology/major-semiconductor-firms-expanding-ai-specific-data-center-infrastructure-globally": {
+      "headline": "Major semiconductor firms expanding AI-specific data center infrastructure globally",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:53:14.821478",
+      "last_seen": "2026-02-24T10:53:14.821495"
+    },
+    "https://asia.nikkei.com/business/tech/china-s-local-chip-developers-gain-market-share-amid-industry-crisis-and-localization-shift": {
+      "headline": "China's local chip developers gain market share amid industry crisis and localization shift",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:53:23.520297",
+      "last_seen": "2026-02-24T10:53:23.520355"
+    },
+    "https://asia.nikkei.com/business/tech/strategic-moves-by-japanese-and-korean-firms-to-capture-ai-chip-market-share-through-new-investments": {
+      "headline": "Strategic moves by Japanese and Korean firms to capture AI chip market share through new investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:53:33.505706",
+      "last_seen": "2026-02-24T10:53:33.505722"
+    },
+    "https://asia.nikkei.com/business/technology/tech-asia/china-aims-for-5-fold-increase-in-advanced-chip-output-to-meet-ai-demand": {
+      "headline": "China aims for 5-fold increase in advanced chip output to meet AI demand",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:18:37.206928",
+      "last_seen": "2026-02-25T11:18:37.206947"
+    },
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-efforts-on-7-nm-and-5-nm-like-production-tech-backed-by-beijing": {
+      "headline": "Backed by Beijing, Huawei and SMIC lead efforts on 7-nm and 5-nm-like production tech",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:18:52.621065",
+      "last_seen": "2026-02-25T11:18:52.621080"
+    },
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-set-for-double-digit-revenue-growth-driven-by-ai-chip-investments": {
+      "headline": "Global chip tool makers set for double-digit revenue growth driven by AI chip investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:19:08.633803",
+      "last_seen": "2026-02-25T11:19:08.633818"
+    },
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-make-next-gen-auto-chips-amid-ai-expansion": {
+      "headline": "Renesas teams with US-based GlobalFoundries to make next-gen auto chips amid AI expansion",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:19:22.826750",
+      "last_seen": "2026-02-25T11:19:22.826765"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-securing-1bn-investment": {
+      "headline": "Japan's Kioxia extends memory chip JV with Sandisk, securing $1bn investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:19:46.516125",
+      "last_seen": "2026-02-25T11:19:46.516141"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/apple-to-prioritize-premium-iphone-launches-in-2026-amid-memory-crunch-impacting-supply-chain": {
+      "headline": "Apple to prioritize premium iPhone launches in 2026 amid memory crunch, impacting supply chain",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:20:00.650836",
+      "last_seen": "2026-02-25T11:20:00.650853"
+    },
+    "https://asia.nikkei.com/business/tech/vietnam-s-fpt-and-viettel-team-up-to-build-domestic-chip-value-chain-for-ai-edge-computing": {
+      "headline": "Vietnam's FPT and Viettel team up to build domestic chip value chain for AI edge computing",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:20:14.756048",
+      "last_seen": "2026-02-25T11:20:14.756067"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-logs-fastest-gdp-growth-in-15-years-on-solid-ai-demand-signaling-investment-opportunities": {
+      "headline": "Taiwan logs fastest GDP growth in 15 years on solid AI demand, signaling investment opportunities",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:20:25.447752",
+      "last_seen": "2026-02-25T11:20:25.447768"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/semiconductor-equipment-and-materials-market-poised-for-growth-as-ai-accelerates-demand": {
+      "headline": "Semiconductor equipment and materials market poised for growth as AI accelerates demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:20:41.303730",
+      "last_seen": "2026-02-25T11:20:41.303747"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-semiconductor-tool-maker-tokyo-electron-expands-workforce-to-meet-chip-demand-driven-by-ai": {
+      "headline": "Japan semiconductor tool maker Tokyo Electron expands workforce to meet chip demand driven by AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:20:58.600994",
+      "last_seen": "2026-02-25T11:20:58.601010"
+    },
+    "https://asia.nikkei.com/business/tech/us-and-japanese-firms-explore-joint-investments-in-ai-chip-manufacturing-infrastructure": {
+      "headline": "US and Japanese firms explore joint investments in AI chip manufacturing infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:21:20.323311",
+      "last_seen": "2026-02-25T11:21:20.323328"
+    },
+    "https://asia.nikkei.com/business/tech/china-s-local-chip-developers-to-gain-market-share-amid-industry-crisis-and-localization-shift": {
+      "headline": "China's local chip developers to gain market share amid industry crisis and localization shift",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:21:33.612148",
+      "last_seen": "2026-02-25T11:21:33.612163"
+    },
+    "https://asia.nikkei.com/business/tech/ai-models-breakthroughs-boost-startup-funding-and-valuations": {
+      "headline": "AI model releases and breakthroughs fueling increased funding and valuations in AI startups",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:21:46.109422",
+      "last_seen": "2026-02-25T11:21:46.109438"
+    },
+    "https://asia.nikkei.com/business/tech/edge-computing-investments-surge-to-support-ai-in-manufacturing-and-autonomous-vehicles": {
+      "headline": "Edge computing investments surge to support AI applications in manufacturing and autonomous vehicles",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:22:00.071558",
+      "last_seen": "2026-02-25T11:22:00.071577"
+    },
+    "https://asia.nikkei.com/business/tech/major-tech-companies-ramp-up-ai-infrastructure-investments": {
+      "headline": "Major tech companies ramp up AI infrastructure investments to support large language models and generative AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:22:19.731103",
+      "last_seen": "2026-02-25T11:22:19.731118"
+    },
+    "https://asia.nikkei.com/business/tech/supply-chain-developments-in-semiconductor-materials-critical-for-ai-hardware-expansion": {
+      "headline": "Supply chain developments in semiconductor materials critical for AI hardware expansion",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:22:36.306518",
+      "last_seen": "2026-02-25T11:22:36.306535"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties": {
+      "headline": "Nvidia reports 73% revenue jump but warns on China uncertainties",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:05:09.075139",
+      "last_seen": "2026-02-26T11:05:09.075154"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-aims-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs": {
+      "headline": "Japan aims to build onshore AI chip ecosystem with new R&D hubs",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:05:13.153792",
+      "last_seen": "2026-02-26T11:05:13.153808"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-as-ai-demand-soars": {
+      "headline": "TSMC to make advanced chips for AI at 2nd Japan plant as AI demand soars",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:05:22.244159",
+      "last_seen": "2026-02-26T11:05:22.244175"
+    },
+    "https://asia.nikkei.com/business/technology/ai-at-the-olympics-and-trump-s-rare-earths-push-the-inside-story-on-asia-tech-trends": {
+      "headline": "AI at the Olympics and Trump's rare earths push: The inside story on Asia tech trends",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:05:33.668519",
+      "last_seen": "2026-02-26T11:05:33.668541"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium-with-samsung-and-sk-hynix-overtaking-chinese-giants": {
+      "headline": "AI effect starts to flip 'Korea discount' on stocks into a premium, with Samsung and SK Hynix overtaking Chinese giants",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:05:39.707942",
+      "last_seen": "2026-02-26T11:05:39.707958"
+    },
+    "https://asia.nikkei.com/business/big-tech-s-ai-spending-spree-gathers-pace-in-2026-chipmakers-benefit-from-demand-for-accelerated-deliveries": {
+      "headline": "Big Tech's AI spending spree gathers pace in 2026, with chipmakers benefiting from demand for accelerated deliveries",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:05:45.779442",
+      "last_seen": "2026-02-26T11:05:45.779459"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-expand-ai-chip-manufacturing-at-japan-plant-switching-to-3-nm-node": {
+      "headline": "TSMC to expand AI chip manufacturing at Japan plant, switching to 3-nm node",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:05:51.314933",
+      "last_seen": "2026-02-26T11:05:51.314950"
+    },
+    "https://asia.nikkei.com/business/tech/china-memory-boost-apple-iphone-shuffle-asia-tech-trends": {
+      "headline": "China's memory boost and Apple's iPhone shuffle: Key Asia tech trends",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:05:57.777069",
+      "last_seen": "2026-02-26T11:05:57.777086"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-kioxia-extends-memory-chip-jv-with-sandisk-receives-1bn-to-support-ai-chip-supply": {
+      "headline": "Japan's Kioxia extends memory chip JV with Sandisk, receiving $1bn to support AI chip supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:06:04.363003",
+      "last_seen": "2026-02-26T11:06:04.363032"
+    },
+    "https://asia.nikkei.com/business/tech/smic-ymtc-to-expand-memory-output-amid-global-supply-crunch": {
+      "headline": "China's top chipmakers SMIC and YMTC to expand memory output amid global supply crunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:06:10.257031",
+      "last_seen": "2026-02-26T11:06:10.257047"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/modi-s-india-boosts-infra-spending-seeking-manufacturing-led-growth-in-semiconductors": {
+      "headline": "Modi's India boosts infra spending, seeking manufacturing-led growth in semiconductors",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:06:18.110236",
+      "last_seen": "2026-02-26T11:06:18.110251"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-itochu-invests-in-taiwan-systems-integrator-eyeing-chipmaking-sector-expansion": {
+      "headline": "Japan's Itochu invests in Taiwan systems integrator, eyeing chipmaking sector expansion",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:06:23.763046",
+      "last_seen": "2026-02-26T11:06:23.763062"
+    },
+    "https://asia.nikkei.com/business/tech/japan-government-to-hold-10%-voting-rights-in-rapidus-with-veto-power": {
+      "headline": "Japan government to hold 10% voting rights in Rapidus but with veto power",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:30:29.285694",
+      "last_seen": "2026-02-27T11:30:29.285712"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-taps-160-south-korean-suppliers-to-meet-chip-demand": {
+      "headline": "Tokyo Electron taps 160 South Korean suppliers to meet chip demand",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:30:48.465999",
+      "last_seen": "2026-02-27T11:30:48.466014"
+    },
+    "https://asia.nikkei.com/business/tech/d-matrix-founder-says-more-ai-adoption-key-to-unlock-further-investment": {
+      "headline": "D-Matrix founder says more AI adoption key to unlocking further investment",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:31:01.622021",
+      "last_seen": "2026-02-27T11:31:01.622040"
+    },
+    "https://asia.nikkei.com/business/deals/sofbank-sony-set-to-become-major-shareholders-in-rapidus-with-commitments-exceeding-target": {
+      "headline": "SoftBank, Sony set to become major shareholders in Rapidus with commitments exceeding target",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:32:30.861625",
+      "last_seen": "2026-02-27T11:32:30.861646"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-make-advanced-chips-for-ai-at-2nd-japan-plant-helping-japan-secure-supply": {
+      "headline": "TSMC to make advanced chips for AI at 2nd Japan plant, helping Japan secure supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:32:43.930114",
+      "last_seen": "2026-02-27T11:32:43.930132"
+    },
+    "https://asia.nikkei.com/techasia/china-s-latest-chip-push-and-ai-fever-in-india": {
+      "headline": "China's latest chip push and AI fever in India",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:32:52.416502",
+      "last_seen": "2026-02-27T11:32:52.416518"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-bags-1.7bn-in-funding-in-step-toward-mass-production": {
+      "headline": "Japan's Rapidus bags $1.7bn in funding in step toward mass production",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:15.388558",
+      "last_seen": "2026-03-02T09:54:15.388574"
+    },
+    "https://asia.nikkei.com/business/tech/chinas-latest-chip-push-and-ai-fever-in-india": {
+      "headline": "China's latest chip push and AI fever in India",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:34.665444",
+      "last_seen": "2026-03-02T09:54:34.665461"
+    },
+    "https://asia.nikkei.com/techasia/ai-at-the-olympics-and-trump-s-rare-earths-push": {
+      "headline": "AI at the Olympics and Trump's rare earths push",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:38.479338",
+      "last_seen": "2026-03-02T09:54:38.479356"
+    },
+    "https://asia.nikkei.com/business/markets/ai-effect-starts-to-flip-korea-discount-on-stocks-into-a-premium-with-samsung-and-sk-hynix-overtaking-chinese-giants": {
+      "headline": "AI effect starts to flip 'Korea discount' on stocks into a premium, with Samsung and SK Hynix overtaking Chinese giants",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:44.475708",
+      "last_seen": "2026-03-02T09:54:44.475727"
+    },
+    "https://asia.nikkei.com/business/tech/ai-models-releases-updates-and-breakthroughs-shaping-investment-landscape": {
+      "headline": "AI model releases, updates, and breakthroughs shaping investment landscape",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:53.621107",
+      "last_seen": "2026-03-02T09:54:53.621125"
+    },
+    "https://asia.nikkei.com/business/tech/enterprise-ai-software-and-platforms-gaining-strategic-importance-for-investors": {
+      "headline": "Enterprise AI software and platforms gaining strategic importance for investors",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:54:58.305835",
+      "last_seen": "2026-03-02T09:54:58.305852"
+    },
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-surge-with-new-data-center-and-cloud-computing-developments": {
+      "headline": "AI infrastructure investments surge with new data center and cloud computing developments",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:55:04.878234",
+      "last_seen": "2026-03-02T09:55:04.878250"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/hardware-startups-and-funding-in-semiconductor-and-ai-chip-sectors": {
+      "headline": "Hardware startups and funding in semiconductor and AI chip sectors",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:55:09.120399",
+      "last_seen": "2026-03-02T09:55:09.120419"
+    },
+    "https://asia.nikkei.com/business/tech/major-tech-companies-strategic-ai-initiatives-influence-market-valuations": {
+      "headline": "Major tech companies' strategic AI initiatives influencing market valuations",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:55:15.038492",
+      "last_seen": "2026-03-02T09:55:15.038508"
+    },
+    "https://asia.nikkei.com/business/tech/nittobo-to-roll-out-improved-glass-cloth-crucial-to-ai-chips": {
+      "headline": "Nittobo to roll out improved glass cloth crucial to AI chips",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:49:54.362575",
+      "last_seen": "2026-03-03T13:49:54.362591"
+    },
+    "https://asia.nikkei.com/business/technology/china-unveils-measures-to-boost-tech-insurance-in-push-for-self-reliance": {
+      "headline": "China unveils measures to boost tech insurance in push for self-reliance",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:50:02.122686",
+      "last_seen": "2026-03-03T13:50:02.122701"
+    },
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-on-7-nm-and-5-nm-like-production-tech": {
+      "headline": "Beijing-backed Huawei and SMIC lead efforts on 7-nm and 5-nm-like production tech",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:50:10.552055",
+      "last_seen": "2026-03-03T13:50:10.552071"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-tops-1bn-in-private-investment-as-ibm-aims-to-join": {
+      "headline": "Japan's Rapidus tops $1bn in private investment as IBM aims to join",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:50:19.734521",
+      "last_seen": "2026-03-03T13:50:19.734537"
+    },
+    "https://asia.nikkei.com/business/tech/xiaomi-to-take-leica-smartphone-global": {
+      "headline": "China's Xiaomi to take Leica smartphone global",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:50:29.959744",
+      "last_seen": "2026-03-03T13:50:29.959759"
+    },
+    "https://asia.nikkei.com/business/tech/taiwan-s-tsmc-expands-ai-chip-manufacturing-at-japan-plant-to-meet-soaring-demand": {
+      "headline": "Taiwan's TSMC expands AI chip manufacturing at Japan plant to meet soaring demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:50:39.704241",
+      "last_seen": "2026-03-03T13:50:39.704258"
+    },
+    "https://asia.nikkei.com/business/tech/us-chip-giant-nvidia-sees-no-revenue-from-china-despite-trump-approval": {
+      "headline": "US chip giant Nvidia sees no revenue from China despite Trump approval",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:50:48.706905",
+      "last_seen": "2026-03-03T13:50:48.706923"
+    },
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-closes-record-110bn-funding-round-with-amazon-nvidia-and-softbank": {
+      "headline": "OpenAI closes record $110bn funding round with Amazon, Nvidia and SoftBank",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:10.151630",
+      "last_seen": "2026-03-04T09:33:10.151649"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-government-to-hold-10-voting-rights-in-rapidus-with-veto-power": {
+      "headline": "Japan government to hold 10% voting rights in Rapidus but with veto power",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:17.021298",
+      "last_seen": "2026-03-04T09:33:17.021314"
+    },
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-on-7-nm-and-5-nm-like-production-tech-backed-by-beijing": {
+      "headline": "Backed by Beijing, Huawei and SMIC lead efforts on 7-nm and 5-nm-like production tech",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:29.691258",
+      "last_seen": "2026-03-04T09:33:29.691277"
+    },
+    "https://asia.nikkei.com/business/tech/ai-chip-investments-drive-demand-for-accelerated-deliveries-global-chip-tool-makers-set-for-double-digit-revenue-growth": {
+      "headline": "AI chip investments drive demand for accelerated deliveries, global chip tool makers set for double-digit revenue growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:40.111004",
+      "last_seen": "2026-03-04T09:33:40.111020"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductor-equipment-and-materials-industry-sees-record-investments-amid-supply-crunch": {
+      "headline": "Semiconductor equipment and materials industry sees record investments amid supply crunch",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:47.745620",
+      "last_seen": "2026-03-04T09:33:47.745637"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips": {
+      "headline": "Japan's Rapidus adds Canon as first major domestic customer candidate for 2nm chips",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:33:54.531197",
+      "last_seen": "2026-03-04T09:33:54.531214"
+    },
+    "https://asia.nikkei.com/business/tech/ai-model-releases-updates-and-breakthroughs-continue-to-reshape-enterprise-ai-strategies": {
+      "headline": "AI model releases, updates, and breakthroughs continue to reshape enterprise AI strategies",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:00.664983",
+      "last_seen": "2026-03-04T09:34:00.665001"
+    },
+    "https://asia.nikkei.com/business/technology/major-tech-firms-accelerate-ai-infrastructure-investments-amid-rising-demand-for-ai-accelerators": {
+      "headline": "Major tech firms accelerate AI infrastructure investments amid rising demand for AI accelerators",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:07.013661",
+      "last_seen": "2026-03-04T09:34:07.013679"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-unveils-measures-to-boost-tech-insurance-in-push-for-self-reliance-impacting-semiconductor-industry": {
+      "headline": "China unveils measures to boost tech insurance in push for self-reliance, impacting semiconductor industry",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:12.365708",
+      "last_seen": "2026-03-04T09:34:12.365724"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-expansion-japan-ai-chip-production-regional-supply-chain-shifts": {
+      "headline": "TSMC's expansion into Japan to support AI chip production highlights regional supply chain shifts",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:18.236497",
+      "last_seen": "2026-03-04T09:34:18.236514"
+    },
+    "https://asia.nikkei.com/business/tech/nvidia-warns-on-china-uncertainties-despite-revenue-growth": {
+      "headline": "US chip giant Nvidia warns on China uncertainties despite revenue growth, signaling geopolitical risks",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:24.511802",
+      "last_seen": "2026-03-04T09:34:24.511820"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-semiconductor-industry-receives-government-backing-for-ai-related-chip-development": {
+      "headline": "Japan's semiconductor industry receives government backing for AI-related chip development",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:31.010304",
+      "last_seen": "2026-03-04T09:34:31.010322"
+    },
+    "https://asia.nikkei.com/business/tech/ai-infrastructure-investments-surge-as-cloud-providers-expand-data-center-capacities": {
+      "headline": "AI infrastructure investments surge as cloud providers expand data center capacities",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:39.284853",
+      "last_seen": "2026-03-04T09:34:39.284871"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/semiconductor-industry-sees-record-136bn-spending-plan-across-asia-to-meet-ai-and-5g-demands": {
+      "headline": "Semiconductor industry sees record $136bn spending plan across Asia to meet AI and 5G demands",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:34:44.489563",
+      "last_seen": "2026-03-04T09:34:44.489585"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips": {
+      "headline": "Rapidus adds Canon as first major domestic customer candidate for 2nm chips",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:51:45.400340",
+      "last_seen": "2026-03-05T11:51:45.400357"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-rapidus-secures-640m-investment": {
+      "headline": "Japan's Rapidus secures $640m investment alongside private sector funding",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:52:05.123517",
+      "last_seen": "2026-03-05T11:52:05.123537"
+    },
+    "https://asia.nikkei.com/business/tech/ai-models-releases-updates-and-breakthroughs-impacting-enterprise-infrastructure": {
+      "headline": "AI model releases, updates, and breakthroughs impacting enterprise infrastructure",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:52:10.296394",
+      "last_seen": "2026-03-05T11:52:10.296411"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/robotics-and-automation-companies-see-increased-funding-amid-manufacturing-push": {
+      "headline": "Robotics and automation companies see increased funding amid manufacturing push",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:52:14.292756",
+      "last_seen": "2026-03-05T11:52:14.292773"
+    },
+    "https://asia.nikkei.com/business/edge-computing-investments-accelerate-to-support-ai-applications": {
+      "headline": "Edge computing investments accelerate to support AI applications",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:52:19.396630",
+      "last_seen": "2026-03-05T11:52:19.396646"
+    },
+    "https://asia.nikkei.com/business/technology/tech-asia/chip-price-hikes-spread-as-asia-s-chipmakers-plan-record-136bn-spending": {
+      "headline": "Chip price hikes spread as Asia's chipmakers plan record $136bn spending",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:06:56.856727",
+      "last_seen": "2026-03-06T11:06:56.856743"
+    },
+    "https://asia.nikkei.com/business/tech/huawei-smic-lead-efforts-on-7-nm-and-5-nm-like-production-tech": {
+      "headline": "Backed by Beijing, Huawei and SMIC lead efforts on 7-nm and 5-nm-like production tech",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:07:17.338980",
+      "last_seen": "2026-03-06T11:07:17.338998"
+    },
+    "https://asia.nikkei.com/business/tech/chip-titan-to-switch-to-3-nm-node-helping-japan-secure-stable-supply-of-powerful-products": {
+      "headline": "Chip titan will switch to 3-nm node, helping Japan secure stable supply of powerful products",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:07:26.950087",
+      "last_seen": "2026-03-06T11:07:26.950104"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/softbank-sony-set-to-become-major-shareholders-with-commitments-exceeding-target": {
+      "headline": "SoftBank, Sony set to become major shareholders with commitments exceeding target",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:07:36.235750",
+      "last_seen": "2026-03-06T11:07:36.235772"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/global-chip-tool-makers-set-for-double-digit-revenue-growth-driven-by-ai-chip-investments": {
+      "headline": "Global chip tool makers set for double-digit revenue growth driven by AI chip investments",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:07:48.459219",
+      "last_seen": "2026-03-06T11:07:48.459242"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-model-releases-updates-and-breakthroughs-shaping-investment-opportunities": {
+      "headline": "AI model releases, updates, and breakthroughs shaping investment opportunities",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:07:55.854795",
+      "last_seen": "2026-03-06T11:07:55.854811"
+    },
+    "https://asia.nikkei.com/business/tech/japan-to-target-254bn-in-homemade-semiconductor-sales-by-2040-aiming-to-boost-domestic-industry": {
+      "headline": "Japan to target $254bn in homemade semiconductor sales by 2040, aiming to boost domestic industry",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:19:50.931010",
+      "last_seen": "2026-03-09T12:19:50.931027"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/government-aims-to-capture-30-share-of-global-physical-ai-market-on-par-with-us-and-china": {
+      "headline": "Government aims to capture 30% share of global physical AI market, on par with US and China",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:19:56.038411",
+      "last_seen": "2026-03-09T12:19:56.038428"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-1.7bn-in-funding-toward-mass-production-of-advanced-chips": {
+      "headline": "Japan's Rapidus secures $1.7bn in funding toward mass production of advanced chips",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:02.818527",
+      "last_seen": "2026-03-09T12:20:02.818543"
+    },
+    "https://asia.nikkei.com/business/tech/india-grants-subsidy-to-360m-chip-assembly-project-to-bolster-local-semiconductor-industry": {
+      "headline": "India grants subsidy to $360m chip assembly project to bolster local semiconductor industry",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:09.832713",
+      "last_seen": "2026-03-09T12:20:09.832729"
+    },
+    "https://asia.nikkei.com/business/deals/toyota-supplier-denso-plans-to-acquire-chipmaker-rohm-in-up-to-8bn-deal-to-strengthen-supply-chain": {
+      "headline": "Toyota supplier Denso plans to acquire chipmaker Rohm in up to $8bn deal to strengthen supply chain",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:16.327615",
+      "last_seen": "2026-03-09T12:20:16.327633"
+    },
+    "https://asia.nikkei.com/business/tech/rapidus-adds-canon-as-first-major-domestic-customer-for-2nm-chips-signaling-industry-rebuild-efforts": {
+      "headline": "Rapidus adds Canon as first major domestic customer for 2nm chips, signaling industry rebuild efforts",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:22.745766",
+      "last_seen": "2026-03-09T12:20:22.745784"
+    },
+    "https://asia.nikkei.com/business/tech/japan-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs-to-accelerate-domestic-innovation": {
+      "headline": "Japan to build onshore AI chip ecosystem with new R&D hubs to accelerate domestic innovation",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:28.676141",
+      "last_seen": "2026-03-09T12:20:28.676160"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/china-unveils-measures-to-boost-tech-insurance-industry-as-part-of-self-reliance-push-in-tech-sector": {
+      "headline": "China unveils measures to boost tech insurance industry as part of self-reliance push in tech sector",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:36.523285",
+      "last_seen": "2026-03-09T12:20:36.523304"
+    },
+    "https://asia.nikkei.com/business/tech/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties-impacting-future-growth": {
+      "headline": "Nvidia reports 73% revenue jump but warns on China uncertainties impacting future growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:43.515860",
+      "last_seen": "2026-03-09T12:20:43.515878"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/asia-s-chipmakers-plan-record-136bn-investment-amid-rising-chip-price-hikes-and-supply-crunch": {
+      "headline": "Asia's chipmakers plan record $136bn investment amid rising chip price hikes and supply crunch",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:51.664398",
+      "last_seen": "2026-03-09T12:20:51.664419"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-s-tokyo-electron-expands-workforce-and-collaborates-with-160-south-korean-suppliers-to-meet-chip-demand": {
+      "headline": "Japan's Tokyo Electron expands workforce and collaborates with 160 South Korean suppliers to meet chip demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:20:59.652883",
+      "last_seen": "2026-03-09T12:20:59.652899"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-to-produce-advanced-ai-chips-at-2nm-node-in-japan-securing-supply-for-ai-applications": {
+      "headline": "TSMC to produce advanced AI chips at 2nm node in Japan, securing supply for AI applications",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:06.740345",
+      "last_seen": "2026-03-09T12:21:06.740362"
+    },
+    "https://asia.nikkei.com/business/tech/china-s-latest-chip-push-aims-for-5-fold-increase-in-advanced-chip-output-to-meet-ai-demand": {
+      "headline": "China's latest chip push aims for a 5-fold increase in advanced chip output to meet AI demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:14.138442",
+      "last_seen": "2026-03-09T12:21:14.138460"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-rapidus-government-backing-640m-private-sector": {
+      "headline": "Japan's Rapidus secures government backing with $640m investment, with private sector contributing $1bn",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:19.851104",
+      "last_seen": "2026-03-09T12:21:19.851121"
+    },
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-forecast-double-digit-revenue-growth-driven-by-ai-chip-investments": {
+      "headline": "Global chip tool makers forecast double-digit revenue growth driven by AI chip investments",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:26.235106",
+      "last_seen": "2026-03-09T12:21:26.235123"
+    },
+    "https://asia.nikkei.com/business/tech/renesas-teams-with-us-based-globalfoundries-to-develop-next-gen-automotive-chips-amid-auto-industry-ai-adoption": {
+      "headline": "Renesas teams with US-based GlobalFoundries to develop next-gen automotive chips amid auto industry AI adoption",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:32.550356",
+      "last_seen": "2026-03-09T12:21:32.550372"
+    },
+    "https://asia.nikkei.com/business/tech/smic-warns-of-crisis-over-memory-crunch-plans-to-increase-local-chip-market-share": {
+      "headline": "SMIC warns of 'crisis mode' over memory crunch, plans to increase local chip market share",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:39.191374",
+      "last_seen": "2026-03-09T12:21:39.191390"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-expands-into-japan-to-meet-ai-demand-establishing-third-advanced-chip-base": {
+      "headline": "Taiwan's TSMC expands into Japan to meet soaring AI demand, establishing third advanced chip base",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:46.512271",
+      "last_seen": "2026-03-09T12:21:46.512290"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/bain-reduces-stake-in-kioxia-amid-market-shifts": {
+      "headline": "US investment firm Bain reduces stake in Japan's Kioxia memory maker amid market shifts",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:51.545665",
+      "last_seen": "2026-03-09T12:21:51.545682"
+    },
+    "https://asia.nikkei.com/business/tech/d-matrix-s-founder-emphasizes-ai-adoption-as-key-to-unlocking-further-investment-despite-market-barriers": {
+      "headline": "D-Matrix's founder emphasizes AI adoption as key to unlocking further investment, despite market barriers",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:21:58.010989",
+      "last_seen": "2026-03-09T12:21:58.011007"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/japan-to-target-254bn-in-homemade-semiconductor-sales-by-2040": {
+      "headline": "Japan to target $254bn in homemade semiconductor sales by 2040, aiming to boost domestic chip industry",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:07.990631",
+      "last_seen": "2026-03-10T10:08:07.990652"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-1.7bn-in-funding-toward-mass-production-of-2nm-chips-backed-by-sony-and-softbank": {
+      "headline": "Japan's Rapidus secures $1.7bn in funding toward mass production of 2nm chips, backed by Sony and SoftBank",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:14.942657",
+      "last_seen": "2026-03-10T10:08:14.942676"
+    },
+    "https://asia.nikkei.com/business/tech/japan-to-invest-640mn-in-rapidus-with-veto-rights": {
+      "headline": "Japan government to hold 10% voting rights in Rapidus with veto power, investing $640m alongside private sector",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:21.206840",
+      "last_seen": "2026-03-10T10:08:21.206858"
+    },
+    "https://asia.nikkei.com/business/tech/japan-aims-to-build-onshore-ai-chip-ecosystem-with-new-r-d-hubs-for-designing-and-testing-cutting-edge-devices": {
+      "headline": "Japan aims to build onshore AI chip ecosystem with new R&D hubs for designing and testing cutting-edge devices",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:27.581888",
+      "last_seen": "2026-03-10T10:08:27.581909"
+    },
+    "https://asia.nikkei.com/business/tech/nvidia-reports-73-revenue-jump-but-warns-on-china-uncertainties-affecting-ai-chip-market": {
+      "headline": "Nvidia reports 73% revenue jump but warns on China uncertainties affecting AI chip market",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:35.220827",
+      "last_seen": "2026-03-10T10:08:35.220853"
+    },
+    "https://asia.nikkei.com/business/tech/rapidus-adds-canon-as-first-major-domestic-customer-for-2nm-chips-signaling-japan-s-reinvestment-in-advanced-semiconductor-tech": {
+      "headline": "Rapidus adds Canon as first major domestic customer for 2nm chips, signaling Japan's reinvestment in advanced semiconductor tech",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:41.447539",
+      "last_seen": "2026-03-10T10:08:41.447559"
+    },
+    "https://asia.nikkei.com/business/markets/china-unveils-measures-to-boost-tech-insurance-industry-to-support-self-reliance-in-tech-innovation": {
+      "headline": "China unveils measures to boost tech insurance industry to support self-reliance in tech innovation",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:47.907625",
+      "last_seen": "2026-03-10T10:08:47.907650"
+    },
+    "https://asia.nikkei.com/business/china-s-latest-chip-push-and-ai-fever-in-india-highlight-regional-investments-in-advanced-manufacturing": {
+      "headline": "China's latest chip push and AI fever in India highlight regional investments in advanced manufacturing",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:08:54.521026",
+      "last_seen": "2026-03-10T10:08:54.521053"
+    },
+    "https://asia.nikkei.com/business/technology/us-chip-giant-nvidia-sees-no-revenue-from-china-in-h200-despite-trump-administration-s-restrictions": {
+      "headline": "US chip giant Nvidia sees no revenue from China in H200 despite Trump administration's restrictions",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:01.241349",
+      "last_seen": "2026-03-10T10:09:01.241365"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-expands-workforce-and-cooperates-with-160-south-korean-suppliers-to-meet-rising-chip-demand": {
+      "headline": "Tokyo Electron expands workforce and cooperates with 160 South Korean suppliers to meet rising chip demand",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:08.037552",
+      "last_seen": "2026-03-10T10:09:08.037574"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-semiconductor-tool-maker-expands-collaborations-to-support-record-136bn-investment-by-asia-s-chipmakers": {
+      "headline": "Japan's semiconductor tool maker expands collaborations to support record $136bn investment by Asia's chipmakers",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:14.105368",
+      "last_seen": "2026-03-10T10:09:14.105383"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-rapidus-secures-state-backed-funding-with-sony-and-softbank-among-investors-to-advance-2nm-chip-production": {
+      "headline": "Japan's Rapidus secures state-backed funding, with Sony and SoftBank among investors, to advance 2nm chip production",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:20.554887",
+      "last_seen": "2026-03-10T10:09:20.554906"
+    },
+    "https://asia.nikkei.com/business/tech/memory-industry-in-crisis-as-shortages-deepen-local-chip-developers-gain-market-share": {
+      "headline": "China's memory industry faces crisis mode amid deepening shortages, with local chip developers gaining market share",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:27.227754",
+      "last_seen": "2026-03-10T10:09:27.227780"
+    },
+    "https://asia.nikkei.com/business/tech/tsmc-turns-japan-into-third-advanced-chip-manufacturing-base-to-meet-soaring-ai-demand-supplementing-taiwan-and-us-plants": {
+      "headline": "TSMC turns Japan into third advanced chip manufacturing base to meet soaring AI demand, supplementing Taiwan and US plants",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:33.503490",
+      "last_seen": "2026-03-10T10:09:33.503511"
+    },
+    "https://asia.nikkei.com/business/tech/ai-model-and-infrastructure-investments-accelerate-as-global-companies-seek-to-capitalize-on-generative-ai-growth": {
+      "headline": "AI model and infrastructure investments accelerate as global companies seek to capitalize on generative AI growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:40.046754",
+      "last_seen": "2026-03-10T10:09:40.046772"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/major-automaker-denso-bids-to-acquire-chipmaker-rohm-aiming-to-strengthen-supply-chain-for-evs-and-data-centers": {
+      "headline": "Major automaker Denso bids to acquire chipmaker Rohm, aiming to strengthen supply chain for EVs and data centers",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:44.895760",
+      "last_seen": "2026-03-10T10:09:44.895780"
+    },
+    "https://asia.nikkei.com/business/tech/semiconductors/ai-infrastructure-investments-surge-with-increased-data-center-developments-and-cloud-computing-for-ai-applications": {
+      "headline": "AI infrastructure investments surge with increased data center developments and cloud computing for AI applications",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:51.249169",
+      "last_seen": "2026-03-10T10:09:51.249184"
+    },
+    "https://asia.nikkei.com/business/tech/global-chip-tool-makers-forecast-double-digit-revenue-growth-driven-by-ai-chip-demand-and-supply-chain-expansion": {
+      "headline": "Global chip tool makers forecast double-digit revenue growth driven by AI chip demand and supply chain expansion",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:09:58.156451",
+      "last_seen": "2026-03-10T10:09:58.156469"
+    },
+    "https://asia.nikkei.com/business/tech/japan-s-renesas-teams-with-us-based-globalfoundries-to-develop-next-generation-auto-chips-amid-ai-driven-automotive-market-growth": {
+      "headline": "Japan's Renesas teams with US-based GlobalFoundries to develop next-generation auto chips amid AI-driven automotive market growth",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:10:07.419177",
+      "last_seen": "2026-03-10T10:10:07.419197"
+    },
+    "https://asia.nikkei.com/business/tech/china-s-tech-insurance-measures-aim-to-support-innovation-and-self-reliance-in-semiconductor-and-ai-sectors": {
+      "headline": "China's tech insurance measures aim to support innovation and self-reliance in semiconductor and AI sectors",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:10:14.923920",
+      "last_seen": "2026-03-10T10:10:14.923940"
+    }
+  }
+}

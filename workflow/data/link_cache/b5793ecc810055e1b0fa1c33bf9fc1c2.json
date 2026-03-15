@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/03690-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306433429/monthly-return-of-equity-issuer-on-movements-in-securities-for",
+    "https://news.futunn.com/hk/notice/306024180/announcement-of-the-resultsfor-the-three-months-ended-september-30",
+    "https://news.futunn.com/hk/notice/306608178/next-day-disclosure-return"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306433429/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "美團-W (03690) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:22:41.754457",
+      "last_seen": "2026-02-09T21:22:41.754466"
+    },
+    "https://news.futunn.com/hk/notice/306024180/announcement-of-the-resultsfor-the-three-months-ended-september-30": {
+      "headline": "業績公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:48:48.544174",
+      "last_seen": "2026-02-10T10:48:48.544190"
+    },
+    "https://news.futunn.com/hk/notice/306608178/next-day-disclosure-return": {
+      "headline": "美團-W (03690) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:22:31.493189",
+      "last_seen": "2026-03-06T11:22:31.493204"
+    }
+  }
+}

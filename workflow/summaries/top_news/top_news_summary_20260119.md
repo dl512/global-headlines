@@ -1,0 +1,28 @@
+## Most Important Stories
+
+- **Deadly Train Crash in Spain**: At least 21 killed and dozens injured after two high-speed trains collided near Adamuz, Spain, prompting suspension of rail services and international condolences.
+- **US President Donald Trump Threatens Tariffs Over Greenland**: President Donald Trump threatens tariffs up to 25% on NATO allies unless a deal to purchase Greenland is reached, escalating tensions with Europe and prompting unified condemnation from EU leaders.
+- **China Achieves Growth Amid Demographic Challenges**: China meets its 2025 GDP growth target despite US tariffs and a record-low birth rate, raising concerns about long-term economic sustainability.
+- **Factory Explosion in Inner Mongolia**: An explosion at a steel factory in Inner Mongolia, China, kills two and injures 84, highlighting ongoing industrial safety issues.
+- **US President Donald Trump Proposes $1 Billion for Board of Peace Seats**: The Trump administration proposes nations pay $1 billion each for permanent seats on the Board of Peace overseeing Gaza reconstruction.
+- **Iraq Announces Full Withdrawal of US Forces**: Iraq declares the complete withdrawal of US troops from its territory, signaling a shift in regional military dynamics.
+- **Syria and Kurdish Forces Agree Ceasefire**: Syria announces a nationwide ceasefire with Kurdish-led forces after two weeks of clashes, integrating the SDF into state institutions.
+- **Protests and Federal Response in Minnesota**: Protests escalate in Minneapolis after a fatal ICE shooting, with the Pentagon readying 1,500 troops and a federal judge restricting crowd control tactics against peaceful protesters.
+- **Iran Admits Thousands Killed in Protests**: Iran’s Supreme Leader Khamenei acknowledges thousands killed in recent protests, blaming US President Donald Trump for inciting unrest.
+- **EU and Mercosur Sign Free Trade Agreement**: The European Union and South America’s Mercosur bloc sign a landmark free trade deal to boost economic integration.
+- **Deadly Wildfires in Chile**: Wildfires in Chile kill at least 18 people, with firefighters battling extreme conditions.
+- **Pakistan Shopping Mall Fire**: A fire at a Karachi shopping mall leaves six dead, over 20 injured, and dozens missing, prompting calls for safety reviews.
+- **Canada and China Slash Tariffs in Trade Reset**: Canada and China agree to reduce tariffs on electric vehicles and canola, signaling a reset in trade relations.
+- **Vietnam Communist Party Congress**: Vietnam’s Communist Party holds its five-yearly congress to select new leaders and set economic targets.
+- **US President Donald Trump Unveils Healthcare Plan**: President Donald Trump announces a new healthcare plan aimed at lowering drug prices and insurance premiums.
+- **South Korea Sentences Ex-President Yoon**: Former South Korean President Yoon Suk Yeol is sentenced to five years in prison for obstructing his arrest and attempting martial law.
+- **India’s Delivery Platforms Face Regulatory Pressure**: India’s online delivery giants face new regulations, labor strikes, and scrutiny over gig worker conditions.
+- **US President Donald Trump Threatens to Sue JPMorgan Chase**: President Donald Trump threatens legal action against JPMorgan Chase for allegedly closing his accounts after the January 6 Capitol riot.
+- **US DOJ Investigates Minnesota Officials Over Immigration Enforcement**: The Justice Department investigates Minnesota’s governor and other officials for allegedly impeding federal immigration agents.
+- **Venezuelan Opposition Leader Presents Nobel Medal to US President Donald Trump**: Maria Corina Machado presents her Nobel Peace Prize medal to President Donald Trump, sparking controversy in Norway.
+- **Russia Monitors US President Donald Trump’s Greenland Push**: Russia states it is closely watching President Donald Trump’s efforts to acquire Greenland.
+- **US President Donald Trump Calls for Housing Investor Ban**: President Donald Trump supports a bill to block institutional investors from buying single-family homes to address housing affordability.
+- **US and Finland Icebreaker Deal**: The US purchases advanced icebreakers from Finland to boost Arctic security amid rising regional competition.
+- **Uganda’s Museveni Wins Re-Election**: President Museveni secures re-election in Uganda as the opposition leader remains at large.
+- **Crypto Crime Losses Top $700 Million**: Crypto criminals steal over $700 million using traditional scams and cyberattacks, with victims facing little recourse.
+- **Conservation Success in Patagonia**: Three Andean condors are successfully released into the wild in Patagonia as part of conservation efforts.

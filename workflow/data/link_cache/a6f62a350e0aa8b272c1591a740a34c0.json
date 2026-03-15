@@ -1,0 +1,672 @@
+{
+  "website": "https://news.google.com/rss/search?q=BYD+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxpzgnkbs05zuvmddj0ahp4z041zlbqzedbbhlsve05besxd3bfrm1qevdsvwhtv3zumfjsnfdtouzfdhfqaxrea2cxsfcwbfzzcejhqmtku1o5nmdwafp0s0nrsfjibde1cug0ede4aejiyvy1tu1htk9rd3jszewwnwltetdnumpbm09cuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnmgrzcvv2tktfzm1dd3fpn0u1qkzsbhkymlc2enldtw1jslvengjpzvvnewdwzmtytljznl9jvfpbmnnstknvewjnxzdjb3r3z0tpx1vfck1ibmhdovzgzwz5c25ive9lzlfqazvudwrcltjrumxnvzvdckfkctnlympdzdk5autnyjv3c1pxzznym3fqq1lisljsbupsmkrrv2hyz3vpazk1r042nlgxqjzwoextahramke?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbbyu1rt3bnulblwkx1akzpv1z4lvhcnw1ycjfubmj2u2davdjfb2hnu3dtogqwltfbufl0yllmnkv3em5zugpiy0piame3tgxhr1lecmfsuwdomtd3ywjvuelnotrxlufvznmxwuv1mly?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxpwnzvendytff0rm5wunlbejdbal9rz3lnz2vvrtr1c0rcefi5rwxfqxzwt0fkoxbmtf9us2j5xy1ivfhzcnplwk9admxjstrolwdebg5qagrheuxtanffvlo2yufizfbcdf92bndet3nrnhpwanbsctbaqnj6ttnjeejybflad1bmywdzbup2a3pjzhaxbff1v3h0de8?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqug9obtbodmfxztbiqurdtzrtd1lybxj3d25talvleg1icxdfwllptkllsutzsgjrq2raqzjmslvaegtfz2f2auv2vjvnd093eulquvdjumt1zu1lexvsmw5gxzdsetbrug5ms3hyzmtkcmxrz1pllxpyeuxfb1rrlwnlmnj3ajhiyvftavrirvnkdjlmwmploujeswvorjdhuefv?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxou1dtrjjvedbgdddomjvxedq4c2lwzwnuukxodu9koejqczficw9kag5svxvxdvdqmxv6ei1wq0kztxzzckjxzenkrzhfunbus2nhugj0ogptsepjblbhz0lsdmdxtez3nl90wjhrenronkfhnfd3enczsvrzqvjqqm9qcwtqndczudfps21bsmuxv0fmddvkr2frcdjiuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte9kwuxotwvzs3zvmdbpduvhnnp1mmhtvnnoae1jx3f0ywnesjbznxpfaf9udhllbgjqohg5luu3dxpytdvobdhfyxvuztq2snyxweewce9rmtn0btdocnltmfq5na?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpcku1cjbyzufhcuhhbuhizug0t1rpmzhqeupfre44v04zweettgrgbvheadbhrlvtntvxs0v1snfebvu1cdbfv1uyr29fx2zqbwfbwtljsmr4otjftk1amjd2mg1yzxi0d285ofjmsvrqsnzjnnbbyljlltfgughxbu5fmhdrx25qngftwhh5cgpmb1vgugtsbgdmy0z5nexszjvrs3j3enroem5vre5osg?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnqu5wndf6evyynurasfdxduzhmxmxanvrq1bhugtwyvrqenhisk1pwjfic2xlx3lpntzlrwxrb3i0mu15uc1ptk5vrzvyeggzvs12vmczd0oxug1im1g0y0u2dfzsbw5lymj3r0fjwflud3n3cmjvvvrualiyuhfsrc15ufbur3fmvzb3cuzvync1dw?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqdnbkuvlqrdzonnmwwxk1cgtuzuroztzeuzhsedz6bnrwnhl1evlxss1ryuzmcvrrshlkt2zvvuzpvmhozwptsl82z2dzzvv1exbwnuvsegnknmqxadhjbfdktw9hbxozbkxjs2rhbfjfbwpzohptdfzheljur3lsdw9uythfynlpannsmhhuanvlsel0c2rwtg9ydv8?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqlufgemutbddseflnejdnmdnssjc1x0tldmhox0djttd5uwlrunr0b2jhmhjitjz5vgtnqk9puzrum0tynujxmdj6rgq4c3ltnuz0zwpbn0pdr2gtzef3s191bllox3vfq1djntg4zkricwzlt2doszhxnek5z1exq0ittgtwvktdluc3n1nqq1dkbenwtdzqcfjoy0g2r3ytqnu4rk1jefjslw9mneluq0jruddxn2c4?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxoz0kyy1ruakxzrmcyowrocvqzeldudvrqv3dlt0dvslgyvzdqz2nrdthbwfyzsdlzahh6egrkauhkmwtftwlos043ddkznjznve5pu2ljewffz25ed2gwthfzd0o5ntr4vwtyntl5em9ptfhvmk90wdbiswtkbhlvwdljlutavlhxcvb5mu1uvelhsuvfodjxyjv1sez5sfhfovnusdbxv1h6wwlyz1g5vfa2au9ldw?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnm29kczdzz0duauztmfb4mjb0etntdgpzmvrmb0trylvqbtddswdhzc16rjvfnejrb3bss3b4ndnsekk4u0zfdmwzdvjrs2rwywv3ltzuuzhnqmvlvevlmzfld0nadgt6mw5fmvpouza2eu1xndmzt2x5zg9qd0riwdnqqq?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxpmzq1vzrqtfvzrxjdshbvq3vhnepyy0pvee9jmtvkd2tnauzlmlk2ndbwvm5ut0zsrwfwmutqrjbydtu0njjicelostizztzlu2l2edfvzhjgd1nbrk1oblnymllrwdb6rhvqmuo2mlcwmhlyvuniuenybxvnthvouudkwi0tvldmnhzxtjfom1uxyvbvltfjshdxmza5exhsano3xzdsms1mvli2rjeyu292ovn1nmz2r1vxzy1wmklnlta?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqsgkttzdwcvhmy21cuzriuehmdexwm2pcuf9onf9ztm1wt0dvvvr4ddvtawjiul9unuo3cgdrx1nqmy11c0zlawvirxjflxf4vmj4v1pxugg2t2hlz3jgz19imejkbwrbcfdwtmzvc3beskriog03s0tcn1cyy0jrm3u3ehrvsthtwc1scejpna?oc=5",
+    "https://news.google.com/rss/articles/cbmiykfvx3lxtfa3wtqzd1g2ck9amgtptmzsb0swmmrsedyxbfhnoelocjzfvgdrrlryx1fkujjgde10s2lfq0hmwdreqxfrugkwu3y2sxg5bw5fytuyd2rxtgxvwxladehbd0t3?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxqb3nsvnbxufnkowsza1uzvec2nljhanl6rlbqutllnfutz0xoas1oyu83wepanzq4rfbgtwxpwlzpsgfzvnvsele5anftlvfhunvwx0phvznedfphczhmc1pgv3hdnwfvm3hungtit21qamlkd2fnvxjlx2nlzna4znmwahr3uwg5mgn5vwx1sercoex1zlflylrtmzllr2ncvy1ilu4tyli?oc=5",
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxtfbjbunlek93d3v1oetxsknunxruajb6oep6q1cweguyq2nfahvxamrlss1omkrhted3u2ltslhprdl3awyymupcctlwx21taexmvwlsc2vqczzbzzhhatb3ci1untjntvk?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxnamdlytdomwxvwe14z0fzbfvawgtzmm90nvhkqmpcatk3mwrec2n4qvlpz3vxwtuxwkmwr3lbt1r3mwh5bfo1t0pzts1nckhzcmhzr19uvxrvsmr1ulfrd2n1bjy2stbzdwk2akrxunftoxhloelwndffby1cr2lvndhnq09nzw?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte4xa3d4r0rad0nkdznnvflzuwcwbwhwcjfldvm0txvrq3etejj4yjruamj2q1vkedvfutbgoeqzrjnizklzenllsml6zevsef96utzimfvlbzlyadvqmfluret5euh4sehgwhluqlrquvlzuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiakfvx3lxtfbjbus0tgl5cnz4vxjvoef2wvrounywahlcnfvvzzdoawr4zm56aepkn0owqlvwwjjlbvvot2lpv0xsr3oyody2wwreutd0nl9rrzzszv92yxvkc21smvqzd2qytupdsgpquke?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnzzzrz2dmng1gcff4mez1n3nnswlldmk0uzrgnzfjduzkufqtnfdfahrhwhbpc1qtoxz6qthksndubkjmulpptzk0uu1fakx6mlphrxgtdtftx0exqmpjmnlex1u2yldjzxloltbkr1fsmxm1vnf1qi03ttnym3p4udvnduiwqmxrttbhnm5nqkkwthyxsk5z?oc=5",
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxpwhv1emlvafncalnimlblcnq1luhqzurnm0vbuxf4wfdrrxz5tun4mkrwbtvkdvrzqldvb3htdvfqvdnodjkta0xcm25st3bcsha2nho4akdjt3v0ujf4tjvucem0c3dkbdh1m0pszwjovwfqb0iwbld4umu4ukjpelprr0rcvglryl8yqnqyuvfimzjymu1lejd5snluee00vuljofv0szizr0fjqxjlsjddtldictrwnehrqkr6etu3qq?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqt3q1x2xwmndhtvkyww5tctlyylrhy3dnb1z1vkj3ajfgnu5ztlzsenduvehtvejwynzfdjc1sefqlxbirmd0s09kugxioen5oenbquzxznq2qvrnmvraumw2elhuznr6wwtyr1m0ahd1wxq2zvnwwkvmujnyy005rgl4svpls3uybuntunbtr2dnqq?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpvnk5egg2c2jes3kyztr6clrid1dnv0xlwkk4allzlwtoouxwmvzhs0jhd05sz3ftbdjpsexzqudtnlhttzfkqtdhdw5iqk42mkzwx2j1vwx2ouf3lwnnzzk3z1lcmey0mhfuuvh4sdvdufzmufdibkd4vnywt19oehnqb2lwzfbhwhd3emlwww1prgc5?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxoetvqahpewgzhczr4z3znz1kzvlz0mtzyel9zwetlamvsml8yvgrxalzgbnvwlu81dgnsahzfyvq4blbhsg42vkw4nllzeu9zmhbzzwjtcv9yzgwyvzn1ag9va0tovjrqcmy3tdayzvzeng5hdlrgsunnbxnky3lnslfnsmtnlursrehfbevinkjkdwrysxnxte9zeezic1b0uvkw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpalq5ytfur0z2skpdui1pnvh6yznymtctmjnrselfnmlwqtnkuxuxodvrslrmdklawgtlvjddykrcx25htznix19ld0dlzfeztljttmhpue9xwlloufzzaet2sxvyddfobzrbx2fsne42q0wwsdzluunwuzdmzdzpzjl1chi?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxncjhiztl0sdlpnkljes1wadzkeloxuxywumdwdklrcvblwjfrcnctemt3wdbfms0toxnjogdmz002melwu3btlvlweeuwbtrqru1iqs1ydzrmwe5arkvibdjpbdl2sm1oc216shlcslj3n1rhslnqzldrnhl6n1hvaks3z05psxbjmuphq0j4awdvwjc2b0vda1hhlu4?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbnqmrsnkhqred2ceuyx09yukrxndlsdnc3evc3b2rqmnpkblk1qtnht0leu3uxdfz0rzfquexvzu9vrwl4sjrvofh0wvpjyks1edfhcgjlug5szutnaw1oyxzwt2piyxfsrmhsmkhjskt0t1d1wgjht1p6ma?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxotmjpn3fmbfrzogtia2ftv3fxzfpvy1naqxd3afvoadz2vdv6ce1kzxrbq3zgvvzoctbyyvjqazbmekvxykl3sljua212tlljnedwqzjom0ruzmxqy3luawx5ekjdmghdutdsqu1pbklszgrjtwrcdvjlr1q5eklfsknwy29wztk0bnzqnu5mqq?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpsdlmsjlkannitv9txzbdn3zrvfktoxhjmtvka2lot2dmuvq2rwz6umnjqtnnafq0rza2my16cglpylvlq25ts1nntfzrowvqlwffb0i2elc0uffwmgjdqjvicklxnkw3emrhnznvqvfhb0fuym9hwefpwe9ktgnqsknfmes5y1desdriddjqngwtynlscefdn0qzn2nkoupeau02ckpwbvnyzgjasmpxt0vesllqd09jvxc0?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxndthnvvffve9oafliv0lkczu3v3rjywhssnlydlpjulo4v04wtfhgutdtdurls1zztflvduhzmjzktv9stvddts1yohpqy2ruzhzpmjfzturfcerty3blv1jtmkrmzdr0oxllcgvkb2pvalrcmm53ofztas1yahlctwxouk9zcedgyunrs1ln?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqunpvymdtzw13df9yn2njawfzbkn6awlqmzb6vxi5awfydvlxv1bnvfjymvjwnevmz3lxdeo5bdfhzlrlzwhknmrqbfzftvgyri1mvdhpbdzfedktlupvnvmztxj0mhnirwl1awdebvrtnxrnlu1zvkhkrg9km1b4atnpb2tvcv95ndj3uhrldwdlngd4zlu3aks3eljst0u?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpzg9obgrvvfbuyujmlvbhrkrfvws0n1baq3mycwrfnf9su0huyu1qvkyxv0zaykdqcm55bfnlnfcxn1drzdbmdmlalxp0wgrwuwjld3vtbwfsdnjibkxpr3m0wxe2vhkzskpdchm4wmqzqklaatlftlnaavuzqwncejzozmp0mzfvttrxtnaywwzvqkhk?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxntgh4t29klv9jqxljre5qrexawehxt0w3af9dq285ltdbwwlubkm3zzlhztdcslfimu5haezqqjvjawhocjjnwmhuajbanulctg1ivlzmcy1vovznam4zbmnix1hprwleyuvxmvhnuk9wuxvztwtpqmwzsxzfwkvhm2zwenz3zdg?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxorwzjy1npog5wlurzudjldw1uywhvvkjfze5znvhts1plzve5y1nqaenncup2lvd5qundutfknunun1zfrtniddrhx2o1offpoulwuljlanr6nxnrddjfa2c2zhjkafa5qzzsr2d1agtamk56alv6qtbbckfrovhtzhbbq1bkdgx6zlzodw9oslf3mw8?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpbl9lwmrkrdjhbwt6ekztd1vqxznxr3kxwnnnvhi5vmnjazvyahfvr0zfde1wbhvkzer4wmhht29vwdjzslfmuy1lagnirlhirmtxbdhzvuxix3fuylbtbwnmywruaxlfb3rsnjnztgy4ng5izwf6zm4xthhymnhptdi4nelpogjtzddwuleyekj0v0x2qlhvqu5zbkrvqvdoczf0zw9dtmhfb2s2d3l6y3nkykfetdu4ltrvnzntmxa1dm90nlzjtgvmetlfsency0zrua?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfa4nutfzjn0mffnuthfegytbwswmek5mutrc01kenbynfjnq2ncthzysgxqs0xmcw1ks2pdeg9wrmvnbdrnmnrlvvf5d1vxbkfzqtz4u0jxzy1lylnmogxrzjd6nem0qtbwredqvvreaxzpsmc?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpeng1uwn6b2furujvtjd2ylzpudfpctb2mhrkx1qxblhjwjm0otlbofjfedfzy2hzsly4dvfdbmzjeecxoxlcrdctug0zcldpam1ey3f2azvhddjrskezufzttxbcdhyxsf92r1rwwexdvk1lmjmtoxpkwehrsmxqouvrsdvxu1pzbetvrji0bna0mkxpzhlsyjlgelrgu3f1efjxwurwyu83ovjvavbsm1bhqjvzlu4wzzrzdmdtrwk5cuuybgfdbgfyqwk2ddrpegfsadcbqvvfexfmtlnznjlwukqxbvzrzvqts1qwzzuzs09vbfvpvkzkbhkynnhslwdyy2m5sw1kqmflaxfqzwnqcmnfvho2wtlrqnr0tw8yzmzud0htakliytfnluxwudbmogj6uxviuuhvrjb0mzi4ekw3z3lvdxbuvlbfwm1ob3bmcs16v1juytbjc2p4nzfuazrksnjnadvfnvrztuvbug5gsvnzzxpebgj6txf0zvnacu9qdhntahnlzmp6m3lwohpns25lqno2bvnkzvdvzuxsuwnuykfmmfe?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqwm1urdbvas1ux0kyutvbu3g1dnhmyjlfuhjkx1zoa1fbmnl6cdriynryd1r6bultwg14cvl0tmh0dxfdbdu2v2vbq1pycezruhnqam9fmxftqzi1qwthzkdvnujzblhrdzbltgxuy1cwmfvzstnnnmzta3awcxlvwg94d1zenjg?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbndmjqzflxsgrmyjlpbhvcrujyngy4qvnlbnk0bmv1nmrbnc1iwwmwsu8xzef6dgfudfd6amvmrwmybi1xwdzxtudxd1m1c2rqugxlsffwyzdlrtdmuzjvamgxz0u4mvbqeflpx2frxzjvre5qskrtd24ttq?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxndzlpngg3rhbtderkvxppai1qck52ddgtehlwm2nsqw1qek5bvmztu2vwmu1mmw5qvdhdx21fs1jrulhjc0fxr0lvzlpnunq5v25yotzocgvqqkw1ak5puflordn2bjr5nfpqodbxekxku3jwaxlxovbgac1jqnrjy0p1ug5yoglkagrhqzvfzvz1ngxvdnryetbzqndmluxysmpitmprqwtfc1hnmwffc05ana?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnthriakr2zud2v1jqqmtfsxhvtvrfvl9rvhzcqi1pty1ytvrqqu52eu5hyjbmn3rlswrebgdhtgo2aknerlniwhj6qxnqek5swfyzy0l0efpuwvdvt1nymdn1rljas2flqi1rm3jiufn6d2dvwtg2mhlvzxr6bezwew41oa?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnd2zhbuxyuwrvmkt6nw4zq05stnz2tdh2velndhayb01uunbtzzlra3lgqwhmtdllbjrjnxgytk0yy1flnzrax1a1zhfhcxh3ny10vs1xswdosw9hq3brrvo1wevlzkxoc19zdlvowmlhahjwu215q0h6alpvsvnoulnps3npnkvrbdj2m1e3ltnfdgxkaep2dnjpulj0tmd2tew3zgo4ywn2sfhksgkws21jd3c2exy3vgpawunmngk?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnbetvovh5cnjtt0phahbvs3njshder1zfc0d1u0j4qw9qawrotkq5n0c2rexmmvpkahuzwdvkajvrdw9oddbfamzbwdjprljmq1boy3rmutkxcgvsbndysxnzywfyuzg2nfjrrwc3zlhnewpkmxo4zhbtywljwettn0dcnxnrzwzhwu9htxbbde1ouq?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnvkzjbmpcrnfmogp6ze8yu3hubgjluwq3yxb2ekjaedjmzhuza0jpsg1rd291qlcyx0pzvjhwzetrwe8wac13zgliewz5r2ljvnbor1ewvmktetzfwfnptgfbcfh5xzatqkvddzzhrdroewnktvfjtnbkx2lnx3lsrwnqt2vrtxhjtkv2oglr?oc=5",
+    "https://news.google.com/rss/articles/cbmirgnbvv95cuxntwotmtvfy0jxyzezr3ozehnstzrpuutwvwtwddfuctvfsdfvawp3bjf2qmx1ugnxdjzka3dqem51rzfdbuq5wkt0bfjxzwnrd3nxegtnq1jvmtbqcgrlowxlqukzdk1mwulxthfilvrka1u0qmztdhdmdtfprwnirdz4nwlqmfhozlc0sdrhufzimhbsdjdgcnh0am5sqwl0rvnslvf6muxttkx5b3rmejnwbeyzumh5mhzscw9it2fnagprrm9frlrwaju5ymmzsxrvnu1jc1drtur5zhl2svvkew9nszlxyk4tttnuwgz4aev4r3fywfjwyvu0zg1yq2jhulzsczf5cnncnfptx2hpov9rbuptsy1rrxrumezya1zhrxhtofdqyzjbofjrbxdivkstswvlsmpms0cwykpqehphbwliuvotbmz1ne5yvhjzoejqb09fyxvxogpat3loylvsc284elptshl1qvz3zznslvbrwmnoa0hqmut6zwdoy2ezoelvzui2ymphnddkruddu0hcu0ezeknkz0ptsy13bnzwu3hlegnn?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1tvtdsyjr1zu5ntjrjdgc2njvpak1dn0x1tzjxt0lry2xhmu9twe9ccvnsuekwzfnlsxh5tvlhdlzjvthyblprotzsoxricjbbtve0?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxoszvpnthoamnjt09uylm4x2wxyw84a2vewnpyqvo0uv9fbgn0yxv1zfpbaxjkaxbncwloutc3b0d4yjzltgzsavzodmtlzuhgu05zb1b2elrcalu4zflsevkxtk16c0dsaggttgpllxfwuutcwjvsyvfyqlqxnzf3tjrplunqq2p3blj1cfrowfdxwnfulxjmvji0unjeufa4buduvnd1rgi?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqykxlzkfqmfzgtzyxd0eytg0wtld6tvhsa1hzc1zwx3qwzxzlmlr6sg9on2exv2u0nlludzzis3btsna3ei00utfolxpax0f0c2y0ntd6zusws212rxdsz212dzr6bhvsbfb4q0s2v1byelj2vvhxvnvhehmzuxvzsmltudkzothfqkxjmdbdt2ryqq?oc=5",
+    "https://news.google.com/rss/articles/cbmiaefvx3lxte80nedtz2zfcenhyzitovjzsggwyvvvnfzzu3nhv3lmdgnmsut4qnb6dxhuztfzmwxkwuo0ruj5znvfdmlibwmtcgnfeezjsmlteuottm1zv1zywm9pvufuenpitwtgcm90?oc=5",
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxnyjywdhvhczloyuhwtwg5dlnmwuzxoddqzzc0cgzeamvsa3k3q1futxnaaulasw42b1fjrmlwcnpkntric2xloffpaxrrswnsbedvbkdpywu2cfhpyjlndmo1x0ews05ovfjvt2zfdxyxrwxrdlaxrm1mbhldvgzdbdktrfbcs0u3auhjbw?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpdewwuuvedjbhxzdcd1nhlvc0eugxwhpinu5jv0nzeuj1zwhqefnnckm1sme5rvj0u3huqvvlchn3tm5lwktyttfjeg96yvbktedkedzjavdkswhqvxlqx0xyaflytlzvamlpqmzlewfwvv9kbmlttkhitg81zkxxsw?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxos0dhdvz3zzfumvdnbgl4y251sdzkvjrqcnmyn0rtse9oadfxatbfcurlagfhbfu4r29aaknkavq0x1hmmfhmwfjcuvh6ekl5eejfr2nua2exlu5frxfovwx3zuqtblbqdklycdrnago3nvp5t3fyzvetddjwdwmxd01javdqdw?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxncwtna0h2vuhfcnnvnzzibujsc2turhdxymhywxdky2lkvulptxhfy0ezowpqovpondzmwvy3znr3t05vzhozdnb4r2rkaxbnnxk4slr0wm5vsee0quozv0ruwtlhsdjmvxrtxzlhr0ffte8ymnzxcnhyauyznvlds2vpv2pbc1lnmglebxdbnupfverkvhrwswd3?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxovknvsdrvt2hku0h5mgjdwuvpvjztaw5nmhlxwkvmu1joylnyeejgrlf6nmpta0nsm3i1vtlqbwuyul9qduhdy1plvgfocfjpwdzhdgq5m3lsdllovzl0x3fkvtbzaufurmjqblo1bmrvvvbuul85wmt5vdu4cdvxejm1n04?oc=5",
+    "https://news.google.com/rss/articles/cbmi6gfbvv95cuxqtu4zdzzpq3d1nlnkdgcztfmzbkhhr01fc1jha0j1whj6d21sbu9uruzsrgzvsvlennbny3hpsjjmn2dnwtj4zlj6s1fryti0wmfkzug5quytn2dht3jsy1g0cgs4zurtv1lnrvrfbuxqa1dbvkw5zxlwzgzhbkfvrhrtnc0xm3vumjjqehbkawrqmlzznflfbg9tbly1vvzozflcahbaoxvjqktxzkhwcm9fwg1fr0h2umt3nmrlnez5d0jmmklha0tgnjh4axhxnu9qx3fuof9mawdoandsnzjzq2dfyxvsv1e?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5lx3vkswzbmtd1r3f6nwk3bzfebe1fnfpdcdmxwk5zngzvn0dxt0dqy1fxb01ay2tkmldhqkjtqxu2r19wdmdsxzdmbnheuutvq2realvxmnl3zhvhwfpouu9nodd6exzuys04suvaruy2zhnpylf1rmvaqwm?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxnwwvayvpnm18ya0h0mkdqrdzrtjfyzmnnwmjhv2ppd3q1nhpjm096ne9vrg5hsudtanc0mgezs2ywn2l1uvktejg1slc4u2z0tndfq0jkamlivvbjes1iyvfxwhlyn2fjehn2dwqytvvqa0txlwq2ynvrmvk3twlitkvsn003n2ezm1bjvjndei1ncenyuxfhwejpmnj6c09nrjbhetlfrmdzmvoxs2c?oc=5",
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxqm1b0mjzmn0g4uznjdlq2um1idhdedvliqxhkdegtmxp4rvdgtlbnqnpanmdssjjms1rqveitufjhejlctjzun3portvjdxnivvd0znvltwpjvuhjyvfxmnlevexuexzackhymgvenevfrlr4rdvjcdldwg9yn2hmtjlim3vfcuzbm2zzcenhaghwtvpydlk3vmeymuq5tnyyd2r0ewlvy1lvvtjku2jnlvpfbwhxrfz1qtdlbexb?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxprjvlzkjjnu1ky1dolvy0ddktuezbcu1fddbqam1yy2xqs1dvbungr3m2x01bdtm3ujjnbw9zcvnjwmjgv1pfulq0bgw2sljwwf9fnmpevmtxsuhur0y3clvtnvpxrtj3sm5sqwpevepoc3z3luhzwhrxrlyyrvpwcktboeryaw50ngrqtnplbep4nmfmvwp1utdxx3zndw?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxorglhcm9uamputjz1ek5datvzquxjrm1uruhtqjfmdtjwuvjncjy5z0k3tlhft294adzrtuk4z2vpawhznfruv2lwexniszf3nm1tyvd6sxhtblfrmfzkbjv2whrgzk0xrkrnahb6rdlibvg2y01lznnxa0zcsu1eovpfbgjrbmxzck04q1doatvvu0jswudnng1kwnhxqv9nowt6vjbxoa?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqsxc3whbpcfftlw5ybdrpn0r5clnsehphak04eupzcks0qll4vuzcsxoymefpyvpkugvceuvowwsxv1h0agrsvxhhdulysurmnnpkzhyzql93m3htcwptmf9hugnsm1vbdgm0mjfontvzdgzaazzkc1b2mjboeuq5s2prtkwyu2d1b1d2d1ewbxjumjfxbjboxzfjmejjbwrwv0ltcfptznk4vkfsotc1b1znwu1xukhdx0x5zfbhng1am1ls?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnrzlhbkvpwezmr1nsuzvfbthhdjlftxr6y0hbtnpmemnfm3e5eenkeevtn0f6rnlkmmhwb1nwevm5mu9qqwrhdnrtwjn3a2drblnhejy1u0zxvfvwrmrhqjiycml4lxlisevfbwdjltbkava2y2nsenllt0vmedbtaw05vetxrlf5sdlmedhuempdy1pdrhfqltrxdw?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqeldimzvobwviny1aaxn0dm15rmpabwi2y0e5lwhvnelqb2r6dnhybg9jak9vnkjzukmxv0r3zvhbdlntx1rrnlv2vwjxynjmnwtlny0xs3g4ngzlsufob1y3swhsnvhadhfzu2tqdi11aez5y21iefzttwhvugq5dmv3rmc2stdaovlhq0dduel6oxnvelvpmmd4zdzsaue?oc=5",
+    "https://news.google.com/rss/articles/cbmibefvx3lxte45slz6ctvqymtjuu9hdnvstff6dnppzutiofj1mkrmnzvpoepqohl3nfzia1lrtllxz2p1cdh6sg0zdfdtqxlzthbyslprz0jpcg1iwtj0b3qzndl0effpagxrtgniumqzq2lldg?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpymp4lwxlzzhcrwxlehzice4td1zxtwxrse5ltdzyqwo4tmt6tviycgrudlm3z1pxsudvckztn3j1rw1fam1sbwrhvwviru9pquthcthxdurfu3m4a0jkmvf5culdrzlru01drk5huezrww1quwtzne9nwnpqv1rjttnwaw8zy1rhwi1oavhotu1aenbfrnjrzfbuamqza2lqmmiynwv4dvzzytfutknpea?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxps1lszwjma2hbbtzqzdzorfztmm1zmjvsz0njzzq1wfbftkpmx2llvnnyb29jmumxnfnxum5moenmrhpjujhfvefulxpsbtvhnmc1qtboutd5sk1zv3v1bkduvdzrckrfotkttglhrgv3rgzlexbkugzbnm5trwnhafvecxlutja0b1o0uv9lrg1satq?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxqdzjsn3rcnktiwu9ntjdrymttohb4anzsqvruqzfwx3vxmwvnzvvtmfhpeta0etddzwf2dhawyvlscg9nbwk5wlhnumfgm2dndxhhn2ldduv5twm4vmdrbfdknw9ncm5mynu5mwhhwk9jbzfnudjad0tez3dtyjlwdzflawnjrwwxzxoywulqefg5x2rdnddr?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbbnlduugduqkvramxoejhfn1pymziywezgsmxuq1pgrjjbns1ux3v4v0hrn0pfd2nrb2fowlbuwu1nethduhvnquntdkpps1fxbti3ylrxn2u0y2vub09ty1nnzddoqzfecha4vwxdb0s?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqcedldm5wnnlfluuwemjzautas2vrdjhsdelvm3f0dktftmxiu3naze5vc2laztvpotfxt2xrbkjxswcxb0rsawvxym9vnulrahgybuxfefutm0kxb25sznhvefvrcelcngfreudnr3h0whnsvxvrsi12cgq0q28xzmn6dwp4rvzmtgv4x01hna?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpnki5dtfptujdau4ymwzhdgkwaxfrcgvnti12wgvbz3vdqnjidjfhukowlus5wf8tylayzmpldhjnt281uvfytkhxvjhsng5yehbjr1vnemflbevhnvbmue9mvenrxzrmb1i1alpnaepirzm4c2lqq1lbvdb4utjictzvdzu4rkfkys1htuzlnnlhnwziuujmsmhidxdltezmbf9mmfuzvdh1ck8trmg0rw95enpuwkjnqxrxuklzmnv6utfoa29gvhzhsxdmmufsahh1uuv0awjkvkk?oc=5",
+    "https://news.google.com/rss/articles/cbmizkfvx3lxte0zc0fwmfljn2zpmgw1cm5yejjveurob2prtmneqtnkm1finuzxr1rjdxjuqklnzlexovbyx3dia1jmrujcztvpqmxjbldrcvats3vtvdjemdhynf9vchrithbwbzrizw?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxoeflxns1nu1vhzi1tmhfezhfeefhevxpfc09mmzfjv3g1sxhqbkxotuhrzurszmkyvvrzwndtm001oghfq05lbwhnxzfgtu9zbur5efl1bk5umti3bzexyk9qsmxnwlrqnvbzeerzwg5elw9totfevxzkmulvqljycxhdtxe0y3plqlz3y1h1ogv6ove?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnrwdzzy1sek1kwuhoztbdzjzmqwiwtk9vulflceoymhfss1hjql9unxpxeeq3ogj5lvp4u1m0czfnmnvcrze5t3zuuxpedxrltkywnw10teh2wth5smfnx01nd1rnwnvkmxlvakgtb1i3mdzjvljlbnfprhruatgxuznvduxsbuhdwjvmumdumu8tnktwrjhtdjvhutbmrk1yazzyewxsz1jkoge5b01gc251ves?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxovutkewlmd0fkzmj3zkzvbepcx1g0vzjwthbylv8zeg5qymowcdfrxzb3t3hyz3e5tdvyn19ox2zjofhls0vovwwzeny4d0xrnfbhedgyehv6amh1r1rmbjfyrenwby1jx0rxzdfqsgz5udjpwjgzahbaennfykxmu3h1uw1xdeloaunvmkfxdewwdvu5ndb3ua?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpb3hub0pganhtn1l2ufizrxp0s0xkmgwzntnix042znnky3bewus2zhbgx2s1ndfaewviowtebvniavpsbw4ysxnmetrwnetgu1ljwmlncnzjcfd4ahzsafy5s1vmt2xaumjsvfzmnlzls0pvvktdqwxcrne5s1fteffnewthmjbzrfn2swe2d3rkmjvtzdq4ouvrtu1obel0tlrmog9bdwf3mmlwdktaexhottrarmw1rxjmchvothhilvlscgexmhzvwlzstl9rzxc?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqwkd2ahlqwg9qme9hzfhmqupzotf6cfraufdhlwjcam5lxzriynjqv3purm1zbejpb2d5wvi1revmclfadg05cljotjvvbhjzrxngtvdrt1vgrxkxuhfevza0wnpmv00xau80ywhlwuzrzfpvzerrog9oogdrudnxdnrmquvndfdsatrr?oc=5",
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxnzzizvje0znq0eufjc1ntu0hecl9hnzv0bdloehq3dlrjqu9hz0fraxnmqupmdlu2uvnpmefvwed1cxnkewzpntrlmtndvejrszhvzzu4sdhzegd2s3rtx1owcgjqae5ks2zgy2jrng5xrjbzqle5m21vmvvreulbwjf6v2y2ety4wxnrrhuzc0dfzuxxsdlnuuxlbjj5te1vwungctibrafbvv95cuxnaddfevrqwdbbtnrhzlzts0juwm5mbektvgjewgc2clrwm2vim3psnhvid3ozrnjmwnnsnld2uxdbzlpjb0hvewxnqmfzctvtd0xitw1yanjemfnfsfzgmgdrq0rrlvnyrhu4dkf3u2laaer3ltdzrgm1u19vnhbfuk1ir28yevhyztbvutewelvrq2rqnuv3zwhwztzecvflowdur3v5aw53ef9t?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxozvd2tefhulhvvnjxsjj5cllkt1rcd3rmzw02n2hlwul3de5myu9juk1ivmrhr2l6ny11b3rmdc1yttjvmvvsbfhmqwxhs1jeq2z4mmftndk5sjbocm5ns3ozs0fvwlbcejbnx3bedtfmv01myuwyahc3btjatg9jrwnxmgniwutfqmhsas10relwz005sc1rmjfr?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxoymjsv2s3ame0rhjcuf9jbmtwx1zmexvosc1bx2rjb3vjafnlq0nxwmpnbgxlvzvyznjwthplz3zaedhkyjzjtk5zouo0ue4wzwrgsu9wvtctyliyudq2ujlfdhzlukzmbjd6qnhmazc4bs1jufcxc2pmt3zgywlxbu5sz2lyrkjktxm2zc1ltxbkoxzvvwr5q1gymzgzsem3u1e?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnvwkzzfvsbtfazlpax1zbvhdyaglsauu2n2k3chzlmhrvqnjpn1lna2jsoxm1yjrnvld3og5ary1jznffszmttvzpm3rfrdrprgxfckl2dxfqq1hmm3f1ceh1zdbnvu54a19pbfzpzk5itldfszjevemznnzzagzbzvi3q0zpcjnanujvcljoy1rnn2fqx2xfwlhxouvjcxnysw5kmvlbyl9rbfr0cnbgtf9hwgw?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxpx1pyb0lsbkxzru40wjjkdnjstwxjsdfhunrttmfqsmttbhi0u0ltbllvu1r4a0phzl9zv1zoru9hzvftzergbxhocldra0v3ttbadul4ajlveuxzmfyyctdubi1nbmjrrus3nlm0z21zrllwbm9lylnsakdpn3zgmuthlwfhbwx1bdzltzfcyny2n19gwvbkrgzetevxauhianrfnlj4nhrqmvhpugzhm0p6setnowrhahe1zndrvwmwuvhrqkd5nui2awf3luk?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxpzguydlfnowjnehhumgx4wwxhr3zytu9ovlfgrwtwzvfwvufuuvd2y2pmz0jzmgrkcewzzf9hbdhsckjsdtzpni1dufbfodvknlfer01juwzumutsos1cuerqwdq4undxtln2wezdbgfmd0fxqmffumy2amdvedl6aldnnlfzawtbbwhumedamk9yrgfxoxzuntibngfbvv95cuxqss05y0jsblfhzelswwzhsnjklxz3mmjzmghfou5wtgwzwxbsrddsy1u3nmzhttlfm3b4ejfurv9xwxaydmrxtklzyvvobv9guglleljhugxnmxu0ec1gymdvtmi2dfvoqvneqwe4bupomdjkvtv2dhnpnlvmtzzomgpvzehcrjllv1ryu1phaknmvglmbklwbfvrotdvqq?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxork5ysfdpnjhqblrovew3ouzvd2ljrzbnbk52zkdvdnnpckfutkpumjfnn0zpz1yxtlluvxfnvhfiwtnmrnzfbg83v201r0rotenoag1ynwf3lxndsgponwnxrglgm2vad3cwdtflntutrja4rw5otenhsedwt05xvzjunzdros1lbkfqddzlzlzmuenirzg1mel5tvbhohh6c1o5afgyawi0vffxbue?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbwnxpms0fta2juynfxoupflvg4azzwnw9yr2vhclltdzncy2g3dznhs0nbvhllyjhgcwgzatnoug16bxhxbldvwjflmmlen1hic0pnukrxq2zroujbrmroohpbqjz6dgvln0lybwnbanjuvkdwset1bmfatwrjvgvsaycbqvvfexfmtw50ue1jrtbcz2psmdzqtex0eg1bduexcvzcbwx4bgvjmw9svgt1atl2tzb2a01ttejjuy13y1d1bvhjbm5wwmstrc1unda3ohnos3bavmnvwhrpukdtcfzhujv1b282njliswdrm21ts2fpnk80txjjb3jumgzzwmh1rgn0xzz3?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxplu9nedy0mvdlumjfaedtzw9mtvyxowtpd2zice1iswrknw0yuktpnkdvlutlrjjicelky2u4x3d2rm9yytd6tev5z1h4uvetru5gbhrvymzudlpyeurhutb2v3nqwvntbufxyvjfewrctmjlu0vemzhcwvf5y1fxr1vsund3m1lkmedcohlnaunkt1fwqzljddz2tlh2rvm0a1hcbkphcy1mnjfgtnktyndn?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnnmvjrhpptwfcr3vsvjhxbvnlymnwnunnmml6y1zpzgnjruqxb1f0egpymu5oszfslxlkq3hpyldtatrfutiwyl9ltmrqttvpcfjwzm9htupnb3bitdm0nlzosthzujfernrrzmuwy1vqten3a1fhtkzjdxfwvxrmae5ka2vmnfrjm2nwtvrtekpdy0wzbvqtwk8tbdhda0j4vjrxavrkynoxt0xomnrqdlpxsww3rkrmn1e?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqel94dxzcctbnrhpyy3hkbhm1ctyymvk0vl9fc3vcbxrznxh4dzrzdgpzdug4ws04nunsy1hyqudvmg00sgg5wedfv2lxtjvocm1nm0dwx3n3egtudglxc3hlwxfgzs1wyw5ps3nnbwpuq2txt0jhcdj3zu5xr2y0u2fzcfjzcejhdtrimjhdskpgnkx4dm1zrfa4vvdzmhfnvdctchnbaulwzwppr0fmqmrr?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte5fvugyvxp0b3ywdvhjzhdrufpur1pslth4nfpwy1dtowh0rktlvkdjd2d2eujwvtzuzjjqwjk0a1r1nw9wv0flrwzhnwxdv2lwtkvj?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnbg9pdukyden3meotvnpumgxpym1sdvmydzgxrglhnkdyzvvxwdllu1dkluveuwn1a2nyue83uvkxn2hece1ecxmxbk9jaglkofywcgzob1jimeq5a0ppmgzrdxlxym84tzb3dfnlzdhma0fozgrscm5saethtgzgmm1nujlrouk4nee?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5cekdzyjrwvunpcwtvek5px0xxyzbfwdfyzu4zekpfohlzdmjlqkywdhlfek1bzmyxznpivw9uyvh0bwxqr2t1cwthnetcx3hlyjhym3brtmy2tjq2wfpjs0i4qlewrxzlwxo0bkdlwffhdfvjz0pv?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpdlphvjvlekjvb1c1dnvhbey0b1ryx0r1ctb5qzvluw1srew1eemwczrrrtfxrgxmshfhb1jnczfxm01xbf9laurqajnednvzv3jyqw9zdezinw5zrxo3yv9hshdjwlfzdei1oha0zmxsoxv2whzmew5kvgleuwt0bddvqwznqjhfqzvwa1lavtflm05tq1rwvwzgehjevunqq0towdziwtrnuq?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnrelhdtfosxzmrl9eskp4wllkd184u3rpytbtdk9pm2wtnhuwthk4oxjtdkdzcvpgbf9ungtistjtd2jnbtj4ovfuquxowhbazm5rtm9it2m5mw05bnq5etmwylfxqnv0vuf2rtltbhllnkdpdmi1dhrhegxfuxd5cvziofjkvgpju1ztmdnsnudxngtose9eczf1dezvdw?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpm0xiohcztlryywljvwpks3bxumjqwnfecnzozmf5ltzualj4v2zkodzysghlzkjqrhjhmhzivln2cjrqrnbqdu5qvdr4ukllvhrvnky0mxu5c2hhmuxznc1xlvfzdzjute1hynvazjzxeejcvnpazjk1muplt0zxuwrtvxu?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxpzgnkbs05zuvmddj0ahp4z041zlbqzedbbhlsve05besxd3bfrm1qevdsvwhtv3zumfjsnfdtouzfdhfqaxrea2cxsfcwbfzzcejhqmtku1o5nmdwafp0s0nrsfjibde1cug0ede4aejiyvy1tu1htk9rd3jszewwnwltetdnumpbm09cuq?oc=5": {
+      "headline": "BYD says it has developed sodium batteries with cycle life up to 10,000 - CnEVPost",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:24.035841",
+      "last_seen": "2026-02-09T21:27:24.035856"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnmgrzcvv2tktfzm1dd3fpn0u1qkzsbhkymlc2enldtw1jslvengjpzvvnewdwzmtytljznl9jvfpbmnnstknvewjnxzdjb3r3z0tpx1vfck1ibmhdovzgzwz5c25ive9lzlfqazvudwrcltjrumxnvzvdckfkctnlympdzdk5autnyjv3c1pxzznym3fqq1lisljsbupsmkrrv2hyz3vpazk1r042nlgxqjzwoextahramke?oc=5": {
+      "headline": "BYD expands into Egypt with three-model NEV initial lineup - Gasgoo",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:26.744819",
+      "last_seen": "2026-02-09T21:27:26.744828"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbbyu1rt3bnulblwkx1akzpv1z4lvhcnw1ycjfubmj2u2davdjfb2hnu3dtogqwltfbufl0yllmnkv3em5zugpiy0piame3tgxhr1lecmfsuwdomtd3ywjvuelnotrxlufvznmxwuv1mly?oc=5": {
+      "headline": "BYD Led China’s EV Boom. Now It Has Some Bad News - InsideEVs",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:29.678343",
+      "last_seen": "2026-02-09T21:27:29.678354"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxpwnzvendytff0rm5wunlbejdbal9rz3lnz2vvrtr1c0rcefi5rwxfqxzwt0fkoxbmtf9us2j5xy1ivfhzcnplwk9admxjstrolwdebg5qagrheuxtanffvlo2yufizfbcdf92bndet3nrnhpwanbsctbaqnj6ttnjeejybflad1bmywdzbup2a3pjzhaxbff1v3h0de8?oc=5": {
+      "headline": "BYD makes advances in sodium-ion and solid-state batteries - electrive.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:32.368415",
+      "last_seen": "2026-02-09T21:27:32.368427"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqug9obtbodmfxztbiqurdtzrtd1lybxj3d25talvleg1icxdfwllptkllsutzsgjrq2raqzjmslvaegtfz2f2auv2vjvnd093eulquvdjumt1zu1lexvsmw5gxzdsetbrug5ms3hyzmtkcmxrz1pllxpyeuxfb1rrlwnlmnj3ajhiyvftavrirvnkdjlmwmploujeswvorjdhuefv?oc=5": {
+      "headline": "BYD Enters Egypt as Chinese Automakers Accelerate African Expansion - eletric-vehicles.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:27:35.231403",
+      "last_seen": "2026-02-09T21:27:35.231413"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxou1dtrjjvedbgdddomjvxedq4c2lwzwnuukxodu9koejqczficw9kag5svxvxdvdqmxv6ei1wq0kztxzzckjxzenkrzhfunbus2nhugj0ogptsepjblbhz0lsdmdxtez3nl90wjhrenronkfhnfd3enczsvrzqvjqqm9qcwtqndczudfps21bsmuxv0fmddvkr2frcdjiuq?oc=5": {
+      "headline": "BYD hits a milestone with solid-state EV batteries due out as soon as 2027 - Electrek",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:52:56.471214",
+      "last_seen": "2026-02-10T10:52:56.471229"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte9kwuxotwvzs3zvmdbpduvhnnp1mmhtvnnoae1jx3f0ywnesjbznxpfaf9udhllbgjqohg5luu3dxpytdvobdhfyxvuztq2snyxweewce9rmtn0btdocnltmfq5na?oc=5": {
+      "headline": "Chinese EV Giant BYD Sues U.S. Government Over Trump Tariffs - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:52:59.643397",
+      "last_seen": "2026-02-10T10:52:59.643417"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpcku1cjbyzufhcuhhbuhizug0t1rpmzhqeupfre44v04zweettgrgbvheadbhrlvtntvxs0v1snfebvu1cdbfv1uyr29fx2zqbwfbwtljsmr4otjftk1amjd2mg1yzxi0d285ofjmsvrqsnzjnnbbyljlltfgughxbu5fmhdrx25qngftwhh5cgpmb1vgugtsbgdmy0z5nexszjvrs3j3enroem5vre5osg?oc=5": {
+      "headline": "BYD files lawsuit, seeks refund over Trump's US auto tariffs - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:53:02.513752",
+      "last_seen": "2026-02-10T10:53:02.513776"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnqu5wndf6evyynurasfdxduzhmxmxanvrq1bhugtwyvrqenhisk1pwjfic2xlx3lpntzlrwxrb3i0mu15uc1ptk5vrzvyeggzvs12vmczd0oxug1im1g0y0u2dfzsbw5lymj3r0fjwflud3n3cmjvvvrualiyuhfsrc15ufbur3fmvzb3cuzvync1dw?oc=5": {
+      "headline": "BYD Challenges US Tariffs, Seeks Duty Refunds - Mexico Business News",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:53:05.375497",
+      "last_seen": "2026-02-10T10:53:05.375514"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxqdnbkuvlqrdzonnmwwxk1cgtuzuroztzeuzhsedz6bnrwnhl1evlxss1ryuzmcvrrshlkt2zvvuzpvmhozwptsl82z2dzzvv1exbwnuvsegnknmqxadhjbfdktw9hbxozbkxjs2rhbfjfbwpzohptdfzheljur3lsdw9uythfynlpannsmhhuanvlsel0c2rwtg9ydv8?oc=5": {
+      "headline": "BYD Sues Trump Administration Over IEEPA Tariffs - Supply Chain Brain",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:53:08.516633",
+      "last_seen": "2026-02-10T10:53:08.516652"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqlufgemutbddseflnejdnmdnssjc1x0tldmhox0djttd5uwlrunr0b2jhmhjitjz5vgtnqk9puzrum0tynujxmdj6rgq4c3ltnuz0zwpbn0pdr2gtzef3s191bllox3vfq1djntg4zkricwzlt2doszhxnek5z1exq0ittgtwvktdluc3n1nqq1dkbenwtdzqcfjoy0g2r3ytqnu4rk1jefjslw9mneluq0jruddxn2c4?oc=5": {
+      "headline": "BYD files lawsuit, seeks refund over Trump's U.S. auto tariffs - news.cgtn.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:44:58.621876",
+      "last_seen": "2026-02-11T11:44:58.621898"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxoz0kyy1ruakxzrmcyowrocvqzeldudvrqv3dlt0dvslgyvzdqz2nrdthbwfyzsdlzahh6egrkauhkmwtftwlos043ddkznjznve5pu2ljewffz25ed2gwthfzd0o5ntr4vwtyntl5em9ptfhvmk90wdbiswtkbhlvwdljlutavlhxcvb5mu1uvelhsuvfodjxyjv1sez5sfhfovnusdbxv1h6wwlyz1g5vfa2au9ldw?oc=5": {
+      "headline": "Ford Falls Behind China’s BYD in Global Sales For the First Time - Bloomberg.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:45:01.736468",
+      "last_seen": "2026-02-11T11:45:01.736485"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnm29kczdzz0duauztmfb4mjb0etntdgpzmvrmb0trylvqbtddswdhzc16rjvfnejrb3bss3b4ndnsekk4u0zfdmwzdvjrs2rwywv3ltzuuzhnqmvlvevlmzfld0nadgt6mw5fmvpouza2eu1xndmzt2x5zg9qd0riwdnqqq?oc=5": {
+      "headline": "Tesla Rival BYD Unveils New Battery Tech Promising 10,000-Cycle Lifespan, Eyes Solid-State Production By 2027 - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:45:04.728578",
+      "last_seen": "2026-02-11T11:45:04.728598"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxpmzq1vzrqtfvzrxjdshbvq3vhnepyy0pvee9jmtvkd2tnauzlmlk2ndbwvm5ut0zsrwfwmutqrjbydtu0njjicelostizztzlu2l2edfvzhjgd1nbrk1oblnymllrwdb6rhvqmuo2mlcwmhlyvuniuenybxvnthvouudkwi0tvldmnhzxtjfom1uxyvbvltfjshdxmza5exhsano3xzdsms1mvli2rjeyu292ovn1nmz2r1vxzy1wmklnlta?oc=5": {
+      "headline": "Chinese carmaker BYD sues U.S. government, challenging legal basis of tariff policy - Car Dealership Guy News",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:45:08.031514",
+      "last_seen": "2026-02-11T11:45:08.031533"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqsgkttzdwcvhmy21cuzriuehmdexwm2pcuf9onf9ztm1wt0dvvvr4ddvtawjiul9unuo3cgdrx1nqmy11c0zlawvirxjflxf4vmj4v1pxugg2t2hlz3jgz19imejkbwrbcfdwtmzvc3beskriog03s0tcn1cyy0jrm3u3ehrvsthtwc1scejpna?oc=5": {
+      "headline": "BYD: Competition Led to Volume Growth Pressure - Morningstar Canada",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:45:11.245436",
+      "last_seen": "2026-02-11T11:45:11.245453"
+    },
+    "https://news.google.com/rss/articles/cbmiykfvx3lxtfa3wtqzd1g2ck9amgtptmzsb0swmmrsedyxbfhnoelocjzfvgdrrlryx1fkujjgde10s2lfq0hmwdreqxfrugkwu3y2sxg5bw5fytuyd2rxtgxvwxladehbd0t3?oc=5": {
+      "headline": "BYD reportedly surpasses Ford in global sales for first time, highlighting steady rise of Chinese carmakers - Global Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:17:16.471126",
+      "last_seen": "2026-02-11T13:17:16.471141"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxqb3nsvnbxufnkowsza1uzvec2nljhanl6rlbqutllnfutz0xoas1oyu83wepanzq4rfbgtwxpwlzpsgfzvnvsele5anftlvfhunvwx0phvznedfphczhmc1pgv3hdnwfvm3hungtit21qamlkd2fnvxjlx2nlzna4znmwahr3uwg5mgn5vwx1sercoex1zlflylrtmzllr2ncvy1ilu4tyli?oc=5": {
+      "headline": "BYD leads China’s EV range rankings as only brand with 1,000 km models - CarNewsChina.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:17:21.895190",
+      "last_seen": "2026-02-11T13:17:21.895204"
+    },
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxtfbjbunlek93d3v1oetxsknunxruajb6oep6q1cweguyq2nfahvxamrlss1omkrhted3u2ltslhprdl3awyymupcctlwx21taexmvwlsc2vqczzbzzhhatb3ci1untjntvk?oc=5": {
+      "headline": "BYD's Plan To Make The Atto 3 More Popular: Double The Horsepower And Better Charging - InsideEVs",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:42.111196",
+      "last_seen": "2026-02-12T12:11:42.111211"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxnamdlytdomwxvwe14z0fzbfvawgtzmm90nvhkqmpcatk3mwrec2n4qvlpz3vxwtuxwkmwr3lbt1r3mwh5bfo1t0pzts1nckhzcmhzr19uvxrvsmr1ulfrd2n1bjy2stbzdwk2akrxunftoxhloelwndffby1cr2lvndhnq09nzw?oc=5": {
+      "headline": "BYD Extends Germany Lead Over Tesla - Mexico Business News",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:46.244946",
+      "last_seen": "2026-02-12T12:11:46.244959"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte4xa3d4r0rad0nkdznnvflzuwcwbwhwcjfldvm0txvrq3etejj4yjruamj2q1vkedvfutbgoeqzrjnizklzenllsml6zevsef96utzimfvlbzlyadvqmfluret5euh4sehgwhluqlrquvlzuq?oc=5": {
+      "headline": "What BYD Needs to Prove in 2026​ - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:50.103004",
+      "last_seen": "2026-02-12T12:11:50.103020"
+    },
+    "https://news.google.com/rss/articles/cbmiakfvx3lxtfbjbus0tgl5cnz4vxjvoef2wvrounywahlcnfvvzzdoawr4zm56aepkn0owqlvwwjjlbvvot2lpv0xsr3oyody2wwreutd0nl9rrzzszv92yxvkc21smvqzd2qytupdsgpquke?oc=5": {
+      "headline": "Tesla vs. BYD: Valuations Widen As 'Growth Paths Clearly Differ,' HSBC Says - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:11:53.125236",
+      "last_seen": "2026-02-12T12:11:53.125256"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnzzzrz2dmng1gcff4mez1n3nnswlldmk0uzrgnzfjduzkufqtnfdfahrhwhbpc1qtoxz6qthksndubkjmulpptzk0uu1fakx6mlphrxgtdtftx0exqmpjmnlex1u2yldjzxloltbkr1fsmxm1vnf1qi03ttnym3p4udvnduiwqmxrttbhnm5nqkkwthyxsk5z?oc=5": {
+      "headline": "BYD to launch EVs with more than 1,000 km of range this year - The Driven",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:11:57.259949",
+      "last_seen": "2026-02-12T12:11:57.259964"
+    },
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxpwhv1emlvafncalnimlblcnq1luhqzurnm0vbuxf4wfdrrxz5tun4mkrwbtvkdvrzqldvb3htdvfqvdnodjkta0xcm25st3bcsha2nho4akdjt3v0ujf4tjvucem0c3dkbdh1m0pszwjovwfqb0iwbld4umu4ukjpelprr0rcvglryl8yqnqyuvfimzjymu1lejd5snluee00vuljofv0szizr0fjqxjlsjddtldictrwnehrqkr6etu3qq?oc=5": {
+      "headline": "Exclusive: Seeking Mexico foothold, China's BYD and Geely bid to buy car plant - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:31:06.706711",
+      "last_seen": "2026-02-13T12:31:06.706734"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqt3q1x2xwmndhtvkyww5tctlyylrhy3dnb1z1vkj3ajfgnu5ztlzsenduvehtvejwynzfdjc1sefqlxbirmd0s09kugxioen5oenbquzxznq2qvrnmvraumw2elhuznr6wwtyr1m0ahd1wxq2zvnwwkvmujnyy005rgl4svpls3uybuntunbtr2dnqq?oc=5": {
+      "headline": "BYD and Geely vie for Nissan-Mercedes Mexico plant - Automotive World",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:31:12.320903",
+      "last_seen": "2026-02-13T12:31:12.320924"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpvnk5egg2c2jes3kyztr6clrid1dnv0xlwkk4allzlwtoouxwmvzhs0jhd05sz3ftbdjpsexzqudtnlhttzfkqtdhdw5iqk42mkzwx2j1vwx2ouf3lwnnzzk3z1lcmey0mhfuuvh4sdvdufzmufdibkd4vnywt19oehnqb2lwzfbhwhd3emlwww1prgc5?oc=5": {
+      "headline": "Ford is taking a page from BYD after the Chinese EV maker outsold it for the first time - Electrek",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:31:16.148842",
+      "last_seen": "2026-02-13T12:31:16.148859"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxoetvqahpewgzhczr4z3znz1kzvlz0mtzyel9zwetlamvsml8yvgrxalzgbnvwlu81dgnsahzfyvq4blbhsg42vkw4nllzeu9zmhbzzwjtcv9yzgwyvzn1ag9va0tovjrqcmy3tdayzvzeng5hdlrgsunnbxnky3lnslfnsmtnlursrehfbevinkjkdwrysxnxte9zeezic1b0uvkw?oc=5": {
+      "headline": "(BYD) Trading Performance and Risk Management (BYD:CA) - Stock Traders Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:31:20.303904",
+      "last_seen": "2026-02-13T12:31:20.303924"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpalq5ytfur0z2skpdui1pnvh6yznymtctmjnrselfnmlwqtnkuxuxodvrslrmdklawgtlvjddykrcx25htznix19ld0dlzfeztljttmhpue9xwlloufzzaet2sxvyddfobzrbx2fsne42q0wwsdzluunwuzdmzdzpzjl1chi?oc=5": {
+      "headline": "Chinese automakers BYD, Geely are bidding on Mexico’s shuttered Aguascalientes Nissan plant - Mexico News Daily",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:31:26.552894",
+      "last_seen": "2026-02-13T12:31:26.552917"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxncjhiztl0sdlpnkljes1wadzkeloxuxywumdwdklrcvblwjfrcnctemt3wdbfms0toxnjogdmz002melwu3btlvlweeuwbtrqru1iqs1ydzrmwe5arkvibdjpbdl2sm1oc216shlcslj3n1rhslnqzldrnhl6n1hvaks3z05psxbjmuphq0j4awdvwjc2b0vda1hhlu4?oc=5": {
+      "headline": "Learn to Evaluate (BYD) using the Charts (BYD:CA) - Stock Traders Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:03:58.472290",
+      "last_seen": "2026-02-16T11:03:58.472308"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbnqmrsnkhqred2ceuyx09yukrxndlsdnc3evc3b2rqmnpkblk1qtnht0leu3uxdfz0rzfquexvzu9vrwl4sjrvofh0wvpjyks1edfhcgjlug5szutnaw1oyxzwt2piyxfsrmhsmkhjskt0t1d1wgjht1p6ma?oc=5": {
+      "headline": "BYD Updates the Seal 06 Lineup and Previews the Seal 08 and Sealion 08 - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:04:02.243337",
+      "last_seen": "2026-02-16T11:04:02.243359"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxotmjpn3fmbfrzogtia2ftv3fxzfpvy1naqxd3afvoadz2vdv6ce1kzxrbq3zgvvzoctbyyvjqazbmekvxykl3sljua212tlljnedwqzjom0ruzmxqy3luawx5ekjdmghdutdsqu1pbklszgrjtwrcdvjlr1q5eklfsknwy29wztk0bnzqnu5mqq?oc=5": {
+      "headline": "Pentagon withdraws 1260H list adding Alibaba, BYD and Baidu, removing YMTC and CXMT - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:04:05.228235",
+      "last_seen": "2026-02-16T11:04:05.228253"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxpsdlmsjlkannitv9txzbdn3zrvfktoxhjmtvka2lot2dmuvq2rwz6umnjqtnnafq0rza2my16cglpylvlq25ts1nntfzrowvqlwffb0i2elc0uffwmgjdqjvicklxnkw3emrhnznvqvfhb0fuym9hwefpwe9ktgnqsknfmes5y1desdriddjqngwtynlscefdn0qzn2nkoupeau02ckpwbvnyzgjasmpxt0vesllqd09jvxc0?oc=5": {
+      "headline": "South Korea braces for Japan's Takaichi era, BYD targets premium market - MSN",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:04:09.478865",
+      "last_seen": "2026-02-16T11:04:09.478884"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxndthnvvffve9oafliv0lkczu3v3rjywhssnlydlpjulo4v04wtfhgutdtdurls1zztflvduhzmjzktv9stvddts1yohpqy2ruzhzpmjfzturfcerty3blv1jtmkrmzdr0oxllcgvkb2pvalrcmm53ofztas1yahlctwxouk9zcedgyunrs1ln?oc=5": {
+      "headline": "BYD is outselling Tesla 10-to-1 in Australia thanks to staggering 641% year-on-year increase - supercarblondie.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:04:13.968226",
+      "last_seen": "2026-02-16T11:04:13.968241"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqunpvymdtzw13df9yn2njawfzbkn6awlqmzb6vxi5awfydvlxv1bnvfjymvjwnevmz3lxdeo5bdfhzlrlzwhknmrqbfzftvgyri1mvdhpbdzfedktlupvnvmztxj0mhnirwl1awdebvrtnxrnlu1zvkhkrg9km1b4atnpb2tvcv95ndj3uhrldwdlngd4zlu3aks3eljst0u?oc=5": {
+      "headline": "BYD reveals a new low-cost EV with 375 miles range, but this one will be unique - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:38:12.598857",
+      "last_seen": "2026-02-20T11:38:12.598883"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpzg9obgrvvfbuyujmlvbhrkrfvws0n1baq3mycwrfnf9su0huyu1qvkyxv0zaykdqcm55bfnlnfcxn1drzdbmdmlalxp0wgrwuwjld3vtbwfsdnjibkxpr3m0wxe2vhkzskpdchm4wmqzqklaatlftlnaavuzqwncejzozmp0mzfvttrxtnaywwzvqkhk?oc=5": {
+      "headline": "BYD sues US over Trump's tariffs as Chinese EV maker eyes Canada - USA Today",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:38:23.057430",
+      "last_seen": "2026-02-20T11:38:23.057448"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxntgh4t29klv9jqxljre5qrexawehxt0w3af9dq285ltdbwwlubkm3zzlhztdcslfimu5haezqqjvjawhocjjnwmhuajbanulctg1ivlzmcy1vovznam4zbmnix1hprwleyuvxmvhnuk9wuxvztwtpqmwzsxzfwkvhm2zwenz3zdg?oc=5": {
+      "headline": "Stock Slide and Slow Sales: What’s Happening in China’s E.V. Market? - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:38:31.437231",
+      "last_seen": "2026-02-20T11:38:31.437251"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxorwzjy1npog5wlurzudjldw1uywhvvkjfze5znvhts1plzve5y1nqaenncup2lvd5qundutfknunun1zfrtniddrhx2o1offpoulwuljlanr6nxnrddjfa2c2zhjkafa5qzzsr2d1agtamk56alv6qtbbckfrovhtzhbbq1bkdgx6zlzodw9oslf3mw8?oc=5": {
+      "headline": "This Growth Stock Is a Pure No-Brainer Buy Right Now - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:38:39.993927",
+      "last_seen": "2026-02-20T11:38:39.993963"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpbl9lwmrkrdjhbwt6ekztd1vqxznxr3kxwnnnvhi5vmnjazvyahfvr0zfde1wbhvkzer4wmhht29vwdjzslfmuy1lagnirlhirmtxbdhzvuxix3fuylbtbwnmywruaxlfb3rsnjnztgy4ng5izwf6zm4xthhymnhptdi4nelpogjtzddwuleyekj0v0x2qlhvqu5zbkrvqvdoczf0zw9dtmhfb2s2d3l6y3nkykfetdu4ltrvnzntmxa1dm90nlzjtgvmetlfsency0zrua?oc=5": {
+      "headline": "This Growth Stock Is a Pure No-Brainer Buy Right Now - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:38:48.779763",
+      "last_seen": "2026-02-20T11:38:48.779781"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfa4nutfzjn0mffnuthfegytbwswmek5mutrc01kenbynfjnq2ncthzysgxqs0xmcw1ks2pdeg9wrmvnbdrnmnrlvvf5d1vxbkfzqtz4u0jxzy1lylnmogxrzjd6nem0qtbwredqvvreaxzpsmc?oc=5": {
+      "headline": "New BYD Atto 3 Evo – family SUV transforms into a hot hatch - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:35:01.051467",
+      "last_seen": "2026-02-23T12:35:01.051483"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpeng1uwn6b2furujvtjd2ylzpudfpctb2mhrkx1qxblhjwjm0otlbofjfedfzy2hzsly4dvfdbmzjeecxoxlcrdctug0zcldpam1ey3f2azvhddjrskezufzttxbcdhyxsf92r1rwwexdvk1lmjmtoxpkwehrsmxqouvrsdvxu1pzbetvrji0bna0mkxpzhlsyjlgelrgu3f1efjxwurwyu83ovjvavbsm1bhqjvzlu4wzzrzdmdtrwk5cuuybgfdbgfyqwk2ddrpegfsadcbqvvfexfmtlnznjlwukqxbvzrzvqts1qwzzuzs09vbfvpvkzkbhkynnhslwdyy2m5sw1kqmflaxfqzwnqcmnfvho2wtlrqnr0tw8yzmzud0htakliytfnluxwudbmogj6uxviuuhvrjb0mzi4ekw3z3lvdxbuvlbfwm1ob3bmcs16v1juytbjc2p4nzfuazrksnjnadvfnvrztuvbug5gsvnzzxpebgj6txf0zvnacu9qdhntahnlzmp6m3lwohpns25lqno2bvnkzvdvzuxsuwnuykfmmfe?oc=5": {
+      "headline": "Do Boyd Gaming's (BYD) Steady Dividend Hikes Reveal a Durable Capital Allocation Advantage? - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:35:03.789989",
+      "last_seen": "2026-02-23T12:35:03.790004"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxqwm1urdbvas1ux0kyutvbu3g1dnhmyjlfuhjkx1zoa1fbmnl6cdriynryd1r6bultwg14cvl0tmh0dxfdbdu2v2vbq1pycezruhnqam9fmxftqzi1qwthzkdvnujzblhrdzbltgxuy1cwmfvzstnnnmzta3awcxlvwg94d1zenjg?oc=5": {
+      "headline": "BYD readies four models for Canadian market entry - GlobalChinaEV",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:35:07.426525",
+      "last_seen": "2026-02-23T12:35:07.426541"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbndmjqzflxsgrmyjlpbhvcrujyngy4qvnlbnk0bmv1nmrbnc1iwwmwsu8xzef6dgfudfd6amvmrwmybi1xwdzxtudxd1m1c2rqugxlsffwyzdlrtdmuzjvamgxz0u4mvbqeflpx2frxzjvre5qskrtd24ttq?oc=5": {
+      "headline": "Should this ute have Ford, Toyota and BYD scared? - Torque cafe",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:35:10.157816",
+      "last_seen": "2026-02-23T12:35:10.157833"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxndzlpngg3rhbtderkvxppai1qck52ddgtehlwm2nsqw1qek5bvmztu2vwmu1mmw5qvdhdx21fs1jrulhjc0fxr0lvzlpnunq5v25yotzocgvqqkw1ak5puflordn2bjr5nfpqodbxekxku3jwaxlxovbgac1jqnrjy0p1ug5yoglkagrhqzvfzvz1ngxvdnryetbzqndmluxysmpitmprqwtfc1hnmwffc05ana?oc=5": {
+      "headline": "BYD’s possible next EV for Australia – a luxurious people mover – spotted in the wild - The Driven",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:35:13.865370",
+      "last_seen": "2026-02-23T12:35:13.865385"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnthriakr2zud2v1jqqmtfsxhvtvrfvl9rvhzcqi1pty1ytvrqqu52eu5hyjbmn3rlswrebgdhtgo2aknerlniwhj6qxnqek5swfyzy0l0efpuwvdvt1nymdn1rljas2flqi1rm3jiufn6d2dvwtg2mhlvzxr6bezwew41oa?oc=5": {
+      "headline": "Hyundai launches its first China-made EV overseas to compete with Tesla and BYD - Electrek",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:00:12.701591",
+      "last_seen": "2026-02-24T11:00:12.701607"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxnd2zhbuxyuwrvmkt6nw4zq05stnz2tdh2velndhayb01uunbtzzlra3lgqwhmtdllbjrjnxgytk0yy1flnzrax1a1zhfhcxh3ny10vs1xswdosw9hq3brrvo1wevlzkxoc19zdlvowmlhahjwu215q0h6alpvsvnoulnps3npnkvrbdj2m1e3ltnfdgxkaep2dnjpulj0tmd2tew3zgo4ywn2sfhksgkws21jd3c2exy3vgpawunmngk?oc=5": {
+      "headline": "BYD officials visited man in order to explain why his car suddenly emergency-braked on highway - supercarblondie.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:00:19.980096",
+      "last_seen": "2026-02-24T11:00:19.980110"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxnbetvovh5cnjtt0phahbvs3njshder1zfc0d1u0j4qw9qawrotkq5n0c2rexmmvpkahuzwdvkajvrdw9oddbfamzbwdjprljmq1boy3rmutkxcgvsbndysxnzywfyuzg2nfjrrwc3zlhnewpkmxo4zhbtywljwettn0dcnxnrzwzhwu9htxbbde1ouq?oc=5": {
+      "headline": "As Canada Embraces Chinese EVs, Will U.S. Buyers Be Left Out? - Autoblog",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:00:27.267722",
+      "last_seen": "2026-02-24T11:00:27.267739"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnvkzjbmpcrnfmogp6ze8yu3hubgjluwq3yxb2ekjaedjmzhuza0jpsg1rd291qlcyx0pzvjhwzetrwe8wac13zgliewz5r2ljvnbor1ewvmktetzfwfnptgfbcfh5xzatqkvddzzhrdroewnktvfjtnbkx2lnx3lsrwnqt2vrtxhjtkv2oglr?oc=5": {
+      "headline": "This Factory In China Builds A Car Every 60 Seconds - Here's How - SlashGear",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:00:32.825522",
+      "last_seen": "2026-02-24T11:00:32.825540"
+    },
+    "https://news.google.com/rss/articles/cbmirgnbvv95cuxntwotmtvfy0jxyzezr3ozehnstzrpuutwvwtwddfuctvfsdfvawp3bjf2qmx1ugnxdjzka3dqem51rzfdbuq5wkt0bfjxzwnrd3nxegtnq1jvmtbqcgrlowxlqukzdk1mwulxthfilvrka1u0qmztdhdmdtfprwnirdz4nwlqmfhozlc0sdrhufzimhbsdjdgcnh0am5sqwl0rvnslvf6muxttkx5b3rmejnwbeyzumh5mhzscw9it2fnagprrm9frlrwaju5ymmzsxrvnu1jc1drtur5zhl2svvkew9nszlxyk4tttnuwgz4aev4r3fywfjwyvu0zg1yq2jhulzsczf5cnncnfptx2hpov9rbuptsy1rrxrumezya1zhrxhtofdqyzjbofjrbxdivkstswvlsmpms0cwykpqehphbwliuvotbmz1ne5yvhjzoejqb09fyxvxogpat3loylvsc284elptshl1qvz3zznslvbrwmnoa0hqmut6zwdoy2ezoelvzui2ymphnddkruddu0hcu0ezeknkz0ptsy13bnzwu3hlegnn?oc=5": {
+      "headline": "China’s BYD Opens 2026 With Blockbuster Sales Growth in Europe - WSJ",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:02:56.371164",
+      "last_seen": "2026-02-25T12:02:56.371180"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte1tvtdsyjr1zu5ntjrjdgc2njvpak1dn0x1tzjxt0lry2xhmu9twe9ccvnsuekwzfnlsxh5tvlhdlzjvthyblprotzsoxricjbbtve0?oc=5": {
+      "headline": "The EU Warms To Chinese EVs. BYD Registrations In Europe Grow 165%. - Investor's Business Daily",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:03:06.743750",
+      "last_seen": "2026-02-25T12:03:06.743767"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxoszvpnthoamnjt09uylm4x2wxyw84a2vewnpyqvo0uv9fbgn0yxv1zfpbaxjkaxbncwloutc3b0d4yjzltgzsavzodmtlzuhgu05zb1b2elrcalu4zflsevkxtk16c0dsaggttgpllxfwuutcwjvsyvfyqlqxnzf3tjrplunqq2p3blj1cfrowfdxwnfulxjmvji0unjeufa4buduvnd1rgi?oc=5": {
+      "headline": "Tesla Europe sales tumble 17% in January as China's BYD soars - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:03:18.217903",
+      "last_seen": "2026-02-25T12:03:18.217918"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxqykxlzkfqmfzgtzyxd0eytg0wtld6tvhsa1hzc1zwx3qwzxzlmlr6sg9on2exv2u0nlludzzis3btsna3ei00utfolxpax0f0c2y0ntd6zusws212rxdsz212dzr6bhvsbfb4q0s2v1byelj2vvhxvnvhehmzuxvzsmltudkzothfqkxjmdbdt2ryqq?oc=5": {
+      "headline": "BYD Shows It Is King Of The EV Market - 24/7 Wall St.",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:03:29.619388",
+      "last_seen": "2026-02-25T12:03:29.619415"
+    },
+    "https://news.google.com/rss/articles/cbmiaefvx3lxte80nedtz2zfcenhyzitovjzsggwyvvvnfzzu3nhv3lmdgnmsut4qnb6dxhuztfzmwxkwuo0ruj5znvfdmlibwmtcgnfeezjsmlteuottm1zv1zywm9pvufuenpitwtgcm90?oc=5": {
+      "headline": "Tesla Model Y vs BYD Sealion 7: Which mid-size SUV is best? - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:03:43.327947",
+      "last_seen": "2026-02-25T12:03:43.327964"
+    },
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxnyjywdhvhczloyuhwtwg5dlnmwuzxoddqzzc0cgzeamvsa3k3q1futxnaaulasw42b1fjrmlwcnpkntric2xloffpaxrrswnsbedvbkdpywu2cfhpyjlndmo1x0ews05ovfjvt2zfdxyxrwxrdlaxrm1mbhldvgzdbdktrfbcs0u3auhjbw?oc=5": {
+      "headline": "BYD cuts EV prices (again) with new 0% interest offer and daily payments for less than $5 - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:10:00.426960",
+      "last_seen": "2026-02-26T11:10:00.426975"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpdewwuuvedjbhxzdcd1nhlvc0eugxwhpinu5jv0nzeuj1zwhqefnnckm1sme5rvj0u3huqvvlchn3tm5lwktyttfjeg96yvbktedkedzjavdkswhqvxlqx0xyaflytlzvamlpqmzlewfwvv9kbmlttkhitg81zkxxsw?oc=5": {
+      "headline": "Warren Buffett just sold his entire stake in Tesla-rival BYD as profits fall and tariff questions rise - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:10:03.669306",
+      "last_seen": "2026-02-26T11:10:03.669324"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxos0dhdvz3zzfumvdnbgl4y251sdzkvjrqcnmyn0rtse9oadfxatbfcurlagfhbfu4r29aaknkavq0x1hmmfhmwfjcuvh6ekl5eejfr2nua2exlu5frxfovwx3zuqtblbqdklycdrnago3nvp5t3fyzvetddjwdwmxd01javdqdw?oc=5": {
+      "headline": "Assessing BYD (SEHK:1211) Valuation After Recent Mixed Share Price Performance - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:10:09.365189",
+      "last_seen": "2026-02-26T11:10:09.365205"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxncwtna0h2vuhfcnnvnzzibujsc2turhdxymhywxdky2lkvulptxhfy0ezowpqovpondzmwvy3znr3t05vzhozdnb4r2rkaxbnnxk4slr0wm5vsee0quozv0ruwtlhsdjmvxrtxzlhr0ffte8ymnzxcnhyauyznvlds2vpv2pbc1lnmglebxdbnupfverkvhrwswd3?oc=5": {
+      "headline": "BYD Announces New Incentives in China as Price War Continues - eletric-vehicles.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:10:14.403227",
+      "last_seen": "2026-02-26T11:10:14.403392"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxovknvsdrvt2hku0h5mgjdwuvpvjztaw5nmhlxwkvmu1joylnyeejgrlf6nmpta0nsm3i1vtlqbwuyul9qduhdy1plvgfocfjpwdzhdgq5m3lsdllovzl0x3fkvtbzaufurmjqblo1bmrvvvbuul85wmt5vdu4cdvxejm1n04?oc=5": {
+      "headline": "EU auto market: BYD widens lead over Tesla - Table.Briefings",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:10:19.246131",
+      "last_seen": "2026-02-26T11:10:19.246147"
+    },
+    "https://news.google.com/rss/articles/cbmi6gfbvv95cuxqtu4zdzzpq3d1nlnkdgcztfmzbkhhr01fc1jha0j1whj6d21sbu9uruzsrgzvsvlennbny3hpsjjmn2dnwtj4zlj6s1fryti0wmfkzug5quytn2dht3jsy1g0cgs4zurtv1lnrvrfbuxqa1dbvkw5zxlwzgzhbkfvrhrtnc0xm3vumjjqehbkawrqmlzznflfbg9tbly1vvzozflcahbaoxvjqktxzkhwcm9fwg1fr0h2umt3nmrlnez5d0jmmklha0tgnjh4axhxnu9qx3fuof9mawdoandsnzjzq2dfyxvsv1e?oc=5": {
+      "headline": "BYD Takes On Tesla In Chinese Market With Daily Financing As Low As $4.20, A Price Elon Musk Would Love - Benzinga",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:57:58.243679",
+      "last_seen": "2026-02-27T11:57:58.243697"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5lx3vkswzbmtd1r3f6nwk3bzfebe1fnfpdcdmxwk5zngzvn0dxt0dqy1fxb01ay2tkmldhqkjtqxu2r19wdmdsxzdmbnheuutvq2realvxmnl3zhvhwfpouu9nodd6exzuys04suvaruy2zhnpylf1rmvaqwm?oc=5": {
+      "headline": "I bought a BYD Dolphin Surf and took it on a European road trip. I was surprised by how relaxing driving 1,000 miles in an EV was. - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:58:02.589688",
+      "last_seen": "2026-02-27T11:58:02.589707"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxnwwvayvpnm18ya0h0mkdqrdzrtjfyzmnnwmjhv2ppd3q1nhpjm096ne9vrg5hsudtanc0mgezs2ywn2l1uvktejg1slc4u2z0tndfq0jkamlivvbjes1iyvfxwhlyn2fjehn2dwqytvvqa0txlwq2ynvrmvk3twlitkvsn003n2ezm1bjvjndei1ncenyuxfhwejpmnj6c09nrjbhetlfrmdzmvoxs2c?oc=5": {
+      "headline": "BYD Company stock forecast: Mexico Expansion Plans & Sales Growth - Capital.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:58:07.118065",
+      "last_seen": "2026-02-27T11:58:07.118079"
+    },
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxqm1b0mjzmn0g4uznjdlq2um1idhdedvliqxhkdegtmxp4rvdgtlbnqnpanmdssjjms1rqveitufjhejlctjzun3portvjdxnivvd0znvltwpjvuhjyvfxmnlevexuexzackhymgvenevfrlr4rdvjcdldwg9yn2hmtjlim3vfcuzbm2zzcenhaghwtvpydlk3vmeymuq5tnyyd2r0ewlvy1lvvtjku2jnlvpfbwhxrfz1qtdlbexb?oc=5": {
+      "headline": "BYD March 5 event to debut Blade 2.0, DM 6.0, 1,500 kW charger, God's Eye 5.0, report says - CarNewsChina.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:58:12.733125",
+      "last_seen": "2026-02-27T11:58:12.733144"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxprjvlzkjjnu1ky1dolvy0ddktuezbcu1fddbqam1yy2xqs1dvbungr3m2x01bdtm3ujjnbw9zcvnjwmjgv1pfulq0bgw2sljwwf9fnmpevmtxsuhur0y3clvtnvpxrtj3sm5sqwpevepoc3z3luhzwhrxrlyyrvpwcktboeryaw50ngrqtnplbep4nmfmvwp1utdxx3zndw?oc=5": {
+      "headline": "Casino swap: Boyd Gaming sells Shreveport property to Bally's (BYD:NYSE) - Seeking Alpha",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:58:15.999187",
+      "last_seen": "2026-02-27T11:58:15.999204"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxorglhcm9uamputjz1ek5datvzquxjrm1uruhtqjfmdtjwuvjncjy5z0k3tlhft294adzrtuk4z2vpawhznfruv2lwexniszf3nm1tyvd6sxhtblfrmfzkbjv2whrgzk0xrkrnahb6rdlibvg2y01lznnxa0zcsu1eovpfbgjrbmxzck04q1doatvvu0jswudnng1kwnhxqv9nowt6vjbxoa?oc=5": {
+      "headline": "BYD February Sales Fall 41%, But Exports Remain a Bright Spot - Electric Cars Report",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:05:27.865496",
+      "last_seen": "2026-03-02T10:05:27.865518"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqsxc3whbpcfftlw5ybdrpn0r5clnsehphak04eupzcks0qll4vuzcsxoymefpyvpkugvceuvowwsxv1h0agrsvxhhdulysurmnnpkzhyzql93m3htcwptmf9hugnsm1vbdgm0mjfontvzdgzaazzkc1b2mjboeuq5s2prtkwyu2d1b1d2d1ewbxjumjfxbjboxzfjmejjbwrwv0ltcfptznk4vkfsotc1b1znwu1xukhdx0x5zfbhng1am1ls?oc=5": {
+      "headline": "BYD February vehicle sales fall at steepest pace since pandemic - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:05:32.065169",
+      "last_seen": "2026-03-02T10:05:32.065197"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnrzlhbkvpwezmr1nsuzvfbthhdjlftxr6y0hbtnpmemnfm3e5eenkeevtn0f6rnlkmmhwb1nwevm5mu9qqwrhdnrtwjn3a2drblnhejy1u0zxvfvwrmrhqjiycml4lxlisevfbwdjltbkava2y2nsenllt0vmedbtaw05vetxrlf5sdlmedhuempdy1pdrhfqltrxdw?oc=5": {
+      "headline": "Volkswagen Hits 2 Million EVs — BYD Sold More Than That in One Year - Autoblog",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:05:36.051792",
+      "last_seen": "2026-03-02T10:05:36.051810"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqeldimzvobwviny1aaxn0dm15rmpabwi2y0e5lwhvnelqb2r6dnhybg9jak9vnkjzukmxv0r3zvhbdlntx1rrnlv2vwjxynjmnwtlny0xs3g4ngzlsufob1y3swhsnvhadhfzu2tqdi11aez5y21iefzttwhvugq5dmv3rmc2stdaovlhq0dduel6oxnvelvpmmd4zdzsaue?oc=5": {
+      "headline": "BYD released Seal 07 EV official images ahead of launch range - CarNewsChina.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:05:39.989070",
+      "last_seen": "2026-03-02T10:05:39.989091"
+    },
+    "https://news.google.com/rss/articles/cbmibefvx3lxte45slz6ctvqymtjuu9hdnvstff6dnppzutiofj1mkrmnzvpoepqohl3nfzia1lrtllxz2p1cdh6sg0zdfdtqxlzthbyslprz0jpcg1iwtj0b3qzndl0effpagxrtgniumqzq2lldg?oc=5": {
+      "headline": "BYD Appears To Be Rolling Out A New, Even More Powerful Generation Of Megawatt Chargers - InsideEVs",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:05:44.350085",
+      "last_seen": "2026-03-02T10:05:44.350101"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpymp4lwxlzzhcrwxlehzice4td1zxtwxrse5ltdzyqwo4tmt6tviycgrudlm3z1pxsudvckztn3j1rw1fam1sbwrhvwviru9pquthcthxdurfu3m4a0jkmvf5culdrzlru01drk5huezrww1quwtzne9nwnpqv1rjttnwaw8zy1rhwi1oavhotu1aenbfrnjrzfbuamqza2lqmmiynwv4dvzzytfutknpea?oc=5": {
+      "headline": "BYD stock jumps on 'disruptive tech' teaser, despite 41% sales tumble - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:56:51.431135",
+      "last_seen": "2026-03-03T13:56:51.431151"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxps1lszwjma2hbbtzqzdzorfztmm1zmjvsz0njzzq1wfbftkpmx2llvnnyb29jmumxnfnxum5moenmrhpjujhfvefulxpsbtvhnmc1qtboutd5sk1zv3v1bkduvdzrckrfotkttglhrgv3rgzlexbkugzbnm5trwnhafvecxlutja0b1o0uv9lrg1satq?oc=5": {
+      "headline": "BYD unveils new Toyota Camry-sized Seal 07 EV with 705 km range [Images] - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:56:58.888223",
+      "last_seen": "2026-03-03T13:56:58.888240"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxqdzjsn3rcnktiwu9ntjdrymttohb4anzsqvruqzfwx3vxmwvnzvvtmfhpeta0etddzwf2dhawyvlscg9nbwk5wlhnumfgm2dndxhhn2ldduv5twm4vmdrbfdknw9ncm5mynu5mwhhwk9jbzfnudjad0tez3dtyjlwdzflawnjrwwxzxoywulqefg5x2rdnddr?oc=5": {
+      "headline": "BYD records steepest drop in sales since pandemic - Semafor",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:57:04.800080",
+      "last_seen": "2026-03-03T13:57:04.800096"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxtfbbnlduugduqkvramxoejhfn1pymziywezgsmxuq1pgrjjbns1ux3v4v0hrn0pfd2nrb2fowlbuwu1nethduhvnquntdkpps1fxbti3ylrxn2u0y2vub09ty1nnzddoqzfecha4vwxdb0s?oc=5": {
+      "headline": "BYD’s February sales fall by most since pandemic - Financial Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:57:12.530587",
+      "last_seen": "2026-03-03T13:57:12.530615"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqcedldm5wnnlfluuwemjzautas2vrdjhsdelvm3f0dktftmxiu3naze5vc2laztvpotfxt2xrbkjxswcxb0rsawvxym9vnulrahgybuxfefutm0kxb25sznhvefvrcelcngfreudnr3h0whnsvxvrsi12cgq0q28xzmn6dwp4rvzmtgv4x01hna?oc=5": {
+      "headline": "BYD pulls the cover off its stunning flagship electric SUV for the first time [Images] - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:25.253011",
+      "last_seen": "2026-03-04T13:27:25.253033"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpnki5dtfptujdau4ymwzhdgkwaxfrcgvnti12wgvbz3vdqnjidjfhukowlus5wf8tylayzmpldhjnt281uvfytkhxvjhsng5yehbjr1vnemflbevhnvbmue9mvenrxzrmb1i1alpnaepirzm4c2lqq1lbvdb4utjictzvdzu4rkfkys1htuzlnnlhnwziuujmsmhidxdltezmbf9mmfuzvdh1ck8trmg0rw95enpuwkjnqxrxuklzmnv6utfoa29gvhzhsxdmmufsahh1uuv0awjkvkk?oc=5": {
+      "headline": "BYD Atto 3 EV Survives Missile Strike in Israel, All Systems Still Functioning Despite Severe Damage - autoevolution",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:29.637538",
+      "last_seen": "2026-03-04T13:27:29.637556"
+    },
+    "https://news.google.com/rss/articles/cbmizkfvx3lxte0zc0fwmfljn2zpmgw1cm5yejjveurob2prtmneqtnkm1finuzxr1rjdxjuqklnzlexovbyx3dia1jmrujcztvpqmxjbldrcvats3vtvdjemdhynf9vchrithbwbzrizw?oc=5": {
+      "headline": "BYD's New Five-Minute Chargers Make The Local Shell Station Look Slow - CarBuzz",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:33.749972",
+      "last_seen": "2026-03-04T13:27:33.749994"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxoeflxns1nu1vhzi1tmhfezhfeefhevxpfc09mmzfjv3g1sxhqbkxotuhrzurszmkyvvrzwndtm001oghfq05lbwhnxzfgtu9zbur5efl1bk5umti3bzexyk9qsmxnwlrqnvbzeerzwg5elw9totfevxzkmulvqljycxhdtxe0y3plqlz3y1h1ogv6ove?oc=5": {
+      "headline": "BYD to launch 2nd-gen blade battery and flash-charging tech on Mar 5 - CnEVPost",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:37.661344",
+      "last_seen": "2026-03-04T13:27:37.661362"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnrwdzzy1sek1kwuhoztbdzjzmqwiwtk9vulflceoymhfss1hjql9unxpxeeq3ogj5lvp4u1m0czfnmnvcrze5t3zuuxpedxrltkywnw10teh2wth5smfnx01nd1rnwnvkmxlvakgtb1i3mdzjvljlbnfprhruatgxuznvduxsbuhdwjvmumdumu8tnktwrjhtdjvhutbmrk1yazzyewxsz1jkoge5b01gc251ves?oc=5": {
+      "headline": "Gasgoo Daily: BYD to roll out Great Tang SUV on Mar. 5 - Gasgoo",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:27:41.534677",
+      "last_seen": "2026-03-04T13:27:41.534699"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxovutkewlmd0fkzmj3zkzvbepcx1g0vzjwthbylv8zeg5qymowcdfrxzb3t3hyz3e5tdvyn19ox2zjofhls0vovwwzeny4d0xrnfbhedgyehv6amh1r1rmbjfyrenwby1jx0rxzdfqsgz5udjpwjgzahbaennfykxmu3h1uw1xdeloaunvmkfxdewwdvu5ndb3ua?oc=5": {
+      "headline": "BYD's new Blade EV Battery 2.0 unlocks 1,000+ km pure electric range and ultra-fast charging - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:55:43.818580",
+      "last_seen": "2026-03-05T11:55:43.818596"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxpb3hub0pganhtn1l2ufizrxp0s0xkmgwzntnix042znnky3bewus2zhbgx2s1ndfaewviowtebvniavpsbw4ysxnmetrwnetgu1ljwmlncnzjcfd4ahzsafy5s1vmt2xaumjsvfzmnlzls0pvvktdqwxcrne5s1fteffnewthmjbzrfn2swe2d3rkmjvtzdq4ouvrtu1obel0tlrmog9bdwf3mmlwdktaexhottrarmw1rxjmchvothhilvlscgexmhzvwlzstl9rzxc?oc=5": {
+      "headline": "Tesla's UK sales plummet in February but outpace BYD, New Automotive data shows - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:55:46.497114",
+      "last_seen": "2026-03-05T11:55:46.497131"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqwkd2ahlqwg9qme9hzfhmqupzotf6cfraufdhlwjcam5lxzriynjqv3purm1zbejpb2d5wvi1revmclfadg05cljotjvvbhjzrxngtvdrt1vgrxkxuhfevza0wnpmv00xau80ywhlwuzrzfpvzerrog9oogdrudnxdnrmquvndfdsatrr?oc=5": {
+      "headline": "BYD: Too Cheap To Ignore, Too Unclear To Buy (OTCMKTS:BYDDY) - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:55:50.513647",
+      "last_seen": "2026-03-05T11:55:50.513668"
+    },
+    "https://news.google.com/rss/articles/cbmipafbvv95cuxnzzizvje0znq0eufjc1ntu0hecl9hnzv0bdloehq3dlrjqu9hz0fraxnmqupmdlu2uvnpmefvwed1cxnkewzpntrlmtndvejrszhvzzu4sdhzegd2s3rtx1owcgjqae5ks2zgy2jrng5xrjbzqle5m21vmvvreulbwjf6v2y2ety4wxnrrhuzc0dfzuxxsdlnuuxlbjj5te1vwungctibrafbvv95cuxnaddfevrqwdbbtnrhzlzts0juwm5mbektvgjewgc2clrwm2vim3psnhvid3ozrnjmwnnsnld2uxdbzlpjb0hvewxnqmfzctvtd0xitw1yanjemfnfsfzgmgdrq0rrlvnyrhu4dkf3u2laaer3ltdzrgm1u19vnhbfuk1ir28yevhyztbvutewelvrq2rqnuv3zwhwztzecvflowdur3v5aw53ef9t?oc=5": {
+      "headline": "Next-Generation BYD Blade Battery & Flash Charging Debuts Tomorrow - CleanTechnica",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:55:54.758120",
+      "last_seen": "2026-03-05T11:55:54.758135"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxozvd2tefhulhvvnjxsjj5cllkt1rcd3rmzw02n2hlwul3de5myu9juk1ivmrhr2l6ny11b3rmdc1yttjvmvvsbfhmqwxhs1jeq2z4mmftndk5sjbocm5ns3ozs0fvwlbcejbnx3bedtfmv01myuwyahc3btjatg9jrwnxmgniwutfqmhsas10relwz005sc1rmjfr?oc=5": {
+      "headline": "(BYD) Investment Strategy and Analysis (BYD:CA) - Stock Traders Daily Canada - Stock Traders Daily",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:55:57.867073",
+      "last_seen": "2026-03-05T11:55:57.867089"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxoymjsv2s3ame0rhjcuf9jbmtwx1zmexvosc1bx2rjb3vjafnlq0nxwmpnbgxlvzvyznjwthplz3zaedhkyjzjtk5zouo0ue4wzwrgsu9wvtctyliyudq2ujlfdhzlukzmbjd6qnhmazc4bs1jufcxc2pmt3zgywlxbu5sz2lyrkjktxm2zc1ltxbkoxzvvwr5q1gymzgzsem3u1e?oc=5": {
+      "headline": "BYD’s new 1500kW ‘flash charger’ is over 3x faster than anything US has - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:49.487769",
+      "last_seen": "2026-03-06T11:29:49.487790"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnvwkzzfvsbtfazlpax1zbvhdyaglsauu2n2k3chzlmhrvqnjpn1lna2jsoxm1yjrnvld3og5ary1jznffszmttvzpm3rfrdrprgxfckl2dxfqq1hmm3f1ceh1zdbnvu54a19pbfzpzk5itldfszjevemznnzzagzbzvi3q0zpcjnanujvcljoy1rnn2fqx2xfwlhxouvjcxnysw5kmvlbyl9rbfr0cnbgtf9hwgw?oc=5": {
+      "headline": "BYD Stakes Growth on Batteries, Charging With China Sales Slowing - Bloomberg.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:53.987223",
+      "last_seen": "2026-03-06T11:29:53.987243"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxpx1pyb0lsbkxzru40wjjkdnjstwxjsdfhunrttmfqsmttbhi0u0ltbllvu1r4a0phzl9zv1zoru9hzvftzergbxhocldra0v3ttbadul4ajlveuxzmfyyctdubi1nbmjrrus3nlm0z21zrllwbm9lylnsakdpn3zgmuthlwfhbwx1bdzltzfcyny2n19gwvbkrgzetevxauhianrfnlj4nhrqmvhpugzhm0p6setnowrhahe1zndrvwmwuvhrqkd5nui2awf3luk?oc=5": {
+      "headline": "BYD unveils faster-charging Blade Battery to revive China sales - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:29:58.807314",
+      "last_seen": "2026-03-06T11:29:58.807333"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxpzguydlfnowjnehhumgx4wwxhr3zytu9ovlfgrwtwzvfwvufuuvd2y2pmz0jzmgrkcewzzf9hbdhsckjsdtzpni1dufbfodvknlfer01juwzumutsos1cuerqwdq4undxtln2wezdbgfmd0fxqmffumy2amdvedl6aldnnlfzawtbbwhumedamk9yrgfxoxzuntibngfbvv95cuxqss05y0jsblfhzelswwzhsnjklxz3mmjzmghfou5wtgwzwxbsrddsy1u3nmzhttlfm3b4ejfurv9xwxaydmrxtklzyvvobv9guglleljhugxnmxu0ec1gymdvtmi2dfvoqvneqwe4bupomdjkvtv2dhnpnlvmtzzomgpvzehcrjllv1ryu1phaknmvglmbklwbfvrotdvqq?oc=5": {
+      "headline": "BYD sales plunge in first two months of 2026 as EV giant loses more ground to competitors - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:30:03.256345",
+      "last_seen": "2026-03-06T11:30:03.256362"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxork5ysfdpnjhqblrovew3ouzvd2ljrzbnbk52zkdvdnnpckfutkpumjfnn0zpz1yxtlluvxfnvhfiwtnmrnzfbg83v201r0rotenoag1ynwf3lxndsgponwnxrglgm2vad3cwdtflntutrja4rw5otenhsedwt05xvzjunzdros1lbkfqddzlzlzmuenirzg1mel5tvbhohh6c1o5afgyawi0vffxbue?oc=5": {
+      "headline": "China’s BYD looks to make EV charging as fast as filling up with petrol - South China Morning Post",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:30:12.486991",
+      "last_seen": "2026-03-06T11:30:12.487008"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfbwnxpms0fta2juynfxoupflvg4azzwnw9yr2vhclltdzncy2g3dznhs0nbvhllyjhgcwgzatnoug16bxhxbldvwjflmmlen1hic0pnukrxq2zroujbrmroohpbqjz6dgvln0lybwnbanjuvkdwset1bmfatwrjvgvsaycbqvvfexfmtw50ue1jrtbcz2psmdzqtex0eg1bduexcvzcbwx4bgvjmw9svgt1atl2tzb2a01ttejjuy13y1d1bvhjbm5wwmstrc1unda3ohnos3bavmnvwhrpukdtcfzhujv1b282njliswdrm21ts2fpnk80txjjb3jumgzzwmh1rgn0xzz3?oc=5": {
+      "headline": "Is BYD’s Flash Charging Revolutionary? - CleanTechnica",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:35:56.419238",
+      "last_seen": "2026-03-09T12:35:56.419256"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxplu9nedy0mvdlumjfaedtzw9mtvyxowtpd2zice1iswrknw0yuktpnkdvlutlrjjicelky2u4x3d2rm9yytd6tev5z1h4uvetru5gbhrvymzudlpyeurhutb2v3nqwvntbufxyvjfewrctmjlu0vemzhcwvf5y1fxr1vsund3m1lkmedcohlnaunkt1fwqzljddz2tlh2rvm0a1hcbkphcy1mnjfgtnktyndn?oc=5": {
+      "headline": "Geely Auto overtakes BYD in Chinese sales with hybrid, ICE strategy - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:35:59.264808",
+      "last_seen": "2026-03-09T12:35:59.264824"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxnnmvjrhpptwfcr3vsvjhxbvnlymnwnunnmml6y1zpzgnjruqxb1f0egpymu5oszfslxlkq3hpyldtatrfutiwyl9ltmrqttvpcfjwzm9htupnb3bitdm0nlzosthzujfernrrzmuwy1vqten3a1fhtkzjdxfwvxrmae5ka2vmnfrjm2nwtvrtekpdy0wzbvqtwk8tbdhda0j4vjrxavrkynoxt0xomnrqdlpxsww3rkrmn1e?oc=5": {
+      "headline": "BYD Unveils 1,500kW FLASH Charger and Blade Battery 2.0, Targets 20,000 Stations by Year-End - China Academy",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:36:04.247044",
+      "last_seen": "2026-03-09T12:36:04.247070"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxqel94dxzcctbnrhpyy3hkbhm1ctyymvk0vl9fc3vcbxrznxh4dzrzdgpzdug4ws04nunsy1hyqudvmg00sgg5wedfv2lxtjvocm1nm0dwx3n3egtudglxc3hlwxfgzs1wyw5ps3nnbwpuq2txt0jhcdj3zu5xr2y0u2fzcfjzcejhdtrimjhdskpgnkx4dm1zrfa4vvdzmhfnvdctchnbaulwzwppr0fmqmrr?oc=5": {
+      "headline": "CATL’s Results May Widen $120 Billion Market Cap Lead Over BYD - Bloomberg.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:36:07.521615",
+      "last_seen": "2026-03-09T12:36:07.521633"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte5fvugyvxp0b3ywdvhjzhdrufpur1pslth4nfpwy1dtowh0rktlvkdjd2d2eujwvtzuzjjqwjk0a1r1nw9wv0flrwzhnwxdv2lwtkvj?oc=5": {
+      "headline": "Charge to 80% in 5 Minutes, Fully Charge in 9 Minutes: BYD's Flash Charging Technology Completes the New Energy Transformation Puzzle - 36 Kr",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:36:12.548853",
+      "last_seen": "2026-03-09T12:36:12.548868"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnbg9pdukyden3meotvnpumgxpym1sdvmydzgxrglhnkdyzvvxwdllu1dkluveuwn1a2nyue83uvkxn2hece1ecxmxbk9jaglkofywcgzob1jimeq5a0ppmgzrdxlxym84tzb3dfnlzdhma0fozgrscm5saethtgzgmm1nujlrouk4nee?oc=5": {
+      "headline": "Another automaker joins BYD with ultra-fast 1,500 kW EV chargers - Electrek",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:24:31.522706",
+      "last_seen": "2026-03-10T10:24:31.522736"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5cekdzyjrwvunpcwtvek5px0xxyzbfwdfyzu4zekpfohlzdmjlqkywdhlfek1bzmyxznpivw9uyvh0bwxqr2t1cwthnetcx3hlyjhym3brtmy2tjq2wfpjs0i4qlewrxzlwxo0bkdlwffhdfvjz0pv?oc=5": {
+      "headline": "BYD Sales Collapse. What About Tesla? - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:24:34.235867",
+      "last_seen": "2026-03-10T10:24:34.235886"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpdlphvjvlekjvb1c1dnvhbey0b1ryx0r1ctb5qzvluw1srew1eemwczrrrtfxrgxmshfhb1jnczfxm01xbf9laurqajnednvzv3jyqw9zdezinw5zrxo3yv9hshdjwlfzdei1oha0zmxsoxv2whzmew5kvgleuwt0bddvqwznqjhfqzvwa1lavtflm05tq1rwvwzgehjevunqq0towdziwtrnuq?oc=5": {
+      "headline": "The Electric: Its Sales Sliding, BYD Fights Back With a New Battery - The Information",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:24:38.742045",
+      "last_seen": "2026-03-10T10:24:38.742065"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxnrelhdtfosxzmrl9eskp4wllkd184u3rpytbtdk9pm2wtnhuwthk4oxjtdkdzcvpgbf9ungtistjtd2jnbtj4ovfuquxowhbazm5rtm9it2m5mw05bnq5etmwylfxqnv0vuf2rtltbhllnkdpdmi1dhrhegxfuxd5cvziofjkvgpju1ztmdnsnudxngtose9eczf1dezvdw?oc=5": {
+      "headline": "BYD Brazil Increases Sales Target for 2026, Eyes 10% Market Share - eletric-vehicles.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:24:43.081480",
+      "last_seen": "2026-03-10T10:24:43.081496"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxpm0xiohcztlryywljvwpks3bxumjqwnfecnzozmf5ltzualj4v2zkodzysghlzkjqrhjhmhzivln2cjrqrnbqdu5qvdr4ukllvhrvnky0mxu5c2hhmuxznc1xlvfzdzjute1hynvazjzxeejcvnpazjk1muplt0zxuwrtvxu?oc=5": {
+      "headline": "China's EV charging war: BYD strikes back at CATL - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:24:47.185689",
+      "last_seen": "2026-03-10T10:24:47.185708"
+    }
+  }
+}

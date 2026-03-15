@@ -1,0 +1,12 @@
+## Hong Kong News
+
+- [Kai Tak Sports Park marked its first anniversary](https://www.stheadline.com/society/3549293) by attracting over 1.9 million visitors and hosting more than 120 events, boosting Hong Kong’s international profile and fostering cross-border cultural and sports exchanges with Mainland China.
+- [The park’s modern facilities and strategic location](https://www.stheadline.com/society/3549309) have also driven the “concert economy,” attracting international events like the MAMA Awards and positioning Hong Kong as a major entertainment hub.
+- [Hong Kong government officials are actively engaging](https://www.stheadline.com/politics/3549500) with industry leaders to promote economic development and cross-border collaboration with Mainland China, aiming to enhance the business environment and support investment growth.
+- [The Housing Authority will review public housing rent adjustments in July](https://www.stheadline.com/society/3549384), with an estimated 1.63% increase—the second-lowest in nearly 16 years—reflecting ongoing economic challenges and stagnant household incomes.
+- [Hong Kong customs seized 1.5 million untaxed cigarettes worth HKD 6.75 million](https://www.stheadline.com/breaking-news/3549428) in Tuen Mun, dismantling a cross-border smuggling operation involving travelers and warehouse personnel.
+- [A Hong Kong police officer has been charged with 12 counts of dishonest computer use](https://www.stheadline.com/breaking-news/3549402) after unauthorized access to case management and investigation systems, raising concerns about police integrity and public trust.
+- [A 24-year-old woman was assaulted in a Tsim Sha Tsui stairwell](https://www.stheadline.com/breaking-news/3549400), with the suspect identified as a 46-year-old off-duty former police officer who has been arrested and released on bail.
+- [A 23-year-old woman in Tuen Mun died from suspected carbon monoxide poisoning](https://www.stheadline.com/breaking-news/3549399), with financial stress suspected as a factor and authorities awaiting autopsy results.
+- [Hong Kong police arrested four men aged 62 to 87](https://www.stheadline.com/breaking-news/3549404) for illegal street gambling in Kwai Chung, reflecting ongoing efforts to curb illicit activities and maintain social stability.
+- [The Hong Kong Observatory reported cool and damp weather](https://www.stheadline.com/society/3549494), with daytime temperatures around 17°C and gradually decreasing rainfall, expecting dry conditions and strong winds to return by the weekend.

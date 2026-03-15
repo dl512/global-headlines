@@ -1,0 +1,33 @@
+{
+  "email_intro": "Hi,\n\nHere's your daily Semiconductor / AI newsletter.\n\nBest regards.\n\n",
+  "newsletters": [
+    {
+      "name": "semiconductor_ai_newsletter",
+      "components": [
+        "tech_news",
+        "semi_ai_corporate_news"
+      ],
+      "component_customizations": {
+        "semi_ai_corporate_news": {
+          "section_title": "Semiconductor / AI Corporate News"
+        },
+        "tech_news": {
+          "section_title": "AI / Robotics / Semiconductor News"
+        }
+      },
+      "recipients": {
+        "en": [
+          "davidlau512@gmail.com",
+          "Verbottensie@gmail.com"
+        ]
+      },
+      "email": {
+        "from_email": "david@xplorehk.com",
+        "from_name": "Semiconductor / AI Newsletter",
+        "subject": "Semiconductor / AI Newsletter - {date}"
+      },
+      "language": "EN",
+      "translate": false
+    }
+  ]
+}

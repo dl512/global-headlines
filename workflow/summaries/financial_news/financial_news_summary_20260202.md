@@ -1,0 +1,27 @@
+## Global Financial News
+
+- **Hong Kong Stocks Plunge, Tech and Resource Sectors Hit Hard**: The Hang Seng Index dropped over 700 points as technology, gold, and automotive stocks slumped amid global economic concerns and a stronger US dollar.
+- **South Korea's Kospi Sees Sharp Volatility**: The Kospi index experienced a record high earlier in the week but later plunged over 4%, triggering a temporary trading halt.
+- **Asia-Pacific Markets Decline, Led by Tech and Mining Stocks**: Regional markets fell, with Japanese and South Korean tech stocks dropping sharply and Australian mining shares under pressure.
+- **European Markets Slip on Mixed Earnings and Sector Weakness**: European stocks closed lower, with SAP falling 16% after missing cloud revenue estimates, and ASML and LVMH also declining despite record orders and strong earnings.
+- **Oil Prices Volatile Amid Geopolitical Developments**: Oil hovered near a four-month high due to US storms and a weak dollar, but later fell over 4% as US President Donald Trump signaled easing tensions with Iran and Greenland.
+- **Gold and Silver Prices Face Volatility and Downward Pressure**: Precious metals saw significant volatility and are expected to face further declines as risk-averse sentiment dissipates.
+- **China's Manufacturing PMI Shows Modest Expansion**: China's January Manufacturing PMI rose slightly to 50.3, indicating continued but modest sector growth.
+- **Alibaba Pushes AI for Spring Festival Consumption**: Alibaba launched its Qwen AI model with 3 billion free orders, aiming to drive Spring Festival consumer engagement.
+- **Hong Kong Tech Index and Major Chinese Stocks Slide**: The Hang Seng Tech Index fell by over 4%, with significant declines in Huahong Semiconductor, Alibaba, Tencent, and BYD.
+- **US Nonfarm Payrolls and Big Tech Earnings in Focus**: Markets await the US nonfarm payrolls report and earnings from Palantir, Google, and Amazon, which could influence rate-cut expectations.
+- **Tencent Eyes Yuanbao as Potential New Core Business**: Yuanbao is being positioned as a strategic pillar within Tencent’s portfolio.
+- **Tesla to Debut Mass-Produced Third-Generation Optimus Robot**: Tesla will unveil a redesigned Optimus robot, targeting annual production of one million units.
+- **Unisound Reports Explosive AI Revenue Growth**: Unisound’s large model business revenue surged over tenfold, with the launch of Shanhai·Zhiyin 2.0.
+- **SpaceX Satellite Ambitions Boost JunDa Shares**: JunDa Co., Ltd. shares rose after SpaceX applied to deploy one million satellites, benefiting space-related sectors.
+- **China Real Estate Sector Faces Ongoing Profit Pressure**: Mainland developers are expected to see continued profit declines through 2025, though some may stabilize or grow core profits.
+- **China Aluminum Expands Capacity with Brazilian Acquisition**: China Aluminum plans to boost production by 6% through acquiring a stake in Brazil Aluminum.
+- **Luk Fook Group Upgraded on Strong Jewelry Sales**: Luk Fook’s target price was raised due to robust sales in Hong Kong, Macau, and overseas expansion.
+- **Apple’s 2026 Outlook Raised on AI and Product Upgrades**: Bank of America Securities raised Apple’s target price, citing AI-powered Siri and new iPhone models.
+- **CK Hutchison Faces Panama Port Contract Risks**: A Panamanian court ruled CK Hutchison’s port contracts unconstitutional, posing risks to asset sales.
+- **Friendship Insurance Target Price Raised on Strong Outlook**: UBS upgraded Friendship Insurance’s target price, expecting new business value growth in 2025.
+- **Shandong Gold’s Profit Forecast Raised Despite Market Disappointment**: Morgan Stanley expects Shandong Gold’s 2025 profit to rise 56-66%, though below market expectations.
+- **Fed Chair Nominee Wosh Expected to Favor Rate Cuts**: East Wu Securities suggests market misreads Wosh as hawkish, anticipating a more accommodative policy stance.
+- **US Dollar Softens, Aussie Dollar Jumps on Jobs Data**: The US dollar edged lower as Greenland concerns eased, while the Australian dollar hit a 15-month high on strong employment figures.
+- **Commodities Remain Short of Major Bull Market**: Despite fluctuations, key elements are still missing for a sustained commodity bull run.
+- **Potential Mega-Merger Rumored for Musk’s Companies**: Speculation grows over a possible mega-merger involving one of Elon Musk’s firms, attracting praise from major investors.

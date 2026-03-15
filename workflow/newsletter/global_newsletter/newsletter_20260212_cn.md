@@ -1,0 +1,41 @@
+## 最重要的新聞
+
+- [英屬哥倫比亞省坦布勒山中學發生大規模槍擊事件](https://www.bbc.com/news/articles/c1e98w35qyjo)，造成八人死亡，包括六名學生、一名教育工作者、18歲嫌疑人及嫌疑人家屬，超過25人受傷，動機尚不明。
+- [孟加拉國自由派領導的抗議推翻前總理謝赫·哈西娜後，首次舉行選舉](https://www.bbc.com/news/live/cd03znje072t)，被禁的阿瓦米聯盟被排除在外，並在持續的政治緊張局勢與改革呼聲中進行憲法修正的公投。
+- [英國首相蘇納克呼籲曼聯共同所有人吉姆·拉特克利夫就其聲稱英國被“移民殖民”一事道歉](https://www.bbc.com/news/articles/ckglv1n4dzeo)，引發政治領袖與反種族主義團體的廣泛譴責。
+- [澳洲反對黨領袖蘇珊·雷面臨來自安格斯·泰勒的領導挑戰](https://www.bbc.com/news/articles/cm2r4d5mnero)，在黨內持續的內鬥、糟糕的民調以及近期選舉失利後，努力恢復支持。
+- [德黑蘭舉行紀念1979年伊朗革命周年的大型集會](https://www.bbc.com/news/articles/cdjm33kwxx4o)，但被廣泛的不滿與近期針對經濟困難與宗教統治的抗議活動所掩蓋。
+- [根據諾貝爾委員會，伊朗當局對諾貝爾得主納爾格斯·穆罕默迪進行了生命危險的虐待](https://edition.cnn.com/2026/02/11/middleeast/iran-mistreated-narges-mohammadi-nobel-committee-intl)，引發國際關注她的待遇。
+- [以色列總理內塔尼亞胡計劃與美國總統特朗普討論可能對伊朗的打擊行動](https://edition.cnn.com/2026/02/10/middleeast/netanyahu-iran-strikes-trump-talks-intl)，美伊雙方恢復談判，重點關注地區安全與軍事行動的可能性。
+- [美國眾議院以219票對211票投票，否決特朗普對加拿大的關稅](https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html)，部分共和黨議員加入民主黨，罕見地譴責其經濟政策，但預計特朗普將否決任何反對。
+- [自2025年3月以來，美國各州已支付超過1340億美元的關稅](https://www.cnbc.com/2026/02/11/inflation-affordability-trump-tariffs-midterm-elections.html)，引發公眾對負擔能力與通貨膨脹的擔憂，關稅相關議題成為中期選舉的焦點。
+- [眾議院推進特朗普支持的“拯救美國法案”選民身份證法案](https://www.cnbc.com/2026/02/11/trump-save-act-house-voter-id.html)，要求提供公民身份與照片ID以投票，但在參議院面臨民主黨與選民權利團體的反對，通過的可能性渺茫。
+- [世界富豪正以前所未有的速度遷移](https://www.cnbc.com/2026/02/11/the-worlds-rich-are-relocating-at-a-pace-unseen-in-history-where-are-they-going.html)，由於地緣政治緊張與政策轉變，居住與國籍多元化，凸顯高淨值人士對穩定性的重視。
+- [中國一個與人工智慧相關的事件引發免費珍珠奶茶熱潮](https://edition.cnn.com/2026/02/11/world/video/free-boba-frenzy-in-china-caused-by-ai-digvid)，但有關促銷活動的詳細規模仍不清楚。
+- [泰國南部一所學校校長在兩小時圍攻中被槍擊身亡](https://www.bbc.com/news/articles/cj98nvre2jeo)，嫌疑槍手為18歲，已被逮捕，動機仍在調查中。
+- [耶魯大學禁止大衛·格勒納特教授授課](https://www.cnbc.com/2026/02/11/epstein-files-yale-david-gelernter-classeds.html)，在檢視其與杰弗里·愛潑斯坦的通信後，因司法部文件曝光其大量電子郵件往來。
+- [愛潑斯坦文件在挪威皇室內引發重大爭議](https://edition.cnn.com/2026/02/07/europe/norway-royal-family-scandals-intl)，威脅到皇室團結，內部緊張升高。
+- [立法者將阿聯酋商業領袖蘇丹·艾哈邁德·賓·蘇萊姆與2009年提及“酷刑影片”的愛潑斯坦電子郵件聯繫](https://www.cnbc.com/2026/02/12/epstein-files-sultan-ahmed-bin-sulayem-dp-world-email-dubai-uae-emirati.html)，引發其國際關係疑問，尚未指控其不法行為。
+- [總檢察長帕姆·邦迪在眾議院聽證會上似乎持有Jayapal議員的司法部數據庫搜索記錄](https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html)，引發對監控與隱私的擔憂。
+- [帕姆·邦迪辯稱特朗普的經濟成就](https://www.cnbc.com/2026/02/11/trump-pam-bondi-hearing-stock-epstein-judiciary-dow.html)，在眾議院司法委員會聽證會上強調道瓊指數突破50,000點。
+- [荷蘭廣泛推行四天工作制](https://www.bbc.com/news/articles/cx2y85xdyw3o)，提高生產力與工作生活平衡，但專家質疑其長期可持續性，因生產力增長停滯。
+- [烏克蘭骨牌滑雪選手弗拉迪斯拉夫·赫拉斯科維奇繼續佩戴紀念在俄羅斯入侵中喪生運動員的頭盔](https://www.bbc.com/sport/articles/c6274mgve33o)，違反國際奧委會的政治示威禁令，彰顯個人表達與奧運規則間的緊張。
+- [知名演員詹姆斯·范德比克（《道森的溪流》）因腸癌抗戰後去世，享年48歲](https://www.bbc.com/news/articles/ce3x0lnyxd3o)，致敬其在電視界的影響與癌症意識的推廣。
+
+## 香港新聞
+
+- 政府[計劃興建第四條跨海隧道](https://www.stheadline.com/politics/3544096/%E5%A4%A7%E6%A3%8B%E7%9B%A4%E7%AC%AC%E5%9B%9B%E6%A2%9D%E9%81%8E%E6%B5%B7%E7%96%8F%E9%81%93%E5%8B%A2%E5%9C%A8%E5%BF%85%E8%A1%8C%E8%B7%9D%E7%B7%9A%E6%9D%B1%E8%A5%BF%E5%85%A9%E9%9B%A3%E5%85%A8)，以緩解擁堵並支持城市擴展，考慮連接大嶼山或將軍澳至香港島的路線，反映戰略基建重點。
+- 議員譚子國[致力推動電動交通規範與北部都會區發展](https://www.stheadline.com/politics/3544104/%E8%AD%B0%E6%94%BF%E9%9A%A8%E6%83%B3%E8%B5%A6%E9%8E%AE%E5%9C%8B%E4%BB%A5%E8%A1%8C%E5%8B%95%E5%9B%9E%E6%87%89%E6%9C%9F%E5%BE%85-%E7%94%A8%E5%AF%A6%E5%B7%A5%E5%B0%8D%E6%8E%A5%E7%99%BC%E5%B1%95)，旨在提升商業環境並配合國家經濟策略。
+- 建築業[面臨重大挑戰](https://www.stheadline.com/society/3544094/%E6%AF%8F%E6%97%A5%E9%9B%9C%E8%A8%98%E7%B7%9D%E4%B8%80%E7%B6%B2%E5%8B%95%E5%85%A8%E8%BA%AB-%E6%89%BF%E5%BB%BA%E5%95%86%E6%B1%90%E5%B9%B4%E9%97%9C%E9%9B%A3%E9%81%8E-%E6%9C%89%E5%B7%A5%E5%8F%8B12%E6%9C%88%E5%81%9C%E5%B7%A5%E8%87%B3%E4%BB%8A-%E5%8A%83%E6%94%BF%E5%BA%9C%E5%A4%9A%E6%8E%A8%E5%85%AC%E5%8B%99%E5%B7%A5%E7%A8%8B%E8%A7%A3%E5%9B%B0)，在政府拆除腳手架網後，超過五千工人受影響，呼籲增加公共工程與支援以穩定行業。
+- 農曆新年假期期間，[香港預計有1138萬人次出入境](https://www.stheadline.com/society/3544126/%E8%BE%9B%E6%9B%86%E6%96%B0%E5%B9%B4%E5%85%A5%E5%A2%83%E8%99%9510%E6%97%A5%E5%81%87%E6%9C%9F1138%E8%90%AC%E4%BA%BA%E6%AC%A1%E9%80%B2%E5%87%BA%E6%9C%AC%E6%B8%AF-952%E8%90%AC%E5%BE%AA%E9%81%8E%E9%99%B8%E8%B7%AF-%E6%83%85%E4%BA%BA%E7%AF%80%E7%82%BA%E5%87%BA%E5%A2%83%E9%AB%98%E5%B3%B0)，在2月14日達到出境高峰，並在主要出入境口岸部署增援資源應對高峰。
+- [快速的公共房屋轉讓](https://www.stheadline.com/local-topics/3544108/%E7%94%B3%E8%AB%8B%E5%A4%A9%E5%80%AB%E6%A8%82%E8%AB%BE%E9%81%B74%E5%80%8B%E6%9C%88%E5%BE%8C%E6%A5%B5%E9%80%9F%E9%85%8D%E6%88%BF-%E6%AF%8D%E8%A6%AA%E5%A4%A7%E5%B1%8B%E6%90%AC%E7%B4%B0%E5%B1%8B%E8%88%87%E7%B2%89%E5%B3%BD%E5%A5%B3%E5%85%92%E5%90%8C%E9%90%A8%E5%90%8C%E5%BA%A7-%E7%B6%B2%E6%B0%91%E5%BF%AB%E5%BE%97%E5%80%9A%E7%B4%9A%E8%A6%81Juicy%E5%53%EE)，在“天倫樂”計劃下，一位母親在四個月內成功搬到粉嶺陪伴女兒，展現家庭團聚政策的效率提升。
+- [香港海關與內地當局](https://www.stheadline.com/breaking-news/3544118/%E6%87%89%E9%98%B2%E5%B8%82%E6%B0%91%E5%8C%97%E4%B8%8A%E5%BE%8C%E6%94%9D%E8%98%AD%E8%8A%B1%E5%8F%8A%E7%85%95%E5%8D%B1%E7%89%A9%E7%A8%AE%E5%9B%9E%E6%B8%AF-%E6%B5%B7%E9%97%9C%E8%88%87%E5%85%A7%E5%9C%B0%E5%90%88%E4%BD%9C%E5%8A%A0%E5%BC%B7%E7%B6%9C%E6%92%AD)，加強打擊非法進口蘭花等瀕危物種，強調合法合規與環境保護在跨境貿易中的重要性。
+- [北角一個分租單位發生火災](https://www.stheadline.com/breaking-news/3544080/%E5%8C%97%E8%A7%92%E5%9F%8E%E6%88%BF%E8%B5%B7%E7%81%AB-%E7%94%B7%E4%BD%8F%E6%88%B6%E9%A0%AD%E6%99%88%E9%80%81%E9%86%AB%E8%BF%9160%E4%BD%8F%E5%AE%A2%E6%92%95%E6%95%A3-%E7%98%91%E6%8B%96%E6%9D%BF%E7%9F%AD%E8%B7%AF%E8%88%87%E7%81%BD)，疑因短路的電源排插引發火災，疏散60名居民，凸顯分租屋的安全隱患。
+- [一輛BMW車牌過期在大埔試圖逃避警方追查](https://www.stheadline.com/breaking-news/3544125/%E5%A4%A7%E5%9D%84%E8%BB%8A%E7%89%8C%E9%81%8E%E6%9C%9F%E5%9C%A8%E5%A4%A7%E5%9F%94%E8%A9%A6%E5%9C%96%E9%80%83%E9%81%98%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%9F%A5-%E7%9B%B4%E8%A8%8A%E7%A4%BE%E4%BA%A4%E8%AD%A6%E5%8F%83%E4%BA%8B%E7%82%BA%E9%81%8E%E4%B8%8A%E4%BA%8C%E8%BB%8A%E7%9A%84%E4%BA%BA%E8%BB%8A%E6%8A%A5%E8%A8%8A%E7%9A%84%E6%8A%95%E7%A5%A8%E8%A1%8C%E5%8B%99)，導致四車相撞，傷及計程車司機與兩名警員，凸顯交通執法的挑戰。
+- [兩名內地男子被捕](https://www.stheadline.com/society/3544136/%E6%9D%9C%E6%8B%9C%E6%8A%B5%E6%B8%AF%E8%88%AA%E7%8F%AD%E5%86%8D%E7%8F%BE%E6%A9%9F%E7%AA%9D%E8%80%81%E9%BC%A0-%E5%85%A7%E5%9C%B0%E6%BC%A2%E8%AA%8D%E5%81%B7%E4%B9%98%E5%AE%A2%E9%81%8E42%E8%90%AC%E5%85%83%E9%89%9B%E6%88%92%E5%8F%8A%E6%89%8B%E9%8F%B2)，因從迪拜與法國航班偷竊乘客價值超過港幣20萬元的財物，涉及跨境犯罪與航空安全問題。
+- [當局通知警方](https://www.stheadline.com/breaking-news/3544004/%E9%A3%9B%E6%A9%9F%E8%BF%B7%E7%96%91%E7%B6%B2%E5%A3%B6%E5%AE%89%E6%B5%B7%E8%B2%A8%E6%A9%9F%E7%88%90%E7%89%87-%E6%B0%91%E8%88%AA%E6%84%8F%E5%A4%96%E8%AA%BF%E6%9F%A5%E6%A9%9F%E6%A7%8B%E5%B7%B2%E5%B0%B1%E4%BA%8B%E4%BB%B6%E9%80%9A%E7%9F%A5%E6%96%B9)，在一名社交媒體賣家試圖拍賣一架致命貨機失事殘骸後，強調妥善處理證據的重要性。
+- [一名21歲男子在西貢因突發健康緊急情況被空運送醫](https://www.stheadline.com/breaking-news/3544086/%E8%A5%BF%E8%B2%A2%E9%9D%92%E5%B9%B4%E9%9C%B2%E7%87%9F%E7%AA%81%E9%A0%AD%E6%99%88%E5%90%90-GFS%E5%8D%88%E6%99%A8%E6%8E%A5%E8%B5%B0%E9%80%81%E9%86%AB)，突發健康緊急情況，彰顯戶外活動的應急準備重要性。
+- [大埔一對夫婦因爭奪新電視，妻子刺傷丈夫被捕](https://www.stheadline.com/breaking-news/3544027/%E5%A4%A7%E5%9D%84%E5%BB%A3%E7%A6%8F%E9%90%A8%E5%A4%AB%E5%A6%BB%E7%96%91%E7%AB%B9%E8%B2%B7%E6%96%B0%E9%9B%BB%E8%A6%96-%E5%A6%BB%E8%8F%9C%E5%88%80%E5%89%AA%E5%82%B7%E5%A9%89%E5%A4%AB%E8%83%8C%E9%83%A8-%E6%B6%89%E6%8B%9B%E4%BA%BA%E8%83%8F%E6%8D%95)，因為一場激烈的爭執，妻子刺傷丈夫後被捕，反映社會緊張局勢。
+- [一名78歲婦人在葵盛邨平台跌落身亡](https://www.stheadline.com/breaking-news/3544028/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E8%8F%AE%E8%88%88%E9%90%A8%E4%B8%83%E5%80%99%E5%A6%82%E5%80%99%E5%B9%B3%E5%8F%B0-%E9%80%81%E9%86%AB%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB)，在葵盛邨一平台跌落身亡，引發社區對老人安全與心理健康的關注。
+- [香港天文台預測](https://www.stheadline.com/society/3544088/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%B8%8B%E5%8D%88%E9%83%A8%E5%88%86%E6%99%82%E9%96%93%E6%9C%89%E9%9C%84%E5%85%89-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8421%E5%BA%A6-%E5%90%B9%E5%92%8C%E7%B7%A9%E8%87%B3%E6%B8%85%E5%8A%81%E5%81%8F%E6%9D%B1%E9%A2%A8)，預計天氣部分多雲，最高氣溫21°C，東風適中，有助於經濟與跨境活動的穩定。
+- [港鐵港島線列車出現故障](https://www.stheadline.com/society/3544110/%E6%B8%AF%E9%90%B5%E6%B8%AF%E5%B3%B6%E7%9B%9E%E4%BA%8B%E6%95%85%E9%99%B3%E6%B0%B8%E9%8C%AB%E9%97%9C%E6%B3%A8%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%98%AF%E5%90%A6%E4%BE%9D%E8%B6%B3%E7%A8%8B%E5%BA%8F-%E5%BC%B5%E6%B0%B8%E5%AE%87%E4%B8%8D%E6%8F%9B%E9%99%A4%E6%B5%81%E7%A8%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%97%E6%8F%9B)，可能由於工程車操作不當或零件老化，促使加強員工培訓與設備升級以保障公共交通安全。

@@ -1,0 +1,34 @@
+## Tech News
+
+- **Meta ramps up AI investment as Reality Labs losses mount**: Meta will double AI spending to $115–$135 billion in 2026, despite Reality Labs losing $19 billion last year and ongoing layoffs.
+- **Tesla ends Model S and X production, pivots to Optimus robots**: Tesla will discontinue Model S and X to convert its Fremont factory for Optimus humanoid robot production after its first annual sales decline.
+- **Tesla invests $2 billion in Elon Musk’s xAI**: Tesla is investing $2 billion in Musk’s AI startup xAI, supporting AI product development and collaboration.
+- **Microsoft posts strong OpenAI-driven earnings, but shares drop on cloud growth concerns**: Microsoft reported a $7.6 billion gain from OpenAI, but shares fell 7% on slowing cloud growth and margin worries.
+- **Meta, YouTube face trial over youth mental health claims**: Meta and YouTube will defend against allegations of youth addiction and mental health harm in court.
+- **Google integrates Gemini AI into Chrome browser**: Google is rolling out Gemini AI features to Chrome, including a persistent sidebar and autonomous task automation.
+- **Apple launches Creator Studio Pro with AI tools for creators**: Apple introduces a subscription suite with AI-powered features for video, music, and image editing.
+- **SK Hynix overtakes Samsung in AI chip profits**: SK Hynix surpassed Samsung in annual profit for the first time, driven by high-bandwidth AI memory chip demand.
+- **Samsung profit triples on AI memory chip boom**: Samsung’s Q4 profit hit a record as AI server demand fueled a global memory shortage.
+- **Advantest shares surge on record AI chip tester sales**: Advantest’s shares jumped 14% after record quarterly sales of AI and semiconductor testers.
+- **ServiceNow partners with Anthropic and posts strong earnings**: ServiceNow announced a multi-year AI partnership with Anthropic and reported better-than-expected Q4 results.
+- **AI security startup Outtake raises $40 million from top investors**: Outtake secured $40 million to expand its agentic cybersecurity platform, attracting high-profile backers.
+- **Tiny startup Arcee AI launches 400B-parameter open-source LLM**: Arcee AI released Trinity, a massive open-source language model to rival Meta’s Llama, targeting developers.
+- **Meta, Google, and Apple push smart glasses as next big wearable**: Major tech firms, including Meta, are shifting focus from the metaverse to AI-enabled smart glasses.
+- **Elon Musk teases new image-labeling system for X**: Musk previewed a feature to identify AI-manipulated images on X, aiming to combat misinformation.
+- **WhatsApp to charge AI chatbot developers in Italy**: Meta will begin charging for AI chatbot responses on WhatsApp in Italy due to regulatory pressure.
+- **Apple mandates Patreon move to in-app purchases by November**: Apple requires Patreon to shift all creator subscriptions to in-app purchases by November 2026.
+- **Luminar lidar business sold to MicroVision despite higher mystery bid**: Luminar’s lidar business sale to MicroVision was approved, rejecting a last-minute higher offer.
+- **ServiceNow acquires Moveworks and Cleanlab to boost AI capabilities**: ServiceNow and Handshake both expand AI offerings through strategic acquisitions.
+- **DeepWay raises 1.177 billion yuan to accelerate electric truck development**: DeepWay secured major Pre-IPO funding to expand heavy truck electrification and intelligence.
+- **Chinese AI and robotics startups secure major funding rounds**: TTC, Sunseed, ThetaWave AI, and Xinjing Zhiyuan all completed significant financing to advance AI, robotics, and biotech.
+- **Nuowa Coffee completes Series C funding for health-focused expansion**: Nuowa Coffee raised hundreds of millions of yuan to expand its health-oriented coffee business in China and abroad.
+- **Jitai Intelligent completes new funding, targets IPO before 2029**: Jitai Intelligent raised 75 million yuan and plans to go public within three years.
+- **US President Donald Trump enacts 25% chip tariff and loosens nuclear safety rules**: The Trump administration imposed a 25% tariff on chips and reduced nuclear safety regulations to boost domestic industry.
+- **US Federal Reserve keeps rates steady, market reacts to earnings and political intrigue**: The Fed held rates at 3.5–3.75%, with markets focused on earnings and political developments.
+- **Gold and silver hit record highs amid market volatility**: Precious metals prices surge on geopolitical tensions and liquidity-driven swings.
+- **JPMorgan, Bank of America to match US government contributions to children’s ‘Trump accounts’**: Major US banks will match $1,000 government deposits in new retirement accounts for children.
+- **US government shutdown looms as Congress debates DHS funding**: Republicans consider splitting Homeland Security funding to avert a partial government shutdown amid immigration disputes.
+- **NASA discovers strongest evidence yet of ancient life on Mars**: NASA’s Mars rover found a rock sample with the clearest sign of ancient life to date.
+- **Black hole collision confirms Einstein and Hawking predictions**: A recent black hole merger provided direct evidence supporting key astrophysics theories.
+- **SpaceX eyes June IPO to coincide with Musk’s birthday and planetary alignment**: Elon Musk plans a massive SpaceX IPO in June, targeting a $1.5 trillion valuation.
+- **TikTok secures its future in the US after deal closure**: The deal to ensure TikTok’s continued operation in the US has been finalized.

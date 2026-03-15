@@ -1,0 +1,27 @@
+## Most Important Stories
+
+- **US President Donald Trump Threatens Tariffs Over Greenland, Sparking EU and NATO Tensions**: President Donald Trump’s push to control Greenland has led to threats of US tariffs on European goods, strong condemnation from the EU and Denmark, and warnings of potential military escalation, with NATO allies and Russia closely watching the dispute.
+- **Europe Prepares Retaliation Against US Tariffs Linked to Greenland Dispute**: European leaders are shifting to a tougher stance, considering retaliatory tariffs and restrictions on US market access in response to President Donald Trump’s Greenland-related threats.
+- **NATO Nations Deploy to Greenland Amid Rising US-Europe Tensions**: NATO countries are sending forces to Greenland following President Donald Trump’s provocative comments, raising concerns about alliance stability and Arctic security.
+- **UK PM Starmer Urges Calm Over US Tariff Threats on Greenland**: UK Prime Minister Keir Starmer called for dialogue and stressed that a trade war over Greenland is in no one’s interest.
+- **Russia Sees Opportunity in US-Europe Rift Over Greenland**: Moscow welcomes the Greenland dispute, viewing it as a chance to weaken Western alliances and boost its own influence.
+- **China’s Birth Rate Falls to Record Low Despite Economic Growth**: China’s 2025 GDP target was met, but the country’s birth rate hit a historic low, raising concerns about long-term demographic and economic challenges.
+- **Iraq Announces Full Withdrawal of US Forces**: Iraq has declared the complete withdrawal of US troops from its territory, signaling a major shift in regional security dynamics.
+- **Spanish High-Speed Train Crash Kills Dozens**: A deadly train collision near Córdoba, Spain, left at least 40 dead and over 120 injured, prompting a government investigation.
+- **Deadly Fire at Pakistan Mall Leaves 21 Dead, Dozens Missing**: A massive fire at a Karachi shopping mall resulted in 21 deaths and many missing, highlighting safety concerns.
+- **Australia Tightens Gun Laws After Bondi Shooting**: Australia’s parliament passed stricter gun controls and a national buyback scheme following a deadly shooting at Bondi Beach.
+- **Surge in Shark Attacks and Dingo Incident in Australia**: Four shark attacks occurred in New South Wales within 48 hours, and a Canadian woman was found dead surrounded by dingoes on K’Gari Island, prompting safety warnings.
+- **Iran’s Supreme Leader Admits Thousands Killed in Protests**: Ayatollah Khamenei acknowledged thousands of protester deaths during recent unrest, marking a rare public admission.
+- **US Protests Over ICE Shooting Prompt Federal Investigation and Possible Troop Deployment**: Protests in Minnesota over a fatal ICE shooting have led to federal scrutiny and the Pentagon preparing 1,500 troops for possible deployment.
+- **President Donald Trump Proposes ‘Board of Peace’ for Gaza, Invites Putin and Others**: President Donald Trump has invited world leaders, including Russia’s Vladimir Putin, to join a $1 billion-per-member ‘Board of Peace’ to oversee Gaza’s reconstruction.
+- **Supreme Court to Hear Challenge on President Donald Trump’s Attempt to Fire Fed Governor Lisa Cook**: Fed Chair Jerome Powell will attend Supreme Court arguments on President Donald Trump’s move to dismiss a Federal Reserve governor, raising questions about central bank independence.
+- **US President Donald Trump’s Economic Record Draws Mixed Reviews From Voters**: Americans are divided on President Donald Trump’s economic performance, citing high prices and job market challenges.
+- **Eight Skiers Killed in Austrian Avalanches**: Avalanches in Austria have claimed the lives of eight skiers.
+- **Indonesia Finds Wreckage of Missing Surveillance Plane**: Indonesian authorities located the wreckage of a missing surveillance aircraft with 10 people aboard.
+- **Uganda’s President Museveni Wins Re-Election Amid Opposition Tensions**: President Museveni secured another term as the opposition leader remains at large.
+- **More Than 160 Churchgoers Kidnapped in Nigeria**: Armed gangs abducted over 160 people from churches in Kaduna state, underscoring Nigeria’s ongoing security crisis.
+- **Italian Fashion Designer Valentino Dies at 93**: Renowned designer Valentino Garavani has died in Rome, leaving a significant legacy in global fashion.
+- **Prince Harry to Testify in UK Tabloid Privacy Case**: Prince Harry will take the stand in a high-profile privacy lawsuit against the Daily Mail.
+- **US Lawmaker Proposes Ban on Institutional Home Purchases**: Rep. Ro Khanna reintroduced a bill, supported by President Donald Trump, to restrict large investors from buying single-family homes.
+- **Swiss Bar Owners Face Charges After Deadly Fire**: Swiss prosecutors charged bar owners with negligence following a fire that killed 40 people in Crans-Montana.
+- **Ukrainians Stay Resilient Amid Harsh Winter and Conflict**: Ukrainians are finding ways to cope with severe winter and ongoing Russian attacks.

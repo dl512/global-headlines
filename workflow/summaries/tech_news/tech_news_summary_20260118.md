@@ -1,0 +1,31 @@
+## Tech News
+
+- **TSMC, ASML, and Micron surge on AI chip demand and US investment expansion**: TSMC reported strong earnings and will boost US chip manufacturing, while ASML and Micron stocks hit record highs on AI-driven demand.
+- **OpenAI to test targeted ads in ChatGPT and secures $10B chip deal with Cerebras**: OpenAI will introduce ads for US ChatGPT users and expands chip partnerships to support AI growth.
+- **Elon Musk sues OpenAI for up to $134B, with trial set for April**: Musk claims OpenAI abandoned its nonprofit mission, while OpenAI warns investors of "outlandish" claims.
+- **California AG orders Musk’s xAI to halt sexual deepfakes; EPA rules xAI illegally used gas turbines**: xAI faces regulatory scrutiny over AI-generated content and environmental violations at its Tennessee data centers.
+- **Google appeals US search monopoly ruling as DeepMind CEO warns China is months behind in AI**: Google challenges a federal court decision, while DeepMind highlights the close US-China AI race.
+- **US President Donald Trump threatens tariffs on eight European nations over Greenland and proposes ban on institutional home buying**: Trump warns of escalating tariffs unless Greenland is sold and seeks to limit large investors' home purchases.
+- **Chinese EVs edge closer to US as Canada slashes tariffs, boosting Geely and BYD prospects**: Canada cuts tariffs on Chinese electric vehicles, potentially increasing Chinese EV presence in North America.
+- **Runpod AI cloud startup hits $120M ARR, started from a Reddit post**: Runpod rapidly grew its AI app hosting platform, capitalizing on post-ChatGPT AI demand.
+- **ClickHouse raises $400M at $15B valuation, challenging Snowflake and Databricks**: The open-source database company expands with major clients and AI performance tracking acquisitions.
+- **Chai Discovery partners with Eli Lilly and raises $130M for AI drug development**: The AI biotech startup secures major funding and a pharmaceutical partnership.
+- **Bluesky introduces cashtags and LIVE badges amid surge in installs after X controversy**: Bluesky adds new features and gains users following issues at Musk’s X platform.
+- **YouTube relaxes monetization for controversial topics, with limits on graphic content**: The platform now allows ads on dramatized or non-graphic videos about sensitive issues.
+- **Oshen deploys first ocean robot to collect data in Category 5 hurricane**: The autonomous C-Star robot gathers critical weather data in extreme conditions.
+- **Supreme Court hacker pleads guilty to posting stolen US government data on Instagram**: Nicholas Moore faces prison for hacking and leaking sensitive data from multiple US agencies.
+- **Offshore wind projects resume in US after Trump administration legal setbacks**: Construction restarts on East Coast wind farms, boosting renewable energy prospects.
+- **AI security risks divide CEOs and CISOs, survey finds**: Business leaders disagree on whether AI improves or threatens cybersecurity.
+- **President Donald Trump threatens to sue JPMorgan Chase for ‘debanking’ him**: Trump alleges the bank improperly restricted his accounts after the Capitol riot.
+- **OpenAI and Anthropic expand into healthcare, details remain undisclosed**: The leading AI firms signal strategic moves into the medical sector.
+- **TikTok launches PineDrama microdrama app in US and Brazil**: TikTok expands into short-form storytelling with a new standalone app.
+- **US states led by Texas and New Hampshire move to add bitcoin to public reserves**: Multiple states pursue legislation to incorporate cryptocurrencies into their finances.
+- **NASA and SpaceX launch mission to study the heliosphere**: The project aims to unravel mysteries of the solar system’s cosmic environment.
+- **Black hole collision confirms Einstein and Hawking’s predictions on gravitational waves**: New findings validate decades-old astrophysics theories.
+- **NASA Mars rock discovery shows clearest sign yet of ancient life**: The finding marks a breakthrough in planetary science and the search for extraterrestrial life.
+- **China’s Super Magnetic Energy secures major financing for nuclear fusion magnetic field tech**: The company advances commercialization of high-temperature superconducting magnets for fusion energy.
+- **WeLab completes $220M Series D to expand Southeast Asia operations**: The Hong Kong fintech firm secures its largest funding round to date.
+- **Shuli Innovation and Mars Innovation Intelligence raise funds for brain-machine interface and exoskeleton tech**: Chinese startups secure multi-billion yuan to advance neural interaction platforms.
+- **Far East Excellence and Xu Lun Technology raise funds for semiconductor packaging and materials**: Chinese firms expand R&D and production in high-end semiconductor components.
+- **Shanhe Aviation secures funding for eVTOL aircraft development**: The company accelerates research and assembly of composite wing electric aircraft.
+- **Boundary Intelligence raises seed funding for AI and blockchain-based internet technologies**: The startup aims to accelerate product development and industry applications.

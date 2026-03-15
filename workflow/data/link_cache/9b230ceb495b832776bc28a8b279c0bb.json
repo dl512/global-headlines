@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09880-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306406842/ubtech-robotics-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306346297/ubtech-robotics-discloseable-transactionformation-of-partnership",
+    "https://news.futunn.com/hk/notice/306469166/ubtech-robotics-announcementbook-closure-period-forextraordinary-general-meetingandfurther-delay-in"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306406842/ubtech-robotics-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "優必選：截至二零二六年一月三十一日止股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:38:42.144579",
+      "last_seen": "2026-02-09T21:38:42.144587"
+    },
+    "https://news.futunn.com/hk/notice/306346297/ubtech-robotics-discloseable-transactionformation-of-partnership": {
+      "headline": "優必選：須予披露交易成立合夥企業",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:04:06.537419",
+      "last_seen": "2026-02-10T11:04:06.537433"
+    },
+    "https://news.futunn.com/hk/notice/306469166/ubtech-robotics-announcementbook-closure-period-forextraordinary-general-meetingandfurther-delay-in": {
+      "headline": "優必選：公告臨時股東會之暫停股份過戶登記期間及進一步延遲寄發通函",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:26:36.197621",
+      "last_seen": "2026-02-12T12:26:36.197636"
+    }
+  }
+}

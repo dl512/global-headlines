@@ -1,0 +1,30 @@
+## Most Important Stories
+
+- **US President Donald Trump Reaches Greenland Deal 'Framework' with NATO**: President Donald Trump announced a framework deal with NATO on Greenland, involving mineral rights and missile defense, and suspended planned tariffs on Europe, easing transatlantic tensions.
+- **Europe Suspends US Trade Deal Amid Greenland Dispute**: European lawmakers suspended approval of a US-EU trade deal in response to President Trump's Greenland annexation efforts and tariff threats.
+- **Greenlanders and Danish Officials Alarmed by US Takeover Threats**: Greenland's leaders expressed distress over President Trump's threats of acquisition and military action, citing national security and sovereignty concerns.
+- **President Donald Trump Calls for Immediate Greenland Negotiations, Rules Out Force**: Trump urged immediate talks with Denmark on acquiring Greenland, explicitly ruling out military force.
+- **Danish Pension Fund Sells US Treasurys Over Greenland Tensions**: Danish fund AkademikerPension is selling $100 million in US Treasurys, citing poor US finances and diplomatic strains over Greenland.
+- **Greenland's Freshwater Reserves Viewed as Strategic Asset**: Greenland's vast freshwater resources are seen as key geopolitical assets amid rising global water scarcity.
+- **President Donald Trump Criticizes Europe and NATO at Davos**: Trump delivered a combative Davos speech, criticizing European allies and emphasizing Greenland's strategic importance.
+- **Trump Signs Order Restricting Wall Street from Buying Single-Family Homes**: President Trump signed an executive order limiting institutional investors' purchases of single-family homes to address housing affordability.
+- **US to Transfer Islamic State Prisoners from Syria to Iraq**: The US plans to move ISIS detainees from Syria to Iraq to improve containment.
+- **Syria's Military Seizes Kurdish-Held Territory**: Syrian forces have taken control of large areas previously held by Kurdish groups, shifting regional dynamics.
+- **Kurdish Forces in Iran See Victory Nearing Against Regime**: Iranian Kurdish groups report progress in their decades-long struggle against the Iranian government.
+- **Israel Demolishes UN Agency Headquarters in East Jerusalem**: Israel began demolishing the UNRWA headquarters after a ban, escalating tensions over the site.
+- **Seven More Countries Join Trump's Board of Peace for Gaza Ceasefire**: Saudi Arabia, Turkey, and Egypt joined Trump's Board of Peace for Gaza, though its legitimacy is debated.
+- **National Security Trial for Hong Kong Tiananmen Activists Begins**: Three Hong Kong activists face trial under the national security law for organizing Tiananmen vigils, raising concerns over freedom of expression.
+- **Britain Approves 'Mega' Chinese Embassy Despite Security Fears**: The UK approved a large Chinese embassy in London, sparking national security concerns.
+- **France Rejects Trump’s Drug Price Claims Amid Trade Tensions**: France dismissed Trump’s claim of raising drug prices, highlighting ongoing US-France trade disputes.
+- **Deadly Landslide Hits New Zealand Campsite**: Several people, including a child, are missing after a landslide in Mount Maunganui, New Zealand, amid record rainfall.
+- **Australia's Opposition Coalition Splits Over Hate Speech Laws**: The Australian Liberal-National coalition split over hate speech reforms after the Bondi Beach attack, signaling political instability.
+- **Sydney Preserves Flowers After Deadly Bondi Attack**: Sydney is cataloguing thousands of memorial flowers after the Bondi Beach attack to create a permanent tribute.
+- **Filipino Journalist Frenchie Mae Cumpio Jailed for Terrorism Financing**: Frenchie Mae Cumpio was sentenced to 12 years for alleged terrorism financing, drawing press freedom concerns.
+- **South Korea’s Former Prime Minister Jailed for Martial Law Case**: Han Yoon was sentenced to 23 years in prison for his role in a martial law case.
+- **Spain Train Crash Prompts Prime Minister’s Inquiry**: Spain’s prime minister vowed to uncover the truth after a deadly train derailment.
+- **Body of Canadian Woman Found Surrounded by Dingoes in Australia**: A 19-year-old Canadian woman was found dead on K’Gari (Fraser Island), raising dingo safety concerns.
+- **Indian Couple Wins Settlement Over 'Food Racism' at US University**: An Indian couple received $200,000 after alleging racial discrimination over traditional food at a US university.
+- **Anthropic CEO Warns of Dystopian Future if AI Isn’t Contained**: The CEO of Anthropic cautioned that unregulated AI could lead to a dystopian world.
+- **Oldest Cave Painting Discovered in Indonesia**: A 67,800-year-old red hand stencil in Sulawesi may rewrite the timeline of human creativity.
+- **Taylor Swift Joins Songwriters Hall of Fame**: Taylor Swift made history with her induction, recognizing her musical contributions.
+- **Prince Harry Sues Daily Mail Over Privacy Violations**: Prince Harry is taking legal action against the Daily Mail for alleged unlawful information gathering.

@@ -1,0 +1,189 @@
+{
+  "website": "https://news.skhynix.com/",
+  "links": [
+    "https://news.skhynix.com/sk-hynix-announces-fy25-financial-results",
+    "https://news.skhynix.com/sk-hynix-launches-ai-company-focusing-on-ai-solutions",
+    "https://news.skhynix.com/sk-hynix-to-establish-ai-solutions-arm-in-us",
+    "https://news.skhynix.com/sk-hynix-lpddr5x-earns-top-automotive-memory-safety-rating",
+    "https://news.skhynix.com/sk-hynix-presents-ai-driven-rd-innovation-vision-at-semicon-korea-2026",
+    "https://news.skhynix.com/sk-hynix-posts-record-annual-financial-results-in-2025",
+    "https://news.skhynix.com/sk-hynix-showcases-next-generation-ai-memory-innovations-at-ces-2026",
+    "https://news.skhynix.com/sk-hynix-redefines-its-vision-at-sk-ai-summit-2025-from-ai-memory-provider-to-creator",
+    "https://news.skhynix.com/sk-hynix-and-gauss-labs-present-ai-based-semiconductor-virtual-metrology-research-at-spie-al-2026",
+    "https://news.skhynix.com/global-big-tech-ai-partnership-broadcom",
+    "https://news.skhynix.com/from-chips-to-cloud-sk-and-microsoft-expand-ai-partnership",
+    "https://news.skhynix.com/global-big-tech-ai-partnership-meta",
+    "https://news.skhynix.com/sk-hynix-first-to-complete-intel-data-center-certificationfor-32gb-die-based-256gb-server-ddr5-rdimm",
+    "https://news.skhynix.com/sk-hynix-and-sandisk-begin-global-standardization-ofnext-generation-memory-hbf",
+    "https://news.skhynix.com/new-facility-investment-for-yongin-semiconductor-cluster",
+    "https://news.skhynix.com/sk-hynix-unveils-talent-hy-way-an-innovation-in-the-recruitment-paradigm",
+    "https://news.skhynix.com/sk-hynix-honored-for-superior-safety-measures-for-biz-partners-for-3rd-consecutive-year",
+    "https://news.skhynix.com/sk-hynix-launches-ai-for-impact-training-program-with-microsoft",
+    "https://news.skhynix.com/sk-hynix-and-sandisk-begin-global-standardization-of-next-generation-memory-hbf",
+    "https://news.skhynix.com/sk-hynix-showcases-hbm4-next-gen-ai-memory-at-computex-taipei-2025",
+    "https://news.skhynix.com/sk-hynix-and-nvidia-ceo-meet-to-strengthen-partnership",
+    "https://news.skhynix.com/mwc-2026",
+    "https://news.skhynix.com/global-big-tech-ai-partnership-ms",
+    "https://news.skhynix.com/sk-hynix-unveils-talent-hy-way-an-innovation-in-the-recruitment-paradigm-paving-the-way-to-the-future-beyond-borders-and-regions",
+    "https://news.skhynix.com/the-age-of-semiconductors-could-memory-chips-make-relationships-with-humanoids-a-reality",
+    "https://news.skhynix.com/sk-hynix-develops-1c-lpddr6-6th-gen-10nm-dram"
+  ],
+  "metadata": {
+    "https://news.skhynix.com/sk-hynix-announces-fy25-financial-results": {
+      "headline": "SK hynix Posts Record Annual Financial Results in 2025",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:06.178019",
+      "last_seen": "2026-02-09T21:51:06.178028"
+    },
+    "https://news.skhynix.com/sk-hynix-launches-ai-company-focusing-on-ai-solutions": {
+      "headline": "SK hynix to Launch U.S. AI Company to Propel Industry Growth",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:14:46.310038",
+      "last_seen": "2026-02-10T11:14:46.310054"
+    },
+    "https://news.skhynix.com/sk-hynix-to-establish-ai-solutions-arm-in-us": {
+      "headline": "SK hynix to Establish AI Solutions Arm in U.S.",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:07.858817",
+      "last_seen": "2026-02-11T11:55:07.858832"
+    },
+    "https://news.skhynix.com/sk-hynix-lpddr5x-earns-top-automotive-memory-safety-rating": {
+      "headline": "SK hynix’s LPDDR5X Earns Top Automotive Memory Safety Rating",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:26:03.815096",
+      "last_seen": "2026-02-11T13:26:03.815105"
+    },
+    "https://news.skhynix.com/sk-hynix-presents-ai-driven-rd-innovation-vision-at-semicon-korea-2026": {
+      "headline": "SEMICON Korea 2026: SK hynix Presents AI-Driven R&D Vision",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:44:51.097843",
+      "last_seen": "2026-02-12T12:44:51.097856"
+    },
+    "https://news.skhynix.com/sk-hynix-posts-record-annual-financial-results-in-2025": {
+      "headline": "SK hynix Announces FY25 Financial Results",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:45:01.492860",
+      "last_seen": "2026-02-12T12:45:01.492876"
+    },
+    "https://news.skhynix.com/sk-hynix-showcases-next-generation-ai-memory-innovations-at-ces-2026": {
+      "headline": "SK hynix Showcases Next-Generation AI Memory Innovations at CES 2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:12:59.886598",
+      "last_seen": "2026-02-13T13:12:59.886608"
+    },
+    "https://news.skhynix.com/sk-hynix-redefines-its-vision-at-sk-ai-summit-2025-from-ai-memory-provider-to-creator": {
+      "headline": "SK Group Chairman Chey Tae-won and NVIDIA CEO Jensen Huang met on Feb. 5 to discuss expanding their partnership in the AI memory and infrastructure landscape.",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:28:38.346609",
+      "last_seen": "2026-02-16T11:28:38.346626"
+    },
+    "https://news.skhynix.com/sk-hynix-and-gauss-labs-present-ai-based-semiconductor-virtual-metrology-research-at-spie-al-2026": {
+      "headline": "SPIE AL 26: SK hynix & Gauss Labs to Present on AI Metrology",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:05:19.259405",
+      "last_seen": "2026-02-20T12:05:19.259431"
+    },
+    "https://news.skhynix.com/global-big-tech-ai-partnership-broadcom": {
+      "headline": "SK Group and Broadcom: Designing the Future of AI Chips",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:05:28.951266",
+      "last_seen": "2026-02-20T12:05:28.951281"
+    },
+    "https://news.skhynix.com/from-chips-to-cloud-sk-and-microsoft-expand-ai-partnership": {
+      "headline": "From Chips to Cloud: SK and Microsoft Expand AI Partnership",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:00:19.064990",
+      "last_seen": "2026-02-23T13:00:19.065006"
+    },
+    "https://news.skhynix.com/global-big-tech-ai-partnership-meta": {
+      "headline": "Chey and Zuckerberg Discuss HBM Supply, AI Glasses",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:21:16.453254",
+      "last_seen": "2026-02-24T11:21:16.453271"
+    },
+    "https://news.skhynix.com/sk-hynix-first-to-complete-intel-data-center-certificationfor-32gb-die-based-256gb-server-ddr5-rdimm": {
+      "headline": "SK hynix First to Complete Intel Data Center Certification for 32Gb Die-based 256GB Server DDR5 RDIMM",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:15:18.009521",
+      "last_seen": "2026-02-25T13:15:18.009539"
+    },
+    "https://news.skhynix.com/sk-hynix-and-sandisk-begin-global-standardization-ofnext-generation-memory-hbf": {
+      "headline": "SK hynix and Sandisk Begin Global Standardization of 'HBF'",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:21:24.630953",
+      "last_seen": "2026-02-26T11:21:24.630967"
+    },
+    "https://news.skhynix.com/new-facility-investment-for-yongin-semiconductor-cluster": {
+      "headline": "New Facility Investment for Yongin Semiconductor Cluster",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:21:30.910534",
+      "last_seen": "2026-02-26T11:21:30.910549"
+    },
+    "https://news.skhynix.com/sk-hynix-unveils-talent-hy-way-an-innovation-in-the-recruitment-paradigm": {
+      "headline": "SK hynix Unveils ‘Talent hy-way,’ an Innovation in Recruitment Paradigm",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:21:44.620529",
+      "last_seen": "2026-02-26T11:21:44.620554"
+    },
+    "https://news.skhynix.com/sk-hynix-honored-for-superior-safety-measures-for-biz-partners-for-3rd-consecutive-year": {
+      "headline": "SK hynix Honored for Superior Safety Measures for Partners",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:32:57.867304",
+      "last_seen": "2026-02-27T12:32:57.867319"
+    },
+    "https://news.skhynix.com/sk-hynix-launches-ai-for-impact-training-program-with-microsoft": {
+      "headline": "SK hynix, Microsoft Launch Korea’s Top AI Training Program",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:33:13.858121",
+      "last_seen": "2026-02-27T12:33:13.858174"
+    },
+    "https://news.skhynix.com/sk-hynix-and-sandisk-begin-global-standardization-of-next-generation-memory-hbf": {
+      "headline": "HBF Next-Generation Memory Standardization Begins",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:27:51.199470",
+      "last_seen": "2026-03-02T10:27:51.199485"
+    },
+    "https://news.skhynix.com/sk-hynix-showcases-hbm4-next-gen-ai-memory-at-computex-taipei-2025": {
+      "headline": "HMB4 & AI Memory Star at COMPUTEX TAIPEI 2025",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:16:29.936100",
+      "last_seen": "2026-03-03T14:16:29.936115"
+    },
+    "https://news.skhynix.com/sk-hynix-and-nvidia-ceo-meet-to-strengthen-partnership": {
+      "headline": "SK’s Chey Meets NVIDIA’s Huang to Strengthen Partnership",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:05.806284",
+      "last_seen": "2026-03-04T14:03:05.806300"
+    },
+    "https://news.skhynix.com/mwc-2026": {
+      "headline": "SK hynix Unveils Latest AI Memory Solutions at MWC 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:05:16.861453",
+      "last_seen": "2026-03-05T12:05:16.861468"
+    },
+    "https://news.skhynix.com/global-big-tech-ai-partnership-ms": {
+      "headline": "“From Chips to Cloud, SK and MS Connect the Dots”… Chairman Chey Tae-won Expands AI Partnership in Seattle",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:05:37.399313",
+      "last_seen": "2026-03-05T12:05:37.399328"
+    },
+    "https://news.skhynix.com/sk-hynix-unveils-talent-hy-way-an-innovation-in-the-recruitment-paradigm-paving-the-way-to-the-future-beyond-borders-and-regions": {
+      "headline": "SK hynix Unveils ‘Talent hy-way,’ an Innovation in the Recruitment Paradigm: ‘Paving the Way to the Future, Beyond Borders and Regions’",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:03:32.232206",
+      "last_seen": "2026-03-06T12:03:32.232223"
+    },
+    "https://news.skhynix.com/the-age-of-semiconductors-could-memory-chips-make-relationships-with-humanoids-a-reality": {
+      "headline": "[The Age of Semiconductors] Could Memory Chips Make Relationships With Humanoids a Reality?",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:02:48.293683",
+      "last_seen": "2026-03-09T13:02:48.293698"
+    },
+    "https://news.skhynix.com/sk-hynix-develops-1c-lpddr6-6th-gen-10nm-dram": {
+      "headline": "SK hynix Develops 1c LPDDR6, 6th-Gen 10nm DRAM",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:56:41.971235",
+      "last_seen": "2026-03-10T10:56:41.971251"
+    }
+  }
+}

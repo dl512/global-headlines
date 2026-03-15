@@ -1,0 +1,49 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00981-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306425724/smic-monthly-return-of-equity-issuer-on-movements-in-securities",
+    "https://news.futunn.com/hk/notice/306368485/smic-form-of-proxy-for-use-at-the-extraordinary-general",
+    "https://news.futunn.com/hk/notice/306479962/smic-poll-results-of-the-extraordinary-general-meetingheld-on-12",
+    "https://news.futunn.com/hk/notice/306479771/smic-overseas-regulatory-announcement-legal-opinion-on-the-first-extraordinary",
+    "https://news.futunn.com/hk/notice/306587577/smic-next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306587535/smic-monthly-return-of-equity-issuer-on-movements-in-securities"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306425724/smic-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "中芯國際：截至2026年1月31日之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:47:02.532288",
+      "last_seen": "2026-02-09T21:47:02.532296"
+    },
+    "https://news.futunn.com/hk/notice/306368485/smic-form-of-proxy-for-use-at-the-extraordinary-general": {
+      "headline": "中芯國際：於2026年2月12日舉行之臨時股東大會適用之代表委任表格",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:10:30.426341",
+      "last_seen": "2026-02-10T11:10:30.426357"
+    },
+    "https://news.futunn.com/hk/notice/306479962/smic-poll-results-of-the-extraordinary-general-meetingheld-on-12": {
+      "headline": "中芯國際：於2026年2月12日舉行之臨時股東大會投票表決結果",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:03:32.517316",
+      "last_seen": "2026-02-13T13:03:32.517328"
+    },
+    "https://news.futunn.com/hk/notice/306479771/smic-overseas-regulatory-announcement-legal-opinion-on-the-first-extraordinary": {
+      "headline": "中芯國際：海外監管公告-《上海市錦天城律師事務所關於2026年第一次臨時股東大會的法律意見書》",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:03:33.637468",
+      "last_seen": "2026-02-13T13:03:33.637482"
+    },
+    "https://news.futunn.com/hk/notice/306587577/smic-next-day-disclosure-return": {
+      "headline": "中芯國際：翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:55:43.135783",
+      "last_seen": "2026-03-04T13:55:43.135798"
+    },
+    "https://news.futunn.com/hk/notice/306587535/smic-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "中芯國際：截至2026年2月28日之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:55:43.762476",
+      "last_seen": "2026-03-04T13:55:43.762489"
+    }
+  }
+}

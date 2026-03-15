@@ -1,0 +1,35 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09660-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306434537/horizonrobot-w-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306312139/horizonrobot-w-grant-of-awardspursuant-to-the-post-ipo-share",
+    "https://news.futunn.com/hk/notice/306608004/horizonrobot-w-monthly-return-of-equity-issuer-on-movements-in",
+    "https://news.futunn.com/hk/notice/306606583/horizonrobot-w-date-of-board-meeting"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306434537/horizonrobot-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "地平線機器人-W：截至2026年1月31日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:32:57.838093",
+      "last_seen": "2026-02-09T21:32:57.838101"
+    },
+    "https://news.futunn.com/hk/notice/306312139/horizonrobot-w-grant-of-awardspursuant-to-the-post-ipo-share": {
+      "headline": "地平線機器人-W：根據首次公開發售後股份激勵計劃授出獎勵",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:58:32.805394",
+      "last_seen": "2026-02-10T10:58:32.805406"
+    },
+    "https://news.futunn.com/hk/notice/306608004/horizonrobot-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "地平線機器人-W：截至2026年2月28日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:41:39.570356",
+      "last_seen": "2026-03-06T11:41:39.570371"
+    },
+    "https://news.futunn.com/hk/notice/306606583/horizonrobot-w-date-of-board-meeting": {
+      "headline": "地平線機器人-W：董事會會議會開日期",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:41:41.527663",
+      "last_seen": "2026-03-06T11:41:41.527673"
+    }
+  }
+}

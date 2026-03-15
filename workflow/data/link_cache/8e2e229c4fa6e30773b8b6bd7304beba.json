@@ -1,0 +1,637 @@
+{
+  "website": "https://news.google.com/rss/search?q=OpenAI+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnzxnackvhalppodhqoxnzvfppt0p6vkyzsxlvcvfybldrrtjnquf1d3v6m1m5zw9sov9aedcyd1fivepcb3znvjzzufrxbehwc0pjelbrou43cktjui13sk1vnllqstjpcnpfd01iseixmwxjywc2ewpczepgevfcakszz0xlehfjten4ogtuajjnnfrrlwtbx0znte91z0dkb3axdmvia9ibrafbvv95cuxorjfumklbq0rkdmdwtxhtnhbxnvd0envtaulawxrodvd5eg1uvejpovrfr0fyajy5vg1hv2nnuf90ngxoshm4zjbzsme2z2joztbkekdsqnd4qxfrx1o1vhjkakllbk9st0vunvzfa2vvdxe3au1eqvp1vwv3n1nawl9fbnzzbc1wrvjkmvf4zevxckl0njbqawlvq1qtrfqtov90ujg4um1on3bu?oc=5",
+    "https://news.google.com/rss/articles/cbmieefvx3lxte9vnzm3lwtzrzrpbkszzudeyvbrdhlvd1nds1bzuji5evrfnmjevzhvtmzenljotmhosmpnz0tlmzvozxhuvju4ukhmq2dqumfhc2dxyzljqnzlmnzjszlhawzltlrfn1bla2zwdurtvuzgeuluvjizzg?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxpotrqekr5wfvpltlzskflsk5od0k0wtfonk1kvnrqzurqufnjzi1uzkdlctfnvjqtnlphcxbjehc1axbrtedudeiyegsydkplvfdmvxdcmhrxwg9qofrpnej3ovf3v1pybhvwugs5aurvnnlisxbnous0yumytfb3aknmegtmqmtrdhl4bkp3tetkadluoxnydevrvq?oc=5",
+    "https://news.google.com/rss/articles/cbmihwnbvv95cuxpvxdjbehydjhqejz3ctbncktbzjv2s2pftnf2t01qqzzwn0gyrnzmwultrwhxb1jruy03mud2cjjpquyxr3lfefnkt20ty3dkede0rnzrsfzvrnfxzxfdzu54y3hkrk10eepvze0trjjfzenntwg2dnztwe5vddjsbvl6efjpbgfevgi4ql9fdfb5swhiaew5wfewm2zuaedozhlfwudkmw5yoe1zvnztnmvluddsu2j3efzjc0fuamp0s3fotu15r1k4rmhvqxp5bla5b3jrwnrbeeqtrerzunrosgg5zvlpdej2ahh0wm9zs1npetrtwwdzqm9dnxlragtzvfjldfflshnrakrltfpuwnv1sxfzzmxuvdvpnhbfotzwohd6ufbxuzkty0rwsdfurgtmtwiwqkpdtg1hsu40x0ftm3ryvvlpdlbzem85skq5bem4mjdiqlppohhfmjvgs191ru83ekdvtl9jsdrfrfnimuhlqkthvupgm3i5rxriugvr?oc=5",
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbvcgdysevwquhtrvrtcg9wm1fzem81wufqz3nxdllqx21ny0o5luhsnexouxrtaxdrrnbzq0uzylfgrktedkzkmxlgzlrntudrt3bhetvolxo5z3dpzknualfjnvruwlzdmu9tbks2unytd19jefpfykdhtq?oc=5",
+    "https://news.google.com/rss/articles/cbmixefvx3lxte4zulnhzkvjeklpmviwr0v4dwu2sex5z1b3vklwctrmofdwwkzrrjnhc1ppng1tu1lwcm1wrk10mni1xy1mm01tvxn4sdvtqlrybwj1mufjdxrjzhk2?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxolxbuskpkzgfdww5ky214tln0y29vx2g5q1noelczovnqv0y0vdnjtwi2bzcxuu9rwknjykz4u0f3r3lhbvb2mmvmdtnfqle3nxo2rtywnfhmnkt2cjfhrfpvy205mwytm19szgxboxnsq3bhntm5rw93evbrs3o3s1bosdrnae5tru5f?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpeepjrhlbc0mtam9ra1hhb1flwk5kqwtabhzewem1ampsyjfpstlhv1vfc2pin3r5m3itby16dthxvflrn2juajc4z2xiovpmuwh4njb3ywryzxzcbuphzhpszmg2bv9waktvoc1wumdpcvjhmk1luy1usgzjvhlsrtibhgfbvv95cuxqbkxsvvpin3dymxpomxvlq0lasen5qxy1etk4thl3bgtvu1jbm05mmzbzmlbxcm52uvbqcxm5uurnqutqrtnrnghjbmdgrnhesjg5ewfksdgzwez4t1zirerwrmdov2cwttlimdzltl9zsxhges1yx1bucnz1dfu3skhmaevluq?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnz0doyxjlb194n1lxmmvimgldbgszmxfwcjvxagvpum1vd1jzltkzsfr5wl9nquvjm01nngdlwxjlanvys0czaxhxazytrddpbddrsmf3z0pazmhhwfu4d1hywhrjbmhdt1fgrfnzbgi0nwxvulpjve4yyu5bzkpqlwjhcvaxajrprwz3?oc=5",
+    "https://news.google.com/rss/articles/cbmisgnbvv95cuxpuf9yotbztlq2wfndqmi0oxb2b0rrq1fiafq0ctdmnxrfotlnz01mb0zvm0dfagdmrddroxy1rxnprexicu1jemdfd2x3rknuahrnse5jd1bkafvpzkl2u0dsn00zb2tnylroajhuq0xuamhjnwzummf5c2rqzwfsoxliu2ptcvzumlvsbee5cjvstljqdmi3behgu0dgefq5x0q1wwjmvmrqylnrrurhem5hmgdny3pzv1bwzzmxq3lotdfpn1fkbjnuuuy0dlhky3nax2jym1l1dwzbqwqwsllndkzudmt6dgoxr2zoallplw5wqm1wqjvjz3dpetbteenvwjnzmnhkwkozuxhzwtrkz1jrcgvysknotum2thflrtrwwutzcgfrrmkyytjzselwn05hyxg5enzpavrgvs14rdlsc0i2z2t0djg0am5bnfniwjv3sk9vnehcnwvxzgnsdmxrcgllmdv3rjjtoejzbedquzbss0dkqzlxudaymmjpt0xtcs1ueejjdezhswxmvdqtu2r6egnjwhbyq2trbdfvc0tpcvrhvzrhruvtdw?oc=5",
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1kueduywrkmmzswuszavbpmhrfrhpsd3fgczy5tnfyvuvaafcwazh2ckfmsnnnbvf3su51ym9vmvf4sg9ktvbwym40ahowdktcd2lycldhm19uewrsbghdludzamrbwjngawrvuwfb?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpsfbht1njvdbycktmsvl2q2l5rvhkczvvehfpbk14vmpyovjfzxznajhiqlrywmdrze9satvjrkr4su9poglluhhnr3dcoghjaxdnskp3vghnr0ngeuz6dtjyqwzudvpfvnplwezmzf9tcwzzotg2mkluexflaghommfpyzjsswpesuf6nxdcodhavtf5bhniuhjxyxi3dlj6tfljemw3vw5mqwlddln6yvzzew1kb25sndy5m0rutja3zhdf?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxpzzrqmnzfrldzyng0r0pnzwxkzuxjntq1zmrjwgi2ynqzvdjmtnhwd0t1y3fwwxhpajizs1dgnuxbuvpbv2tpcgzloxrsa29odmj0t0vwmxndbwrkddfenu1wwg12q1ducericxdjwtg3rjzxwtr3y256sjnfnws1zmw3nm9yrgm?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxpewrxdu5qtzvis25iwurhmwvtytrhd0zez01nsdbfce5rcxzhwfjmetq5u3vxdzjlzth2s3rbmdjnchnibwetlxrfdfu0ynbkwflaoxpvnmfioxv2aty0tufaug13eutacf9smwlcrndvv29tmxezy1j4c21xeem5mgtfelg2v01tagl0vnhzcwfgt1dbatrsczfbmhyyzm1mmnc?oc=5",
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxpvkjkske3tldtn2z2elnnb19yb2junevmm3fnofq1dedmdxy3zwiwqjhqnde5wjrvvjhtylvzmjawdw1yt1b2eenflvfurznybku0munhq1doatnkc1voserlegowuwxlcfnoaufltgvbqk90vxf3n0yzz2hkwmpyznnywhg3ctzisdnvynpxvk5ouxi1vnr2oe9rq1gwq29dcfjvyzrnmdhbcfnt?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxptvbuoupjykztsfpvse0yqmlornbyr2iybhdsvkh3szf0bkq0tzlawvoznnn3u3riqvzendlfnel3auk5d2hvmm9ieupvm2tplwlsof90mklxzktwrgtzwdfjclb2yudnwhf6rdktrxg5sdjhew1krlpctw56m0fzyxo3ng5grmzlrgxju2jnbzzwa2laqvq5q1hzsl9ysennvevnouprlvy?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1vqny3cehkmghgbmtuqvvgb1lqsxn5rldlogdbqm00ava4dnb5qnnvvxv4twf1uewysenoulnhnm9xuepldee1ztzsnkl3dgrhaw1zmu1ja2ewm1nasgd5a0utbll2rs16cdvoenjmtwixsnhw?oc=5",
+    "https://news.google.com/rss/articles/cbmiwefvx3lxte9rvznouthnykhftxvtugvot3llxznfsfv5y0izlwr6yvheaghleellq3lxbdvcynlxsdmwyzbnlxbpwxzovw1dmmpcq085uuffywkzog83ndc?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqvlnmadjpzdvlrno0awu5s2dhrgtazk1byxfhzzrqrnlhzi1bzlnyy256vektb1bfwdzvz05kyk5ydmfntgrox2tuz0j1luzwrejusditdml2znhhrhltwkdtotdkcxb6unpsy3pxowzyqnfpsxrvqkpdzld4b3pmb1zwaesxeglebuv3q0wtww9vtnnzt1nhqwvmwnp3yu5rvwf4cdjuu3jomflkz1jjdwd3szd0zth3vk1adfryyzhlovzsc3dwexj3?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5vvvnrul9htjbzotrgmjzwy2thwgjmt3p2sujocfliwxhlq005ouznnnrqdjy4udrwugzyehbvmtq0ykxzafpkmlbielvrset4n0vwvg5hmwdqofpbegjytfjknhfiwfduajf2uc1nmvk0wtc2ddfnejfqv3a?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte1hsjzxmuhrvtvsrc1iohlfohleele4y1romxrutmzmvepxr1jwenzotdqyyzndyu9zshdxvxdzvk1fc1btund1ev9lcw12udb6ufdsbgxodmzmd2u5xzlou0l5y1p0nupnngtox040nzq0dk1lc0e?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxos1jwndm3elpgzujxbna3bs04v0fichdfv0hynll1qtg4cmoxwelkvutrykcwznewyzhzowpqde9ru1zrq1aylutoekrxbfoxtmftbs1zrzataxlabzb0exn1tlpnqktivv8woutuu1blewlwzl9bnjvtdkqzdeviswpnze5dq194t2rfmwhmqupdvvbju0zqwunrz05qblnxbljoqlgtqljzstj6ty1rq1jfdxpkmurlczb4dnvyvq?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnwjg5ywjsn25qwk5kr2n1egvjqmhdttfjbhnuyzr1wfnlwghyn2jybvdqrnfhulndmk5lbgdqwgxoajzyvkdqbfyxns11a1p3q1jzb1rpvklhew5sskp6uxrwzghwm2titvpiagnhc0i3r1booew5vzl3ofzaodhvedr1uw1jy1fqmu5fodlkwxhvrtbkzg1aovhrwld1uhfkevpuwufkwnvxunnzthnqc3rmymy?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxonxptvc1sn3hfv09qngn0mfnfb2jsnditelrksxnnvi1bbdmyujzcsefyslriadfynwtfwffrbtr5ymlgmzniuzbjny1obti5b2zsv3hvzwk1rjy2al83dgexvtfpu0x0blb6sjjvs3nvter3vvditmfwruzmmzhrca?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqm083d0nyt1diz0gwv3axsuncqxvuugrsndrgotbmvlpsnl8tbgjra1vowtl4sl80sghysjrmu3aybjjrq01ywm9xaff1rtfydhvkzkdmoupyb2nir0rkrdbmrtbzyvphbgc3ewp2yldsedfja05ksxleegpqnfbrdvjoa1nauec1nwv5c1bzznm3b1pwnddhqu5n?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxodmvgevj5cm1dn0zxx09iyjd2cdnbtelqam92sthunxdzcljkuwd3eemxewqyvkqznkviqkxfwmzimtlfee1xd00xnu9nrzllb2jqtdlod0fst0vgn2xfovn1z291dtdfmtfumgjqy2q2zw44ulppv0fqb05hcfdjczitekvzmnmzc2lasuvkaty0emxkwwu3oullakrwrdtsaaqbqvvfexfmtwx3ddnpyxdgwnvxsedlev9stfnmrenzc0nntghzzuvtugr4dev6zwtnzuy3njnieufgrjqxunzid0zwregxq1fnujdbs0pbaw1zsnvkszdmyzlhvfdfbxdkz3bpd1rzlxzbeesyx1j2afdvr19kqznwoehra3homjr3yk5qsw9bam1qsvzlodzxofbotzy1yl9yeerudzjpvev5zmu?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnmzr6um1vltdqeji5zwvczdnwqtvicew3zxdzd0jtdlbhy1pszkcwqwdobee2m3qyrwr2ulnvdem0atjtadhgatjfuxrhc1r3qy1icu9fx01lnnkxd1houwfoy3ezegjmn2rqmw1ymhl5ohj3u1kyny1km1vktjdldla5wmntnhritle?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpzmxkvi03vmk4dmptr0m1q1zorg9inhl4djbfrdq3ee5ud0lbludxdnbks1nbtjriyv9ccxprzvcxv3ixa01kx2xnckhbzvnhtfnjec1ws2lclwfvmuy2n2j0ahnaltfonxlfwjhnu3zvegr3muzyafjnzedkvuj0r0nntkhrr0xzzlg1rvpqbvbhbxvnylrmy0jhml9fs1dvvhbea2nysuhsdw?oc=5",
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxoa1ndztrkuepuytbknmq1umtjv2nkvwntvhm3bv9nzgfizhhdruvsuewyy3bquxy3al95blhpxzj3dzb4t0nxvnbtuznmutbkvgg0u2h2mhhawnzzdwdgv1lxyldka2e4v19tykprdgy4uxlwczq5sjhgss1oavfvs1hasfeyni1mcuzhvkxetzzkm3ddnxlarv9yz2notg5dcm5iv2jonnzuagc?oc=5",
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte45ve9hn19hreuwwwq4rdy5sjdpuxl3shyzulm4uunvnvhumjd0s1cxsunan1zqyvzmdznstxzqyzdkrdh3vy1qb0g4dnkxyufhndq0ss1hyvjlsmm2yzi5z2jn?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqsujstuf1v2fzsvfob2qzyzjpyljnx1npsi1ttfdkujrwd003nwjfa3nkudfzzupycg14vmrcnzlorvvzrnh4bmr2x0pjnfjxcllhtlvmvenkwtg3oe4xznj0stzjve5retu0slzfzgxbcgjcd2xwc19wwhpnmkhlahvn?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxnc3dhtxn0wla0x01nthdrs3bpyzvnzvuxbmhouhhyc3hknfqzdm12vtdnc3vlqv9muwryse1nyvjpq2voehpzmfm4uvy0ctj1atlsuxvynwhudtfpehm5smdurtzjumm1v1nqa1hkejm3sdhqskrkr2zuzklvulg1tvlfofdbsmytzxaydvn1ynk5s0vnzkzdvupinmjeug51uezoyloxck5xlwvmvvbrtkm0ajlbd1pwefe3aevvwq?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1zsutrze5jefbnr3nitfrvt25nt3paahbvvtnonwpxcxrmcvnjyjvic09mz19prl9qlxrwc2hkn1bwa3znano0rg4wbnzrohhhr0pmdwhabvlfqvppsg15wjdvmk82stbmsfzicuhvavk?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpcnjhmnlztmfhnvlxzzlwnlvlvl9zmhrkdxdwzgiznwzgwwp3eml0zk5mudhhbep5wgpnngd5ouhfxzbxrwk0d1nszulpqxgzx1nmq29qefpbuhdkz2h4btbdd3bim0lqynlaszawtvdxykoycen5v2nzwtlkexz1melbuvewserwbtjtegkwa2pox25wnetlu0xna3lhrc02q3fbrkd0y9ibrafbvv95cuxoz2zwbjzewc1adnlcv21vmtjpdxr5q2njbu1td3juvtfwd21dvu0tqjrubkvcufhjrtdra0ztdunlwdy1dzdjz3b1r0j4ufhkc0k4vgx1vmdbcgloefpheu1izxdxmdldakvpvmcwegdmyxlkxzbhutf2a1llzmdhrw5dnc04r3jheungqkvlntvaq1jkqndqt1dpdddyc1p4szviuuhuqndvlwrn?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpzlu5m05mwdbhvjvqu0zfq2vtejr5nnztx2njbg1mnejiqkvrv0y4vulmuur4rwtuykk5tdbcadnazdeyrdfyeev5ymrunnv2ylpfbvgzq1h0txu1mnkyeer6uuvozktncza2mtzwchitss1ocupdvzjiekrmzedorkw4s3fvzw?oc=5",
+    "https://news.google.com/rss/articles/cbmivefvx3lxte9detdelvhwetfqbfdlmfiyck1en2y3vtjya0vlajfhnxnubk5ucwtfzc1zqndoslzdzwl3vkjurhd5d1fyr21vcgq1dexoq2p2bhnfyg?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxnaurhmehdwxd5dlj6qxliqkfoszk2a3nmue4xvfzzndgwyldsum9qu1hhnzbimgveqjjxvwxdsze1tudrlwjgbvr6uhnvnddtwgptawv6c0rhc0xzmur5d01iswlzbm95ndnyv1ham3zsodfvntzhuupxwtb0txbioff1cc14bml6ngfpu3biuy1kmfnkemjgchawcmfunf9mrve?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxonfd0n3bsvtn3ewrlcxazmunjvzrsuepud0fwsxz0vllqazfzcwjsm3rkredhqzhlsus5eknnws1sc3azdhpqqlvsawpetmjknenowvfvrjldzklnvhzis0j3ntzdwwppzdrhehpszdrabw5wzukyvknya0jurkfvmkdknflnzljkt0vhtzvtx20yt01kvwm3dwo1smfaemnzeniytlz1smw?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxorehyawv3tmv2thd5bxhcm05erxrzekpsrmlxcw5fdxhrtjqxrhfcq3jbohfbnvjevxrbujjfbdfvavhjzfjcctrknvnvz3jsegw0b3f3nw1rbtniv1nzbkzzvuxywjzfevzlv1bsylh2skjuvxhvmvh5tnhurnjnejetm2dvtkpkyl9fmddxvehqymzlslzhrnvtem94bl9nzdzrc1hinlrjv0zys1rsmq?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnefo5yxz6rmhrx0rhag1bddrwvwd0a00ym3p3vtg1s1iwbgj4zfnpuvvrnvj1tznodu1rtuxmtklwn0s4m1lscvflekxkstexunrdt0fxlvbrsmx2vkzns05ox1qtagdzquo2y3rlc2tsuvvnsezmaudyuvpeumjerm92ymjmwlzvtv9az2rnuw4?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxnz0pvuwf0nllqrtnbwvb6nnvkdu0xohfftllbexi0v1d3u2fkbtznue9yyta2mjvreetnsknyrnc2mfnjlthswjduzjztbllonzr4vlbtzmxlsdhfmkzsyurlue5qohlsx0yzwvvtd3daltbvu01yrtz0mvbkbf9ung?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte5hvuv3t2rydklrsjjicjjxskhzwg1tv1k5mfnqb1jznl8wmxnqwthiwkhprxjmyxrpazu0sxfgeev2mlyxajfxdjbnmln6ee1lowlplxzveeffvxdzttlkszk2sgt1sk9vvzfhrmdxshpfwvl5rvvsclrn?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxonfzbdtjzwdnimhz4tmhurudcwvjuujdnsk9gcexzc3jwmu5huenadhvfr1pamy1vv0tvcznlrll3r3zlzjjvajjln3zlenpunzgzsg42qmfremjuy0j6atb1vehwvho1axjxas1kcnlpsufzzxpndjrymi1pltbfwtdla2zfsgdqmvfscwj0wdvuwnfd?oc=5",
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte5uaffcn3jwus13yjlrcvjztm84bwgtcmdmzxvswxp4tzhrvle4dkdax3r5wnqyqmnoaerjvxpxndlnduc4awgtrwnjmlvkc19yb0d4shvxsi1ynermekncsthobjm2vgc?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxnangxserdunq5bfnzy2niz1rya2f3bwo5qnl3tdcwahrua1fbz19qbmfrzklkcdfswwk5y1y4re0wyvdvnfpquv9ybxbzthnrmejktgx4owpqrvlibuy4yujtqtdar0fpnzdwc01vvzhlwmnem1ztqvfsz2pmuu1tvtd3z2dcmlbqzkf6vllyb196lud4edd5bxbvejrlckn4rzjbwepldkjfuglux2vjvw?oc=5",
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxtfb2v01nuuplz1vtshntvhpjn0hkc2g1dvpywuhxrzrht3lkvg1jcdrczjjxa19zvfp4agrsbzznlw1vttbha1jhnwrpvkztwmfhrtuxvjhyn2f5uq?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte5xy2hrew0wcwnmnfe4ctr4exdyeeljtdjubm4wogvpddz6su5wa19dxzc5mvj2uhvoy3pkb09udgrxswd1yzztstnxse5ez05dwtfoug1mvmt1dy1snkf0adfttjcwdmn6axuwsgt1a2dhzmfpzwkwn3zn?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxougp0eeluallqlxdyeeotv1fhaup3x3zxc1lysguzdfjomm9pzkvtukdxountx20zthbothniweg0a1bpthboyk9crdznrfuyylh4azmwsgdsa1l1wupjvhuzt2v4blyxmwxgenhtq3znsexvdlhiq1zyelbltdbvx1bkms16ekdur0eyuzhb?oc=5",
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte5ncevplwe2eexhwgvntxjqvg9fxzbzvk5ttwtoc3fusda3wtnda19gu0y5as14y2npufrgyvlet1vrmlnzynczq2kwakflejljenvoek56rgtwtf9rv1vibgln?oc=5",
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte81quoyr2g4nxv2mdk0n0g3z3i4qnpzulo1zme3oelvzkhpmmroajvnwkxptxbxwmtwludwdjlod0l2y29pumjvwxrftkyzvfjvsvjrq21qznpfstfzoehzcc1qn2xcadbnn3dvwedfwjq1vg5kd3vvy0zxterpd9ibgwfbvv95cuxpwxrktnjta1nueuvxltflwl9zs3jzx29lszz3mnngtujvz2hkzzb5oelrtlfiaxbmnjflltdpwf9vefbflu9ymufyutfsrvjjx3zalu90wgfuvupirgzynxpnvdfnvw5iveq5vudyb1zpv3rfajvia1d3rgfwnwpkx3lpyw?oc=5",
+    "https://news.google.com/rss/articles/cbmizefvx3lxtfbruum3vfytbg5ed2l2wtqyx2xyzxq5u1vuu0tcwmp3v2w3tlzmd05kmxnlwvhvz3bxsxqtyvhpdunkexpquvr6v2z5rggttnzysfptazl6yurlbuzudwvnc2nntk8?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqx2dim2jabkoxv0zkvepbz0tbu2xblu9seuftsfzpde5kahpxek9in2jured0of81enbwsvrrbvdon0xqn2loazhcnhcyz003sgfywdhfrghtdvbxlwjqa19ntuddv010ntditefkzxaxbgrcc3a0a2r0ls1wytvydmstyvg4rxbsmnc?oc=5",
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte51n2hkdjdqz2hmnlbxrkm4zfvuvfhurudwa1jmc0rscu9br3jda0drmhpcmy1jtwpwc0cxdurcsuzumtfvs2n4yknnn2x3ak1tuetjqnl4m0pyu1zjqwn3?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpndexdnrqnngtzxpheeltvdmzvkxnvu5nqjbqyur5znvksxlrzldpm3h2zvr6efbtd2mxd3jfeetmsvnnvnjhtkxsvthftktjsfpwsgrtwgxfoflhx2ztnu5btfvrc2xvrwwynxotowq4x3q1ujnhohvlawnwclnaa0xddhozc21yamn0qlqzbexnazm4rfp6rxrywxrwavo0x1excjrywwi?oc=5",
+    "https://news.google.com/rss/articles/cbmidefvx3lxtfa3z2xzylb0sxrecndhdgtvbdn5r2h5quz0dxnmowvjcwnmwkjomtn6btbhq1lsr1piegnlnzutvgxerwtqc3hmsufyegvlqtg4edi0ejvxbfhkqtbyrjn2u3f3mmhwswtlm0k3cmlrmzjgqxjn?oc=5",
+    "https://news.google.com/rss/articles/cbmizanbvv95cuxpvjfgtggyb1c4zlh1dxpiu2nlnkjisfe2mdf4mwrxr2xry3vvz0nodl9mu3bncwpuqxpfq24wzg5ksjvwrw9hlxrkzxfrnkhkczjnwtnxvwpuv3huni03rfi5odh1ukrlv2zzsgi0szhyvwrcwvvdzefvb2nkaetzwufkmehzsvvxr1m3t3jwb0luq3rhyzhwefmtdke4aepkdm5rrjflsjdxzmvimdddejgytjn2albarll5ru4tuv9tm1czawzrqufxu2jivlmzdfbsm2q1yw90zlp3eufzvhlvcwjfynetbzrwew5pc25kewx0we5vnunqulfsc3pbdwtmvwlwbjvpuvvjdtjjcnm3uvljaeuyumfxek5wc25yz0o5vlr4v1fkweexx3jyuw42dgdmz01watj0serzs0pnrfvhenm3rtz0t2oxqs1rctfrruxlmlrzcwxyzlbsunruwuxxwndlrnjomnjls0stzmtpls00sl9ic25kt2jtmtfcz3headfqmkpcaerrukvjt01ys2ffu3jfofe2agmwylvucdi1yuxfszvry0e4ctrqm0dvr2etexdtofj3qxlhqjf5oxlocvni?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpa2tamgcwnlhkny1damllwdgzew9saenozw45rhjydzbhmjiwv1fwndvvbmsxuuzuc1dmzhh3bm15zwfzshnwanhca2pjc3burmdwb05rqmtbqmd3c0nxluhsshlusvbzovpvx1dzs09detdpz0xma01yz0xisfvlr1y5y2staefkz085tkdqtkzfthruqzl1mjdzvepgn1fk?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbtsxgtqnl0d3z1am54nudosvd6tfnlqzrzuddiqwjkxzrjtkpcbg12nlhpnmx1m3hbzfhqx3dhr0nmmw9fbtzoyng3sxlwujhacv81n3drndrmm3j1wejfodbmdku2vtfhvhhnngjilw1kbg8?oc=5",
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqzew5burkvv9venvtb3jhvwznb3e3dhrnvglzc29qy3fuznjelvzvdhnvqm9nswpadklvthdxtmdtsu1laljkdzjuc21nslrhsmr5zu1fmho2su01wmvuzkiwsuhqltrvt3rhrwtentzhvvg3vk1askvvwtbzexfwzdvb?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpvwj2qmvudefjn1dolvpbdxywseztyzbzsmjwuerobvrenwlyouhftknndhe5yjfby0fcd0mxzwp4nxa2ylhosgs2c2j6vhfsem9tt2p5z2hnefznt1ixlujwenzsmtjobmdhd3ezswjpzwtyovd0zxbzdwdkmfnrvnrsblq5mgdab2i3azrxyw?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpzwzosutmblj4uhvttnzeq1newmfprzfyb21memtkmgzun2zvttlcbuszy1jzake3rnvydm9zdxflzm1jemzxz2u0tmrtyw1ss3bnu1zjlwrmrmjilwxozfrkruhsnho4lwzuykrktmvpbzdfuezszfd1zjlfumvqukf2snngrvfzqjf4tjbzmja0vk5yaxbuym03uuzjnkfntwflrwptsq?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxpedvmntjxavbyx0jwefhjdkten1vrt2libmv4tu80tglkbvpuvgoyb2n6rgk2qnbsn1zgwgrmwe9stgm0ec1qwdblsxbqlxrwug56nxngzuv6zm5acgj2b1npvut2ewdiykdqwudpywp0zjctwm1dbnd4rm56vhrydmq4dffxuxh2vky5zfnunxrpwflsal84?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxou1fzthbydy1pchdgrvn1zej6m2hqmddrr1e3tdi2d3lrsmngm3nqchbyyy1oc2otz0n2szu3ogjmdnqxemhuotnszexvunhqzv9xdhdmutjmt3lkzm5wz19ru0vsrndqwfl2bhb3whgwa3brcez3zdatddjfn093tuftnhj5rmz6oc0yrez2cjbxuxyzanbfbuffu1jsaaibqvvfexfmuhdwcwvwovrlwedgehk1aff1svd1b0xyegjdvjbszejtbepowddfds0wz2juzm9mvnj1nkpvanrkx1dwbm1tavffzxg2njvkzhdtmthwbfvtnnrkzddhvvjhcvj2t01ttldra3hzck1myus4v05ievu4s1jfczntdjf4q2c1akfyb1lfyjutstjtnznibdniuup1cepqd29vzxb3?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxquzjhr0lma0pzrwvntzr3nhzqdvrqrlfoakxxnxjos2p1ag84rupouhz3qjbjclfuderhv3jizefowxjkmvpsdfbjv3fvukxyaf9ielfeafetmm51yjkxnljfywzhq3dmekxtm3pcn1rwcun2lurpbvuxei1ocw1lywnnben4c0y1euvpbkqwavnqu1znu3huug40wq?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqyxq5ak9ma2veoek4yjhwx0vxenrcu09hdi00stz6cjdcwdjknwvfzdrptefselzunuo0zwrhd29ssghzbuvxt2ltvuxoq0xqzktdr21ryuw5chdplxv0uwthbvr0d0vhtwq4eleztupkwklbqvddtnotczrqelrrskferzr4ck1wbfbny3ffc0ppq3gtemrknznmy3y5azfmtg9mazlwvhnmswxmce9oc2hqsnjsabobqvvfexfmtng5oeczlvbqq1jozdrxzffdzkvnszflt2pltw5vsnzkng53nmrsnmhrm09xnjzysxbvtgvolxnyx0herl9vamlxbvhwsuxxmenosdktawv5um9htg44wfhvsw9qve0yefzmlvn1ef9hakjgejbldtrmakfotdg5qznrlujpmw5jc29xrdlnbglgqmryyjras0swweo5rc0wbtvymmjqzlftmlrpa0p5wvdqrnhet19nsnf3?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxonjjiovncqk1snhvtwdrfbehfzzj2avzxwu4woej0cuxnbi1nsgh4wkm5v3z5rtyyrwrncfvasjk5zxvwmeyxbmpxt0v1r00wbjlurxjkmzztsnv3vxj5thzcbkfdqluzukx0z2dftvfnzwxgd0txs3joehbinglbegl6m2ttwddnlwdqsu9msmpyn05rac00cmrsy0rtvfyxuwziwv9zyla?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwnbvv95cuxpannyrmjpndfxzuvjnwnztmpivxr1sem0zktibk4wt3gzs2nfx1bssgpwmmr6nfdwwmd6ddrku3vxa1nwuwziddrjcu96uwzwclb6ntrwujhzufg0x2rldzfowvnicehrlwrgcvn5yke2ymwzeljnnmtbzvuzvvhzlvhszm1tb29zq1hubkznak1uam5kaut4vmpicflfa0vzvep6dvy0ow1fajdszll5efribfnnnjzft2ninjztuwqztje4wdu2wf8yr3hetdb6suzbvlfnsmt5sdl3cdk2bvfecuntmxjua2gzntddr3vmbdrhd0flcef0nmlbsnnfq2zlzuszchlwa1vwtvnpeuhgu29jeujmtuq5t3rxaufmbfa4dtjcs01vykhbv28yu3dyoghay2x6tvloowhfchziwlzmsjlmm3hccxk4stdoq19fwxbkunlglwlrovnucgzqwg1oqmnfufl6yvpky2tkrnbpaw0wuhktyveyoddjeu5wdk1ongjhujl4ulo5qjvxaeq5znvnvdfpmdu5rvhmcnfbethcwllzrvy3qwrzbgxdnu9qvf9icw?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxnwtiwltvlohcxwevwcthcnepiwfpkukphanrhz3k4wklpulvqb01funbqofktymvxwwrormzom3ppcldrbhb3zwfsbtltmxlywee2ejdnr3piyzzgekz0cmjlsnbhskxoetlvtlzxc1n5ulrxynbfsnzhs2hpqtq2z0jnr2y5agxzrwzamjazml9ianm3rfdvzep4nw1mluh6q1vtt0rmddtsaa4bqvvfexfmtlawchm5cldknmfcwgnlmvl2y2lssxrgewrxtgfnqnfpq2w2ngdtchd0by1humxgc2lmbmq5nmhivew3dgntcevbsxdrx0r1agnhy3flvvflmevsn3pqbu5todbon2nmmdvxtznnu0f2rlrpte9tcf91s3a0ulpjuwfxu3jtteu0cjjza1m2vzdlbfetywyyq2jetmj6edyyvnfzd3hrohfvq2xlttrr?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxqd0e3sun0ulnvshlqvmh1ulrfnw5gaenpxzftren4axplcwl4yutqv1byr2vfoffjcertazhreduxetlwng9untnoawyzrhbbqs1xc25nx2ppy2timudqtmwxumvld3fmal96dnlxrhrpm3i1q3dcwwk2r2j0yxfkqwpwr1psa2u1m3cyqnhvrjmtdzjcaw9jylvzowjsu2dklwdheezruku5vlq0y1vit0pjzjzvuq?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnrjbnwf9nskrst25jafzyogvccfriduu0auplcvn1vne4rwffuukyqxroyvnqbtvmehowukn3owh0eny0sduyzmnzwuz6mgrmekc2vlb5tm8tvvjxchbvvvpqne96amtirzfzbhjgoe0wz2xammnrbnbztefruti1a1hpu0y3tejtdmfdzhferuw?oc=5",
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxnyxdtuf9ncs1togpsntzlues0b0dstgn2ejvmlxdnetdkyjvuuxk0a29irza5tw1tcs1kwlf5tjnfvvk2oehtqxljv0uywm1zedrwwtfpykldrzjkctldtlntb0pwzy1iwgjbq3z6bne4beflrktdynboy2joewywwmx6lvftnnjpszrkqm1wvfnunxj6vktoy1bmvg5mb201r3vwatzhvglfdgs4bm1v?oc=5",
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnnklzs1phzhphzms3rm53mhrwzjrzavfhrs1myjv5wdngqkzyoxpyc1hsng9vzgfymdjhawmyajlvnfa2qlf2mzrkntj0bdgtzuloyw9zbfe2q0vkumxon1n5yu80ektzbgkztuvuytlyz2hncxhxrnzpqvzlcez1s2hgzxr0s3f5ddq4?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnwgz4ogldb1rxexbtd2zmb09gofmzdezgogrtnxzcr1dfuextbmfewevtx1rfyxp3whfvuhb5eehrnzjolwxis3duy0vxv2wzunnxzfu1q1dvqxl0aunaamnqv3rgbwtuc1n2bmfatghlsem3cuj1atn4nmr2zg9mslzvrq?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxomwrwyxrpmkw2ckthr09fatjnz2ezovljdeq4c1rnc0xvx2vpugtcnxb4bel4ckdfnedyb09zd3dwqwhfwufrtwx1egtmofpvum5hmzhzqxc2rgjfemzebnlvz1vltw1hv1lvykdyovfkavvtse00z2lpzdfmbguxchhvc1hxskpfwmq4y2vvsu9js3foegxgr3q5adhlqvd6ekcxstjslvfkn2cyuhrxx05hbnzsywfheer5r1hibxu?oc=5",
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxougzrodn2q1lhy1hswut5d3rwm1pnb0d3c202q2rxwtlimi1yzmh3ou1ysgtirmsxbhdasuy5zzzsyv9kvfjxogiwugtlclv5qzhlrmvswun3am03owjpag9vm3b2ohplmf9zcgrmt2thtfj0qvd4ew96rvdhntjbs1vlz19lcglcsxhjmviwzejtrkjqmkx1dmc0chbxclroos1vvkrtqwhmwxc2rzf5luhqenfawmtwcwzdt2vhzvlrtzjhsjqxmzr5z2xdbfzvauxmtvitcllycjbg?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte9uuxbibfzpthmzoe5yqkronwjjdwvfx0xwnuxnvnfzagdgdjvjvxzsa0d6dmpkdtu2x2z6behndtvmluh6nkljmvjid0pfmzdasvhozwlfa1bkwwr6cutnx3vzzxzxwg8ydxlxduywslbzzkozakhsaxtbvv95cuxobxzmz2i5y1zltxfgtwvzvuiwrmnobm40enrhdhr2mm5kqmvvzvznrhbkstdby0lwru1tovblcjb6y3fpzl9nzuywb3rmakpcvjjdu0lvoxndzfpfykxlswt4blnts0zvwvroou9uzzfwu1vnal9nazhyatg?oc=5",
+    "https://news.google.com/rss/articles/cbmiwefvx3lxtfbfwujgvxr5tezor3lxzdlvvzmzvhj6tezzdtnmogrqlvjjcmhxazmxdjhsbxrlvzzoumk5vgtyuws4djn6utdtuzj3bffibi04bfddsktjalu?oc=5",
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxqnuxty1nxn2v6r0q3y3rwsgvnn0vlsuxlehpdskvkde05m3lowjzccmniz1rurgt0oxbmukrnbgvsnvbksw5pegxybux6djfkouc2wuuxzjdxb0ntltjkeglerlzuzxjhzhjpshv5envrdi1rber0nxrwbwjitehoswx4wnl3ytfoewd3zjjmvdnud3bnbtk4a3dmzwzxx2rzb1j5dghormtnwxo0wnzia0utelp1sgfhx2der2f1t1n6afiyadjqcfvpmle1ctbxs2phme9tytfldw?oc=5",
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1hqwphs2lodmvnrtkzdw56ukxsvddgcephmvzbcvc1evpnqkjdsjewy0xddlrym3leejbscwvezgphuhlscjdfqxnxzgi0z21wvy1qwghiuhktue1vtzzeofhraktqemoxqlztvi13?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1az2y4tvlkegzqexvmd2gzs2jubzznywvteez1rxjodu1hx3vwlwjkcge3y2xuodbgzlq0vfducvlxtm11m1hdd0zyu2n0b1lxak0xzlhkshm3u3nvx04yttfadey1sufpyy16vurwc01qawvjvmvwvhbqwjh4qwpsayqbqvvfexfmtxktbzbjzk5ywgg3skjxn2j4ahpxue9hcfq5q0lanfnszfvprgndwgflmulaqtn0sgvbzhnstg5gm1i2ntjzoex6vzctrtzkmzg1vde5m0jit0gxtk1ubhzxzhnmcmnlx3etaeflymdrmepqv0dsrelsuw1osnrmuuljv3fm?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqvhbiulu2evu1r2jknedurjntdja3agdpdvnzahffudvwbtlaagnfcmlowfptotbzlve1zjjvq0nzawnrr2hzv01islfjsg5sz0fkstnjm1dst0rgdwhfu05oaghyotlkm29obup1dud3ttd3cw1sbdvvrfdrwktlalnryunobedfcldivelqtdnyckphc2c?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoeglkz1b5m2xqmwlios1rv2ztn01ryvdvbuh1znbpr096dzbzwezjq0njvjzen2tydg44nfjdn0ixzjdaq1z6mgrqtllmwmm1wgt2x3fmbnhjv2zythboshh2zefvcejwcmfivg0wofdutvrxrkrnuwv4rhhqdjjmum1jdgrbdel4wug0ouroythuwi1ustfxcwzumffsaaibqvvfexfmtuvht3y4avvcsnq1ujdbtzyyq0ttdedsntl4t0pmvtdowtvfbs16ady1bwvtufdtuddozvvjmvbfefdrt3zsls1balvasmxtslpgreztmuxnudjvx05sz3bjtl9klxnwdvf3nkttthjinddselnkvlvsbmdqrkqywkthszhpanryd1zrykdzb056rnayahzsofnsc3pad0vosxrb?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqn1drwnlhnvlurm9tqwluognomfvfcfuzbg5uuufcehjirgj6dvvkn2m1uuu0offnwvowcthkddf2ctb5wgryuv9lc2tgthkzdlh1cfdoswhiahkzwdk2dnz5s2dvwjf5depjdxlzcglizky1ovprzwu4nm9mwlgzu1hwngljvlvbm3rkn3zqn0zxufe2tfe?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte8zsed0ztdjcnmxwjdxrgxiegj3dmlubkczemlwq0u4nvpsouxfyxjgahfrndvocexqlxbyytj0y0zlltfyzgmyzhlsahluwlltb3dqqw41zwxxatlwm01ualezv05oymtlsda1c1g2snz5wuhzykv0qxc0zhi?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxod0nanlrpodlfsdlkztlyywjxx2cybvhhvdbnr0plrnizvlgzcejur3qxatlgqmrdlwrsdtdlt2ntmxrxewf5adq3uhq5twvfbwnmymvuzu9wb2fxumzqa2lqrv8zuwlkvvo2cxh0t29oeedwde4xtkdxsdjcevjiyzrywelvq0zjs2rbmmz3ynfiq1raluhtvg94wvrpewhin0lkwflwduvaa0wxwmo5bu94cknjlxmzdhrj?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxtfbocmlqovfocktatgppcvpoqmy1ntltawzzvkfnrgp6lxlxwmjrsmlptzl0wl9fsv9px2xyrulozljnrdnsnudsuzbcqwjfyvrymwlhn2d4cthit0lvwtbndvlzzw?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpx2nice81vknhshlvcvdwtta5mxvvd082eknhtmzfawlbcglyv3nyzwheb3bqzmnjr3n3txb6xzj0swveagnjrtbqcfvudglnsny1em9pofe5sni1uvbxqnjzdvphcetyunbdmettmjb3cer0rmrpathfcnnrrdzic2tootgzwgfsdg1lbjhjndvptnfyefrpthvn?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxosu5pdgdwudrfyzvvdwrnnuvex1fatkxhbhk3quqwt0jprc1lcgfomtzkq1lqoun2zfbrwglttm9qce11wnnzz3rnqvnlt2huytd1x2o1m01idxuwuhk4oejzx2trmv9ewvrgevlwcknsrvnltzjbcu0yn2rjvg1rwxbgbzzpyjr0ahr3avzxqxrsvzn1svvytdf4axdfbvzcrkfdtxbmevfyvlqtbdvfbuhsthrvy1d4ztnplvpyzmc?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqtv94u2jls0fuuk5eajzbnlh0zk95u094retqmtvvmm5lzthnvhnmqwh3qtlztgjyrepqvmjktxn5m0eza01ucerpuxz3qnhzywtzay1qckziy20twvzqzjnctth6cgxznjhmmkjvngzsdtfmr2tkekwzefuydtlsne1oamrsayobqvvfexfmt0u0cufsqwpsznfqqkhueuuyltfvsgswmuhzmkh2nnptotdtuuhkblvenzjwymytavpkwi1rztfgv0lise9ieww1unhqng5mvmfodtfute9bamtcczdywdl4ymn2rvp6ulphdupjr0zrmmhqy25pmzvgqjluluzravfwyy1rtudqbvl3?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpaxk3mgi4skvvzmg0vkxwexqtwhlcafnmrzutuhpsbxbjtnh5dxp0sfnzq0jroxljc0hnu0ppdhrysegynuzuzm1ywgdfzs1pdnk4ctlgvujfluhwwxn0du10duzquw9pv1vvmlrlxzvhy1dknljldmfmdtk3ne1smu9vx2lfmv9tazzicffuvudrnvl3wdvbsnpjctg3sk91nmpmae1ubw?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxnzxnackvhalppodhqoxnzvfppt0p6vkyzsxlvcvfybldrrtjnquf1d3v6m1m5zw9sov9aedcyd1fivepcb3znvjzzufrxbehwc0pjelbrou43cktjui13sk1vnllqstjpcnpfd01iseixmwxjywc2ewpczepgevfcakszz0xlehfjten4ogtuajjnnfrrlwtbx0znte91z0dkb3axdmvia9ibrafbvv95cuxorjfumklbq0rkdmdwtxhtnhbxnvd0envtaulawxrodvd5eg1uvejpovrfr0fyajy5vg1hv2nnuf90ngxoshm4zjbzsme2z2joztbkekdsqnd4qxfrx1o1vhjkakllbk9st0vunvzfa2vvdxe3au1eqvp1vwv3n1nawl9fbnzzbc1wrvjkmvf4zevxckl0njbqawlvq1qtrfqtov90ujg4um1on3bu?oc=5": {
+      "headline": "Sam Altman touts ChatGPT's reaccelerating growth to employees as OpenAI closes in on $100 billion funding - CNBC",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:20.941493",
+      "last_seen": "2026-02-09T21:54:20.941509"
+    },
+    "https://news.google.com/rss/articles/cbmieefvx3lxte9vnzm3lwtzrzrpbkszzudeyvbrdhlvd1nds1bzuji5evrfnmjevzhvtmzenljotmhosmpnz0tlmzvozxhuvju4ukhmq2dqumfhc2dxyzljqnzlmnzjszlhawzltlrfn1bla2zwdurtvuzgeuluvjizzg?oc=5": {
+      "headline": "Inside OpenAI’s Super Bowl Return, Where Codex Takes Center Stage - ADWEEK",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:24.016914",
+      "last_seen": "2026-02-09T21:54:24.016925"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxpotrqekr5wfvpltlzskflsk5od0k0wtfonk1kvnrqzurqufnjzi1uzkdlctfnvjqtnlphcxbjehc1axbrtedudeiyegsydkplvfdmvxdcmhrxwg9qofrpnej3ovf3v1pybhvwugs5aurvnnlisxbnous0yumytfb3aknmegtmqmtrdhl4bkp3tetkadluoxnydevrvq?oc=5": {
+      "headline": "OpenAI vs. Anthropic Super Bowl ad clash and trash talk signals a new era in the battle over AI - Fortune",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:26.712581",
+      "last_seen": "2026-02-09T21:54:26.712591"
+    },
+    "https://news.google.com/rss/articles/cbmihwnbvv95cuxpvxdjbehydjhqejz3ctbncktbzjv2s2pftnf2t01qqzzwn0gyrnzmwultrwhxb1jruy03mud2cjjpquyxr3lfefnkt20ty3dkede0rnzrsfzvrnfxzxfdzu54y3hkrk10eepvze0trjjfzenntwg2dnztwe5vddjsbvl6efjpbgfevgi4ql9fdfb5swhiaew5wfewm2zuaedozhlfwudkmw5yoe1zvnztnmvluddsu2j3efzjc0fuamp0s3fotu15r1k4rmhvqxp5bla5b3jrwnrbeeqtrerzunrosgg5zvlpdej2ahh0wm9zs1npetrtwwdzqm9dnxlragtzvfjldfflshnrakrltfpuwnv1sxfzzmxuvdvpnhbfotzwohd6ufbxuzkty0rwsdfurgtmtwiwqkpdtg1hsu40x0ftm3ryvvlpdlbzem85skq5bem4mjdiqlppohhfmjvgs191ru83ekdvtl9jsdrfrfnimuhlqkthvupgm3i5rxriugvr?oc=5": {
+      "headline": "Nvidia Stock Slips. How OpenAI Can Boost the Chip Maker’s Shares. - Barron's",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:29.843017",
+      "last_seen": "2026-02-09T21:54:29.843031"
+    },
+    "https://news.google.com/rss/articles/cbmie0fvx3lxtfbvcgdysevwquhtrvrtcg9wm1fzem81wufqz3nxdllqx21ny0o5luhsnexouxrtaxdrrnbzq0uzylfgrktedkzkmxlgzlrntudrt3bhetvolxo5z3dpzknualfjnvruwlzdmu9tbks2unytd19jefpfykdhtq?oc=5": {
+      "headline": "How OpenAI is using the Super Bowl to position ChatGPT as the Kleenex of AI - Ad Age",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:32.718146",
+      "last_seen": "2026-02-09T21:54:32.718157"
+    },
+    "https://news.google.com/rss/articles/cbmixefvx3lxte4zulnhzkvjeklpmviwr0v4dwu2sex5z1b3vklwctrmofdwwkzrrjnhc1ppng1tu1lwcm1wrk10mni1xy1mm01tvxn4sdvtqlrybwj1mufjdxrjzhk2?oc=5": {
+      "headline": "Testing ads in ChatGPT - openai.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:52.574587",
+      "last_seen": "2026-02-10T11:16:52.574603"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxolxbuskpkzgfdww5ky214tln0y29vx2g5q1noelczovnqv0y0vdnjtwi2bzcxuu9rwknjykz4u0f3r3lhbvb2mmvmdtnfqle3nxo2rtywnfhmnkt2cjfhrfpvy205mwytm19szgxboxnsq3bhntm5rw93evbrs3o3s1bosdrnae5tru5f?oc=5": {
+      "headline": "Insurance broker stocks tumble as OpenAI approves first AI insurance app - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:55.517408",
+      "last_seen": "2026-02-10T11:16:55.517423"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxpeepjrhlbc0mtam9ra1hhb1flwk5kqwtabhzewem1ampsyjfpstlhv1vfc2pin3r5m3itby16dthxvflrn2juajc4z2xiovpmuwh4njb3ywryzxzcbuphzhpszmg2bv9waktvoc1wumdpcvjhmk1luy1usgzjvhlsrtibhgfbvv95cuxqbkxsvvpin3dymxpomxvlq0lasen5qxy1etk4thl3bgtvu1jbm05mmzbzmlbxcm52uvbqcxm5uurnqutqrtnrnghjbmdgrnhesjg5ewfksdgzwez4t1zirerwrmdov2cwttlimdzltl9zsxhges1yx1bucnz1dfu3skhmaevluq?oc=5": {
+      "headline": "OpenAI starts testing ads in free version of ChatGPT - cbsnews.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:16:59.100196",
+      "last_seen": "2026-02-10T11:16:59.100211"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnz0doyxjlb194n1lxmmvimgldbgszmxfwcjvxagvpum1vd1jzltkzsfr5wl9nquvjm01nngdlwxjlanvys0czaxhxazytrddpbddrsmf3z0pazmhhwfu4d1hywhrjbmhdt1fgrfnzbgi0nwxvulpjve4yyu5bzkpqlwjhcvaxajrprwz3?oc=5": {
+      "headline": "Adobe partners with OpenAI to test ads in ChatGPT - Adobe",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:17:02.361244",
+      "last_seen": "2026-02-10T11:17:02.361260"
+    },
+    "https://news.google.com/rss/articles/cbmisgnbvv95cuxpuf9yotbztlq2wfndqmi0oxb2b0rrq1fiafq0ctdmnxrfotlnz01mb0zvm0dfagdmrddroxy1rxnprexicu1jemdfd2x3rknuahrnse5jd1bkafvpzkl2u0dsn00zb2tnylroajhuq0xuamhjnwzummf5c2rqzwfsoxliu2ptcvzumlvsbee5cjvstljqdmi3behgu0dgefq5x0q1wwjmvmrqylnrrurhem5hmgdny3pzv1bwzzmxq3lotdfpn1fkbjnuuuy0dlhky3nax2jym1l1dwzbqwqwsllndkzudmt6dgoxr2zoallplw5wqm1wqjvjz3dpetbteenvwjnzmnhkwkozuxhzwtrkz1jrcgvysknotum2thflrtrwwutzcgfrrmkyytjzselwn05hyxg5enzpavrgvs14rdlsc0i2z2t0djg0am5bnfniwjv3sk9vnehcnwvxzgnsdmxrcgllmdv3rjjtoejzbedquzbss0dkqzlxudaymmjpt0xtcs1ueejjdezhswxmvdqtu2r6egnjwhbyq2trbdfvc0tpcvrhvzrhruvtdw?oc=5": {
+      "headline": "Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:05.867723",
+      "last_seen": "2026-02-11T11:57:05.867742"
+    },
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1kueduywrkmmzswuszavbpmhrfrhpsd3fgczy5tnfyvuvaafcwazh2ckfmsnnnbvf3su51ym9vmvf4sg9ktvbwym40ahowdktcd2lycldhm19uewrsbghdludzamrbwjngawrvuwfb?oc=5": {
+      "headline": "ChatGPT ads: OpenAI is rolling them out now - Mashable",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:08.961250",
+      "last_seen": "2026-02-11T11:57:08.961268"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpsfbht1njvdbycktmsvl2q2l5rvhkczvvehfpbk14vmpyovjfzxznajhiqlrywmdrze9satvjrkr4su9poglluhhnr3dcoghjaxdnskp3vghnr0ngeuz6dtjyqwzudvpfvnplwezmzf9tcwzzotg2mkluexflaghommfpyzjsswpesuf6nxdcodhavtf5bhniuhjxyxi3dlj6tfljemw3vw5mqwlddln6yvzzew1kb25sndy5m0rutja3zhdf?oc=5": {
+      "headline": "OpenAI policy exec who opposed chatbot's \"adult mode\" reportedly fired on discrimination claim - TechCrunch",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:12.293037",
+      "last_seen": "2026-02-11T11:57:12.293058"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxpzzrqmnzfrldzyng0r0pnzwxkzuxjntq1zmrjwgi2ynqzvdjmtnhwd0t1y3fwwxhpajizs1dgnuxbuvpbv2tpcgzloxrsa29odmj0t0vwmxndbwrkddfenu1wwg12q1ducericxdjwtg3rjzxwtr3y256sjnfnws1zmw3nm9yrgm?oc=5": {
+      "headline": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:15.823937",
+      "last_seen": "2026-02-11T11:57:15.823953"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxpewrxdu5qtzvis25iwurhmwvtytrhd0zez01nsdbfce5rcxzhwfjmetq5u3vxdzjlzth2s3rbmdjnchnibwetlxrfdfu0ynbkwflaoxpvnmfioxv2aty0tufaug13eutacf9smwlcrndvv29tmxezy1j4c21xeem5mgtfelg2v01tagl0vnhzcwfgt1dbatrsczfbmhyyzm1mmnc?oc=5": {
+      "headline": "Clemson to expand access to OpenAI in support of University’s AI Initiative - Clemson News",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:19.172464",
+      "last_seen": "2026-02-11T11:57:19.172482"
+    },
+    "https://news.google.com/rss/articles/cbmirafbvv95cuxpvkjkske3tldtn2z2elnnb19yb2junevmm3fnofq1dedmdxy3zwiwqjhqnde5wjrvvjhtylvzmjawdw1yt1b2eenflvfurznybku0munhq1doatnkc1voserlegowuwxlcfnoaufltgvbqk90vxf3n0yzz2hkwmpyznnywhg3ctzisdnvynpxvk5ouxi1vnr2oe9rq1gwq29dcfjvyzrnmdhbcfnt?oc=5": {
+      "headline": "Exclusive | OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination - The Wall Street Journal",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:27:43.034633",
+      "last_seen": "2026-02-11T13:27:43.034647"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxptvbuoupjykztsfpvse0yqmlornbyr2iybhdsvkh3szf0bkq0tzlawvoznnn3u3riqvzendlfnel3auk5d2hvmm9ieupvm2tplwlsof90mklxzktwrgtzwdfjclb2yudnwhf6rdktrxg5sdjhew1krlpctw56m0fzyxo3ng5grmzlrgxju2jnbzzwa2laqvq5q1hzsl9ysennvevnouprlvy?oc=5": {
+      "headline": "Did the market disregard OpenAI too quickly? - BNN Bloomberg",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:27:48.003160",
+      "last_seen": "2026-02-11T13:27:48.003175"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxte1vqny3cehkmghgbmtuqvvgb1lqsxn5rldlogdbqm00ava4dnb5qnnvvxv4twf1uewysenoulnhnm9xuepldee1ztzsnkl3dgrhaw1zmu1ja2ewm1nasgd5a0utbll2rs16cdvoenjmtwixsnhw?oc=5": {
+      "headline": "Opinion | I Left My Job at OpenAI. Putting Ads on ChatGPT Was the Last Straw. - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:47:00.790999",
+      "last_seen": "2026-02-12T12:47:00.791016"
+    },
+    "https://news.google.com/rss/articles/cbmiwefvx3lxte9rvznouthnykhftxvtugvot3llxznfsfv5y0izlwr6yvheaghleellq3lxbdvcynlxsdmwyzbnlxbpwxzovw1dmmpcq085uuffywkzog83ndc?oc=5": {
+      "headline": "Harness engineering: leveraging Codex in an agent-first world - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:47:04.684915",
+      "last_seen": "2026-02-12T12:47:04.684931"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqvlnmadjpzdvlrno0awu5s2dhrgtazk1byxfhzzrqrnlhzi1bzlnyy256vektb1bfwdzvz05kyk5ydmfntgrox2tuz0j1luzwrejusditdml2znhhrhltwkdtotdkcxb6unpsy3pxowzyqnfpsxrvqkpdzld4b3pmb1zwaesxeglebuv3q0wtww9vtnnzt1nhqwvmwnp3yu5rvwf4cdjuu3jomflkz1jjdwd3szd0zth3vk1adfryyzhlovzsc3dwexj3?oc=5": {
+      "headline": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path - Ars Technica",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:47:07.454249",
+      "last_seen": "2026-02-12T12:47:07.454264"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5vvvnrul9htjbzotrgmjzwy2thwgjmt3p2sujocfliwxhlq005ouznnnrqdjy4udrwugzyehbvmtq0ykxzafpkmlbielvrset4n0vwvg5hmwdqofpbegjytfjknhfiwfduajf2uc1nmvk0wtc2ddfnejfqv3a?oc=5": {
+      "headline": "Exclusive: OpenAI disbanded its mission alignment team - Platformer",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:47:11.572816",
+      "last_seen": "2026-02-12T12:47:11.572831"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte1hsjzxmuhrvtvsrc1iohlfohleele4y1romxrutmzmvepxr1jwenzotdqyyzndyu9zshdxvxdzvk1fc1btund1ev9lcw12udb6ufdsbgxodmzmd2u5xzlou0l5y1p0nupnngtox040nzq0dk1lc0e?oc=5": {
+      "headline": "Breaking: OpenAI is probably toast - Marcus on AI | Gary Marcus | Substack",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:27.154439",
+      "last_seen": "2026-02-13T13:15:27.154452"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxos1jwndm3elpgzujxbna3bs04v0fichdfv0hynll1qtg4cmoxwelkvutrykcwznewyzhzowpqde9ru1zrq1aylutoekrxbfoxtmftbs1zrzataxlabzb0exn1tlpnqktivv8woutuu1blewlwzl9bnjvtdkqzdeviswpnze5dq194t2rfmwhmqupdvvbju0zqwunrz05qblnxbljoqlgtqljzstj6ty1rq1jfdxpkmurlczb4dnvyvq?oc=5": {
+      "headline": "OpenAI says China's DeepSeek trained its AI by distilling US models, memo shows - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:33.602943",
+      "last_seen": "2026-02-13T13:15:33.602957"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxnwjg5ywjsn25qwk5kr2n1egvjqmhdttfjbhnuyzr1wfnlwghyn2jybvdqrnfhulndmk5lbgdqwgxoajzyvkdqbfyxns11a1p3q1jzb1rpvklhew5sskp6uxrwzghwm2titvpiagnhc0i3r1booew5vzl3ofzaodhvedr1uw1jy1fqmu5fodlkwxhvrtbkzg1aovhrwld1uhfkevpuwufkwnvxunnzthnqc3rmymy?oc=5": {
+      "headline": "OpenAI Accuses DeepSeek of Distilling US Models to Gain an Edge - Bloomberg.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:39.517851",
+      "last_seen": "2026-02-13T13:15:39.517864"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxonxptvc1sn3hfv09qngn0mfnfb2jsnditelrksxnnvi1bbdmyujzcsefyslriadfynwtfwffrbtr5ymlgmzniuzbjny1obti5b2zsv3hvzwk1rjy2al83dgexvtfpu0x0blb6sjjvs3nvter3vvditmfwruzmmzhrca?oc=5": {
+      "headline": "OpenAI says its mystery AI wearable is on track for 2026 as AI earbuds rumors spread - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:45.783803",
+      "last_seen": "2026-02-13T13:15:45.783820"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxqm083d0nyt1diz0gwv3axsuncqxvuugrsndrgotbmvlpsnl8tbgjra1vowtl4sl80sghysjrmu3aybjjrq01ywm9xaff1rtfydhvkzkdmoupyb2nir0rkrdbmrtbzyvphbgc3ewp2yldsedfja05ksxleegpqnfbrdvjoa1nauec1nwv5c1bzznm3b1pwnddhqu5n?oc=5": {
+      "headline": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity - WIRED",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:15:52.139652",
+      "last_seen": "2026-02-13T13:15:52.139669"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxodmvgevj5cm1dn0zxx09iyjd2cdnbtelqam92sthunxdzcljkuwd3eemxewqyvkqznkviqkxfwmzimtlfee1xd00xnu9nrzllb2jqtdlod0fst0vgn2xfovn1z291dtdfmtfumgjqy2q2zw44ulppv0fqb05hcfdjczitekvzmnmzc2lasuvkaty0emxkwwu3oullakrwrdtsaaqbqvvfexfmtwx3ddnpyxdgwnvxsedlev9stfnmrenzc0nntghzzuvtugr4dev6zwtnzuy3njnieufgrjqxunzid0zwregxq1fnujdbs0pbaw1zsnvkszdmyzlhvfdfbxdkz3bpd1rzlxzbeesyx1j2afdvr19kqznwoehra3homjr3yk5qsw9bam1qsvzlodzxofbotzy1yl9yeerudzjpvev5zmu?oc=5": {
+      "headline": "OpenClaw creator Peter Steinberger joining OpenAI, Altman Says - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:35.402984",
+      "last_seen": "2026-02-16T11:30:35.402998"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxnmzr6um1vltdqeji5zwvczdnwqtvicew3zxdzd0jtdlbhy1pszkcwqwdobee2m3qyrwr2ulnvdem0atjtadhgatjfuxrhc1r3qy1icu9fx01lnnkxd1houwfoy3ezegjmn2rqmw1ymhl5ohj3u1kyny1km1vktjdldla5wmntnhritle?oc=5": {
+      "headline": "OpenClaw creator Peter Steinberger joins OpenAI - TechCrunch",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:40.143570",
+      "last_seen": "2026-02-16T11:30:40.143584"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpzmxkvi03vmk4dmptr0m1q1zorg9inhl4djbfrdq3ee5ud0lbludxdnbks1nbtjriyv9ccxprzvcxv3ixa01kx2xnckhbzvnhtfnjec1ws2lclwfvmuy2n2j0ahnaltfonxlfwjhnu3zvegr3muzyafjnzedkvuj0r0nntkhrr0xzzlg1rvpqbvbhbxvnylrmy0jhml9fs1dvvhbea2nysuhsdw?oc=5": {
+      "headline": "OpenClaw founder Peter Steinberger is joining OpenAI - The Verge",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:43.848311",
+      "last_seen": "2026-02-16T11:30:43.848327"
+    },
+    "https://news.google.com/rss/articles/cbmiqwfbvv95cuxoa1ndztrkuepuytbknmq1umtjv2nkvwntvhm3bv9nzgfizhhdruvsuewyy3bquxy3al95blhpxzj3dzb4t0nxvnbtuznmutbkvgg0u2h2mhhawnzzdwdgv1lxyldka2e4v19tykprdgy4uxlwczq5sjhgss1oavfvs1hasfeyni1mcuzhvkxetzzkm3ddnxlarv9yz2notg5dcm5iv2jonnzuagc?oc=5": {
+      "headline": "OpenAI Hires OpenClaw AI Agent Developer Peter Steinberg - Bloomberg.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:47.573242",
+      "last_seen": "2026-02-16T11:30:47.573260"
+    },
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte45ve9hn19hreuwwwq4rdy5sjdpuxl3shyzulm4uunvnvhumjd0s1cxsunan1zqyvzmdznstxzqyzdkrdh3vy1qb0g4dnkxyufhndq0ss1hyvjlsmm2yzi5z2jn?oc=5": {
+      "headline": "OpenAI shares Elon Musk's emails, says he wanted 'full control' of the company - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:30:52.270368",
+      "last_seen": "2026-02-16T11:30:52.270384"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqsujstuf1v2fzsvfob2qzyzjpyljnx1npsi1ttfdkujrwd003nwjfa3nkudfzzupycg14vmrcnzlorvvzrnh4bmr2x0pjnfjxcllhtlvmvenkwtg3oe4xznj0stzjve5retu0slzfzgxbcgjcd2xwc19wwhpnmkhlahvn?oc=5": {
+      "headline": "OpenClaw founder Peter Steinberger joins OpenAI - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:09:27.698753",
+      "last_seen": "2026-02-20T12:09:27.698772"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxnc3dhtxn0wla0x01nthdrs3bpyzvnzvuxbmhouhhyc3hknfqzdm12vtdnc3vlqv9muwryse1nyvjpq2voehpzmfm4uvy0ctj1atlsuxvynwhudtfpehm5smdurtzjumm1v1nqa1hkejm3sdhqskrkr2zuzklvulg1tvlfofdbsmytzxaydvn1ynk5s0vnzkzdvupinmjeug51uezoyloxck5xlwvmvvbrtkm0ajlbd1pwefe3aevvwq?oc=5": {
+      "headline": "Nvidia, OpenAI near $30 billion investment in place of unfinished $100 billion deal, FT reports - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:09:38.727583",
+      "last_seen": "2026-02-20T12:09:38.727598"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1zsutrze5jefbnr3nitfrvt25nt3paahbvvtnonwpxcxrmcvnjyjvic09mz19prl9qlxrwc2hkn1bwa3znano0rg4wbnzrohhhr0pmdwhabvlfqvppsg15wjdvmk82stbmsfzicuhvavk?oc=5": {
+      "headline": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment - Financial Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:09:48.940003",
+      "last_seen": "2026-02-20T12:09:48.940056"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpcnjhmnlztmfhnvlxzzlwnlvlvl9zmhrkdxdwzgiznwzgwwp3eml0zk5mudhhbep5wgpnngd5ouhfxzbxrwk0d1nszulpqxgzx1nmq29qefpbuhdkz2h4btbdd3bim0lqynlaszawtvdxykoycen5v2nzwtlkexz1melbuvewserwbtjtegkwa2pox25wnetlu0xna3lhrc02q3fbrkd0y9ibrafbvv95cuxoz2zwbjzewc1adnlcv21vmtjpdxr5q2njbu1td3juvtfwd21dvu0tqjrubkvcufhjrtdra0ztdunlwdy1dzdjz3b1r0j4ufhkc0k4vgx1vmdbcgloefpheu1izxdxmdldakvpvmcwegdmyxlkxzbhutf2a1llzmdhrw5dnc04r3jheungqkvlntvaq1jkqndqt1dpdddyc1p4szviuuhuqndvlwrn?oc=5": {
+      "headline": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:09:57.781299",
+      "last_seen": "2026-02-20T12:09:57.781316"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpzlu5m05mwdbhvjvqu0zfq2vtejr5nnztx2njbg1mnejiqkvrv0y4vulmuur4rwtuykk5tdbcadnazdeyrdfyeev5ymrunnv2ylpfbvgzq1h0txu1mnkyeer6uuvozktncza2mtzwchitss1ocupdvzjiekrmzedorkw4s3fvzw?oc=5": {
+      "headline": "How will OpenAI compete? - Benedict Evans",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:10:08.064357",
+      "last_seen": "2026-02-20T12:10:08.064372"
+    },
+    "https://news.google.com/rss/articles/cbmivefvx3lxte9detdelvhwetfqbfdlmfiyck1en2y3vtjya0vlajfhnxnubk5ucwtfzc1zqndoslzdzwl3vkjurhd5d1fyr21vcgq1dexoq2p2bhnfyg?oc=5": {
+      "headline": "Can OpenAI Build Alexa Before Amazon Can Build ChatGPT? - spyglass.org",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:02:04.404509",
+      "last_seen": "2026-02-23T13:02:04.404525"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxnaurhmehdwxd5dlj6qxliqkfoszk2a3nmue4xvfzzndgwyldsum9qu1hhnzbimgveqjjxvwxdsze1tudrlwjgbvr6uhnvnddtwgptawv6c0rhc0xzmur5d01iswlzbm95ndnyv1ham3zsodfvntzhuupxwtb0txbioff1cc14bml6ngfpu3biuy1kmfnkemjgchawcmfunf9mrve?oc=5": {
+      "headline": "Inside OpenAI’s Scramble to Get Computing Power After Stargate Stalled - The Information",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:02:08.175215",
+      "last_seen": "2026-02-23T13:02:08.175235"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxonfd0n3bsvtn3ewrlcxazmunjvzrsuepud0fwsxz0vllqazfzcwjsm3rkredhqzhlsus5eknnws1sc3azdhpqqlvsawpetmjknenowvfvrjldzklnvhzis0j3ntzdwwppzdrhehpszdrabw5wzukyvknya0jurkfvmkdknflnzljkt0vhtzvtx20yt01kvwm3dwo1smfaemnzeniytlz1smw?oc=5": {
+      "headline": "OpenAI Compute Spend Could Hit $600 Billion by 2030 - PYMNTS.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:02:12.158356",
+      "last_seen": "2026-02-23T13:02:12.158374"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxorehyawv3tmv2thd5bxhcm05erxrzekpsrmlxcw5fdxhrtjqxrhfcq3jbohfbnvjevxrbujjfbdfvavhjzfjcctrknvnvz3jsegw0b3f3nw1rbtniv1nzbkzzvuxywjzfevzlv1bsylh2skjuvxhvmvh5tnhurnjnejetm2dvtkpkyl9fmddxvehqymzlslzhrnvtem94bl9nzdzrc1hinlrjv0zys1rsmq?oc=5": {
+      "headline": "OpenAI Academy and Veterans Forge launch AI training sprint | ETIH EdTech News - EdTech Innovation Hub",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T13:02:16.407674",
+      "last_seen": "2026-02-23T13:02:16.407690"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnefo5yxz6rmhrx0rhag1bddrwvwd0a00ym3p3vtg1s1iwbgj4zfnpuvvrnvj1tznodu1rtuxmtklwn0s4m1lscvflekxkstexunrdt0fxlvbrsmx2vkzns05ox1qtagdzquo2y3rlc2tsuvvnsezmaudyuvpeumjerm92ymjmwlzvtv9az2rnuw4?oc=5": {
+      "headline": "Canada summons OpenAI reps over school shooting suspect’s ChatGPT account - Politico",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:26:04.922895",
+      "last_seen": "2026-02-24T11:26:04.922909"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxnz0pvuwf0nllqrtnbwvb6nnvkdu0xohfftllbexi0v1d3u2fkbtznue9yyta2mjvreetnsknyrnc2mfnjlthswjduzjztbllonzr4vlbtzmxlsdhfmkzsyurlue5qohlsx0yzwvvtd3daltbvu01yrtz0mvbkbf9ung?oc=5": {
+      "headline": "Canada to Probe What OpenAI Knew About Tumbler Ridge Shooter - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:26:15.507386",
+      "last_seen": "2026-02-24T11:26:15.507406"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte5hvuv3t2rydklrsjjicjjxskhzwg1tv1k5mfnqb1jznl8wmxnqwthiwkhprxjmyxrpazu0sxfgeev2mlyxajfxdjbnmln6ee1lowlplxzveeffvxdzttlkszk2sgt1sk9vvzfhrmdxshpfwvl5rvvsclrn?oc=5": {
+      "headline": "Why SWE-bench Verified no longer measures frontier coding capabilities - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:26:28.987514",
+      "last_seen": "2026-02-24T11:26:28.987528"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxonfzbdtjzwdnimhz4tmhurudcwvjuujdnsk9gcexzc3jwmu5huenadhvfr1pamy1vv0tvcznlrll3r3zlzjjvajjln3zlenpunzgzsg42qmfremjuy0j6atb1vehwvho1axjxas1kcnlpsufzzxpndjrymi1pltbfwtdla2zfsgdqmvfscwj0wdvuwnfd?oc=5": {
+      "headline": "OpenAI calls in the consultants for its enterprise push - TechCrunch",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:26:40.939690",
+      "last_seen": "2026-02-24T11:26:40.939712"
+    },
+    "https://news.google.com/rss/articles/cbmiz0fvx3lxte5uaffcn3jwus13yjlrcvjztm84bwgtcmdmzxvswxp4tzhrvle4dkdax3r5wnqyqmnoaerjvxpxndlnduc4awgtrwnjmlvkc19yb0d4shvxsi1ynermekncsthobjm2vgc?oc=5": {
+      "headline": "Arvind KC appointed Chief People Officer - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:20:13.647934",
+      "last_seen": "2026-02-25T13:20:13.647951"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxnangxserdunq5bfnzy2niz1rya2f3bwo5qnl3tdcwahrua1fbz19qbmfrzklkcdfswwk5y1y4re0wyvdvnfpquv9ybxbzthnrmejktgx4owpqrvlibuy4yujtqtdar0fpnzdwc01vvzhlwmnem1ztqvfsz2pmuu1tvtd3z2dcmlbqzkf6vllyb196lud4edd5bxbvejrlckn4rzjbwepldkjfuglux2vjvw?oc=5": {
+      "headline": "US judge dismisses xAI trade-secrets lawsuit against rival OpenAI for now - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:20:23.001535",
+      "last_seen": "2026-02-25T13:20:23.001560"
+    },
+    "https://news.google.com/rss/articles/cbmiwkfvx3lxtfb2v01nuuplz1vtshntvhpjn0hkc2g1dvpywuhxrzrht3lkvg1jcdrczjjxa19zvfp4agrsbzznlw1vttbha1jhnwrpvkztwmfhrtuxvjhyn2f5uq?oc=5": {
+      "headline": "Canada summons OpenAI senior staff over Tumbler Ridge shooting - BBC",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:20:34.422266",
+      "last_seen": "2026-02-25T13:20:34.422282"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte5xy2hrew0wcwnmnfe4ctr4exdyeeljtdjubm4wogvpddz6su5wa19dxzc5mvj2uhvoy3pkb09udgrxswd1yzztstnxse5ez05dwtfoug1mvmt1dy1snkf0adfttjcwdmn6axuwsgt1a2dhzmfpzwkwn3zn?oc=5": {
+      "headline": "OpenAI Massively Cuts Spending Plan as Reality Closes in - Futurism",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:20:43.343060",
+      "last_seen": "2026-02-25T13:20:43.343076"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxougp0eeluallqlxdyeeotv1fhaup3x3zxc1lysguzdfjomm9pzkvtukdxountx20zthbothniweg0a1bpthboyk9crdznrfuyylh4azmwsgdsa1l1wupjvhuzt2v4blyxmwxgenhtq3znsexvdlhiq1zyelbltdbvx1bkms16ekdur0eyuzhb?oc=5": {
+      "headline": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting - Politico",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:08.525164",
+      "last_seen": "2026-02-26T11:24:08.525184"
+    },
+    "https://news.google.com/rss/articles/cbmiykfvx3lxte5ncevplwe2eexhwgvntxjqvg9fxzbzvk5ttwtoc3fusda3wtnda19gu0y5as14y2npufrgyvlet1vrmlnzynczq2kwakflejljenvoek56rgtwtf9rv1vibgln?oc=5": {
+      "headline": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI - WIRED",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:12.420473",
+      "last_seen": "2026-02-26T11:24:12.420490"
+    },
+    "https://news.google.com/rss/articles/cbmifkfvx3lxte81quoyr2g4nxv2mdk0n0g3z3i4qnpzulo1zme3oelvzkhpmmroajvnwkxptxbxwmtwludwdjlod0l2y29pumjvwxrftkyzvfjvsvjrq21qznpfstfzoehzcc1qn2xcadbnn3dvwedfwjq1vg5kd3vvy0zxterpd9ibgwfbvv95cuxpwxrktnjta1nueuvxltflwl9zs3jzx29lszz3mnngtujvz2hkzzb5oelrtlfiaxbmnjflltdpwf9vefbflu9ymufyutfsrvjjx3zalu90wgfuvupirgzynxpnvdfnvw5iveq5vudyb1zpv3rfajvia1d3rgfwnwpkx3lpyw?oc=5": {
+      "headline": "Thrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source says - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:16.806085",
+      "last_seen": "2026-02-26T11:24:16.806100"
+    },
+    "https://news.google.com/rss/articles/cbmizefvx3lxtfbruum3vfytbg5ed2l2wtqyx2xyzxq5u1vuu0tcwmp3v2w3tlzmd05kmxnlwvhvz3bxsxqtyvhpdunkexpquvr6v2z5rggttnzysfptazl6yurlbuzudwvnc2nntk8?oc=5": {
+      "headline": "Disrupting malicious uses of AI - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:20.985922",
+      "last_seen": "2026-02-26T11:24:20.985944"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqx2dim2jabkoxv0zkvepbz0tbu2xblu9seuftsfzpde5kahpxek9in2jured0of81enbwsvrrbvdon0xqn2loazhcnhcyz003sgfywdhfrghtdvbxlwjqa19ntuddv010ntditefkzxaxbgrcc3a0a2r0ls1wytvydmstyvg4rxbsmnc?oc=5": {
+      "headline": "Google, OpenAI employees call for unified front on military use - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:14.211468",
+      "last_seen": "2026-02-27T12:35:14.211486"
+    },
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte51n2hkdjdqz2hmnlbxrkm4zfvuvfhurudwa1jmc0rscu9br3jda0drmhpcmy1jtwpwc0cxdurcsuzumtfvs2n4yknnn2x3ak1tuetjqnl4m0pyu1zjqwn3?oc=5": {
+      "headline": "OpenAI may sell a smart speaker with facial recognition camera - Mashable",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:18.831231",
+      "last_seen": "2026-02-27T12:35:18.831249"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpndexdnrqnngtzxpheeltvdmzvkxnvu5nqjbqyur5znvksxlrzldpm3h2zvr6efbtd2mxd3jfeetmsvnnvnjhtkxsvthftktjsfpwsgrtwgxfoflhx2ztnu5btfvrc2xvrwwynxotowq4x3q1ujnhohvlawnwclnaa0xddhozc21yamn0qlqzbexnazm4rfp6rxrywxrwavo0x1excjrywwi?oc=5": {
+      "headline": "OpenAI enters Silicon Valley with massive lease in Google’s backyard - San Francisco Chronicle",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:23.223890",
+      "last_seen": "2026-02-27T12:35:23.223906"
+    },
+    "https://news.google.com/rss/articles/cbmidefvx3lxtfa3z2xzylb0sxrecndhdgtvbdn5r2h5quz0dxnmowvjcwnmwkjomtn6btbhq1lsr1piegnlnzutvgxerwtqc3hmsufyegvlqtg4edi0ejvxbfhkqtbyrjn2u3f3mmhwswtlm0k3cmlrmzjgqxjn?oc=5": {
+      "headline": "OpenAI expands to the South Bay by leasing massive Mountain View campus - The San Francisco Standard",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:27.700946",
+      "last_seen": "2026-02-27T12:35:27.700961"
+    },
+    "https://news.google.com/rss/articles/cbmizanbvv95cuxpvjfgtggyb1c4zlh1dxpiu2nlnkjisfe2mdf4mwrxr2xry3vvz0nodl9mu3bncwpuqxpfq24wzg5ksjvwrw9hlxrkzxfrnkhkczjnwtnxvwpuv3huni03rfi5odh1ukrlv2zzsgi0szhyvwrcwvvdzefvb2nkaetzwufkmehzsvvxr1m3t3jwb0luq3rhyzhwefmtdke4aepkdm5rrjflsjdxzmvimdddejgytjn2albarll5ru4tuv9tm1czawzrqufxu2jivlmzdfbsm2q1yw90zlp3eufzvhlvcwjfynetbzrwew5pc25kewx0we5vnunqulfsc3pbdwtmvwlwbjvpuvvjdtjjcnm3uvljaeuyumfxek5wc25yz0o5vlr4v1fkweexx3jyuw42dgdmz01watj0serzs0pnrfvhenm3rtz0t2oxqs1rctfrruxlmlrzcwxyzlbsunruwuxxwndlrnjomnjls0stzmtpls00sl9ic25kt2jtmtfcz3headfqmkpcaerrukvjt01ys2ffu3jfofe2agmwylvucdi1yuxfszvry0e4ctrqm0dvr2etexdtofj3qxlhqjf5oxlocvni?oc=5": {
+      "headline": "OpenAI Tightens Protocol for Referring Accounts to Law Enforcement - WSJ",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:35:32.705500",
+      "last_seen": "2026-02-27T12:35:32.705521"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpa2tamgcwnlhkny1damllwdgzew9saenozw45rhjydzbhmjiwv1fwndvvbmsxuuzuc1dmzhh3bm15zwfzshnwanhca2pjc3burmdwb05rqmtbqmd3c0nxluhsshlusvbzovpvx1dzs09detdpz0xma01yz0xisfvlr1y5y2staefkz085tkdqtkzfthruqzl1mjdzvepgn1fk?oc=5": {
+      "headline": "OpenAI reveals more details about its agreement with the Pentagon - TechCrunch",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:52.835748",
+      "last_seen": "2026-03-02T10:29:52.835762"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxtfbtsxgtqnl0d3z1am54nudosvd6tfnlqzrzuddiqwjkxzrjtkpcbg12nlhpnmx1m3hbzfhqx3dhr0nmmw9fbtzoyng3sxlwujhacv81n3drndrmm3j1wejfodbmdku2vtfhvhhnngjilw1kbg8?oc=5": {
+      "headline": "OpenAI-Pentagon deal faces same safety concerns that plagued Anthropic talks - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:29:57.795794",
+      "last_seen": "2026-03-02T10:29:57.795810"
+    },
+    "https://news.google.com/rss/articles/cbmiggfbvv95cuxqzew5burkvv9venvtb3jhvwznb3e3dhrnvglzc29qy3fuznjelvzvdhnvqm9nswpadklvthdxtmdtsu1laljkdzjuc21nslrhsmr5zu1fmho2su01wmvuzkiwsuhqltrvt3rhrwtentzhvvg3vk1askvvwtbzexfwzdvb?oc=5": {
+      "headline": "What OpenAI Saw That Anthropic Didn’t - The Information",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:30:02.625321",
+      "last_seen": "2026-03-02T10:30:02.625339"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxpvwj2qmvudefjn1dolvpbdxywseztyzbzsmjwuerobvrenwlyouhftknndhe5yjfby0fcd0mxzwp4nxa2ylhosgs2c2j6vhfsem9tt2p5z2hnefznt1ixlujwenzsmtjobmdhd3ezswjpzwtyovd0zxbzdwdkmfnrvnrsblq5mgdab2i3azrxyw?oc=5": {
+      "headline": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:30:07.047299",
+      "last_seen": "2026-03-02T10:30:07.047314"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpzwzosutmblj4uhvttnzeq1newmfprzfyb21memtkmgzun2zvttlcbuszy1jzake3rnvydm9zdxflzm1jemzxz2u0tmrtyw1ss3bnu1zjlwrmrmjilwxozfrkruhsnho4lwzuykrktmvpbzdfuezszfd1zjlfumvqukf2snngrvfzqjf4tjbzmja0vk5yaxbuym03uuzjnkfntwflrwptsq?oc=5": {
+      "headline": "Amazon and OpenAI unveil $50B AI partnership on AWS | ETIH EdTech News - EdTech Innovation Hub",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:30:16.099772",
+      "last_seen": "2026-03-02T10:30:16.099795"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxpedvmntjxavbyx0jwefhjdkten1vrt2libmv4tu80tglkbvpuvgoyb2n6rgk2qnbsn1zgwgrmwe9stgm0ec1qwdblsxbqlxrwug56nxngzuv6zm5acgj2b1npvut2ewdiykdqwudpywp0zjctwm1dbnd4rm56vhrydmq4dffxuxh2vky5zfnunxrpwflsal84?oc=5": {
+      "headline": "OpenAI Amends A.I. Deal With the Pentagon - The New York Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:19:17.244203",
+      "last_seen": "2026-03-03T14:19:17.244218"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxou1fzthbydy1pchdgrvn1zej6m2hqmddrr1e3tdi2d3lrsmngm3nqchbyyy1oc2otz0n2szu3ogjmdnqxemhuotnszexvunhqzv9xdhdmutjmt3lkzm5wz19ru0vsrndqwfl2bhb3whgwa3brcez3zdatddjfn093tuftnhj5rmz6oc0yrez2cjbxuxyzanbfbuffu1jsaaibqvvfexfmuhdwcwvwovrlwedgehk1aff1svd1b0xyegjdvjbszejtbepowddfds0wz2juzm9mvnj1nkpvanrkx1dwbm1tavffzxg2njvkzhdtmthwbfvtnnrkzddhvvjhcvj2t01ttldra3hzck1myus4v05ievu4s1jfczntdjf4q2c1akfyb1lfyjutstjtnznibdniuup1cepqd29vzxb3?oc=5": {
+      "headline": "OpenAI's Sam Altman admits ‘rushed’ deal with Defense Department after backlash - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:19:24.190732",
+      "last_seen": "2026-03-03T14:19:24.190748"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxquzjhr0lma0pzrwvntzr3nhzqdvrqrlfoakxxnxjos2p1ag84rupouhz3qjbjclfuderhv3jizefowxjkmvpsdfbjv3fvukxyaf9ielfeafetmm51yjkxnljfywzhq3dmekxtm3pcn1rwcun2lurpbvuxei1ocw1lywnnben4c0y1euvpbkqwavnqu1znu3huug40wq?oc=5": {
+      "headline": "OpenAI amending deal with Pentagon, CEO Altman says - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:19:31.578752",
+      "last_seen": "2026-03-03T14:19:31.578768"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqyxq5ak9ma2veoek4yjhwx0vxenrcu09hdi00stz6cjdcwdjknwvfzdrptefselzunuo0zwrhd29ssghzbuvxt2ltvuxoq0xqzktdr21ryuw5chdplxv0uwthbvr0d0vhtwq4eleztupkwklbqvddtnotczrqelrrskferzr4ck1wbfbny3ffc0ppq3gtemrknznmy3y5azfmtg9mazlwvhnmswxmce9oc2hqsnjsabobqvvfexfmtng5oeczlvbqq1jozdrxzffdzkvnszflt2pltw5vsnzkng53nmrsnmhrm09xnjzysxbvtgvolxnyx0herl9vamlxbvhwsuxxmenosdktawv5um9htg44wfhvsw9qve0yefzmlvn1ef9hakjgejbldtrmakfotdg5qznrlujpmw5jc29xrdlnbglgqmryyjras0swweo5rc0wbtvymmjqzlftmlrpa0p5wvdqrnhet19nsnf3?oc=5": {
+      "headline": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared - MIT Technology Review",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:19:38.215373",
+      "last_seen": "2026-03-03T14:19:38.215388"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxonjjiovncqk1snhvtwdrfbehfzzj2avzxwu4woej0cuxnbi1nsgh4wkm5v3z5rtyyrwrncfvasjk5zxvwmeyxbmpxt0v1r00wbjlurxjkmzztsnv3vxj5thzcbkfdqluzukx0z2dftvfnzwxgd0txs3joehbinglbegl6m2ttwddnlwdqsu9msmpyn05rac00cmrsy0rtvfyxuwziwv9zyla?oc=5": {
+      "headline": "OpenAI’s Pentagon deal raises new questions about AI and mass surveillance - Fortune",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:19:45.433979",
+      "last_seen": "2026-03-03T14:19:45.433994"
+    },
+    "https://news.google.com/rss/articles/cbmiuwnbvv95cuxpannyrmjpndfxzuvjnwnztmpivxr1sem0zktibk4wt3gzs2nfx1bssgpwmmr6nfdwwmd6ddrku3vxa1nwuwziddrjcu96uwzwclb6ntrwujhzufg0x2rldzfowvnicehrlwrgcvn5yke2ymwzeljnnmtbzvuzvvhzlvhszm1tb29zq1hubkznak1uam5kaut4vmpicflfa0vzvep6dvy0ow1fajdszll5efribfnnnjzft2ninjztuwqztje4wdu2wf8yr3hetdb6suzbvlfnsmt5sdl3cdk2bvfecuntmxjua2gzntddr3vmbdrhd0flcef0nmlbsnnfq2zlzuszchlwa1vwtvnpeuhgu29jeujmtuq5t3rxaufmbfa4dtjcs01vykhbv28yu3dyoghay2x6tvloowhfchziwlzmsjlmm3hccxk4stdoq19fwxbkunlglwlrovnucgzqwg1oqmnfufl6yvpky2tkrnbpaw0wuhktyveyoddjeu5wdk1ongjhujl4ulo5qjvxaeq5znvnvdfpmdu5rvhmcnfbethcwllzrvy3qwrzbgxdnu9qvf9icw?oc=5": {
+      "headline": "Exclusive | OpenAI CEO Sam Altman Defends Pentagon Work to Staff, Calls Backlash ‘Really Painful’ - WSJ",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:50.773746",
+      "last_seen": "2026-03-04T14:04:50.773767"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxnwtiwltvlohcxwevwcthcnepiwfpkukphanrhz3k4wklpulvqb01funbqofktymvxwwrormzom3ppcldrbhb3zwfsbtltmxlywee2ejdnr3piyzzgekz0cmjlsnbhskxoetlvtlzxc1n5ulrxynbfsnzhs2hpqtq2z0jnr2y5agxzrwzamjazml9ianm3rfdvzep4nw1mluh6q1vtt0rmddtsaa4bqvvfexfmtlawchm5cldknmfcwgnlmvl2y2lssxrgewrxtgfnqnfpq2w2ngdtchd0by1humxgc2lmbmq5nmhivew3dgntcevbsxdrx0r1agnhy3flvvflmevsn3pqbu5todbon2nmmdvxtznnu0f2rlrpte9tcf91s3a0ulpjuwfxu3jtteu0cjjza1m2vzdlbfetywyyq2jetmj6edyyvnfzd3hrohfvq2xlttrr?oc=5": {
+      "headline": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:55.077230",
+      "last_seen": "2026-03-04T14:04:55.077257"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxqd0e3sun0ulnvshlqvmh1ulrfnw5gaenpxzftren4axplcwl4yutqv1byr2vfoffjcertazhreduxetlwng9untnoawyzrhbbqs1xc25nx2ppy2timudqtmwxumvld3fmal96dnlxrhrpm3i1q3dcwwk2r2j0yxfkqwpwr1psa2u1m3cyqnhvrjmtdzjcaw9jylvzowjsu2dklwdheezruku5vlq0y1vit0pjzjzvuq?oc=5": {
+      "headline": "OpenAI is developing alternative to Microsoft's GitHub, The Information reports - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:04:59.390041",
+      "last_seen": "2026-03-04T14:04:59.390064"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxnrjbnwf9nskrst25jafzyogvccfriduu0auplcvn1vne4rwffuukyqxroyvnqbtvmehowukn3owh0eny0sduyzmnzwuz6mgrmekc2vlb5tm8tvvjxchbvvvpqne96amtirzfzbhjgoe0wz2xammnrbnbztefruti1a1hpu0y3tejtdmfdzhferuw?oc=5": {
+      "headline": "OpenAI Is Developing an Internal Alternative to Microsoft’s GitHub - The Information",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:05:03.267606",
+      "last_seen": "2026-03-04T14:05:03.267657"
+    },
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxnyxdtuf9ncs1togpsntzlues0b0dstgn2ejvmlxdnetdkyjvuuxk0a29irza5tw1tcs1kwlf5tjnfvvk2oehtqxljv0uywm1zedrwwtfpykldrzjkctldtlntb0pwzy1iwgjbq3z6bne4beflrktdynboy2joewywwmx6lvftnnjpszrkqm1wvfnunxj6vktoy1bmvg5mb201r3vwatzhvglfdgs4bm1v?oc=5": {
+      "headline": "OpenAI alters deal with Pentagon as critics sound alarm over surveillance - NBC News",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:05:07.937078",
+      "last_seen": "2026-03-04T14:05:07.937094"
+    },
+    "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnnklzs1phzhphzms3rm53mhrwzjrzavfhrs1myjv5wdngqkzyoxpyc1hsng9vzgfymdjhawmyajlvnfa2qlf2mzrkntj0bdgtzuloyw9zbfe2q0vkumxon1n5yu80ektzbgkztuvuytlyz2hncxhxrnzpqvzlcez1s2hgzxr0s3f5ddq4?oc=5": {
+      "headline": "OpenAI Held Early Talks With The Trade Desk to Sell Ads - The Information",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:07:52.954184",
+      "last_seen": "2026-03-05T12:07:52.954200"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnwgz4ogldb1rxexbtd2zmb09gofmzdezgogrtnxzcr1dfuextbmfewevtx1rfyxp3whfvuhb5eehrnzjolwxis3duy0vxv2wzunnxzfu1q1dvqxl0aunaamnqv3rgbwtuc1n2bmfatghlsem3cuj1atn4nmr2zg9mslzvrq?oc=5": {
+      "headline": "Sam Altman admits OpenAI can’t control Pentagon’s use of AI - The Guardian",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:07:56.704277",
+      "last_seen": "2026-03-05T12:07:56.704297"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxomwrwyxrpmkw2ckthr09fatjnz2ezovljdeq4c1rnc0xvx2vpugtcnxb4bel4ckdfnedyb09zd3dwqwhfwufrtwx1egtmofpvum5hmzhzqxc2rgjfemzebnlvz1vltw1hv1lvykdyovfkavvtse00z2lpzdfmbguxchhvc1hxskpfwmq4y2vvsu9js3foegxgr3q5adhlqvd6ekcxstjslvfkn2cyuhrxx05hbnzsywfheer5r1hibxu?oc=5": {
+      "headline": "OpenAI held talks with The Trade Desk to sell ads – The Information - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:08:00.625268",
+      "last_seen": "2026-03-05T12:08:00.625285"
+    },
+    "https://news.google.com/rss/articles/cbmi3afbvv95cuxougzrodn2q1lhy1hswut5d3rwm1pnb0d3c202q2rxwtlimi1yzmh3ou1ysgtirmsxbhdasuy5zzzsyv9kvfjxogiwugtlclv5qzhlrmvswun3am03owjpag9vm3b2ohplmf9zcgrmt2thtfj0qvd4ew96rvdhntjbs1vlz19lcglcsxhjmviwzejtrkjqmkx1dmc0chbxclroos1vvkrtqwhmwxc2rzf5luhqenfawmtwcwzdt2vhzvlrtzjhsjqxmzr5z2xdbfzvauxmtvitcllycjbg?oc=5": {
+      "headline": "The Department of Defense’s Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act - Center for American Progress",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:08:05.237628",
+      "last_seen": "2026-03-05T12:08:05.237643"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte9uuxbibfzpthmzoe5yqkronwjjdwvfx0xwnuxnvnfzagdgdjvjvxzsa0d6dmpkdtu2x2z6behndtvmluh6nkljmvjid0pfmzdasvhozwlfa1bkwwr6cutnx3vzzxzxwg8ydxlxduywslbzzkozakhsaxtbvv95cuxobxzmz2i5y1zltxfgtwvzvuiwrmnobm40enrhdhr2mm5kqmvvzvznrhbkstdby0lwru1tovblcjb6y3fpzl9nzuywb3rmakpcvjjdu0lvoxndzfpfykxlswt4blnts0zvwvroou9uzzfwu1vnal9nazhyatg?oc=5": {
+      "headline": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last' - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:08:09.370240",
+      "last_seen": "2026-03-05T12:08:09.370261"
+    },
+    "https://news.google.com/rss/articles/cbmiwefvx3lxtfbfwujgvxr5tezor3lxzdlvvzmzvhj6tezzdtnmogrqlvjjcmhxazmxdjhsbxrlvzzoumk5vgtyuws4djn6utdtuzj3bffibi04bfddsktjalu?oc=5": {
+      "headline": "Introducing GPT-5.4 - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:06:09.541793",
+      "last_seen": "2026-03-06T12:06:09.541811"
+    },
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxqnuxty1nxn2v6r0q3y3rwsgvnn0vlsuxlehpdskvkde05m3lowjzccmniz1rurgt0oxbmukrnbgvsnvbksw5pegxybux6djfkouc2wuuxzjdxb0ntltjkeglerlzuzxjhzhjpshv5envrdi1rber0nxrwbwjitehoswx4wnl3ytfoewd3zjjmvdnud3bnbtk4a3dmzwzxx2rzb1j5dghormtnwxo0wnzia0utelp1sgfhx2der2f1t1n6afiyadjqcfvpmle1ctbxs2phme9tytfldw?oc=5": {
+      "headline": "20VC x SaaStr: The AI Power Grab — Anthropic Blinks, OpenAI Raises $110B, and Every CEO I Know Wants to Cut 40% of Their Team - SaaStr",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:06:22.310138",
+      "last_seen": "2026-03-06T12:06:22.310164"
+    },
+    "https://news.google.com/rss/articles/cbmibkfvx3lxte1hqwphs2lodmvnrtkzdw56ukxsvddgcephmvzbcvc1evpnqkjdsjewy0xddlrym3leejbscwvezgphuhlscjdfqxnxzgi0z21wvy1qwghiuhktue1vtzzeofhraktqemoxqlztvi13?oc=5": {
+      "headline": "OpenAI releases new ChatGPT model for working in Excel and Google Sheets - Axios",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:06:26.833197",
+      "last_seen": "2026-03-06T12:06:26.833215"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxte1az2y4tvlkegzqexvmd2gzs2jubzznywvteez1rxjodu1hx3vwlwjkcge3y2xuodbgzlq0vfducvlxtm11m1hdd0zyu2n0b1lxak0xzlhkshm3u3nvx04yttfadey1sufpyy16vurwc01qawvjvmvwvhbqwjh4qwpsayqbqvvfexfmtxktbzbjzk5ywgg3skjxn2j4ahpxue9hcfq5q0lanfnszfvprgndwgflmulaqtn0sgvbzhnstg5gm1i2ntjzoex6vzctrtzkmzg1vde5m0jit0gxtk1ubhzxzhnmcmnlx3etaeflymdrmepqv0dsrelsuw1osnrmuuljv3fm?oc=5": {
+      "headline": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:06:31.630811",
+      "last_seen": "2026-03-06T12:06:31.630829"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqvhbiulu2evu1r2jknedurjntdja3agdpdvnzahffudvwbtlaagnfcmlowfptotbzlve1zjjvq0nzawnrr2hzv01islfjsg5sz0fkstnjm1dst0rgdwhfu05oaghyotlkm29obup1dud3ttd3cw1sbdvvrfdrwktlalnryunobedfcldivelqtdnyckphc2c?oc=5": {
+      "headline": "OpenAI robotics leader resigns over concerns about Pentagon AI deal - NPR",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:05:48.952072",
+      "last_seen": "2026-03-09T13:05:48.952093"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoeglkz1b5m2xqmwlios1rv2ztn01ryvdvbuh1znbpr096dzbzwezjq0njvjzen2tydg44nfjdn0ixzjdaq1z6mgrqtllmwmm1wgt2x3fmbnhjv2zythboshh2zefvcejwcmfivg0wofdutvrxrkrnuwv4rhhqdjjmum1jdgrbdel4wug0ouroythuwi1ustfxcwzumffsaaibqvvfexfmtuvht3y4avvcsnq1ujdbtzyyq0ttdedsntl4t0pmvtdowtvfbs16ady1bwvtufdtuddozvvjmvbfefdrt3zsls1balvasmxtslpgreztmuxnudjvx05sz3bjtl9klxnwdvf3nkttthjinddselnkvlvsbmdqrkqywkthszhpanryd1zrykdzb056rnayahzsofnsc3pad0vosxrb?oc=5": {
+      "headline": "OpenAI hardware leader resigns after deal with the Pentagon - CNBC",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:05:52.322778",
+      "last_seen": "2026-03-09T13:05:52.322824"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqn1drwnlhnvlurm9tqwluognomfvfcfuzbg5uuufcehjirgj6dvvkn2m1uuu0offnwvowcthkddf2ctb5wgryuv9lc2tgthkzdlh1cfdoswhiahkzwdk2dnz5s2dvwjf5depjdxlzcglizky1ovprzwu4nm9mwlgzu1hwngljvlvbm3rkn3zqn0zxufe2tfe?oc=5": {
+      "headline": "OpenAI on Surveillance and Autonomous Killings: You’re Going to Have to Trust Us - The Intercept",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:05:56.997762",
+      "last_seen": "2026-03-09T13:05:56.997791"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte8zsed0ztdjcnmxwjdxrgxiegj3dmlubkczemlwq0u4nvpsouxfyxjgahfrndvocexqlxbyytj0y0zlltfyzgmyzhlsahluwlltb3dqqw41zwxxatlwm01ualezv05oymtlsda1c1g2snz5wuhzykv0qxc0zhi?oc=5": {
+      "headline": "Jensen Huang Says Nvidia's $30 Billion OpenAI Investment 'Might Be The Last' Before IPO - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:06:00.096876",
+      "last_seen": "2026-03-09T13:06:00.096905"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxod0nanlrpodlfsdlkztlyywjxx2cybvhhvdbnr0plrnizvlgzcejur3qxatlgqmrdlwrsdtdlt2ntmxrxewf5adq3uhq5twvfbwnmymvuzu9wb2fxumzqa2lqrv8zuwlkvvo2cxh0t29oeedwde4xtkdxsdjcevjiyzrywelvq0zjs2rbmmz3ynfiq1raluhtvg94wvrpewhin0lkwflwduvaa0wxwmo5bu94cknjlxmzdhrj?oc=5": {
+      "headline": "OpenAI rolls out GPT-5.4 Thinking in ChatGPT | ETIH EdTech News - EdTech Innovation Hub",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:06:05.128111",
+      "last_seen": "2026-03-09T13:06:05.128137"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxtfbocmlqovfocktatgppcvpoqmy1ntltawzzvkfnrgp6lxlxwmjrsmlptzl0wl9fsv9px2xyrulozljnrdnsnudsuzbcqwjfyvrymwlhn2d4cthit0lvwtbndvlzzw?oc=5": {
+      "headline": "OpenAI to acquire Promptfoo - OpenAI",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:51.299678",
+      "last_seen": "2026-03-10T10:58:51.299696"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpx2nice81vknhshlvcvdwtta5mxvvd082eknhtmzfawlbcglyv3nyzwheb3bqzmnjr3n3txb6xzj0swveagnjrtbqcfvudglnsny1em9pofe5sni1uvbxqnjzdvphcetyunbdmettmjb3cer0rmrpathfcnnrrdzic2tootgzwgfsdg1lbjhjndvptnfyefrpthvn?oc=5": {
+      "headline": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government - WIRED",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:56.022050",
+      "last_seen": "2026-03-10T10:58:56.022069"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxosu5pdgdwudrfyzvvdwrnnuvex1fatkxhbhk3quqwt0jprc1lcgfomtzkq1lqoun2zfbrwglttm9qce11wnnzz3rnqvnlt2huytd1x2o1m01idxuwuhk4oejzx2trmv9ewvrgevlwcknsrvnltzjbcu0yn2rjvg1rwxbgbzzpyjr0ahr3avzxqxrsvzn1svvytdf4axdfbvzcrkfdtxbmevfyvlqtbdvfbuhsthrvy1d4ztnplvpyzmc?oc=5": {
+      "headline": "OpenAI delays ‘adult mode’ for ChatGPT to focus on work of higher priority - The Guardian",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:58:59.915120",
+      "last_seen": "2026-03-10T10:58:59.915138"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqtv94u2jls0fuuk5eajzbnlh0zk95u094retqmtvvmm5lzthnvhnmqwh3qtlztgjyrepqvmjktxn5m0eza01ucerpuxz3qnhzywtzay1qckziy20twvzqzjnctth6cgxznjhmmkjvngzsdtfmr2tkekwzefuydtlsne1oamrsayobqvvfexfmt0u0cufsqwpsznfqqkhueuuyltfvsgswmuhzmkh2nnptotdtuuhkblvenzjwymytavpkwi1rztfgv0lise9ieww1unhqng5mvmfodtfute9bamtcczdywdl4ymn2rvp6ulphdupjr0zrmmhqy25pmzvgqjluluzravfwyy1rtudqbvl3?oc=5": {
+      "headline": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents - CNBC",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:04.151606",
+      "last_seen": "2026-03-10T10:59:04.151625"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxpaxk3mgi4skvvzmg0vkxwexqtwhlcafnmrzutuhpsbxbjtnh5dxp0sfnzq0jroxljc0hnu0ppdhrysegynuzuzm1ywgdfzs1pdnk4ctlgvujfluhwwxn0du10duzquw9pv1vvmlrlxzvhy1dknljldmfmdtk3ne1smu9vx2lfmv9tazzicffuvudrnvl3wdvbsnpjctg3sk91nmpmae1ubw?oc=5": {
+      "headline": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit - TechCrunch",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:08.540046",
+      "last_seen": "2026-03-10T10:59:08.540066"
+    }
+  }
+}

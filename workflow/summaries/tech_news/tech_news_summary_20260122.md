@@ -1,0 +1,35 @@
+## Tech News
+
+- **Apple developing AI wearable and revamping Siri as AI chatbot**: Apple is reportedly working on an AI wearable device and plans to transform Siri into a ChatGPT-like AI chatbot in iOS 27.
+- **OpenAI to launch AI hardware device, possibly earbuds, in 2026**: OpenAI aims to release its first hardware, likely AI-powered earbuds, with a custom processor for local AI tasks.
+- **Chinese tech giants race to build AI-powered 'super apps'**: Alibaba, Tencent, and ByteDance are developing AI-driven super apps for commerce and payments within chatbots.
+- **RadixArk spins out from SGLang with $400M valuation amid AI inference boom**: RadixArk, focused on AI inference optimization, secures major funding as the market rapidly expands.
+- **OpenEvidence, 'ChatGPT for doctors,' doubles valuation to $12 billion**: OpenEvidence raised $250 million, now valued at $12 billion, serving millions of clinical consultations with its AI medical platform.
+- **Emergent AI platform raises $70 million in Series B led by SoftBank**: Emergent, an AI software creation platform, secured $70 million in funding, bringing total investment to $100 million.
+- **WeLab completes $220 million Series D to expand Southeast Asia and AI initiatives**: Hong Kong-based WeLab raises its largest funding round to date, supporting regional and AI growth.
+- **Ant AI secures nearly 100 million RMB to expand automation services in China**: Ant AI will use new funding to scale its intelligent automation platform for businesses nationwide.
+- **Atomic Reshaping completes major funding round for digital manufacturing equipment**: AtomForm raises over 100 million yuan to enhance production and develop next-gen digital manufacturing technology.
+- **Super Magnetic Energy raises hundreds of millions RMB for nuclear fusion magnetic tech**: The company will use new capital to develop high-temperature superconducting magnets for commercial nuclear fusion.
+- **Meta begins global rollout of ads on Threads social platform**: Meta is introducing ads on Threads worldwide, targeting its 400 million monthly users with new ad formats.
+- **YouTube to let creators use AI likenesses in Shorts and upgrades multiview feature**: YouTube will enable AI-generated creator likenesses in Shorts and allow users to mix and match channels in multiview.
+- **X introduces 'Starterpacks' feature to help users find accounts to follow**: X launches curated lists of suggested users, mirroring Bluesky's interest-based recommendations.
+- **Adobe Acrobat adds AI-powered editing and podcast summary features**: Acrobat now allows users to edit files with prompts and generate podcast summaries using AI.
+- **Todoist app now supports adding tasks via AI voice commands**: Productivity app Todoist enhances its AI integration with new voice task entry.
+- **Blue Origin to launch TeraWave satellite internet, rivaling SpaceX and Amazon**: Jeff Bezos' Blue Origin will deploy a 5,408-satellite network offering 6 Tbps speeds for enterprise and government clients.
+- **US semiconductor market sees upheaval amid China tensions and Intel surge**: The US chip industry faces leadership changes, export controls, and Intel's stock jumps on AI infrastructure demand.
+- **President Donald Trump and NATO reach Greenland deal framework, easing Europe tariffs**: President Donald Trump announced a framework deal with NATO on Greenland, suspending planned tariffs on Europe and boosting markets.
+- **Danish pension fund sells $100 million in US Treasurys over debt and Greenland tensions**: AkademikerPension divests US bonds, citing fiscal concerns and diplomatic strains with the US.
+- **Apps for boycotting American products top Danish App Store amid Greenland dispute**: Danish consumers drive boycott apps to the top, reflecting grassroots response to US-Greenland tensions.
+- **Amazon launches AI healthcare tool for One Medical members**: Amazon's Health AI provides personalized medical advice and appointment management for One Medical users.
+- **Nvidia CEO Jensen Huang says AI will create jobs, not eliminate them**: Huang asserts AI will drive economic growth and new employment opportunities, especially in healthcare and robotics.
+- **Nvidia's Huang calls AI robotics a 'once-in-a-generation' opportunity for Europe**: European industry is urged to capitalize on AI-driven robotics, with major investments from global tech firms.
+- **Deutsche Bank warns 'honeymoon is over for AI' due to bottlenecks and regulation**: Analysts predict challenges for AI in 2026, citing resource shortages and rising distrust.
+- **Meta's $2B Manus acquisition prompts customer departures over data concerns**: Some Manus clients leave after Meta's purchase, citing trust and data privacy issues.
+- **Anthropic revises Claude chatbot's ethical framework, hints at AI consciousness**: Anthropic updates Claude's 'Constitution' and raises questions about AI's moral status.
+- **NeurIPS AI conference papers found with hallucinated citations**: Analysis reveals fake references in top AI research, raising concerns about academic reliability.
+- **OpenAI and Anthropic target enterprise clients for growth at Davos**: Both AI firms focus on expanding enterprise business for stable revenue.
+- **YouTube CEO prioritizes managing 'AI slop' and deepfakes in 2026**: YouTube is enhancing detection and labeling of AI-generated content to maintain trust.
+- **Elizabeth Holmes requests early prison release from President Donald Trump**: Holmes seeks intervention for early release, with no further details provided.
+- **Prince Harry accuses Daily Mail of making Meghan's life miserable**: Prince Harry expresses distress over media treatment of his wife Meghan.
+- **Federal judge halts DOJ review of devices seized from Washington Post reporter**: The ruling comes amid legal disputes over journalistic materials.
+- **De Beers announces diamond price cuts amid synthetic competition and weak demand**: The world's largest diamond producer reduces prices after years of resistance.

@@ -1,0 +1,29 @@
+## Tech News
+
+- **Ethos set for first major tech IPO of the year**: Insurance tech firm Ethos plans a $102.6 million IPO at a $1.26 billion valuation.
+- **WeLab completes $220 million Series D funding**: Hong Kong-based fintech WeLab raises its largest round to date, backed by major regional banks.
+- **Bolna raises $6.3 million for India-focused voice AI platform**: Voice orchestration startup Bolna secures seed funding led by General Catalyst, expanding its multilingual AI services.
+- **Super Magnetic Energy secures billion-yuan funding for nuclear fusion tech**: Shanghai-based company raises significant financing to advance high-temperature superconducting magnet technology for nuclear fusion.
+- **Xushui Technology and Xulun Technology raise over 100 million yuan each for AI and semiconductor materials**: Chinese startups secure major funding rounds to boost AI and semiconductor innovation.
+- **OpenAI introduces age prediction for ChatGPT to protect minors**: ChatGPT will now estimate user age and restrict content for under-18s, with optional ID verification.
+- **Netflix to redesign app for short-form video and daily engagement**: Netflix plans a mobile app overhaul to compete with TikTok and Instagram, emphasizing vertical video and podcasts.
+- **US President Donald Trump enacts 25% tariffs on chips, escalating trade tensions**: New tariffs target semiconductor imports amid broader US-China and US-Europe disputes.
+- **Tech stocks lead Wall Street sell-off as Greenland tensions rise**: Major tech shares drop over 1% as US President Donald Trump threatens tariffs on countries opposing Greenland’s sale.
+- **Global investors flee US assets amid ‘sell America’ trade**: US dollar and Treasury prices tumble, gold spikes, and stock indices fall on geopolitical and fiscal concerns.
+- **Greenland’s Prime Minister warns of possible US military action**: Greenland prepares for all scenarios as US military presence and diplomatic tensions increase.
+- **Greenland’s freshwater reserves seen as strategic ‘frozen capital’**: Melting ice cap positions Greenland as a key player in global water security.
+- **Danish pension fund sells $100 million in US Treasurys over fiscal worries**: AkademikerPension cites US debt and Greenland tensions for divestment.
+- **President Donald Trump signals Greenland takeover strategy, heightening diplomatic strain**: US President Donald Trump hints at further action regarding Greenland, causing concern in Denmark and Europe.
+- **Anthropic CEO criticizes US chip export restrictions on Nvidia at Davos**: Dario Amodei warns that export bans could harm national security and AI industry growth.
+- **Apple teams up with Google Gemini for AI-powered Siri**: Apple partners with Google to enhance Siri with Gemini AI technology.
+- **Elon Musk shifts Tesla’s Dojo3 project to ‘space-based AI compute’**: Tesla will focus on high-performance AI infrastructure for space applications.
+- **ServiceNow inks deal with OpenAI to boost enterprise AI stack**: ServiceNow will integrate OpenAI’s GPT-5.2 model to enhance its AI capabilities.
+- **Binance eyes possible reentry to US market as Ripple CEO predicts return**: Binance adopts a cautious approach after exiting the US in 2023.
+- **Jim Cramer warns of market speculation and urges profit-taking**: Investors advised to lock in gains amid rising volatility and frothy valuations.
+- **Microsoft CEO Satya Nadella says energy costs will decide AI race winner**: Nadella highlights energy efficiency as key to AI industry leadership.
+- **AI startup Noumena completes two funding rounds for AI-driven marketing**: Noumena secures investment for its “Growth Intelligence” platform, aiming to transform digital marketing.
+- **Meta’s Instagram Reels dominates ad placements in 2025**: Over half of Instagram ads ran on Reels, reflecting Meta’s shift to short-form video.
+- **Salesforce CEO Benioff calls for AI regulation after recent suicides**: Benioff urges tighter controls on AI following incidents linked to mental health.
+- **NASA finds strongest evidence yet of ancient life on Mars**: Mars rock discovery marks a breakthrough in planetary science and habitability research.
+- **Black hole collision confirms Einstein and Hawking’s predictions**: New astrophysics findings provide further evidence for gravitational waves and black hole theories.
+- **Rare ‘tooth-in-eye’ surgery restores man’s vision after 20 years**: Innovative procedure highlights advances in medical technology for vision restoration.

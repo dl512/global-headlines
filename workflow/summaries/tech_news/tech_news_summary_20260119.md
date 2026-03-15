@@ -1,0 +1,34 @@
+## Tech News
+
+- **Sequoia invests in Anthropic, breaking VC rival taboo**: Sequoia Capital joins a $25B round for Anthropic, backing multiple competing AI firms including OpenAI and xAI.
+- **Physical AI and robotics hype grows at CES 2026**: CES 2026 spotlights embodied AI in robotics and automation, with major players like Hyundai and Mobileye leading innovations.
+- **Threads surpasses X in daily mobile users**: Meta’s Threads overtakes X (formerly Twitter) with 141.5 million daily mobile users, driven by new features and engagement strategies.
+- **Moxie Marlinspike launches privacy-focused AI chatbot Confer**: Confer encrypts messages and processes data securely, offering a privacy-first alternative to ChatGPT.
+- **OpenAI to begin testing targeted ads on ChatGPT in the US**: OpenAI will introduce ads for free and Go users, aiming to generate new revenue without selling user data.
+- **OpenAI commits billions to chip deals, diversifies suppliers**: OpenAI signs a $10B chip deal with Cerebras, adding to partnerships with Nvidia, AMD, and Broadcom.
+- **AI chip demand fuels record highs for TSMC, ASML, and Micron**: Strong AI-driven demand boosts TSMC earnings, ASML’s stock, and Micron’s expansion plans in the US.
+- **Chai Discovery, an AI biotech startup, partners with Eli Lilly**: The OpenAI-linked startup secures major funding and a deal to accelerate AI-driven drug development.
+- **US President Donald Trump seeks up to $134B in OpenAI lawsuit**: President Trump sues OpenAI and Microsoft, alleging they abandoned OpenAI’s nonprofit mission for profit.
+- **US President Donald Trump proposes $1B for permanent Board of Peace seats**: Nations are invited to pay $1B for permanent seats on a new board overseeing the Israel-Hamas ceasefire.
+- **California AG orders Musk’s xAI to halt sexual deepfakes**: xAI faces a cease-and-desist over AI-generated explicit content, highlighting regulatory and ethical challenges.
+- **EPA rules Musk’s xAI illegally used natural gas turbines**: xAI is found in violation of environmental regulations at Tennessee data centers, complicating expansion plans.
+- **States led by Texas move to add Bitcoin to public reserves**: Texas becomes the first US state to purchase Bitcoin for its reserves, with others considering similar moves.
+- **Google appeals US search monopoly ruling**: Google files to overturn a federal court decision finding it held an illegal internet search monopoly.
+- **DeepMind and Google accelerate AI competition with OpenAI**: DeepMind CEO and Google’s CEO coordinate daily as Google ramps up AI product development.
+- **Australia-style under-16s social media bans gain traction globally**: The UK considers following Australia’s lead in restricting social media access for minors.
+- **Supreme Court hacker pleads guilty to posting stolen US government data**: Nicholas Moore admits to hacking and leaking sensitive data from US agencies on Instagram.
+- **ClickHouse raises $400M, hits $15B valuation as database challenger**: The open-source database firm grows rapidly, serving clients like Meta and Tesla.
+- **TikTok launches PineDrama microdrama app in US and Brazil**: TikTok expands into short-form storytelling with a new standalone microdrama app.
+- **Billionaires 4,000 times more likely to hold public office**: Study highlights extreme wealth and political inequality, with billionaires dominating political positions.
+- **US President Donald Trump’s tariffs on European goods face Supreme Court review**: The Supreme Court is unlikely to overturn Trump’s tariffs, with new measures targeting Europe over Greenland.
+- **Ethical concerns grow over space resource exploitation**: Experts warn current laws favor nations and corporations in space mining, raising fairness and cooperation issues.
+- **Runpod AI cloud startup hits $120M ARR from humble Reddit beginnings**: Runpod grows rapidly through partnerships and investor interest in AI cloud services.
+- **Survey finds CEOs and CISOs divided on AI cyber risks**: CEOs see AI as a benefit, while security leaders warn of increased cyber threats.
+- **NASA Mars rock discovery shows ‘clearest sign’ yet of ancient life**: NASA finds strong evidence of past life on Mars, advancing planetary science.
+- **Black hole collision confirms Einstein and Hawking’s predictions**: Astrophysicists observe black hole merger, validating decades-old theories on gravitational waves.
+- **Apple teams up with Google Gemini for AI-powered Siri**: Apple collaborates with Google to enhance Siri’s AI capabilities.
+- **Rare ‘tooth-in-eye’ surgery restores man’s vision after 20 years**: Innovative procedure successfully returns sight, marking a medical milestone.
+- **Warren Buffett’s pledge to donate 99% of wealth may test Berkshire’s defenses**: Buffett’s giving plan could weaken Berkshire Hathaway’s shield against activist investors.
+- **Minimum retirement savings in US states tops $2M in Hawaii**: Retirement cost estimates show wide state-by-state variation, with Hawaii the most expensive.
+- **Parenting expert shares ‘magic phrase’ to teach kids emotional intelligence**: “Tell me what feels hard right now” helps children express and manage emotions.
+- **Oshen’s ocean robot collects data in Category 5 hurricane**: Oshen’s autonomous micro-robots gather critical weather data in extreme storm conditions.

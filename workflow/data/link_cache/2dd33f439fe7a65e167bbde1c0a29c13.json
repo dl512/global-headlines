@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00800-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306442576/weride-w-notice-of-class-b-meeting-to-be-held",
+    "https://news.futunn.com/hk/notice/306442607/weride-w-form-of-proxy-for-class-a-meeting-to",
+    "https://news.futunn.com/hk/notice/306606842/weride-w-monthly-return-of-equity-issuer-on-movements-in"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306442576/weride-w-notice-of-class-b-meeting-to-be-held": {
+      "headline": "文遠知行-W：將於2026年3月13日（星期五）舉行的B類股東大會（或其任何續會或延會）的代表委任表格",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:41:40.127069",
+      "last_seen": "2026-02-09T21:41:40.127077"
+    },
+    "https://news.futunn.com/hk/notice/306442607/weride-w-form-of-proxy-for-class-a-meeting-to": {
+      "headline": "文遠知行-W：將於2026年3月13日（星期五）舉行的A類股東大會（或其任何續會或延會）的代表委任表格",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:06:13.530817",
+      "last_seen": "2026-02-10T11:06:13.530831"
+    },
+    "https://news.futunn.com/hk/notice/306606842/weride-w-monthly-return-of-equity-issuer-on-movements-in": {
+      "headline": "文遠知行-W：截至二零二六年二月二十八日止之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:50:41.798033",
+      "last_seen": "2026-03-06T11:50:41.798047"
+    }
+  }
+}

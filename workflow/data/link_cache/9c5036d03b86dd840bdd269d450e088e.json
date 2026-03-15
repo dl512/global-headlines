@@ -1,0 +1,77 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02665-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/67862339",
+    "https://news.futunn.com/hk/post/68669722",
+    "https://news.futunn.com/hk/post/68103837",
+    "https://news.futunn.com/hk/post/67890724",
+    "https://news.futunn.com/hk/post/69334846",
+    "https://news.futunn.com/hk/post/69390194",
+    "https://news.futunn.com/hk/post/69771218/innovusion-02665-has-been-officially-included-in-the-shanghai-hong",
+    "https://news.futunn.com/hk/post/69779905/seyond-shares-to-join-stock-connect-programs",
+    "https://news.futunn.com/hk/post/69720957",
+    "https://news.futunn.com/hk/post/67803588"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/67862339": {
+      "headline": "快訊 | 廣東：拓展無人駕駛公共交通運營區域，擴大智能網聯汽車道路測試與示範應用範圍",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:36:00.477442",
+      "last_seen": "2026-02-09T21:36:00.477451"
+    },
+    "https://news.futunn.com/hk/post/68669722": {
+      "headline": "激光雷達市場洞察：如何守住高階智駕的安全",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:01:12.264483",
+      "last_seen": "2026-02-10T11:01:12.264497"
+    },
+    "https://news.futunn.com/hk/post/68103837": {
+      "headline": "Seyond圖達通斬獲福田汽車獨家定點，共築智能重卡新標杆！",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:01:18.653260",
+      "last_seen": "2026-02-10T11:01:18.653270"
+    },
+    "https://news.futunn.com/hk/post/67890724": {
+      "headline": "2025胡潤中國獵豹企業榜出爐：304家企業上榜，33家「升級」退出",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:01:23.704269",
+      "last_seen": "2026-02-10T11:01:23.704284"
+    },
+    "https://news.futunn.com/hk/post/69334846": {
+      "headline": "從CES舞臺看未來：激光雷達如何「滲透」生活與工業場景？——對話圖達通CEO鮑君威",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:09:46.181314",
+      "last_seen": "2026-02-27T12:09:46.181329"
+    },
+    "https://news.futunn.com/hk/post/69390194": {
+      "headline": "無人配送車激光雷達搭載量排名：速騰聚創第一，禾賽和圖達通位列第二和第三",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:05:16.427188",
+      "last_seen": "2026-03-03T14:05:16.427204"
+    },
+    "https://news.futunn.com/hk/post/69771218/innovusion-02665-has-been-officially-included-in-the-shanghai-hong": {
+      "headline": "快訊 | 深港通下的港股通標的證券名單調整，調入先導智能、滴普科技、京東工業等，3月9日起生效",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:45:36.263471",
+      "last_seen": "2026-03-09T12:45:36.263487"
+    },
+    "https://news.futunn.com/hk/post/69779905/seyond-shares-to-join-stock-connect-programs": {
+      "headline": "Seyond股份將加入股票互聯互通計劃。",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:37:35.663671",
+      "last_seen": "2026-03-10T10:37:35.663688"
+    },
+    "https://news.futunn.com/hk/post/69720957": {
+      "headline": "圖達通(2665.HK)深度報告：多元化場景賦能 開啓增長新紀元",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:37:36.370193",
+      "last_seen": "2026-03-10T10:37:36.370210"
+    },
+    "https://news.futunn.com/hk/post/67803588": {
+      "headline": "馬斯克勾勒自動駕駛宏偉藍圖，港股智駕概念漲幅擴大",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:37:37.112271",
+      "last_seen": "2026-03-10T10:37:37.112287"
+    }
+  }
+}

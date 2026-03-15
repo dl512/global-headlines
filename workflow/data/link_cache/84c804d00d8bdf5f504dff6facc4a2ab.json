@@ -1,0 +1,182 @@
+{
+  "website": "https://www.micron.com/about/press/news",
+  "links": [
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-participation-investor-event",
+    "https://investors.micron.com/news-releases/news-release-details/micron-breaks-ground-advanced-wafer-fabrication-facility",
+    "https://www.micron.com/about/press/news/micron-signs-letter-of-intent-to-purchase-tongluo-site-begin-strategic-partnership-with-psmc",
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-participation-investor-event-2",
+    "https://www.micron.com/about/press/news/micron-launches-worlds-first-gen5-g9-qlc-ssd-for-client-computing",
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-results-first-quarter-fiscal-2026",
+    "https://www.micron.com/about/press/news/micron-delivers-industry-s-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center",
+    "https://www.micron.com/about/press/news/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability",
+    "https://www.micron.com/about/press/news/micron-delivers-industry-s-highest-capacity-socamm2-for-low-power-dram-in-ai-data-center",
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-le\n\nno_link_found",
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-second-quarter-results-march-18",
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-17-2025",
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-signs-letter-intent-purchase-tongluo-site-begin",
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-opening-indias-first-semiconductor-assembly",
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-begin-strategic-partnership-psmc",
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-strategic-partnership",
+    "https://investors.micron.com/news-releases/news-release-details/micron-sets-new-benchmark-worlds-first-high-capacity-256gb",
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-begin-strategic",
+    "https://www.micron.com/about/press/news/micron-to-report-fiscal-second-quarter-results-on-march-18-2026",
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-groundbreaking-historic-new-york-megafab",
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+    "https://www.micron.com/about/press/news/micron-to-report-fiscal-first-quarter-results-on-december-17-2025",
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-results-first-quarter-fiscal-2026",
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-groundbreaking-historic-new-york-megafab",
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-opening-indias-first-semiconductor"
+  ],
+  "metadata": {
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-participation-investor-event": {
+      "headline": "Micron Announces Participation in Investor Event",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:51:34.077247",
+      "last_seen": "2026-02-09T21:51:34.077264"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-breaks-ground-advanced-wafer-fabrication-facility": {
+      "headline": "Micron Breaks Ground on Advanced Wafer Fabrication Facility in Singapore",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:51:40.502979",
+      "last_seen": "2026-02-09T21:51:40.502992"
+    },
+    "https://www.micron.com/about/press/news/micron-signs-letter-of-intent-to-purchase-tongluo-site-begin-strategic-partnership-with-psmc": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:51:47.082949",
+      "last_seen": "2026-02-09T21:51:47.082959"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-participation-investor-event-2": {
+      "headline": "Micron Announces Participation in Investor Event",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:15:14.846008",
+      "last_seen": "2026-02-10T11:15:14.846020"
+    },
+    "https://www.micron.com/about/press/news/micron-launches-worlds-first-gen5-g9-qlc-ssd-for-client-computing": {
+      "headline": "Micron Launches World's First Gen5 G9 QLC SSD for Client Computing",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:15:25.191860",
+      "last_seen": "2026-02-10T11:15:25.191875"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-results-first-quarter-fiscal-2026": {
+      "headline": "Micron Technology, Inc. Reports Results for the First Quarter of Fiscal 2026",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:15:28.586326",
+      "last_seen": "2026-02-10T11:15:28.586345"
+    },
+    "https://www.micron.com/about/press/news/micron-delivers-industry-s-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center": {
+      "headline": "Micron Delivers Industry’s Highest Capacity SOCAMM2 for Low-Power DRAM in the AI Data Center",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:55:52.038665",
+      "last_seen": "2026-02-11T11:55:52.038691"
+    },
+    "https://www.micron.com/about/press/news/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability": {
+      "headline": "Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility with Speed, Safety and Reliability",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:26:34.816586",
+      "last_seen": "2026-02-11T13:26:34.816601"
+    },
+    "https://www.micron.com/about/press/news/micron-delivers-industry-s-highest-capacity-socamm2-for-low-power-dram-in-ai-data-center": {
+      "headline": "Micron Delivers Industry’s Highest Capacity SOCAMM2 for Low-Power DRAM in the AI Data Center",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:45:47.654367",
+      "last_seen": "2026-02-12T12:45:47.654382"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-le\n\nno_link_found": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:06:37.726944",
+      "last_seen": "2026-02-20T12:06:37.726958"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-second-quarter-results-march-18": {
+      "headline": "Micron Technology to Report Fiscal Second Quarter Results on March 18, 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:16:32.921188",
+      "last_seen": "2026-02-25T13:16:32.921198"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-17-2025": {
+      "headline": "Micron Technology to Report Fiscal First Quarter Results on December 17, 2025",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:22:43.482144",
+      "last_seen": "2026-02-26T11:22:43.482159"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-signs-letter-intent-purchase-tongluo-site-begin": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:33:55.579014",
+      "last_seen": "2026-02-27T12:33:55.579030"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-opening-indias-first-semiconductor-assembly": {
+      "headline": "Micron Celebrates Opening of India’s First Semiconductor Assembly and Test Facility",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:28:23.108171",
+      "last_seen": "2026-03-02T10:28:23.108187"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-begin-strategic-partnership-psmc": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:28:31.148083",
+      "last_seen": "2026-03-02T10:28:31.148101"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-strategic-partnership": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:17:25.708827",
+      "last_seen": "2026-03-03T14:17:25.708845"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-sets-new-benchmark-worlds-first-high-capacity-256gb": {
+      "headline": "Micron Sets New Benchmark with the World's First High-Capacity 256GB LPDRAM SOCAMM2 for Data Center Infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:03:33.216727",
+      "last_seen": "2026-03-04T14:03:33.216743"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-signs-letter-intent-purchase-tongluo-site-begin-strategic": {
+      "headline": "Micron Signs Letter of Intent to Purchase Tongluo Site, Begin Strategic Partnership with PSMC",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:03:43.492880",
+      "last_seen": "2026-03-04T14:03:43.492901"
+    },
+    "https://www.micron.com/about/press/news/micron-to-report-fiscal-second-quarter-results-on-march-18-2026": {
+      "headline": "Micron Technology to Report Fiscal Second Quarter Results on March 18, 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:06:14.984860",
+      "last_seen": "2026-03-05T12:06:14.984874"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-groundbreaking-historic-new-york-megafab": {
+      "headline": "Micron Announces Groundbreaking for Historic New York Megafab",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:06:24.408336",
+      "last_seen": "2026-03-05T12:06:24.408352"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business": {
+      "headline": "Micron Announces Exit from Crucial Consumer Business",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:06:31.108643",
+      "last_seen": "2026-03-05T12:06:31.108660"
+    },
+    "https://www.micron.com/about/press/news/micron-to-report-fiscal-first-quarter-results-on-december-17-2025": {
+      "headline": "Micron Technology to Report Fiscal First Quarter Results on December 17, 2025",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:06:35.713048",
+      "last_seen": "2026-03-05T12:06:35.713063"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-results-first-quarter-fiscal-2026": {
+      "headline": "Micron Technology, Inc. Reports Results for the First Quarter of Fiscal 2026",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:04:26.393533",
+      "last_seen": "2026-03-06T12:04:26.393550"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-groundbreaking-historic-new-york-megafab": {
+      "headline": "Micron Announces Groundbreaking for Historic New York Megafab",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:03:43.078005",
+      "last_seen": "2026-03-09T13:03:43.078021"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-celebrates-opening-indias-first-semiconductor": {
+      "headline": "Micron Celebrates Official Groundbreaking at New York Megafab Site",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:57:21.294238",
+      "last_seen": "2026-03-10T10:57:21.294254"
+    }
+  }
+}

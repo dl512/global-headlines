@@ -1,0 +1,30 @@
+## Global Financial News
+
+- **European and US Markets Rebound as Gold and Silver Plunge**: European stocks closed higher with Stoxx 600 up 1%, while gold and silver prices saw historic declines and US markets rose amid renewed bitcoin attention.
+- **South Korea's Kospi Volatile Amid Regional Swings**: South Korea's Kospi index fell over 5% triggering a trading halt, following recent record highs and mixed performance in other Asia-Pacific markets.
+- **Hong Kong Stocks Hit by Taxation Rumors and Tech Selloff**: Hong Kong stocks dropped sharply on rumors of potential tax changes, with major tech stocks like Tencent and Baidu falling over 3%.
+- **US Dollar Near Four-Year Low After President Donald Trump Comments**: The US dollar weakened to a near four-year low after President Donald Trump signaled a softer tariff stance and markets anticipated Fed rate cuts.
+- **Gold Price Volatility and Wall Street Influence**: Gold prices swung sharply, surging to record highs after the Fed held rates steady, then plunging 3% amid Wall Street-driven selloffs.
+- **Oil Prices Surge on US Output Disruptions, UBS Predicts Pullback**: Oil prices jumped 3% due to US winter storms, but UBS forecasts a phased pullback if Iran tensions ease.
+- **EU Strikes Landmark Trade Deal with India**: European stocks rose after the EU announced a major free trade agreement with India, covering 25% of global GDP.
+- **China's Insurance Sector Hits Record Premiums**: China's insurance sector reported over 4.3 trillion yuan in premiums, marking a record year amid an interest rate "encirclement."
+- **Chinese Tech Stocks Under Pressure from VAT Concerns**: The Hang Seng Tech Index neared bear market territory as fears of higher VAT for internet companies triggered a selloff.
+- **Hong Kong Engineering and Machinery Stocks Strengthen**: Hong Kong-listed engineering machinery stocks gained on sector recovery and accelerated overseas expansion.
+- **CIMC Group and Weichai Power Rally on Data Center Demand**: CIMC Group and Weichai Power saw share price increases driven by strong data center and offshore engineering performance.
+- **China Shenhua Lowers Profit Forecast Amid Falling Coal Prices**: China Shenhua's profit forecast aligned with expectations but target price was cut due to lower coal and electricity prices.
+- **Chinese Banks Favored for High Dividend Yields**: UBS maintains a positive outlook on Chinese state-owned banks with over 5% dividend yields, expecting major capital infusions.
+- **Asia-Pacific Markets Mixed as BOJ and RBA Hold Rates**: Asia-Pacific markets mostly rose after the Bank of Japan and Reserve Bank of Australia kept interest rates steady, with the Australian dollar strengthening.
+- **Cryptocurrency Market Sees Fluctuations, Major Investments Continue**: The crypto market remained volatile, with significant bitcoin purchases and ARK Invest buying the dip in crypto-related stocks.
+- **AI and Semiconductor Stocks in Focus**: SanDisk surged over 17 times in a year with further upside predicted, while DRAM price forecasts were revised upward and CPU demand remains debated.
+- **Harbin Electric Projects 57% Net Profit Growth**: Harbin Electric expects a 57% year-on-year net profit increase, driven by data center demand and overseas power shortages.
+- **President Donald Trump Raises Record $429 Million for Midterms**: US President Donald Trump secured $429 million in fundraising before the midterm elections, with strong backing from Silicon Valley and crypto investors.
+- **SpaceX Acquires xAI, Creating New Tech Giant**: Elon Musk confirmed SpaceX's acquisition of xAI, forming a conglomerate spanning rockets, AI, and social media.
+- **Chinese Consumer Brands Raise Prices**: Mainland tea and restaurant brands, including Luckin Coffee and Nayuki, increased prices or reduced discounts since late last year.
+- **Hong Kong Interbank Rates Hit New Lows**: The one-month HIBOR dropped to 2.52%, marking its lowest level in a month.
+- **Commercial Banks Benefit from AI Adoption**: Large AI models like DeepSeek have reduced marketing costs for commercial banks, with further impacts still developing.
+- **Hong Kong IPO and Convertible Bond Activity**: Huatai Securities announced a HKD 10 billion zero-coupon convertible bond issue to support overseas business expansion.
+- **China's Real Estate Sector Expected to Decline as AI Drives Growth**: Bank of America predicts China's real estate sector will lose importance, with AI innovation becoming the new economic engine.
+- **Hong Kong Stock Market Sees V-Shaped Recovery Midday**: The Hang Seng Index rebounded midday, turning positive despite ongoing pressure on technology stocks.
+- **Daiwa: Chinese A-Shares Show Structural Recovery, Consumer Profits Lag**: Over 40% of Chinese A-share companies reported improved profits, but consumer sector earnings are expected to worsen.
+- **Sandisk and AI Hardware Stocks Attract Wall Street Optimism**: Wall Street predicts further gains for SanDisk and highlights optimism for AI-driven hardware and supply chain companies.
+- **Hong Kong Biotech Stock Surges on Drug Approval**: Yingfeng Intelligence shares jumped 13% to a new high after a key drug project milestone and recent IPO success.

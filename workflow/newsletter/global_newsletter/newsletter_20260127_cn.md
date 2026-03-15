@@ -1,0 +1,108 @@
+## 最重要的新聞
+
+- **美國總統唐納德·特朗普在明尼阿波利斯醫院重症監護室護士亞歷克斯·普雷蒂遭槍擊後立場轉變**：白宮由將普雷蒂標籤為恐怖分子，轉而呼籲展開調查，因為跨党派的憤怒、抗議以及商界領袖敦促緩和局勢，隨著旁觀者影片與官方說法相矛盾。
+- **明尼阿波利斯槍擊事件後，美國政府面臨部分關閉的可能，因為國土安全部資金問題**：參議院民主黨反對包含國土安全部的資金方案，共和黨則拒絕刪除該項，導致政府可能關門。
+- **特朗普將韓國進口關稅提高至25%，影響汽車與製藥行業**：韓國尋求緊急會談，因為現代汽車股價下跌，貿易緊張升級，因延遲批准貿易協議。
+- **特朗普威脅對加拿大商品徵收100%關稅，若加拿大追求與中國的貿易協議**：加拿大拒絕新的中國貿易協議，美國發出警告，強調對現有協議的承諾。
+- **財政部取消布茲·艾倫的合約，因員工洩露特朗普的稅務記錄**：由於高調的洩露事件，財政部指出資料安全不足，布茲·艾倫股價下跌超過10%。
+- **歐洲與美國關係降至北約成立以來最低點，特朗普談論格陵蘭與北約**：歐洲領導人表達信任喪失，跨大西洋關係削弱，只有16%的歐洲人認為美國是共享價值的夥伴。
+- **中國清洗高層軍事領導人，擔憂習近平的控制力與軍事準備**：高級將軍被正式指控貪腐，顯示內部權力鬥爭與潛在不穩定。
+- **中國2025年工業利潤上升，結束三年下降趨勢**：利潤微升0.6%，北京控制價格戰並鼓勵海外擴張，儘管國內需求疲軟。
+- **日本法院命令北韓賠償被宣傳誘騙的移民**：東京法院判給四名受害者8800萬日元，象徵性法律勝利，儘管北韓未遵守。
+- **美國嚴重冬季風暴造成死亡、停電與旅遊混亂**：至少十多人喪生，數十萬人失去電力，美國與加拿大都受到重大影響。
+- **TikTok刪除數激增150%，因美國合資企業宣布與隱私問題**：用戶信任下降，因新隱私政策引發大量卸載。
+- **法國議員通過法案，禁止15歲以下青少年使用社交媒體，因心理健康問題**：由馬克龍總統支持的立法進入參議院，可能包括學校禁用手機。
+- **以色列在持續衝突中收回最後一名人質的遺體**：此舉是以色列-加沙局勢的重要進展。
+- **美國航母打擊群抵達中東，地區緊張局勢升高**：部署彰顯該地區安全挑戰持續存在。
+- **伊朗新影片顯示對抗抗議的暴力鎮壓與高死亡人數**：影片揭示醫院內的屍體與屋頂上的狙擊手，伴隨全國性網路封鎖。
+- **加拿大未追求中國貿易協議，因特朗普威脅關稅**：總理卡尼確認沒有新的中國協議，回應美國的關稅威脅。
+- **菲律賓南部渡輪沉沒，至少18人死亡，救援工作進行中**：海難突顯該地區持續的安全問題。
+- **日本民眾送別最後的熊貓，迎接返回中國，關係惡化**：熊貓的離開反映日中關係惡化。
+- **印度哀悼BBC主播馬克·圖利爵士，被譽為“印度之聲”**：對這位以南亞報導著稱的記者致敬。
+- **澳大利亞海灘遭遇鯊魚攻擊激增，安全問題引發關注**：兩天內發生四起攻擊，促請提高警覺與預防措施。
+- **敘利亞東北部庫爾德部隊面臨威脅與不穩定**：地區動態造成庫爾德安全與治理的不確定性。
+- **法國前參議員因用MDMA迷奸同事飲料而受審**：高調案件突顯政治不端與同意問題。
+- **丹麥軍隊感到被背叛，特朗普威脅格陵蘭並批評北約**：美丹關係緊張，格陵蘭主權問題升溫。
+- **特朗普起訴摩根大通，指控政治性刪帳**：特朗普索賠50億美元，聲稱帳戶因政治原因被關閉。
+- **印度推動國內半導體產業，目標自給自足**：新設施與擴展能力旨在增強供應鏈韌性。
+- **Hyrox健身比賽在Z世代中快速崛起，儘管成本高與過度訓練擔憂**：此趨勢反映對健身與身份認同的態度轉變。
+
+## 地區新聞（來自當地新聞）
+
+### 非洲 / 中東：
+- **[莫伊克續發三個媒體支援機構牌照，撤銷剩餘](https://pajhwok.com/2026/01/26/moic-renews-licences-of-3-media-support-bodies-revokes-remaining/)**：阿富汗信息部續發三個媒體支援組織牌照，撤銷其他因專業與可信度問題。（Pajhwok 阿富汗新聞，阿富汗）
+- **[SGDS呼籲在貝寧團結與和平](https://www.24haubenin.info/?L-appel-de-la-SGDS-pour-la-Paix-et-l-unite)**：選後國家安全組織呼籲團結；執政黨UP-R獲得60席。（24小時貝寧，貝寧）
+- **[博茨瓦納：系統改革對解決醫療挑戰至關重要](https://dailynews.gov.bw/news-detail/89708)**：總統呼籲徹底改革，以解決藥品短缺、設備老化與人員問題。（博茨瓦納每日新聞，博茨瓦納）
+- **[班吉停電影響醫院](https://www.radiondekeluka.org/96152-coupures-delectricite-a-bangui-des-hopitaux-affectes)**：嚴重的電力與水資源短缺破壞了基本服務，尤其是醫院。（Radio Ndeke Luka，中非共和國）
+- **[剛果（金）：阿達夫反叛在攻擊中殺害25名農民](https://www.newvision.co.ug/category/world/25-farmers-killed-by-adf-rebels-in-dr-congo-a-NV_226934)**：與伊斯蘭國有聯繫的反叛在伊圖里殺害至少25名農民，儘管有聯合軍事行動阻止暴力。（新視野，烏干達）
+- **[IGAD氣候中心承諾氣候服務框架](https://www.ena.et/web/eng/w/eng_8192459)**：IGAD重申協調，以改善非洲大角地區的氣候風險減少與可持續發展。（ENA，衣索比亞）
+- **[大規模教師流失：對布隆迪教育系統的壓力](https://www.iwacu-burundi.org/desertion-massive-des-enseignants-un-systeme-educatif-burundais-sous-pression/)**：大量教師離職威脅布隆迪從小學到大學的教育；當局呼籲緊急改革。（Iwacu，布隆迪）
+- **[科摩羅：四例猴痘中三例顯示康復跡象](https://alwatwan.net/sante/mpox-trois-des-quatre-cas-d%C3%A9clar%C3%A9s-montrent-de-bons-signes-de-gu%C3%A9rison.html)**：來自馬達加斯加的四例猴痘病例中，三例正在改善；邊境管控與疫苗接種擴展。（Al Watwan，科摩羅）
+- **[科特迪瓦：Jean-François Kouassi因公開不端行為判入獄](https://www.fratmat.info/article/2639601/societe/justice-jean-francois-kouassi-condamne-a-15-jours-de-prison-ferme)**：Kouassi因網上言論被判處公開騷擾與誹謗，並處以重罰。（Fraternité Matin，科特迪瓦）
+- **[阿聯酋將阻止伊朗從其領土發動攻擊](https://goobjoog.com/2026/01/26/imaaraadka-carabta-oo-caddeeyay-in-aan-dhulkooda-iyo-hawadooda-laga-weerari-doonin-iran/)**：阿聯酋聲稱將阻止伊朗利用其領土進行攻擊，並誓言維持地區外交。（Goobjoog新聞，索馬里）
+- **[阿布哈山脈出現壯觀冬季景色](https://www.spa.gov.sa)**：沙烏地阿拉伯展現壯麗的冬季風光，突顯該地區的自然美。（沙特新聞社，沙烏地阿拉伯）
+- **[突尼西亞有機農業出口產值達8億第納爾](https://www.lapresse.tn/2025/12/25/agriculture-biologique-les-exportations-rapportent-800-millions-de-dinars/)**：有機出口持續增長，激勵措施與擴大面積促進可持續農業。（突尼西亞新聞，突尼西亞）
+- **[莫桑比克總統評估洪水影響，啟動重建](https://www.jornalnoticias.co.mz/destaque/pr-avalia-impacto-das-cheias-e-dirige-conselho-de-ministros-em-xai-xai/)**：總統視察洪水地區，評估並規劃復原工作，水位逐漸下降。（新聞，莫桑比克）
+- **[利比亞央行澄清貿易融資限制](https://libyaherald.com/2026/01/cbls-role-in-granting-lcs-is-limited-does-not-include-assessing-libyas-economic-needs/)**：央行管理信用證，但否認負責評估市場需求；各部門對進口政策存爭議。（利比亞先驅報，利比亞）
+- **[卡加梅與第一夫人在烏干達舉行晚宴，慶祝UGHE合作](https://www.newtimes.co.rw/article/32871/news/education/kagame-first-lady-host-dinner-in-honour-of-ughe-leaders)**：盧旺達領導人舉行晚宴，表彰教育合作。（新時代，盧旺達）
+- **[胡塞武裝在也門阿爾卡沙實施嚴格封鎖](https://www.alsahwa-yemen.net/p-87142)**：胡塞民兵收緊在阿爾拜達的封鎖，引發人權關切。（阿薩瓦，也門）
+
+### 美洲：
+- **[特朗普稱委內瑞拉政權加快釋放政治犯](https://www.infobae.com/estados-unidos/2026/01/27/donald-trump-dijo-que-el-regimen-de-venezuela-acelero-la-liberacion-de-presos-politicos/)**：特朗普聲稱委內瑞拉加快釋放，但非政府組織質疑透明度。（Infobae，阿根廷）
+- **[安提瓜和巴布達迎來119名加納護士](https://antigua.news/2026/01/26/you-are-our-brothers-and-sisters-sir-molwyn-welcomes-ghanaian-nurses-to-antigua-and-barbuda/)**：加納醫療人員到達，旨在解決人手短缺並強化醫療體系。（Antigua.news，安提瓜和巴布達）
+- **[卑詩省億萬富翁的倉庫或成維吉尼亞ICE設施](https://www.cbc.ca/news/business/ice-warehouse-jim-pattison-9.7061994)**：美國計劃在加拿大所有權的倉庫建立ICE處理中心，引發批評與抗議。（CBC新聞，加拿大）
+- **[玻利維亞中央銀行開始退還4800萬美元給小額存款人](https://eldeber.com.bo/economia/banco-central-inicia-devolucion-us-48-millones-pequenos-ahorristas_1769469513)**：在資金被凍結多年後，中央銀行開始大規模支付。（El Deber，玻利維亞）
+- **[墨西哥薩拉曼卡大屠殺與卡特爾爭鬥有關](https://www.eluniversal.com.mx/nacion/autoridades-ven-pugna-entre-carteles-en-masacre-de-salamanca-cinco-victimas-vinculadas-a-empresa-ligada-al-cjng)**：瓜納華托11人遇難，官員指責CJNG與聖羅莎·德·利馬卡特爾的地盤戰。（El Universal，墨西哥）
+- **[多米尼克2025年預算規劃復甦，啟動新措施](https://www.dom767.com/news-dominica/dominicas-2025-budget-charts-a-bold-course-for-recovery)**：預算聚焦經濟振興與社會福利。（The Chronicle，多米尼克）
+- **[巴拿馬檢察官下令逮捕前副總統卡里索](https://www.laestrella.com.pa/panama/nacional/ministerio-publico-ordena-la-aprehension-y-conduccion-de-jose-gabriel-carrizo-JN19415581)**：前副總統面臨貪腐調查與資產扣押。（La Estrella，巴拿馬）
+- **[諾曼·奎哈諾被引渡至薩爾瓦多服刑](https://www.eldiariodehoy.com/noticias/nacionales/norman-quijano-llega-a-el-salvador-tras-ser-expulsado-desde-estados-unidos-donde-estaba-detenido/58871/2026/)**：前候選人在美國因與幫派勾結被判後抵達。（El Diario de Hoy，薩爾瓦多）
+- **[俄羅斯要求立即釋放馬杜羅，指控美軍行動](https://almomento.net/rusia-exige-inmediata-liberacion-del-presidente-nicolas-maduro/)**：俄羅斯譴責美國涉嫌綁架委內瑞拉領導人。（ALMOMENTO.NET，多米尼加共和國）
+- **[德爾西·羅德里格斯：委內瑞拉拒絕美國財政部命令，堅持主權](http://www.eluniversal.com/politica/225112/delcy-rodriguez-responde-al-secretario-del-tesoro-de-estados-unidos-venezuela-no-acepta-ordenes)**：代理總統重申主權，規劃能源改革。（El Universal，委內瑞拉）
+- **[巴巴多斯：上層科利莫爾岩發現死者](https://nationnews.com/2026/01/26/update-man-found-dead-at-upper-collymore-rock-identified/)**：死因調查中，情況尚不明朗。（The Nation，巴巴多斯）
+- **[聖文森特：旅客車翻覆，數人受傷](https://www.searchlight.vc/front-page/2026/01/23/passenger-van-overturns-injuring-several-commuters)**：嚴重交通事故造成多人傷亡。（Searchlight，聖文森特與格林納丁斯）
+- **[企業家萊斯利·克拉克成為聖盧西亞最新交通死亡案例](https://stluciatimes.com/177497/2026/01/entrepreneur-leslie-clarke-is-the-islands-latest-road-fatality/)**：知名商界領袖在車禍中喪生，以慈善事業聞名。（聖盧西亞時報，聖盧西亞）
+- **[特立尼達：經濟藍圖遭質疑](https://www.guardian.co.tt/business/funding-execution-doubts-cloud-govts-economic-blueprint-6.2.2499915.ebbbaa82bd)**：商界領袖質疑政府復甦計劃的資金來源與外匯短缺。（特立尼達與多巴哥衛報，特立尼達與多巴哥）
+- **[多米尼加：2025年預算規劃復甦，啟動新措施](https://dwtonline.com/het-verleden-eren-de-toekomst-versterken-50-jaar-diplomatieke-betrekkingen-tussen-indonesie-en-suriname/)**：預算聚焦經濟振興與社會福利。（The Chronicle，多米尼克）
+- **[巴拿馬檢察官下令逮捕前副總統卡里索](https://www.laestrella.com.pa/panama/nacional/ministerio-publico-ordena-la-aprehension-y-conduccion-de-jose-gabriel-carrizo-JN19415581)**：前副總統面臨貪腐調查與資產扣押。（La Estrella，巴拿馬）
+- **[諾曼·奎哈諾被引渡至薩爾瓦多服刑](https://www.eldiariodehoy.com/noticias/nacionales/norman-quijano-llega-a-el-salvador-tras-ser-expulsado-desde-estados-unidos-donde-estaba-detenido/58871/2026/)**：前候選人在美國因與幫派勾結被判後抵達。（El Diario de Hoy，薩爾瓦多）
+- **[俄羅斯要求立即釋放馬杜羅，指控美軍行動](https://almomento.net/rusia-exige-inmediata-liberacion-del-presidente-nicolas-maduro/)**：俄羅斯譴責美國涉嫌綁架委內瑞拉領導人。（ALMOMENTO.NET，多米尼加共和國）
+- **[德爾西·羅德里格斯：委內瑞拉拒絕美國財政部命令，堅持主權](http://www.eluniversal.com/politica/225112/delcy-rodriguez-responde-al-secretario-del-tesoro-de-estados-unidos-venezuela-no-acepta-ordenes)**：代理總統重申主權，規劃能源改革。（El Universal，委內瑞拉）
+- **[巴巴多斯：上層科利莫爾岩發現死者](https://nationnews.com/2026/01/26/update-man-found-dead-at-upper-collymore-rock-identified/)**：死因調查中，情況尚不明朗。（The Nation，巴巴多斯）
+- **[聖文森特：旅客車翻覆，數人受傷](https://www.searchlight.vc/front-page/2026/01/23/passenger-van-overturns-injuring-several-commuters)**：嚴重交通事故造成多人傷亡。（Searchlight，聖文森特與格林納丁斯）
+- **[企業家萊斯利·克拉克成為聖盧西亞最新交通死亡案例](https://stluciatimes.com/177497/2026/01/entrepreneur-leslie-clarke-is-the-islands-latest-road-fatality/)**：知名商界領袖在車禍中喪生，以慈善事業聞名。（聖盧西亞時報，聖盧西亞）
+- **[特立尼達：經濟藍圖遭質疑](https://www.guardian.co.tt/business/funding-execution-doubts-cloud-govts-economic-blueprint-6.2.2499915.ebbbaa82bd)**：商界領袖質疑政府復甦計劃的資金來源與外匯短缺。（特立尼達與多巴哥衛報，特立尼達與多巴哥）
+- **[多米尼加：2025年預算規劃復甦，啟動新措施](https://dwtonline.com/het-verleden-eren-de-toekomst-versterken-50-jaar-diplomatieke-betrekkingen-tussen-indonesie-en-suriname/)**：預算聚焦經濟振興與社會福利。（The Chronicle，多米尼克）
+- **[巴拿馬檢察官下令逮捕前副總統卡里索](https://www.laestrella.com.pa/panama/nacional/ministerio-publico-ordena-la-aprehension-y-conduccion-de-jose-gabriel-carrizo-JN19415581)**：前副總統面臨貪腐調查與資產扣押。（La Estrella，巴拿馬）
+- **[諾曼·奎哈諾被引渡至薩爾瓦多服刑](https://www.eldiariodehoy.com/noticias/nacionales/norman-quijano-llega-a-el-salvador-tras-ser-expulsado-desde-estados-unidos-donde-estaba-detenido/58871/2026/)**：前候選人在美國因與幫派勾結被判後抵達。（El Diario de Hoy，薩爾瓦多）
+- **[俄羅斯要求立即釋放馬杜羅，指控美軍行動](https://almomento.net/rusia-exige-inmediata-liberacion-del-presidente-nicolas-maduro/)**：俄羅斯譴責美國涉嫌綁架委內瑞拉領導人。（ALMOMENTO.NET，多米尼加共和國）
+- **[德爾西·羅德里格斯：委內瑞拉拒絕美國財政部命令，堅持主權](http://www.eluniversal.com/politica/225112/delcy-rodriguez-responde-al-secretario-del-tesoro-de-estados-unidos-venezuela-no-acepta-ordenes)**：代理總統重申主權，規劃能源改革。（El Universal，委內瑞拉）
+- **[巴巴多斯：上層科利莫爾岩發現死者](https://nationnews.com/2026/01/26/update-man-found-dead-at-upper-collymore-rock-identified/)**：死因調查中，情況尚不明朗。（The Nation，巴巴多斯）
+- **[聖文森特：旅客車翻覆，數人受傷](https://www.searchlight.vc/front-page/2026/01/23/passenger-van-overturns-injuring-several-commuters)**：嚴重交通事故造成多人傷亡。（Searchlight，聖文森特與格林納丁斯）
+- **[企業家萊斯利·克拉克成為聖盧西亞最新交通死亡案例](https://stluciatimes.com/177497/2026/01/entrepreneur-leslie-clarke-is-the-islands-latest-road-fatality/)**：知名商界領袖在車禍中喪生，以慈善事業聞名。（聖盧西亞時報，聖盧西亞）
+- **[特立尼達：經濟藍圖遭質疑](https://www.guardian.co.tt/business/funding-execution-doubts-cloud-govts-economic-blueprint-6.2.2499915.ebbbaa82bd)**：商界領袖質疑政府復甦計劃的資金來源與外匯短缺。（特立尼達與多巴哥衛報，特立尼達與多巴哥）
+- **[多米尼加：2025年預算規劃復甦，啟動新措施](https://dwtonline.com/het-verleden-eren-de-toekomst-versterken-50-jaar-diplomatieke-betrekkingen-tussen-indonesie-en-suriname/)**：預算聚焦經濟振興與社會福利。（The Chronicle，多米尼克）
+- **[巴拿馬檢察官下令逮捕前副總統卡里索](https://www.laestrella.com.pa/panama/nacional/ministerio-publico-ordena-la-aprehension-y-conduccion-de-jose-gabriel-carrizo-JN19415581)**：前副總統面臨貪腐調查與資產扣押。（La Estrella，巴拿馬）
+- **[諾曼·奎哈諾被引渡至薩爾瓦多服刑](https://www.eldiariodehoy.com/noticias/nacionales/norman-quijano-llega-a-el-salvador-tras-ser-expulsado-desde-estados-unidos-donde-estaba-detenido/58871/2026/)**：前候選人在美國因與幫派勾結被判後抵達。（El Diario de Hoy，薩爾瓦多）
+- **[俄羅斯要求立即釋放馬杜羅，指控美軍行動](https://almomento.net/rusia-exige-inmediata-liberacion-del-presidente-nicolas-maduro/)**：俄羅斯譴責美國涉嫌綁架委內瑞拉領導人。（ALMOMENTO.NET，多米尼加共和國）
+- **[德爾西·羅德里格斯：委內瑞拉拒絕美國財政部命令，堅持主權](http://www.eluniversal.com/politica/225112/delcy-rodriguez-responde-al-secretario-del-tesoro-de-estados-unidos-venezuela-no-acepta-ordenes)**：代理總統重申主權，規劃能源改革。（El Universal，委內瑞拉）
+- **[巴巴多斯：上層科利莫爾岩發現死者](https://nationnews.com/2026/01/26/update-man-found-dead-at-upper-collymore-rock-identified/)**：死因調查中，情況尚不明朗。（The Nation，巴巴多斯）
+- **[聖文森特：旅客車翻覆，數人受傷](https://www.searchlight.vc/front-page/2026/01/23/passenger-van-overturns-injuring-several-commuters)**：嚴重交通事故造成多人傷亡。（Searchlight，聖文森特與格林納丁斯）
+- **[企業家萊斯利·克拉克成為聖盧西亞最新交通死亡案例](https://stluciatimes.com/177497/2026/01/entrepreneur-leslie-clarke-is-the-islands-latest-road-fatality/)**：知名商界領袖在車禍中喪生，以慈善事業聞名。（聖盧西亞時報，聖盧西亞）
+- **[特立尼達：經濟藍圖遭質疑](https://www.guardian.co.tt/business/funding-execution-doubts-cloud-govts-economic-blueprint-6.2.2499915.ebbbaa82bd)**：商界領袖質疑政府復甦計劃的資金來源與外匯短缺。（特立尼達與多巴哥衛報，特立尼達與多巴哥）
+- **[多米尼加：2025年預算規劃復甦，啟動新措施](https://dwtonline.com/het-verleden-eren-de-toekomst-versterken-50-jaar-diplomatieke-betrekkingen-tussen-indonesie-en-suriname/)**：預算聚焦經濟振興與社會福利。（The Chronicle，多米尼克）
+
+### 歐洲：
+- **[法國議會通過法案，禁止未滿15歲使用社交媒體](https://www.spiegel.de/ausland/frankreich-parlament-stimmt-fuer-social-media-verbot-fuer-kinder-und-jugendliche-unter-15-jahren-a-19b5800a-fe11-4233-a89a-99f51c7b4974)**：國民議會投票限制未成年人上網，法案待參議院批准。
+- **[歐洲面臨嚴重冬季天氣，重大中斷即將來臨](https://www.delfi.lt/naujienos/uzsienyje/visai-europai-perspejimai-del-oru-laukia-dvi-sunkios-savaites-120203426)**：預計多國將迎來大雪、冰凍與能源挑戰，未來數週持續影響。
+- **[普京部隊對哈爾科夫發動導彈攻擊，幼兒園受損](https://www.zdg.md/stiri/live-text-fortele-lui-putin-au-lansat-un-atac-cu-rachete-asupra-orasului-harkiv-doi-raniti-si-o-gradinita-avariata-razboi-in-ucraina-ziua-1433/)**：俄羅斯持續攻擊，造成兩人受傷，烏克蘭反擊俄羅斯基礎設施。
+- **[匈牙利、斯洛伐克計劃對抗俄羅斯天然氣禁令提起訴訟](https://kyivindependent.com/hungary-slovakia-to-challenge-eu-russian-gas-ban-in-court/)**：兩國挑戰逐步淘汰俄羅斯能源措施的合法性。
+- **[羅馬尼亞提議擴大國防工業](https://adevarul.ro/stiri-interne/evenimente/blindaj-aerian-pentru-romania-sistemele-de-2503726.html)**：國防計劃涵蓋陸、空、海與網路能力，與北約協作。
+- **[北約：沒有美國，歐洲無法自衛](https://www.lemonde.fr/international/article/2026/01/27/le-soutien-des-etats-unis-est-indispensable-a-la-defense-europeenne-selon-le-secretaire-general-de-l-otan_6664234_3210.html)**：北約秘書長強調歐洲依賴美國安全支持。
+- **[美國嚴重冬季風暴至少造成30人死亡，影響歐洲](https://nos.nl/artikel/2599824-extreem-winters-weer-vs-houdt-aan-dodental-loopt-op-tot-zeker-30)**：致命暴風雪引發歐洲天氣警告與交通混亂。
+- **[警告美國民主倒退](https://www.vrt.be/vrtnws/en/2026/01/26/warning-about-_democratic-decline-mechanisms-from-1933-recognisable/)**：比利時專家提醒民主風險，與歷史先例相關。
+- **[美國冬季風暴肆虐，超過12人死亡](https://yle.fi/uutiset/lyhyesti/74-20206579)**：死亡與停電人數上升，歐盟與印度簽署重大貿易協議。
+- **[奧地利：抗議促使有爭議的美國邊境官員下台](https://www.krone.at/4026889)**：被稱為“蓋世太保格雷格”的官員因強硬執法與ICE槍擊事件受到反彈，特朗普總統下令調查。
+- **[特朗普在明尼蘇達嘗試收縮，與沃爾茲通話後反對博維諾](https://www.publico.pt/2026/01/26/mundo/noticia/trump-ensaia-recuo-minnesota-apos-falar-walz-desautorizar-bovino-2162584)**：白宮考慮縮減聯邦介入，因暴力事件與黨內批評。
+- **[西班牙：政府與Podemos達成協議，為50萬移民辦理合法化](https://elpais.com/espana/2026-01-26/podemos-anuncia-un-acuerdo-con-el-gobierno-para-una-regularizacion-extraordinaria-de-migrantes.html)**：特殊程序提供臨時工作與醫療權利。
+- **[希臘：工廠爆炸致5死，調查進行中](https://www.kathimerini.gr/society/564042859/trikala-ta-prosopa-tis-tragodias-i-allagi-vardias-kai-oi-pithanes-aities-tis-ekrixis/)**：特里卡拉餅乾工廠悲劇揭露職場安全問題。
+- **[克羅地亞：檢察官未公開合約曝光](https://www.24sata.hr/news/habijan-skriva-da-je-angazirao-bivseg-sefa-dorh-a-mladena-bajica-saznali-smo-mu-honorar-1103744?24sata_ref=frontpage-home)**：達米爾·哈比揚秘密聘用前檢

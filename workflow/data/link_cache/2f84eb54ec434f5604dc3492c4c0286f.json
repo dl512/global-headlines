@@ -1,0 +1,42 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01347-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306451741/hua-hong-semi-overseas-regulatory-announcement-huahong-semiconductor-limited-announcement",
+    "https://news.futunn.com/hk/notice/306432304/hua-hong-semi-monthly-return-of-equity-issuer-on-movements",
+    "https://news.futunn.com/hk/notice/306341481/hua-hong-semi-notice-of-extraordinary-general-meeting",
+    "https://news.futunn.com/hk/notice/306476754/hua-hong-semi-hua-hong-semiconductor-announces-q4-2025-earnings",
+    "https://news.futunn.com/hk/notice/306606233/hua-hong-semi-monthly-return-of-equity-issuer-on-movements"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306451741/hua-hong-semi-overseas-regulatory-announcement-huahong-semiconductor-limited-announcement": {
+      "headline": "華虹半導體：海外監管公告 -《華虹半導體有限公司關於發行股份購買資產並募集配套資金暨關聯交易相關內幕信息知情人買賣股票情況自查報告的公告》《國泰海通證券股份有限公司關於華虹半導體有限公司本次交易相關內幕信息知情人買賣股票情況的自查報告之核查意見》《上海市通力律師事務所關於華虹半導體有限公司發行股份購買資產並募集配套資金暨關聯交易內幕信息知情人買賣股票情況之專項核查意見》",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:46:08.124634",
+      "last_seen": "2026-02-09T21:46:08.124642"
+    },
+    "https://news.futunn.com/hk/notice/306432304/hua-hong-semi-monthly-return-of-equity-issuer-on-movements": {
+      "headline": "華虹半導體：截至2026年1月31日之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:46:12.007838",
+      "last_seen": "2026-02-09T21:46:12.007847"
+    },
+    "https://news.futunn.com/hk/notice/306341481/hua-hong-semi-notice-of-extraordinary-general-meeting": {
+      "headline": "華虹半導體：股東特別大會通告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:09:08.918365",
+      "last_seen": "2026-02-10T11:09:08.918381"
+    },
+    "https://news.futunn.com/hk/notice/306476754/hua-hong-semi-hua-hong-semiconductor-announces-q4-2025-earnings": {
+      "headline": "華虹半導體：華虹半導體二零二五年第四季度業績公佈",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:00:32.287015",
+      "last_seen": "2026-02-13T13:00:32.287029"
+    },
+    "https://news.futunn.com/hk/notice/306606233/hua-hong-semi-monthly-return-of-equity-issuer-on-movements": {
+      "headline": "華虹半導體：截至2026年2月28日之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:53:38.086552",
+      "last_seen": "2026-03-06T11:53:38.086568"
+    }
+  }
+}

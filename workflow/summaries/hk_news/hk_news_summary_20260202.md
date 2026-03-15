@@ -1,0 +1,22 @@
+## Hong Kong News
+
+- **Hong Kong to Launch First Five-Year Development Plan**: The government will introduce its first five-year plan, aligning with China’s 14th Five-Year Plan, with Chief Executive John Lee leading a cross-departmental team to coordinate integration with national strategies.
+- **Bad Debt Rate Rises for Government-Backed Loan Scheme**: The bad debt rate for the 100% guaranteed preferential loan scheme increased to 18.67%, though the pace of increase has slowed.
+- **Hong Kong Economy Expected to Grow Steadily in 2024**: The property market is active with a 3.3% annual price increase and higher transaction volumes, despite external uncertainties.
+- **Exports to ASEAN Hit Record Highs Amid Trade Shifts**: Hong Kong’s exports to Vietnam and Thailand now exceed 50% of total exports, reflecting changing global supply chains and reduced US trade.
+- **Mainland Student Jailed for TOEFL Fraud at Lingnan University**: A 22-year-old mainland woman was sentenced to three months in prison for falsifying TOEFL results to obtain a degree.
+- **Fake Marriage Scams Target Mainland Residency Seekers**: Authorities warn of criminal groups recruiting Hong Kong women for sham marriages to help mainlanders gain residency, with severe legal penalties for participants.
+- **Pickleball Popularity Surges, Facilities Lag Behind Demand**: Pickleball is booming in Hong Kong, but public courts are insufficient, forcing players to use costly private venues or travel to the mainland.
+- **Traditional Pig Farming Struggles Amid Urban Development**: A pig farmer in Yuen Long faces business closure due to land reclamation and disease, highlighting challenges for traditional agriculture.
+- **Police Crack Down on Illegal Ride-Hailing and Drug Offenses**: A local driver was arrested for operating an unlicensed ride-hailing service and drug possession during a police sting.
+- **Weather Fluctuations Ahead of Lunar New Year**: Temperatures will rise to 24°C before dropping sharply by 10°C over the weekend due to a northeast monsoon.
+- **Community and Government Promote Positive Values in Schools**: Over 1,140 students and officials participated in a record event writing the character “福” to foster gratitude and kindness.
+- **Family Dispute Over HKD 3 Million Gold Sparks Online Debate**: A man’s gold savings were sold by his mother to help his brother buy property, leading to family conflict and public discussion.
+- **Candle Shop in Mong Kok Vandalized with Red Paint**: Police are investigating criminal damage after a long-standing candle shop was targeted in an unprovoked attack.
+- **Hong Kong Auxiliary Police Highlight Community Service**: A commercial pilot serving as an auxiliary police officer emphasizes the value of public service and safety.
+- **Animal Cruelty Case in Yuen Long Uncovered**: Police discovered multiple dead and abused cats and a rat carcass in a village house, arresting a 28-year-old male resident.
+- **Senior Customs Officials Visit Elderly Home for Lunar New Year**: Customs officials and volunteers brought festive cheer and gifts to elderly residents in Tuen Mun.
+- **Airport Arrest for Carrying Pepper Spray**: A 37-year-old woman was detained at the airport for carrying pepper spray in violation of firearms laws.
+- **Namaste Care Enhances End-of-Life Patient Wellbeing**: Sensory-based Namaste Care is being adopted in Hong Kong to improve the quality of life for terminal patients.
+- **Celebrity Bus Driver Replacement Draws Online Attention**: A new female bus driver has garnered praise for her cheerful demeanor after replacing a well-known predecessor.
+- **First Capital Holdings Invests in Nuclear Clean Energy REIT**: First Capital Holdings has invested in Huaxia Zhonghe Nuclear Clean Energy REIT, details undisclosed.

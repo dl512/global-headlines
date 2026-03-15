@@ -1,0 +1,31 @@
+## Most Important Stories
+
+- **US President Donald Trump’s Greenland Push Sparks Global Tensions**: President Donald Trump’s aggressive pursuit of Greenland, including tariff threats and calls for negotiations, has strained US-European relations, unsettled Greenland’s leaders, and led to the suspension of a US-EU trade deal.
+- **NATO Allies Outraged by Trump’s Afghanistan Remarks**: President Donald Trump’s claim that NATO allies “stayed back” from the front lines in Afghanistan has drawn condemnation from veterans, UK leaders, and international officials, who demand an apology and recognition of allied sacrifices.
+- **US and China Reach TikTok Deal, Tightening Data Controls**: The US and China have agreed to split TikTok’s US operations, with Oracle and other investors managing US user data, amid ongoing concerns over Chinese access and national security.
+- **China’s AI Models Gain Global Traction**: Chinese AI models are being adopted by major Western firms, challenging US tech dominance and raising concerns about China’s rapid progress in artificial intelligence.
+- **US President Donald Trump Withdraws ‘Board of Peace’ Invitation to Canada**: Trump rescinded Canadian Prime Minister Mark Carney’s invitation to join the “Board of Peace,” escalating tensions between the US and Canada over international cooperation.
+- **US President Donald Trump Sues JPMorgan Chase Over ‘Political’ Debanking**: Trump filed a $5 billion lawsuit against JPMorgan Chase and CEO Jamie Dimon, alleging politically motivated closure of his accounts after the Capitol riot.
+- **US House Passes Funding Bills to Avert Government Shutdown**: The House approved $1.2 trillion in funding bills to prevent a partial government shutdown, with Senate approval still pending.
+- **France Rejects Trump’s Drug Price Claims as ‘Fake News’**: France dismissed Trump’s assertion that he pressured President Macron to raise drug prices, insisting prices remain regulated and stable.
+- **Canada Bolsters Arctic Defenses Amid US, Russia, and China Rivalry**: Canada is increasing military presence and investment in the Arctic to counter rising geopolitical threats and assert sovereignty.
+- **Ukraine-Russia-US Talks in Abu Dhabi Yield Low Expectations**: High-stakes negotiations on Ukraine’s territorial integrity continue with little progress, as concerns remain over Donbas and future Russian aggression.
+- **India and EU Near Major Free Trade Agreement**: India and the EU are close to finalizing a landmark free trade deal to strengthen economic ties amid global tariff uncertainties.
+- **Spain’s Rail Safety Under Scrutiny After Deadly Train Crashes**: Multiple fatal rail accidents in Spain, including a high-speed derailment linked to track fractures, have raised concerns about the country’s rail infrastructure.
+- **Taliban Release Detained Afghan Female Athlete After International Outcry**: Khadija Ahmadzada, a taekwondo teacher, was released after 13 days in jail for alleged violations of Taliban rules on women’s sports.
+- **Iran Sees Violent Crackdown on Protesters Amid Economic Unrest**: Iranian security forces used live ammunition against demonstrators, resulting in injuries and deaths, as protests continue despite harsh repression.
+- **US President Donald Trump Signs Order to Restrict Wall Street Home Purchases**: Trump signed an executive order limiting Wall Street firms from buying single-family homes to address housing affordability.
+- **European Business Leaders Urge Retaliation Against US Tariffs**: EU leaders consider countermeasures after Trump’s tariff threats, despite a temporary easing of trade tensions.
+- **Vietnam’s Leader Re-elected, Promises Economic Reform**: To Lam was re-elected as Vietnam’s Communist Party leader, pledging economic modernization and private sector growth.
+- **Minnesota Businesses Protest ICE Operations, Prompting Federal Investigation**: Hundreds of businesses closed and officials were subpoenaed amid protests and investigations into immigration enforcement in Minnesota.
+- **North Korea’s Kim Jong Un Fires Vice Premier in Political Shakeup**: Kim Jong Un dismissed his vice premier, signaling possible internal purges or disciplinary actions.
+- **US Supreme Court Skeptical of Trump’s Attempt to Fire Fed Governor**: The Supreme Court questioned Trump’s authority to dismiss Federal Reserve Governor Lisa Cook, highlighting concerns over Fed independence.
+- **Somaliland Seeks Investment After Israeli Recognition**: Somaliland’s president met with Israeli and US officials to attract foreign investment following Israel’s recognition of its independence.
+- **Environmental Factors Blamed for Spike in Shark Attacks on Australia’s East Coast**: Four shark attacks in 48 hours are linked to heavy rainfall and changing marine conditions, with experts urging awareness over culling.
+- **Greenland’s Freshwater Reserves Viewed as Strategic ‘Frozen Capital’**: Greenland’s vast freshwater resources are drawing global attention as water security becomes a rising geopolitical concern.
+- **Jared Kushner Unveils Gaza Reconstruction Plan with 180 Skyscrapers**: Trump’s son-in-law proposed a major redevelopment plan for Gaza, though funding details remain unclear.
+- **UK Man Pleads Guilty to Decade-Long Abuse of Ex-Wife**: A UK man admitted to repeatedly drugging and raping his ex-wife over more than ten years.
+- **Dingoes in Spotlight After Teenager’s Death on Australian Island**: A fatal incident has renewed debate over wildlife management and safety on Australia’s K’gari Island.
+- **US President Donald Trump Criticizes UK Over Chagos Islands Decision**: Trump called the UK’s move to transfer Chagos Islands sovereignty to Mauritius “an act of great stupidity,” citing US security concerns.
+- **Sleep Apnoea Awareness Raised After Personal Account**: An article highlights the dangers of undiagnosed sleep apnoea and the importance of early diagnosis.
+- **Luxury Watchmaker Unveils $1.5 Million Ambani-Themed Timepiece**: Jacob & Co released a luxury watch featuring Indian billionaire Anant Ambani, symbolizing stewardship and philanthropy.

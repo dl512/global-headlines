@@ -1,0 +1,84 @@
+# Headlines around the globe - Dec 12, 2025
+
+## Most Important Stories
+
+- **US Sanctions on Venezuelan Oil**: The US has imposed sanctions on six additional ships linked to Venezuelan oil following the seizure of the tanker Skipper, which was allegedly involved in illicit oil shipping. Venezuelan President Nicolás Maduro condemned the seizure as "international piracy."
+
+- **Trump's Aggressive Stance on China**: US President Donald Trump is shifting his national security strategy to adopt a more aggressive approach towards China, particularly regarding Taiwan, amid rising tensions and military assertiveness in the region.
+
+- **Indiana Redistricting Bill Defeated**: The Indiana Senate rejected a proposed voting map that aimed to benefit Republicans in the 2026 midterms, marking a significant defeat for US President Donald Trump, who had lobbied for its passage.
+
+- **Palestinian Humanitarian Crisis**: A Palestinian baby has died from hypothermia as severe winter storms worsen the humanitarian crisis in Gaza, highlighting the dire conditions faced by families amid ongoing conflict and blockades.
+
+- **Thai PM Dissolves Parliament**: Thai Prime Minister Anutin Charnvirakul has dissolved parliament to "return power to the people," amid challenges including a deadly border dispute with Cambodia and criticism over the government's handling of severe flooding. A general election is expected within 45 to 60 days.
+
+- **Myanmar's Military Crackdown on Scams**: Myanmar's military claims to be eradicating scam compounds linked to Chinese crime syndicates, but skepticism remains about the effectiveness of these actions, as many scam workers appear to be relocating instead of dismantling the infrastructure.
+
+- **Charlie Kirk Murder Case**: Tyler Robinson, accused of murdering conservative activist Charlie Kirk, made his first in-person court appearance in Utah. The case has garnered significant media attention, with discussions on media access ongoing.
+
+- **Blackout in Brazil**: A major blackout in Brazil has left approximately 1.4 million people without power, leading to the cancellation of hundreds of flights, particularly in São Paulo, as authorities work to restore electricity.
+
+- **Bolivia Detains Former President**: Bolivia has detained former President Luis Arce amid an investigation into alleged embezzlement, raising significant concerns about corruption in the country's political landscape.
+
+## Regional Highlights:
+
+### Africa / Middle East:
+- **[Polio vaccination campaign reaches 3.8 million children](https://www.elkhabar.com/fr/societe/polio-3-823-066-d-enfants-ont-ete-vaccines-jusqu-a-present-261736)**: Algeria reports over 3.8 million children vaccinated against polio as part of an ongoing effort to eliminate the disease. (El Khabar, Algeria)
+- **[Two Chinese arrested for stealing gold](https://www.alayam.com/online/local/1116784/News.html)**: Bahraini authorities apprehended two Chinese individuals within hours after they stole gold worth 50,000 dinars. (Al Ayam, Bahrain)
+- **[Former VP criticizes Barrow for CRC failure](https://thepoint.gm/africa/gambia/headlines/former-vp-tambajang-slams-barrow-for-crc-collapse)**: In Gambia, former Vice President Ousainou Tambajang lambasted President Barrow for the collapse of the Constitutional Review Commission, affecting governance. (The Point, Gambia)
+- **[Military expert warns of dangers in southern Ukraine](https://www.krone.at/3984600)**: Austrian military analysts caution that southern Ukraine has turned into a "death zone" for Russian forces due to increased military activity. (Kronen Zeitung, Austria)
+- **[Economic cooperation between Cameroon and China strengthens](https://www.cameroon-tribune.cm/article.html/74474/fr.html/cooperation-commerciale-cameroun-chine-coup-daccelerateur)**: Cameroon announces intensified economic cooperation with China, focusing on trade and infrastructure. (Cameroon Tribune, Cameroon)
+
+### Americas:
+- **[Trump announces ground attacks on Venezuela's drug trafficking](https://www.infobae.com/estados-unidos/2025/12/12/trump-declaro-que-estados-unidos-iniciara-ataques-terrestres-para-frenar-el-narcotrafico-desde-venezuela)**: US President Donald Trump revealed plans for military actions targeting drug trafficking operations originating from Venezuela. (Infobae, Argentina)
+- **[Economic legislation debated amid public outcry](https://www.thenassauguardian.com/news/pm-defends-bill/article_47b41ab4-2732-418b-bd73-938b7c57f21a.html)**: The Prime Minister of the Bahamas defended a contentious bill amidst significant public opposition, emphasizing its importance for future economic stability. (The Nassau Guardian, Bahamas)
+- **[Free trade zones create 200,000 jobs in Dominican Republic](https://almomento.net/zonas-francas-superan-200-mil-empleos-directos-dice-abinader)**: President Luis Abinader reports that the Dominican Republic's free trade zones have surpassed 200,000 direct jobs, illustrating their economic impact. (ALMOMENTO.NET, Dominican Republic)
+- **[New sanctions imposed on Maduro's family](https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html)**: The US government issued fresh sanctions targeting Nicolás Maduro's family and affiliates in response to ongoing political issues in Venezuela. (The New York Times, USA)
+
+### Asia:
+- **[North Korea conducts a rocket launch amid military strategy discussions](https://www.nknews.org/2025/12/north-korea-launches-rockets-as-kim-jong-un-convenes-party-meeting/)**: North Korea's military activities continue as Kim Jong Un convenes key party meetings to discuss strategic goals. (NK News, North Korea)
+- **[Tsunami advisory issued for northern Japan](https://news.web.nhk/newsweb/na/na-k10015001931000)**: A tsunami advisory has been activated for multiple prefectures in Japan due to seismic activity, urging residents to exercise caution. (NHK, Japan)
+- **[New Labour Codes introduced in India](https://vientianetimes.org.la/freefreenews/freecontent_240_India_y25.php)**: India rolls out new Labour Codes aimed at modernizing worker protections and rights. (Vientiane Times, Laos)
+- **[Massive flooding hits Malaysia](https://www.thestar.com.my/news/nation/2025/12/12/number-of-flood-victims-in-sarawak-perak-remains-unchanged)**: Flood victims in Sarawak and Perak remain unchanged as authorities monitor recovery efforts after significant rainfall. (The Star, Malaysia)
+
+### Europe:
+- **[Ukraine proposes a demilitarized Donbas region in concessions](https://www.lemonde.fr/en/international/article/2025/12/11/ukraine-ready-to-accept-donbas-demilitarized-zone-in-concession-to-end-war_6748397_4.html)**: Ukraine offers a demilitarized zone in Donbas as part of peace discussions to resolve the ongoing conflict. (Le Monde, France)
+- **[Sarkozy indirectly supports Marine Le Pen](https://www.rp.pl/polityka/art43488301-nicolas-sarkozy-otwiera-marine-le-pen-droge-do-wladzy)**: Nicolas Sarkozy's support for Marine Le Pen suggests a shift toward right-wing politics gaining ground in France. (Rzeczpospolita, Poland)
+- **[Greece sees election of new Eurogroup president](https://www.kathimerini.gr/economy/563970319/exelegi-proedros-toy-eurogroup-o-kyriakos-pierrakakis/)**: Kyriakos Pierrakakis has been elected as the new president of the Eurogroup, influencing economic policies within the Eurozone. (Kathimerini, Greece)
+- **[US President Donald Trump criticizes trade policies in Europe](https://www.dnes.bg/a/2-svyat/703210-tramp-prezira-evropa)**: President Donald Trump disparaged European trade and defense spending, escalating tensions before diplomatic meetings. (dnes.bg, Bulgaria)
+
+### Oceania:
+- **[New baseball program expected to improve performance in Antigua schools](https://antigua.news/2025/12/11/pilot-project-launched-to-boost-student-performance-at-five-islands-and-greenbay-primary-schools-video-story/)**: A pilot project launched in Antigua aims to enhance educational outcomes through innovative teaching techniques in primary schools. (Antigua.news, Antigua and Barbuda)
+- **[PM reveals energy rescue plan for Tomago Smelter](https://www.smh.com.au/business/the-economy/pm-reveals-rescue-deal-for-power-hungry-tomago-smelter-20251212-p5nn62.html)**: Australian PM announces a deal addressing the power supply needs of the Tomago aluminum smelter critical to local jobs. (The Sydney Morning Herald, Australia)
+
+## In-Depth Coverage:
+
+### Escalating Tensions over Venezuela and Drug Trafficking
+
+The escalating situation regarding drug trafficking in Venezuela has captured significant international attention, particularly following US President Donald Trump's announcement of impending ground attacks aimed at dismantling drug networks originating from the country. Reports indicate that the US administration views the narcotics trade as a growing threat to national security, driving the enforcement of more aggressive military measures. According to [Infobae](https://www.infobae.com/estados-unidos/2025/12/12/trump-declaro-que-estados-unidos-iniciara-ataques-terrestres-para-frenar-el-narcotrafico-desde-venezuela), this initiative can be seen as a major escalation of US military involvement in the South American region, reflecting ongoing tensions related to Venezuela's broader geopolitical landscape.
+
+In the shadow of these developments, additional sanctions have been imposed targeting members of Nicolás Maduro's family as part of a coordinated effort to hold accountable those contributing to Venezuela's political and economic crises. As reported by [The New York Times](https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html), these fresh measures are designed not only to pressure the existing regime but also to signal to allies and adversaries alike the US's commitment to supporting democratic processes in Venezuela amidst rampant human rights abuses and corruption.
+
+### Humanitarian Crises and Natural Disasters
+
+Natural disasters have also made headlines recently, drawing global attention to humanitarian crises. Record rainfall in Canada has prompted severe mudslides and road closures, leading to hundreds of evacuations. According to [24sata](https://www.24sata.hr/news/foto-atmosferska-rijeka-donosi-kaos-u-kanadi-bujice-i-odroni-gutaju-ceste-stotine-evakuirane-1094531?24sata_ref=article_sidro_naj), local emergency services are actively responding to the crisis, working tirelessly to ensure the safety of affected residents. Such incidents underline the increasing frequency of extreme weather events attributed to climate change, emphasizing the need for robust disaster preparedness and infrastructure resilience.
+
+In Southeast Asia, the heavy rainfall in Malaysia has forced the authorities to maintain a vigilant stance amidst the ongoing flood evacuation efforts as reported by [The Star](https://www.thestar.com.my/news/nation/2025/12/12/number-of-flood-victims-in-sarawak-perak-remains-unchanged). While the flood situation remains dynamic, communities are left to contend with significant challenges, including displacement, loss of property, and access to basic necessities. As recovery efforts unfold, the international community's support for such humanitarian crises becomes pivotal in fostering recovery and rebuilding resilience in impacted regions.
+
+### Political Developments and Power Dynamics
+
+Political movements and governance are also at the forefront, with key developments impacting elections and public discourse globally. In Africa, the political landscape is marked by significant controversies, including former Vice President Ousainou Tambajang's criticism of President Barrow regarding the Constitutional Review Commission's failure. As mentioned by [The Point](https://thepoint.gm/africa/gambia/headlines/former-vp-tambajang-slams-barrow-for-crc-collapse), the collapse raises concerns over the effectiveness of governance and the administration's ability to address constitutional issues.
+
+In the American context, Trump's remarks regarding European leader commitments have intensified debates over international relations and national identity. Reports from [Dnes.bg](https://www.dnes.bg/a/2-svyat/703210-tramp-prezira-evropa) illustrate the growing friction as Trump criticizes the handling of trade and defense policies by European nations. Such statements not only amplify existing tensions between the US and Europe but also signal shifts in global power dynamics as countries reassess their alliances and commitments amidst changing geopolitical realities.
+
+### Cultural Recognition and Heritage Issues
+
+Recognition of cultural practices has also emerged as a vital topic of discussion, particularly as UNESCO has acknowledged initiatives aimed at preserving intangible heritage. The addition of Swiss yodelling to UNESCO's list stands out as a major cultural moment for Switzerland, emphasizing the need for cultural preservation amidst modernization pressures. More details can be found on [Swissinfo](https://www.swissinfo.ch/eng/various/yodelling-declared-an-intangible-world-cultural-heritage-by-unesco/90619513?utm_source=multiple&utm_medium=website&utm_campaign=news_en&utm_content=o&utm_term=wpblock_highlighted-compact-news-carousel).
+
+In a similar vein, the official recognition of "Ekpesoso" in Togo has brought attention to the celebration of traditional practices that shape local identity. This development highlights community pride and the commitment to maintaining the richness of cultural heritage, as noted by [Togo-Presse](https://togopresse.tg/ekpesoso-inscrite-sur-la-liste-representative-du-patrimoine-culturel-immateriel-de-lhumanite-de-lunesco). These initiatives underscore the ongoing efforts to safeguard diverse cultural narratives in an increasingly interconnected world.
+
+### Global Sports Events and National Pride
+
+Sports events, especially in the context of Southeast Asia's regional competitions, have provided platforms for national pride and achievement. The recent SEA Games event commenced successfully, showcasing talents across sports such as swimming and karate. This year's event signifies substantial investments in athletics and youth engagement, with [VnExpress](https://vnexpress.net/sea-games-ngay-12-12-4992852.html) reporting on the positive outcomes of coach and organizer collaboration, important for maintaining robust competition standards.
+
+Moreover, Uzbekistan's national football team has made history by qualifying for the World Cup for the first time, reflecting the growth and development of sports within the region as celebrated by [UzReport](https://uzreport.news/football/o-zbekiston-ilk-bor-mundialga-chiqdi). Celebrations surrounding this qualification reveal the significance of sports as a unifying force and source of national pride, particularly in regions where achievements in sports can drive engagement and community cohesion.

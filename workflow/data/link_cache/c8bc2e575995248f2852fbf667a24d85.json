@@ -1,0 +1,49 @@
+{
+  "website": "https://www.futunn.com/stock/688795-SH/news",
+  "links": [
+    "https://news.futunn.com/post/68635019",
+    "https://news.futunn.com/post/68620268",
+    "https://news.futunn.com/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10",
+    "https://news.futunn.com/post/68944822/2026%e5%b9%b4%e5%9b%bd%e4%ba%a7%e4%bf%a1%e5%88%9b%e4%ba%a7%e4%b8%9a%e5%8c%96%e4%b8%93%e4%b8%9a%e7%9a%84%e6%8a%95%e7%a0%94",
+    "https://news.futunn.com/post/68941208/amidst-a-dynamic-and-ever-changing-environment-all-things-are",
+    "https://news.futunn.com/post/68936927"
+  ],
+  "metadata": {
+    "https://news.futunn.com/post/68635019": {
+      "headline": "电子行业周报：四大CSP厂商资本开支超预期，需求传导推动功率半导体价格上涨",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:58:19.252328",
+      "last_seen": "2026-02-09T21:58:19.252339"
+    },
+    "https://news.futunn.com/post/68620268": {
+      "headline": "快讯 | 算力芯片概念震荡走强 芯原股份涨超10%创历史新高",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:21:08.856688",
+      "last_seen": "2026-02-10T11:21:08.856709"
+    },
+    "https://news.futunn.com/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10": {
+      "headline": "MinerU完成10余家国产AI芯片算力适配",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:51:38.137744",
+      "last_seen": "2026-02-12T12:51:38.137759"
+    },
+    "https://news.futunn.com/post/68944822/2026%e5%b9%b4%e5%9b%bd%e4%ba%a7%e4%bf%a1%e5%88%9b%e4%ba%a7%e4%b8%9a%e5%8c%96%e4%b8%93%e4%b8%9a%e7%9a%84%e6%8a%95%e7%a0%94": {
+      "headline": "2026年国产信创产业化专题深度研究报告！",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:35:23.737155",
+      "last_seen": "2026-02-16T11:35:23.737169"
+    },
+    "https://news.futunn.com/post/68941208/amidst-a-dynamic-and-ever-changing-environment-all-things-are": {
+      "headline": "风云激荡，万象新生丨2025 A股年度大盘点",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:35:24.317751",
+      "last_seen": "2026-02-16T11:35:24.317766"
+    },
+    "https://news.futunn.com/post/68936927": {
+      "headline": "摩尔线程MTT S5000 GPU极速适配MiniMax M2.5模型 展现强大推理性能",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:35:24.958567",
+      "last_seen": "2026-02-16T11:35:24.958584"
+    }
+  }
+}

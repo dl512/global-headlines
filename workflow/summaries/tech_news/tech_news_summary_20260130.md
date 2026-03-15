@@ -1,0 +1,33 @@
+## Tech News
+
+- **Apple iPhone Sales Hit Record Highs Amid Chip Shortage**: Apple reported its best-ever iPhone quarter with strong demand in China and India, but faces production constraints due to advanced chip shortages.
+- **Apple Acquires Israeli AI Startup Q.ai for Nearly $2 Billion**: Apple bought Q.ai to boost its AI capabilities in audio and facial recognition, intensifying competition with Meta and Google.
+- **Amazon in Talks to Invest Up to $50 Billion in OpenAI**: Amazon is negotiating a massive investment in OpenAI, potentially raising the AI firm's valuation to $830 billion.
+- **Microsoft Stock Plunges $357 Billion After Weak Cloud Growth**: Microsoft lost 10% in market value after disappointing earnings, while Meta surged on strong AI-driven results.
+- **Meta Shares Soar on AI Investment Returns**: Meta’s stock jumped 8% as its AI spending showed positive financial impact, contrasting Microsoft’s struggles.
+- **Tesla Shifts Focus to Robotics and AI with $20 Billion Spending Plan**: Tesla will invest heavily in robotics, AI, and driverless tech, moving away from traditional EV manufacturing.
+- **Tesla’s Energy Storage Business Outpaces Other Divisions**: Tesla’s energy storage unit posted record deployment and high margins, now contributing nearly a quarter of gross profit.
+- **Waymo Launches Robotaxi Service to San Francisco Airport**: Waymo began offering autonomous rides to SFO, expanding its airport services despite ongoing safety investigations.
+- **Waymo Vehicle Hits Child, NHTSA Investigates Safety**: US regulators are probing a Waymo driverless car incident involving a minor near a school in Santa Monica.
+- **US President Donald Trump to Announce New Fed Chair**: President Donald Trump will reveal his pick for Federal Reserve chair, with market bets favoring Kevin Warsh.
+- **US President Donald Trump Sues IRS and Treasury for $10 Billion Over Tax Leak**: President Trump, his sons, and Trump Organization filed suit over alleged leaks of their tax records.
+- **US President Donald Trump Threatens 50% Tariffs on Canada-Made Aircraft**: Trump announced plans to decertify Canadian aircraft and impose steep tariffs, escalating trade tensions.
+- **US Trade Deficit Soars 94% Despite Tariff Efforts**: The US trade deficit nearly doubled in November, challenging the effectiveness of Trump administration tariffs.
+- **Gold and Silver Prices Drop After Record Highs; Asia-Pacific Markets Mixed**: Gold fell over 4% after recent highs, with Hong Kong and China indices declining.
+- **Ethos Technologies Goes Public, Raises $200 Million**: Sequoia-backed Ethos debuted on Nasdaq, distinguishing itself as a profitable insurtech amid industry struggles.
+- **York Space Systems IPO Surges 11.7% on NYSE Debut**: York Space began trading at $38 per share, highlighting its role in US missile defense projects.
+- **OpenAI to Retire GPT-4o Model from ChatGPT**: OpenAI will discontinue several models, including GPT-4o, to focus on more widely used AI models.
+- **Microsoft Launches In-House AI Chip but Will Keep Buying from Nvidia and AMD**: Microsoft introduced the Maia 200 chip but will maintain partnerships with Nvidia and AMD due to supply needs.
+- **Apple Investors Tepid Despite Strong Earnings**: Apple posted a 16% revenue surge, but shares rose only slightly amid AI investment concerns.
+- **FoloToy’s AI Toy Sales Multiply Fivefold After Funding Round**: Shanghai-based FoloToy raised millions and saw core product sales soar, driven by privacy-focused AI toys.
+- **DeepWay Raises 1.177 Billion Yuan to Accelerate Heavy Truck Electrification**: DeepWay completed a major Pre-IPO funding round to boost its electric and intelligent truck business.
+- **TTC Secures Tens of Millions USD for AI and Recruitment Tech**: Beijing-based TTC raised significant Series A funding, led by Baidu, to advance AI model and agent development.
+- **Neva Coffee Completes Multi-Billion Yuan Series C Funding**: The coffee chain attracted major investors, signaling strong growth prospects in China’s beverage market.
+- **Shanghai Quantum Computing Startup TuringQ Raises Billions, Nears 7 Billion Yuan Valuation**: TuringQ, founded by a Shanghai Jiao Tong University professor, secured major funding for photonic quantum chip development.
+- **Spotify Launches Group Chat Feature for Up to 10 Users**: Spotify rolled out encrypted group chats, enhancing social sharing of music and podcasts.
+- **Google Maps Adds Gemini AI for Hands-Free Navigation**: Users can now access Gemini’s conversational AI while walking and cycling worldwide.
+- **Music Publishers Sue Anthropic for $3 Billion Over Copyright**: Universal and Concord lead a lawsuit against Anthropic for alleged piracy of 20,000 works to train AI models.
+- **Amazon Lays Off 16,000 Employees Amid Intensifying AI Competition**: Amazon announced significant job cuts as it ramps up AI development efforts.
+- **Medium Gives Employees Day Off to Join US National Strike Against ICE**: Medium supports staff participation in a national protest over immigration enforcement.
+- **India Guides Google’s AI Education Rollout**: India’s education system is shaping Google’s approach to scalable, localized AI learning tools.
+- **Flapping Airplanes AI Lab Launches with $180 Million to Pursue Data-Efficient Models**: The new research lab, backed by major VCs, aims for breakthroughs in AI with less data.

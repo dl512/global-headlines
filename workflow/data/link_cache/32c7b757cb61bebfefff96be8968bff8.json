@@ -1,0 +1,518 @@
+{
+  "website": "https://news.google.com/rss/search?q=GlobalFoundries+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxpb2p0nu1jaeh3cvlknhv4zgvwyjb2x294nzi4b3dndvfktddmx3fns0ndz1ldqwxvmzvkdxk3sxdkdjzisxo1wevnveh3vum4qtlmmjflddfbdk0yzll4cljfrtdzs2redlrrotk4v3o0cgher0hnsjv0axnpn29pm3remxlwchvfb0lfre5pv3ntum00mmc0?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxqznbpsnnyofpfognoovbns0pjctf3yxbkexfpnxnlu0lksdn6wxlzsmd6d2zdemzilvnxy0ptve1hck1oy0vad0uxnmx0ekxxmey1ykj2mddnuxffn19zrzzvdwzhq090wwzom3vzzurhzc1oemlon2jbte5awvpzzge3yvrpd1dkmtiwstzgzxfzcv9tbjnpdxfxcdhqlvjqnez0rutuewtfqjm1zlu0ddbvsefxmmhiegc?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxqc0vfmvhrn0hkqthydgrlvfzcsmrnavywvu90eulrmjc5qufzumxpmjzvdgted2i4mefkwlddrxy3ulfnb2s0uw9nd1p2tlyzbnflrxnndzk2cm5xcexfujfvr2s5nevtrfp6bjzcadj1yzywmuuzblowbvjwehrnztj0ytnnmwdjcfbhsme0snhuuw9ubvy3rervbwlmdzy3whfzyvfpdflmqxlfn2nhrkp4wkzwv0fqdue?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpquvpdwstr0k4cddfegt5rflybhqztjrcujbstgppze5yskjzskfdc3n5mljis3z4mnfnvtjvei1ucmi3a1e4ugljs1kxrfy0rxfsu1fsv2pomnpxbg1wuwvvlxd2ekpcohhfd0dsnnrat3hjeu9gd1hzz1fusvbkchnhmjd0bddndnvhuu04lu0tzgtsenrudc1oa3nruwg3bjg1rmy1qnlhow50tgf4uwzn?oc=5",
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxns3fsoc14re1ac0g5n0zxnwpmywpsa1pcwulhu05ltvvxv3bxac1bavz2nhrqswpmbwdhs0lmdjdrwtc3emhtc1jirxeta2zmanpkujzjv21lotriahpkov9jzuhjy1vlaxbvuwdobjvmuep2nxdjogt0cf9nzzzdbendexdsvgxox2pxawy5dzm3ddjmyzdtzvc0vdlumnuxn0vnytzwzerrx3rpyjfmmjjgag5qag9bunvmawsxswdiuq?oc=5",
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxqsui4bgtuslg0rwfkbxfqu29pethreewyu1nodwjfmwvtrdhscjdms1lby0zycvu4uvj0cmk2re9kt0hyynrxnzyxvnettel2aexyrvlavditrxjsq1y2ug5ynti2uukwzmq3u0w5ufdqtmrrcjzxr2lmmhdka2pmzudns2dpsm5mq0fiyq?oc=5",
+    "https://news.google.com/rss/articles/cbmikajbvv95cuxowlnosfn1ejv5d29zzuxmytjmmnbynes4nhfsve9jrkrssnl0b1l1n1niuupzy2xnynzhwnjrmdlstuwym0xswtnfndjrnzgyofbkujljuxppuu9xrzfvluphnjfuavdiy1j3yuvdznhaqwvsduzrmdnhbm44lu1qetm0zfb3wgdfam02yjllculsmlvari1xzmjpn0rrrlfztvpynnrktmc4nnrqsgphn1dzb1lrr2ixqnf0n0djalr0yi1pmlnld3bqdnr6ynlnejvunelfznflduxgthftbg5sug42u0ewmgxpakndaew4nwlcdwtvetq3rhq5b2zuwmf5nxrrzglfzu5yzmplsg?oc=5",
+    "https://news.google.com/rss/articles/cbmilajbvv95cuxocvr3lxkxdznfdm03tlfsslpxnwftavoxehzldel1qvbezfbwcnplzguzuzvfrk11ym1yevpjtfhyognxckvalve5cxn2n0k5duwxqxiybljldgh4dvjfdwz1efh0turksznfbxrinkg0s0xjahhznuhymu1qyzmxq0ezvuzsadbhdtjobw15s0vccm9kc0tyvtf6c0jalwnycgdsnurdsnrwyvb1nkddq1rts2vqqkftefo3x1nbnvr0x3pxa2lxby1uzlotdkvgdk1cdulacei1ohjbovpkre5byzbjadr2yldiche1qwlrdtdpmgzeznj6y2hscwdtejltvnv2q0p6azdcnjbpb2z2s0k?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxorkrpy2dodvdpqjdfuwd4mvnyudbsdhfbekwyeupzcdzzz0n2yuzlnerxm0twzxn6nzhkmwpibel6q3niqvhsmta4nevmu1o4ofjtc0nqrey0azbrqzbjtnb5xy1swf9ermphn2qyanlsn29fwuuwreu1twtnmg9ku0vxtenkuejvcfnzbwxnehbtmnvvylnneuzkulvox1vxuxe0?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxndzzcwg5mzfzrqvewohpdzmtsmxzhazjst3fwowz5bnruckncnuvfeljhvwjsczdfwgg2ctczaxnctjq2stbpull1m1rwb01btlpovxixuhuzmkktzhnwukjxaedyulqyvevemlrwbmzgs0m2bgxpywzmn1pkz0jvsehnd1vwmlhynxleduvdsdrhvdvscvlmwl9gevv1etc1ohdun2xssdd1cc00dnvdvurdsufcynhtqmh3?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxobuc3ylllvk9ietlpwhzdskrnv3fey1pqtdnuazy3xzmxbwfqwf9bn21ocdftr0f4r1lwuknbd045svnivzrsafy5qnjyqvpcazlutkz5buv2mnqyqwn4rlpfc2fytfzsu3pkdk91tzr6tjcyzxhhnzliohbprg5iay15str0cuzxttj0bznat3zonwc?oc=5",
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxpn3lru2pgmghmmjfnc2rcck9cekgxvtk2mmpuvzbkvtnfzmgwykr4zenczkkyohbiznfbwlpsyxftq3o1whlswvo4utvyd0zpqktqvgldel9vqmhgrdhrymp3ugi3vurtsw8wy3jpmxfwbxjtaxqzqmzhblr1m0fcunf2uldmnlzvseh5vw?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxnvm14a2vqx0f2zkzgvzhxyxjmogrknjitnzbldvrwoujunexdugzungd5sk41ethvee9iakpmz3z0tjc2rhzpmxu2t2nkdnrkluktwvnhwgdmmuvftg92nfo5wmrvdflzzdboef9ka3jjnnritwdzcfnjmvcyenctvdnsz0zuwlp4se5gy1h1wevaznvrtuhncemzqwhqr3m?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnbeu1whbprnnld1jeq3nts0ruu0p3meszzzhalvduatrzvdldt3fjwgvwmjrnaup2y0hjcwnydm0waxjjbxvpa1f2ututtw8wt3ktvi1orjrhwjlsmtjowvnjrmptwwvwc1itlte2v3jhs19mmw41nkfhmev2b3dmn19rc29jthngqwpxc2hwszj6azztahv3?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpovrcz3nptjfrce83bwuwveffahnxmfjlnxvwrxa5vhdketnmdjdkvfnls1jxulbur19new1fumffalnys0hzddn3eully0s3dlbortftuw9vu05mued0xzu5btbjdtjnbf9ibk15c2tkc0e3df9roxu5wjz1dxbez1raq3nrdy1ld191zu9trluyadne?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqbe0zrfjnn211eudywjfmufzxndvzu0poekjmu1frqzfncmq5m3dfqwxzofozmk4ytvzrcdmzaud3adric1zxn2trwk9aaxhdmzbkztk0wdkttwlhawhpddjcs0c1y2r4nkwxsknybtlxyutjctu4afb5v3vmlu9lum5pzg01emf0vdu3yjvdtvlinnj4euleahdmng91whrtsvpntwv2bkw3cjrhtex3cgexvzlxnkzxzhj6wxvhevkwatyt?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxpn0rob1e0yvb5rfjqd2jmdwftbf9zm0s0z1lqm2nhq2ctlvfgqmt4cktoedhqt0hrumv5vxctsmtnthjxbv9osnk4azncc0xlvk1oc0viz0ljzerevtzzwxnlnnfbuv9lmugxneruwfl4mvo4bnvtylzirwc1ee1kdmpgcwdovvfszuhjykzymgxpm3hhbxrhwudnd1bsr1hpqnlerllfdhk2s1f0mkhrskdgeuxadktkzjzmuvvoam5xrw9pddv0uepitmpjmmnts3zltvhb?oc=5",
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxplvyxn3dmunnlzkljvmftrvdhty1zt1ltbmnrymnvnhlewgh0cs14ohliskxnx3drytj4zdntae9izlnmsmnzr1a4a3nzvnn0ujj2bkvfq2d6v0jyt29qyxnhuutneus4wmtseu1nmjbkntyymjnyadf3t3fyymxuy3didfnneutbtwlyvs1lveu2z0rrz080ckx3adhpltzquwtfmutxa0xqqw5md0pv?oc=5",
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxptnqxqzned3hpbkx0utvkenjkehdin3kwchu5rgu4u243zg1jmvrzovdxltrmb0u4qtbndzluc01mwkpomtjksetttwdtwwpcqljatjzimg1zc2joywpmz1rtellsullpu2vkwvotow5db3g0whd1rthzam5tdvpdbtvsrjlbu3m?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxqtwjwsvrhvzhtttrsdvrwug5bdetkyxg5sefiexi4mwhsufm5qti5sdhhelk2vmk1twd4clhblwdsm1y4ykjjm3pozwptwg1fu2jarwjtmlziowtpegk4mnnttej2vxnauxjveg1wvk9kund3d0zcyklwvnkwde9bmtraukdjbwfqmgdhvmc1dm1xcjjon3jbc1hmutngmhrzwuzrnjcwven5unfzczj2dhe2zkpouthooxzzwuy1zu53vwraaepnslb1cvziqjnkcnptwghr?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpnxnoa0n1rfvotxhfweryywjmudzem09csfp1ovitlwrht0dzywjmuwdtty1xeezjz0nrbmt2d0vtyzldq040vjj0ugxkaetrmvj6dk9wsut1vervr1iyczrzskpobklnbmhgsepumf9vmupqvw5noxjrnkhmb0husk1dyjftb3dk?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnvuo1uuffsuszwjjsowdfbnrazkl0ze9uetzcuwewsdzltlbqquhhlthdtdrmwm1qbi1kodviuzvom2ntwtdrchdzwwfkr0hfzuxqttb3mfphnnjvcxronnfmemdhttlymedza21pthzftv96zkmtv0ytq0ryeelxbfkwyvz3tgn0bjgyr3utq2zgzjnwdfd3r2wtbe83uw9xlwkwshd4txlrrum4rmjozkz3ntffdw?oc=5",
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqn0fnrmjmdc1uzy1bqmritdn0vupmzjldau1urdjxlwpisxhjmgltsxzzntbimm5nwjv6ckpclvd0zljva0zrmi03ak41qktzr21vyjqwn2vdafzdrjettgpscvdpmwthq3rbexrctff5uey4zkprzld0mzj4q1l0v0fksdj5sjjxz2dqbddxyi1ydljh?oc=5",
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxotwzyb0xsa0vxqjq5dwdxsvlvb01yc3hrduwwm0u0ukr5audtwes5wdzxrxjnmvbfoc1zwk1tqmxilwc0vmzvs2phcnncegt3q201r2fmec0wcuotqkpzdgw2undud3ewqmzmt01wa3rodxf1rhlaugzbdudnnudmakzoeduytnz1lujnodlwrkktyvhjutnrndd6z1dunjyxrgstogi3tlduy0jrrlu5szlb?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1kt1vqdg0ymk9ine9dehzuoexfx19vnko2atf2cxfwdgtjnnntr3f5d1pdtelkufh3yllydkpzvljwtklyqs05zxawv1gwbjrudjdzq1uxss1fagn0chnuz2vovla3ajdfmfrfetnnsxc?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqr3zln1nyzdlrylk3yw1xsdiwvzjjzuhldnnrr3voruxmdwhdse0ydxluvgwydlz5zvo1udlhcdi4egxby3etbgw4vfrxv1vuvhiwsl92bjnvu1z5q1fumwdhqxgtqjnrdmlkz29rtvrqsgrkemcwczfzttfhnursntq3mxlywfldzu44wudnvvbhtg5pnnbrzzrwd3nax0zqdjg2aldkcgwyotcws1nfcdz5uhnqstjmwxzvz3d4c09jbdfda0j2bwyxsvbpowfatdjv?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxqufpsn3uzzdq3mkvystfuohlpsmnputrxvtzonzztae4ybjdhtnpvwvrewnftzkjfd3dcslvoyxnqqmtkwuz3se1pdwppdzlhx3djutlmzf9aaghoegtwcgotrznplwvlcertnzbpbwwtvnpfavhlnmjuqxzesdhrc052beh5wffbui1zbuh2odjfxzi1sxhrac1yckvlqty3cgtqemwxz3vjeg5kt19wukzkvvk1ekzkvgnvn3hurujgvg8ztgrhdkfvzfq0ndlkbujhc0xwb1nmzexsadsbqvvfexfmufbaujd1m2q0nzjfwekxvdh5aupjave0v1u2tjc2bwhomm43r056b1lurfpxu2zcrxd3qkpvagfzuejrsllgd0hnaxvqaxc5yv93sve5zmrfwmhoahhrchbqluczas1ls3beuzcwt21slvz6x2lyszzivef2reg4uxnodmxievhrqvitww1idjgyx18ynul4a2gtwhjfs0e2n3bruhpsmwd1sxhusk9fcfjgslvznxpgzfrjvtd4vevcrlrvm0xkyxzbvwrundq5zg1cr3nmcg9tzmrf?oc=5",
+    "https://news.google.com/rss/articles/cbmi5wfbvv95cuxotda3rkc0oevwqm1kdmlpugpuuy01b0nqr3q0du45uzr6b24xu2twqmzmu0duvmzjrs0watfabdu4tm1ws0hntzk1dkj3lwphvtlinl9szgfnaxy5q2x1vw1rb1zrcgnlai14z0fqwtrusmcwrjm3n241exjmlvh4nm9oznhqtmo0wwvzawc2yi1icnzxd2c1mg9wmfiwtkrzbnb2swe4dzi3ewr2wflgsgy5unfmmdhna21mrfg0aejlouoxslqybjlyzefwumd0y2vzbm1msxlau2zvdvjwz0hpx3n3lxfsaewbqvvfexfmtvhvqwwycvhhngluv0dlekjbsuz5tmhfazfzcmc1wedtrw04vmn4bedywffmevzhyuexy1hub1hbcexobdbvrnm1amjibhjrtmrymmvhuhr3uvfdt3jeskdyu3hktkv6tvazq05ruekycv8tn3plrc1oqs1mrc04ehpkzdhroxrzsmp2x2vpdxpytzdob2e3s2hrqnfmq2l4ymeybk9lvkpkellewu9pmklxawrmq1njek9zmjnknunquevnbdr6vgdqumvkmmxrrkg4clvoqw5bx3zvc3puttjuv1jmr0h0unfnss0?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpwwl0dxdfumxvcwnkadbkv2r6nmnuulhuuwxxd1ftovdhu0dmrmxjner1bdfyvhfvofzfeda3rjdetzuwntr0rupsyuzoov9fby1bqjnfngf1d3vgwjzcewrqrk1gzzy2zhzidgc5wk83sujzugrna1zsyjhgvtfhrnjhbu9ewu0xqxnutenuejywy0ezszfeak5guwzvzzy4bvmxcw0tymldznd5evjoc08ta01xq3pyqzdjovnmefrtqnl1efvgenfrvjzitmhnmvjjcgfloxixlvhsadsbqvvfexfmt1lpdhv3x1jsb3fjzggwzfdkejzjvfjyblfsv3druzlxyvnhtezsstredwwxclrxvthwrxgwn0y3re81mdu0devkumfgtjlfrw8tquizxzrhdxd1rlo2qnlkakznrmc2nmr2shrnovppn0lcwvbktwtwbgi4rluxyuzyyw1prflnmufzbkxdbno2mgnbm0sxrgporlfmvwc2og1tmxftlwjpq2z3exlsahnplwtnv0n6ckm3stltthhuu0j5dxhvrnpxuvy2se5ozzfssxbhztlyms1r?oc=5",
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxod0rwelu5b2hsbuxav0hpmunxumjjtuxqmddfck9xmmzqdju3agxhz1zxtdrxoglwz2zzzlzlrgvesldmq1u0vle2mhlsoe1eretfuuvswddrn0honwfxc0fhttnvv2jrv0hfbu1bm0d3senxneg5x1j3dhpgdmkwoewztktswgi5qmtsu2pulxuybkl1uhnjvl8xnmlcbzjvdjrxeezodhjunuxjddnwujrzsjljqvnad1zlbhbxoxlnt2hvtvh6zhe2oxf4tulpme9jugzjs3n2zw?oc=5",
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqaxzvauhozznlvvlasg40rxo1t1m5t2xlumfwwta3tepltmz2ufa2ogheznkytktgujgwnjfeczvbs29ptjzpmdhcm2p6rurtrkhguxl0avezngs4zfnhb192qw04cxe3smzyoc11d3p2mgvorwzvm29kbxrksk1wq3dpsv9fm09gb1vcn215z2jusjzhbvkteha1zdbsoxcyovbny2mwzenlz2d3d001y0lktknlv0jublhv?oc=5",
+    "https://news.google.com/rss/articles/cbmi7gfbvv95cuxpswrwtglyewt2aklxd0drne8wqm9tuvvhvwfkq1pqmfuyvtdsodnkamvhsdc5cnlrvu8wu016q0roetdqyuhxx1zwdgllmug0vtuwbf9tdlrjnnnheed6rdjlrkrmwflrmg9ot0ixv21za2mtzjutqm5tykpvbmn5cnrtbg5nn28yedjvotmtx2pialczqnlfv3zytjnwamhdbg83v3c3vxe0vlrwtujkvlawdvruohbkvud3cxlfc1pcrxlamho0x1jiy2xou0llt1rky1bmni1fwi13qzviv3prtf95ukvsx0nvetln0ghzaufvx3lxte5xcg0wn09lq1jlr016vzndauv5dm5xng9vemrwqnliywfvwnjjehllakhqbtg3dxbkaddsylhatmryrmjvzfawogrjbgrgwk4tswvduhnrevjabxhjckmzz3pweuheqzcwtzvzsvplwlm1edrmawjknvvycwrza3niqkhieejrdunvx19aytllyxc2mnvybmz4x1qtwdred3r4yv9xr3rive9vq3fkvflorwvzmwjozxqxbfnhmf9kmwv0dgffzzfdqvdya0xnmtdbuwxuovbpvjuxnhbenmlswm9lawxsunb3zvpktjcyq1dksq?oc=5",
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpofpymv9ktjdsu0xvq0w5vgjmoul3nfvamux1nknztzb0cddpwgfnbtb1cwdhz2hbcetksg9zslgyqtrxqlhtsfhitw5tql94blhuvxbjsggyy1jutxzqtefaodq4cm8ym3ywv3p0vffuwhp3twnvdtlfqk4tzzk1mlhztes2dknst3lsoexqswfby3jmv2pps0hrcnrsm1pbb3lyujbkqtntcvfjuwktqw?oc=5",
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqqnitce43chdrx3vdyte4qwvaszh5y1jysmhpy09buzfoshd1ntboqvbtzk9qauhsrextdlexu25unmj3bv9hq3pjbvfiwk1ccezsodhxm0vfotjrrnfdyvzlyzb6yljoztzntw1nmvlzrxjhoxn3tdftnu90zktrz3rjwf9suvnzbmvzd3lkq2zkcgvpau5gczdjrdljukh1qxpltlhouwfhndrpzkfwr0dlbjutzxi5uk5wvhvwnuvpvux2vvdidjdn0ghpaufvx3lxte9zcfhfnjdxa1ytuzcxqmnmrhm3m3nyefvlr3lgtc12d2l4ckfncfbxakdpmwj5qmdpcklfd09kcjhhumy3sevym1vsvxdjmuryys1oelzin2lbaglrauhmnk1mwwhkqtdflwi3efp5qzazdl9srjy5ef9relbnzw52rg93mw5zvvhswgp6y1lrylfwne5namv0nxnzsnn5vmnztuuzchjpbnvpdwk4qtjnufr1wvh1u1ruovbkm0zudg9dtfljdgxquvdlwk13zw?oc=5",
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxnrlp3vxfjvmxqbf9ldkzsaknsri1zx1zwsm4wtnvxumxdcudjn3houtbjd0nfamhjeulka01qwgvdztlzazlkdjlbmkf0wjzwcnzqwglunlrwqzvqudjxqndsdgvrdxl1as02ujv6bm91ughcm3nrsfu2u1ywlwtjwknmczy2swngulr3sg?oc=5",
+    "https://news.google.com/rss/articles/cbmiyafbvv95cuxnukpyrw9lnw9ictz4tjcwznzmukdndxhunghvukfrqtffwgtrehbvy1lpyvddutbvdhpjzllja3nztuezrzk1azlhwmpndnzuednjc1njdkjmeu9hoenqa1q5lu1udunmwwrjzgvdtjrit2hin2z5utf0u2lxuep3beo2wnbgru5nwtllu2pwzhpuzmtuvu1bafftrw82nhnpwvn5a1hon21fcnnpnvrxt0dmsznmttv5vhvqahj2sja2dlveujzzedibyafbvv95cuxnukpyrw9lnw9ictz4tjcwznzmukdndxhunghvukfrqtffwgtrehbvy1lpyvddutbvdhpjzllja3nztuezrzk1azlhwmpndnzuednjc1njdkjmeu9hoenqa1q5lu1udunmwwrjzgvdtjrit2hin2z5utf0u2lxuep3beo2wnbgru5nwtllu2pwzhpuzmtuvu1bafftrw82nhnpwvn5a1hon21fcnnpnvrxt0dmsznmttv5vhvqahj2sja2dlveujzzeq?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnnulmbmc3znlvckfxnw0wmuq2tzdjvujgeuzgte1owxdzchjjuu1sx1vxwev5mvo0c09ux2dootjnzjnfanrnbmj6cwvys0ztri1stzlovvp2rk5dbdzrenzkrulwznftstroag14zgk1y1fsevponxn0txbbzwzmmxy5tvngnlk5ukllouxpzwhkb3n1ltn2a2vpuhz0mmrya29uetljnmv3mnlix3rycmxxwgl6m3pvt1pwa0fmsvezbm9br3pjmjbovjhyzjywbxpzrvhn?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqawo4rvq4sti3y21ezln0zwfvtxbnulj3enzjrgtlludxadnwoxprugkyrwfxwgwxanvkttznefvma3zlcxpmrs1hsjzhwdhsv3ntcvzpzgh0svvsnznvvfbjx0q3yjrtcuhnuwdjzwpiaw8zoutsclbzzgrzn3vpz0dxef9vv0tfekxxr25wnnibowfbvv95cuxqdllfejhxqjfddfhozefva094z1ztczfdckljt0hlzlztzw5jytznwno3wvhenzjsazczeufzb3dvqzcyx3fzmkfathjhcmxlluprr18ttnm5wkpfduv5oxnqehfkchzzamtvq0hzavfpr0y1rjvncuxnb2ytvktzcm1puhvsnefsrhrfdmxqodhqqxhbnnzptleyzfmteeg3ymzv?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxqmu9uvetusmzqt21lzzftt0zuawplas1klurfcnrozuk3shzmtezfzenpouy0v3cxls1sbkfzzhhxcdnkeghqmdbhedb1vl9zcm9izgxiejvycgu1zjc5efvxrxnzdmfmu0tdmwjmtkxnv3jlr3nqm3bivlrhejd3d0hnumvkatzsvlrsawdweethzkztblb0duddvhu0zmphazlwov9zzv9lqu1vqzhjtfrjek1zedv1tkvwtffosuiys01vrjm4smn6tepkss12ykhtrkjb0ghbaufvx3lxte1nbuvobmljm2liqkdeewn2ynnyuktzdwlmqi1la0tea1btv0n3cxv6shgwzdg1vuprtju2tvpxahnbavzctur5aehns2zwufjtrllkb0o2m2lcludebhryuutmnfppc3piovhoykvvujhlr3hxtnpgvwzkrvjadlgtvzqyskzhzjdvqvpummztdxdtslzca2rplxvwbgq0bfj6vehju05pvs1kmwi4ai1ecelzmhrdsi1vn19uqkdpzfljthb2bta5v25rni1cquzyvlzqyk51wgzuma?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnewtoajlurfotuwvpn0znbtv1c0xxnw9dyxzjcjz0udfgtkowu3vmelixefhdvi1zlvztuudaedmxww5su2ldbf9em3ffcuxhwvktlujlb3ldcvg1wmx3ynruxzdxx19xx1hodjbgve81dnq2nwxebvuyedfrsujgdvlxcu14ngdyt29aa1bwsevwzfpvcdlozhrncgo0wgmtslitzda3vtgyc01atzf5mmtdmmpjsxbhzm1jqxnpds1usw8?oc=5",
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxndjg0bmr5b3dmmlnawujrzjruu1vjuexjt2hmz3nfvmnlmmzkytlpnzitykt4dehocllync03m0e4tu9ba2vxdzqtn1pgyzdqne5nvetkumvxzhvhm0djuhu4ceotegj2sjz1mzr2y211akhmy1u4efveqwpadgp5x2prukpsdwlytlp1s3zfv1zjudv0uktpazdyeurxdvnm?oc=5",
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnzxh0dfpnqwvdena3mdbkou10ovzmq3jtnmpptmo1nulfr2ryb3vobwt0y1lqqm1fdffvwe03q2iwsfvszxrfytvizkjybgvnv3puvmvzwdjhenhsuzfzb0vtbffhse1mvjhiutjxbknac2prmhr5zmvzslo1telndlfksfrvd045utbuetbpcmlqufi4udlsuhzyr3cyszztnjffdffiyu1uqq?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpz1fezlhwevr5evhwrw5ssldvbnlfnlrunm5mtgvfz1jdzke5dhjldjnxcjj4mdldaw5vb1ndelfzthzhaetablzxcgr3lxrzvly5y216uljhwtk5awffqwxbzurcztbydgjdvtgzu2luc0nuvxdxajrcdzvaahfed285q3jsr2tiofzamejtagpsavzbvv95cuxqbkrta1mythr6bhu1clzmv01evlfhlwnmz05xbtfkbzbsevzrce9wqunprkj0ajl4c09erdyxcvdxoe9sttj3ykvsdvjnawn0sxjzmdrzuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte9iowktsxr6cezpwelzt0jazfvtv18xemlhemhinvm1rzdcounrauzlsxfou1jkxzgxumjiwm1wuvvpt3ndutlkbzjxtg5jouhnx0lj?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxnuzzfumdudlfbewt1vxu5zhl2ugf4adhzazrxz1rjzk1wbjjrmvruounjoezju1bbx0vwymtvb3vuvxm3nmuyr1ntunp3aedwdhnysvjjzgjlutvwm3diqmhrsxnqdefuy050ttdzb3havnzszxzise8zdlhwb2rzz2dluuwzu3gzr0vvu0nfsgziztjryw42ylvxcdlpexdzvkfv?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxobhpidndgshbyrlrsnvviamy2rvjflvfqexzpvjrovdntzzj2tzrrvk10mg5sv1nzrepilw9cohbtt2zcutq2czhartiwqvptbs00awjqd19lqllcwknyektlanpiz0plnlq2a2stoenxzui5zghkn0jdohdwdurxltlmrxnauuswvzv0nei5mkvdww15awmzu1nxma?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqbzfrbtvzn0hfaha3cfiwt0g5q1rqqu9clw1wmvvinv80dupscfjktkxsohlydxnms0dttnj3n3zrc1fpthb0c1rlwgtlx3nhqu9iu21nqmxntk12t1g5vuntsxljmghvufdcovuzlxhyas10twnultf6aedxqtzba0n5r0podvjayxlhwxjouxngvc1fx2nxmjdtq050de0zx2v6vezwnm9wn1vrogphqm9gaxd3reri?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxonzrra0pdutznmddnv3fgv25nofbvymxbzwhswu9uq0dbmulwzlfwchrhu3joamhsvu8tbnvfnzluofbwr1fwyllnzfpgvmu3y1hxykdnwlnrtxjomlntogj3m2zmzwdwqwlra2lxnddmmk9pcewwwwnsd2vudlznszm5qnhvxzhstdrlt2pfqtjjbdrsnfpvs3z0ztnmbwdtwkz2xzf6nhe5r19ueu5jwnh4z3fzyxy1zhbwnklybxl3rs1zrndxtdm5nkhzmudleum2qw?oc=5",
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxpummxsxe3ovpisvyyqvzetdlhvxdnymg4edfatwnjvwzwcf9ouxpozs1cmmznumf3dvdptvr2tdc4ntm4vdvncdbcdkzpulddcjnnovz0x1dpbwzzvhbnzmrdde1yzuljtnruwjitcgr3bxdscwzbs2ktcdvftkryzznctzawqxflogq2s0lzswdktu5nzelkszrmvkrod19qthc1sui5aepfyklrwxutm09smzvmunz6lwmyeedhdexkwnf2dxflyvphu0xdz2hjajk3ylnrm1vcuq?oc=5",
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpnlpozg1hrdzwnl9iyufnum1sq2lzohz1uencltjztnrgzf9td3fvrmcylvrmuxdgqxjtq1lzyxbjsm9lcgc1z1fkx2veqktsuupaaxp5qnncde1fm0oyee9anmfjlufmy1z6re9mwwfrdznzzedeude4tva1zkrgy0qzqtziwfryqwfqmlvrsk1zvgh4cxdhotrxa3c1vhlknm1mmwlsx2u?oc=5",
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9lwlnxz3f3zutmzlk4dhdxmlfrzhjvz05tajnvwu9mohvzq0lsoutrt2vlcjz2wwi5vee2ogfoewpxetd5eefrmhrhvlppnmltx0vkykfqu2rlu096oxfzskduqkvzsdn2bjfudl9wx1nhdw?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpak16t0dhoexcbw91s2rwtglss3dptxnlrhlwbxdetlpfqzrknhfktvoxchhnbvnzem1hdvflwnvycc1pwezprvlzagnxulffd3bgmwrzemxxmkswdk1fy3jkzvvbotl6m3bldzzxc1a5x2nlb3mtrhnkxzrsr0zydgdaovbjx1j1b1nhemeyr2tvtnbbtud5bupfr1j6zwxoqutrcuo5bhncdk9hc2cwdwpvcs1pbnnntgnqau1auupuohnpmmvyatixthrmnl9nzc1utljqugcxn03sadsbqvvfexfmt2pnek9hrzhmqm1vdutkvkxpukt3t01zzur5vm13re5arum0sjrxsk1amxb4tw1twxptr3vrs1p1cnatt1hgt0vzc2hjcvjrrxdwrjfkc3psctjlmhznx2nyzgvvqtk5ejnwzxc2v3nqov9jzw9zlurzzf80bedgcnrnwjlqy19sdw9tyxphmkdrvu5wqu1hew1kx0dsemvsaefla3fkowxzqnzpyxnnmhvqb3ett25zz0xjuglnwlfkbjhztzjlcmkymux0zjzftwqtbk5sufbnmtdn?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqmfvnajfhyunyrvmxb0fmy0kwsxzxrmnxdzrnnxlzv2eywxhywdh3zgjiyujyoglhcedmsw1cenvmovrjvvpizgv5mmxlogtvve53v2tiu01lluk1dwrvvgjhn3jkstvhwevby2wtctbrsgg3bgxlq2jyzmnwts15s1lemtztm0lzu1desmvfna?oc=5",
+    "https://news.google.com/rss/articles/cbmiywfbvv95cuxnrjb5qzrmvkxabjv0awtjshp1edhpc19vy1butxjjm29xehnuzehmedfkyk1www50c2lxwjjsq2rpwe93z3y3rwnwahlmq0ztnxlzelrps0rxsmvybwfhndzidvd6sunjvjy5advqr19qvzrlbdvostfvtm5sbuxld201rlcwdhjyzln1edbszzn4ctv5b0l4tgnmuhfrt25yblrpt21iyu9lrnlstxdkx3p0ruzqoufsu3jayjnxyul4nl83qkrcunq2yw?oc=5",
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxtfbvakjzag13akpgu080ufo3vxhxu2hsztgzx2zzqnl3chddcwvxanvluultohr4x0tpztj3znh0ofdpy01sqzgyt2vluk9gmzhgzu9z?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnrur1r2rtu01oshkztmxkuvpwzm1ix0t2ng1wbwtkv0o4mux2v0fiwc1nqndzx3ffywdnylnamu9fnxvpqjfvvluysxuxewm3zwzlwxd2v0w3c3blclexmfdlsfz2xzl0be16bdbvwgjlmk1nrgzgzndct3yyugt1c1d4c3r3vtntztm4c0rvmwhtmefym1vlz1rerm1gazradlq4nw5ktmjtt2xyohoxsmdmtux2nuvrstjpr0zabe1zyvyzunhpejdscjrhmzftvgpjq1n30ghbaufvx3lxte5hak9zoejlv0e4vzlkdzvwajv5txblrktxdzvquwffn0lks1zrcdfyumxxmdn0ujyyy2zmceityvjfsen2vvnlv3nottbjafjfqlzhrv84vxpfu0tnbfbdlxhzaujvujrwr2g2q191q0l6v3beuvpmdthax3vgegrmzlqxnhzmlxdpt1ntykeyeuvwnl9zoervdwhzovdpyw5otc1tuzvjx1lxne4taurdnw1mmtzfzu9zvnviewwtmm1oowhnakncewvkmudybujmwdf6ownjahhsma?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte5rq1zksvowt2i2smlnlxziqwvvcfo0venrx29zs1dmt2g0ckm5nxzpx01salzssmfhrtdxswv2vlzjv1bldjf6rxk2umtcwmfvvg1xbdvjul8waxb1a2n1tefld9iby0fvx3lxte5rq1zksvowt2i2smlnlxziqwvvcfo0venrx29zs1dmt2g0ckm5nxzpx01salzssmfhrtdxswv2vlzjv1bldjf6rxk2umtcwmfvvg1xbdvjul8waxb1a2n1tefldw?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxnn2i5wfv4oenxwlfranl2dm43zhfqumlwzg5fcwxzx3jlv2lxtjl2wtvjtjltskxhzkvlq25kr0lwrwplruz3tzlfdvbrqklzujvpwkh1wxparffix3bhsfffslnjrmhpzeq1ug5lyw1kmfrtc2j4vvjpwg1ubfe2bzjla3hfvkzkwkjmznbpaeywv2xfrfg5cefmag1fofzyzw9hanjpwxhia05yyu1fzdnlzs1wcupmwndnyvhdn01gotjqulbbag5tbll6mg8?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpckpgvhvry1dszuotu05rvupwx3vubkthrehrdvftefnydgvfumjxewnnvnhya1znrxrgzxj3vhiwt0fxsmtsnjjqehd5rw5pnvrnafrly1lrqmfmmjc3a2diatkzme1xmuqwskxkytawnuxmywt0ckuxt2d4b1f2bu8wexc1sdnkbwtawwr4rhp1cev2dehxrtdlznfhzfe3exbtq0zsbmzhvmjpsmdkqudlrdlccuvvlxi0z3yxlth3rupjzgfhm3r6bzdyry1peg5b?oc=5",
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte5yu0desdjonfz0nzf5ltdrqlg3emj3dglht2f2yu5iagnntwhxt0t5m0kwmzvdsxlcm2plbwzzu204szhyt1fcqw5bmgrvalhcwmfsuuxla2zfexrlwfpb?oc=5",
+    "https://news.google.com/rss/articles/cbmiqkfvx3lxte9iudc1s3nxx1e2us1kamxyb1jhsgwtnc04sc1bcfjbstm5rgrpqnfbq1rrz3lvenvux2ztbum0rhjszw?oc=5",
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpxzz1zkhfythidza3s2cyvvnrngn3ufrsrdlrru5pmvvtsw5tukq0qwrjrnbtmhbazxmwwetiog10unz4rlfms0q3tnrlvklbwxjhyu5bwu5hcwprnfbmyl94oulpq1lrq1hyy1exlunjqw8zx25pbepkds11ovzqnvjcqky3nvpkzultazrjx1rfckmztgtpbjfbyjjly1qytxh3lxlou3oyz1y0nhfyc19ktnpxmfjsv3nwnhvtdetjtghoy3vwqjrntww1lupdqk9v?oc=5",
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxnal93s1rralbvtenvsgd3udi0sw5notd4vefjzgxpsnozufhzauhcxzjonknldgvkweo3zwdudu5fauxsqtk3tuj3rw02cup6rnvobjvruzjudfh1dvf3eg9lbgx2z2zsohg0mdrus1jqcufvzs1wv2z5vlg3tzf3uldlb2jtcgwxveo5vi1vvxj5dvrzdi1vmutmsgw4tzrxahroqm1tddjivfi2rlphn2jlavrvvvrr0gg-aufvx3lxte1vzkvuny14qu5stzftelrlcefpruewog5jyvlrbzdnq1l0d3p6udlus3d0v1fwx09rwmrqvjjfywf1tdzfyukzbvfztwqwt3fnr0h0ndbqnzhtbu5qtdzaqnv0cln5m0ezq05eu29fetvzskfiddfqwdzqt2oyovjszwxunheysgk3ru9wefdetnvxannvykzeuljprfhhnzgwu1e2yxr2thpjuup1wtnzzgzpsmfqbectzkhfshc?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpnwy3zfhbzhhvqtjvt1zubjbguurzd2phmtmyu0p2zevxr2pgekvjdec0v2f4qmi5qzrwb3nbywlpedfxbutiau1cchrub0rwbw1pr0hiexlddxlxqw4zcfnjthvoruzmsfzavwztqwhnckn1vnnhwus0mdyytl9orvhfegfndfhhoghzv1rfyjk2x2mtmkhpqnjktjjhu3jry3lvvfvzaktmvzbvsxk2ywj4mxuxngvuwkfxmhv4dllzmez2?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxny3daowvwvkfhymdkeux1bktnrxf0vgstawtwnzb6rnvqqkdxwgg5mkx4qwv6lxpaq2lyrf8yy0vfae9rnunpekfitkjxmevoyl9vemdfwhvlm3dhwxfkdxpoyjhiumnitnf1u083uhvhmghkwlp4ow80nvlfvjfpamdttg1hd2s3s0x3mw5tt2xks18twglfefremkn2ynzcyup0m180t1hxegktblpxdmtzb2zpz9ibvgfbvv95cuxnadbqnhy1y0jvv1dyyknuwfbtrmxqnmttahnoufp2ehznqwlnvkjermfbbu05zndjedjjzlhedhv2xze1umt2tkdjagj4dkdncnvncezrstjia01wr2pusfzwv1pulu9jnwnfa19irnyyejjownvid28yruz4ewrvbei0qmtnwkpjthu4berdcvbjbnr2t09lstriz0jjulczb3g4wwxuyu1lrdj0me5gy1rurnnqec1ydg1pt3v3?oc=5",
+    "https://news.google.com/rss/articles/cbmi6afbvv95cuxpcenbynz2auvmawlscku4znloewvht3nuy3itb0ffvmforgswrlvuvzk5bdeytnpsnxfqndnxqwricmvty2wzsg1fmnrpv3v2c05ln3fnovvfync0whnru2s1v0xtcdexmg82eg5amv9pnutjsfvuqnnkynfvuzbrntzvtddfz3jochz2nwh5wejlauqwytnzmufouwnlc2rvufjotlhzemd5nlzumnfotddfzgs4yxb6rjrcwc1pzjlmsg94cgtwugfnek01udfuuv8yuko0y0mwbhbyt2tlctvmnvrpu3do?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte0xyk5koxztn0rxeknjt2nsznqtv1vwskvmngzkq2ztv2wztgzkbglqby1uazvld0rpze96mev6ee85z2fznf9wbmm5ejfxv3pmdefnautrvle0cthdm0rkenp2nmvwqnhkulvpsxrca3r3ntq?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxnwfoxz2flsxu3ajlzy00zyjfytzrubzrxaetlx2ltvhjmtwgxohbknjrjt0jryllncw83zws1tnfxujnqbzk5dgrqvvvfn1rmoxk5evr2mtjxzjiyx21elxfvqwvuztbfckhnltm2sfjlqnlsqulnvy0tdhbjbvv6a0c0uzzrukpet2q5mwk0y2hfykjnyupcu01n?oc=5",
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxpedy1yl8wzmvhr0jiqkrsttnwteo2dtfxb1dxs3zfsc1esepyvmflt19ynnrpngtlsnvznmfkzfewze1xvktzrnzeekffqwvza0jheta1ytjssfpruwlptgdrt29hvncznzfpt0xzeu93rte1r2vxtfows1ngwvddoes2s3y5ndd0r2xqblpyt3rmvhz6q3luntrsuy1kdxdjr1vvrlhvc2pbmhbwwg1wx3f2zhpnzw?oc=5",
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxpr0hvdgdeoghhtzviuwvzwjrct2pxmzztwfbbdumzzgqtvjlov2lcm2julxb5ukhyzfjlwflkmutguvy1egf4ohprshpix28zbvlnnm5nuvizdtzftkv2mevenmx4ohnxvs14tetoa05zrkzdujrwu3nzavywagfibdn1nhvfqkrfbvv0zxzxd3e0eulcrlrkb1lqvkluakvobzlowhfxuhjwemt3afzqwudvzzjldgw0rdhkeutr?oc=5",
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxoyi1znepkr0j5dndyzmdylta5zneznmrvuevpv3lgnxywzhdou1nvvhkzrnd3vhbhrnjiawvmwegxsvdpmwewcmy3qlhwq1nqdmhnztjitgmwdjrttmrav0w0y3dwd0c4qk83z1zqvlfjahiwetndzk5iqzbumm0yaejjquwwegyym0lnb3dbdw81vm04rddpal96mlbcve1uxzj6qzfplxfxbepim1d0a1pgatj1dk8xbhdsnvdinzdwdgrlrwhcx0jranczv3jormfvzgthsdn2nexueuvzva?oc=5",
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte5hanfmadz0zznzzkqwm3c4vkowtutlwgzbt3lyc0xysklmsnjirzzxbgfyautrx0t6ddm2oxk0emnxa0hzawzjng5fcef1sghfn1p3svhtote3qmxysdnabwrkd9iby0fvx3lxte5hanfmadz0zznzzkqwm3c4vkowtutlwgzbt3lyc0xysklmsnjirzzxbgfyautrx0t6ddm2oxk0emnxa0hzawzjng5fcef1sghfn1p3svhtote3qmxysdnabwrkdw?oc=5",
+    "https://news.google.com/rss/articles/cbmi8wfbvv95cuxqee9wovbgdmn4rk1zotdftgs0sllprgzsazddbkjwn08wz2pzmtzwdvbebgfknvlxdu93dxfyuknedho3bfnstjbav0lmz3nznhpinxvrulfrwuhqulvudhdzbdhfxzvzbe5otmgxzwztou1lenbwdlnjzs0wz0piywpru05szk55vth1tv9jy3o4wuz1shuxmlhxbmpbnegwbkvjrhq4clf4wxbenlu1zzfaskjordnnbmtibzngykuxvw1wnex6ttddrwo1ze1fukjvavfnmtj4cvnucxfmvvlns0dknmnxuxvhz3lrz29zvlu?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxpb2p0nu1jaeh3cvlknhv4zgvwyjb2x294nzi4b3dndvfktddmx3fns0ndz1ldqwxvmzvkdxk3sxdkdjzisxo1wevnveh3vum4qtlmmjflddfbdk0yzll4cljfrtdzs2redlrrotk4v3o0cgher0hnsjv0axnpn29pm3remxlwchvfb0lfre5pv3ntum00mmc0?oc=5": {
+      "headline": "German semiconductor hub Saxony seeks Korean chip investment - Tech in Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:46.218684",
+      "last_seen": "2026-02-09T21:54:46.218695"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxqznbpsnnyofpfognoovbns0pjctf3yxbkexfpnxnlu0lksdn6wxlzsmd6d2zdemzilvnxy0ptve1hck1oy0vad0uxnmx0ekxxmey1ykj2mddnuxffn19zrzzvdwzhq090wwzom3vzzurhzc1oemlon2jbte5awvpzzge3yvrpd1dkmtiwstzgzxfzcv9tbjnpdxfxcdhqlvjqnez0rutuewtfqjm1zlu0ddbvsefxmmhiegc?oc=5": {
+      "headline": "Synopsys Charts a Strategic Course with Portfolio Reshuffle - AD HOC NEWS",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:49.048640",
+      "last_seen": "2026-02-09T21:54:49.048651"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxqc0vfmvhrn0hkqthydgrlvfzcsmrnavywvu90eulrmjc5qufzumxpmjzvdgted2i4mefkwlddrxy3ulfnb2s0uw9nd1p2tlyzbnflrxnndzk2cm5xcexfujfvr2s5nevtrfp6bjzcadj1yzywmuuzblowbvjwehrnztj0ytnnmwdjcfbhsme0snhuuw9ubvy3rervbwlmdzy3whfzyvfpdflmqxlfn2nhrkp4wkzwv0fqdue?oc=5": {
+      "headline": "Stocks Showing Rising Market Leadership: GlobalFoundries Earns 81 RS Rating - Investor's Business Daily",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:17:16.614286",
+      "last_seen": "2026-02-10T11:17:16.614302"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxpquvpdwstr0k4cddfegt5rflybhqztjrcujbstgppze5yskjzskfdc3n5mljis3z4mnfnvtjvei1ucmi3a1e4ugljs1kxrfy0rxfsu1fsv2pomnpxbg1wuwvvlxd2ekpcohhfd0dsnnrat3hjeu9gd1hzz1fusvbkchnhmjd0bddndnvhuu04lu0tzgtsenrudc1oa3nruwg3bjg1rmy1qnlhow50tgf4uwzn?oc=5": {
+      "headline": "GlobalFoundries price target raised to $43 from $35 at Morgan Stanley - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:17:19.615664",
+      "last_seen": "2026-02-10T11:17:19.615681"
+    },
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxns3fsoc14re1ac0g5n0zxnwpmywpsa1pcwulhu05ltvvxv3bxac1bavz2nhrqswpmbwdhs0lmdjdrwtc3emhtc1jirxeta2zmanpkujzjv21lotriahpkov9jzuhjy1vlaxbvuwdobjvmuep2nxdjogt0cf9nzzzdbendexdsvgxox2pxawy5dzm3ddjmyzdtzvc0vdlumnuxn0vnytzwzerrx3rpyjfmmjjgag5qag9bunvmawsxswdiuq?oc=5": {
+      "headline": "GlobalFoundries earnings up next: Can chip utilization gains materialize? - Investing.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:36.625962",
+      "last_seen": "2026-02-11T11:57:36.625980"
+    },
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxqsui4bgtuslg0rwfkbxfqu29pethreewyu1nodwjfmwvtrdhscjdms1lby0zycvu4uvj0cmk2re9kt0hyynrxnzyxvnettel2aexyrvlavditrxjsq1y2ug5ynti2uukwzmq3u0w5ufdqtmrrcjzxr2lmmhdka2pmzudns2dpsm5mq0fiyq?oc=5": {
+      "headline": "Did Israel Telsys Partnership and Mubadala Board Move Just Shift GlobalFoundries' (GFS) Investment Narrative? - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:39.872517",
+      "last_seen": "2026-02-11T11:57:39.872539"
+    },
+    "https://news.google.com/rss/articles/cbmikajbvv95cuxowlnosfn1ejv5d29zzuxmytjmmnbynes4nhfsve9jrkrssnl0b1l1n1niuupzy2xnynzhwnjrmdlstuwym0xswtnfndjrnzgyofbkujljuxppuu9xrzfvluphnjfuavdiy1j3yuvdznhaqwvsduzrmdnhbm44lu1qetm0zfb3wgdfam02yjllculsmlvari1xzmjpn0rrrlfztvpynnrktmc4nnrqsgphn1dzb1lrr2ixqnf0n0djalr0yi1pmlnld3bqdnr6ynlnejvunelfznflduxgthftbg5sug42u0ewmgxpakndaew4nwlcdwtvetq3rhq5b2zuwmf5nxrrzglfzu5yzmplsg?oc=5": {
+      "headline": "Analysts Offer Insights on Technology Companies: GlobalFoundries Inc (GFS) and Palo Alto Networks (PANW) - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:43.260813",
+      "last_seen": "2026-02-11T11:57:43.260831"
+    },
+    "https://news.google.com/rss/articles/cbmilajbvv95cuxocvr3lxkxdznfdm03tlfsslpxnwftavoxehzldel1qvbezfbwcnplzguzuzvfrk11ym1yevpjtfhyognxckvalve5cxn2n0k5duwxqxiybljldgh4dvjfdwz1efh0turksznfbxrinkg0s0xjahhznuhymu1qyzmxq0ezvuzsadbhdtjobw15s0vccm9kc0tyvtf6c0jalwnycgdsnurdsnrwyvb1nkddq1rts2vqqkftefo3x1nbnvr0x3pxa2lxby1uzlotdkvgdk1cdulacei1ohjbovpkre5byzbjadr2yldiche1qwlrdtdpmgzeznj6y2hscwdtejltvnv2q0p6azdcnjbpb2z2s0k?oc=5": {
+      "headline": "Analysts Offer Insights on Technology Companies: GlobalFoundries Inc (GFS) and Tokyo Electron (OtherTOELY) - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:47.262157",
+      "last_seen": "2026-02-11T11:57:47.262173"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxorkrpy2dodvdpqjdfuwd4mvnyudbsdhfbekwyeupzcdzzz0n2yuzlnerxm0twzxn6nzhkmwpibel6q3niqvhsmta4nevmu1o4ofjtc0nqrey0azbrqzbjtnb5xy1swf9ermphn2qyanlsn29fwuuwreu1twtnmg9ku0vxtenkuejvcfnzbwxnehbtmnvvylnneuzkulvox1vxuxe0?oc=5": {
+      "headline": "GlobalFoundries shares soar 16% on strong quarterly results, guidance - SiliconANGLE",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:48:02.816986",
+      "last_seen": "2026-02-12T12:48:02.817002"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxndzzcwg5mzfzrqvewohpdzmtsmxzhazjst3fwowz5bnruckncnuvfeljhvwjsczdfwgg2ctczaxnctjq2stbpull1m1rwb01btlpovxixuhuzmkktzhnwukjxaedyulqyvevemlrwbmzgs0m2bgxpywzmn1pkz0jvsehnd1vwmlhynxleduvdsdrhvdvscvlmwl9gevv1etc1ohdun2xssdd1cc00dnvdvurdsufcynhtqmh3?oc=5": {
+      "headline": "GlobalFoundries expects strong quarterly revenue on chips demand from data centers - Reuters",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:48:06.598081",
+      "last_seen": "2026-02-12T12:48:06.598095"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxobuc3ylllvk9ietlpwhzdskrnv3fey1pqtdnuazy3xzmxbwfqwf9bn21ocdftr0f4r1lwuknbd045svnivzrsafy5qnjyqvpcazlutkz5buv2mnqyqwn4rlpfc2fytfzsu3pkdk91tzr6tjcyzxhhnzliohbprg5iay15str0cuzxttj0bznat3zonwc?oc=5": {
+      "headline": "GlobalFoundries Q4 Earnings Call Highlights - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:48:10.436031",
+      "last_seen": "2026-02-12T12:48:10.436046"
+    },
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxpn3lru2pgmghmmjfnc2rcck9cekgxvtk2mmpuvzbkvtnfzmgwykr4zenczkkyohbiznfbwlpsyxftq3o1whlswvo4utvyd0zpqktqvgldel9vqmhgrdhrymp3ugi3vurtsw8wy3jpmxfwbxjtaxqzqmzhblr1m0fcunf2uldmnlzvseh5vw?oc=5": {
+      "headline": "GlobalFoundries sees strong Q1 on data center demand - Tech in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:48:14.174917",
+      "last_seen": "2026-02-12T12:48:14.174934"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxnvm14a2vqx0f2zkzgvzhxyxjmogrknjitnzbldvrwoujunexdugzungd5sk41ethvee9iakpmz3z0tjc2rhzpmxu2t2nkdnrkluktwvnhwgdmmuvftg92nfo5wmrvdflzzdboef9ka3jjnnritwdzcfnjmvcyenctvdnsz0zuwlp4se5gy1h1wevaznvrtuhncemzqwhqr3m?oc=5": {
+      "headline": "GlobalFoundries rises after Q4 beat, plans up to $500M buyback - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:48:18.608335",
+      "last_seen": "2026-02-12T12:48:18.608350"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxnbeu1whbprnnld1jeq3nts0ruu0p3meszzzhalvduatrzvdldt3fjwgvwmjrnaup2y0hjcwnydm0waxjjbxvpa1f2ututtw8wt3ktvi1orjrhwjlsmtjowvnjrmptwwvwc1itlte2v3jhs19mmw41nkfhmev2b3dmn19rc29jthngqwpxc2hwszj6azztahv3?oc=5": {
+      "headline": "GlobalFoundries: Margin-Accretive Growth Coming Fast (NASDAQ:GFS) - Seeking Alpha",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:16:22.653502",
+      "last_seen": "2026-02-13T13:16:22.653519"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxpovrcz3nptjfrce83bwuwveffahnxmfjlnxvwrxa5vhdketnmdjdkvfnls1jxulbur19new1fumffalnys0hzddn3eully0s3dlbortftuw9vu05mued0xzu5btbjdtjnbf9ibk15c2tkc0e3df9roxu5wjz1dxbez1raq3nrdy1ld191zu9trluyadne?oc=5": {
+      "headline": "GlobalFoundries Gets A Bigger 2026 Outlook, But Not A Buy Call - Finimize",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:16:27.775506",
+      "last_seen": "2026-02-13T13:16:27.775519"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxqbe0zrfjnn211eudywjfmufzxndvzu0poekjmu1frqzfncmq5m3dfqwxzofozmk4ytvzrcdmzaud3adric1zxn2trwk9aaxhdmzbkztk0wdkttwlhawhpddjcs0c1y2r4nkwxsknybtlxyutjctu4afb5v3vmlu9lum5pzg01emf0vdu3yjvdtvlinnj4euleahdmng91whrtsvpntwv2bkw3cjrhtex3cgexvzlxnkzxzhj6wxvhevkwatyt?oc=5": {
+      "headline": "Investors Purchase High Volume of GlobalFoundries Call Options (NASDAQ:GFS) - MarketBeat",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:16:31.245725",
+      "last_seen": "2026-02-13T13:16:31.245740"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxpn0rob1e0yvb5rfjqd2jmdwftbf9zm0s0z1lqm2nhq2ctlvfgqmt4cktoedhqt0hrumv5vxctsmtnthjxbv9osnk4azncc0xlvk1oc0viz0ljzerevtzzwxnlnnfbuv9lmugxneruwfl4mvo4bnvtylzirwc1ee1kdmpgcwdovvfszuhjykzymgxpm3hhbxrhwudnd1bsr1hpqnlerllfdhk2s1f0mkhrskdgeuxadktkzjzmuvvoam5xrw9pddv0uepitmpjmmnts3zltvhb?oc=5": {
+      "headline": "GlobalFoundries (GFS) Earnings Swing To US$438m Profit Tests Bullish Margin Narratives - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:16:36.069299",
+      "last_seen": "2026-02-13T13:16:36.069314"
+    },
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxplvyxn3dmunnlzkljvmftrvdhty1zt1ltbmnrymnvnhlewgh0cs14ohliskxnx3drytj4zdntae9izlnmsmnzr1a4a3nzvnn0ujj2bkvfq2d6v0jyt29qyxnhuutneus4wmtseu1nmjbkntyymjnyadf3t3fyymxuy3didfnneutbtwlyvs1lveu2z0rrz080ckx3adhpltzquwtfmutxa0xqqw5md0pv?oc=5": {
+      "headline": "GLOBALFOUNDRIES's Options Frenzy: What You Need to Know - Benzinga",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:16:40.998464",
+      "last_seen": "2026-02-13T13:16:40.998482"
+    },
+    "https://news.google.com/rss/articles/cbmihwfbvv95cuxptnqxqzned3hpbkx0utvkenjkehdin3kwchu5rgu4u243zg1jmvrzovdxltrmb0u4qtbndzluc01mwkpomtjksetttwdtwwpcqljatjzimg1zc2joywpmz1rtellsullpu2vkwvotow5db3g0whd1rthzam5tdvpdbtvsrjlbu3m?oc=5": {
+      "headline": "Roundtable with Ambassador Kurt Tong | Event recap - Hinrich Foundation",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:31:47.283609",
+      "last_seen": "2026-02-16T11:31:47.283624"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxqtwjwsvrhvzhtttrsdvrwug5bdetkyxg5sefiexi4mwhsufm5qti5sdhhelk2vmk1twd4clhblwdsm1y4ykjjm3pozwptwg1fu2jarwjtmlziowtpegk4mnnttej2vxnauxjveg1wvk9kund3d0zcyklwvnkwde9bmtraukdjbwfqmgdhvmc1dm1xcjjon3jbc1hmutngmhrzwuzrnjcwven5unfzczj2dhe2zkpouthooxzzwuy1zu53vwraaepnslb1cvziqjnkcnptwghr?oc=5": {
+      "headline": "GlobalFoundries stock jumps 7% on Q4 beat and steady outlook - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:31:50.163261",
+      "last_seen": "2026-02-16T11:31:50.163276"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxpnxnoa0n1rfvotxhfweryywjmudzem09csfp1ovitlwrht0dzywjmuwdtty1xeezjz0nrbmt2d0vtyzldq040vjj0ugxkaetrmvj6dk9wsut1vervr1iyczrzskpobklnbmhgsepumf9vmupqvw5noxjrnkhmb0husk1dyjftb3dk?oc=5": {
+      "headline": "Major chip boom coming to New York's Thruway corridor could reshape America's tech future - secom.es",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:31:52.843786",
+      "last_seen": "2026-02-16T11:31:52.843803"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxnvuo1uuffsuszwjjsowdfbnrazkl0ze9uetzcuwewsdzltlbqquhhlthdtdrmwm1qbi1kodviuzvom2ntwtdrchdzwwfkr0hfzuxqttb3mfphnnjvcxronnfmemdhttlymedza21pthzftv96zkmtv0ytq0ryeelxbfkwyvz3tgn0bjgyr3utq2zgzjnwdfd3r2wtbe83uw9xlwkwshd4txlrrum4rmjozkz3ntffdw?oc=5": {
+      "headline": "GlobalFoundries strikes multibillion-dollar chips partnership to meet automotive demand - Manufacturing Dive",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T12:10:34.056549",
+      "last_seen": "2026-02-20T12:10:34.056568"
+    },
+    "https://news.google.com/rss/articles/cbmilafbvv95cuxqn0fnrmjmdc1uzy1bqmritdn0vupmzjldau1urdjxlwpisxhjmgltsxzzntbimm5nwjv6ckpclvd0zljva0zrmi03ak41qktzr21vyjqwn2vdafzdrjettgpscvdpmwthq3rbexrctff5uey4zkprzld0mzj4q1l0v0fksdj5sjjxz2dqbddxyi1ydljh?oc=5": {
+      "headline": "US Semiconductor Manufacturing Deal Targets Automotive, IoT Growth - Thomasnet",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:10:42.473275",
+      "last_seen": "2026-02-20T12:10:42.473289"
+    },
+    "https://news.google.com/rss/articles/cbmisgfbvv95cuxotwzyb0xsa0vxqjq5dwdxsvlvb01yc3hrduwwm0u0ukr5audtwes5wdzxrxjnmvbfoc1zwk1tqmxilwc0vmzvs2phcnncegt3q201r2fmec0wcuotqkpzdgw2undud3ewqmzmt01wa3rodxf1rhlaugzbdudnnudmakzoeduytnz1lujnodlwrkktyvhjutnrndd6z1dunjyxrgstogi3tlduy0jrrlu5szlb?oc=5": {
+      "headline": "No. 2 executive at GlobalFoundries stepping down after year in post - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:10:49.221072",
+      "last_seen": "2026-02-20T12:10:49.221088"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte1kt1vqdg0ymk9ine9dehzuoexfx19vnko2atf2cxfwdgtjnnntr3f5d1pdtelkufh3yllydkpzvljwtklyqs05zxawv1gwbjrudjdzq1uxss1fagn0chnuz2vovla3ajdfmfrfetnnsxc?oc=5": {
+      "headline": "Physical AI at Foundry Scale - EEJournal",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:10:56.016150",
+      "last_seen": "2026-02-20T12:10:56.016171"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxqr3zln1nyzdlrylk3yw1xsdiwvzjjzuhldnnrr3voruxmdwhdse0ydxluvgwydlz5zvo1udlhcdi4egxby3etbgw4vfrxv1vuvhiwsl92bjnvu1z5q1fumwdhqxgtqjnrdmlkz29rtvrqsgrkemcwczfzttfhnursntq3mxlywfldzu44wudnvvbhtg5pnnbrzzrwd3nax0zqdjg2aldkcgwyotcws1nfcdz5uhnqstjmwxzvz3d4c09jbdfda0j2bwyxsvbpowfatdjv?oc=5": {
+      "headline": "US Stock Market Today: S&P 500 Futures Nudge Higher On Firm Growth Higher-Rate Worries - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:11:04.416176",
+      "last_seen": "2026-02-20T12:11:04.416194"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxqufpsn3uzzdq3mkvystfuohlpsmnputrxvtzonzztae4ybjdhtnpvwvrewnftzkjfd3dcslvoyxnqqmtkwuz3se1pdwppdzlhx3djutlmzf9aaghoegtwcgotrznplwvlcertnzbpbwwtvnpfavhlnmjuqxzesdhrc052beh5wffbui1zbuh2odjfxzi1sxhrac1yckvlqty3cgtqemwxz3vjeg5kt19wukzkvvk1ekzkvgnvn3hurujgvg8ztgrhdkfvzfq0ndlkbujhc0xwb1nmzexsadsbqvvfexfmufbaujd1m2q0nzjfwekxvdh5aupjave0v1u2tjc2bwhomm43r056b1lurfpxu2zcrxd3qkpvagfzuejrsllgd0hnaxvqaxc5yv93sve5zmrfwmhoahhrchbqluczas1ls3beuzcwt21slvz6x2lyszzivef2reg4uxnodmxievhrqvitww1idjgyx18ynul4a2gtwhjfs0e2n3bruhpsmwd1sxhusk9fcfjgslvznxpgzfrjvtd4vevcrlrvm0xkyxzbvwrundq5zg1cr3nmcg9tzmrf?oc=5": {
+      "headline": "GlobalFoundries (GFS) Is Down 5.7% After Renesas Deal, Buyback Launch, COO Exit - What's Changed - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:27:24.147372",
+      "last_seen": "2026-02-24T11:27:24.147389"
+    },
+    "https://news.google.com/rss/articles/cbmi5wfbvv95cuxotda3rkc0oevwqm1kdmlpugpuuy01b0nqr3q0du45uzr6b24xu2twqmzmu0duvmzjrs0watfabdu4tm1ws0hntzk1dkj3lwphvtlinl9szgfnaxy5q2x1vw1rb1zrcgnlai14z0fqwtrusmcwrjm3n241exjmlvh4nm9oznhqtmo0wwvzawc2yi1icnzxd2c1mg9wmfiwtkrzbnb2swe4dzi3ewr2wflgsgy5unfmmdhna21mrfg0aejlouoxslqybjlyzefwumd0y2vzbm1msxlau2zvdvjwz0hpx3n3lxfsaewbqvvfexfmtvhvqwwycvhhngluv0dlekjbsuz5tmhfazfzcmc1wedtrw04vmn4bedywffmevzhyuexy1hub1hbcexobdbvrnm1amjibhjrtmrymmvhuhr3uvfdt3jeskdyu3hktkv6tvazq05ruekycv8tn3plrc1oqs1mrc04ehpkzdhroxrzsmp2x2vpdxpytzdob2e3s2hrqnfmq2l4ymeybk9lvkpkellewu9pmklxawrmq1njek9zmjnknunquevnbdr6vgdqumvkmmxrrkg4clvoqw5bx3zvc3puttjuv1jmr0h0unfnss0?oc=5": {
+      "headline": "Xanadu Nominates Experienced Global Business Leaders to its Board of Directors - The Manila Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:27:33.056600",
+      "last_seen": "2026-02-24T11:27:33.056625"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpwwl0dxdfumxvcwnkadbkv2r6nmnuulhuuwxxd1ftovdhu0dmrmxjner1bdfyvhfvofzfeda3rjdetzuwntr0rupsyuzoov9fby1bqjnfngf1d3vgwjzcewrqrk1gzzy2zhzidgc5wk83sujzugrna1zsyjhgvtfhrnjhbu9ewu0xqxnutenuejywy0ezszfeak5guwzvzzy4bvmxcw0tymldznd5evjoc08ta01xq3pyqzdjovnmefrtqnl1efvgenfrvjzitmhnmvjjcgfloxixlvhsadsbqvvfexfmt1lpdhv3x1jsb3fjzggwzfdkejzjvfjyblfsv3druzlxyvnhtezsstredwwxclrxvthwrxgwn0y3re81mdu0devkumfgtjlfrw8tquizxzrhdxd1rlo2qnlkakznrmc2nmr2shrnovppn0lcwvbktwtwbgi4rluxyuzyyw1prflnmufzbkxdbno2mgnbm0sxrgporlfmvwc2og1tmxftlwjpq2z3exlsahnplwtnv0n6ckm3stltthhuu0j5dxhvrnpxuvy2se5ozzfssxbhztlyms1r?oc=5": {
+      "headline": "GlobalFoundries (GFS) Valuation Check After Renesas Deal Profit Return And Buyback Announcement - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:21:33.013464",
+      "last_seen": "2026-02-25T13:21:33.013480"
+    },
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxod0rwelu5b2hsbuxav0hpmunxumjjtuxqmddfck9xmmzqdju3agxhz1zxtdrxoglwz2zzzlzlrgvesldmq1u0vle2mhlsoe1eretfuuvswddrn0honwfxc0fhttnvv2jrv0hfbu1bm0d3senxneg5x1j3dhpgdmkwoewztktswgi5qmtsu2pulxuybkl1uhnjvl8xnmlcbzjvdjrxeezodhjunuxjddnwujrzsjljqvnad1zlbhbxoxlnt2hvtvh6zhe2oxf4tulpme9jugzjs3n2zw?oc=5": {
+      "headline": "Can TSM Sustain 60%+ Gross Margin Amid Overseas Fab Expansion? - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:21:42.922243",
+      "last_seen": "2026-02-25T13:21:42.922258"
+    },
+    "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqaxzvauhozznlvvlasg40rxo1t1m5t2xlumfwwta3tepltmz2ufa2ogheznkytktgujgwnjfeczvbs29ptjzpmdhcm2p6rurtrkhguxl0avezngs4zfnhb192qw04cxe3smzyoc11d3p2mgvorwzvm29kbxrksk1wq3dpsv9fm09gb1vcn215z2jusjzhbvkteha1zdbsoxcyovbny2mwzenlz2d3d001y0lktknlv0jublhv?oc=5": {
+      "headline": "Tokyo Electron taps 160 South Korean suppliers to meet chip demand - Nikkei Asia",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:21:55.033038",
+      "last_seen": "2026-02-25T13:21:55.033055"
+    },
+    "https://news.google.com/rss/articles/cbmi7gfbvv95cuxpswrwtglyewt2aklxd0drne8wqm9tuvvhvwfkq1pqmfuyvtdsodnkamvhsdc5cnlrvu8wu016q0roetdqyuhxx1zwdgllmug0vtuwbf9tdlrjnnnheed6rdjlrkrmwflrmg9ot0ixv21za2mtzjutqm5tykpvbmn5cnrtbg5nn28yedjvotmtx2pialczqnlfv3zytjnwamhdbg83v3c3vxe0vlrwtujkvlawdvruohbkvud3cxlfc1pcrxlamho0x1jiy2xou0llt1rky1bmni1fwi13qzviv3prtf95ukvsx0nvetln0ghzaufvx3lxte5xcg0wn09lq1jlr016vzndauv5dm5xng9vemrwqnliywfvwnjjehllakhqbtg3dxbkaddsylhatmryrmjvzfawogrjbgrgwk4tswvduhnrevjabxhjckmzz3pweuheqzcwtzvzsvplwlm1edrmawjknvvycwrza3niqkhieejrdunvx19aytllyxc2mnvybmz4x1qtwdred3r4yv9xr3rive9vq3fkvflorwvzmwjozxqxbfnhmf9kmwv0dgffzzfdqvdya0xnmtdbuwxuovbpvjuxnhbenmlswm9lawxsunb3zvpktjcyq1dksq?oc=5": {
+      "headline": "Navitas Semiconductor Announces Fourth Quarter and Full Year 2025 Financial Results - The Manila Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:22:04.884244",
+      "last_seen": "2026-02-25T13:22:04.884260"
+    },
+    "https://news.google.com/rss/articles/cbmisafbvv95cuxpofpymv9ktjdsu0xvq0w5vgjmoul3nfvamux1nknztzb0cddpwgfnbtb1cwdhz2hbcetksg9zslgyqtrxqlhtsfhitw5tql94blhuvxbjsggyy1jutxzqtefaodq4cm8ym3ywv3p0vffuwhp3twnvdtlfqk4tzzk1mlhztes2dknst3lsoexqswfby3jmv2pps0hrcnrsm1pbb3lyujbkqtntcvfjuwktqw?oc=5": {
+      "headline": "Global Custom IC Industry Chain Analysis Report 2026 - industrytoday.co.uk",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:22:13.917253",
+      "last_seen": "2026-02-25T13:22:13.917268"
+    },
+    "https://news.google.com/rss/articles/cbmiygfbvv95cuxqqnitce43chdrx3vdyte4qwvaszh5y1jysmhpy09buzfoshd1ntboqvbtzk9qauhsrextdlexu25unmj3bv9hq3pjbvfiwk1ccezsodhxm0vfotjrrnfdyvzlyzb6yljoztzntw1nmvlzrxjhoxn3tdftnu90zktrz3rjwf9suvnzbmvzd3lkq2zkcgvpau5gczdjrdljukh1qxpltlhouwfhndrpzkfwr0dlbjutzxi5uk5wvhvwnuvpvux2vvdidjdn0ghpaufvx3lxte9zcfhfnjdxa1ytuzcxqmnmrhm3m3nyefvlr3lgtc12d2l4ckfncfbxakdpmwj5qmdpcklfd09kcjhhumy3sevym1vsvxdjmuryys1oelzin2lbaglrauhmnk1mwwhkqtdflwi3efp5qzazdl9srjy5ef9relbnzw52rg93mw5zvvhswgp6y1lrylfwne5namv0nxnzsnn5vmnztuuzchjpbnvpdwk4qtjnufr1wvh1u1ruovbkm0zudg9dtfljdgxquvdlwk13zw?oc=5": {
+      "headline": "GlobalFoundries plans expansion of semiconductor design centre in Kolkata - Telegraph India",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:45.098809",
+      "last_seen": "2026-02-26T11:24:45.098825"
+    },
+    "https://news.google.com/rss/articles/cbmijafbvv95cuxnrlp3vxfjvmxqbf9ldkzsaknsri1zx1zwsm4wtnvxumxdcudjn3houtbjd0nfamhjeulka01qwgvdztlzazlkdjlbmkf0wjzwcnzqwglunlrwqzvqudjxqndsdgvrdxl1as02ujv6bm91ughcm3nrsfu2u1ywlwtjwknmczy2swngulr3sg?oc=5": {
+      "headline": "GLOBALFOUNDRIES (GFS) Price Target Increased by 24.81% to 51.74 - Nasdaq",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:49.336408",
+      "last_seen": "2026-02-26T11:24:49.336424"
+    },
+    "https://news.google.com/rss/articles/cbmiyafbvv95cuxnukpyrw9lnw9ictz4tjcwznzmukdndxhunghvukfrqtffwgtrehbvy1lpyvddutbvdhpjzllja3nztuezrzk1azlhwmpndnzuednjc1njdkjmeu9hoenqa1q5lu1udunmwwrjzgvdtjrit2hin2z5utf0u2lxuep3beo2wnbgru5nwtllu2pwzhpuzmtuvu1bafftrw82nhnpwvn5a1hon21fcnnpnvrxt0dmsznmttv5vhvqahj2sja2dlveujzzedibyafbvv95cuxnukpyrw9lnw9ictz4tjcwznzmukdndxhunghvukfrqtffwgtrehbvy1lpyvddutbvdhpjzllja3nztuezrzk1azlhwmpndnzuednjc1njdkjmeu9hoenqa1q5lu1udunmwwrjzgvdtjrit2hin2z5utf0u2lxuep3beo2wnbgru5nwtllu2pwzhpuzmtuvu1bafftrw82nhnpwvn5a1hon21fcnnpnvrxt0dmsznmttv5vhvqahj2sja2dlveujzzeq?oc=5": {
+      "headline": "GlobalFoundries and Renesas expand partnership to accelerate U.S. semiconductor manufacturing - dqindia.com",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:54.265342",
+      "last_seen": "2026-02-26T11:24:54.265369"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnnulmbmc3znlvckfxnw0wmuq2tzdjvujgeuzgte1owxdzchjjuu1sx1vxwev5mvo0c09ux2dootjnzjnfanrnbmj6cwvys0ztri1stzlovvp2rk5dbdzrenzkrulwznftstroag14zgk1y1fsevponxn0txbbzwzmmxy5tvngnlk5ukllouxpzwhkb3n1ltn2a2vpuhz0mmrya29uetljnmv3mnlix3rycmxxwgl6m3pvt1pwa0fmsvezbm9br3pjmjbovjhyzjywbxpzrvhn?oc=5": {
+      "headline": "GlobalFoundries Expands Kolkata Design Hub Amid India's Chip Ambitions - Whalesbook",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:24:58.658341",
+      "last_seen": "2026-02-26T11:24:58.658361"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqawo4rvq4sti3y21ezln0zwfvtxbnulj3enzjrgtlludxadnwoxprugkyrwfxwgwxanvkttznefvma3zlcxpmrs1hsjzhwdhsv3ntcvzpzgh0svvsnznvvfbjx0q3yjrtcuhnuwdjzwpiaw8zoutsclbzzgrzn3vpz0dxef9vv0tfekxxr25wnnibowfbvv95cuxqdllfejhxqjfddfhozefva094z1ztczfdckljt0hlzlztzw5jytznwno3wvhenzjsazczeufzb3dvqzcyx3fzmkfathjhcmxlluprr18ttnm5wkpfduv5oxnqehfkchzzamtvq0hzavfpr0y1rjvncuxnb2ytvktzcm1puhvsnefsrhrfdmxqodhqqxhbnnzptleyzfmteeg3ymzv?oc=5": {
+      "headline": "This Day in History: IBM begins operations in Essex Junction - WCAX",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:25:02.433848",
+      "last_seen": "2026-02-26T11:25:02.433862"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxqmu9uvetusmzqt21lzzftt0zuawplas1klurfcnrozuk3shzmtezfzenpouy0v3cxls1sbkfzzhhxcdnkeghqmdbhedb1vl9zcm9izgxiejvycgu1zjc5efvxrxnzdmfmu0tdmwjmtkxnv3jlr3nqm3bivlrhejd3d0hnumvkatzsvlrsawdweethzkztblb0duddvhu0zmphazlwov9zzv9lqu1vqzhjtfrjek1zedv1tkvwtffosuiys01vrjm4smn6tepkss12ykhtrkjb0ghbaufvx3lxte1nbuvobmljm2liqkdeewn2ynnyuktzdwlmqi1la0tea1btv0n3cxv6shgwzdg1vuprtju2tvpxahnbavzctur5aehns2zwufjtrllkb0o2m2lcludebhryuutmnfppc3piovhoykvvujhlr3hxtnpgvwzkrvjadlgtvzqyskzhzjdvqvpummztdxdtslzca2rplxvwbgq0bfj6vehju05pvs1kmwi4ai1ecelzmhrdsi1vn19uqkdpzfljthb2bta5v25rni1cquzyvlzqyk51wgzuma?oc=5": {
+      "headline": "GlobalFoundries Renesas Deal Reshapes Auto Chip Capacity And Revenue Visibility - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:36:01.829495",
+      "last_seen": "2026-02-27T12:36:01.829509"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnewtoajlurfotuwvpn0znbtv1c0xxnw9dyxzjcjz0udfgtkowu3vmelixefhdvi1zlvztuudaedmxww5su2ldbf9em3ffcuxhwvktlujlb3ldcvg1wmx3ynruxzdxx19xx1hodjbgve81dnq2nwxebvuyedfrsujgdvlxcu14ngdyt29aa1bwsevwzfpvcdlozhrncgo0wgmtslitzda3vtgyc01atzf5mmtdmmpjsxbhzm1jqxnpds1usw8?oc=5": {
+      "headline": "How GlobalFoundries is rethinking design for manufacturing - Automotive Manufacturing Solutions",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:36:06.354680",
+      "last_seen": "2026-02-27T12:36:06.354701"
+    },
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxndjg0bmr5b3dmmlnawujrzjruu1vjuexjt2hmz3nfvmnlmmzkytlpnzitykt4dehocllync03m0e4tu9ba2vxdzqtn1pgyzdqne5nvetkumvxzhvhm0djuhu4ceotegj2sjz1mzr2y211akhmy1u4efveqwpadgp5x2prukpsdwlytlp1s3zfv1zjudv0uktpazdyeurxdvnm?oc=5": {
+      "headline": "Siemens, GlobalFoundries Keep Win Over Chip-Identifying Patents - Bloomberg Law News",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:36:09.646329",
+      "last_seen": "2026-02-27T12:36:09.646345"
+    },
+    "https://news.google.com/rss/articles/cbmiqgfbvv95cuxnzxh0dfpnqwvdena3mdbkou10ovzmq3jtnmpptmo1nulfr2ryb3vobwt0y1lqqm1fdffvwe03q2iwsfvszxrfytvizkjybgvnv3puvmvzwdjhenhsuzfzb0vtbffhse1mvjhiutjxbknac2prmhr5zmvzslo1telndlfksfrvd045utbuetbpcmlqufi4udlsuhzyr3cyszztnjffdffiyu1uqq?oc=5": {
+      "headline": "GlobalFoundries To Expand Its Semiconductor Design Centre - Electronics For You BUSINESS",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:36:15.131203",
+      "last_seen": "2026-02-27T12:36:15.131218"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpz1fezlhwevr5evhwrw5ssldvbnlfnlrunm5mtgvfz1jdzke5dhjldjnxcjj4mdldaw5vb1ndelfzthzhaetablzxcgr3lxrzvly5y216uljhwtk5awffqwxbzurcztbydgjdvtgzu2luc0nuvxdxajrcdzvaahfed285q3jsr2tiofzamejtagpsavzbvv95cuxqbkrta1mythr6bhu1clzmv01evlfhlwnmz05xbtfkbzbsevzrce9wqunprkj0ajl4c09erdyxcvdxoe9sttj3ykvsdvjnawn0sxjzmdrzuq?oc=5": {
+      "headline": "Fed. Circ. Affirms Chip Patent Claims Are Invalid - Law360",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:36:18.490280",
+      "last_seen": "2026-02-27T12:36:18.490297"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxte9iowktsxr6cezpwelzt0jazfvtv18xemlhemhinvm1rzdcounrauzlsxfou1jkxzgxumjiwm1wuvvpt3ndutlkbzjxtg5jouhnx0lj?oc=5": {
+      "headline": "Silicon Photonics Chips: The Foundry War - 36 Kr",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:30:38.990157",
+      "last_seen": "2026-03-02T10:30:38.990173"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxnuzzfumdudlfbewt1vxu5zhl2ugf4adhzazrxz1rjzk1wbjjrmvruounjoezju1bbx0vwymtvb3vuvxm3nmuyr1ntunp3aedwdhnysvjjzgjlutvwm3diqmhrsxnqdefuy050ttdzb3havnzszxzise8zdlhwb2rzz2dluuwzu3gzr0vvu0nfsgziztjryw42ylvxcdlpexdzvkfv?oc=5": {
+      "headline": "First look inside Nanofab Reflection, a computer chip behemoth at Albany NanoTech - Times Union",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:30:42.328580",
+      "last_seen": "2026-03-02T10:30:42.328595"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxobhpidndgshbyrlrsnvviamy2rvjflvfqexzpvjrovdntzzj2tzrrvk10mg5sv1nzrepilw9cohbtt2zcutq2czhartiwqvptbs00awjqd19lqllcwknyektlanpiz0plnlq2a2stoenxzui5zghkn0jdohdwdurxltlmrxnauuswvzv0nei5mkvdww15awmzu1nxma?oc=5": {
+      "headline": "Chart Watch: What is the earnings history of Canada Life Capital Trust Preferred Security - M&A Rumor & Daily Technical Stock Forecast Reports - baoquankhu1.vn",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:30:45.363935",
+      "last_seen": "2026-03-02T10:30:45.364009"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxqbzfrbtvzn0hfaha3cfiwt0g5q1rqqu9clw1wmvvinv80dupscfjktkxsohlydxnms0dttnj3n3zrc1fpthb0c1rlwgtlx3nhqu9iu21nqmxntk12t1g5vuntsxljmghvufdcovuzlxhyas10twnultf6aedxqtzba0n5r0podvjayxlhwxjouxngvc1fx2nxmjdtq050de0zx2v6vezwnm9wn1vrogphqm9gaxd3reri?oc=5": {
+      "headline": "How Do Investors Really Feel About GLOBALFOUNDRIES Inc? - Benzinga",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:20:12.787171",
+      "last_seen": "2026-03-03T14:20:12.787189"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxonzrra0pdutznmddnv3fgv25nofbvymxbzwhswu9uq0dbmulwzlfwchrhu3joamhsvu8tbnvfnzluofbwr1fwyllnzfpgvmu3y1hxykdnwlnrtxjomlntogj3m2zmzwdwqwlra2lxnddmmk9pcewwwwnsd2vudlznszm5qnhvxzhstdrlt2pfqtjjbdrsnfpvs3z0ztnmbwdtwkz2xzf6nhe5r19ueu5jwnh4z3fzyxy1zhbwnklybxl3rs1zrndxtdm5nkhzmudleum2qw?oc=5": {
+      "headline": "GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing - StorageNewsletter",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:20:19.823147",
+      "last_seen": "2026-03-03T14:20:19.823162"
+    },
+    "https://news.google.com/rss/articles/cbmi2gfbvv95cuxpummxsxe3ovpisvyyqvzetdlhvxdnymg4edfatwnjvwzwcf9ouxpozs1cmmznumf3dvdptvr2tdc4ntm4vdvncdbcdkzpulddcjnnovz0x1dpbwzzvhbnzmrdde1yzuljtnruwjitcgr3bxdscwzbs2ktcdvftkryzznctzawqxflogq2s0lzswdktu5nzelkszrmvkrod19qthc1sui5aepfyklrwxutm09smzvmunz6lwmyeedhdexkwnf2dxflyvphu0xdz2hjajk3ylnrm1vcuq?oc=5": {
+      "headline": "Rafferty Asset Management LLC Increases Stock Holdings in GlobalFoundries Inc. $GFS - MarketBeat",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:20:25.487309",
+      "last_seen": "2026-03-03T14:20:25.487330"
+    },
+    "https://news.google.com/rss/articles/cbmiqafbvv95cuxpnlpozg1hrdzwnl9iyufnum1sq2lzohz1uencltjztnrgzf9td3fvrmcylvrmuxdgqxjtq1lzyxbjsm9lcgc1z1fkx2veqktsuupaaxp5qnncde1fm0oyee9anmfjlufmy1z6re9mwwfrdznzzedeude4tva1zkrgy0qzqtziwfryqwfqmlvrsk1zvgh4cxdhotrxa3c1vhlknm1mmwlsx2u?oc=5": {
+      "headline": "DeepTech Hackathon Ignites Next Wave Of Semiconductor And AI Innovation - The Hills Times",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:20:30.897944",
+      "last_seen": "2026-03-03T14:20:30.897964"
+    },
+    "https://news.google.com/rss/articles/cbmickfvx3lxte9lwlnxz3f3zutmzlk4dhdxmlfrzhjvz05tajnvwu9mohvzq0lsoutrt2vlcjz2wwi5vee2ogfoewpxetd5eefrmhrhvlppnmltx0vkykfqu2rlu096oxfzskduqkvzsdn2bjfudl9wx1nhdw?oc=5": {
+      "headline": "MIPS, GlobalFoundries Bet on Physical AI - EE Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:05:33.090976",
+      "last_seen": "2026-03-04T14:05:33.091000"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxpak16t0dhoexcbw91s2rwtglss3dptxnlrhlwbxdetlpfqzrknhfktvoxchhnbvnzem1hdvflwnvycc1pwezprvlzagnxulffd3bgmwrzemxxmkswdk1fy3jkzvvbotl6m3bldzzxc1a5x2nlb3mtrhnkxzrsr0zydgdaovbjx1j1b1nhemeyr2tvtnbbtud5bupfr1j6zwxoqutrcuo5bhncdk9hc2cwdwpvcs1pbnnntgnqau1auupuohnpmmvyatixthrmnl9nzc1utljqugcxn03sadsbqvvfexfmt2pnek9hrzhmqm1vdutkvkxpukt3t01zzur5vm13re5arum0sjrxsk1amxb4tw1twxptr3vrs1p1cnatt1hgt0vzc2hjcvjrrxdwrjfkc3psctjlmhznx2nyzgvvqtk5ejnwzxc2v3nqov9jzw9zlurzzf80bedgcnrnwjlqy19sdw9tyxphmkdrvu5wqu1hew1kx0dsemvsaefla3fkowxzqnzpyxnnmhvqb3ett25zz0xjuglnwlfkbjhztzjlcmkymux0zjzftwqtbk5sufbnmtdn?oc=5": {
+      "headline": "Is Shifting Short Interest Reframing GlobalFoundries’ (GFS) Risk Reward Profile in Semiconductor Foundries? - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:05:35.940637",
+      "last_seen": "2026-03-04T14:05:35.940655"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxqmfvnajfhyunyrvmxb0fmy0kwsxzxrmnxdzrnnxlzv2eywxhywdh3zgjiyujyoglhcedmsw1cenvmovrjvvpizgv5mmxlogtvve53v2tiu01lluk1dwrvvgjhn3jkstvhwevby2wtctbrsgg3bgxlq2jyzmnwts15s1lemtztm0lzu1desmvfna?oc=5": {
+      "headline": "GLOBALFOUNDRIES Inc (GFS) Shares Down 5.7% on Mar 3 - GuruFocus",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:05:39.206163",
+      "last_seen": "2026-03-04T14:05:39.206182"
+    },
+    "https://news.google.com/rss/articles/cbmiywfbvv95cuxnrjb5qzrmvkxabjv0awtjshp1edhpc19vy1butxjjm29xehnuzehmedfkyk1www50c2lxwjjsq2rpwe93z3y3rwnwahlmq0ztnxlzelrps0rxsmvybwfhndzidvd6sunjvjy5advqr19qvzrlbdvostfvtm5sbuxld201rlcwdhjyzln1edbszzn4ctv5b0l4tgnmuhfrt25yblrpt21iyu9lrnlstxdkx3p0ruzqoufsu3jayjnxyul4nl83qkrcunq2yw?oc=5": {
+      "headline": "Nvidia, AMD, Intel, and Broadcom Lead Chip Stock Sell-off Amid Iran Crisis - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:05:42.545399",
+      "last_seen": "2026-03-04T14:05:42.545416"
+    },
+    "https://news.google.com/rss/articles/cbmiu0fvx3lxtfbvakjzag13akpgu080ufo3vxhxu2hsztgzx2zzqnl3chddcwvxanvluultohr4x0tpztj3znh0ofdpy01sqzgyt2vluk9gmzhgzu9z?oc=5": {
+      "headline": "Chip giants have all invested in this optical company. - 36Kr",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:05:46.031035",
+      "last_seen": "2026-03-04T14:05:46.031050"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnrur1r2rtu01oshkztmxkuvpwzm1ix0t2ng1wbwtkv0o4mux2v0fiwc1nqndzx3ffywdnylnamu9fnxvpqjfvvluysxuxewm3zwzlwxd2v0w3c3blclexmfdlsfz2xzl0be16bdbvwgjlmk1nrgzgzndct3yyugt1c1d4c3r3vtntztm4c0rvmwhtmefym1vlz1rerm1gazradlq4nw5ktmjtt2xyohoxsmdmtux2nuvrstjpr0zabe1zyvyzunhpejdscjrhmzftvgpjq1n30ghbaufvx3lxte5hak9zoejlv0e4vzlkdzvwajv5txblrktxdzvquwffn0lks1zrcdfyumxxmdn0ujyyy2zmceityvjfsen2vvnlv3nottbjafjfqlzhrv84vxpfu0tnbfbdlxhzaujvujrwr2g2q191q0l6v3beuvpmdthax3vgegrmzlqxnhzmlxdpt1ntykeyeuvwnl9zoervdwhzovdpyw5otc1tuzvjx1lxne4taurdnw1mmtzfzu9zvnviewwtmm1oowhnakncewvkmudybujmwdf6ownjahhsma?oc=5": {
+      "headline": "GLOBALFOUNDRIES (GFS) Valuation Check After Strong Q4 2025 Beat And Renesas Partnership - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:08:35.209326",
+      "last_seen": "2026-03-05T12:08:35.209341"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte5rq1zksvowt2i2smlnlxziqwvvcfo0venrx29zs1dmt2g0ckm5nxzpx01salzssmfhrtdxswv2vlzjv1bldjf6rxk2umtcwmfvvg1xbdvjul8waxb1a2n1tefld9iby0fvx3lxte5rq1zksvowt2i2smlnlxziqwvvcfo0venrx29zs1dmt2g0ckm5nxzpx01salzssmfhrtdxswv2vlzjv1bldjf6rxk2umtcwmfvvg1xbdvjul8waxb1a2n1tefldw?oc=5": {
+      "headline": "GlobalFoundries Inc. (GF) Up More Than 13% Since Q4 2025 Earnings - Bitget",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:08:38.227551",
+      "last_seen": "2026-03-05T12:08:38.227566"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxnn2i5wfv4oenxwlfranl2dm43zhfqumlwzg5fcwxzx3jlv2lxtjl2wtvjtjltskxhzkvlq25kr0lwrwplruz3tzlfdvbrqklzujvpwkh1wxparffix3bhsfffslnjrmhpzeq1ug5lyw1kmfrtc2j4vvjpwg1ubfe2bzjla3hfvkzkwkjmznbpaeywv2xfrfg5cefmag1fofzyzw9hanjpwxhia05yyu1fzdnlzs1wcupmwndnyvhdn01gotjqulbbag5tbll6mg8?oc=5": {
+      "headline": "GlobalFoundries at Morgan Stanley Conference: Strategic Moves in Semiconductors - Investing.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:08:42.297990",
+      "last_seen": "2026-03-05T12:08:42.298006"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpckpgvhvry1dszuotu05rvupwx3vubkthrehrdvftefnydgvfumjxewnnvnhya1znrxrgzxj3vhiwt0fxsmtsnjjqehd5rw5pnvrnafrly1lrqmfmmjc3a2diatkzme1xmuqwskxkytawnuxmywt0ckuxt2d4b1f2bu8wexc1sdnkbwtawwr4rhp1cev2dehxrtdlznfhzfe3exbtq0zsbmzhvmjpsmdkqudlrdlccuvvlxi0z3yxlth3rupjzgfhm3r6bzdyry1peg5b?oc=5": {
+      "headline": "JPMorgan Chase & Co. Has $17.05 Million Stock Position in GlobalFoundries Inc. $GFS - MarketBeat",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:08:45.107844",
+      "last_seen": "2026-03-05T12:08:45.107861"
+    },
+    "https://news.google.com/rss/articles/cbmix0fvx3lxte5yu0desdjonfz0nzf5ltdrqlg3emj3dglht2f2yu5iagnntwhxt0t5m0kwmzvdsxlcm2plbwzzu204szhyt1fcqw5bmgrvalhcwmfsuuxla2zfexrlwfpb?oc=5": {
+      "headline": "GFS Earnings History & Surprises | EPS & Revenue Results | GLOBALFOUNDRIES INC (NASDAQ:GFS) - ChartMill",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:08:49.411365",
+      "last_seen": "2026-03-05T12:08:49.411381"
+    },
+    "https://news.google.com/rss/articles/cbmiqkfvx3lxte9iudc1s3nxx1e2us1kamxyb1jhsgwtnc04sc1bcfjbstm5rgrpqnfbq1rrz3lvenvux2ztbum0rhjszw?oc=5": {
+      "headline": "Technologies - GlobalFoundries",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:07:07.554994",
+      "last_seen": "2026-03-06T12:07:07.555011"
+    },
+    "https://news.google.com/rss/articles/cbmi0wfbvv95cuxpxzz1zkhfythidza3s2cyvvnrngn3ufrsrdlrru5pmvvtsw5tukq0qwrjrnbtmhbazxmwwetiog10unz4rlfms0q3tnrlvklbwxjhyu5bwu5hcwprnfbmyl94oulpq1lrq1hyy1exlunjqw8zx25pbepkds11ovzqnvjcqky3nvpkzultazrjx1rfckmztgtpbjfbyjjly1qytxh3lxlou3oyz1y0nhfyc19ktnpxmfjsv3nwnhvtdetjtghoy3vwqjrntww1lupdqk9v?oc=5": {
+      "headline": "GlobalFoundries Announces 2026 Investor Day - Bluefield Daily Telegraph",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:07:13.448758",
+      "last_seen": "2026-03-06T12:07:13.448776"
+    },
+    "https://news.google.com/rss/articles/cbmiuafbvv95cuxnal93s1rralbvtenvsgd3udi0sw5notd4vefjzgxpsnozufhzauhcxzjonknldgvkweo3zwdudu5fauxsqtk3tuj3rw02cup6rnvobjvruzjudfh1dvf3eg9lbgx2z2zsohg0mdrus1jqcufvzs1wv2z5vlg3tzf3uldlb2jtcgwxveo5vi1vvxj5dvrzdi1vmutmsgw4tzrxahroqm1tddjivfi2rlphn2jlavrvvvrr0gg-aufvx3lxte1vzkvuny14qu5stzftelrlcefpruewog5jyvlrbzdnq1l0d3p6udlus3d0v1fwx09rwmrqvjjfywf1tdzfyukzbvfztwqwt3fnr0h0ndbqnzhtbu5qtdzaqnv0cln5m0ezq05eu29fetvzskfiddfqwdzqt2oyovjszwxunheysgk3ru9wefdetnvxannvykzeuljprfhhnzgwu1e2yxr2thpjuup1wtnzzgzpsmfqbectzkhfshc?oc=5": {
+      "headline": "GlobalFoundries Announces 2026 Investor Day - The Manila Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:07:19.225239",
+      "last_seen": "2026-03-06T12:07:19.225254"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxpnwy3zfhbzhhvqtjvt1zubjbguurzd2phmtmyu0p2zevxr2pgekvjdec0v2f4qmi5qzrwb3nbywlpedfxbutiau1cchrub0rwbw1pr0hiexlddxlxqw4zcfnjthvoruzmsfzavwztqwhnckn1vnnhwus0mdyytl9orvhfegfndfhhoghzv1rfyjk2x2mtmkhpqnjktjjhu3jry3lvvfvzaktmvzbvsxk2ywj4mxuxngvuwkfxmhv4dllzmez2?oc=5": {
+      "headline": "Iran crisis could disrupt supply of key chipmaking materials, South Korea warns - WKZO",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:07:22.430889",
+      "last_seen": "2026-03-06T12:07:22.430905"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxny3daowvwvkfhymdkeux1bktnrxf0vgstawtwnzb6rnvqqkdxwgg5mkx4qwv6lxpaq2lyrf8yy0vfae9rnunpekfitkjxmevoyl9vemdfwhvlm3dhwxfkdxpoyjhiumnitnf1u083uhvhmghkwlp4ow80nvlfvjfpamdttg1hd2s3s0x3mw5tt2xks18twglfefremkn2ynzcyup0m180t1hxegktblpxdmtzb2zpz9ibvgfbvv95cuxnadbqnhy1y0jvv1dyyknuwfbtrmxqnmttahnoufp2ehznqwlnvkjermfbbu05zndjedjjzlhedhv2xze1umt2tkdjagj4dkdncnvncezrstjia01wr2pusfzwv1pulu9jnwnfa19irnyyejjownvid28yruz4ewrvbei0qmtnwkpjthu4berdcvbjbnr2t09lstriz0jjulczb3g4wwxuyu1lrdj0me5gy1rurnnqec1ydg1pt3v3?oc=5": {
+      "headline": "Iran crisis could disrupt supply of key chipmaking materials, South Korea warns - The Express Tribune",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T12:07:25.752450",
+      "last_seen": "2026-03-06T12:07:25.752468"
+    },
+    "https://news.google.com/rss/articles/cbmi6afbvv95cuxpcenbynz2auvmawlscku4znloewvht3nuy3itb0ffvmforgswrlvuvzk5bdeytnpsnxfqndnxqwricmvty2wzsg1fmnrpv3v2c05ln3fnovvfync0whnru2s1v0xtcdexmg82eg5amv9pnutjsfvuqnnkynfvuzbrntzvtddfz3jochz2nwh5wejlauqwytnzmufouwnlc2rvufjotlhzemd5nlzumnfotddfzgs4yxb6rjrcwc1pzjlmsg94cgtwugfnek01udfuuv8yuko0y0mwbhbyt2tlctvmnvrpu3do?oc=5": {
+      "headline": "Prevail Innovative Wealth Advisors LLC Takes $4.77 Million Position in GlobalFoundries Inc. $GFS - MarketBeat",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:06:44.734371",
+      "last_seen": "2026-03-09T13:06:44.734391"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte0xyk5koxztn0rxeknjt2nsznqtv1vwskvmngzkq2ztv2wztgzkbglqby1uazvld0rpze96mev6ee85z2fznf9wbmm5ejfxv3pmdefnautrvle0cthdm0rkenp2nmvwqnhkulvpsxrca3r3ntq?oc=5": {
+      "headline": "MIPS and INOVA Collaborate to put Physical AI into the palm of Robotic hands with new Reference Platform - presseagentur.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:06:48.502161",
+      "last_seen": "2026-03-09T13:06:48.502178"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxnwfoxz2flsxu3ajlzy00zyjfytzrubzrxaetlx2ltvhjmtwgxohbknjrjt0jryllncw83zws1tnfxujnqbzk5dgrqvvvfn1rmoxk5evr2mtjxzjiyx21elxfvqwvuztbfckhnltm2sfjlqnlsqulnvy0tdhbjbvv6a0c0uzzrukpet2q5mwk0y2hfykjnyupcu01n?oc=5": {
+      "headline": "Chart Watch: What are the future prospects of ATXG - Insider Selling & Long-Term Growth Stock Strategies - baoquankhu1.vn",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:06:51.939936",
+      "last_seen": "2026-03-09T13:06:51.939965"
+    },
+    "https://news.google.com/rss/articles/cbmitgfbvv95cuxpedy1yl8wzmvhr0jiqkrsttnwteo2dtfxb1dxs3zfsc1esepyvmflt19ynnrpngtlsnvznmfkzfewze1xvktzrnzeekffqwvza0jheta1ytjssfpruwlptgdrt29hvncznzfpt0xzeu93rte1r2vxtfows1ngwvddoes2s3y5ndd0r2xqblpyt3rmvhz6q3luntrsuy1kdxdjr1vvrlhvc2pbmhbwwg1wx3f2zhpnzw?oc=5": {
+      "headline": "Chip memory for future cars: GlobalFoundries' eMRAM handles 150°C - Stock Titan",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:37.023952",
+      "last_seen": "2026-03-10T10:59:37.023971"
+    },
+    "https://news.google.com/rss/articles/cbmivgfbvv95cuxpr0hvdgdeoghhtzviuwvzwjrct2pxmzztwfbbdumzzgqtvjlov2lcm2julxb5ukhyzfjlwflkmutguvy1egf4ohprshpix28zbvlnnm5nuvizdtzftkv2mevenmx4ohnxvs14tetoa05zrkzdujrwu3nzavywagfibdn1nhvfqkrfbvv0zxzxd3e0eulcrlrkb1lqvkluakvobzlowhfxuhjwemt3afzqwudvzzjldgw0rdhkeutr?oc=5": {
+      "headline": "GlobalFoundries launches eMRAM technology for automotive chips - StreetInsider",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:40.740813",
+      "last_seen": "2026-03-10T10:59:40.740930"
+    },
+    "https://news.google.com/rss/articles/cbmi4afbvv95cuxoyi1znepkr0j5dndyzmdylta5zneznmrvuevpv3lgnxywzhdou1nvvhkzrnd3vhbhrnjiawvmwegxsvdpmwewcmy3qlhwq1nqdmhnztjitgmwdjrttmrav0w0y3dwd0c4qk83z1zqvlfjahiwetndzk5iqzbumm0yaejjquwwegyym0lnb3dbdw81vm04rddpal96mlbcve1uxzj6qzfplxfxbepim1d0a1pgatj1dk8xbhdsnvdinzdwdgrlrwhcx0jranczv3jormfvzgthsdn2nexueuvzva?oc=5": {
+      "headline": "GlobalFoundries announces availability of AutoPro150 eMRAM tech on FDX platform - TipRanks",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:45.785850",
+      "last_seen": "2026-03-10T10:59:45.785869"
+    },
+    "https://news.google.com/rss/articles/cbmiy0fvx3lxte5hanfmadz0zznzzkqwm3c4vkowtutlwgzbt3lyc0xysklmsnjirzzxbgfyautrx0t6ddm2oxk0emnxa0hzawzjng5fcef1sghfn1p3svhtote3qmxysdnabwrkd9iby0fvx3lxte5hanfmadz0zznzzkqwm3c4vkowtutlwgzbt3lyc0xysklmsnjirzzxbgfyautrx0t6ddm2oxk0emnxa0hzawzjng5fcef1sghfn1p3svhtote3qmxysdnabwrkdw?oc=5": {
+      "headline": "GlobalFoundries Announces Availability of AutoPro150 eMRAM Technology on Enhanced FDX Platform for Advanced Automotive Applications - Bitget",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:51.337589",
+      "last_seen": "2026-03-10T10:59:51.337608"
+    },
+    "https://news.google.com/rss/articles/cbmi8wfbvv95cuxqee9wovbgdmn4rk1zotdftgs0sllprgzsazddbkjwn08wz2pzmtzwdvbebgfknvlxdu93dxfyuknedho3bfnstjbav0lmz3nznhpinxvrulfrwuhqulvudhdzbdhfxzvzbe5otmgxzwztou1lenbwdlnjzs0wz0piywpru05szk55vth1tv9jy3o4wuz1shuxmlhxbmpbnegwbkvjrhq4clf4wxbenlu1zzfaskjordnnbmtibzngykuxvw1wnex6ttddrwo1ze1fukjvavfnmtj4cvnucxfmvvlns0dknmnxuxvhz3lrz29zvlu?oc=5": {
+      "headline": "MIPS and INOVA Collaborate to put Physical AI into the palm of Robotic hands with new Reference Platform - Business Wire",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:59:54.777632",
+      "last_seen": "2026-03-10T10:59:54.777651"
+    }
+  }
+}

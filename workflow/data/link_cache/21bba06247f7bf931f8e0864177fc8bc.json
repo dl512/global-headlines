@@ -1,0 +1,238 @@
+{
+  "website": "https://www.futunn.com/hk/stock/06082-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68602804",
+    "https://news.futunn.com/hk/post/68599789",
+    "https://news.futunn.com/hk/post/68598610",
+    "https://news.futunn.com/hk/post/68585615",
+    "https://news.futunn.com/hk/post/68582317",
+    "https://news.futunn.com/hk/post/68665534/goldman-sachs-has-assigned-a-buy-rating-to-biren-technology",
+    "https://news.futunn.com/hk/post/68563513",
+    "https://news.futunn.com/hk/post/68463504",
+    "https://news.futunn.com/hk/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10",
+    "https://news.futunn.com/hk/post/68787162",
+    "https://news.futunn.com/hk/post/68833997",
+    "https://news.futunn.com/hk/post/68818865",
+    "https://news.futunn.com/hk/post/68809088/zhipu-40-minimax-25-and-the-semiconductor-sector-also-surged",
+    "https://news.futunn.com/hk/post/68806504/stock-movement-biren-technology-06082-rose-nearly-12-in-the",
+    "https://news.futunn.com/hk/post/68800103",
+    "https://news.futunn.com/hk/post/68855709",
+    "https://news.futunn.com/hk/post/68941782/hong-kong-stock-ratings-summary-citic-securities-maintains-buy-rating",
+    "https://news.futunn.com/hk/post/68932795",
+    "https://news.futunn.com/hk/post/69089993/stock-movement-biren-technology-06082-surged-over-12-intraday-biren",
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index-rose",
+    "https://news.futunn.com/hk/post/69084402/defying-overseas-ai-panic-the-chinese-market-is-aggressively-speculating",
+    "https://news.futunn.com/hk/post/69050433",
+    "https://news.futunn.com/hk/post/69186138/the-amount-raised-through-hong-kong-ipos-surged-10-fold",
+    "https://news.futunn.com/hk/post/69189377",
+    "https://news.futunn.com/hk/post/69333392",
+    "https://news.futunn.com/hk/post/69327177",
+    "https://news.futunn.com/hk/post/69514745",
+    "https://news.futunn.com/hk/post/69415759",
+    "https://news.futunn.com/hk/post/69633462/sdic-securities-the-rise-of-domestic-computing-power-a-breakthrough",
+    "https://news.futunn.com/hk/post/69621151",
+    "https://news.futunn.com/hk/post/69594009",
+    "https://news.futunn.com/hk/post/69834715/clsa-initiated-coverage-of-biren-technology-06082-hk-with-an",
+    "https://news.futunn.com/hk/post/69830220/director-of-the-introduction-office-visits-biren-technology-06082-hk"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68602804": {
+      "headline": "國產開源Agent模型，多家頭部芯片廠適配",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:47:56.703362",
+      "last_seen": "2026-02-09T21:47:56.703380"
+    },
+    "https://news.futunn.com/hk/post/68599789": {
+      "headline": "【國聯民生海外 | 港股週報】持續看多國內AI產業趨勢，千問30億元加碼AI春節營銷",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:48:01.139972",
+      "last_seen": "2026-02-09T21:48:01.139983"
+    },
+    "https://news.futunn.com/hk/post/68598610": {
+      "headline": "硬科技浪潮席捲資本市場：A股港股雙輪驅動 國產替代加速前行",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:48:05.135938",
+      "last_seen": "2026-02-09T21:48:05.135952"
+    },
+    "https://news.futunn.com/hk/post/68585615": {
+      "headline": "「國產AI芯片六小龍」競速，上海賺大了",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:48:10.499504",
+      "last_seen": "2026-02-09T21:48:10.499515"
+    },
+    "https://news.futunn.com/hk/post/68582317": {
+      "headline": "半導體的AI時刻：一份預測，暴露了行業未來5年的真相",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:14.642539",
+      "last_seen": "2026-02-09T21:48:14.642551"
+    },
+    "https://news.futunn.com/hk/post/68665534/goldman-sachs-has-assigned-a-buy-rating-to-biren-technology": {
+      "headline": "高盛給予壁仞科技和沐曦股份買入評級 料中國雲廠商支出將驅動增長",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:11:41.244861",
+      "last_seen": "2026-02-10T11:11:41.244876"
+    },
+    "https://news.futunn.com/hk/post/68563513": {
+      "headline": "2026年香港IPO市場呈現顯著擴容態勢",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:11:50.784637",
+      "last_seen": "2026-02-10T11:11:50.784653"
+    },
+    "https://news.futunn.com/hk/post/68463504": {
+      "headline": "國產AI破局戰：芯片與模型「雙向奔赴」能否撕開英偉達鐵幕？",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:11:59.587580",
+      "last_seen": "2026-02-10T11:11:59.587596"
+    },
+    "https://news.futunn.com/hk/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10": {
+      "headline": "MinerU完成10餘家國產AI芯片算力適配",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:41:23.462638",
+      "last_seen": "2026-02-12T12:41:23.462650"
+    },
+    "https://news.futunn.com/hk/post/68787162": {
+      "headline": "多重因素共振 今年以來香港新股上市首日\"零破發\"",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:41:24.198249",
+      "last_seen": "2026-02-12T12:41:24.198264"
+    },
+    "https://news.futunn.com/hk/post/68833997": {
+      "headline": "雙向奔赴！大模型密集發布，芯片股站上風口",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:07:57.105044",
+      "last_seen": "2026-02-13T13:07:57.105057"
+    },
+    "https://news.futunn.com/hk/post/68818865": {
+      "headline": "MinerU全面深度適配主流國產算力，10餘家國產AI芯片在列",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:07:57.962974",
+      "last_seen": "2026-02-13T13:07:57.962989"
+    },
+    "https://news.futunn.com/hk/post/68809088/zhipu-40-minimax-25-and-the-semiconductor-sector-also-surged": {
+      "headline": "智譜40%、MiniMax 25%、芯片板塊也飆升！港股AI概念爆了",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:07:58.943352",
+      "last_seen": "2026-02-13T13:07:58.943367"
+    },
+    "https://news.futunn.com/hk/post/68806504/stock-movement-biren-technology-06082-rose-nearly-12-in-the": {
+      "headline": "港股異動 | 壁仞科技(06082)午後漲近12% 公司成爲首家完成MOSS-TTS模型適配的國產算力廠商",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:08:01.731304",
+      "last_seen": "2026-02-13T13:08:01.731317"
+    },
+    "https://news.futunn.com/hk/post/68800103": {
+      "headline": "國產AI芯片「六小強」：摩爾清微寒武紀、沐曦壁仞崑崙芯",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:08:02.628992",
+      "last_seen": "2026-02-13T13:08:02.629006"
+    },
+    "https://news.futunn.com/hk/post/68855709": {
+      "headline": "人工智能賽道上市熱 約20家企業衝刺港股IPO",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:08:03.494537",
+      "last_seen": "2026-02-13T13:08:03.494549"
+    },
+    "https://news.futunn.com/hk/post/68941782/hong-kong-stock-ratings-summary-citic-securities-maintains-buy-rating": {
+      "headline": "港股評級彙總：中信證券維持老鋪黃金買入評級",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:24:47.427792",
+      "last_seen": "2026-02-16T11:24:47.427808"
+    },
+    "https://news.futunn.com/hk/post/68932795": {
+      "headline": "「國模國芯」新標杆！壁仞科技完成MiniMax M2.5、智譜GLM-5等多款SOTA模型高效適配",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:24:48.166975",
+      "last_seen": "2026-02-16T11:24:48.166990"
+    },
+    "https://news.futunn.com/hk/post/69089993/stock-movement-biren-technology-06082-surged-over-12-intraday-biren": {
+      "headline": "港股異動 | 壁仞科技(06082)盤中漲超12% 壁仞科技已完成對多款頭部國產AI大模型的適配",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:57:14.579357",
+      "last_seen": "2026-02-23T12:57:14.579374"
+    },
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index-rose": {
+      "headline": "港股午評|恒生指數早盤漲2.29% 光通信概念漲幅居前",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:15.291703",
+      "last_seen": "2026-02-23T12:57:15.291719"
+    },
+    "https://news.futunn.com/hk/post/69084402/defying-overseas-ai-panic-the-chinese-market-is-aggressively-speculating": {
+      "headline": "無視海外「AI恐慌」，中國市場狂炒AI贏家，港股大模型「雙雄」股價狂飆",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:16.027594",
+      "last_seen": "2026-02-23T12:57:16.027613"
+    },
+    "https://news.futunn.com/hk/post/69050433": {
+      "headline": "AI「靈魂附體」，智能終端在上海開掛，有望殺出3000億新增量",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:16.734801",
+      "last_seen": "2026-02-23T12:57:16.734819"
+    },
+    "https://news.futunn.com/hk/post/69186138/the-amount-raised-through-hong-kong-ipos-surged-10-fold": {
+      "headline": "港股IPO開年募資大增10倍，110家A股公司排隊港股上市",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:06:23.418670",
+      "last_seen": "2026-02-25T13:06:23.418687"
+    },
+    "https://news.futunn.com/hk/post/69189377": {
+      "headline": "央視春晚聯動火山引擎推AI互動，地方國資平台投資進入收穫期",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:06:25.067851",
+      "last_seen": "2026-02-25T13:06:25.067944"
+    },
+    "https://news.futunn.com/hk/post/69333392": {
+      "headline": "港股IPO市場「開門紅」 硬科技與東南亞企業成主角",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:28:20.227996",
+      "last_seen": "2026-02-27T12:28:20.228011"
+    },
+    "https://news.futunn.com/hk/post/69327177": {
+      "headline": "英偉達Vera Rubin：芯片到機架的極限協同",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:28:21.886559",
+      "last_seen": "2026-02-27T12:28:21.886573"
+    },
+    "https://news.futunn.com/hk/post/69514745": {
+      "headline": "問題來了，有「北上深」在，杭州的「人工智能第一城」怎麼突圍？",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:58:29.631377",
+      "last_seen": "2026-03-04T13:58:29.631398"
+    },
+    "https://news.futunn.com/hk/post/69415759": {
+      "headline": "電子行業點評報告：SK海力士打響存儲擴產第一槍 3月看好設備+耗材擴產鏈",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:58:30.253886",
+      "last_seen": "2026-03-04T13:58:30.253903"
+    },
+    "https://news.futunn.com/hk/post/69633462/sdic-securities-the-rise-of-domestic-computing-power-a-breakthrough": {
+      "headline": "國投證券：國產算力崛起 內外雙輪驅動下的自主生態突圍",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:58:16.553411",
+      "last_seen": "2026-03-06T11:58:16.553426"
+    },
+    "https://news.futunn.com/hk/post/69621151": {
+      "headline": "什麼信號？多路資金大舉抄底恒生科技，機構：估值已充分反映悲觀，後市有望迎來修復",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:58:19.257928",
+      "last_seen": "2026-03-06T11:58:19.257944"
+    },
+    "https://news.futunn.com/hk/post/69594009": {
+      "headline": "電子行業深度分析：國產算力崛起：內外雙輪驅動下的自主生態突圍",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:58:20.574172",
+      "last_seen": "2026-03-06T11:58:20.574190"
+    },
+    "https://news.futunn.com/hk/post/69834715/clsa-initiated-coverage-of-biren-technology-06082-hk-with-an": {
+      "headline": "《大行》里昂首予壁仞科技(06082.HK)「跑贏大市」評級 目標價46.3元",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:52:48.967426",
+      "last_seen": "2026-03-10T10:52:48.967444"
+    },
+    "https://news.futunn.com/hk/post/69830220/director-of-the-introduction-office-visits-biren-technology-06082-hk": {
+      "headline": "引進辦主任參觀壁仞科技(06082.HK)展覽廳 了解創新算力方案",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:52:52.292614",
+      "last_seen": "2026-03-10T10:52:52.292637"
+    }
+  }
+}

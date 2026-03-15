@@ -1,0 +1,27 @@
+## Most Important Stories
+
+- **Clintons to Testify in Epstein Congressional Probe**: Bill and Hillary Clinton will testify before Congress on Jeffrey Epstein, averting a contempt vote and marking a rare appearance by a former US president before a congressional panel.
+- **Epstein Files Shake UK Royals and Politicians**: Newly released Epstein files implicate UK royals and politicians, prompting investigations and public scrutiny of figures like Prince Andrew, Sarah Ferguson, and Lord Mandelson.
+- **Sarah Ferguson’s Charity Closes Amid Epstein Revelations**: Sarah Ferguson’s charity, Sarah’s Trust, will close following disclosures of her continued contact with Jeffrey Epstein, including while he was in prison.
+- **US and India Reach Major Trade Deal**: The US and India agreed to lower tariffs and boost American exports, with India pledging to halt Russian oil purchases, sparking a 5% surge in India's Nifty 50 index.
+- **China Bans Hidden Car Door Handles Over Safety Concerns**: China will require mechanical car door handles on electric vehicles by 2027, citing safety and influencing global auto standards.
+- **Chinese Crime Networks Launder $16 Billion in Crypto**: Chinese organized crime groups laundered $16.1 billion in cryptocurrency in 2025, mainly via Southeast Asia and Telegram-based platforms.
+- **Gaza’s Rafah Border Crossing Partially Reopens**: Israel has reopened the Rafah crossing with Egypt after nearly two years, allowing limited movement of sick and wounded Palestinians.
+- **Russia Resumes Strikes on Ukrainian Cities After Ceasefire Ends**: Russian forces have restarted night strikes on major Ukrainian cities following the end of a brief ceasefire.
+- **Ukraine Praises Musk for Restricting Russian Starlink Use**: Ukraine credits Elon Musk’s new Starlink restrictions with hampering Russian drone operations in the conflict.
+- **Norwegian Royal Family in Spotlight Over Epstein and Rape Trial**: Norway’s Crown Princess faces scrutiny over Epstein emails as her son stands trial for rape and assault.
+- **More Than 200 Dead After Mine Collapse in Congo**: Over 200 people died in a mine collapse in eastern Congo, raising safety and conflict concerns.
+- **Over 120 Killed in Attacks in Southwest Pakistan**: Multiple attacks in southwest Pakistan have left more than 120 dead, highlighting ongoing regional instability.
+- **US Government Shutdown Continues Amid House Divisions**: House Speaker Mike Johnson faces opposition from hardliners, complicating efforts to end the US government shutdown.
+- **President Donald Trump and Colombia’s Petro Meet After Tensions**: Colombian President Gustavo Petro meets President Donald Trump in Washington, signaling a shift from confrontation to dialogue.
+- **US Judge Blocks Lifting of Deportation Protections for Haitian Migrants**: A federal judge temporarily halted the end of Temporary Protected Status for over 350,000 Haitian immigrants.
+- **Federal Officers in Minneapolis to Wear Body Cameras**: Federal immigration officers in Minneapolis will now use body cameras following recent fatal incidents.
+- **SpaceX to Acquire Elon Musk’s AI Firm xAI**: SpaceX will acquire Musk’s AI startup xAI, aiming to integrate AI with space and internet technologies.
+- **Australia Raises Interest Rates Amid Rising Inflation**: Australia’s central bank hiked rates for the first time since 2023 as inflation hits a six-quarter high.
+- **Gold and Silver Prices Rebound After Steep Selloff**: Gold and silver prices rebounded sharply, with analysts maintaining bullish outlooks despite recent volatility.
+- **UAE’s ‘Spy Sheikh’ Buys Stake in Trump Crypto Company**: UAE national security adviser Sheikh Tahnoon bin Zayed bought a 49% stake in President Donald Trump’s cryptocurrency company for $500 million.
+- **Democrat Christian Menefee Wins US House Seat, Narrowing GOP Majority**: Democrat Christian Menefee’s victory in Texas narrows the Republican majority in the US House of Representatives.
+- **Millions in Delhi Face Water Crisis Amid Pollution**: Delhi residents endured days without water, with ongoing concerns over contamination from the Yamuna River.
+- **Conservative Populist Laura Fernández Claims Victory in Costa Rica Elections**: Laura Fernández’s win signals a rightward shift in Costa Rica’s political landscape.
+- **Fishing Nets Repurposed to Defend Against Russian Drones in Ukraine**: Ukrainian forces are using fishing nets to intercept Russian drones amid ongoing conflict.
+- **Venice Carnival Opens with Olympic-Themed Canal Parade**: Venice’s iconic carnival launched with an Olympic theme, celebrating ahead of the Winter Olympics.

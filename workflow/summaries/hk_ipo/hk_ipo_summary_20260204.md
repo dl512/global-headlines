@@ -1,0 +1,3 @@
+## HK IPO News Summary
+
+GON TECHNOLOGY (02768.HK) [debuted on February 4 with shares opening up 25% at $45 and closing midday at $41.78, up 16.1% from the $36 listing price](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1500998/ipo-news/AAFN), after its Hong Kong public offering was [oversubscribed by approximately 2,251 times with a 2% one-lot success rate and a final offer price of $36](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1500846/ipo-news/AAFN).

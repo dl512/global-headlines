@@ -1,0 +1,98 @@
+{
+  "website": "https://gf.com/newsroom/globalfoundries-press-releases/",
+  "links": [
+    "https://gf.com/gf-press-release/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors",
+    "https://gf.com/gf-press-release/globalfoundries-to-acquire-synopsys-processor-ip-solutions-business",
+    "https://gf.com/gf-press-release/globalfoundries-continues-presenting-sponsorship-of-first-lego-league-in-vermont-for-2025-2026-season",
+    "https://gf.com/gf-press-release/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries",
+    "https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-fourth-quarter-2025-and-fiscal-year-2025",
+    "https://gf.com/gf-press-release/globalfoundries-accelerates-and-strengthens-europes-semiconductor-ecosystem-through-strategic-partnership-with-cloudberry",
+    "https://gf.com/gf-press-release/siemens-and-globalfoundries-collaborate-to-deploy-ai-driven-manufacturing-to-strengthen-global-semiconductor-supply",
+    "https://investors.gf.com/news-releases/news-release-details/globalfoundries-host-investor-webinar-silicon-photonics-and",
+    "https://gf.com/gf-press-release/globalfoundries-appoints-sam-franklin-as-chief-financial-officer",
+    "https://gf.com/gf-press-release/globalfoundries-and-renesas-expand-partnership-to-accelerate-us-semiconductor-manufacturing",
+    "https://gf.com/gf-press-release/globalfoundries-announces-2026-investor-day",
+    "https://gf.com/gf-press-release/globalfoundries-announce-2026-investor-day",
+    "https://gf.com/gf-press-release/globalfoundries-announces-availability-of-autopro-150-emram-technology-on-enhanced-fdx-platform-for-advanced-automotive-applications"
+  ],
+  "metadata": {
+    "https://gf.com/gf-press-release/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors": {
+      "headline": "GlobalFoundries Appoints Ganesh Moorthy to Board of Directors",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:54:42.133181",
+      "last_seen": "2026-02-09T21:54:42.133189"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-to-acquire-synopsys-processor-ip-solutions-business": {
+      "headline": "GlobalFoundries to Acquire Synopsys’ Processor IP Solutions Business, Expanding Capabilities to Accelerate Physical AI Applications",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:17:11.442206",
+      "last_seen": "2026-02-10T11:17:11.442221"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-continues-presenting-sponsorship-of-first-lego-league-in-vermont-for-2025-2026-season": {
+      "headline": "GlobalFoundries Continues Presenting Sponsorship of FIRST LEGO League in Vermont for 2025-2026 Season",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:57:30.933318",
+      "last_seen": "2026-02-11T11:57:30.933331"
+    },
+    "https://gf.com/gf-press-release/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries": {
+      "headline": "onsemi to Develop Next-Generation GaN Power Devices with GlobalFoundries",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:28:00.929139",
+      "last_seen": "2026-02-11T13:28:00.929153"
+    },
+    "https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-fourth-quarter-2025-and-fiscal-year-2025": {
+      "headline": "GlobalFoundries Reports Fourth Quarter 2025 and Fiscal Year 2025 Financial Results",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:47:49.067892",
+      "last_seen": "2026-02-12T12:47:49.067908"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-accelerates-and-strengthens-europes-semiconductor-ecosystem-through-strategic-partnership-with-cloudberry": {
+      "headline": "GlobalFoundries Accelerates and Strengthens Europe’s Semiconductor Ecosystem through Strategic Partnership with Cloudberry",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:47:56.480638",
+      "last_seen": "2026-02-12T12:47:56.480652"
+    },
+    "https://gf.com/gf-press-release/siemens-and-globalfoundries-collaborate-to-deploy-ai-driven-manufacturing-to-strengthen-global-semiconductor-supply": {
+      "headline": "Siemens and GlobalFoundries Collaborate to Deploy AI-Driven Manufacturing to Strengthen Global Semiconductor Supply",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:16:09.268794",
+      "last_seen": "2026-02-13T13:16:09.268805"
+    },
+    "https://investors.gf.com/news-releases/news-release-details/globalfoundries-host-investor-webinar-silicon-photonics-and": {
+      "headline": "GlobalFoundries to Host Investor Webinar on Silicon Photonics and Advanced Packaging",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:31:29.996816",
+      "last_seen": "2026-02-16T11:31:29.996833"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-appoints-sam-franklin-as-chief-financial-officer": {
+      "headline": "GlobalFoundries Appoints Sam Franklin as Chief Financial Officer",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:31:41.495422",
+      "last_seen": "2026-02-16T11:31:41.495437"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-and-renesas-expand-partnership-to-accelerate-us-semiconductor-manufacturing": {
+      "headline": "GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:10:21.486932",
+      "last_seen": "2026-02-20T12:10:21.486945"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-announces-2026-investor-day": {
+      "headline": "GlobalFoundries Announces 2026 Investor Day",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T12:06:42.728192",
+      "last_seen": "2026-03-06T12:06:42.728212"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-announce-2026-investor-day": {
+      "headline": "GlobalFoundries Announces 2026 Investor Day",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:06:17.614999",
+      "last_seen": "2026-03-09T13:06:17.615013"
+    },
+    "https://gf.com/gf-press-release/globalfoundries-announces-availability-of-autopro-150-emram-technology-on-enhanced-fdx-platform-for-advanced-automotive-applications": {
+      "headline": "GlobalFoundries Announces Availability of AutoPro 150 eMRAM Technology on Enhanced FDX Platform for Advanced Automotive Applications",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:59:17.632259",
+      "last_seen": "2026-03-10T10:59:17.632279"
+    }
+  }
+}

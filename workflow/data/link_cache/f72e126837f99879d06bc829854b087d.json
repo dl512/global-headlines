@@ -1,0 +1,672 @@
+{
+  "website": "https://news.google.com/rss/search?q=TSMC+when%3A1d",
+  "links": [
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpymditurscgrlzwnitlljm2vpunpncnvsmfh5surbbunmrxf5wexkn1bzzhbkyndawgqxytk0egptqi1smgc4nnnxbxv1wghmm2pxz3d3vflhx1fhruvdmzvpts1fs2fxndfxmzloeevndvffavn2z2frzw5gaejjd19nuenwd0pebw94uu5wmhy1a3n1rnr2y240vc1sm3h6?oc=5",
+    "https://news.google.com/rss/articles/cbmi8wfbvv95cuxnn04wwkpqde14smzkxzfbwkl2bmfobxzpodqyqjlrzmdnovrksjnfujlkehh5dwv3bxkyddy3ne56nmtzskjurm9sddvubzbky3hwqmmwbws5ylazstd0wni2mwzkekytcln3twm2d2y3ructstndsmx3sgzxcmewu25kuva3qlvmbtfjc3zmnvbszmlwce1hu3hst2heytyzt1piq3nobdvtstffvdruedezvjvtmefbam5owlnltujsrktyqxveu1hsa1zlm19bczrcvjcxzgtluzfpmnvflwplaxy5nwdynxm0rwphr3uwctq?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoz29huhjxcfnoufdxr1vvqupizgj0mgfumnq1wnbvazfxodlqbwjfv3m4z0d6etnhze5hwkvsce82bgjuy2dfsfn6wwnovdjwb1hmn280qv9iznlnqlvlyvzeogxrztdox3pyrwewem1dq1nyy1vxujdqzmhxu0tvbnzrbuy5d3q0wknquuttunbdveppvdfjvhcyc1y?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqtewzmkxzv1rjqwlym0jjbxncb19htexlam5zymp3rezymlpmqjdgrkn4dvpwbvlzdtfbd05refvhcxd6mfrqvk9zwmjvwjbjlxbqrkzoy2m1mhk2z0hhu19osdrfsfl3v1m4yy1ivk9kru1kbjjitlayty0yatznbjn3nhhmotbpqjhna0tfew5kwfflm1vsrgdduhpqotq?oc=5",
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnqwhjsgtjs1iywglnshp2ahhsb0t4vgcxrhdxutdknddmzlrmseq1smcxdmpotvhslxdob0m4mfhtt0nfaddomlbssmr5u21vslhuaxm1nvfowfrmse04vtdmr29mq3pry1dpzwc1swtusu5tcudzlvvonkc2qjhps1rtsk9fufvvc284nknobkvfne9ubnpkbdeteuvhc01gngdtue54dxjkouzrvljqmxltmujcsepaqtnsdxoyr1ettnvbvk5qa2vidxzjtwuzburkckr3?oc=5",
+    "https://news.google.com/rss/articles/cbmicefvx3lxte02qlntmvdwqjvzr09sq2nhds13swtxsmretzhrdkv1z3plzfazsmrqatnztwewb0pmbueynkvfdfldnvnkzxhfutlyrkliwusyzzzttkcwne5gugzvbkq3azndrne3ulzyszuylw91rwy?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxoavbxvu91m29sdmo0rejprzzsofj2yvdyt0k4sdbvwxrcyvu4tjjndthorlfqdu9zbehwr1i1dkt1x2t3zhpxvv8tuzbxune5zujelwtimwfhou50wmd1b1ezslf6ttm4elhxu1hlu1zbm1fhyte2ceu4ohjnq0s0rg?oc=5",
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpsxdvd2rbdgrymuvhcjzvuvhitk00de1wcu5mtelwyvpbctn2umx3r2xamgnrz2zwswzjtuzzmuqznwlgdurmnvzzuv93qwphogxfcvrjm3u3mdngmfdzcdrmd1r3zxp6rgxmxzhla0qwvufqzndkbvy4tmy5elfvyzu1dxb6ufleuzd5awdgahprlxvouu1wy2f30ggfaufvx3lxte1qxzdjztlnmjhornvamulwofhpnhzszghwyzjnrs1wogturtvpytfrr1qzohb0cmfhwnvru2xja1lwtulnvvh2cervnujueu1lcndynm84ty14cvjev1h1vk1zvwfiowxqwmvuduh0zfpxdm5hwgjkyvzyekvkqzbzr25sltzca0qxrkdqrnbftxkzthixufg5x2fjskhmoa?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnse9zadblznlxdf9lyu8wvdruwuc3m2cxqkjlwurxqxn6r1fnsvbvvdzhamzmvnrooxg0vlnhrvf6melbvnj4bdfuce5kwxpvnknnx2r3u244r1jzt2trqklncdnrnlrsyxnkrhrsdw1fzeu1qnzlwxhpaed0mknzzejyvjg0tjnhr3fmtw1b?oc=5",
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqqlhtvwe1nu1erzlpodzbalhmtfrybwddotjdquxkrfbyahrtuzc5nurfx1jpltjvckxldhhvauzmbnrmcdd1tenpmvzgdufzbvn0sufvqmp6ewnttmdjelp0wmvzz0xxs2ppzna4bwzax1lyywdmogp4cxdlaxnzvmd4c0hvtjzfrgu4ofpxtlj0wll0u3nra0z1elzhnfrua1phcnf2wmr4cmzyqlnrm0qtbc1fskp0zljcvvk1zzk1ahayzfbmmnnnbtdmt1hmsle?oc=5",
+    "https://news.google.com/rss/articles/cbmijgnbvv95cuxnshc5bvq1vdg2skfiakjvefywauvgmwpjnf9qnfp2zgg4bhd6a2i1duvzynbjvkrnenfwshffmgc2n2dcbvplngdonxlhdujnm1gwc21rykp6b3rxr3gwy2pwy3jsow1oa3nnbgfumktmx1mtuuxmnfrfcutjnvjtntzwy1b5zf9rrfvyuxy2clvhtvrpwjhhythgrje1dhq3a05hbe1tuwppzhmzzurlzm1iexmwdmnuthu3t2lltlruofdcnnrludb3ufhselrmvgfjnmdczhdps1owtm5tnme2qtfzn01mztbjrhntdfhmv2x6dmlezxjyd0zmbu9vy3hovll2ogxqr0vxmw5rv194wfvsa05zn2daovztdvzwsfytynd6b3duaxrxexk0stvvvzvprtbfre5lckn2twixvnbotzjnmg9tx2vhac05qku1anporjr0n2xzn2xjbxhrs0rhoejfskvtckx6yw8ysgryvjd6m05uyw1arzq1c3j3zthxdfpys0y0dw?oc=5",
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte9rri1is0l2atz3ouj2dgw0mhbmm1vatl9sci14mdfxthu0qlhjcnjtbgphotzzx1dns09udwr2awlorejpqxqyb1vabnjhuq?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnsxnynw9vbdryzfvav3pmv3pvszlwovjtzuvsqnc2ztvobg1fmjrdqwzovknxsuxyazfut0zuofnru21ja0k5zhjwzkjgaglzzermm0rznulkdnpmndzfludqbg9hwe5vbti5tjczuzhlvmzhyuzbnk4ywe1qbewxvtrkn0zjbzm0s3pub1bsn3owsghozmfvlq?oc=5",
+    "https://news.google.com/rss/articles/cbmikajbvv95cuxnlvfxve1qzmu3v0zvwha3ylpqbgjdckzcn29qevryrm9tcupftug4v2x5a1v4zxhbymruz0jlam52cfa4wfhkdgr4es10vdrtb0prrdzoqwcwemk5ctdzcws1smvxcs1wodbkeuhmttr0cvbfs3bwrm9rbezqz0x5bzz0wtd5swu1rffiuwrsy3frymfqltuxakluu04zutlizw5zlxd0ajzmm21slw02vkfcnkpxrhruq0fdufzauhfvuuxxvwviqxqtsxo2zdraujnex1dunmfmslc0tvvxbe44qufwuy1dqkzzb21jcdywwuvfwjiwzddomhbsb1j4t1dpbjfpmw1roez0ngh4zw?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxpa1finmvnnww1tti1ethrwed6nzbqtvnmwha3ti1xu0y3dejrv0pxogktb1rvstvjy0neuexkemzfsfnlqja4u2zruzrmve95ou01svpmz3bunkllvkr4veg2zv84d2xbog1jcu12tmjku2zxxzldsex4ugcxbnrjzg5xdenuslvxzky1u2nvrkrzwws?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxnaetqrjftthjnujdqyxnnedc5afhuehvmx3ryrerpchvqdfhrdhewdjita3e1rhnksedutli4duqtdkjqeng5bw5puw1lmnbjwkqyrlbycghpa3nyymdyunlut1lpvxrxbfd4otrpcjvznmfmbddsmly1ofvlugjvsk1eekxmmmzn?oc=5",
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxndvltmhberl80lxp0nmd6mm5rqzzuemlnzuftt1v0m2m1zflxu2njcvnsuzztsu1cm0jkz0hbrgxlvflwsedkrgv4vwvmb0dhv2ndbup2y1vmsfzsyjjubfz5aehinuflrdvkqlrfdmpkcgk5quxqdtzadnhfcmlrzzn2sudfcdndafrobxpcevc5wkxhekpfx2lqrlrjdeu?oc=5",
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxqvmtxd051qmjjrmrtmjuytjftqtbclu1izunov3jkrjhzv0rgclfuew5xq1g1rgvscu41admzs081b2njbw9dzetpchllv2l1c0henlzbsk5aqkxfugtstghtmkhorwj1mhk3dfr0sdktqlvlywphrxhrsuflovnsugjkz052rjz2ynawx25rskhft1lpsgndww9vujhpzhdubxvon09nejqtz2vfwfnz?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxnt2vtv0rlnkfoylytmu15zmn4bhj0dtyxnu5nmm5dnunlrkiwbmctou9mqu13che0c0dqyni4zkppqjvtmthqntjueww3cghntg9ltuxlyupfwwrod194evjqyznjnhftatduu1lcsdbkvenine5bx2ppanbucvjlrw?oc=5",
+    "https://news.google.com/rss/articles/cbmi8afbvv95cuxozmzpdzremm1mtedzqkw1nxgzzkzqv0nptkxlt2q5nw96wnjfwvjzavboufu3zg12txkzmu9sou9hywnebnvwsgfbs0czbmjlzfgwcuxhrhfmlvrwow5fmfvlngxvanbkd1fkm3n3rtnjme96egxqejn6yunld2rayniyakvjs1jttuu2wtnxb0rlvevjdjnrahzgedfntwu1m21fswtmmtbdx0xlzu5mdxl5lwrdmdv0ounzvxflndjqrglxyjfibnf2zu85vjbdznq2ufjrmmfzd2tvs1djzgtiaglidkfwaxjtylhosgo?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqbjuxy1luzm1rcgnrm0ryywtrawt0c1ezcjzzoc1rqmnsdxi2znbbbu9ssws4vud1ndnavg1ysud6evjlngxmbhlvswvhwxoyaxa0ow1bvlmxsnrdbli0vxl4tzrpbfp1chbnwgfmlthmmenpbvfwmkjunwkxn0faemmtvmzms25zak8tadhb?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxpuzdwsgp5atlod0nwufc3zzjwbmhpd3yxzfhontatukn1utdtlxvkdzhwavdevudyvuvfsldjafdizutwz1fhdtvcsxjobmqywknwn0jkdwfcx1dqyuptq3vhweqtrko0edl5bgnpqldyoupazjdyqvfjrefzug96ei1pb0rktetjz1h5awd0nwhcwurfc0hjvetkqtvfu1nuym1sr0tdyxfrqxribthvdmp1v29mnwrvdteytjhblw9oef9mqzj1uxfrzdjlte5hukzymk5ktdn5efhun2xyd1plajjlyvd6ckpqwq?oc=5",
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxprzjxmtjmeujqsedustfxrfezzmfpr2zoae02afvnd2rhz0qzwg1dz0lzlvewtwzaahbuywqxzuhvz1f1au8tuzj2nkfjnhnxznvudzzvr2lymkf6dnf2rwrmnnqyrkn0a0lscknpumjlr2fvvnhjshphb0rjrndos2thdvh2u3yyay1ttgjqskktbv84rxftvm9qmlfrwnr6unvvtkgzadzmv2l1tfjouxl1zw?oc=5",
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxndtq0axbymlloy3vvuvniuwq4tty1uluwbtribfzdawjmemfkmgvmcmwxnhdwz1ffd294ofd2ywjrnwdmudnncdvnyvh2tffcv3htsfa1r2jkb2i2vej2a2jza3nasxywwedbukr0etdsmunnqm56uxpfutr3u3ljyzzjtfjwowjfrvfiz1f3em5pqq?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqddnasedzwex3be9mz2zynnvoqlncymtusfj5rhvlchgymljgumfhzvprbfdlwflqc0dmwxnmt21yauvystjsauxycxfzvunhytdzefdotehhvvhyvdbjtta1uw5zm09ycli0b1vrnjvmufdkvkzhrextdlrislfkr19uq1zxs1vjtwxweljus3rjzwlschd4vw?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxovfk0nhbgvmmzm25cr1jscvlrstbinlezmulylwc5wfetwhpyvtdxnzvhckjyvm1nzmptd2hxz29zcnrxov8tz2e5aw1ymfrmthlvy3kxx2diywf0emz1ylhjmlppzjf2ufjoetz6zhh4d0dux3hlauuwuxu5n3lkoupbvla1nupnwwe2uefinxbqstdtbmxyyxdwauvklv9yz2h2mjbfvdzjmxjzwgzqaldocxratxr6el9udjdetmv1ek84wxfcujbiv3cydfdteez5vezbbuv1elvvs01wa2xka256whdotljwuw?oc=5",
+    "https://news.google.com/rss/articles/cbmihwjbvv95cuxnwxdmz211t3qwynhmahlqqnfoqtditunwuhhxt3dtzuhsb2gzcutsdk9fchljlufhdy1lbjdmy2e3al9mqnktnlnflwq1d0niv0dfnfzsq3vquhy3tnrrbklxcnjzum9iuvp6qxozt1k4v1lts0qxamhueedac29pm2dhuy0ttlvsn3djwkxsznvty0pzrg9tcy1nclb1r1o0vf9sq3fyrllldhlstmzvzuv6otjabg9dyufmnl9rquc1z2limlbfz0dxsc0xn2pzmev6nlzjdtm0beqxrwxty0fyyjb3n2nbnfnxbujlugjfntbistvus2rkmwzdzxrjtkljskvvcw?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxonlpdx2jmbwrzd3pxsmfnwmqwogtwuefick9da2lwcfvqempfugpdutztmljavhhgbwpoatkzbutzcvlfugtzn0qxehctnuvkvzbuqk1xbnjysef4ymtjwuqyn1psyk1feux5oxnhwevxvxzkbkfnvth2t0ltmuferwjuzdllawk0uthqmnlvbwxmsznuaknnmq?oc=5",
+    "https://news.google.com/rss/articles/cbmi3wjbvv95cuxnqxz6z1l6odktdlj3a2jnrel5y0lobnlpow43m1l1eteyqldxb3jjb3bubgvkm2pumhrrcflmowgwx25vsfvrb1h5szrjwdjslwrat2hlm0u5rdhunlrulujfy3dbwm11sxruc0piykjrvercqulyrkznzupuae5ownk5skjim05abwdowlr1mdntczq0mjrktznjrm52ne93ee0yzhpmowhxqm9rwlj1ugmzbzq3dnzjtfjmmnlhs3bmyutxetu3dwr0uhbaywlinmppnfq1bwt1zjdadwfstmxlx292vul3ynhyegdddg91qvjjoekyzljbvgfqounmrg9kudroszg4oglrq2ryrtjqadl3ogrnalpvqujvqk5yz2nsm0ctev9ldet6vy1myzhrq2fhvke5q01wlvryoufdwnzocs12y1fpwedlyzzfyvp6ngdyz2ddag1hywm?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnrc03v0ftb2hsqvvrbfddqtzylvg2d0zutvlltzfjzwtqbwnumenha3vwumkzqvbbdeu3dtlrntrhzxqxufnfvjh4wvrnbznttwvjuvm3ewg1z3nxcvrtazzna1iwqwlmswnrt3zvtth6zvu5wfrgc3rstzr1a1o5vhpnmmjbs2hmnhfyn2dzt0yzethmdnrdbk5jv2yxuxhivlzfbko1vnryx3dotw52nxftrufumxq5cxfkd25ttmvkx0rjrdrmvel0xznmcnl5blb1tq?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxormvwb05sy3o2v3q4bml3y3kxz0jjzg0trhn0dnljmexhouplslf4sereofjpvdrpblzpy0ezs2vzdnnrrelqmnf4rllobkdhr0g0tgloszrcmzutwes5zg1meldyuhlqy2xaazd6swthvwgwrnndrtlsazrfnwjtbjyxddhpnzdzbmkzufazouy3v1vxotrqlulbsxixv2vevfo4otlyenjgmzfvbmhhtejycg5hmjzial9trvnybjjqmg45evnrq3hmtzntt25oqkxvq2zrbw?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxouuzjvgu1a00ycg1iqw1jruf6vuvouhbtawp1vwi4wvrmahlrnkf5outidlrlv1hqou05uhntt0jyterbbtfzaf9imhbselvimfd0ogpyrvpkbmdnuvhfmui2wljroxn0x2thzvb6x1vzruffqmpmmu5xvmzrzxvechnvug12rwhdr3rhvnz6d0xkwwj2vnf3tznqwunur04xmjbqn3jfx29nawt1u2hnb3fvy0romxvzszfvstbht2nfu29xwhziz1y4vfhzru56agridnz4z2hrahp6quixdutsekv5ylfctuzarg?oc=5",
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxobmu0tjdrrk1ork4xq2rjzjhtvjgytlrts1hxufjpcepyevitctjnve1euwtfzfzom3juuuvfzlzyrerjukxpeuzrae5udhvoquvutnbhqjzvcvphvnpwelnitnp5z05zatgxmxjnnerzsld0c3llyjg1rtvyzwfunffht09owmvtyxphukfqwwq1whvssdzltvjplwzvci1bn0dvagxex2n6uktjvzzwqvlvdji4zejytza0yvzxwmjoq0hzmdlkcziywjh3tfk?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoslnwd1nvoeywwtjqdwuxntfoumnvynf0q1fzelfgofztdg9tof9lmgfqvugya3hrwxq3ztbxrufrrxbvwghjbk9ia3iwvwdrluluoum5v0jeqm92zknubl85u0xddgpfwvpzceixclljrwllagi4slhpdvfjznbkcet0qwc?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpuk91u0i2zy1xehlubw5xynjucljemvfbwjezn0rmm3h4afnoy1lptkxud1pndfl5dzbpc0hfv3dpa1f0cukwcxg5ynnhqwzmnjdgvnm1eeotm0dfq19pnm94r0fvrxbaswhozff0sm5hagzumgn4vfrwsuyzrgvxtnzjr2c4c1zyu1rjuwr6uju?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxpouuttjhjnxjrq2q5el9vsuutdkotqxrvrnnsv19nbumwsfbvof9jbwxsyjdhy2xxnwdjq3b3luhrsejozm5kzhvwsjrsvc0tunp2zg5zwlvyzujyafywelr5luxuvna0mtk2yzdttjhem056dlhluum5vlvidnfbow9gmxznvflhrvk3ykvivhrguk41wvppmdaxyi1ldklvrxkwtmxb?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxpsujuwmrqzwrqt3fsnl9hr3lpm2htzuljwlfsqvm4chzraertovh1yutsq2nzwvr3r28xqm85etdwq2pdqm5dbhnsslrqx3lqrzrsrwjhaxlzmgd3wuf3udztruzvovn2bxntc0r6sk4xuzf4tvjuoxd1rulrdu1sutjlufdawgtar2thcgewngtkzdrrbm1cmzzen3joewhxtm5kmuq4z0fqcdfyzjd0n3norddyy0lns2c?oc=5",
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfb4des4mw51nuhwexnuqzzarkvcshpxzkznr0prz3zlwu1tqmjztfroswtpoem3tmxkctjfdevmdhramffnntvrt2l3mmkysjz2yzb3amq5uho5mgzprfa3ltvuwhbit0vcrenlnufkmm16sv9gyux3q2norjh3rhc?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxpq1jlzmrys3u4edbfa0fbc2twnetplwlyoehln2pjbkftme5yuxaychvsq1jpz2rrz3f2d0twwlr5q2jim2rin1bpnndodxq2b3pey1zalw50yuzvvffrtnbtz0zky0xatldxejdtv3lqumg0mtnwrjdwzurlzhv2cu5pv0pvumjzr0ravjuynmy5tedsunltbvfltjvyq0lxyue?oc=5",
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9dbs1pnnrmcgjmv0jsdkrnrkd0x3nmauowq1vbbnvimvdquu5klwdfrwpmynzlyvrxuvl4rkzhamq0udbyshdtevroszu3xzhfnku1qmrfq3a1qujolwdwowhetzl5v29dr2nfx0p1wq?oc=5",
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxnvzrotvdsshe1dy0xufv1rnzezzbst3jrvznluu1mv3r5ltvtugdjbxladm52dwdhwkjgvxiwu2vvdmjzrhhfef9rdtjwm2i0n1lwv2z1x0xzegyztu10b1vic3e3v29wcuppsurxvjvrwl9uq2ltykq2a3gxtxvkm0pwbnnqvxi5sxffsjeyuxb0dl90bfmyzvlztm9wwmhbtje0u1zmbgnjzezxvee?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxoa2plwwjlenrqyy1rai1my2tcvknzulleexzbtzhhoxzms0ncsjlgulh2yvcxrlfkvejjn3d2uwfrugxmtw9nwvf6vgfcckfuvkjoww9edk5wmtk4vgf2n2r3bwpqum1mlwnywks0n2xtclzztjhrltvklvd4ng1xcmfncnbbnurjzm81ulytmgnkodbhoeptz05xlvp3szg4u1mzawzgmmzwykzka1bcwuvqsluydtvay0hsabobqvvfexfmtkdkrmk4b2fozi1sm1a0dxezqxvwzehoukrxlus5uzjotlzpdgtvn1pwrhzavwtyagvablnbte9nou9rnjjtmy1qbu9ex0wybjj6uvzptevbwuyyt0u1svplri1jdmdub3r3wki1ednxc1rublbqewpoce1yvwpwrnfhyvfhmkdhnkgxrnjjcetpzfdhue5wys1xv0h5ulnkwkzyednrvkpsbe5bdjlfs19swnltu3buue13?oc=5",
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqzeetturuqm9lbc16mhpimuhnmed6vzrgovbsos14ntlrmgzruthswetmejrhalhhtetjwejrqxdxufz2cs1vqjfiwki1sezlnfhwq013bhftq2rnathlbdnseerxbunuz3zbckvpumtieek3bjbudxe5dk91ue5lvuhyswkxnmnsqwn5qk5utjdmz3h4ctzzogxgbwdlvfqzala3werxxzndmjvir0i3n1hws00?oc=5",
+    "https://news.google.com/rss/articles/cbmizefvx3lxte5oae9tt3m5a0hhu1p1zm92z0h1rhvkvujqwuvmrdc2dhqzcznqveg2bwvrt2fqufhdy1bldnhfmdbdmuhqevhwohe3y0lvdudwzfpzahdptzvceuxbrffuv0zqdve?oc=5",
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxprzlnbustbnnyukk1mg84enfscnuzdxezm1m2dezyc0hptey3ctvwn2q2aktmohe0effkqmxerzb6twruwxn5owd1rjvqngxrwlvabglumtzbm2wwzejmdnnpnlnnr0dhcncyeu0zszmtcs1qukn1a3qzsmztb3g3qjncrvruuegtdkdxlwjav1fiwe9mc3f1mfnpbhztcw5xwg1tcdm3x2exd3vxt0k4zlf4v3n4c05bzfr4svz4y2zvovj2aup1zetwclp6tnbocnh0mflzqlpuyxm?oc=5",
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxod1vowwrlanbmdxmzqm8tndznnhl2lth0ytaxcxbqs2hlrunlcfzwnwz0y19lskz2n2hqtexvluexzgpsc0ldcu9aegt6ajfydhcwm2lzyupicwpmvvpfuznquvl6tdnbx0w4qxhys1m2b3nobtnhugmzthhnae5udm1uqnbhztbuni1lx0eyd20wndd3sfvucdbqs3a2alllbi01tkjzy9ibrafbvv95cuxqdwkxahbudddhd2f5rzzsrxffs1vmtgj4beoytlviujkzsxj6xzr3qlawnezuvkzcbedrm0nny1gzlxvmwwn0zxdavlpumhpfnm5ryi13wmxwnxfrs1dyajzpckxqttm5wdrxcjhma1zvs0jlr2q5yvjxngridmprshvrte51wlvfsjixuuy5vxe2revfb0drehvxreu2cdu2cxrlefr2vhfsadfm?oc=5",
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqrnhxlu4zejjqdvvxwunxbhfxvwljtkrrlve1dzhmtgvdyky1bujetxvyevpzemviahzitevsogzlcup6n2hodjc0ve5uu05yqmuwwuhzve92yxhtdfhxz2zguvzknutkodjtu19mnwvkceotq2xhbw5kzlnenkjouwfwwjnbevhhnnpdmuo5z3zxy0rgtehmcfdsylgxstq3nnc?oc=5",
+    "https://news.google.com/rss/articles/cbmipgjbvv95cuxoejrgt1r1dezjlxytuwwyyvdatmhoq1nuwgvtanrrafk4tmftzhnzmennnfltn2xgreiyunzwmnhmbe41ekw4u2pidvf0cu5wztg4bmp5nllfcei4dwwwenzimhhjtf9nm3dycgsyttqzsldhwfdom3n6y2nhem54as16revhlxg3ce5wyjy3munlx2lmwhlmqjvzz2mztuxoyvfwrwfxwjzxrwjhse5nwvframrfnm4tytr1mfo3ou9jrjztvmttefj5snpwrueybdgzdnhim0rlzevjz1jjwvlseewyml9um1cwajjsrgppmerhwgdvrnlumdi3ckttelfkrtmxodzytvattv92dlvnvlrwnwr5vhjgwtvottf6dkvdtfe?oc=5",
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxodjvsdtnvt2hxmuc4nnp2edzgt1c4vuxvu25yq1zwwtgtyvkzrjveenzbnzlpdfnnywdfsnrlms11bullede2rvjznw9sdvvfbgpiewjwmfbun19nwhl2lwxixzk0y1lxcxzctxy1b2tnluloeddurhu2z3nym1vyek1pm0rpzwlhtkdpcjfkrty4qjg?oc=5",
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqr2v6z2zscxlss3j4zxawrmixrlbmudzxaze2ndvkmedtnhrndhrkmu9uylpinwlothffvk05d0q3rllhmkpxmzuysnfnnzrinjzsy2rxbey5euptnmfsc01ndkplzzgyend1y3vlsu4zu1pimjzdmhd5qmpqwwfkqje5elpacurnody3qxe2nvywqxrmmdbpnlhomvu2qq?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqd21ydvzknjnizc16vnmxmexabll5belvwu1ks3nnofjinznwotrmqmg4cw9fq1hsnjdybke1qxg0t0pzz2rydflxsenlukdpahi5ajbrauzmelpwz19rqjzqutg0re1uq1pwaxe1rg8xz1zyngt5we9juhzwwklty3lwzxhrzhzvtxfgtvdjcvdoa1nzbke?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpbfnub24yenezudbqdm5xz1jurdhnz21ztk5qefpbt3ltng5ctw90uvnwnwzkc2hhtel1emy1uwticlaxy0dyv2zedkzvoff1bliyqkhix0httnlxtmrnyvvyuevzavnfzwdbmtvyundgaethsvdcmepptevsbwdzu21urkjhm1jqy21ms2hsv0g?oc=5",
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpug91vtvsm3qyckdqdhhnx29boddgwfjfc25mvmf2ov9gqnbichl4t3u0z2o3mlnkbdb1lw1vx210otvtmwheehbtmxhzn3dhu2lnzjl0ufnjeuznn1zed29pwmljcwh4wes4sxlmvnpfavyymvrydhzvekuwsze4yzfas3rmaevyrwdxmvjqr3hrv3retjdnsfr1qu1uyuzzy05nzlfrq2hkmk9ktlfry2ozync3dmjymdv0zu8tmk5qszhbbhf2rlrvejlmqlvpwdvnyq?oc=5",
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxozghjanzpm0y2afjmwvr2cmo2lxzuzhrvcf81cno1eejdcfleeueyvmfitke5alj0ckhjwwfaeeh3uk5pavhnt3j5mfhtckrjz2zfvglgtfuzwmmtbjd6d0n0qwllmw1pnvpczkyxew9hn1fvcnp1d2fnvehrtmxunwnotxzxt1nxluxxmw1wywxebmvqbvprcuvyvmnxswlwukl4zkmtemhuc2dhamhinjm0nnzdexc2utrwr180yw?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqa2dmanrzx1vqyuw1rfbzyv9jnklttufuuvvjqkp6umn5bhazadfhnhbvnla1zwjxbdr6u0d4zmhfvm1zduflzgdcrtlwefhkvgxpejrvrjrrckhucnbatgfotfdwbwzwvvjxx3fxb2xwaklqbxj3wmtaqxnnr3vplu9cvw5javpxqzewtk4twlrhnjfisdb0qlotsuxqavnczep3azdoqwq0thnrakjkr0c3r0p6t1vjnv9obwljbc16ruviymt6r3poz2rllugwrddywxrzsunlehiwzvhobwnkueutdeuyow81r9ib8gfbvv95cuxnblfhntd4aehpsdlqc0dwsktomg9kmkxmqjlzclu3swxsntv4am5evuvjzti4nxmyy0jnluuzal82eghistm5u0e3oxdam2pxnuxxxzbwz0njx2xtx3bfnvdlthfubggzm0z2akhibza1nnotyi1tcnhozze5tmo2lwvfehhlm1bqulfclu52rvlhzmvsutb1rjhssfnbx0fka3nfunf2n08xdi15y1pjuf9amkhyq3e5btjiaxrlbmvomdfhoxhknlnvzjnzajriwnl2djfnqjhku1zgexppmtr3nzg3azziwndaew16dfk2qq?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnbfjzttb1aevqdvngvkzxnmrtmwe5ctfwckgyzmo0cgnecxrdnxbneutndg9ndnffqui4tfjhdjy5vvrxqvbhrwd0z09fnuzbsnbanwrxbez5nhhhvfdhckxht1ctcgfkdgrbq1u3m29iaxzku1fmdzlgcml4akhymlntsq?oc=5",
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte9tujdrtjlzvjzjb3lka0hwtkvvznndq1o3ymc1tdvdvzbezuzqv3nqduetsufxvjfevknqtxfxtu92qu1stuxpttviwjvjevjxqlpjblvvegj4tfbncl85dmcwrkzxaedleedvbnrhnzv2n2xwdmdqdgl3?oc=5",
+    "https://news.google.com/rss/articles/cbmieefvx3lxtfaxt1rsd1oteefnyutgt19hbfkyny1jtfkzvud5nwgyr3m5ajrgqwpdwdutywprn0pyd2zyn3u2z2d0sfruvtdrcwf3qkrmmnfzcevoedfwzxntvxvrbuhjnwxssmpeaejnz2dowuxktvvxrfdmykvkyg?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnrepnagfbvnk0dldkczznmegyrvvlvmhvx3u3qkparfv3t25nv3otlwjnv0nas3nutg9ystfjdek1cko5quhuswhyq0zlbfdwczdhoxfzqkvjqvjbnzkzujiymme2d2zlazg4ohbjyuzxq3rkd2x6eu9tunjuyu93y0ravwlzavpxt3fosjrsna?oc=5",
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxoa092etz6zmsxn1vks2rcykztz1ftbxrmcnntr1vfvxlwm01kbnpnuvjquv94yki5udy2zwntm1zjtjlhbemwznitukjex1vgskhtoufubwi5wtzkoxlnbkittxblve1ju1cxeg04uutxsf8wq3dscfbsd0m1b2pinutks1b6mmfdn1nhlwhfcwvvruxodzrn?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqmw5qwmdqow1obnm2dwhhbetrrlfvn2lwmu9tvfnmuvp4a18xrnjzbzjzv2vysg1xrjlaetfqzffkstfmmuzssgpqnnjmymj5zwjlbtdum1hlbexzbupfdlldyu9in3lztulmvktoyuxnx2pkwfrztlvuwuiznxvqdvr6dgxobehqt3i1aus1wwd0wufotk1is3h1evlibmfga29uynpfvgi2bgtta3k2amgwtfz6m1dtnddtqlzzbjvnzg9hzdhvthg4x2lrvxhvmjzheuxzskk5agzntwjvm1fmzddpsu5sd0lfanib8gfbvv95cuxps0pacwhntertzvzpyuneu0paujgtd0kzmjd5atfsc3lqcnlubwhvovr3dkhlce1rnxv3ac1oumj5y05ccgpqvhjiaepqufbxdkvmse9pctqyzvlnwfbftxrlq3fbtfoym1vxzmzoblnongr1tdrfz0peqxutmnowuurvywpgnktoafnpreo3mllytxlnehriwm5st1iwnxo1cva5ve9cbw9dywxytzfzt2hkrkdqalg4odr0avzrmepwckjqtwziuzfjmdzozlhqsmvln1e4ck96bnbmwvrsevbtrklwquxqnvnsm2lhchd6dw?oc=5",
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqbfvxngldm3fwrnvweujwqv9moettrw1wvwdsqwgwq09mzwfiwgvocjvknuytrjhcvuvyujlsvjnsmjgtvuztwhc4cjfyze14blblrjfatkdrvwfzlxfzdg5ittfqagzinei4tkuyvfjou2s3zw1jak1wy29jrthhakxomja2zdnjcjhwx2q0mlltouvmmkvhclc5y3fbng5bmhhsmc11z3frckrta1yydtvvcdhaada1ouruyjvowgzdzufiwllcc2tlbeettmdnwm9ynxppdhnkv29cnxfwzk9pr01esm81rwfqvw?oc=5",
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpenbitw1rzkpks2naqm1lsu5fv2lrshnncmpytlhfajgtev84xziwvjdpnw1doxdxcfffc2vutdrbzvh2vejhxzkzn2pwbethrgnfqtvsswpqd21oedl2ce5hztvmcw1rulk1vezdtgpusku1cmtqv2h3nfdfmk14tfjwamnquupdefm5sffb?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoy3fkyxfrquvav01gmkl1x2i1ttvqytflvlbedhvmano4m0zwywlun1dpz0jqunjizvbnyuv5s3duvmyzsugtnufmu1j4s21nn1ziau9yc1nhei0zve1hmmrbzkd3r2himhhavdzkuhvnntjtujr6wehfte90rfzzzhbkzkldrzdtrtficmy0cvu4ttdgvtdstut0nes?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9kn2jpsthmry1ivna1b2jmt1o1vxc4z2vybunwcwtwwnrteuramzrkcvvabzdvretnbge2vgzvutdnbwu3slrlodeyx202cjztdthmnkdum19uukp4anppehpjv3hiruj4zna2a3vkrfnhs0djnlbxd1zxrzy?oc=5",
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5mq1jadgt0tmm1whvbzmxcovzjt2p5weruuhhosc03bglptvpomglytduyzmrhuzzlvjh0mvvisznsstladkljetnir2t4lundnzk4bflyofdxsuh0rwg4tflfq2lvcjfautjockg3vzftvzndvze2yupac1k?oc=5",
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxnmldebut3bwt2wkw5tzdptfnmewjlb3r0oelmdkm2bhvkmugymwdscxjpngn2uxdor3rvtfznd1bsvg5kwljuakptt3phu3rvyxbxrmjteeljmjbfnnrzrfvqrlrxwlm4nffntkllbnbwz25rtdzhs3bloel6x0f1rnjqumrqcdh6qtdewly0t2vlevlbbuhjrzk3cjjuq0cyqud3qlzznkrfuxmybkl1vdzjrkzvs1foalrbmnvqnfnjsmdyblg5nxnvvzbdqdib0wfbvv95cuxowhptymvsafdqq2fxbtrttnk2bzztsw5aefjgyxdudfh0agq2q1pocgrvaxduqtrlq0nwsmnizlpmswh0ek1pzvjiae8teer0t2x5qldjbnjhcvdaz1y5uxffafzorhzqrkxvcuj6de1udk82uwterextt3dyamxlywtns3bureponehyallkcgrbrdvktwrxr3k1wllcbjdyb2h6qtbingrwzfq0ww9fugv3x1foqs1lexljzzrsbvvevlzqalr5zgtgwxe5ztbwbhhz?oc=5",
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqzvkyd1y2ovzwdgxzykfndhpeyi10wkjpvzb1txm4ujbmzk9vtw5lzdhxowzquzy5dvdqauq4rw9nvwzkvnhfovbbdxbvu19sx3hfynhzouzpbnhonnvhrxnks1d3zc01dwfmd0ztzm84bzbyngjcqzh1a2nwcmnpyxbmujl6swfsm05fsvuybgvrsvdznfe?oc=5",
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxqme9jaxe5sgpvqzbjr2llmmthulf4zxbmbuz6mupsa1r6se1ib3pnaxryslnuujnrsnqtdgo0exzwawkyzlpfquv2adfknne2btbxmwdxdxfqr0d5y2ttrzrwren5uthaagi4ewxsov9iqkw2zhgydlnoz0w2qzfxymzjwlh4x1vfmlytoezrnek?oc=5",
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqa0dknxz0sdnltnpqynl2rdbfbk9aazhzd215cknrutjnv0ytam9hy3z6tdf2yxj2c19eyvvsvtfwnxfyeem4dg5rswjsuxbsy1e0uha3am83x2raberfewdks1q1tv9qofzlwenmcgpnt3zpb0r3tkveqlfbvwxkmgjjxzhymzdj?oc=5",
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxomvlryjnca1m4c1nyms04vtfswtk3c2howe9qmnhpbi1en3f5enblyujru0lnwtlyzhpkdtjqqmfyzulcwjr5r2phzjuwa18wwllmu2wtuwlxmxbry20wuju2audfwvjvvvvcu0qzng5vrvlasfbqtfhpwlhfc3ftzu81d3dqdwk4rmdaqur4s0tceg1zlwfyd3n2nxzqywnvylzwchdtzunisk52tlrmuzhzvl9zmw51aehsab8bqvvfexfmtk5jy0y0rdbxwxlzrti3alh2szjramdhqxpxewjszthlvuxvbc1vatlmltrwuvdub3njdlp4s1nmnw9pwurkzlzwltu1a1leektbzmr0nnlutzlxvfh4zllkmm5mr1pfa2tuylutbfu3vwdcowlqq1qxag1ysfdizdhydudzv0fvvtruqtrjd2rrq0rrovn5vvnia0jtogxrwmmyatfbenpkcu5tvku5oezfd2dvndj4rwu3evlxuxm?oc=5",
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxnq09qtw5jwxlwelpxm3prcxfjnnvtaerwwedcx21hwenrvmf5tezlae9eenboq1p6bxznrte0ejv6b1pwchbjduleewryx2d4mw9fny1lwjh6szm4bjbfvgzsvmqxcgytd0nrluvodmfhc3fivdnfwfdsrvflredhqxpvsy1azhngotn3t2k1v21hutmyqkxpzjziny1jrelfzuvfcm05cdfrujdrq2owvkt3ognuzno4chjnn0c4x0vlu095c1vhue1hv3l4uxbvzkpkqnvwulk4qtq0wkljwgvb?oc=5",
+    "https://news.google.com/rss/articles/cbminafbvv95cuxotvfsug5obxnemxzvmgh6cvq0vlr6yvdnbzlizulmskoxdhvvz25gnehkz2zxugk2qlhxngpfs0ruelzwu0pfluviedqweu1fnedov0m4akjoy1nhqndmx3g2me1ittfhb0rkdmhrcvbtnk92efbfs2o0r2dfrjvbvwnbsnvheeetzwuwdg5qz3zkd3jrs1qwzehbwfa?oc=5",
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqq2f3dglbz01hyxzmutrxtzrya3izstvybwdaaf83vky3snbhbzq4skjwrejvskqyvdfusexwyjnyd1jidzric05ibuhiuha4bhqxrlhmt2t2dghidtzzqk9cq25xmhndwe5omtetmjz0zk01rmzzdvh1uwjldxzscjvcv3vrmmpusxzlr19jz0jsczzoyndnd1jirxnuqtlmsf8yoxfb?oc=5",
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqz1m0c0nxnlfes2tnugrnwgfjqu1ot2jrynlymf9nwuhjm3drve54sljjt1fhtc1mn2f0cfzdwkhoztnta25ummkxym9xwhvyrm5umnbjre12dfzlulhzzuvdenlyotfrmnrrtutsnfrdv1rwvwpfu05awklxb0nitjfpmlu0nhbrske?oc=5",
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxqdvjoshvqalphbey5qkp1rkntampkr1h6z2donwpbbjbfetnlawnbrm1qbzfzytdwwutxnxnrnvpot2hqqv9xdnztvuppz0flx09odelzqwxxdwvurklmqkv2sje3ohhnqwj5u05pamxaai1isehtmln3x055nxdpr2d6ytftzhq5enjma3oyqw1zaknyag5cq0lfrdb3redfcdbgbuhvr1blrfryrll4bhp6ctjpzfh2z24yx0pqrde2qq?oc=5",
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxqqufmcg14rkf2muzzu05jdv9an2i1bkrnlupjc3iwzwvftmlurdrbunfzbmhlqlpzdktiti1vuuronfjpymzeazvork85twzzuk1tag12cudoytdlrujmq1vfmhl2eliwmldny3pnr3e0weftx1vwul95yzjar0pod0zfrvhysg9zduphuthmuvhaugqwblpfbwzyvmhwa2gxu2q1wg96cjd2cmd0qvlvcvnmdhhsse5ebvm5ymw4mex1cmhaadezcdhfaxjhz0pewfg2q3l0wq?oc=5",
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqtelsn045nuxzbnhhms1mdtjnqu9za0jpz1hidus0ewmxc3dxdjfiexpwr290skg5lux0yndmv2xzqtvhcnjzmk5dblvqnxnktw9wrvpormxfnzzkvgznb2gwr1rstff5wff1twdhx1j5nmvttly5yne4re1uazjwuevevq?oc=5",
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxna1rucmqyzty3s1cxcwflnffwzuvvddr2quz5mw5qtenrdfz0mf9gevrhcdy5wunucmw0rjzqtxjnmfpvt2rpqtfktwfnqwhitgpzvjuyyvphu1g3vjbxyzd0cznmvf9pvgrsbdmwuxbovnn5djlmcgy0vmtqwmvbaw?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte00lvo1qwxwyji2rnyyr1nmumq0q3f0cfz2lw40rfy0nfnyd2dwaeqzvkzavfpcmwzvrjnqvwlzv2nks21ycwcwcedrazbjtufangk1owlorg9pdvhlbmvvbjbwt3dtvwgwrjbzwtdtz1g1cdvtx3c?oc=5",
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte9walv3auvhautnoffutdnxou9yyxbdulm2dgr5oepfu2xouwjhym1nutrpyzzgq1j0dk91unhjzhpmtkq4wv9samnnyxrfnwzdrjrua0haall2nzddqjrhwxpfthzcul9kbkjvmm93n2zosmlyuue?oc=5",
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqzvnsavy2rzv4dkdgmlfoy041mkvxqvnlwvayvwlinmmwd2puawdxwvezcvdhewh2v1rpag5xvktmuepktfcxluutn0ltttg5bnjntgl6cjzvs0fjbngxu193bfyxz3yzlvpfcwvxwupnq0hvlwhmr3jfynlvee9qsexycdg?oc=5",
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnbgpnthppuzbmt0xocgnfujdtzdrzogflmhzdm1n3bv9pv29nvgy4zmfmcw5mowrcem83uerdvvflulfxn1c2bux5yu5jb1b2r2nulvdbtkhntdn4rhpxywt6qvfhqvrvaw5yc1focjhvsednmtvlx3jwdvdlmwfuqtrhvnblzf9nelrwn3k1mmn0u09bwdh1cq?oc=5",
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxqr0jmmxnvcxdkmwe5mljiwwtmmtdhmlpqtzzvwgljb2rmv1fznu1kduizoutqymswr3h0vjlazdv0d1vmcuzda1neuhzesvcyadnfbunteuzzzwxickhgv2d5zgdutmnxejbhelotvgv3blzroc1hddu3bdnkdl9ryl85muljlu1amxztnvgzdtvrvhh0mgpwc01aq1dvcfdgnfnftvgwnmxfuvpbn3nnnm1yuznrzen5ehzdqtngnfi?oc=5",
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxqb3dqzlntaveyeerabdl3tmlenhfbcwx0lurnd1hyblf0lvjmow1omkdczfnuamftqudhrgfxamstme9ntevuwjlwzmnymflnz0h2n25pu0plnzzonwqzc1p1zwstmgffml94nl8tr3qtshbkc2gyz00tqws5m0hncnhzwfd6ywm5awfyev85bwxas0pwdxllvxbrqkjtvex6rzeyeerob1hvmerydjfrq2jvbevietfvuxlzte12dkqynu1zmejmcwjnsknzqq?oc=5",
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxnn2rfvuj0veq2wg1vb05dr1fhmgi1cvvdowjktvjurexkblfsrhjxzvbprvfya1b1rxzjsjl3vmtpcezymuzioxjewjlhektvx1f4t1v6ckrkx3p6vzq5durizfzywwtiblc3bnr1d3nuckr0bgxwtu9uyuzpdnnqshfjbtjjwxzwci1lmwvmqxjldje0ylyxzfb2ls1gczvlogxsaunfs1n0nlher3zgtez5ulrpdefhv2xmr0zut045cedx?oc=5",
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnnuxly2xgv3rkzkzdmkr2nmf0c1f4mmfnywftemlxq1zdrmllx1p6oewzmnpttdzloxvfsdrpm3f5z1j3bthyegzmme55cmoynjdkc3vzwmtrql9clwzrnljfwlq3xzdpmdrmwxuttje3ewlxohlowgjuszd5ve1kyum5nvo5dknxoghfcgczvhncddfgmknubna2tq?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte04zwvzegleug1zq1lamzvkawwwcutnzkfzm1k0mzhrm1e2bnzmdtc3dethcmq3qmtju3bqddzizfdwefzfnvftblvknw9oyuotd2vcmleyzjhgrtzfm1ribznwttuzcnlrtejbnzn2a1vbr2fcrtnf?oc=5",
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte1wdg9ulu5meg5fujf4cvg5nzm5bhytdtlfof9ptfetqwhbsedpem5mmzdhnxata0zvwkzvnfdlzzlbzhfxwm9jnwltqwlqrvqywdnvytvqefo1alnevgxlznvheetgtkhycnryckf1zedtnle?oc=5",
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5kcnq4dmxaslhbczdozvdhs1jzevhvn2zssmxguuvgvv80y3hwbfzjbxprtu5dawy4dwdfmfpuvupor2zhsfu2x0c3zlbcn2owtmfizgxdmux1ohnkdgjdogporvrtznpuwuxwx2dbemt6yjvxcwk4?oc=5",
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnsll3oxlzou5kt0kxnm5ozfzxn1hmay0xt0fny3pnnwvmbdztvgnivldabfj5vfbtevo3rzi2vnjwvznwavdhwxixn2ltlu9xd21xnvi4tmxhejq5cmjomedushvjshc1mndarglxohczaw9wt3k1txliykhttwi1vnvyyxb1qlvznuiyxzjaoa?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpanb1eufhuuribgdjm0djz2j4wk9jeu9hmk1kugrem291ng0zrguwmelrdzewwvvqws1hs2pzz2p4uw9rzem4tjj2yty1by1ltjjiajnxegqtz0xdeenfclnwyxhncwdgwhj6dvhszm9ktwheq1hda1jhbjiwshzuu1vkd2luuq?oc=5",
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxps0npv21fudyttufutnbndkttohu0bey2zu1bazlslwvsn09xahfgmhi4sefzohprqwp2ohbdb2zxrnfjcnbszvvvqzniukh6yuqzwmfwss1gn2zrb3joze90ujj0mly4enjosly4uzfhbw1jqllizmjjzjduqwotwhhfova3uq?oc=5",
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnm3hqlunpbjc4zmtfnepyc0itzhzfexnhuejwawxwmddkyxr3a2xzzxvtddrmoeiwxzh6mkjkvtdfoc1zueq1cta5r0e4d1bttujwvnh5tdvgy251a0fhu2rstdlub1lfa2h5telnc0nmn1eycujoavrzaw9wsi1ythq2zgfttm54y3bvuglvr1joajlomtruuu1qamhcwklmqtrzbv9ingwwthizz3bhuzvartk1rw1kehjfzlpzvuxvtg8?oc=5",
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqs285ztbnt1lcb0pnudb2dgfyvzfsanvlvi1fdvvjsfdob2rkvtjwrnbsek5ltjdtt3fpvhlfrvzidwlqq2e4thvbrlp5uldtsjjdqvzzstf5svc3n2zxv0rwv0rletvpbkpbevdmmejdwml5zmrrc1vcsmt5n0zjb2ljd0joq21dakuwamffnhe2zfbkqnluy3j6c2lsowytckvn?oc=5"
+  ],
+  "metadata": {
+    "https://news.google.com/rss/articles/cbmioafbvv95cuxpymditurscgrlzwnitlljm2vpunpncnvsmfh5surbbunmrxf5wexkn1bzzhbkyndawgqxytk0egptqi1smgc4nnnxbxv1wghmm2pxz3d3vflhx1fhruvdmzvpts1fs2fxndfxmzloeevndvffavn2z2frzw5gaejjd19nuenwd0pebw94uu5wmhy1a3n1rnr2y240vc1sm3h6?oc=5": {
+      "headline": "TSMC (TSM) Expands in Arizona, but Taiwan Draws Limits on U.S. Chip Shift - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:36.988085",
+      "last_seen": "2026-02-09T21:48:36.988174"
+    },
+    "https://news.google.com/rss/articles/cbmi8wfbvv95cuxnn04wwkpqde14smzkxzfbwkl2bmfobxzpodqyqjlrzmdnovrksjnfujlkehh5dwv3bxkyddy3ne56nmtzskjurm9sddvubzbky3hwqmmwbws5ylazstd0wni2mwzkekytcln3twm2d2y3ructstndsmx3sgzxcmewu25kuva3qlvmbtfjc3zmnvbszmlwce1hu3hst2heytyzt1piq3nobdvtstffvdruedezvjvtmefbam5owlnltujsrktyqxveu1hsa1zlm19bczrcvjcxzgtluzfpmnvflwplaxy5nwdynxm0rwphr3uwctq?oc=5": {
+      "headline": "Nvidia’s go-to chipmaker TSMC sees revenue top estimates - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:39.958681",
+      "last_seen": "2026-02-09T21:48:39.958692"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoz29huhjxcfnoufdxr1vvqupizgj0mgfumnq1wnbvazfxodlqbwjfv3m4z0d6etnhze5hwkvsce82bgjuy2dfsfn6wwnovdjwb1hmn280qv9iznlnqlvlyvzeogxrztdox3pyrwewem1dq1nyy1vxujdqzmhxu0tvbnzrbuy5d3q0wknquuttunbdveppvdfjvhcyc1y?oc=5": {
+      "headline": "Bull of the Day: Taiwan Semiconductor (TSM) - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:42.698035",
+      "last_seen": "2026-02-09T21:48:42.698048"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxqtewzmkxzv1rjqwlym0jjbxncb19htexlam5zymp3rezymlpmqjdgrkn4dvpwbvlzdtfbd05refvhcxd6mfrqvk9zwmjvwjbjlxbqrkzoy2m1mhk2z0hhu19osdrfsfl3v1m4yy1ivk9kru1kbjjitlayty0yatznbjn3nhhmotbpqjhna0tfew5kwfflm1vsrgdduhpqotq?oc=5": {
+      "headline": "TSMC: Semiconductor giant's top management meets in Kumamoto. - Agenzia Nova",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:46.043263",
+      "last_seen": "2026-02-09T21:48:46.043291"
+    },
+    "https://news.google.com/rss/articles/cbmi1gfbvv95cuxnqwhjsgtjs1iywglnshp2ahhsb0t4vgcxrhdxutdknddmzlrmseq1smcxdmpotvhslxdob0m4mfhtt0nfaddomlbssmr5u21vslhuaxm1nvfowfrmse04vtdmr29mq3pry1dpzwc1swtusu5tcudzlvvonkc2qjhps1rtsk9fufvvc284nknobkvfne9ubnpkbdeteuvhc01gngdtue54dxjkouzrvljqmxltmujcsepaqtnsdxoyr1ettnvbvk5qa2vidxzjtwuzburkckr3?oc=5": {
+      "headline": "US shifts China fab oversight to annual tool licences as Samsung, SK hynix and TSMC gain approvals - Astute Group",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:48:49.623335",
+      "last_seen": "2026-02-09T21:48:49.623348"
+    },
+    "https://news.google.com/rss/articles/cbmicefvx3lxte02qlntmvdwqjvzr09sq2nhds13swtxsmretzhrdkv1z3plzfazsmrqatnztwewb0pmbueynkvfdfldnvnkzxhfutlyrkliwusyzzzttkcwne5gugzvbkq3azndrne3ulzyszuylw91rwy?oc=5": {
+      "headline": "US plans Big Tech carve-out from next wave of chip tariffs - Financial Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:17.597767",
+      "last_seen": "2026-02-10T11:12:17.597777"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxoavbxvu91m29sdmo0rejprzzsofj2yvdyt0k4sdbvwxrcyvu4tjjndthorlfqdu9zbehwr1i1dkt1x2t3zhpxvv8tuzbxune5zujelwtimwfhou50wmd1b1ezslf6ttm4elhxu1hlu1zbm1fhyte2ceu4ohjnq0s0rg?oc=5": {
+      "headline": "TSMC 3-nm Upgrade in Japan to Catch up With Demand - EE Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:20.675015",
+      "last_seen": "2026-02-10T11:12:20.675030"
+    },
+    "https://news.google.com/rss/articles/cbmimgfbvv95cuxpsxdvd2rbdgrymuvhcjzvuvhitk00de1wcu5mtelwyvpbctn2umx3r2xamgnrz2zwswzjtuzzmuqznwlgdurmnvzzuv93qwphogxfcvrjm3u3mdngmfdzcdrmd1r3zxp6rgxmxzhla0qwvufqzndkbvy4tmy5elfvyzu1dxb6ufleuzd5awdgahprlxvouu1wy2f30ggfaufvx3lxte1qxzdjztlnmjhornvamulwofhpnhzszghwyzjnrs1wogturtvpytfrr1qzohb0cmfhwnvru2xja1lwtulnvvh2cervnujueu1lcndynm84ty14cvjev1h1vk1zvwfiowxqwmvuduh0zfpxdm5hwgjkyvzyekvkqzbzr25sltzca0qxrkdqrnbftxkzthixufg5x2fjskhmoa?oc=5": {
+      "headline": "TSMC Reportedly Spared From U.S. Tariffs After Mega-Investments in Arizona; Chip Giant to Exempt “Big Tech” Customers - Wccftech",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:23.630955",
+      "last_seen": "2026-02-10T11:12:23.630969"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxnse9zadblznlxdf9lyu8wvdruwuc3m2cxqkjlwurxqxn6r1fnsvbvvdzhamzmvnrooxg0vlnhrvf6melbvnj4bdfuce5kwxpvnknnx2r3u244r1jzt2trqklncdnrnlrsyxnkrhrsdw1fzeu1qnzlwxhpaed0mknzzejyvjg0tjnhr3fmtw1b?oc=5": {
+      "headline": "Amkor accelerates US expansion with Arizona investment and closer alignment with TSMC - digitimes",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:26.650813",
+      "last_seen": "2026-02-10T11:12:26.650831"
+    },
+    "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqqlhtvwe1nu1erzlpodzbalhmtfrybwddotjdquxkrfbyahrtuzc5nurfx1jpltjvckxldhhvauzmbnrmcdd1tenpmvzgdufzbvn0sufvqmp6ewnttmdjelp0wmvzz0xxs2ppzna4bwzax1lyywdmogp4cxdlaxnzvmd4c0hvtjzfrgu4ofpxtlj0wll0u3nra0z1elzhnfrua1phcnf2wmr4cmzyqlnrm0qtbc1fskp0zljcvvk1zzk1ahayzfbmmnnnbtdmt1hmsle?oc=5": {
+      "headline": "[News] TSMC Reportedly Set to Shift 80% of 8-Inch Output to Affiliate VIS, Doubling Its Capacity - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:29.711086",
+      "last_seen": "2026-02-10T11:12:29.711101"
+    },
+    "https://news.google.com/rss/articles/cbmijgnbvv95cuxnshc5bvq1vdg2skfiakjvefywauvgmwpjnf9qnfp2zgg4bhd6a2i1duvzynbjvkrnenfwshffmgc2n2dcbvplngdonxlhdujnm1gwc21rykp6b3rxr3gwy2pwy3jsow1oa3nnbgfumktmx1mtuuxmnfrfcutjnvjtntzwy1b5zf9rrfvyuxy2clvhtvrpwjhhythgrje1dhq3a05hbe1tuwppzhmzzurlzm1iexmwdmnuthu3t2lltlruofdcnnrludb3ufhselrmvgfjnmdczhdps1owtm5tnme2qtfzn01mztbjrhntdfhmv2x6dmlezxjyd0zmbu9vy3hovll2ogxqr0vxmw5rv194wfvsa05zn2daovztdvzwsfytynd6b3duaxrxexk0stvvvzvprtbfre5lckn2twixvnbotzjnmg9tx2vhac05qku1anporjr0n2xzn2xjbxhrs0rhoejfskvtckx6yw8ysgryvjd6m05uyw1arzq1c3j3zthxdfpys0y0dw?oc=5": {
+      "headline": "TSMC Stock Is on a Roll. AI Chip Sales, Trump Tariff News Could Keep It Going. - Barron's",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:52:16.967919",
+      "last_seen": "2026-02-11T11:52:16.967938"
+    },
+    "https://news.google.com/rss/articles/cbmitkfvx3lxte9rri1is0l2atz3ouj2dgw0mhbmm1vatl9sci14mdfxthu0qlhjcnjtbgphotzzx1dns09udwr2awlorejpqxqyb1vabnjhuq?oc=5": {
+      "headline": "TSMC Board of Directors Meeting Resolutions - Taiwan Semiconductor",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:52:20.261744",
+      "last_seen": "2026-02-11T11:52:20.261760"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnsxnynw9vbdryzfvav3pmv3pvszlwovjtzuvsqnc2ztvobg1fmjrdqwzovknxsuxyazfut0zuofnru21ja0k5zhjwzkjgaglzzermm0rznulkdnpmndzfludqbg9hwe5vbti5tjczuzhlvmzhyuzbnk4ywe1qbewxvtrkn0zjbzm0s3pub1bsn3owsghozmfvlq?oc=5": {
+      "headline": "Taiwan Semiconductor Manufacturing (TSMC) Stock Just Hit a Record High. Here's Why - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:52:23.451364",
+      "last_seen": "2026-02-11T11:52:23.451383"
+    },
+    "https://news.google.com/rss/articles/cbmikajbvv95cuxnlvfxve1qzmu3v0zvwha3ylpqbgjdckzcn29qevryrm9tcupftug4v2x5a1v4zxhbymruz0jlam52cfa4wfhkdgr4es10vdrtb0prrdzoqwcwemk5ctdzcws1smvxcs1wodbkeuhmttr0cvbfs3bwrm9rbezqz0x5bzz0wtd5swu1rffiuwrsy3frymfqltuxakluu04zutlizw5zlxd0ajzmm21slw02vkfcnkpxrhruq0fdufzauhfvuuxxvwviqxqtsxo2zdraujnex1dunmfmslc0tvvxbe44qufwuy1dqkzzb21jcdywwuvfwjiwzddomhbsb1j4t1dpbjfpmw1roez0ngh4zw?oc=5": {
+      "headline": "TSMC's board approves $45 billion spending package on new fabs — record sign off signals aggressive expansion to grow capacity - Tom's Hardware",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:52:26.957897",
+      "last_seen": "2026-02-11T11:52:26.957914"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxpa1finmvnnww1tti1ethrwed6nzbqtvnmwha3ti1xu0y3dejrv0pxogktb1rvstvjy0neuexkemzfsfnlqja4u2zruzrmve95ou01svpmz3bunkllvkr4veg2zv84d2xbog1jcu12tmjku2zxxzldsex4ugcxbnrjzg5xdenuslvxzky1u2nvrkrzwws?oc=5": {
+      "headline": "TSMC Stock Hits Record High As Chip Foundry Posts Strong Sales - Investor's Business Daily",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:52:31.194841",
+      "last_seen": "2026-02-11T11:52:31.194855"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxnaetqrjftthjnujdqyxnnedc5afhuehvmx3ryrerpchvqdfhrdhewdjita3e1rhnksedutli4duqtdkjqeng5bw5puw1lmnbjwkqyrlbycghpa3nyymdyunlut1lpvxrxbfd4otrpcjvznmfmbddsmly1ofvlugjvsk1eekxmmmzn?oc=5": {
+      "headline": "TSMC Stock Is on a Roll. AI Chip Sales, Trump Tariff News Could Keep It Going. - Barron's",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:23:23.989770",
+      "last_seen": "2026-02-11T13:23:23.989784"
+    },
+    "https://news.google.com/rss/articles/cbminwfbvv95cuxndvltmhberl80lxp0nmd6mm5rqzzuemlnzuftt1v0m2m1zflxu2njcvnsuzztsu1cm0jkz0hbrgxlvflwsedkrgv4vwvmb0dhv2ndbup2y1vmsfzsyjjubfz5aehinuflrdvkqlrfdmpkcgk5quxqdtzadnhfcmlrzzn2sudfcdndafrobxpcevc5wkxhekpfx2lqrlrjdeu?oc=5": {
+      "headline": "TSMC’s Record Sales May Signal Strong Upcoming Earnings for Nvidia - NAI500",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:23:29.278397",
+      "last_seen": "2026-02-11T13:23:29.278411"
+    },
+    "https://news.google.com/rss/articles/cbmirwfbvv95cuxqvmtxd051qmjjrmrtmjuytjftqtbclu1izunov3jkrjhzv0rgclfuew5xq1g1rgvscu41admzs081b2njbw9dzetpchllv2l1c0henlzbsk5aqkxfugtstghtmkhorwj1mhk3dfr0sdktqlvlywphrxhrsuflovnsugjkz052rjz2ynawx25rskhft1lpsgndww9vujhpzhdubxvon09nejqtz2vfwfnz?oc=5": {
+      "headline": "TSMC reports January revenue growth of 36.8% year-over-year By Investing.com - Investing.com Canada",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T13:23:34.361227",
+      "last_seen": "2026-02-11T13:23:34.361242"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxnt2vtv0rlnkfoylytmu15zmn4bhj0dtyxnu5nmm5dnunlrkiwbmctou9mqu13che0c0dqyni4zkppqjvtmthqntjueww3cghntg9ltuxlyupfwwrod194evjqyznjnhftatduu1lcsdbkvenine5bx2ppanbucvjlrw?oc=5": {
+      "headline": "TSMC Record AI Revenue Sparks Capex Surge And Valuation Questions - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:41:47.186967",
+      "last_seen": "2026-02-12T12:41:47.186981"
+    },
+    "https://news.google.com/rss/articles/cbmi8afbvv95cuxozmzpdzremm1mtedzqkw1nxgzzkzqv0nptkxlt2q5nw96wnjfwvjzavboufu3zg12txkzmu9sou9hywnebnvwsgfbs0czbmjlzfgwcuxhrhfmlvrwow5fmfvlngxvanbkd1fkm3n3rtnjme96egxqejn6yunld2rayniyakvjs1jttuu2wtnxb0rlvevjdjnrahzgedfntwu1m21fswtmmtbdx0xlzu5mdxl5lwrdmdv0ounzvxflndjqrglxyjfibnf2zu85vjbdznq2ufjrmmfzd2tvs1djzgtiaglidkfwaxjtylhosgo?oc=5": {
+      "headline": "Intel Nova Lake die sizes leak, signaling higher cost — smaller compute tile still demands higher price on TSMC N2 - Tom's Hardware",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:41:50.096940",
+      "last_seen": "2026-02-12T12:41:50.096957"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxqbjuxy1luzm1rcgnrm0ryywtrawt0c1ezcjzzoc1rqmnsdxi2znbbbu9ssws4vud1ndnavg1ysud6evjlngxmbhlvswvhwxoyaxa0ow1bvlmxsnrdbli0vxl4tzrpbfp1chbnwgfmlthmmenpbvfwmkjunwkxn0faemmtvmzms25zak8tadhb?oc=5": {
+      "headline": "TSMC shares rise 69% during Lunar Year, hit record high - Tech in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:41:53.875306",
+      "last_seen": "2026-02-12T12:41:53.875324"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxpuzdwsgp5atlod0nwufc3zzjwbmhpd3yxzfhontatukn1utdtlxvkdzhwavdevudyvuvfsldjafdizutwz1fhdtvcsxjobmqywknwn0jkdwfcx1dqyuptq3vhweqtrko0edl5bgnpqldyoupazjdyqvfjrefzug96ei1pb0rktetjz1h5awd0nwhcwurfc0hjvetkqtvfu1nuym1sr0tdyxfrqxribthvdmp1v29mnwrvdteytjhblw9oef9mqzj1uxfrzdjlte5hukzymk5ktdn5efhun2xyd1plajjlyvd6ckpqwq?oc=5": {
+      "headline": "Taiwan Holds Chip Production At Home As TSMC Expands Overseas Fabs - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:41:57.979078",
+      "last_seen": "2026-02-12T12:41:57.979093"
+    },
+    "https://news.google.com/rss/articles/cbmiswfbvv95cuxprzjxmtjmeujqsedustfxrfezzmfpr2zoae02afvnd2rhz0qzwg1dz0lzlvewtwzaahbuywqxzuhvz1f1au8tuzj2nkfjnhnxznvudzzvr2lymkf6dnf2rwrmnnqyrkn0a0lscknpumjlr2fvvnhjshphb0rjrndos2thdvh2u3yyay1ttgjqskktbv84rxftvm9qmlfrwnr6unvvtkgzadzmv2l1tfjouxl1zw?oc=5": {
+      "headline": "Stock of the day: Taiwan Semiconductor Manufacturing Company - IG Group",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:42:01.009065",
+      "last_seen": "2026-02-12T12:42:01.009081"
+    },
+    "https://news.google.com/rss/articles/cbmikgfbvv95cuxndtq0axbymlloy3vvuvniuwq4tty1uluwbtribfzdawjmemfkmgvmcmwxnhdwz1ffd294ofd2ywjrnwdmudnncdvnyvh2tffcv3htsfa1r2jkb2i2vej2a2jza3nasxywwedbukr0etdsmunnqm56uxpfutr3u3ljyzzjtfjwowjfrvfiz1f3em5pqq?oc=5": {
+      "headline": "Taiwan Semiconductor Manufacturing (TSMC) Stock Just Hit a Record High. Here's Why - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:08:41.338365",
+      "last_seen": "2026-02-13T13:08:41.338379"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxqddnasedzwex3be9mz2zynnvoqlncymtusfj5rhvlchgymljgumfhzvprbfdlwflqc0dmwxnmt21yauvystjsauxycxfzvunhytdzefdotehhvvhyvdbjtta1uw5zm09ycli0b1vrnjvmufdkvkzhrextdlrislfkr19uq1zxs1vjtwxweljus3rjzwlschd4vw?oc=5": {
+      "headline": "TSMC and memory makers boost capex to offset China export restrictions impact - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:08:46.774171",
+      "last_seen": "2026-02-13T13:08:46.774183"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxovfk0nhbgvmmzm25cr1jscvlrstbinlezmulylwc5wfetwhpyvtdxnzvhckjyvm1nzmptd2hxz29zcnrxov8tz2e5aw1ymfrmthlvy3kxx2diywf0emz1ylhjmlppzjf2ufjoetz6zhh4d0dux3hlauuwuxu5n3lkoupbvla1nupnwwe2uefinxbqstdtbmxyyxdwauvklv9yz2h2mjbfvdzjmxjzwgzqaldocxratxr6el9udjdetmv1ek84wxfcujbiv3cydfdteez5vezbbuv1elvvs01wa2xka256whdotljwuw?oc=5": {
+      "headline": "TSMC Record AI Revenue And Capex Plans Keep Taiwan At Center - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:08:52.196479",
+      "last_seen": "2026-02-13T13:08:52.196491"
+    },
+    "https://news.google.com/rss/articles/cbmihwjbvv95cuxnwxdmz211t3qwynhmahlqqnfoqtditunwuhhxt3dtzuhsb2gzcutsdk9fchljlufhdy1lbjdmy2e3al9mqnktnlnflwq1d0niv0dfnfzsq3vquhy3tnrrbklxcnjzum9iuvp6qxozt1k4v1lts0qxamhueedac29pm2dhuy0ttlvsn3djwkxsznvty0pzrg9tcy1nclb1r1o0vf9sq3fyrllldhlstmzvzuv6otjabg9dyufmnl9rquc1z2limlbfz0dxsc0xn2pzmev6nlzjdtm0beqxrwxty0fyyjb3n2nbnfnxbujlugjfntbistvus2rkmwzdzxrjtkljskvvcw?oc=5": {
+      "headline": "TSMC's board approves $45 billion spending package on new fabs — record sign off signals aggressive expansion to grow capacity - MSN",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:08:56.497476",
+      "last_seen": "2026-02-13T13:08:56.497494"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxonlpdx2jmbwrzd3pxsmfnwmqwogtwuefick9da2lwcfvqempfugpdutztmljavhhgbwpoatkzbutzcvlfugtzn0qxehctnuvkvzbuqk1xbnjysef4ymtjwuqyn1psyk1feux5oxnhwevxvxzkbkfnvth2t0ltmuferwjuzdllawk0uthqmnlvbwxmsznuaknnmq?oc=5": {
+      "headline": "Prediction: This Artificial Intelligence (AI) Stock Will Outperform Nvidia in 2026 - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:09:00.794816",
+      "last_seen": "2026-02-13T13:09:00.794832"
+    },
+    "https://news.google.com/rss/articles/cbmi3wjbvv95cuxnqxz6z1l6odktdlj3a2jnrel5y0lobnlpow43m1l1eteyqldxb3jjb3bubgvkm2pumhrrcflmowgwx25vsfvrb1h5szrjwdjslwrat2hlm0u5rdhunlrulujfy3dbwm11sxruc0piykjrvercqulyrkznzupuae5ownk5skjim05abwdowlr1mdntczq0mjrktznjrm52ne93ee0yzhpmowhxqm9rwlj1ugmzbzq3dnzjtfjmmnlhs3bmyutxetu3dwr0uhbaywlinmppnfq1bwt1zjdadwfstmxlx292vul3ynhyegdddg91qvjjoekyzljbvgfqounmrg9kudroszg4oglrq2ryrtjqadl3ogrnalpvqujvqk5yz2nsm0ctev9ldet6vy1myzhrq2fhvke5q01wlvryoufdwnzocs12y1fpwedlyzzfyvp6ngdyz2ddag1hywm?oc=5": {
+      "headline": "TSMC stock rises, but semiconductor rally fades - MSN",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:25:08.502148",
+      "last_seen": "2026-02-16T11:25:08.502168"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxnrc03v0ftb2hsqvvrbfddqtzylvg2d0zutvlltzfjzwtqbwnumenha3vwumkzqvbbdeu3dtlrntrhzxqxufnfvjh4wvrnbznttwvjuvm3ewg1z3nxcvrtazzna1iwqwlmswnrt3zvtth6zvu5wfrgc3rstzr1a1o5vhpnmmjbs2hmnhfyn2dzt0yzethmdnrdbk5jv2yxuxhivlzfbko1vnryx3dotw52nxftrufumxq5cxfkd25ttmvkx0rjrdrmvel0xznmcnl5blb1tq?oc=5": {
+      "headline": "[News] ASML’s High-NA EUV for 2027-28: Which Giants Are Betting Big—Intel, Samsung, SK hynix or TSMC? - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:25:12.152013",
+      "last_seen": "2026-02-16T11:25:12.152030"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxormvwb05sy3o2v3q4bml3y3kxz0jjzg0trhn0dnljmexhouplslf4sereofjpvdrpblzpy0ezs2vzdnnrrelqmnf4rllobkdhr0g0tgloszrcmzutwes5zg1meldyuhlqy2xaazd6swthvwgwrnndrtlsazrfnwjtbjyxddhpnzdzbmkzufazouy3v1vxotrqlulbsxixv2vevfo4otlyenjgmzfvbmhhtejycg5hmjzial9trvnybjjqmg45evnrq3hmtzntt25oqkxvq2zrbw?oc=5": {
+      "headline": "TSMC Stock Forecast: Trending StrongBuy Among Top Analysts - The Globe and Mail",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:25:16.363611",
+      "last_seen": "2026-02-16T11:25:16.363629"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxouuzjvgu1a00ycg1iqw1jruf6vuvouhbtawp1vwi4wvrmahlrnkf5outidlrlv1hqou05uhntt0jyterbbtfzaf9imhbselvimfd0ogpyrvpkbmdnuvhfmui2wljroxn0x2thzvb6x1vzruffqmpmmu5xvmzrzxvechnvug12rwhdr3rhvnz6d0xkwwj2vnf3tznqwunur04xmjbqn3jfx29nawt1u2hnb3fvy0romxvzszfvstbht2nfu29xwhziz1y4vfhzru56agridnz4z2hrahp6quixdutsekv5ylfctuzarg?oc=5": {
+      "headline": "TSMC Record AI Revenue Spurs Global Expansion And Investor Risk Questions - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:25:20.561553",
+      "last_seen": "2026-02-16T11:25:20.561580"
+    },
+    "https://news.google.com/rss/articles/cbmizwfbvv95cuxobmu0tjdrrk1ork4xq2rjzjhtvjgytlrts1hxufjpcepyevitctjnve1euwtfzfzom3juuuvfzlzyrerjukxpeuzrae5udhvoquvutnbhqjzvcvphvnpwelnitnp5z05zatgxmxjnnerzsld0c3llyjg1rtvyzwfunffht09owmvtyxphukfqwwq1whvssdzltvjplwzvci1bn0dvagxex2n6uktjvzzwqvlvdji4zejytza0yvzxwmjoq0hzmdlkcziywjh3tfk?oc=5": {
+      "headline": "If you hate driving I-17 and Loop 101 near TSMC, you can help fix it - The Arizona Republic",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:25:23.330663",
+      "last_seen": "2026-02-16T11:25:23.330680"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxoslnwd1nvoeywwtjqdwuxntfoumnvynf0q1fzelfgofztdg9tof9lmgfqvugya3hrwxq3ztbxrufrrxbvwghjbk9ia3iwvwdrluluoum5v0jeqm92zknubl85u0xddgpfwvpzceixclljrwllagi4slhpdvfjznbkcet0qwc?oc=5": {
+      "headline": "Where Will TSMC Stock Be in 3 Years? - The Motley Fool",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:58:30.306542",
+      "last_seen": "2026-02-20T11:58:30.306557"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpuk91u0i2zy1xehlubw5xynjucljemvfbwjezn0rmm3h4afnoy1lptkxud1pndfl5dzbpc0hfv3dpa1f0cukwcxg5ynnhqwzmnjdgvnm1eeotm0dfq19pnm94r0fvrxbaswhozff0sm5hagzumgn4vfrwsuyzrgvxtnzjr2c4c1zyu1rjuwr6uju?oc=5": {
+      "headline": "TSMC Stock (TSM) Opinions on January Revenue Surge - Quiver Quantitative",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:58:36.245486",
+      "last_seen": "2026-02-20T11:58:36.245504"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxpouuttjhjnxjrq2q5el9vsuutdkotqxrvrnnsv19nbumwsfbvof9jbwxsyjdhy2xxnwdjq3b3luhrsejozm5kzhvwsjrsvc0tunp2zg5zwlvyzujyafywelr5luxuvna0mtk2yzdttjhem056dlhluum5vlvidnfbow9gmxznvflhrvk3ykvivhrguk41wvppmdaxyi1ldklvrxkwtmxb?oc=5": {
+      "headline": "Appaloosa’s David Tepper Boosts 70,000 Shares in TSMC - TipRanks",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:58:45.552890",
+      "last_seen": "2026-02-20T11:58:45.552911"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxpsujuwmrqzwrqt3fsnl9hr3lpm2htzuljwlfsqvm4chzraertovh1yutsq2nzwvr3r28xqm85etdwq2pdqm5dbhnsslrqx3lqrzrsrwjhaxlzmgd3wuf3udztruzvovn2bxntc0r6sk4xuzf4tvjuoxd1rulrdu1sutjlufdawgtar2thcgewngtkzdrrbm1cmzzen3joewhxtm5kmuq4z0fqcdfyzjd0n3norddyy0lns2c?oc=5": {
+      "headline": "Where Will TSMC Stock Be in 3 Years? - The Globe and Mail",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:58:54.040728",
+      "last_seen": "2026-02-20T11:58:54.040748"
+    },
+    "https://news.google.com/rss/articles/cbmif0fvx3lxtfb4des4mw51nuhwexnuqzzarkvcshpxzkznr0prz3zlwu1tqmjztfroswtpoem3tmxkctjfdevmdhramffnntvrt2l3mmkysjz2yzb3amq5uho5mgzprfa3ltvuwhbit0vcrenlnufkmm16sv9gyux3q2norjh3rhc?oc=5": {
+      "headline": "DA Davidson Assigns TSMC (TSM) a Buy Rating Amid AI Demand Growth - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-02-20T11:59:03.942759",
+      "last_seen": "2026-02-20T11:59:03.942776"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxpq1jlzmrys3u4edbfa0fbc2twnetplwlyoehln2pjbkftme5yuxaychvsq1jpz2rrz3f2d0twwlr5q2jim2rin1bpnndodxq2b3pey1zalw50yuzvvffrtnbtz0zky0xatldxejdtv3lqumg0mtnwrjdwzurlzhv2cu5pv0pvumjzr0ravjuynmy5tedsunltbvfltjvyq0lxyue?oc=5": {
+      "headline": "Micron Technology Surges on AI Chip Demand - National Today",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:40.270641",
+      "last_seen": "2026-02-23T12:57:40.270662"
+    },
+    "https://news.google.com/rss/articles/cbmib0fvx3lxte9dbs1pnnrmcgjmv0jsdkrnrkd0x3nmauowq1vbbnvimvdquu5klwdfrwpmynzlyvrxuvl4rkzhamq0udbyshdtevroszu3xzhfnku1qmrfq3a1qujolwdwowhetzl5v29dr2nfx0p1wq?oc=5": {
+      "headline": "Why Nvidia and TSMC Stocks Just Popped, but Intel Dropped Today - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:43.612725",
+      "last_seen": "2026-02-23T12:57:43.612748"
+    },
+    "https://news.google.com/rss/articles/cbmirgfbvv95cuxnvzrotvdsshe1dy0xufv1rnzezzbst3jrvznluu1mv3r5ltvtugdjbxladm52dwdhwkjgvxiwu2vvdmjzrhhfef9rdtjwm2i0n1lwv2z1x0xzegyztu10b1vic3e3v29wcuppsurxvjvrwl9uq2ltykq2a3gxtxvkm0pwbnnqvxi5sxffsjeyuxb0dl90bfmyzvlztm9wwmhbtje0u1zmbgnjzezxvee?oc=5": {
+      "headline": "The Global Subsidy Race: How Your Tax Dollars Are Paying for TSMC’s and Intel’s Profits - Tech4Gamers",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:57:47.972552",
+      "last_seen": "2026-02-23T12:57:47.972573"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxoa2plwwjlenrqyy1rai1my2tcvknzulleexzbtzhhoxzms0ncsjlgulh2yvcxrlfkvejjn3d2uwfrugxmtw9nwvf6vgfcckfuvkjoww9edk5wmtk4vgf2n2r3bwpqum1mlwnywks0n2xtclzztjhrltvklvd4ng1xcmfncnbbnurjzm81ulytmgnkodbhoeptz05xlvp3szg4u1mzawzgmmzwykzka1bcwuvqsluydtvay0hsabobqvvfexfmtkdkrmk4b2fozi1sm1a0dxezqxvwzehoukrxlus5uzjotlzpdgtvn1pwrhzavwtyagvablnbte9nou9rnjjtmy1qbu9ex0wybjj6uvzptevbwuyyt0u1svplri1jdmdub3r3wki1ednxc1rublbqewpoce1yvwpwrnfhyvfhmkdhnkgxrnjjcetpzfdhue5wys1xv0h5ulnkwkzyednrvkpsbe5bdjlfs19swnltu3buue13?oc=5": {
+      "headline": "Trump takes aim at Taiwan’s chip sector after Supreme Court tariff ruling - South China Morning Post",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:52.047037",
+      "last_seen": "2026-02-23T12:57:52.047053"
+    },
+    "https://news.google.com/rss/articles/cbmitafbvv95cuxqzeetturuqm9lbc16mhpimuhnmed6vzrgovbsos14ntlrmgzruthswetmejrhalhhtetjwejrqxdxufz2cs1vqjfiwki1sezlnfhwq013bhftq2rnathlbdnseerxbunuz3zbckvpumtieek3bjbudxe5dk91ue5lvuhyswkxnmnsqwn5qk5utjdmz3h4ctzzogxgbwdlvfqzala3werxxzndmjvir0i3n1hws00?oc=5": {
+      "headline": "Taiwan Semiconductor (TSM) Stock: The One Play That Wins Every Time a Data Center Gets Built - CoinCentral",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:57:57.993351",
+      "last_seen": "2026-02-23T12:57:57.993366"
+    },
+    "https://news.google.com/rss/articles/cbmizefvx3lxte5oae9tt3m5a0hhu1p1zm92z0h1rhvkvujqwuvmrdc2dhqzcznqveg2bwvrt2fqufhdy1bldnhfmdbdmuhqevhwohe3y0lvdudwzfpzahdptzvceuxbrffuv0zqdve?oc=5": {
+      "headline": "From burgers to (computer) chips: Starting a career in the semiconductor industry - The NAU Review",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:14:36.950852",
+      "last_seen": "2026-02-24T11:14:36.950868"
+    },
+    "https://news.google.com/rss/articles/cbmi2wfbvv95cuxprzlnbustbnnyukk1mg84enfscnuzdxezm1m2dezyc0hptey3ctvwn2q2aktmohe0effkqmxerzb6twruwxn5owd1rjvqngxrwlvabglumtzbm2wwzejmdnnpnlnnr0dhcncyeu0zszmtcs1qukn1a3qzsmztb3g3qjncrvruuegtdkdxlwjav1fiwe9mc3f1mfnpbhztcw5xwg1tcdm3x2exd3vxt0k4zlf4v3n4c05bzfr4svz4y2zvovj2aup1zetwclp6tnbocnh0mflzqlpuyxm?oc=5": {
+      "headline": "3D Atomic-Scale Metrology of Strain Relaxation And Roughness in GAAFETs Via Electron Ptychography (Cornell, ASM, TSMC) - Semiconductor Engineering",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:14:52.033691",
+      "last_seen": "2026-02-24T11:14:52.033718"
+    },
+    "https://news.google.com/rss/articles/cbmipwfbvv95cuxod1vowwrlanbmdxmzqm8tndznnhl2lth0ytaxcxbqs2hlrunlcfzwnwz0y19lskz2n2hqtexvluexzgpsc0ldcu9aegt6ajfydhcwm2lzyupicwpmvvpfuznquvl6tdnbx0w4qxhys1m2b3nobtnhugmzthhnae5udm1uqnbhztbuni1lx0eyd20wndd3sfvucdbqs3a2alllbi01tkjzy9ibrafbvv95cuxqdwkxahbudddhd2f5rzzsrxffs1vmtgj4beoytlviujkzsxj6xzr3qlawnezuvkzcbedrm0nny1gzlxvmwwn0zxdavlpumhpfnm5ryi13wmxwnxfrs1dyajzpckxqttm5wdrxcjhma1zvs0jlr2q5yvjxngridmprshvrte51wlvfsjixuuy5vxe2revfb0drehvxreu2cdu2cxrlefr2vhfsadfm?oc=5": {
+      "headline": "TSMC & Huawei Are Far From Exploring 3D Packaging For Smartphone SoCs, Instead Focusing On Improving Manufacturing Processes Due To Thermal Constraints - Wccftech",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:15:04.099321",
+      "last_seen": "2026-02-24T11:15:04.099337"
+    },
+    "https://news.google.com/rss/articles/cbmiogfbvv95cuxqrnhxlu4zejjqdvvxwunxbhfxvwljtkrrlve1dzhmtgvdyky1bujetxvyevpzemviahzitevsogzlcup6n2hodjc0ve5uu05yqmuwwuhzve92yxhtdfhxz2zguvzknutkodjtu19mnwvkceotq2xhbw5kzlnenkjouwfwwjnbevhhnnpdmuo5z3zxy0rgtehmcfdsylgxstq3nnc?oc=5": {
+      "headline": "Is It Worth Investing in TSMC (TSM) Based on Wall Street's Bullish Views? - Finviz",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T11:15:12.728126",
+      "last_seen": "2026-02-24T11:15:12.728149"
+    },
+    "https://news.google.com/rss/articles/cbmipgjbvv95cuxoejrgt1r1dezjlxytuwwyyvdatmhoq1nuwgvtanrrafk4tmftzhnzmennnfltn2xgreiyunzwmnhmbe41ekw4u2pidvf0cu5wztg4bmp5nllfcei4dwwwenzimhhjtf9nm3dycgsyttqzsldhwfdom3n6y2nhem54as16revhlxg3ce5wyjy3munlx2lmwhlmqjvzz2mztuxoyvfwrwfxwjzxrwjhse5nwvframrfnm4tytr1mfo3ou9jrjztvmttefj5snpwrueybdgzdnhim0rlzevjz1jjwvlseewyml9um1cwajjsrgppmerhwgdvrnlumdi3ckttelfkrtmxodzytvattv92dlvnvlrwnwr5vhjgwtvottf6dkvdtfe?oc=5": {
+      "headline": "Trump tariff turbulence risks handing TSMC a win over American chip manufacturers — prior exemptions for onshoring manufacturing may hinder the likes of Intel - Tom's Hardware",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T11:15:28.806469",
+      "last_seen": "2026-02-24T11:15:28.806486"
+    },
+    "https://news.google.com/rss/articles/cbmikwfbvv95cuxodjvsdtnvt2hxmuc4nnp2edzgt1c4vuxvu25yq1zwwtgtyvkzrjveenzbnzlpdfnnywdfsnrlms11bullede2rvjznw9sdvvfbgpiewjwmfbun19nwhl2lwxixzk0y1lxcxzctxy1b2tnluloeddurhu2z3nym1vyek1pm0rpzwlhtkdpcjfkrty4qjg?oc=5": {
+      "headline": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:07:57.989670",
+      "last_seen": "2026-02-25T13:07:57.989690"
+    },
+    "https://news.google.com/rss/articles/cbmingfbvv95cuxqr2v6z2zscxlss3j4zxawrmixrlbmudzxaze2ndvkmedtnhrndhrkmu9uylpinwlothffvk05d0q3rllhmkpxmzuysnfnnzrinjzsy2rxbey5euptnmfsc01ndkplzzgyend1y3vlsu4zu1pimjzdmhd5qmpqwwfkqje5elpacurnody3qxe2nvywqxrmmdbpnlhomvu2qq?oc=5": {
+      "headline": "TSMC trades near record high as Apple plans to purchase “well over 100 million” chips from its Arizona facility this year - Sherwood News",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:08:10.779491",
+      "last_seen": "2026-02-25T13:08:10.779508"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqd21ydvzknjnizc16vnmxmexabll5belvwu1ks3nnofjinznwotrmqmg4cw9fq1hsnjdybke1qxg0t0pzz2rydflxsenlukdpahi5ajbrauzmelpwz19rqjzqutg0re1uq1pwaxe1rg8xz1zyngt5we9juhzwwklty3lwzxhrzhzvtxfgtvdjcvdoa1nzbke?oc=5": {
+      "headline": "TSMC board approves $45 billion for capacity expansion - Evertiq",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:08:23.167548",
+      "last_seen": "2026-02-25T13:08:23.167573"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxpbfnub24yenezudbqdm5xz1jurdhnz21ztk5qefpbt3ltng5ctw90uvnwnwzkc2hhtel1emy1uwticlaxy0dyv2zedkzvoff1bliyqkhix0httnlxtmrnyvvyuevzavnfzwdbmtvyundgaethsvdcmepptevsbwdzu21urkjhm1jqy21ms2hsv0g?oc=5": {
+      "headline": "TSMC Stock Jumps as AI Boom Powers Foundry Giant - GuruFocus",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:08:35.156165",
+      "last_seen": "2026-02-25T13:08:35.156181"
+    },
+    "https://news.google.com/rss/articles/cbmi1afbvv95cuxpug91vtvsm3qyckdqdhhnx29boddgwfjfc25mvmf2ov9gqnbichl4t3u0z2o3mlnkbdb1lw1vx210otvtmwheehbtmxhzn3dhu2lnzjl0ufnjeuznn1zed29pwmljcwh4wes4sxlmvnpfavyymvrydhzvekuwsze4yzfas3rmaevyrwdxmvjqr3hrv3retjdnsfr1qu1uyuzzy05nzlfrq2hkmk9ktlfry2ozync3dmjymdv0zu8tmk5qszhbbhf2rlrvejlmqlvpwdvnyq?oc=5": {
+      "headline": "[News] NVIDIA GTC 2026 in Focus: Feynman Reportedly on TSMC A16, Samsung & SK hynix to Showcase HBM4 - TrendForce",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:08:47.530756",
+      "last_seen": "2026-02-25T13:08:47.530773"
+    },
+    "https://news.google.com/rss/articles/cbmivwfbvv95cuxozghjanzpm0y2afjmwvr2cmo2lxzuzhrvcf81cno1eejdcfleeueyvmfitke5alj0ckhjwwfaeeh3uk5pavhnt3j5mfhtckrjz2zfvglgtfuzwmmtbjd6d0n0qwllmw1pnvpczkyxew9hn1fvcnp1d2fnvehrtmxunwnotxzxt1nxluxxmw1wywxebmvqbvprcuvyvmnxswlwukl4zkmtemhuc2dhamhinjm0nnzdexc2utrwr180yw?oc=5": {
+      "headline": "TSMC Raises Dividend 28% While 38% Revenue Growth Reframes the Geopolitical Risk - 24/7 Wall St.",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:16:56.329814",
+      "last_seen": "2026-02-26T11:16:56.329830"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqa2dmanrzx1vqyuw1rfbzyv9jnklttufuuvvjqkp6umn5bhazadfhnhbvnla1zwjxbdr6u0d4zmhfvm1zduflzgdcrtlwefhkvgxpejrvrjrrckhucnbatgfotfdwbwzwvvjxx3fxb2xwaklqbxj3wmtaqxnnr3vplu9cvw5javpxqzewtk4twlrhnjfisdb0qlotsuxqavnczep3azdoqwq0thnrakjkr0c3r0p6t1vjnv9obwljbc16ruviymt6r3poz2rllugwrddywxrzsunlehiwzvhobwnkueutdeuyow81r9ib8gfbvv95cuxnblfhntd4aehpsdlqc0dwsktomg9kmkxmqjlzclu3swxsntv4am5evuvjzti4nxmyy0jnluuzal82eghistm5u0e3oxdam2pxnuxxxzbwz0njx2xtx3bfnvdlthfubggzm0z2akhibza1nnotyi1tcnhozze5tmo2lwvfehhlm1bqulfclu52rvlhzmvsutb1rjhssfnbx0fka3nfunf2n08xdi15y1pjuf9amkhyq3e5btjiaxrlbmvomdfhoxhknlnvzjnzajriwnl2djfnqjhku1zgexppmtr3nzg3azziwndaew16dfk2qq?oc=5": {
+      "headline": "Is It Too Late To Consider TSMC (NYSE:TSM) After A 106% One-Year Surge? - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:16:59.352597",
+      "last_seen": "2026-02-26T11:16:59.352613"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxnbfjzttb1aevqdvngvkzxnmrtmwe5ctfwckgyzmo0cgnecxrdnxbneutndg9ndnffqui4tfjhdjy5vvrxqvbhrwd0z09fnuzbsnbanwrxbez5nhhhvfdhckxht1ctcgfkdgrbq1u3m29iaxzku1fmdzlgcml4akhymlntsq?oc=5": {
+      "headline": "Apple to buy more than 100 million chips from TSMC's Arizona fab by year's end - The Business Journals",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:17:03.963207",
+      "last_seen": "2026-02-26T11:17:03.963224"
+    },
+    "https://news.google.com/rss/articles/cbmiekfvx3lxte9tujdrtjlzvjzjb3lka0hwtkvvznndq1o3ymc1tdvdvzbezuzqv3nqduetsufxvjfevknqtxfxtu92qu1stuxpttviwjvjevjxqlpjblvvegj4tfbncl85dmcwrkzxaedleedvbnrhnzv2n2xwdmdqdgl3?oc=5": {
+      "headline": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat - AOL.com",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:17:08.751308",
+      "last_seen": "2026-02-26T11:17:08.751324"
+    },
+    "https://news.google.com/rss/articles/cbmieefvx3lxtfaxt1rsd1oteefnyutgt19hbfkyny1jtfkzvud5nwgyr3m5ajrgqwpdwdutywprn0pyd2zyn3u2z2d0sfruvtdrcwf3qkrmmnfzcevoedfwzxntvxvrbuhjnwxssmpeaejnz2dowuxktvvxrfdmykvkyg?oc=5": {
+      "headline": "GUC Announces Tape-out of UCIe 64G IP on TSMC N3P Technology - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:17:13.387648",
+      "last_seen": "2026-02-26T11:17:13.387667"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnrepnagfbvnk0dldkczznmegyrvvlvmhvx3u3qkparfv3t25nv3otlwjnv0nas3nutg9ystfjdek1cko5quhuswhyq0zlbfdwczdhoxfzqkvjqvjbnzkzujiymme2d2zlazg4ohbjyuzxq3rkd2x6eu9tunjuyu93y0ravwlzavpxt3fosjrsna?oc=5": {
+      "headline": "TSMC Expects AI Chip Revenue to Grow at a 60% CAGR Through 2029. Is the Stock a Buy for 2026? - The Motley Fool",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:28:52.960423",
+      "last_seen": "2026-02-27T12:28:52.960439"
+    },
+    "https://news.google.com/rss/articles/cbmilwfbvv95cuxoa092etz6zmsxn1vks2rcykztz1ftbxrmcnntr1vfvxlwm01kbnpnuvjquv94yki5udy2zwntm1zjtjlhbemwznitukjex1vgskhtoufubwi5wtzkoxlnbkittxblve1ju1cxeg04uutxsf8wq3dscfbsd0m1b2pinutks1b6mmfdn1nhlwhfcwvvruxodzrn?oc=5": {
+      "headline": "Taiwan's patent race heats up: TSMC reigns, records tumble - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:28:57.985118",
+      "last_seen": "2026-02-27T12:28:57.985137"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqmw5qwmdqow1obnm2dwhhbetrrlfvn2lwmu9tvfnmuvp4a18xrnjzbzjzv2vysg1xrjlaetfqzffkstfmmuzssgpqnnjmymj5zwjlbtdum1hlbexzbupfdlldyu9in3lztulmvktoyuxnx2pkwfrztlvuwuiznxvqdvr6dgxobehqt3i1aus1wwd0wufotk1is3h1evlibmfga29uynpfvgi2bgtta3k2amgwtfz6m1dtnddtqlzzbjvnzg9hzdhvthg4x2lrvxhvmjzheuxzskk5agzntwjvm1fmzddpsu5sd0lfanib8gfbvv95cuxps0pacwhntertzvzpyuneu0paujgtd0kzmjd5atfsc3lqcnlubwhvovr3dkhlce1rnxv3ac1oumj5y05ccgpqvhjiaepqufbxdkvmse9pctqyzvlnwfbftxrlq3fbtfoym1vxzmzoblnongr1tdrfz0peqxutmnowuurvywpgnktoafnpreo3mllytxlnehriwm5st1iwnxo1cva5ve9cbw9dywxytzfzt2hkrkdqalg4odr0avzrmepwckjqtwziuzfjmdzozlhqsmvln1e4ck96bnbmwvrsevbtrklwquxqnvnsm2lhchd6dw?oc=5": {
+      "headline": "TSMC Expands Global Fabs As AI Demand Fuels Growth And Risks - simplywall.st",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:29:02.754906",
+      "last_seen": "2026-02-27T12:29:02.754931"
+    },
+    "https://news.google.com/rss/articles/cbmi7afbvv95cuxqbfvxngldm3fwrnvweujwqv9moettrw1wvwdsqwgwq09mzwfiwgvocjvknuytrjhcvuvyujlsvjnsmjgtvuztwhc4cjfyze14blblrjfatkdrvwfzlxfzdg5ittfqagzinei4tkuyvfjou2s3zw1jak1wy29jrthhakxomja2zdnjcjhwx2q0mlltouvmmkvhclc5y3fbng5bmhhsmc11z3frckrta1yydtvvcdhaada1ouruyjvowgzdzufiwllcc2tlbeettmdnwm9ynxppdhnkv29cnxfwzk9pr01esm81rwfqvw?oc=5": {
+      "headline": "The $56 Billion Bet: TSMC Signals Infinite AI Demand with Historic 2026 Capex Boost - FinancialContent",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:29:07.288928",
+      "last_seen": "2026-02-27T12:29:07.288951"
+    },
+    "https://news.google.com/rss/articles/cbmijgfbvv95cuxpenbitw1rzkpks2naqm1lsu5fv2lrshnncmpytlhfajgtev84xziwvjdpnw1doxdxcfffc2vutdrbzvh2vejhxzkzn2pwbethrgnfqtvsswpqd21oedl2ce5hztvmcw1rulk1vezdtgpusku1cmtqv2h3nfdfmk14tfjwamnquupdefm5sffb?oc=5": {
+      "headline": "GUC Announces Tape-out of UCIe 64G IP on TSMC N3P Technology - EE Times",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:29:11.728256",
+      "last_seen": "2026-02-27T12:29:11.728272"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxoy3fkyxfrquvav01gmkl1x2i1ttvqytflvlbedhvmano4m0zwywlun1dpz0jqunjizvbnyuv5s3duvmyzsugtnufmu1j4s21nn1ziau9yc1nhei0zve1hmmrbzkd3r2himhhavdzkuhvnntjtujr6wehfte90rfzzzhbkzkldrzdtrtficmy0cvu4ttdgvtdstut0nes?oc=5": {
+      "headline": "TSMC bolsters local equipment supply chain with subsidies and five-year rebate program - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:23:11.749092",
+      "last_seen": "2026-03-02T10:23:11.749108"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte9kn2jpsthmry1ivna1b2jmt1o1vxc4z2vybunwcwtwwnrteuramzrkcvvabzdvretnbge2vgzvutdnbwu3slrlodeyx202cjztdthmnkdum19uukp4anppehpjv3hiruj4zna2a3vkrfnhs0djnlbxd1zxrzy?oc=5": {
+      "headline": "TSMC’s US$2t Milestone And Apple Deal Reshape Chip Investment Case - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:23:17.638619",
+      "last_seen": "2026-03-02T10:23:17.638636"
+    },
+    "https://news.google.com/rss/articles/cbmifefvx3lxte5mq1jadgt0tmm1whvbzmxcovzjt2p5weruuhhosc03bglptvpomglytduyzmrhuzzlvjh0mvvisznsstladkljetnir2t4lundnzk4bflyofdxsuh0rwg4tflfq2lvcjfautjockg3vzftvzndvze2yupac1k?oc=5": {
+      "headline": "TSMC Expects AI Chip Revenue to Grow at a 60% CAGR Through 2029. Is the Stock a Buy for 2026? - AOL.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-02T10:23:22.573585",
+      "last_seen": "2026-03-02T10:23:22.573602"
+    },
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxnmldebut3bwt2wkw5tzdptfnmewjlb3r0oelmdkm2bhvkmugymwdscxjpngn2uxdor3rvtfznd1bsvg5kwljuakptt3phu3rvyxbxrmjteeljmjbfnnrzrfvqrlrxwlm4nffntkllbnbwz25rtdzhs3bloel6x0f1rnjqumrqcdh6qtdewly0t2vlevlbbuhjrzk3cjjuq0cyqud3qlzznkrfuxmybkl1vdzjrkzvs1foalrbmnvqnfnjsmdyblg5nxnvvzbdqdib0wfbvv95cuxowhptymvsafdqq2fxbtrttnk2bzztsw5aefjgyxdudfh0agq2q1pocgrvaxduqtrlq0nwsmnizlpmswh0ek1pzvjiae8teer0t2x5qldjbnjhcvdaz1y5uxffafzorhzqrkxvcuj6de1udk82uwterextt3dyamxlywtns3bureponehyallkcgrbrdvktwrxr3k1wllcbjdyb2h6qtbingrwzfq0ww9fugv3x1foqs1lexljzzrsbvvevlzqalr5zgtgwxe5ztbwbhhz?oc=5": {
+      "headline": "Assessing ROHM (TSE:6963) Valuation After New GaN Licensing Deal With TSMC - simplywall.st",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:23:26.890251",
+      "last_seen": "2026-03-02T10:23:26.890269"
+    },
+    "https://news.google.com/rss/articles/cbmilgfbvv95cuxqzvkyd1y2ovzwdgxzykfndhpeyi10wkjpvzb1txm4ujbmzk9vtw5lzdhxowzquzy5dvdqauq4rw9nvwzkvnhfovbbdxbvu19sx3hfynhzouzpbnhonnvhrxnks1d3zc01dwfmd0ztzm84bzbyngjcqzh1a2nwcmnpyxbmujl6swfsm05fsvuybgvrsvdznfe?oc=5": {
+      "headline": "ROHM bolsters GaN power device supply with TSMC technology ... - eeNews Europe",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:11:20.690617",
+      "last_seen": "2026-03-03T14:11:20.690634"
+    },
+    "https://news.google.com/rss/articles/cbmikafbvv95cuxqme9jaxe5sgpvqzbjr2llmmthulf4zxbmbuz6mupsa1r6se1ib3pnaxryslnuujnrsnqtdgo0exzwawkyzlpfquv2adfknne2btbxmwdxdxfqr0d5y2ttrzrwren5uthaagi4ewxsov9iqkw2zhgydlnoz0w2qzfxymzjwlh4x1vfmlytoezrnek?oc=5": {
+      "headline": "TSMC to lead SiPh equipment and materials localization in Taiwan - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:11:28.539508",
+      "last_seen": "2026-03-03T14:11:28.539533"
+    },
+    "https://news.google.com/rss/articles/cbmiiafbvv95cuxqa0dknxz0sdnltnpqynl2rdbfbk9aazhzd215cknrutjnv0ytam9hy3z6tdf2yxj2c19eyvvsvtfwnxfyeem4dg5rswjsuxbsy1e0uha3am83x2raberfewdks1q1tv9qofzlwenmcgpnt3zpb0r3tkveqlfbvwxkmgjjxzhymzdj?oc=5": {
+      "headline": "Apple’s Arizona Chip Orders Reinforce TSMC’s Role In U.S. Supply Chain - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:11:36.803348",
+      "last_seen": "2026-03-03T14:11:36.803364"
+    },
+    "https://news.google.com/rss/articles/cbmiugfbvv95cuxomvlryjnca1m4c1nyms04vtfswtk3c2howe9qmnhpbi1en3f5enblyujru0lnwtlyzhpkdtjqqmfyzulcwjr5r2phzjuwa18wwllmu2wtuwlxmxbry20wuju2audfwvjvvvvcu0qzng5vrvlasfbqtfhpwlhfc3ftzu81d3dqdwk4rmdaqur4s0tceg1zlwfyd3n2nxzqywnvylzwchdtzunisk52tlrmuzhzvl9zmw51aehsab8bqvvfexfmtk5jy0y0rdbxwxlzrti3alh2szjramdhqxpxewjszthlvuxvbc1vatlmltrwuvdub3njdlp4s1nmnw9pwurkzlzwltu1a1leektbzmr0nnlutzlxvfh4zllkmm5mr1pfa2tuylutbfu3vwdcowlqq1qxag1ysfdizdhydudzv0fvvtruqtrjd2rrq0rrovn5vvnia0jtogxrwmmyatfbenpkcu5tvku5oezfd2dvndj4rwu3evlxuxm?oc=5": {
+      "headline": "TSMC Urging Customers to Apply for N2 Node Allocation as it's Almost Full Until 2027 - TechPowerUp",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:11:44.251855",
+      "last_seen": "2026-03-03T14:11:44.251871"
+    },
+    "https://news.google.com/rss/articles/cbmi4gfbvv95cuxnq09qtw5jwxlwelpxm3prcxfjnnvtaerwwedcx21hwenrvmf5tezlae9eenboq1p6bxznrte0ejv6b1pwchbjduleewryx2d4mw9fny1lwjh6szm4bjbfvgzsvmqxcgytd0nrluvodmfhc3fivdnfwfdsrvflredhqxpvsy1azhngotn3t2k1v21hutmyqkxpzjziny1jrelfzuvfcm05cdfrujdrq2owvkt3ognuzno4chjnn0c4x0vlu095c1vhue1hv3l4uxbvzkpkqnvwulk4qtq0wkljwgvb?oc=5": {
+      "headline": "TSMC shares slide as risk-off trading hits chip stocks amid geopolitical jitters and recent AI-driven profit-taking - Quiver Quantitative",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:00.368420",
+      "last_seen": "2026-03-04T13:59:00.368442"
+    },
+    "https://news.google.com/rss/articles/cbminafbvv95cuxotvfsug5obxnemxzvmgh6cvq0vlr6yvdnbzlizulmskoxdhvvz25gnehkz2zxugk2qlhxngpfs0ruelzwu0pfluviedqweu1fnedov0m4akjoy1nhqndmx3g2me1ittfhb0rkdmhrcvbtnk92efbfs2o0r2dfrjvbvwnbsnvheeetzwuwdg5qz3zkd3jrs1qwzehbwfa?oc=5": {
+      "headline": "TSMC leads foundry price hikes as second-tier firms see profit rebound - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:04.256643",
+      "last_seen": "2026-03-04T13:59:04.256660"
+    },
+    "https://news.google.com/rss/articles/cbmipgfbvv95cuxqq2f3dglbz01hyxzmutrxtzrya3izstvybwdaaf83vky3snbhbzq4skjwrejvskqyvdfusexwyjnyd1jidzric05ibuhiuha4bhqxrlhmt2t2dghidtzzqk9cq25xmhndwe5omtetmjz0zk01rmzzdvh1uwjldxzscjvcv3vrmmpusxzlr19jz0jsczzoyndnd1jirxnuqtlmsf8yoxfb?oc=5": {
+      "headline": "TSMC Shares Sink Amid Iran Tensions and Tech Selloff - GuruFocus",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:59:07.855428",
+      "last_seen": "2026-03-04T13:59:07.855444"
+    },
+    "https://news.google.com/rss/articles/cbmiigfbvv95cuxqz1m0c0nxnlfes2tnugrnwgfjqu1ot2jrynlymf9nwuhjm3drve54sljjt1fhtc1mn2f0cfzdwkhoztnta25ummkxym9xwhvyrm5umnbjre12dfzlulhzzuvdenlyotfrmnrrtutsnfrdv1rwvwpfu05awklxb0nitjfpmlu0nhbrske?oc=5": {
+      "headline": "TSMC, AI drive US investor holdings in Taiwan to record $668b - Tech in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:11.843482",
+      "last_seen": "2026-03-04T13:59:11.843505"
+    },
+    "https://news.google.com/rss/articles/cbmiwgfbvv95cuxqdvjoshvqalphbey5qkp1rkntampkr1h6z2donwpbbjbfetnlawnbrm1qbzfzytdwwutxnxnrnvpot2hqqv9xdnztvuppz0flx09odelzqwxxdwvurklmqkv2sje3ohhnqwj5u05pamxaai1isehtmln3x055nxdpr2d6ytftzhq5enjma3oyqw1zaknyag5cq0lfrdb3redfcdbgbuhvr1blrfryrll4bhp6ctjpzfh2z24yx0pqrde2qq?oc=5": {
+      "headline": "Tsme unit tsmc global acquires fixed-income securities for $67.7 million - marketscreener.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:59:15.215590",
+      "last_seen": "2026-03-04T13:59:15.215611"
+    },
+    "https://news.google.com/rss/articles/cbmi1wfbvv95cuxqqufmcg14rkf2muzzu05jdv9an2i1bkrnlupjc3iwzwvftmlurdrbunfzbmhlqlpzdktiti1vuuronfjpymzeazvork85twzzuk1tag12cudoytdlrujmq1vfmhl2eliwmldny3pnr3e0weftx1vwul95yzjar0pod0zfrvhysg9zduphuthmuvhaugqwblpfbwzyvmhwa2gxu2q1wg96cjd2cmd0qvlvcvnmdhhsse5ebvm5ymw4mex1cmhaadezcdhfaxjhz0pewfg2q3l0wq?oc=5": {
+      "headline": "'Impassible' Loop 303 to get fast-tracked improvements because of TSMC - The Arizona Republic",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:02:18.462202",
+      "last_seen": "2026-03-05T12:02:18.462221"
+    },
+    "https://news.google.com/rss/articles/cbmigwfbvv95cuxqtelsn045nuxzbnhhms1mdtjnqu9za0jpz1hidus0ewmxc3dxdjfiexpwr290skg5lux0yndmv2xzqtvhcnjzmk5dblvqnxnktw9wrvpormxfnzzkvgznb2gwr1rstff5wff1twdhx1j5nmvttly5yne4re1uazjwuevevq?oc=5": {
+      "headline": "TSMC (TSM) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:02:21.436771",
+      "last_seen": "2026-03-05T12:02:21.436789"
+    },
+    "https://news.google.com/rss/articles/cbmigafbvv95cuxna1rucmqyzty3s1cxcwflnffwzuvvddr2quz5mw5qtenrdfz0mf9gevrhcdy5wunucmw0rjzqtxjnmfpvt2rpqtfktwfnqwhitgpzvjuyyvphu1g3vjbxyzd0cznmvf9pvgrsbdmwuxbovnn5djlmcgy0vmtqwmvbaw?oc=5": {
+      "headline": "Broadcom-TSMC 3.5D AI chips give ASIC leader an early edge over Nvidia - DIGITIMES Asia",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:02:25.858490",
+      "last_seen": "2026-03-05T12:02:25.858507"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte00lvo1qwxwyji2rnyyr1nmumq0q3f0cfz2lw40rfy0nfnyd2dwaeqzvkzavfpcmwzvrjnqvwlzv2nks21ycwcwcedrazbjtufangk1owlorg9pdvhlbmvvbjbwt3dtvwgwrjbzwtdtz1g1cdvtx3c?oc=5": {
+      "headline": "TSMC to open new Taiwan fab in 2028 - Tech in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:02:30.144894",
+      "last_seen": "2026-03-05T12:02:30.144911"
+    },
+    "https://news.google.com/rss/articles/cbmidkfvx3lxte9walv3auvhautnoffutdnxou9yyxbdulm2dgr5oepfu2xouwjhym1nutrpyzzgq1j0dk91unhjzhpmtkq4wv9samnnyxrfnwzdrjrua0haall2nzddqjrhwxpfthzcul9kbkjvmm93n2zosmlyuue?oc=5": {
+      "headline": "TSMC aims to complete new Tainan fab in 2028 amid AI-driven expansion - Taipei Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T12:02:34.118880",
+      "last_seen": "2026-03-05T12:02:34.118893"
+    },
+    "https://news.google.com/rss/articles/cbmihafbvv95cuxqzvnsavy2rzv4dkdgmlfoy041mkvxqvnlwvayvwlinmmwd2puawdxwvezcvdhewh2v1rpag5xvktmuepktfcxluutn0ltttg5bnjntgl6cjzvs0fjbngxu193bfyxz3yzlvpfcwvxwupnq0hvlwhmr3jfynlvee9qsexycdg?oc=5": {
+      "headline": "TSMC Speeds Southern Taiwan Mega Fab As AI Demand Meets Valuation Debate - Yahoo Finance",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:58:49.892165",
+      "last_seen": "2026-03-06T11:58:49.892180"
+    },
+    "https://news.google.com/rss/articles/cbmimafbvv95cuxnbgpnthppuzbmt0xocgnfujdtzdrzogflmhzdm1n3bv9pv29nvgy4zmfmcw5mowrcem83uerdvvflulfxn1c2bux5yu5jb1b2r2nulvdbtkhntdn4rhpxywt6qvfhqvrvaw5yc1focjhvsednmtvlx3jwdvdlmwfuqtrhvnblzf9nelrwn3k1mmn0u09bwdh1cq?oc=5": {
+      "headline": "Former TSMC SVP leads V5 Technologies' AI inspection push in semiconductor packaging - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:58:54.889050",
+      "last_seen": "2026-03-06T11:58:54.889071"
+    },
+    "https://news.google.com/rss/articles/cbmiwafbvv95cuxqr0jmmxnvcxdkmwe5mljiwwtmmtdhmlpqtzzvwgljb2rmv1fznu1kduizoutqymswr3h0vjlazdv0d1vmcuzda1neuhzesvcyadnfbunteuzzzwxickhgv2d5zgdutmnxejbhelotvgv3blzroc1hddu3bdnkdl9ryl85muljlu1amxztnvgzdtvrvhh0mgpwc01aq1dvcfdgnfnftvgwnmxfuvpbn3nnnm1yuznrzen5ehzdqtngnfi?oc=5": {
+      "headline": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports - Reuters",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:58:58.068324",
+      "last_seen": "2026-03-06T11:58:58.068341"
+    },
+    "https://news.google.com/rss/articles/cbmizgfbvv95cuxqb3dqzlntaveyeerabdl3tmlenhfbcwx0lurnd1hyblf0lvjmow1omkdczfnuamftqudhrgfxamstme9ntevuwjlwzmnymflnz0h2n25pu0plnzzonwqzc1p1zwstmgffml94nl8tr3qtshbkc2gyz00tqws5m0hncnhzwfd6ywm5awfyev85bwxas0pwdxllvxbrqkjtvex6rzeyeerob1hvmerydjfrq2jvbevietfvuxlzte12dkqynu1zmejmcwjnsknzqq?oc=5": {
+      "headline": "[News] Tiny “Mouse Bites” in Transistors Mapped by Cornell, ASM & TSMC Using Electron Microscopy - TrendForce",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:59:03.083725",
+      "last_seen": "2026-03-06T11:59:03.083745"
+    },
+    "https://news.google.com/rss/articles/cbmixafbvv95cuxnn2rfvuj0veq2wg1vb05dr1fhmgi1cvvdowjktvjurexkblfsrhjxzvbprvfya1b1rxzjsjl3vmtpcezymuzioxjewjlhektvx1f4t1v6ckrkx3p6vzq5durizfzywwtiblc3bnr1d3nuckr0bgxwtu9uyuzpdnnqshfjbtjjwxzwci1lmwvmqxjldje0ylyxzfb2ls1gczvlogxsaunfs1n0nlher3zgtez5ulrpdefhv2xmr0zut045cedx?oc=5": {
+      "headline": "Managing Arizona’s most precious resource: TSMC Arizona’s thoughtful plan for managing water use - AZ Big Media",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:59:06.668350",
+      "last_seen": "2026-03-06T11:59:06.668367"
+    },
+    "https://news.google.com/rss/articles/cbmimwfbvv95cuxnnuxly2xgv3rkzkzdmkr2nmf0c1f4mmfnywftemlxq1zdrmllx1p6oewzmnpttdzloxvfsdrpm3f5z1j3bthyegzmme55cmoynjdkc3vzwmtrql9clwzrnljfwlq3xzdpmdrmwxuttje3ewlxohlowgjuszd5ve1kyum5nvo5dknxoghfcgczvhncddfgmknubna2tq?oc=5": {
+      "headline": "Nvidia halts China-bound H200 production, shifts TSMC capacity to Vera Rubin - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:58:09.424429",
+      "last_seen": "2026-03-09T12:58:09.424452"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte04zwvzegleug1zq1lamzvkawwwcutnzkfzm1k0mzhrm1e2bnzmdtc3dethcmq3qmtju3bqddzizfdwefzfnvftblvknw9oyuotd2vcmleyzjhgrtzfm1ribznwttuzcnlrtejbnzn2a1vbr2fcrtnf?oc=5": {
+      "headline": "Notes from Central Taiwan: The myth of TSMC’s ‘hollowing out’ - Taipei Times",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:58:14.728544",
+      "last_seen": "2026-03-09T12:58:14.728563"
+    },
+    "https://news.google.com/rss/articles/cbmic0fvx3lxte1wdg9ulu5meg5fujf4cvg5nzm5bhytdtlfof9ptfetqwhbsedpem5mmzdhnxata0zvwkzvnfdlzzlbzhfxwm9jnwltqwlqrvqywdnvytvqefo1alnevgxlznvheetgtkhycnryckf1zedtnle?oc=5": {
+      "headline": "TSMC to hire 8,000 workers in 2026 - Tech in Asia",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:58:18.709047",
+      "last_seen": "2026-03-09T12:58:18.709071"
+    },
+    "https://news.google.com/rss/articles/cbmid0fvx3lxte5kcnq4dmxaslhbczdozvdhs1jzevhvn2zssmxguuvgvv80y3hwbfzjbxprtu5dawy4dwdfmfpuvupor2zhsfu2x0c3zlbcn2owtmfizgxdmux1ohnkdgjdogporvrtznpuwuxwx2dbemt6yjvxcwk4?oc=5": {
+      "headline": "Nvidia's Green Illusion - Greenpeace East Asia - greenpeace.org",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:58:23.114717",
+      "last_seen": "2026-03-09T12:58:23.114735"
+    },
+    "https://news.google.com/rss/articles/cbmijwfbvv95cuxnsll3oxlzou5kt0kxnm5ozfzxn1hmay0xt0fny3pnnwvmbdztvgnivldabfj5vfbtevo3rzi2vnjwvznwavdhwxixn2ltlu9xd21xnvi4tmxhejq5cmjomedushvjshc1mndarglxohczaw9wt3k1txliykhttwi1vnvyyxb1qlvznuiyxzjaoa?oc=5": {
+      "headline": "TSMC's Arizona fab turns profitable, validating US chipmaking push - digitimes",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:53:19.939054",
+      "last_seen": "2026-03-10T10:53:19.939070"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxpanb1eufhuuribgdjm0djz2j4wk9jeu9hmk1kugrem291ng0zrguwmelrdzewwvvqws1hs2pzz2p4uw9rzem4tjj2yty1by1ltjjiajnxegqtz0xdeenfclnwyxhncwdgwhj6dvhszm9ktwheq1hda1jhbjiwshzuu1vkd2luuq?oc=5": {
+      "headline": "First Prop 479 project breaks ground near TSMC - AZ Big Media",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:53:23.044808",
+      "last_seen": "2026-03-10T10:53:23.044827"
+    },
+    "https://news.google.com/rss/articles/cbmihgfbvv95cuxps0npv21fudyttufutnbndkttohu0bey2zu1bazlslwvsn09xahfgmhi4sefzohprqwp2ohbdb2zxrnfjcnbszvvvqzniukh6yuqzwmfwss1gn2zrb3joze90ujj0mly4enjosly4uzfhbw1jqllizmjjzjduqwotwhhfova3uq?oc=5": {
+      "headline": "Not South Korea, Not The US: This Is The Country That Produces The Most Computer Chips - bgr.com",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:53:25.896306",
+      "last_seen": "2026-03-10T10:53:25.896323"
+    },
+    "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnm3hqlunpbjc4zmtfnepyc0itzhzfexnhuejwawxwmddkyxr3a2xzzxvtddrmoeiwxzh6mkjkvtdfoc1zueq1cta5r0e4d1bttujwvnh5tdvgy251a0fhu2rstdlub1lfa2h5telnc0nmn1eycujoavrzaw9wsi1ythq2zgfttm54y3bvuglvr1joajlomtruuu1qamhcwklmqtrzbv9ingwwthizz3bhuzvartk1rw1kehjfzlpzvuxvtg8?oc=5": {
+      "headline": "Cathie Wood Loads E-Commerce Stocks While Cutting Chip Giant TSMC - TradingView",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:53:29.283647",
+      "last_seen": "2026-03-10T10:53:29.283663"
+    },
+    "https://news.google.com/rss/articles/cbmiowfbvv95cuxqs285ztbnt1lcb0pnudb2dgfyvzfsanvlvi1fdvvjsfdob2rkvtjwrnbsek5ltjdtt3fpvhlfrvzidwlqq2e4thvbrlp5uldtsjjdqvzzstf5svc3n2zxv0rwv0rletvpbkpbevdmmejdwml5zmrrc1vcsmt5n0zjb2ljd0joq21dakuwamffnhe2zfbkqnluy3j6c2lsowytckvn?oc=5": {
+      "headline": "Rohm licences TSMC production technology for GaN semiconductors - electrive.com",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:53:33.544553",
+      "last_seen": "2026-03-10T10:53:33.544580"
+    }
+  }
+}

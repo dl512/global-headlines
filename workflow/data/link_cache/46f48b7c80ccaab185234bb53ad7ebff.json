@@ -1,0 +1,70 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01810-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306451721/next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306433769/monthly-return-of-equity-issuer-on-movements-in-securities-for",
+    "https://news.futunn.com/hk/notice/306345425/announcement-of-an-automatic-share-buy-back-program",
+    "https://news.futunn.com/hk/notice/306478077/next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306531483/date-of-board-meeting",
+    "https://news.futunn.com/hk/notice/306531357/next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306549733/next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306587568/next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306606712/monthly-return-of-equity-issuer-on-movements-in-securities-for"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306451721/next-day-disclosure-return": {
+      "headline": "小米集團-W (01810) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:24:14.323591",
+      "last_seen": "2026-02-09T21:24:14.323600"
+    },
+    "https://news.futunn.com/hk/notice/306433769/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "股權股本",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:24:27.443391",
+      "last_seen": "2026-02-09T21:24:27.443399"
+    },
+    "https://news.futunn.com/hk/notice/306345425/announcement-of-an-automatic-share-buy-back-program": {
+      "headline": "自動股份購回計劃公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:50:19.278565",
+      "last_seen": "2026-02-10T10:50:19.278582"
+    },
+    "https://news.futunn.com/hk/notice/306478077/next-day-disclosure-return": {
+      "headline": "小米集團-W (01810) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:27:56.526730",
+      "last_seen": "2026-02-13T12:27:56.526753"
+    },
+    "https://news.futunn.com/hk/notice/306531483/date-of-board-meeting": {
+      "headline": "小米集團-W (01810) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:52:09.135021",
+      "last_seen": "2026-02-25T11:52:09.135039"
+    },
+    "https://news.futunn.com/hk/notice/306531357/next-day-disclosure-return": {
+      "headline": "翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:52:10.041203",
+      "last_seen": "2026-02-25T11:52:10.041222"
+    },
+    "https://news.futunn.com/hk/notice/306549733/next-day-disclosure-return": {
+      "headline": "小米集團-W (01810) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:55:43.889431",
+      "last_seen": "2026-02-27T11:55:43.889450"
+    },
+    "https://news.futunn.com/hk/notice/306587568/next-day-disclosure-return": {
+      "headline": "小米集團-W (01810) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:24:17.244694",
+      "last_seen": "2026-03-04T13:24:17.244710"
+    },
+    "https://news.futunn.com/hk/notice/306606712/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "小米集團-W (01810) 最新公告和新聞稿 - 富途牛牛",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:25:17.081441",
+      "last_seen": "2026-03-06T11:25:17.081459"
+    }
+  }
+}

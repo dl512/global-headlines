@@ -1,0 +1,32 @@
+## Tech News
+
+- **ByteDance restructures TikTok US ownership**: ByteDance has set up a US entity for TikTok, with 80% owned by non-Chinese investors, to address US data privacy concerns.
+- **TikTok settles social media addiction lawsuit**: TikTok and Snap have settled a major lawsuit over alleged addictive platform designs, while Meta and YouTube face trial.
+- **US secures TikTok’s future after Trump-approved deal**: The deal to keep TikTok operating in the US has closed, but the platform faces technical and censorship challenges.
+- **Anthropic raises funding, warns of AI job disruption**: Anthropic completed a funding round over $10 billion, eyes IPO, and warns AI could cause severe white-collar job losses.
+- **Mozilla forms ‘AI rebel alliance’ against OpenAI, Anthropic**: Mozilla is investing $1.4 billion to back transparent, trustworthy AI as a counterweight to industry giants.
+- **Chinese AI firms accelerate model rollouts**: Alibaba, Moonshot, and others are rapidly launching new AI models to compete with US rivals, focusing on open-source and emerging markets.
+- **DeepWay raises 11.77 billion yuan for smart heavy trucks**: Chinese truck maker DeepWay secured 11.77 billion yuan in Pre-IPO funding to advance heavy-duty truck electrification and automation.
+- **Amazon restructures, closes Fresh and Go stores**: Amazon is shutting its physical Fresh and Go stores, shifting focus to grocery delivery and expanding Whole Foods.
+- **Amazon agrees to $1 billion settlement over returns policy**: Amazon will pay $309 million to consumers and improve returns processes after failing to properly refund customers.
+- **Pinterest to lay off 15% of workforce, shift to AI**: Pinterest is cutting staff and office space to focus on AI-powered products amid rising competition.
+- **Waymo narrows price gap with Uber and Lyft**: Waymo has lowered robotaxi prices in San Francisco, while Uber and Lyft fares rise, increasing competition.
+- **Corning stock surges after $6B Meta AI fiber deal**: Corning’s shares soared after Meta committed $6 billion for fiber-optic cables to support AI data centers.
+- **Redwire wins share of $151B US ‘Golden Dome’ defense contract**: Redwire’s stock jumped 29% after joining President Donald Trump’s missile defense initiative.
+- **Intel to match US ‘Trump Accounts’ contributions for children**: Intel will match the US government’s $1,000 investment for children’s accounts under President Donald Trump’s new program.
+- **Europe seeks tech independence amid US sanctions**: European countries are developing domestic tech alternatives to reduce reliance on US technology and avoid sanctions.
+- **Google expands AI Plus plan globally**: Google’s affordable AI Plus subscription is now available in all markets, competing with OpenAI’s ChatGPT Go.
+- **OpenAI launches Prism AI workspace for scientists**: OpenAI released Prism, a free research platform using GPT-5.2 to assist scientists with analysis and paper revisions.
+- **WhatsApp rolls out stricter security settings**: WhatsApp is introducing new privacy features to protect users, especially public figures and journalists, from cyberattacks.
+- **Android adds new anti-theft features**: Google is rolling out enhanced security and recovery tools for Android 16 and above.
+- **Apple and Google host ‘nudify’ AI apps, watchdog finds**: Dozens of apps that generate nude images from user photos were found on Apple and Google app stores, raising safety concerns.
+- **Amazon inadvertently reveals cloud layoffs**: Amazon accidentally disclosed plans for layoffs in its cloud unit, part of broader cost-cutting efforts.
+- **Tesla loses $15B in brand value amid Musk’s politics**: Tesla’s brand value fell 36% in 2025, attributed to Elon Musk’s political involvement and lack of new EV models.
+- **Major social media trial begins in US**: Meta, YouTube, and TikTok face a landmark trial over alleged harm to young users from platform design flaws.
+- **Tech’s massive AI spending under scrutiny**: Wall Street is watching major tech firms’ $470 billion AI investments for signs of profitable returns.
+- **Fundrise launches free AI real estate analysis tool**: Fundrise’s RealAI platform offers high-level property data and market insights to the public.
+- **NASA finds strongest sign yet of ancient life on Mars**: A Mars rock sample shows the clearest evidence so far of ancient life, according to NASA.
+- **Black hole collision confirms Einstein and Hawking predictions**: New astrophysics findings validate decades-old theories on black holes and gravitational waves.
+- **Rare ‘tooth-in-eye’ surgery restores man’s vision**: A unique procedure using a tooth implant restored a man’s sight after 20 years.
+- **Indian states consider social media ban for children**: Several Indian states are weighing Australia-style bans on social media for users under 16.
+- **UK to block Pornhub and Aylo sites over age-verification law**: From February 2026, unverified UK users will lose access to major adult sites due to new regulations.

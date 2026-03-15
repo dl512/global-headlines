@@ -1,0 +1,28 @@
+## Most Important Stories
+
+- **US President Donald Trump softens stance after Minneapolis shooting of ICU nurse Alex Pretti**: The White House shifted from labeling Pretti a terrorist to calling for investigations amid bipartisan outrage, protests, and business leaders urging de-escalation following bystander videos contradicting officials’ claims.
+- **US government faces possible partial shutdown over DHS funding after Minneapolis shooting**: Senate Democrats oppose a funding package including DHS after the Pretti killing, while Republicans refuse to remove it, risking a government shutdown.
+- **US President Donald Trump raises tariffs on South Korean imports to 25%, impacting autos and pharma**: South Korea seeks urgent talks as Hyundai shares fall and trade tensions escalate over delayed trade deal approval.
+- **US President Donald Trump threatens 100% tariff on Canadian goods if Canada pursues China trade deal**: Canada rejects a new China trade deal amid US warnings, emphasizing commitment to existing agreements.
+- **Treasury cancels Booz Allen contracts after employee leaks US President Donald Trump’s tax records**: Booz Allen’s stock drops over 10% as the US Treasury cites inadequate data safeguards following the high-profile leak.
+- **Europe-US relations hit lowest point since NATO’s founding amid Trump’s Greenland and NATO comments**: European leaders express loss of trust as transatlantic ties weaken, with only 16% of Europeans viewing the US as a shared-value partner.
+- **China purges top military leaders, raising concerns about Xi Jinping’s control and military readiness**: The removal of high-ranking generals, officially for corruption, signals internal power struggles and potential instability.
+- **China’s industrial profits rise in 2025, ending three years of decline**: Profits edge up 0.6% as Beijing curbs price wars and encourages overseas expansion, despite weak domestic demand.
+- **Japan court orders North Korea to compensate migrants lured by propaganda**: A Tokyo court awards ¥88 million to four victims, marking a symbolic legal victory despite North Korea’s noncompliance.
+- **Severe US winter storm causes deaths, power outages, and travel chaos across North America**: At least a dozen killed, hundreds of thousands lose power, and major disruptions hit both the US and Canada.
+- **TikTok deletions surge 150% after US joint venture announcement and privacy concerns**: User trust drops as new privacy policy prompts mass uninstalls in the US.
+- **French MPs approve bill to ban social media for under-15s amid mental health concerns**: The legislation, backed by President Macron, moves to the Senate and may include a school phone ban.
+- **Israel recovers body of last hostage in Gaza amid ongoing conflict**: The recovery marks a significant development in the Israel-Gaza situation.
+- **US carrier strike group arrives in Middle East as regional tensions rise**: Deployment underscores ongoing security challenges in the region.
+- **New Iran videos show violent crackdown on protests and high death tolls**: Footage reveals bodies in hospitals and snipers on rooftops amid a nationwide internet blackout.
+- **Canada not pursuing China trade deal as US President Donald Trump threatens tariffs**: Prime Minister Carney affirms no new China deal, responding to US tariff threats.
+- **Passengers rescued after ferry sinks in southern Philippines, at least 18 dead**: The maritime disaster highlights ongoing safety issues in the region.
+- **Crowds in Japan bid farewell to last pandas before return to China amid worsening ties**: The pandas’ departure reflects deteriorating Japan-China relations.
+- **India mourns BBC broadcaster Sir Mark Tully, the ‘voice of India’**: Tributes pour in for the journalist renowned for his South Asia coverage.
+- **Australian beaches face spike in shark attacks, raising safety concerns**: Four attacks in two days prompt calls for increased awareness and precautions.
+- **Kurdish forces in northeast Syria face growing threats and instability**: Regional dynamics create uncertainty for Kurdish security and governance.
+- **French ex-senator on trial for drugging colleague’s drink with MDMA**: The high-profile case spotlights political misconduct and consent issues.
+- **Danish troops feel betrayed as US President Donald Trump threatens Greenland and criticizes NATO**: Tensions rise over US-Denmark relations and Greenland’s sovereignty.
+- **US President Donald Trump sues JPMorgan Chase over alleged political debanking**: Trump seeks $5 billion, claiming accounts were closed for political reasons.
+- **India pushes to build domestic semiconductor industry, aiming for chip manufacturing self-reliance**: New facilities and expanded capabilities target supply chain resilience.
+- **Hyrox fitness competition surges among Gen Z despite high costs and overtraining concerns**: The trend reflects changing attitudes toward fitness and identity.

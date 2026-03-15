@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00100-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306434294/minimax-wp-stabilizing-actions-and-end-of-stabilization-period",
+    "https://news.futunn.com/hk/notice/306305783/minimax-wp-next-day-disclosure-return",
+    "https://news.futunn.com/hk/notice/306466776/minimax-wp-date-of-board-meeting"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306434294/minimax-wp-stabilizing-actions-and-end-of-stabilization-period": {
+      "headline": "MINIMAX-WP：穩定價格行動及穩定價格期間結束",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:43:22.128894",
+      "last_seen": "2026-02-09T21:43:22.128904"
+    },
+    "https://news.futunn.com/hk/notice/306305783/minimax-wp-next-day-disclosure-return": {
+      "headline": "MINIMAX-WP：翌日披露報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:06:50.893910",
+      "last_seen": "2026-02-10T11:06:50.893925"
+    },
+    "https://news.futunn.com/hk/notice/306466776/minimax-wp-date-of-board-meeting": {
+      "headline": "MINIMAX-WP：董事會會議召開日期",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:32:14.921633",
+      "last_seen": "2026-02-12T12:32:14.921648"
+    }
+  }
+}

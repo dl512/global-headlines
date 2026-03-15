@@ -1,0 +1,392 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01347-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68639027",
+    "https://news.futunn.com/hk/post/68668721",
+    "https://news.futunn.com/hk/post/68639216",
+    "https://news.futunn.com/hk/post/68640684/capital-flows-northbound-funds-have-net-purchased-xiaomi-for-8",
+    "https://news.futunn.com/hk/post/68617543/the-concept-of-optical-communication-continues-to-strengthen-with-china",
+    "https://news.futunn.com/hk/post/68617384/stock-market-movements-chip-stocks-rebound-today-as-the-two",
+    "https://news.futunn.com/hk/post/68618783",
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68776735/zhitong-hk-stock-investment-diary-february-12",
+    "https://news.futunn.com/hk/post/68742048/the-race-for-humanoid-robots-chinese-startups-accelerate-mass-production",
+    "https://news.futunn.com/hk/post/68743470/could-fiber-optics-be-the-next-big-thing-in-storage",
+    "https://news.futunn.com/hk/post/68822006/hua-hong-semiconductor-s-q4-revenue-increased-by-22-4",
+    "https://news.futunn.com/hk/post/68819583/hua-hong-semiconductor-01347-announced-its-2025-financial-results-with",
+    "https://news.futunn.com/hk/post/68947731/clsa-has-reaffirmed-its-outperform-rating-for-huahong-01347-hk",
+    "https://news.futunn.com/hk/post/68946468/hua-hong-semi-1347-hk-improving-mix-and-scale-yet",
+    "https://news.futunn.com/hk/post/68938208",
+    "https://news.futunn.com/hk/post/68945799/hua-hong-semiconductor-1347-hk-q4-2025-earnings-report-commentary",
+    "https://news.futunn.com/hk/post/68931168",
+    "https://news.futunn.com/hk/post/68929512",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69089320/goldman-sachs-on-spring-festival-gala-robots-significant-progress-in",
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead",
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record",
+    "https://news.futunn.com/hk/post/69089274",
+    "https://news.futunn.com/hk/post/69089002/hong-kong-stock-market-midday-review-hang-seng-semiconductor-01347-rose-over-5-analysts",
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index-rose",
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index",
+    "https://news.futunn.com/hk/post/69197300/china-aims-to-double-its-advanced-chip-production-capacity-led",
+    "https://news.futunn.com/hk/post/69192907",
+    "https://news.futunn.com/hk/post/69189101/hong-kong-stocks-open-hang-seng-index-up-0-58",
+    "https://news.futunn.com/hk/post/69153450",
+    "https://news.futunn.com/hk/post/69138109/after-gaining-popularity-at-the-spring-festival-gala-the-robot",
+    "https://news.futunn.com/hk/post/69136474/bocom-international-reiterates-buy-rating-for-huahong-semiconductor-01347-raises",
+    "https://news.futunn.com/hk/post/69133075/機器人臺前炫技幕後大佬卻藏在這兩隻指數中",
+    "https://news.futunn.com/hk/post/69116821/humanoid-robots-at-the-spring-festival-gala-gained-explosive-popularity",
+    "https://news.futunn.com/hk/post/69096960",
+    "https://news.futunn.com/hk/post/69333566",
+    "https://news.futunn.com/hk/post/69286080/northbound-capital-trends-northbound-capital-net-sold-7-366-billion",
+    "https://news.futunn.com/hk/post/69290817/capital-flows-northbound-funds-sold-hk-stocks-worth-over-hkd",
+    "https://news.futunn.com/hk/post/69272913",
+    "https://news.futunn.com/hk/post/69429202/trending-industry-today-sensetime-w-leads-losses-in-robotics-stocks",
+    "https://news.futunn.com/hk/post/69423812",
+    "https://news.futunn.com/flash/20016154/the-spokesperson-for-the-conference-stated-that-2025-will-be",
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese",
+    "https://news.futunn.com/hk/post/69691818",
+    "https://news.futunn.com/flash/20025710/openai-has-released-the-gpt-5-4-and-gpt-5",
+    "https://news.futunn.com/hk/post/69644448",
+    "https://news.futunn.com/hk/post/69629855/the-hang-seng-tech-index-has-lost-600-billion-us",
+    "https://news.futunn.com/hk/post/69632429/stock-movement-in-hong-kong-optical-communication-concept-stocks-rally",
+    "https://news.futunn.com/hk/post/69834313/the-optical-communication-concept-stocks-in-the-hong-kong-stock",
+    "https://news.futunn.com/hk/post/69833520",
+    "https://news.futunn.com/hk/post/69800579",
+    "https://news.futunn.com/hk/post/69779204/could-it-exacerbate-the-global-chip-shortage-on-march-18",
+    "https://news.futunn.com/hk/post/69765903"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68639027": {
+      "headline": "華虹半導體發佈關於發行股份購買資產並募集配套資金的自查報告",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:46:27.095225",
+      "last_seen": "2026-02-09T21:46:27.095238"
+    },
+    "https://news.futunn.com/hk/post/68668721": {
+      "headline": "【產業圖譜】重磅！2025年無錫市集成電路產業全景洞察（附產業政策、產業分佈圖譜、產業發展現狀、企業發展現狀、配套產業發展、產業發展規劃）",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:23.734753",
+      "last_seen": "2026-02-10T11:09:23.734767"
+    },
+    "https://news.futunn.com/hk/post/68639216": {
+      "headline": "創紀錄！全球半導體銷量激增，港股信息技術ETF放量大漲2.8%",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:30.374052",
+      "last_seen": "2026-02-10T11:09:30.374066"
+    },
+    "https://news.futunn.com/hk/post/68640684/capital-flows-northbound-funds-have-net-purchased-xiaomi-for-8": {
+      "headline": "資金動向 | 北水連續8日淨買入小米，連續6日淨買入騰訊",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:36.262456",
+      "last_seen": "2026-02-10T11:09:36.262470"
+    },
+    "https://news.futunn.com/hk/post/68617543/the-concept-of-optical-communication-continues-to-strengthen-with-china": {
+      "headline": "光通信概念持續走強，中信建投研報稱2026年AI算力需求旺盛",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:41.243600",
+      "last_seen": "2026-02-10T11:09:41.243614"
+    },
+    "https://news.futunn.com/hk/post/68617384/stock-market-movements-chip-stocks-rebound-today-as-the-two": {
+      "headline": "港股異動 | 芯片股今日回暖 晶圓代工雙雄本週均將發佈業績 產業鏈漲價潮持續蔓延",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:46.367262",
+      "last_seen": "2026-02-10T11:09:46.367277"
+    },
+    "https://news.futunn.com/hk/post/68618783": {
+      "headline": "中芯國際和華虹半導體 本週同迎關鍵節點能否杜絕蛇尾",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:53.334004",
+      "last_seen": "2026-02-10T11:09:53.334019"
+    },
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong": {
+      "headline": "港股AI應用、光通訊情緒持續回暖，券商研報指明AI價值重構新路徑",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:09:57.904838",
+      "last_seen": "2026-02-10T11:09:57.904852"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:37:42.428781",
+      "last_seen": "2026-02-12T12:37:42.428794"
+    },
+    "https://news.futunn.com/hk/post/68776735/zhitong-hk-stock-investment-diary-february-12": {
+      "headline": "港股投資日誌|2026年2月12日",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:37:43.163795",
+      "last_seen": "2026-02-12T12:37:43.163810"
+    },
+    "https://news.futunn.com/hk/post/68742048/the-race-for-humanoid-robots-chinese-startups-accelerate-mass-production": {
+      "headline": "人形機器人競速：中國初創企業搶跑量產，特斯拉、波士頓動力計劃2026年提升人形機器人產量",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:37:43.902236",
+      "last_seen": "2026-02-12T12:37:43.902252"
+    },
+    "https://news.futunn.com/hk/post/68743470/could-fiber-optics-be-the-next-big-thing-in-storage": {
+      "headline": "光纖，會是下一個存儲嗎？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:37:44.673095",
+      "last_seen": "2026-02-12T12:37:44.673112"
+    },
+    "https://news.futunn.com/hk/post/68822006/hua-hong-semiconductor-s-q4-revenue-increased-by-22-4": {
+      "headline": "華虹半導體Q4銷售收入同比增22.4%至6.599億美元，實現扭虧爲盈，預計Q1銷售收入約爲6.5億美元至6.6億美元之間",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:02:29.462319",
+      "last_seen": "2026-02-13T13:02:29.462332"
+    },
+    "https://news.futunn.com/hk/post/68819583/hua-hong-semiconductor-01347-announced-its-2025-financial-results-with": {
+      "headline": "華虹半導體：母公司擁有人應占溢利5488.1萬美元，同比減少5.6%",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:02:32.529913",
+      "last_seen": "2026-02-13T13:02:32.529929"
+    },
+    "https://news.futunn.com/hk/post/68947731/clsa-has-reaffirmed-its-outperform-rating-for-huahong-01347-hk": {
+      "headline": "《大行》里昂重申對華虹(01347.HK)「跑贏大市」評級 料AI相關業務可持續快速增長",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:22:25.023470",
+      "last_seen": "2026-02-16T11:22:25.023492"
+    },
+    "https://news.futunn.com/hk/post/68946468/hua-hong-semi-1347-hk-improving-mix-and-scale-yet": {
+      "headline": "Hua Hong發佈了其4Q25/FY25業績。4Q25營收同比增長22.4% / 3.9%",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:22:27.585660",
+      "last_seen": "2026-02-16T11:22:27.585681"
+    },
+    "https://news.futunn.com/hk/post/68938208": {
+      "headline": "華虹現在是想低調都不行了",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:22:28.319307",
+      "last_seen": "2026-02-16T11:22:28.319323"
+    },
+    "https://news.futunn.com/hk/post/68945799/hua-hong-semiconductor-1347-hk-q4-2025-earnings-report-commentary": {
+      "headline": "華虹半導體(1347.HK)2025Q4業績點評：產能擴張持續 2026年12英寸晶圓仍存漲價空間",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T11:22:31.569029",
+      "last_seen": "2026-02-16T11:22:31.569051"
+    },
+    "https://news.futunn.com/hk/post/68931168": {
+      "headline": "華虹：DRAM價格大漲，或抑制消費類產品需求",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:22:32.310545",
+      "last_seen": "2026-02-16T11:22:32.310559"
+    },
+    "https://news.futunn.com/hk/post/68929512": {
+      "headline": "圖靈進化攜手國家集成電路創新中心，深化AI芯片全鏈條合作",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:22:33.050875",
+      "last_seen": "2026-02-16T11:22:33.050890"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股午評：恒科指漲3.32% 科網股、資源股走強 AI概念股回調",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:49.032282",
+      "last_seen": "2026-02-23T12:53:49.032298"
+    },
+    "https://news.futunn.com/hk/post/69089320/goldman-sachs-on-spring-festival-gala-robots-significant-progress-in": {
+      "headline": "高盛評\"春晚機器人\"：硬件顯著進步，推動應用普及，未來關鍵是底層AI",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:49.942187",
+      "last_seen": "2026-02-23T12:53:49.942201"
+    },
+    "https://news.futunn.com/hk/post/69089580/unfazed-by-tariff-impacts-the-technology-sector-takes-the-lead": {
+      "headline": "無懼關稅衝擊！科技板塊擔當 「主攻手」助科指大漲4%，機構：在AI應用加速推進的背景下，科技板塊有望反彈回升",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:50.677760",
+      "last_seen": "2026-02-23T12:53:50.677775"
+    },
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record": {
+      "headline": "台韓星股齊破頂 港股升逾700點重上兩萬七關 科技股領漲美團揚7% AI大模型半新股急吐",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:51.631437",
+      "last_seen": "2026-02-23T12:53:51.631452"
+    },
+    "https://news.futunn.com/hk/post/69089274": {
+      "headline": "全球半導體銷售額連續26個月正增長 半導體板塊普遍拉高 英諾賽科漲5.36%",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:52.693592",
+      "last_seen": "2026-02-23T12:53:52.693609"
+    },
+    "https://news.futunn.com/hk/post/69089002/hong-kong-stock-market-midday-review-hang-seng-semiconductor-01347-rose-over-5-analysts": {
+      "headline": "港股異動 | 華虹半導體(01347)漲超5% 機構認爲公司新12英寸晶圓廠Fab9A將於今年達到最高產能",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:53:55.804260",
+      "last_seen": "2026-02-23T12:53:55.804276"
+    },
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index-rose": {
+      "headline": "港股光通信概念股爆發！長飛大漲總市值升破千億港元，光谷重點企業春節不停工，AI高速光模塊訂單排到四季度",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:57.222809",
+      "last_seen": "2026-02-23T12:53:57.222826"
+    },
+    "https://news.futunn.com/hk/post/69090268/hong-kong-stock-market-midday-review-hang-seng-index": {
+      "headline": "智通港股通資金流向統計(T+2)|2月23日",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:53:58.597859",
+      "last_seen": "2026-02-23T12:53:58.597878"
+    },
+    "https://news.futunn.com/hk/post/69197300/china-aims-to-double-its-advanced-chip-production-capacity-led": {
+      "headline": "中國目標倍增先進晶片產能 中芯華虹領軍 冀滿足AI運算需求",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:42.039124",
+      "last_seen": "2026-02-25T12:57:42.039142"
+    },
+    "https://news.futunn.com/hk/post/69192907": {
+      "headline": "全球半導體設備廠商排名出爐！中國企業躋身全球前五！",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:44.060568",
+      "last_seen": "2026-02-25T12:57:44.060592"
+    },
+    "https://news.futunn.com/hk/post/69189101/hong-kong-stocks-open-hang-seng-index-up-0-58": {
+      "headline": "港股開盤 | 恒指高開0.58% 半導體板塊強勢 華虹半導體(01347)漲近2%",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:44.951752",
+      "last_seen": "2026-02-25T12:57:44.951768"
+    },
+    "https://news.futunn.com/hk/post/69153450": {
+      "headline": "港股復盤 | 港股單邊下行科技股承壓，南向資金逆勢淨買入31.31億港元",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:46.730430",
+      "last_seen": "2026-02-25T12:57:46.730447"
+    },
+    "https://news.futunn.com/hk/post/69138109/after-gaining-popularity-at-the-spring-festival-gala-the-robot": {
+      "headline": "春晚大熱後機器人概念港股衝高回落 機構稱2026年迎量產與商業化關鍵期",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:48.043003",
+      "last_seen": "2026-02-25T12:57:48.043013"
+    },
+    "https://news.futunn.com/hk/post/69136474/bocom-international-reiterates-buy-rating-for-huahong-semiconductor-01347-raises": {
+      "headline": "交銀國際：維持華虹半導體(01347)「買入」評級 上調目標價到120港元",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T12:57:51.674583",
+      "last_seen": "2026-02-25T12:57:51.674603"
+    },
+    "https://news.futunn.com/hk/post/69133075/機器人臺前炫技幕後大佬卻藏在這兩隻指數中": {
+      "headline": "機器人臺前炫技，幕後「大佬」卻藏在這兩隻指數中",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:52.557290",
+      "last_seen": "2026-02-25T12:57:52.557306"
+    },
+    "https://news.futunn.com/hk/post/69116821/humanoid-robots-at-the-spring-festival-gala-gained-explosive-popularity": {
+      "headline": "春晚人形機器人爆火出圈！機構預計今年年產業鏈迎來規模放量階段",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:53.982640",
+      "last_seen": "2026-02-25T12:57:53.982661"
+    },
+    "https://news.futunn.com/hk/post/69096960": {
+      "headline": "春晚機器人刷屏！港股概念股已提前大漲 一文鎖定A股核心產業鏈(附股)",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:57:55.628349",
+      "last_seen": "2026-02-25T12:57:55.628366"
+    },
+    "https://news.futunn.com/hk/post/69333566": {
+      "headline": "光通信板塊集體受壓 長飛光纖光纜跌5.18%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:24:50.903120",
+      "last_seen": "2026-02-27T12:24:50.903137"
+    },
+    "https://news.futunn.com/hk/post/69286080/northbound-capital-trends-northbound-capital-net-sold-7-366-billion": {
+      "headline": "2月26日南向資金淨賣出73.66億港元",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:24:52.306881",
+      "last_seen": "2026-02-27T12:24:52.306899"
+    },
+    "https://news.futunn.com/hk/post/69290817/capital-flows-northbound-funds-sold-hk-stocks-worth-over-hkd": {
+      "headline": "資金動向 | 北水拋售港股逾73億港元，連續7日掃貨美團",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:24:53.412673",
+      "last_seen": "2026-02-27T12:24:53.412688"
+    },
+    "https://news.futunn.com/hk/post/69272913": {
+      "headline": "高盛——華虹半導體：2026年第一季度營收持平，毛利率或環比提升；2025年第四季度營收/毛利率符合預期；維持買入評級（附下載）",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:24:54.493744",
+      "last_seen": "2026-02-27T12:24:54.493760"
+    },
+    "https://news.futunn.com/hk/post/69429202/trending-industry-today-sensetime-w-leads-losses-in-robotics-stocks": {
+      "headline": "熱門板塊速睇：港股機械人概念股走勢疲弱，商湯-W領跌",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:21:28.800030",
+      "last_seen": "2026-03-02T10:21:28.800045"
+    },
+    "https://news.futunn.com/hk/post/69423812": {
+      "headline": "港股通(深)淨買入72.81億港元",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:21:29.540605",
+      "last_seen": "2026-03-02T10:21:29.540620"
+    },
+    "https://news.futunn.com/flash/20016154/the-spokesperson-for-the-conference-stated-that-2025-will-be": {
+      "headline": "快訊 | 大會發言人：2025年是國產人形機器人產業實現技術突破與場景落地雙重跨越的關鍵一年",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:55:01.654287",
+      "last_seen": "2026-03-04T13:55:01.654303"
+    },
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese": {
+      "headline": "百億基金經理夏俊傑：中國股票是最便宜主流資產，AI泡沫土壤或不在",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:55:02.601099",
+      "last_seen": "2026-03-04T13:55:02.601121"
+    },
+    "https://news.futunn.com/hk/post/69691818": {
+      "headline": "盈利大幅躍升 科創板AI產業鏈企業發展方興未艾",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:55:15.566105",
+      "last_seen": "2026-03-06T11:55:15.566122"
+    },
+    "https://news.futunn.com/flash/20025710/openai-has-released-the-gpt-5-4-and-gpt-5": {
+      "headline": "快訊 | OpenAI發佈GPT-5.4及GPT-5.4 Pro模型，支持高達100萬token的上下文窗口",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:55:17.308672",
+      "last_seen": "2026-03-06T11:55:17.308688"
+    },
+    "https://news.futunn.com/hk/post/69644448": {
+      "headline": "華虹半導體2026年2月股份變動及公衆持股量確認",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:55:18.028090",
+      "last_seen": "2026-03-06T11:55:18.028106"
+    },
+    "https://news.futunn.com/hk/post/69629855/the-hang-seng-tech-index-has-lost-600-billion-us": {
+      "headline": "恒科蒸發6000億美元，自去年10月高點累跌逾28%，市場在怕什麼？",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:55:19.220810",
+      "last_seen": "2026-03-06T11:55:19.220826"
+    },
+    "https://news.futunn.com/hk/post/69632429/stock-movement-in-hong-kong-optical-communication-concept-stocks-rally": {
+      "headline": "港股異動 | 光通信概念股集體回暖 英偉達豪擲40億美元 戰略投資兩家光通信領軍企業",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:55:20.343272",
+      "last_seen": "2026-03-06T11:55:20.343289"
+    },
+    "https://news.futunn.com/hk/post/69834313/the-optical-communication-concept-stocks-in-the-hong-kong-stock": {
+      "headline": "港股光通信概念股再度走強，長飛領漲，光纖通信大會將近備受關注，機構稱聚焦行業高景氣細分賽道與中長期主線",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:49:44.567370",
+      "last_seen": "2026-03-10T10:49:44.567386"
+    },
+    "https://news.futunn.com/hk/post/69833520": {
+      "headline": "【蓋世快訊】最高法明確醉酒後啓用輔助駕駛要承擔刑責；啓境首款智能獵裝車定名GT7",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:49:45.970525",
+      "last_seen": "2026-03-10T10:49:45.970541"
+    },
+    "https://news.futunn.com/hk/post/69800579": {
+      "headline": "季度業績前瞻 | 華虹半導體：預測一季度營業收入6.53~6.87億美元，同比增長20.7%~27.0%",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:49:55.272723",
+      "last_seen": "2026-03-10T10:49:55.272743"
+    },
+    "https://news.futunn.com/hk/post/69779204/could-it-exacerbate-the-global-chip-shortage-on-march-18": {
+      "headline": "加劇全球缺芯？3月18日，三星工會啓動罷工投票",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:49:56.010968",
+      "last_seen": "2026-03-10T10:49:56.010986"
+    },
+    "https://news.futunn.com/hk/post/69765903": {
+      "headline": "台積電佔74%，中芯國際僅6%：中東戰爭，能否改變全球芯片製造第二極的歸屬？",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:49:57.028354",
+      "last_seen": "2026-03-10T10:49:57.028370"
+    }
+  }
+}

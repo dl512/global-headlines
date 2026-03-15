@@ -1,0 +1,22 @@
+## Most Important Stories
+
+- **Minneapolis Shooting Sparks Protests and Political Fallout**: The fatal shooting of ICU nurse Alex Pretti by federal immigration agents in Minneapolis has triggered mass protests, calls for federal agents to leave, business leaders urging de-escalation, and a looming US government shutdown as Senate Democrats oppose DHS funding.
+- **Videos Contradict Official Account of Minneapolis Shooting**: Bystander videos appear to challenge federal officials' claims about the circumstances of Alex Pretti’s death, intensifying scrutiny and public outrage.
+- **US President Donald Trump Faces Pressure to Halt ICE Operations in Minnesota**: Minnesota Governor Tim Walz has demanded a stop to ICE operations after a second deadly shooting, escalating tensions between state and federal authorities.
+- **US President Donald Trump Threatens 100% Tariffs on Canada Over China Trade Deal**: President Donald Trump warned of steep tariffs if Canada pursues a trade agreement with China, leading Canada to halt negotiations and straining US-Canada relations.
+- **US President Donald Trump Withdraws Canada’s Invitation to ‘Board of Peace’ Amid Diplomatic Rift**: President Donald Trump rescinded Canada’s invitation to join his “Board of Peace” initiative, reflecting worsening ties and disagreements over economic policy.
+- **Gold Price Hits Record $5,000 Amid Economic Uncertainty**: Gold surpassed $5,000 per ounce for the first time, driven by geopolitical tensions, inflation, and strong demand from central banks and Asian consumers.
+- **China’s Top General Under Investigation in Military Purge**: China’s highest-ranking military official is under investigation as part of a broader political and military consolidation campaign.
+- **Japan Returns Last Pandas to China as Diplomatic Tensions Rise**: Japan bid farewell to its last pandas, symbolizing deteriorating relations with China following political disputes over Taiwan.
+- **Major Winter Storm Disrupts US, Leaves Hundreds of Thousands Without Power**: A severe winter storm has caused deaths, widespread power outages, and travel disruptions across the US, with extreme cold and snow expected to continue.
+- **Ferry Sinks in Southern Philippines, Leaving at Least 15 Dead and Dozens Missing**: A ferry with over 350 people sank off the Philippines, resulting in at least 15 deaths and ongoing rescue efforts.
+- **Myanmar’s Military-Backed Party Wins ‘Sham’ Election Amid Civil Conflict**: Myanmar’s military regime secured a landslide in widely criticized elections, consolidating power despite ongoing unrest and opposition.
+- **Russia Accused of Abusing Interpol to Target Critics Abroad**: Leaked documents reveal Russia’s use of Interpol’s wanted list to pursue political opponents and journalists internationally.
+- **Trilateral Talks Begin Between Ukraine, Russia, and US**: Ukraine, Russia, and the US held their first trilateral talks, planning future meetings to address ongoing conflict issues.
+- **France to Fast-Track Social Media Ban for Under-15s**: President Macron announced plans to ban social media for children under 15, citing concerns about youth mental health.
+- **Australian Heatwave Disrupts National Day Celebrations and Sports Events**: Extreme heat and fire warnings have led to event cancellations and disruptions across Australia, including the Australian Open.
+- **UK Joins Major Offshore Wind Farm Project with European Partners**: The UK will collaborate with eight European countries to develop 100 GW of offshore wind capacity by 2050.
+- **Venezuelan Diaspora Debates Return After Maduro’s Ouster**: Millions of Venezuelans abroad are considering returning home following the removal of Nicolás Maduro.
+- **Danish Troops Feel Betrayed by US President Donald Trump’s NATO and Greenland Remarks**: Danish veterans express anger after President Donald Trump’s comments about NATO and threats regarding Greenland.
+- **Europe Faces ‘New Reality’ as Transatlantic Ties Shift**: Recent geopolitical tensions signal a realignment in Europe-US relations, with alliances and partnerships evolving.
+- **Climber Alex Honnold Scales Taipei 101 Without Safety Gear**: American climber Alex Honnold completed a record-breaking ascent of Taipei 101 without safety equipment.

@@ -1,0 +1,532 @@
+{
+  "website": "https://www.caixinglobal.com/live/",
+  "links": [
+    "https://www.caixinglobal.com/2026-01-29/alibaba-unveils-new-ai-chip-to-rival-nvidias-china-offerings-102409364.html",
+    "https://www.caixinglobal.com/2026-02-06/alibaba-tech-tapped-to-provide-olympic-athletes-with-ai-assistants-102412090.html",
+    "https://www.caixinglobal.com/2026-02-03/analysis-alibabas-new-processor-shows-applications-are-key-to-ai-chip-success-102411054.html",
+    "https://www.caixinglobal.com/2026-02-02/in-depth-megvii-co-founder-is-back-riding-the-latest-ai-wave-102410570.html",
+    "https://www.caixinglobal.com/2026-02-09/chinas-big-fund-trims-chip-stakes-as-early-investments-mature-102413030.html",
+    "https://www.caixinglobal.com/2026-02-07/satellite-chipmaker-cygnus-raises-215-million-as-china-internet-in-space-push-accelerates-102412496",
+    "https://www.caixinglobal.com/2026-02-05/satellite-maker-spacety-kicks-off-ipo-as-chinas-commercial-space-race-heats-up-102411613.html",
+    "https://www.caixinglobal.com/2026-02-04/beijing-humanoid-robotics-hub-raises-100-million-in-first-funding-round-102411145.html",
+    "https://www.caixinglobal.com/2026-02-07/alibaba-ai-app-crashes-after-3-billion-yuan-giveaway-sparks-frenzy-102412500.html",
+    "https://www.caixinglobal.com/2026-02-07/chinas-autoflight-rolls-out-worlds-first-5-ton-evtol-102412494.html",
+    "https://www.caixinglobal.com/2026-02-07/china-tech-giants-expand-ai-integration-boosting-enterprise-software-valuations-102412500",
+    "https://www.caixinglobal.com/2026-02-07/satellite-chipmaker-cygnus-raises-215-million-as-china-internet-in-space-push-accelerates-102412496.html",
+    "https://www.caixinglobal.com/2026-02-07/major-tech-companies-strategic-ai-initiatives-signal-long-term-investment-trends-102412494.html",
+    "https://www.caixinglobal.com/2026-01-30/chinas-clean-tech-influence-grows-across-the-global-south-102409703.html",
+    "https://www.caixinglobal.com/2026-02-11/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102413424.html",
+    "https://www.caixinglobal.com/2026-02-10/bytedance-unveils-new-ai-video-model-sparking-rally-in-chinese-tech-stocks-102413261.html",
+    "https://www.caixinglobal.com/2026-02-02/alibaba-pledges-432-million-in-lunar-new-year-ai-subsidy-war-102410656.html",
+    "https://www.caixinglobal.com/2026-02-03/analysis-alibabas-new-processor-shows-applications-are-key-to-ai-chip-success-102411054",
+    "https://www.caixinglobal.com/2026-01-27/in-depth-tencent-bets-its-ai-future-on-28-year-old-from-openai-102408553.html",
+    "https://www.caixinglobal.com/2026-01-31/china-fines-kuaishou-unit-38-million-for-e-commerce-violations-102409952.html",
+    "https://www.caixinglobal.com/2026-01-30/chips-drive-chinas-electronics-exports-102409677.html",
+    "https://www.caixinglobal.com/2026-01-29/asml-expects-china-revenue-drop-following-backlog-fueled-surge-102409285.html",
+    "https://www.caixinglobal.com/2026-02-11/bytedance-joins-alibaba-tencent-in-lunar-new-year-ai-giveaway-war-102413416.html",
+    "https://www.caixinglobal.com/2026-02-12/galaxea-ai-raises-144-million-as-chinas-robot-investment-frenzy-mounts-102413767.html",
+    "https://www.caixinglobal.com/2026-02-12/beijing-orders-telecom-overhaul-to-track-drones-in-lower-skies-102413765.html",
+    "https://www.caixinglobal.com/2026-02-12/smic-revenue-rises-as-profit-slips-on-expansion-costs-102413761.html",
+    "https://www.caixinglobal.com/2026-02-12/dutch-court-orders-probe-into-nexperia-keeps-wingtech-frozen-out-102413989.html",
+    "https://www.caixinglobal.com/2026-01-23/xiaomi-to-buy-back-321-million-in-shares-after-72-billion-rout-102406976.html",
+    "https://www.caixinglobal.com/2026-01-15/poland-fines-temu-17-million-over-misleading-discounts-102404015.html",
+    "https://www.caixinglobal.com/2025-06-16/renrenle-commercial-group-coltd-posted-173-million-yuan-net-loss-in-2024-102330884.html",
+    "https://www.caixinglobal.com/2025-06-16/guangzhou-baiyunshan-pharmaceutical-holdings-company-limiteds-net-profit-dropped-295-in-2024-102330883.html",
+    "https://www.caixinglobal.com/2025-06-16/china-tourism-group-duty-free-corporation-limiteds-net-profit-dropped-331-in-2024-102330882.html",
+    "https://www.caixinglobal.com/2026-02-15/bytedance-unveils-doubao-20-ai-model-to-tackle-complex-tasks-102414865.html",
+    "https://www.caixinglobal.com/2026-02-13/china-plans-to-make-liability-insurance-mandatory-for-drones-by-2027-102414470.html",
+    "https://www.caixinglobal.com/2026-02-12/zhipu-ai-launches-new-model-better-at-coding-learning-102413996.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen35-plus-undercutting-gemini-3-pro-on-cost-102415320.html",
+    "https://www.caixinglobal.com/2026-02-16/pentagon-retracts-chinese-military-companies-list-twice-in-two-days-102415332.html",
+    "https://www.caixinglobal.com/2026-02-18/chinas-tech-giants-wage-lunar-new-year-subsidy-war-to-win-ai-users-102415756.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3-5-plus-undercutting-gemini-3-pro-on-cost-102415320.html",
+    "https://www.caixinglobal.com/2026-02-14/hollywood-isnt-a-fan-of-bytedances-new-ai-video-tool-102414813.html",
+    "https://www.caixinglobal.com/2026-02-12/dutch-court-orders-probe-into-nexperia-keeping-wingtech-frozen-out-102413989.html",
+    "https://www.caixinglobal.com/2026-02-14/pentagon-blacklists-alibaba-baidu-and-byd-over-alleged-military-ties-102414844.html",
+    "https://www.caixinglobal.com/2026-02-18/bytedances-doubao-dominates-spring-festival-gala-with-19-billion-ai-interactions-102415609.html",
+    "https://www.caixinglobal.com/2026-02-23/chinas-ai-robotics-raises-fresh-funds-at-over-10-billion-yuan-valuation-102416310.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102415320.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102415332.html",
+    "https://www.caixinglobal.com/2026-02-17/at-chinas-spring-festival-gala-robotics-becomes-big-business-102415344.html",
+    "https://www.caixinglobal.com/2026-02-25/dji-challenges-us-drone-ban-in-federal-appeals-court-102416997.html",
+    "https://www.caixinglobal.com/2026-02-27/baidu-profit-plunges-42-as-ai-push-erodes-core-ad-business-102417319.html",
+    "https://www.caixinglobal.com/2026-02-26/robotics-startup-x-square-secures-fresh-funding-amid-valuation-surge-102417007.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen35-plus-undercutting-gemini-3-pro-on-cost-102415320",
+    "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html",
+    "https://www.caixinglobal.com/2026-03-03/galbot-raises-362-million-in-fresh-funding-eyes-hong-kong-ipo-102418742.html",
+    "https://www.caixinglobal.com/2026-03-03/chinese-tech-firms-dominate-mwc-despite-mideast-travel-snags-102418744.html",
+    "https://www.caixinglobal.com/2026-02-28/geely-backed-meizu-halts-new-smartphone-development-to-pivot-toward-ai-auto-software-102417689.html",
+    "https://www.caixinglobal.com/2026-02-25/dji-challenges-us-drone-ban-in-federal-appeals-court-102416997",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3.5-plus-undercutting-gemini-3-pro-on-cost-102415320.html",
+    "https://www.caixinglobal.com/2026-02-26/robotics-startup-x-square-secures-funding-amid-valuation-surge-102417007.html",
+    "https://www.caixinglobal.com/2026-03-03/chinese-tech-exports-hit-by-us-restrictions-102418744.html",
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3-5-plus-undercutting-gemini-3-pro-on-cost-102415320",
+    "https://www.caixinglobal.com/2026-03-04/alibabas-ai-model-chief-resigns-102419448.html",
+    "https://www.caixinglobal.com/2026-03-02/noetix-robotics-raises-nearly-1-billion-yuan-after-spring-festival-gala-skit-102418646.html",
+    "https://www.caixinglobal.com/2026-02-28/geely-backed-meizu-halts-new-phone-development-to-pivot-toward-ai-auto-software-102417689.html",
+    "https://www.caixinglobal.com/2026-03-06/china-accelerates-ai-push-as-industry-surpasses-12-trillion-yuan-102419927.html",
+    "https://www.caixinglobal.com/2026-03-05/chinas-robot-era-valued-at-over-10-billion-yuan-102419832.html",
+    "https://www.caixinglobal.com/2026-03-05/xpeng-chairman-says-china-poised-to-leapfrog-to-fully-driverless-cars-102419519.html",
+    "https://www.caixinglobal.com/2026-03-05/chinas-ai-robotics-raises-funds-at-over-10-billion-yuan-102419832.html",
+    "https://www.caixinglobal.com/2026-03-07/robot-sensor-startup-paxini-raises-145-million-tops-14-billion-valuation-102420414.html",
+    "https://www.caixinglobal.com/2026-03-06/nexperia-disables-china-staff-accounts-as-control-dispute-escalates-102420406.html",
+    "https://www.caixinglobal.com/2026-03-05/chinas-ai-robotics-raises-fresh-funds-at-over-10-billion-yuan-valuation-102419832.html",
+    "https://www.caixinglobal.com/2026-03-10/tencent-moves-to-bring-openclaw-ai-assistant-into-wechat-102421338.html",
+    "https://www.caixinglobal.com/2026-03-10/chinese-robotics-startups-push-into-europe-as-industry-seeks-scale-102421334.html",
+    "https://www.caixinglobal.com/2026-03-09/chinese-cities-race-to-build-ai-agent-hubs-around-openclaw-102421332.html",
+    "https://www.caixinglobal.com/2026-03-09/chinese-tech-giants-offer-free-openclaw-installations-to-boost-cloud-services-102421293.html",
+    "https://www.caixinglobal.com/2026-03-02/win-in-gopro-dispute-keeps-us-market-mostly-open-to-chinese-camera-maker-102418658.html"
+  ],
+  "metadata": {
+    "https://www.caixinglobal.com/2026-01-29/alibaba-unveils-new-ai-chip-to-rival-nvidias-china-offerings-102409364.html": {
+      "headline": "Alibaba Unveils New AI Chip to Rival Nvidia’s China Offerings",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:12.183107",
+      "last_seen": "2026-02-09T21:07:12.183115"
+    },
+    "https://www.caixinglobal.com/2026-02-06/alibaba-tech-tapped-to-provide-olympic-athletes-with-ai-assistants-102412090.html": {
+      "headline": "Alibaba Tech Tapped to Provide Olympic Athletes With AI Assistants",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:14.988469",
+      "last_seen": "2026-02-09T21:07:14.988474"
+    },
+    "https://www.caixinglobal.com/2026-02-03/analysis-alibabas-new-processor-shows-applications-are-key-to-ai-chip-success-102411054.html": {
+      "headline": "Analysis: Alibaba’s New Processor Shows Applications Are Key to AI Chip Success",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:17.980421",
+      "last_seen": "2026-02-09T21:07:17.980429"
+    },
+    "https://www.caixinglobal.com/2026-02-02/in-depth-megvii-co-founder-is-back-riding-the-latest-ai-wave-102410570.html": {
+      "headline": "In Depth: Megvii Co-Founder Is Back Riding the Latest AI Wave",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:21.067651",
+      "last_seen": "2026-02-09T21:07:21.067659"
+    },
+    "https://www.caixinglobal.com/2026-02-09/chinas-big-fund-trims-chip-stakes-as-early-investments-mature-102413030.html": {
+      "headline": "China’s Big Fund Trims Chip Stakes as Early Investments Mature",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:07:24.014469",
+      "last_seen": "2026-02-09T21:07:24.014479"
+    },
+    "https://www.caixinglobal.com/2026-02-07/satellite-chipmaker-cygnus-raises-215-million-as-china-internet-in-space-push-accelerates-102412496": {
+      "headline": "Satellite Chipmaker Cygnus Raises $215 Million as China Internet-in-Space Push Accelerates",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:27.166495",
+      "last_seen": "2026-02-09T21:07:27.166502"
+    },
+    "https://www.caixinglobal.com/2026-02-05/satellite-maker-spacety-kicks-off-ipo-as-chinas-commercial-space-race-heats-up-102411613.html": {
+      "headline": "Satellite-Maker Spacety Kicks Off IPO as China’s Commercial Space Race Heats Up",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:31.130338",
+      "last_seen": "2026-02-09T21:07:31.130345"
+    },
+    "https://www.caixinglobal.com/2026-02-04/beijing-humanoid-robotics-hub-raises-100-million-in-first-funding-round-102411145.html": {
+      "headline": "Beijing Humanoid Robotics Hub Raises $100 Million in First Funding Round",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:36.322804",
+      "last_seen": "2026-02-09T21:07:36.322813"
+    },
+    "https://www.caixinglobal.com/2026-02-07/alibaba-ai-app-crashes-after-3-billion-yuan-giveaway-sparks-frenzy-102412500.html": {
+      "headline": "AI Model Releases and Updates Signal Growing Investment in Generative AI and Large Language Models",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:41.533806",
+      "last_seen": "2026-02-09T21:07:41.533816"
+    },
+    "https://www.caixinglobal.com/2026-02-07/chinas-autoflight-rolls-out-worlds-first-5-ton-evtol-102412494.html": {
+      "headline": "Chinese Companies Accelerate Investment in Data Center and Cloud Infrastructure for AI Applications",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:44.506665",
+      "last_seen": "2026-02-09T21:07:44.506676"
+    },
+    "https://www.caixinglobal.com/2026-02-07/china-tech-giants-expand-ai-integration-boosting-enterprise-software-valuations-102412500": {
+      "headline": "Chinese Tech Giants Expand AI Integration in Business Platforms, Boosting Enterprise Software Valuations",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:47.519437",
+      "last_seen": "2026-02-09T21:07:47.519444"
+    },
+    "https://www.caixinglobal.com/2026-02-07/satellite-chipmaker-cygnus-raises-215-million-as-china-internet-in-space-push-accelerates-102412496.html": {
+      "headline": "AI Chip Demand Surges as Cloud Computing and Data Center Investments Accelerate in China",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:55.763060",
+      "last_seen": "2026-02-09T21:07:55.763067"
+    },
+    "https://www.caixinglobal.com/2026-02-07/major-tech-companies-strategic-ai-initiatives-signal-long-term-investment-trends-102412494.html": {
+      "headline": "Major Tech Companies’ Strategic AI Initiatives Signal Long-term Investment Trends",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:07:58.697169",
+      "last_seen": "2026-02-09T21:07:58.697176"
+    },
+    "https://www.caixinglobal.com/2026-01-30/chinas-clean-tech-influence-grows-across-the-global-south-102409703.html": {
+      "headline": "China’s Green Tech and Clean Energy Tech Influence Grows with AI-Enabled Solar and EV Investments",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:08:02.035772",
+      "last_seen": "2026-02-09T21:08:02.035779"
+    },
+    "https://www.caixinglobal.com/2026-02-11/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102413424.html": {
+      "headline": "Alibaba Unveils Robot ‘Brain,’ Raising Stakes in Embodied AI Race",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:36:14.859281",
+      "last_seen": "2026-02-11T11:36:14.859297"
+    },
+    "https://www.caixinglobal.com/2026-02-10/bytedance-unveils-new-ai-video-model-sparking-rally-in-chinese-tech-stocks-102413261.html": {
+      "headline": "Alibaba Unveils New AI Video Model, Sparking Rally in Chinese Tech Stocks",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:36:18.189007",
+      "last_seen": "2026-02-11T11:36:18.189022"
+    },
+    "https://www.caixinglobal.com/2026-02-02/alibaba-pledges-432-million-in-lunar-new-year-ai-subsidy-war-102410656.html": {
+      "headline": "Alibaba Pledges $432 Million in Lunar New Year AI Subsidy War",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:24.290547",
+      "last_seen": "2026-02-11T11:36:24.290560"
+    },
+    "https://www.caixinglobal.com/2026-02-03/analysis-alibabas-new-processor-shows-applications-are-key-to-ai-chip-success-102411054": {
+      "headline": "Alibaba’s New Processor Shows Applications Are Key to AI Chip Success",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:27.663769",
+      "last_seen": "2026-02-11T11:36:27.663784"
+    },
+    "https://www.caixinglobal.com/2026-01-27/in-depth-tencent-bets-its-ai-future-on-28-year-old-from-openai-102408553.html": {
+      "headline": "In Depth: Tencent Bets Its AI Future on 28-Year-Old From OpenAI",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:31.922040",
+      "last_seen": "2026-02-11T11:36:31.922059"
+    },
+    "https://www.caixinglobal.com/2026-01-31/china-fines-kuaishou-unit-38-million-for-e-commerce-violations-102409952.html": {
+      "headline": "China Fines Kuaishou Unit $3.8 Million for E-Commerce Violations",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:39.032074",
+      "last_seen": "2026-02-11T11:36:39.032095"
+    },
+    "https://www.caixinglobal.com/2026-01-30/chips-drive-chinas-electronics-exports-102409677.html": {
+      "headline": "Chips Drive China’s Electronics Exports",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:43.236989",
+      "last_seen": "2026-02-11T11:36:43.237005"
+    },
+    "https://www.caixinglobal.com/2026-01-29/asml-expects-china-revenue-drop-following-backlog-fueled-surge-102409285.html": {
+      "headline": "ASML Expects China Revenue Drop Following Backlog-Fueled Surge",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:36:49.985850",
+      "last_seen": "2026-02-11T11:36:49.985863"
+    },
+    "https://www.caixinglobal.com/2026-02-11/bytedance-joins-alibaba-tencent-in-lunar-new-year-ai-giveaway-war-102413416.html": {
+      "headline": "China’s Tech Giants Invest Heavily in AI Model and Chip Development",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:36:53.705944",
+      "last_seen": "2026-02-11T11:36:53.705960"
+    },
+    "https://www.caixinglobal.com/2026-02-12/galaxea-ai-raises-144-million-as-chinas-robot-investment-frenzy-mounts-102413767.html": {
+      "headline": "Galaxea AI Raises $144 Million as China’s Robot Investment Frenzy Mounts",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:50:19.729394",
+      "last_seen": "2026-02-12T11:50:19.729408"
+    },
+    "https://www.caixinglobal.com/2026-02-12/beijing-orders-telecom-overhaul-to-track-drones-in-lower-skies-102413765.html": {
+      "headline": "Beijing Orders Telecom Overhaul to Track Drones in Lower Skies",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:50:29.481418",
+      "last_seen": "2026-02-12T11:50:29.481432"
+    },
+    "https://www.caixinglobal.com/2026-02-12/smic-revenue-rises-as-profit-slips-on-expansion-costs-102413761.html": {
+      "headline": "Chinas Semiconductor Sector Sees Increased Investment Amid Supply Chain Bottlenecks",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T11:50:37.408917",
+      "last_seen": "2026-02-12T11:50:37.408933"
+    },
+    "https://www.caixinglobal.com/2026-02-12/dutch-court-orders-probe-into-nexperia-keeps-wingtech-frozen-out-102413989.html": {
+      "headline": "Dutch Court Orders Probe Into Nexperia, Keeps Wingtech Frozen Out",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:06:26.362882",
+      "last_seen": "2026-02-13T12:06:26.362898"
+    },
+    "https://www.caixinglobal.com/2026-01-23/xiaomi-to-buy-back-321-million-in-shares-after-72-billion-rout-102406976.html": {
+      "headline": "Xiaomi to Buy Back $321 Million in Shares After $72 Billion Rout",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:06:35.852827",
+      "last_seen": "2026-02-13T12:06:35.852843"
+    },
+    "https://www.caixinglobal.com/2026-01-15/poland-fines-temu-17-million-over-misleading-discounts-102404015.html": {
+      "headline": "Poland Fines Temu $1.7 Million Over Misleading Discounts",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:06:40.517820",
+      "last_seen": "2026-02-13T12:06:40.517834"
+    },
+    "https://www.caixinglobal.com/2025-06-16/renrenle-commercial-group-coltd-posted-173-million-yuan-net-loss-in-2024-102330884.html": {
+      "headline": "Renrenle Commercial Group Posts 17.3 Million Yuan Net Loss in 2024",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:06:44.908016",
+      "last_seen": "2026-02-13T12:06:44.908027"
+    },
+    "https://www.caixinglobal.com/2025-06-16/guangzhou-baiyunshan-pharmaceutical-holdings-company-limiteds-net-profit-dropped-295-in-2024-102330883.html": {
+      "headline": "Guangzhou Baiyunshan Pharmaceutical’s Net Profit Dropped 29.5% in 2024",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:06:49.023147",
+      "last_seen": "2026-02-13T12:06:49.023158"
+    },
+    "https://www.caixinglobal.com/2025-06-16/china-tourism-group-duty-free-corporation-limiteds-net-profit-dropped-331-in-2024-102330882.html": {
+      "headline": "China Tourism Group’s Net Profit Dropped 33.1% in 2024",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:06:53.450160",
+      "last_seen": "2026-02-13T12:06:53.450171"
+    },
+    "https://www.caixinglobal.com/2026-02-15/bytedance-unveils-doubao-20-ai-model-to-tackle-complex-tasks-102414865.html": {
+      "headline": "ByteDance Unveils Doubao 2.0 AI Model to Tackle Complex Tasks, Strengthening Multimodal Reasoning",
+      "was_relevant": true,
+      "first_seen": "2026-02-16T10:48:31.460328",
+      "last_seen": "2026-02-16T10:48:31.460344"
+    },
+    "https://www.caixinglobal.com/2026-02-13/china-plans-to-make-liability-insurance-mandatory-for-drones-by-2027-102414470.html": {
+      "headline": "China Plans to Make Liability Insurance Mandatory for Drones by 2027, Signaling Regulatory Push in AI-Enabled Technologies",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:48:37.223278",
+      "last_seen": "2026-02-16T10:48:37.223291"
+    },
+    "https://www.caixinglobal.com/2026-02-12/zhipu-ai-launches-new-model-better-at-coding-learning-102413996.html": {
+      "headline": "Chinese Startup Zhipu AI Launches New Model Better at Coding and Autonomous Learning, Boosting AI Development in China",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T10:48:43.555063",
+      "last_seen": "2026-02-16T10:48:43.555078"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen35-plus-undercutting-gemini-3-pro-on-cost-102415320.html": {
+      "headline": "Alibaba Unveils Qwen3.5-Plus, Undercutting Gemini 3 Pro on Cost, Rivals Google’s AI Models",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:00.940632",
+      "last_seen": "2026-02-20T11:22:00.940650"
+    },
+    "https://www.caixinglobal.com/2026-02-16/pentagon-retracts-chinese-military-companies-list-twice-in-two-days-102415332.html": {
+      "headline": "Pentagon Retracts Chinese Military Companies List Twice, Impacting US-China Tech Sanctions",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:08.645949",
+      "last_seen": "2026-02-20T11:22:08.645964"
+    },
+    "https://www.caixinglobal.com/2026-02-18/chinas-tech-giants-wage-lunar-new-year-subsidy-war-to-win-ai-users-102415756.html": {
+      "headline": "Chinese Tech Giants Flood Lunar New Year with Digital Red Envelopes, Accelerating AI Adoption in Smaller Cities",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:17.206056",
+      "last_seen": "2026-02-20T11:22:17.206070"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3-5-plus-undercutting-gemini-3-pro-on-cost-102415320.html": {
+      "headline": "Alibaba Unveils Robot ‘Brain,’ Raising Stakes in Embodied AI Race, Outperforming Global Rivals",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:32.519553",
+      "last_seen": "2026-02-20T11:22:32.519566"
+    },
+    "https://www.caixinglobal.com/2026-02-14/hollywood-isnt-a-fan-of-bytedances-new-ai-video-tool-102414813.html": {
+      "headline": "ByteDance’s Seedance 2.0 AI Video Tool Faces Hollywood Backlash Over Intellectual Property Concerns",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:38.714178",
+      "last_seen": "2026-02-20T11:22:38.714193"
+    },
+    "https://www.caixinglobal.com/2026-02-12/dutch-court-orders-probe-into-nexperia-keeping-wingtech-frozen-out-102413989.html": {
+      "headline": "Dutch Court Orders Probe Into Nexperia, Keeping Wingtech Out of Chip Market, Affecting Supply Chain",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T11:22:53.887454",
+      "last_seen": "2026-02-20T11:22:53.887466"
+    },
+    "https://www.caixinglobal.com/2026-02-14/pentagon-blacklists-alibaba-baidu-and-byd-over-alleged-military-ties-102414844.html": {
+      "headline": "Pentagon Blacklists Alibaba, Baidu and BYD Over Alleged Military Ties",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:20:00.607434",
+      "last_seen": "2026-02-23T12:20:00.607449"
+    },
+    "https://www.caixinglobal.com/2026-02-18/bytedances-doubao-dominates-spring-festival-gala-with-19-billion-ai-interactions-102415609.html": {
+      "headline": "ByteDance’s Doubao Dominates Spring Festival Gala With 1.9 Billion AI Interactions",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:20:14.085213",
+      "last_seen": "2026-02-23T12:20:14.085226"
+    },
+    "https://www.caixinglobal.com/2026-02-23/chinas-ai-robotics-raises-fresh-funds-at-over-10-billion-yuan-valuation-102416310.html": {
+      "headline": "China’s AI² Robotics Raises Fresh Funds at Over 10 Billion Yuan Valuation",
+      "was_relevant": true,
+      "first_seen": "2026-02-24T10:47:25.421103",
+      "last_seen": "2026-02-24T10:47:25.421119"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102415320.html": {
+      "headline": "Alibaba Unveils Robot ‘Brain,’ Raising Stakes in Embodied AI Race",
+      "was_relevant": false,
+      "first_seen": "2026-02-24T10:47:41.718551",
+      "last_seen": "2026-02-24T10:47:41.718567"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-robot-brain-raising-stakes-in-embodied-ai-race-102415332.html": {
+      "headline": "Alibaba Unveils Robot ‘Brain,’ Raising Stakes in Embodied AI Race",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:14:54.770379",
+      "last_seen": "2026-02-25T11:14:54.770394"
+    },
+    "https://www.caixinglobal.com/2026-02-17/at-chinas-spring-festival-gala-robotics-becomes-big-business-102415344.html": {
+      "headline": "At China’s Spring Festival Gala, Robotics Becomes Big Business",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:02:16.080786",
+      "last_seen": "2026-02-26T11:02:16.080802"
+    },
+    "https://www.caixinglobal.com/2026-02-25/dji-challenges-us-drone-ban-in-federal-appeals-court-102416997.html": {
+      "headline": "DJI Challenges U.S. Drone Ban in Federal Appeals Court",
+      "was_relevant": true,
+      "first_seen": "2026-02-26T11:02:19.022102",
+      "last_seen": "2026-02-26T11:02:19.022117"
+    },
+    "https://www.caixinglobal.com/2026-02-27/baidu-profit-plunges-42-as-ai-push-erodes-core-ad-business-102417319.html": {
+      "headline": "Baidu Profit Plunges 42% as AI Push Erodes Core Ad Business",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:25:03.641083",
+      "last_seen": "2026-02-27T11:25:03.641098"
+    },
+    "https://www.caixinglobal.com/2026-02-26/robotics-startup-x-square-secures-fresh-funding-amid-valuation-surge-102417007.html": {
+      "headline": "Robotics Startup X Square Secures Fresh Funding Amid Valuation Surge",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T11:25:07.984933",
+      "last_seen": "2026-02-27T11:25:07.984949"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen35-plus-undercutting-gemini-3-pro-on-cost-102415320": {
+      "headline": "Alibaba Unveils Qwen3.5-Plus, Undercutting Gemini 3 Pro on Cost",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:25:12.835135",
+      "last_seen": "2026-02-27T11:25:12.835151"
+    },
+    "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html": {
+      "headline": "In Profile: How Morris Chang Built TSMC Into a Chipmaking Colossus",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T09:51:57.448048",
+      "last_seen": "2026-03-02T09:51:57.448073"
+    },
+    "https://www.caixinglobal.com/2026-03-03/galbot-raises-362-million-in-fresh-funding-eyes-hong-kong-ipo-102418742.html": {
+      "headline": "Galbot Raises $362 Million in Fresh Funding, Eyes Hong Kong IPO",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:46:31.375994",
+      "last_seen": "2026-03-03T13:46:31.376008"
+    },
+    "https://www.caixinglobal.com/2026-03-03/chinese-tech-firms-dominate-mwc-despite-mideast-travel-snags-102418744.html": {
+      "headline": "Huawei Unveils AI Computing Platform at MWC Despite Travel Snags",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T13:46:40.791135",
+      "last_seen": "2026-03-03T13:46:40.791150"
+    },
+    "https://www.caixinglobal.com/2026-02-28/geely-backed-meizu-halts-new-smartphone-development-to-pivot-toward-ai-auto-software-102417689.html": {
+      "headline": "Geely-Backed Meizu Halts New Smartphone Development to Focus on AI and Auto Software",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:46:45.787874",
+      "last_seen": "2026-03-03T13:46:45.787887"
+    },
+    "https://www.caixinglobal.com/2026-02-25/dji-challenges-us-drone-ban-in-federal-appeals-court-102416997": {
+      "headline": "DJI Challenges US Drone Ban in Federal Appeals Court",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:46:53.166489",
+      "last_seen": "2026-03-03T13:46:53.166502"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3.5-plus-undercutting-gemini-3-pro-on-cost-102415320.html": {
+      "headline": "Alibaba Launches Cost-Effective Open-Source AI Model Rivaling Google’s System",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T13:47:03.836951",
+      "last_seen": "2026-03-03T13:47:03.836969"
+    },
+    "https://www.caixinglobal.com/2026-02-26/robotics-startup-x-square-secures-funding-amid-valuation-surge-102417007.html": {
+      "headline": "Robotics Startup X Square Secures Funding Amid Sector Valuation Surge",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:29:41.207651",
+      "last_seen": "2026-03-04T09:29:41.207664"
+    },
+    "https://www.caixinglobal.com/2026-03-03/chinese-tech-exports-hit-by-us-restrictions-102418744.html": {
+      "headline": "Chinese Semiconductor Sector Faces New U.S. Export Restrictions, Impacting Supply Chain",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:29:53.130841",
+      "last_seen": "2026-03-04T09:29:53.130860"
+    },
+    "https://www.caixinglobal.com/2026-02-16/alibaba-unveils-qwen3-5-plus-undercutting-gemini-3-pro-on-cost-102415320": {
+      "headline": "Tencent and Alibaba Accelerate AI Integration in Cloud Services to Capture Enterprise Market",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:29:59.303747",
+      "last_seen": "2026-03-04T09:29:59.303764"
+    },
+    "https://www.caixinglobal.com/2026-03-04/alibabas-ai-model-chief-resigns-102419448.html": {
+      "headline": "Alibaba’s AI Model Chief Resigns Amid Restructuring of Tongyi AI Lab",
+      "was_relevant": true,
+      "first_seen": "2026-03-05T11:49:09.207754",
+      "last_seen": "2026-03-05T11:49:09.207769"
+    },
+    "https://www.caixinglobal.com/2026-03-02/noetix-robotics-raises-nearly-1-billion-yuan-after-spring-festival-gala-skit-102418646.html": {
+      "headline": "Chinese Robotics Startup Noetix Robotics Raises Nearly 1 Billion Yuan Post Spring Festival",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:49:19.921807",
+      "last_seen": "2026-03-05T11:49:19.921820"
+    },
+    "https://www.caixinglobal.com/2026-02-28/geely-backed-meizu-halts-new-phone-development-to-pivot-toward-ai-auto-software-102417689.html": {
+      "headline": "Geely-Backed Meizu Halts Smartphone Development, Turns Focus to AI and Automotive Software",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T11:49:29.147863",
+      "last_seen": "2026-03-05T11:49:29.147877"
+    },
+    "https://www.caixinglobal.com/2026-03-06/china-accelerates-ai-push-as-industry-surpasses-12-trillion-yuan-102419927.html": {
+      "headline": "China Accelerates AI Push as Industry Surpasses 1.2 Trillion Yuan",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:02:22.899850",
+      "last_seen": "2026-03-06T11:02:22.899865"
+    },
+    "https://www.caixinglobal.com/2026-03-05/chinas-robot-era-valued-at-over-10-billion-yuan-102419832.html": {
+      "headline": "China’s Robot Era Valued at Over 10 Billion Yuan",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:02:27.140205",
+      "last_seen": "2026-03-06T11:02:27.140219"
+    },
+    "https://www.caixinglobal.com/2026-03-05/xpeng-chairman-says-china-poised-to-leapfrog-to-fully-driverless-cars-102419519.html": {
+      "headline": "XPeng Chairman Says China Poised to Leapfrog to Fully Driverless Cars",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:02:31.557392",
+      "last_seen": "2026-03-06T11:02:31.557406"
+    },
+    "https://www.caixinglobal.com/2026-03-05/chinas-ai-robotics-raises-funds-at-over-10-billion-yuan-102419832.html": {
+      "headline": "China’s AI Robotics Raises Funds at Over 10 Billion Yuan Valuation",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:02:46.494617",
+      "last_seen": "2026-03-06T11:02:46.494634"
+    },
+    "https://www.caixinglobal.com/2026-03-07/robot-sensor-startup-paxini-raises-145-million-tops-14-billion-valuation-102420414.html": {
+      "headline": "Robot Sensor Startup PaXini Raises $145 Million, Tops $1.4 Billion Valuation",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:16:24.215562",
+      "last_seen": "2026-03-09T12:16:24.215576"
+    },
+    "https://www.caixinglobal.com/2026-03-06/nexperia-disables-china-staff-accounts-as-control-dispute-escalates-102420406.html": {
+      "headline": "Nexperia Disables China Staff Accounts as Control Dispute Escalates",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:16:27.302695",
+      "last_seen": "2026-03-09T12:16:27.302708"
+    },
+    "https://www.caixinglobal.com/2026-03-05/chinas-ai-robotics-raises-fresh-funds-at-over-10-billion-yuan-valuation-102419832.html": {
+      "headline": "China’s AI² Robotics Raises Fresh Funds at Over 10 Billion Yuan Valuation",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:16:35.296961",
+      "last_seen": "2026-03-09T12:16:35.296975"
+    },
+    "https://www.caixinglobal.com/2026-03-10/tencent-moves-to-bring-openclaw-ai-assistant-into-wechat-102421338.html": {
+      "headline": "Tencent Moves to Bring OpenClaw AI Assistant Into WeChat",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:04:29.513804",
+      "last_seen": "2026-03-10T10:04:29.513819"
+    },
+    "https://www.caixinglobal.com/2026-03-10/chinese-robotics-startups-push-into-europe-as-industry-seeks-scale-102421334.html": {
+      "headline": "Chinese Robotics Startups Push Into Europe as Industry Seeks Scale",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:04:33.217973",
+      "last_seen": "2026-03-10T10:04:33.217989"
+    },
+    "https://www.caixinglobal.com/2026-03-09/chinese-cities-race-to-build-ai-agent-hubs-around-openclaw-102421332.html": {
+      "headline": "Chinese Cities Race to Build AI-Agent Hubs Around OpenClaw",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:04:38.137487",
+      "last_seen": "2026-03-10T10:04:38.137502"
+    },
+    "https://www.caixinglobal.com/2026-03-09/chinese-tech-giants-offer-free-openclaw-installations-to-boost-cloud-services-102421293.html": {
+      "headline": "Chinese Tech Giants Offer Free OpenClaw Installations to Boost Cloud Services",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:04:42.505971",
+      "last_seen": "2026-03-10T10:04:42.505987"
+    },
+    "https://www.caixinglobal.com/2026-03-02/win-in-gopro-dispute-keeps-us-market-mostly-open-to-chinese-camera-maker-102418658.html": {
+      "headline": "Chinese Semiconductor Company WIn Challenges U.S. Restrictions, Keeps Market Access",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:05:24.087236",
+      "last_seen": "2026-03-10T10:05:24.087251"
+    }
+  }
+}

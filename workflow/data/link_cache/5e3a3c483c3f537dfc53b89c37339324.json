@@ -1,0 +1,63 @@
+{
+  "website": "https://www.futunn.com/stock/688256-SH/news",
+  "links": [
+    "https://news.futunn.com/post/68636620",
+    "https://news.futunn.com/post/68635019/electronic-industry-weekly-four-major-csp-firms-capital-spending-exceeds-expectations-demand-driven-power-semiconductor-prices-rise",
+    "https://news.futunn.com/post/68669080",
+    "https://news.futunn.com/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10",
+    "https://news.futunn.com/post/69085523",
+    "https://news.futunn.com/post/69779625",
+    "https://news.futunn.com/post/69776367/guojin-securities-gpt-5-4m-action-oriented-ai-accelerates-deployment",
+    "https://news.futunn.com/post/69804269/计算机行业重大事项点评openclaw爆火定义开源agent新范式"
+  ],
+  "metadata": {
+    "https://news.futunn.com/post/68636620": {
+      "headline": "超三千家上市公司预告业绩过半报喜 半导体产业链“加速跑”，顺周期行业业绩亮眼",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:57:55.543443",
+      "last_seen": "2026-02-09T21:57:55.543453"
+    },
+    "https://news.futunn.com/post/68635019/electronic-industry-weekly-four-major-csp-firms-capital-spending-exceeds-expectations-demand-driven-power-semiconductor-prices-rise": {
+      "headline": "电子行业周报：四大CSP厂商资本开支超预期，需求传导推动功率半导体价格上涨",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:58:00.107427",
+      "last_seen": "2026-02-09T21:58:00.107439"
+    },
+    "https://news.futunn.com/post/68669080": {
+      "headline": "半导体行业景气上行，科创芯片设计ETF易方达涨2.26%",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:20:51.640294",
+      "last_seen": "2026-02-10T11:20:51.640310"
+    },
+    "https://news.futunn.com/post/68802780/mineru-has-completed-computational-power-adaptation-for-more-than-10": {
+      "headline": "MinerU完成10余家国产AI芯片算力适配",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:51:16.232981",
+      "last_seen": "2026-02-12T12:51:16.232994"
+    },
+    "https://news.futunn.com/post/69085523": {
+      "headline": "春启新程：AI 引领全球科技革命，A 股硬科技赛道黄金布局窗口已至",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T13:06:01.014000",
+      "last_seen": "2026-02-23T13:06:01.014019"
+    },
+    "https://news.futunn.com/post/69779625": {
+      "headline": "资金逆势布局，半导体ETF盘中净申购超1亿份",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:12:43.571259",
+      "last_seen": "2026-03-09T13:12:43.571276"
+    },
+    "https://news.futunn.com/post/69776367/guojin-securities-gpt-5-4m-action-oriented-ai-accelerates-deployment": {
+      "headline": "国金证券：GPT-5.4m执行型AI加速落地 OpenClaw绝佳搭档",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T13:12:44.741572",
+      "last_seen": "2026-03-09T13:12:44.741587"
+    },
+    "https://news.futunn.com/post/69804269/计算机行业重大事项点评openclaw爆火定义开源agent新范式": {
+      "headline": "计算机行业重大事项点评：OPENCLAW爆火定义开源AGENT新范式",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T11:03:48.808117",
+      "last_seen": "2026-03-10T11:03:48.808134"
+    }
+  }
+}

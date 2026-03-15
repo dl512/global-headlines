@@ -1,0 +1,392 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09999-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68639113",
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong",
+    "https://news.futunn.com/hk/post/68605304",
+    "https://news.futunn.com/hk/post/68596220",
+    "https://news.futunn.com/hk/post/68595580/key-schedule-for-next-week-us-non-farm-payrolls-and",
+    "https://news.futunn.com/hk/post/68591656",
+    "https://news.futunn.com/hk/post/68556816",
+    "https://news.futunn.com/hk/post/68530839/jpmorgan-has-reaffirmed-its-overweight-rating-on-netease-09999-hk",
+    "https://news.futunn.com/hk/post/68643912",
+    "https://news.futunn.com/hk/post/68645068",
+    "https://news.futunn.com/hk/post/68797160/netease-s-q4-earnings-missed-expectations-but-the-actual-performance",
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will",
+    "https://news.futunn.com/hk/post/68798834/netease-systematic-strategic-signals-focus-ai-global-competition",
+    "https://news.futunn.com/hk/post/68797160/netease-s-q4-earnings-missed-expectations",
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index",
+    "https://news.futunn.com/hk/post/69089682/tai-korean-star-stocks-hit-record-high-hong-kong-stocks-up-over-700-points-reclaim-27-000-tech-stocks-lead-meituan-up-7-ai-large-models-and-new-ipo-stocks-rapidly-fall",
+    "https://news.futunn.com/hk/post/69088336/morgan-stanley-has-lowered-its-forecast-for-netease-s-ntesus",
+    "https://news.futunn.com/hk/post/69089818",
+    "https://news.futunn.com/hk/post/69084498/fluctuations-in-overseas-markets-during-the-spring-festival-have-cast",
+    "https://news.futunn.com/hk/post/69193102",
+    "https://news.futunn.com/hk/post/69160637/online-gaming-market-competitive-landscape-report-2025-2033-top-companies",
+    "https://news.futunn.com/hk/post/69145903/open-source-securities-maintains-a-buy-rating-for-netease-s",
+    "https://news.futunn.com/hk/post/69134066",
+    "https://news.futunn.com/hk/post/69131333",
+    "https://news.futunn.com/hk/post/69096750",
+    "https://news.futunn.com/hk/post/69327948",
+    "https://news.futunn.com/hk/post/69294922/is-the-popular-wall-street-trading-strategy-halo-disrupting-hong",
+    "https://news.futunn.com/hk/post/69289520",
+    "https://news.futunn.com/hk/post/69271037/ubs-group-if-china-successfully-achieves-re-inflation-the-stock",
+    "https://news.futunn.com/hk/post/69270971",
+    "https://news.futunn.com/hk/post/69269077",
+    "https://news.futunn.com/hk/post/69263938",
+    "https://news.futunn.com/hk/post/69262263/goldman-sachs-lunar-new-year-consumption-in-mainland-china-shows",
+    "https://news.futunn.com/hk/post/69253853",
+    "https://news.futunn.com/hk/post/69558114",
+    "https://news.futunn.com/hk/post/69557533/netease-s-09999-hk-expected-to-convert-to-dual-primary",
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese",
+    "https://news.futunn.com/hk/post/69530749",
+    "https://news.futunn.com/hk/post/69528663",
+    "https://news.futunn.com/hk/post/69502707/h-share-midday-review-hang-seng-index-fell-0-29",
+    "https://news.futunn.com/hk/post/69557709/bofa-securities-maintains-netease-ntesus-with-buy-rating-maintains-target",
+    "https://news.futunn.com/hk/post/69696649",
+    "https://news.futunn.com/hk/post/69695529",
+    "https://news.futunn.com/hk/post/69694803",
+    "https://news.futunn.com/hk/post/69690822/hong-kong-stock-market-morning-review-major-indices-opened-higher",
+    "https://news.futunn.com/hk/post/69692992",
+    "https://news.futunn.com/hk/post/69674469/oversold-chinese-stocks-alibaba-leads-low-rsi-pack-as-beijing",
+    "https://news.futunn.com/hk/post/69670439",
+    "https://news.futunn.com/hk/post/69779081/cicc-google-play-s-reduction-in-commission-rates-draws-attention",
+    "https://news.futunn.com/hk/post/69767792/netease-09999-hk-reportedly-ceased-funding-for-the-namba-works",
+    "https://news.futunn.com/hk/post/69759489",
+    "https://news.futunn.com/hk/post/69755928/assessing-netease-sehk-9999-valuation-after-recent-share-price-volatility",
+    "https://news.futunn.com/hk/post/69752533",
+    "https://news.futunn.com/hk/post/69750068",
+    "https://news.futunn.com/hk/post/69745405"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68639113": {
+      "headline": "綠城社商與網易嚴選簽署戰略合作協議",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:18:50.896509",
+      "last_seen": "2026-02-09T21:18:50.896518"
+    },
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong": {
+      "headline": "港股AI應用、光通訊情緒持續回暖，券商研報指明AI價值重構新路徑",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:18:54.887636",
+      "last_seen": "2026-02-09T21:18:54.887650"
+    },
+    "https://news.futunn.com/hk/post/68605304": {
+      "headline": "周觀點 | 《異環》三測表現亮眼，千問30億紅包活動啓動【建投傳媒互聯網】",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:18:58.881591",
+      "last_seen": "2026-02-09T21:18:58.881600"
+    },
+    "https://news.futunn.com/hk/post/68596220": {
+      "headline": "【投資視角】啓示2025：中國移動遊戲行業投融資及兼併重組分析（附投融資事件、產業基金和兼併重組等）",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:19:02.330229",
+      "last_seen": "2026-02-09T21:19:02.330242"
+    },
+    "https://news.futunn.com/hk/post/68595580/key-schedule-for-next-week-us-non-farm-payrolls-and": {
+      "headline": "下週重磅日程：美非農CPI齊發，中國通脹，AI、機器人春節大戰",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:19:06.047840",
+      "last_seen": "2026-02-09T21:19:06.047848"
+    },
+    "https://news.futunn.com/hk/post/68591656": {
+      "headline": "景林最新13F：左側增持拼多多",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:19:12.211672",
+      "last_seen": "2026-02-09T21:19:12.211680"
+    },
+    "https://news.futunn.com/hk/post/68556816": {
+      "headline": "網易《永劫無間》宣佈與西泠印社出版社開啓聯動",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:19:18.441560",
+      "last_seen": "2026-02-09T21:19:18.441568"
+    },
+    "https://news.futunn.com/hk/post/68530839/jpmorgan-has-reaffirmed-its-overweight-rating-on-netease-09999-hk": {
+      "headline": "摩通：重申網易-S「增持」評級 目標價295港元",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:19:23.957364",
+      "last_seen": "2026-02-09T21:19:23.957372"
+    },
+    "https://news.futunn.com/hk/post/68643912": {
+      "headline": "快訊 | 港股開市：恒指漲0.65%，科指漲0.82%",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:46:28.088926",
+      "last_seen": "2026-02-10T10:46:28.088945"
+    },
+    "https://news.futunn.com/hk/post/68645068": {
+      "headline": "年終發黃金，遊戲公司到底有多賺錢？",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T10:46:35.028480",
+      "last_seen": "2026-02-10T10:46:35.028498"
+    },
+    "https://news.futunn.com/hk/post/68797160/netease-s-q4-earnings-missed-expectations-but-the-actual-performance": {
+      "headline": "網易四季報不及預期，但實際表現更好？",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:04:40.252159",
+      "last_seen": "2026-02-12T12:04:40.252173"
+    },
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will": {
+      "headline": "知名對沖基金孤松資本：AI泡沫還要等到OpenAI上市，不博弈短期而是思考3-5年的世界格局",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:04:40.983143",
+      "last_seen": "2026-02-12T12:04:40.983160"
+    },
+    "https://news.futunn.com/hk/post/68798834/netease-systematic-strategic-signals-focus-ai-global-competition": {
+      "headline": "網易管理層釋放戰略信號，重點關注AI技術和全球化競爭",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:04:43.575142",
+      "last_seen": "2026-02-12T12:04:43.575159"
+    },
+    "https://news.futunn.com/hk/post/68797160/netease-s-q4-earnings-missed-expectations": {
+      "headline": "網易宣布新遊戲《遺忘之海》將於2026年推出，預計推動收入增長",
+      "was_relevant": true,
+      "first_seen": "2026-02-12T12:04:46.168065",
+      "last_seen": "2026-02-12T12:04:46.168080"
+    },
+    "https://news.futunn.com/hk/post/69090351/hong-kong-stock-market-midday-review-hang-seng-tech-index": {
+      "headline": "港股午評：恒科指漲3.32% 科網股、資源股走強 AI概念股回調",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:29:54.920885",
+      "last_seen": "2026-02-23T12:29:54.920903"
+    },
+    "https://news.futunn.com/hk/post/69089682/tai-korean-star-stocks-hit-record-high-hong-kong-stocks-up-over-700-points-reclaim-27-000-tech-stocks-lead-meituan-up-7-ai-large-models-and-new-ipo-stocks-rapidly-fall": {
+      "headline": "台韓星股齊破頂 港股升逾700點重上兩萬七關 科技股領漲美團揚7% AI大模型半新股急吐",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:29:55.666342",
+      "last_seen": "2026-02-23T12:29:55.666358"
+    },
+    "https://news.futunn.com/hk/post/69088336/morgan-stanley-has-lowered-its-forecast-for-netease-s-ntesus": {
+      "headline": "《大行》大摩降網易(NTES.US)遊戲收入及經調整股盈預測 目標價下調至154美元",
+      "was_relevant": true,
+      "first_seen": "2026-02-23T12:29:58.026765",
+      "last_seen": "2026-02-23T12:29:58.026779"
+    },
+    "https://news.futunn.com/hk/post/69089818": {
+      "headline": "傳媒互聯網行業數據月報：AI應用關注高 春節檔票房低迷",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:29:58.845868",
+      "last_seen": "2026-02-23T12:29:58.845883"
+    },
+    "https://news.futunn.com/hk/post/69084498/fluctuations-in-overseas-markets-during-the-spring-festival-have-cast": {
+      "headline": "春節外圍波動，下週大A，懸了？ 也可以是「穩了」",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:29:59.739598",
+      "last_seen": "2026-02-23T12:29:59.739613"
+    },
+    "https://news.futunn.com/hk/post/69193102": {
+      "headline": "易方達恒生科技ETF佈局港股新經濟核心資產",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:39:14.440101",
+      "last_seen": "2026-02-25T11:39:14.440120"
+    },
+    "https://news.futunn.com/hk/post/69160637/online-gaming-market-competitive-landscape-report-2025-2033-top-companies": {
+      "headline": "2025-2033年在線遊戲市場競爭格局報告：頂級公司分析、概況、戰略發展、可持續發展目標、合併、產品發佈、創新、收入洞察",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:39:15.624824",
+      "last_seen": "2026-02-25T11:39:15.624840"
+    },
+    "https://news.futunn.com/hk/post/69145903/open-source-securities-maintains-a-buy-rating-for-netease-s": {
+      "headline": "開源證券：維持網易-S(09999)「買入」評級 看好老遊煥新/新游上線驅動成長",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:39:19.609340",
+      "last_seen": "2026-02-25T11:39:19.609361"
+    },
+    "https://news.futunn.com/hk/post/69134066": {
+      "headline": "網易丁磊，完成驚險一躍",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:39:23.488403",
+      "last_seen": "2026-02-25T11:39:23.488418"
+    },
+    "https://news.futunn.com/hk/post/69131333": {
+      "headline": "文娛傳媒產業日報(02.23) : 網易業績亮眼",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T11:39:26.232142",
+      "last_seen": "2026-02-25T11:39:26.232159"
+    },
+    "https://news.futunn.com/hk/post/69096750": {
+      "headline": "港股復盤 | 恒指大漲站穩27000點！科技權重股領漲，AI大模型概念重挫，機構錨定週期與科技主線",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T11:39:27.398129",
+      "last_seen": "2026-02-25T11:39:27.398145"
+    },
+    "https://news.futunn.com/hk/post/69327948": {
+      "headline": "出海廠商丨2026年1月中國應用/遊戲廠商出海收入Top30榜",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:25.608546",
+      "last_seen": "2026-02-27T11:48:25.608565"
+    },
+    "https://news.futunn.com/hk/post/69294922/is-the-popular-wall-street-trading-strategy-halo-disrupting-hong": {
+      "headline": "華爾街熱門交易策略「HALO」擾動港股？瑞銀稱AI擔憂反而創造買點",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:26.726474",
+      "last_seen": "2026-02-27T11:48:26.726501"
+    },
+    "https://news.futunn.com/hk/post/69289520": {
+      "headline": "伯恩斯坦——網易（9999.HK）2025年第四季度業績：遞延收入確認何時能跟上？（附下載）",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:27.835199",
+      "last_seen": "2026-02-27T11:48:27.835217"
+    },
+    "https://news.futunn.com/hk/post/69271037/ubs-group-if-china-successfully-achieves-re-inflation-the-stock": {
+      "headline": "《大行》瑞銀：中國若成功走向「再通脹」股市可潛在20%上行 對互聯網板塊「減倉」",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:29.093381",
+      "last_seen": "2026-02-27T11:48:29.093399"
+    },
+    "https://news.futunn.com/hk/post/69270971": {
+      "headline": "頭部賺麻，新遊退場，2026年的女性向，陷阱還是機遇？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:30.203292",
+      "last_seen": "2026-02-27T11:48:30.203312"
+    },
+    "https://news.futunn.com/hk/post/69269077": {
+      "headline": "恒生科技跌幅擴大至2%，年內跑輸恒指超10%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:31.498369",
+      "last_seen": "2026-02-27T11:48:31.498388"
+    },
+    "https://news.futunn.com/hk/post/69263938": {
+      "headline": "茉莉奶白攜手知名手遊《陰陽師》 開啓18城千店聯動合作",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:32.347825",
+      "last_seen": "2026-02-27T11:48:32.347843"
+    },
+    "https://news.futunn.com/hk/post/69262263/goldman-sachs-lunar-new-year-consumption-in-mainland-china-shows": {
+      "headline": "《大行》高盛：農曆新年內地消費顯示線下業態分化 電影票房下滑40%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:33.453048",
+      "last_seen": "2026-02-27T11:48:33.453064"
+    },
+    "https://news.futunn.com/hk/post/69253853": {
+      "headline": "1.4億「白嫖黨」養大的汽水，沒動騰訊音樂的蛋糕",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T11:48:34.553684",
+      "last_seen": "2026-02-27T11:48:34.553694"
+    },
+    "https://news.futunn.com/hk/post/69558114": {
+      "headline": "美股半導體全線下挫，英特爾大跌5%，原油飆漲5%",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:49:10.373117",
+      "last_seen": "2026-03-04T09:49:10.373135"
+    },
+    "https://news.futunn.com/hk/post/69557533/netease-s-09999-hk-expected-to-convert-to-dual-primary": {
+      "headline": "網易-S(09999.HK)：有望轉換爲雙重主要上市 重視底部配置價值",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:49:14.670436",
+      "last_seen": "2026-03-04T09:49:14.670451"
+    },
+    "https://news.futunn.com/hk/post/69542887/xia-junjie-a-fund-manager-overseeing-tens-of-billions-chinese": {
+      "headline": "百億基金經理夏俊傑：中國股票是最便宜主流資產，AI泡沫土壤或不在",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:49:15.851769",
+      "last_seen": "2026-03-04T09:49:15.851785"
+    },
+    "https://news.futunn.com/hk/post/69530749": {
+      "headline": "矛盾，衝突，女性向遊戲賽道不得不變了？",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:49:16.559544",
+      "last_seen": "2026-03-04T09:49:16.559560"
+    },
+    "https://news.futunn.com/hk/post/69528663": {
+      "headline": "中概股轉板港交所，意義何在？",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:49:17.679428",
+      "last_seen": "2026-03-04T09:49:17.679443"
+    },
+    "https://news.futunn.com/hk/post/69502707/h-share-midday-review-hang-seng-index-fell-0-29": {
+      "headline": "港股午評|恒生指數早盤跌0.29% 油服板塊繼續大漲",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T09:49:20.033235",
+      "last_seen": "2026-03-04T09:49:20.033252"
+    },
+    "https://news.futunn.com/hk/post/69557709/bofa-securities-maintains-netease-ntesus-with-buy-rating-maintains-target": {
+      "headline": "快訊 | 網易-S(09999.HK)短線拉升，漲近4%，消息面上，公司接獲港交所通知，至少55%交易在港交所完成，將被視作雙重主要上市。",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T09:49:23.422084",
+      "last_seen": "2026-03-04T09:49:23.422101"
+    },
+    "https://news.futunn.com/hk/post/69696649": {
+      "headline": "AI應用板塊強勢 美圖公司漲7.14% 機構指科技大廠的重金營銷驗證了AI應用市場的較大潛力",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:26.713146",
+      "last_seen": "2026-03-06T11:20:26.713165"
+    },
+    "https://news.futunn.com/hk/post/69695529": {
+      "headline": "終於反彈！港股醫藥、互聯網領漲，港股科技50ETF招商漲2.4%",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:27.880376",
+      "last_seen": "2026-03-06T11:20:27.880394"
+    },
+    "https://news.futunn.com/hk/post/69694803": {
+      "headline": "【券商聚焦】東方證券：網易遊戲穩健增長，目標價200.5港元",
+      "was_relevant": true,
+      "first_seen": "2026-03-06T11:20:31.110072",
+      "last_seen": "2026-03-06T11:20:31.110087"
+    },
+    "https://news.futunn.com/hk/post/69690822/hong-kong-stock-market-morning-review-major-indices-opened-higher": {
+      "headline": "港股早評：三大指數高開，科技股回暖，美油大漲石油股、油氣設備股活躍",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:32.228172",
+      "last_seen": "2026-03-06T11:20:32.228187"
+    },
+    "https://news.futunn.com/hk/post/69692992": {
+      "headline": "網易-S25Q4點評：長青遊戲穩定，期待《無限大》上線貢獻增量",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:33.364096",
+      "last_seen": "2026-03-06T11:20:33.364113"
+    },
+    "https://news.futunn.com/hk/post/69674469/oversold-chinese-stocks-alibaba-leads-low-rsi-pack-as-beijing": {
+      "headline": "超賣的中國股票：阿里巴巴領漲低RSI股，因北京目標設定爲4.5-5%的增長",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:34.436892",
+      "last_seen": "2026-03-06T11:20:34.436911"
+    },
+    "https://news.futunn.com/hk/post/69670439": {
+      "headline": "97年創始人再獲5000萬美元融資，遊戲行業對AI嚴重低估？",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:20:36.513159",
+      "last_seen": "2026-03-06T11:20:36.513174"
+    },
+    "https://news.futunn.com/hk/post/69779081/cicc-google-play-s-reduction-in-commission-rates-draws-attention": {
+      "headline": "《大行》中金：Google Play降低抽成比例關注遊戲行業內容 薦網易(09999.HK)心動(02400.HK)",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:31:10.409474",
+      "last_seen": "2026-03-09T12:31:10.409496"
+    },
+    "https://news.futunn.com/hk/post/69767792/netease-09999-hk-reportedly-ceased-funding-for-the-namba-works": {
+      "headline": "據報網易(09999.HK)5月起停止資助名越工作室",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:31:13.305218",
+      "last_seen": "2026-03-09T12:31:13.305239"
+    },
+    "https://news.futunn.com/hk/post/69759489": {
+      "headline": "網易被曝縮減遊戲業務，將停止對名越稔洋工作室的資助",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:31:19.386124",
+      "last_seen": "2026-03-09T12:31:19.386141"
+    },
+    "https://news.futunn.com/hk/post/69755928/assessing-netease-sehk-9999-valuation-after-recent-share-price-volatility": {
+      "headline": "評估網易（SEHK:9999）近期股價波動後的估值",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:31:22.664632",
+      "last_seen": "2026-03-09T12:31:22.664649"
+    },
+    "https://news.futunn.com/hk/post/69752533": {
+      "headline": "網易最長青的MMO，在線人數8個月破了5次紀錄：真的抄不動",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:31:23.370241",
+      "last_seen": "2026-03-09T12:31:23.370257"
+    },
+    "https://news.futunn.com/hk/post/69750068": {
+      "headline": "國際油價大漲！歐美股市集體下跌",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:31:23.950627",
+      "last_seen": "2026-03-09T12:31:23.950642"
+    },
+    "https://news.futunn.com/hk/post/69745405": {
+      "headline": "美股收跌，國際油價升破92美元",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:31:25.033607",
+      "last_seen": "2026-03-09T12:31:25.033627"
+    }
+  }
+}

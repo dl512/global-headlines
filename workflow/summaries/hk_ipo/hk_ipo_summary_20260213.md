@@ -1,0 +1,4 @@
+## HK IPO News Summary
+
+- HAIZHI TECH GP (02706.HK) [debuted at HKD82.3](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1503175/ipo-news/AAFN) on February 13, 2026, opening 2.04 times above its listing price of HKD27.06 and last trading at HKD92 with a turnover of HKD525 million.
+- WOER (09981.HK) [opened at $20.1 on debut](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1503177/ipo-news/AAFN) on February 13, 2026, peaking at $21.8 and closing 5.5% above its offer price of $20.09 with a trading volume of 16.55 million shares, after its [public offering was oversubscribed 569.58 times](https://www.aastocks.com/en/stocks/news/aafn-con/NOW.1503096/ipo-news/AAFN) and the international tranche 8.19 times, with a one-lot success rate of 0.33%.

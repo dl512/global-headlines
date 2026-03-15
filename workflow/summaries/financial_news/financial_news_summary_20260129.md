@@ -1,0 +1,22 @@
+## Global Financial News
+
+- **Gold Hits Record Highs Amid Fed Rate Hold and Geopolitical Uncertainty**: Gold surged over 3% to new records above $5,500 per ounce after the US Federal Reserve kept rates unchanged, with safe-haven demand fueled by persistent inflation and global tensions.
+- **US Dollar Drops to Four-Year Low on Fed Policy and Trump Trade Comments**: The US dollar slumped to its lowest in four years following President Donald Trump’s softer tariff stance and expectations of Fed rate cuts, boosting the euro, yen, and pound.
+- **Oil Prices Near Four-Month High on Weak Dollar and US Winter Storm Disruptions**: Oil climbed around 3% as a US winter storm curtailed crude output and exports, with ongoing OPEC+ supply policies and geopolitical risks supporting prices.
+- **Asia-Pacific Markets Mixed; South Korea’s Kospi Sets Consecutive Record Highs**: Asian stocks were mixed, with South Korea’s Kospi hitting new records despite President Donald Trump’s tariff threats, while Japan’s Nikkei and Australia’s S&P/ASX 200 fluctuated.
+- **European Stocks Volatile Amid Earnings and EU-India Trade Deal**: European markets saw swings, with chipmaker ASML’s record orders and LVMH’s earnings moving stocks, while a landmark EU-India free trade deal lifted sentiment.
+- **Meta Exceeds Q4 Expectations, Strong AI Outlook Drives Positive Guidance**: Meta’s Q4 results, Q1 guidance, and capital expenditure surpassed forecasts, with analysts optimistic about its AI strategy and maintaining a “Buy” rating.
+- **Hong Kong HIBOR Falls for Fifth Day, Signaling Easing Liquidity**: The one-month Hong Kong Interbank Offered Rate dropped to 2.65%, marking five consecutive days of decline.
+- **HKEX Supports More Gold ETFs to Boost City’s Role as Gold Trading Hub**: Hong Kong Exchanges and Clearing backs more gold-related ETF listings, aiming to strengthen Hong Kong’s status as an international gold trading center.
+- **HSBC and Goldman Sachs Raise Target Prices for Zijin Mining on Bullish Gold and Copper Outlook**: Both banks upgraded Zijin Mining’s target price, citing higher gold and copper price forecasts and strong production growth.
+- **China Approves AI Chip Purchases, Tencent Poised to Benefit Most**: Chinese regulators approved domestic tech giants, including Tencent and Alibaba, to buy UK-based AI chips, with Tencent expected to gain the most.
+- **Morgan Stanley Maintains ‘Buy’ on Sands China Despite Q4 EBITDA Miss**: Sands China’s Q4 EBITDA missed expectations due to higher costs, but Morgan Stanley maintains a “Buy” rating on attractive valuation.
+- **China Liansu’s Mainland Business Stabilizes, Overseas Growth Expected**: Citi raised China Liansu’s target price to HKD 7, citing stabilization in core business and strong overseas pipeline sales prospects.
+- **Yuehai Investment’s Net Profit Surges, Dividend Upside Expected**: Morgan Stanley reports Yuehai Investment’s net profit jumped 43%, with potential for higher dividends and a “Buy” rating.
+- **Dechang Electric Target Price Lowered on Limited New Business Disclosure**: CICC cut Dechang Electric’s target price to HKD 39.85, citing valuation pressure from limited new business information.
+- **China Life Target Price Raised on Strong Banking Channel and Deposit Trends**: Credit Suisse increased China Life’s target to HKD 42, expecting 45% net profit growth in 2025.
+- **President Xi Jinping Meets UK Prime Minister Rishi Sunak in Beijing**: Chinese President Xi Jinping met with UK Prime Minister Rishi Sunak during his official visit, with no details disclosed.
+- **Nipah Virus Outbreak in India Prompts Airport Health Screenings in Hong Kong and Asia**: Hong Kong, Singapore, Thailand, and Malaysia airports introduced temperature checks for travelers from affected regions after a Nipah virus outbreak in India.
+- **Rick Rieder, Fed Chair Candidate, Previously Donated to Trump’s Political Opponents**: BlackRock’s Rick Rieder, a contender for US Fed Chair, has a history of donating to President Donald Trump’s rivals and supports rate cuts.
+- **Asia Stocks Rebound After Trump Walks Back Europe Tariff Threats**: Asian markets rose after President Donald Trump withdrew threats of tariffs on Europe, easing geopolitical tensions.
+- **European Stocks Flat After Trump’s Davos Speech, Mining Shares Gain**: European markets closed flat following President Donald Trump’s Davos address, with mining stocks rising amid trade concerns.

@@ -1,0 +1,3 @@
+## Regulatory Announcements
+
+- **Leapmotor Secures Major Funding Through New Share Issuance**: Zhejiang Leapmotor Technology Co., Ltd. has agreed to issue 134,796,266 new Domestic Shares to Jinyi High-tech and FAW Equity at a subscription price of RMB50.03 each, raising approximately RMB6.74 billion. The funds will be allocated mainly for research and development (RMB4.72 billion) and working capital (RMB2.02 billion). The issuance is pending regulatory approval from the China Securities Regulatory Commission and must be completed by December 31, 2026. (Source: [Leapmotor](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0106/2026010601986.pdf))

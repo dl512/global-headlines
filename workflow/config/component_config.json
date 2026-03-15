@@ -1,0 +1,1461 @@
+{
+  "components": {
+    "top_news": {
+      "name": "Top News",
+      "description": "Major global news stories from BBC, CNN, CNBC",
+      "crawler": {
+        "type": "generic_news",
+        "config_key": "top_news",
+        "function": "crawl_top_news",
+        "module": "crawlers.generic_news_crawler",
+        "inputs": {
+          "websites": {
+            "value": [
+              "https://www.bbc.com/news",
+              "https://edition.cnn.com/world",
+              "https://www.cnbc.com/politics/"
+            ],
+            "required": true,
+            "customizable": true,
+            "description": "List of news websites to crawl"
+          },
+          "date_filter_mode": {
+            "value": "none",
+            "default": "none",
+            "options": [
+              "none",
+              "today",
+              "today_or_yesterday"
+            ]
+          },
+          "special_handling": {
+            "value": {},
+            "default": {}
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "top_news.csv",
+          "columns": [
+            "Date",
+            "Headline",
+            "Link",
+            "Summary"
+          ]
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_top_news",
+        "module": "summarizers.top_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "top_news.csv",
+            "required": true
+          },
+          "section_title": {
+            "default": "Most Important Stories",
+            "customizable": true
+          },
+          "date_filter": {
+            "default": "today",
+            "options": [
+              "today",
+              "all"
+            ]
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Most Important Stories"
+        }
+      },
+      "customization": {
+        "websites": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Replace default websites with custom list"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Custom section title in newsletter"
+        }
+      }
+    },
+    "hk_news": {
+      "name": "Hong Kong News",
+      "description": "Most important Hong Kong news related to politics, social, and economy from Now News, Sing Tao, Ming Pao",
+      "crawler": {
+        "type": "generic_news",
+        "config_key": "hk_news",
+        "function": "crawl_hk_news",
+        "module": "crawlers.generic_news_crawler",
+        "inputs": {
+          "websites": {
+            "value": [
+              "https://news.now.com/home/local",
+              "https://www.stheadline.com/news/%E6%B8%AF%E8%81%9E",
+              "https://news.mingpao.com/%E6%98%8E%E5%A0%B1%E6%96%B0%E8%81%9E%E7%B6%B2/main"
+            ],
+            "required": true,
+            "customizable": true,
+            "description": "List of Hong Kong news websites to crawl"
+          },
+          "date_filter_mode": {
+            "value": "today",
+            "default": "today",
+            "options": [
+              "none",
+              "today",
+              "today_or_yesterday"
+            ]
+          },
+          "special_handling": {
+            "value": {},
+            "default": {}
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "hk_news.csv",
+          "columns": [
+            "Date",
+            "Headline",
+            "Link",
+            "Summary"
+          ]
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_hk_news",
+        "module": "summarizers.hk_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "hk_news.csv",
+            "required": true
+          },
+          "section_title": {
+            "default": "Hong Kong News",
+            "customizable": true
+          },
+          "date_filter": {
+            "default": "today",
+            "options": [
+              "today",
+              "all"
+            ]
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Hong Kong News"
+        }
+      },
+      "customization": {
+        "websites": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Replace default websites with custom list"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Custom section title in newsletter"
+        }
+      }
+    },
+    "tech_news": {
+      "name": "Tech News",
+      "description": "AI, robotics, and semiconductor news from TechCrunch, CNN Tech, CNBC Tech, 36Kr, Caixin Global, VKTR AI News, Electronics360 Supply Chain, Nikkei Asia Semiconductors (filtered for investment professionals)",
+      "crawler": {
+        "type": "generic_news",
+        "config_key": "tech_news",
+        "function": "crawl_tech_news",
+        "module": "crawlers.generic_news_crawler",
+        "inputs": {
+          "websites": {
+            "value": [
+              "https://techcrunch.com/latest/",
+              "https://edition.cnn.com/business/tech",
+              "https://www.cnbc.com/technology/",
+              "https://pitchhub.36kr.com/financing-flash",
+              "https://www.caixinglobal.com/live/",
+              "https://www.vktr.com/ai-news/",
+              "https://electronics360.globalspec.com/supply-chain",
+              "https://asia.nikkei.com/business/tech/semiconductors"
+            ],
+            "required": true,
+            "customizable": true
+          },
+          "date_filter_mode": {
+            "value": "today_or_yesterday",
+            "default": "today_or_yesterday"
+          },
+          "special_handling": {
+            "value": {
+              "36kr.com": {
+                "is_36kr": true
+              }
+            },
+            "default": {}
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "tech_news.csv"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_tech_news",
+        "module": "summarizers.tech_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "tech_news.csv"
+          },
+          "section_title": {
+            "default": "AI / Robotics / Semiconductor News",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "AI / Robotics / Semiconductor News"
+        }
+      },
+      "customization": {
+        "websites": {
+          "can_customize": true,
+          "method": "replace"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace"
+        },
+        "topics": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter news by topics (e.g., AI, robotics)"
+        }
+      }
+    },
+    "financial_news": {
+      "name": "Global Financial News",
+      "description": "Financial news from CNBC World Markets, Futu News, AAStocks",
+      "crawler": {
+        "type": "generic_news",
+        "config_key": "financial_news",
+        "function": "crawl_global_financial_news",
+        "module": "crawlers.generic_news_crawler",
+        "inputs": {
+          "websites": {
+            "value": [
+              "https://www.cnbc.com/world-markets/",
+              "https://news.futunn.com/en/main",
+              "http://www.aastocks.com/sc/mobile/news.aspx"
+            ],
+            "required": true,
+            "customizable": true
+          },
+          "date_filter_mode": {
+            "value": "today",
+            "default": "today"
+          },
+          "special_handling": {
+            "value": {
+              "futunn.com": {
+                "is_futu_news": true
+              }
+            }
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "financial_news.csv"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_global_financial_news",
+        "module": "summarizers.global_financial_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "financial_news.csv"
+          },
+          "section_title": {
+            "default": "Global Financial News",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Global Financial News"
+        }
+      },
+      "customization": {
+        "websites": {
+          "can_customize": true,
+          "method": "replace"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace"
+        }
+      }
+    },
+    "market_snapshot": {
+      "name": "Market Snapshot",
+      "description": "Stock prices, market indices, and market capitalization data",
+      "crawler": {
+        "type": "market_snapshot",
+        "function": "crawl_market_snapshot",
+        "module": "crawlers.market_snapshot_crawler",
+        "inputs": {
+          "assets": {
+            "source": "inline",
+            "default": [
+              {
+                "name": "Hang Seng Index",
+                "ticker": "^HSI",
+                "is_index": true
+              },
+              {
+                "name": "Hang Seng TECH Index",
+                "ticker": "HSTECH.HK",
+                "is_index": true
+              },
+              {
+                "name": "S&P 500",
+                "ticker": "^GSPC",
+                "is_index": true
+              },
+              {
+                "name": "Nasdaq 100",
+                "ticker": "^NDX",
+                "is_index": true
+              },
+              {
+                "name": "Tencent",
+                "ticker": "0700.HK",
+                "is_index": false
+              },
+              {
+                "name": "Baidu",
+                "ticker": "9888.HK",
+                "is_index": false
+              },
+              {
+                "name": "JD",
+                "ticker": "9618.HK",
+                "is_index": false
+              },
+              {
+                "name": "Alibaba",
+                "ticker": "9988.HK",
+                "is_index": false
+              },
+              {
+                "name": "Netease",
+                "ticker": "9999.HK",
+                "is_index": false
+              },
+              {
+                "name": "Kuaishou",
+                "ticker": "1024.HK",
+                "is_index": false
+              },
+              {
+                "name": "Meituan",
+                "ticker": "3690.HK",
+                "is_index": false
+              },
+              {
+                "name": "Xiaomi",
+                "ticker": "1810.HK",
+                "is_index": false
+              },
+              {
+                "name": "BYD",
+                "ticker": "1211.HK",
+                "is_index": false
+              },
+              {
+                "name": "NIO",
+                "ticker": "9866.HK",
+                "is_index": false
+              },
+              {
+                "name": "Xpeng",
+                "ticker": "9868.HK",
+                "is_index": false
+              },
+              {
+                "name": "Li Auto",
+                "ticker": "2015.HK",
+                "is_index": false
+              },
+              {
+                "name": "Leap Motor",
+                "ticker": "9863.HK",
+                "is_index": false
+              },
+              {
+                "name": "SenseTime",
+                "ticker": "0020.HK",
+                "is_index": false
+              },
+              {
+                "name": "Horizon Robotics",
+                "ticker": "9660.HK",
+                "is_index": false
+              },
+              {
+                "name": "Hesai",
+                "ticker": "2525.HK",
+                "is_index": false
+              },
+              {
+                "name": "Seyond",
+                "ticker": "2665.HK",
+                "is_index": false
+              },
+              {
+                "name": "Robosense",
+                "ticker": "2498.HK",
+                "is_index": false
+              },
+              {
+                "name": "Geekplus",
+                "ticker": "2590.HK",
+                "is_index": false
+              },
+              {
+                "name": "Dobot",
+                "ticker": "2432.HK",
+                "is_index": false
+              },
+              {
+                "name": "Ubtech",
+                "ticker": "9880.HK",
+                "is_index": false
+              },
+              {
+                "name": "Pony",
+                "ticker": "2026.HK",
+                "is_index": false
+              },
+              {
+                "name": "WeRide",
+                "ticker": "0800.HK",
+                "is_index": false
+              },
+              {
+                "name": "Minimax",
+                "ticker": "0100.HK",
+                "is_index": false
+              },
+              {
+                "name": "Zhipu",
+                "ticker": "2513.HK",
+                "is_index": false
+              }
+            ],
+            "required": false,
+            "customizable": true,
+            "customization_method": "merge_or_replace",
+            "description": "List of stocks and indices to track. Can be customized per user."
+          }
+        },
+        "output": {
+          "type": "json",
+          "file": "market_data.json",
+          "path": "workflow/data/market_snapshot/"
+        }
+      },
+      "summarizer": {
+        "type": "json_based",
+        "function": "summarize_market_snapshot",
+        "module": "summarizers.market_snapshot_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "json",
+            "file": "market_data.json",
+            "path": "workflow/data/market_snapshot/"
+          },
+          "date_filter": {
+            "default": "today"
+          }
+        },
+        "output": {
+          "format": "markdown_table",
+          "section_title": "Market Snapshot"
+        }
+      },
+      "customization": {
+        "stocks": {
+          "can_customize": true,
+          "method": "merge_or_replace",
+          "description": "Add or replace stocks. If user specifies stocks, can replace default list or merge."
+        },
+        "indices": {
+          "can_customize": true,
+          "method": "include_exclude",
+          "description": "Include or exclude market indices"
+        }
+      }
+    },
+    "regulatory": {
+      "name": "Regulatory Announcements",
+      "description": "HKEX regulatory announcements for tracked companies",
+      "crawler": {
+        "type": "regulatory",
+        "function": "crawl_regulatory_announcements",
+        "module": "crawlers.regulatory_announcement_crawler",
+        "inputs": {
+          "stock_codes": {
+            "source": "inline",
+            "default": [
+              "09988",
+              "00700",
+              "09888",
+              "09618",
+              "09999",
+              "01024",
+              "03690",
+              "01810",
+              "01211",
+              "09866",
+              "09868",
+              "02015",
+              "09863",
+              "00020",
+              "09660",
+              "02525",
+              "02665",
+              "02498",
+              "02590",
+              "02432",
+              "09880",
+              "02026",
+              "00800",
+              "00100",
+              "02513",
+              "01347",
+              "00981",
+              "06082"
+            ],
+            "required": false,
+            "customizable": true,
+            "customization_method": "merge_or_replace",
+            "description": "HKEX stock codes (5-digit format) to track. Can be customized per user."
+          },
+          "dates": {
+            "source": "auto",
+            "default": "today_and_previous_trading_day",
+            "description": "Automatically calculates today and previous trading day"
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "regulatory.csv"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_regulatory_announcements",
+        "module": "summarizers.regulatory_announcement_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "regulatory.csv"
+          },
+          "date_filter": {
+            "default": "today_and_previous_trading_day"
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Regulatory Announcements"
+        }
+      },
+      "customization": {
+        "stock_codes": {
+          "can_customize": true,
+          "method": "merge_or_replace",
+          "description": "Track specific companies' regulatory announcements"
+        }
+      }
+    },
+    "tech_stock_regulatory": {
+      "name": "Tech Stock Regulatory Announcements",
+      "description": "HKEX regulatory announcements for tech stocks (excluding semiconductor stocks)",
+      "crawler": {
+        "type": "regulatory",
+        "function": "crawl_regulatory_announcements",
+        "module": "crawlers.regulatory_announcement_crawler",
+        "inputs": {
+          "stock_codes": {
+            "source": "inherit",
+            "inherit_from": "regulatory",
+            "description": "Uses same stock codes as regulatory component (all stocks are crawled)"
+          },
+          "dates": {
+            "source": "auto",
+            "default": "today_and_previous_trading_day",
+            "description": "Automatically calculates today and previous trading day"
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "regulatory.csv",
+          "description": "Shares the same CSV file as regulatory component"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based_filtered",
+        "function": "summarize_tech_stock_regulatory_announcements",
+        "module": "summarizers.tech_stock_regulatory_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "regulatory.csv",
+            "required": true
+          },
+          "stock_codes": {
+            "source": "inline",
+            "default": [
+              "09988",
+              "00700",
+              "09888",
+              "09618",
+              "09999",
+              "01024",
+              "03690",
+              "01810",
+              "01211",
+              "09866",
+              "09868",
+              "02015",
+              "09863",
+              "00020",
+              "09660",
+              "02525",
+              "02665",
+              "02498",
+              "02590",
+              "02432",
+              "09880",
+              "02026",
+              "00800",
+              "00100",
+              "02513"
+            ],
+            "required": false,
+            "customizable": true,
+            "description": "List of 5-digit stock codes to include in summary (excludes semiconductor stocks: 01347, 00981, 06082). Alternative: use company_names instead."
+          },
+          "company_names": {
+            "source": "inline",
+            "default": null,
+            "required": false,
+            "customizable": true,
+            "description": "Optional: List of company names to include in summary. If provided, filters by company name instead of stock codes. Example: [\"Alibaba\", \"Tencent\", \"Baidu\"]"
+          },
+          "date_filter": {
+            "default": "today_and_previous_trading_day"
+          },
+          "section_title": {
+            "default": "Tech Stock Regulatory Announcements",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Tech Stock Regulatory Announcements"
+        }
+      },
+      "customization": {
+        "stock_codes": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Customize which stock codes to include in the summary"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Custom section title in newsletter"
+        }
+      }
+    },
+    "hk_ipo": {
+      "name": "HK IPO News",
+      "description": "Hong Kong IPO news and updates from AAStocks",
+      "crawler": {
+        "type": "hk_ipo",
+        "function": "crawl_hk_ipo_news",
+        "module": "crawlers.hk_ipo_news_crawler",
+        "inputs": {
+          "dates": {
+            "source": "auto",
+            "default": "today_and_previous_trading_day",
+            "description": "Automatically calculates today and previous trading day"
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "hk_ipo.csv"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_hk_ipo_news",
+        "module": "summarizers.hk_ipo_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "hk_ipo.csv"
+          },
+          "date_filter": {
+            "default": "today"
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "HK IPO News Summary"
+        }
+      },
+      "customization": {
+        "topics": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter IPO news by topics or company names"
+        }
+      }
+    },
+    "global_news": {
+      "name": "Global News",
+      "description": "Regional news from local sources around the world",
+      "crawler": {
+        "type": "global_news",
+        "function": "crawl_global_news",
+        "module": "crawlers.global_news_crawler",
+        "inputs": {
+          "sources": {
+            "source": "google_sheets",
+            "sheet": "Countries",
+            "columns": {
+              "country": "A",
+              "newspaper": "B",
+              "url": "C"
+            },
+            "required": true,
+            "customizable": false,
+            "description": "Sources are defined in Google Sheets 'Countries' tab"
+          }
+        },
+        "output": {
+          "type": "google_sheets",
+          "sheet": "GlobalNews",
+          "columns": [
+            "Date",
+            "Country",
+            "Newspaper",
+            "Headline",
+            "Link",
+            "Summary"
+          ]
+        }
+      },
+      "summarizer": {
+        "type": "google_sheets_based",
+        "function": "summarize_global_news",
+        "module": "summarizers.global_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "google_sheets",
+            "sheet": "GlobalNews"
+          },
+          "date_filter": {
+            "default": "today"
+          },
+          "section_title": {
+            "default": "Regional Stories (directly from local news)",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Regional Stories (directly from local news)"
+        }
+      },
+      "customization": {
+        "countries": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter news by specific countries"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace"
+        }
+      }
+    },
+    "corporate_news": {
+      "name": "Corporate News",
+      "description": "Master corporate news crawler - combines regulatory, Futu, and press release sources",
+      "crawler": {
+        "type": "corporate_news",
+        "function": "crawl_corporate_news_from_config",
+        "module": "crawlers.corporate_news_crawler",
+        "inputs": {
+          "company_configs": {
+            "source": "inline",
+            "value": [
+              {
+                "company": "Alibaba",
+                "stock_code": "09988",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Tencent",
+                "stock_code": "00700",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Baidu",
+                "stock_code": "09888",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "JD",
+                "stock_code": "09618",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Netease",
+                "stock_code": "09999",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Kuaishou",
+                "stock_code": "01024",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Meituan",
+                "stock_code": "03690",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Xiaomi",
+                "stock_code": "01810",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "BYD",
+                "stock_code": "01211",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "NIO",
+                "stock_code": "09866",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Xpeng",
+                "stock_code": "09868",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Li Auto",
+                "stock_code": "02015",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Leap Motor",
+                "stock_code": "09863",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "SenseTime",
+                "stock_code": "00020",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Horizon Robotics",
+                "stock_code": "09660",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Hesai",
+                "stock_code": "02525",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Seyond",
+                "stock_code": "02665",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Robosense",
+                "stock_code": "02498",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Geekplus",
+                "stock_code": "02590",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Dobot",
+                "stock_code": "02432",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Ubtech",
+                "stock_code": "09880",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Pony",
+                "stock_code": "02026",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "WeRide",
+                "stock_code": "00800",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Minimax",
+                "stock_code": "00100",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Zhipu",
+                "stock_code": "02513",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Hua Hong",
+                "stock_code": "01347",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "SMIC",
+                "stock_code": "00981",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Biren",
+                "stock_code": "06082",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "TSMC",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://pr.tsmc.com/english/latest-news"
+                ]
+              },
+              {
+                "company": "UMC",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.umc.com/en/News/press_release"
+                ]
+              },
+              {
+                "company": "Intel",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://newsroom.intel.com/"
+                ]
+              },
+              {
+                "company": "NVIDIA",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://nvidianews.nvidia.com/news/latest"
+                ]
+              },
+              {
+                "company": "Samsung",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://news.samsung.com/global/latest"
+                ]
+              },
+              {
+                "company": "SK Hynix",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://news.skhynix.com/"
+                ]
+              },
+              {
+                "company": "Micron",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.micron.com/about/press/news"
+                ]
+              },
+              {
+                "company": "AMD",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://ir.amd.com/news-events/press-releases"
+                ]
+              },
+              {
+                "company": "OpenAI",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://openai.com/news/"
+                ]
+              },
+              {
+                "company": "GlobalFoundries",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://gf.com/newsroom/globalfoundries-press-releases/"
+                ]
+              },
+              {
+                "company": "Broadcom",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://news.broadcom.com/releases"
+                ]
+              },
+              {
+                "company": "ASML",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.asml.com/en/news/press-releases"
+                ]
+              },
+              {
+                "company": "MediaTek",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.mediatek.com/press-room"
+                ]
+              },
+              {
+                "company": "Anthropic",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.anthropic.com/news"
+                ]
+              },
+              {
+                "company": "Marvell",
+                "methods": [
+                  "press_release",
+                  "google_news"
+                ],
+                "websites": [
+                  "https://www.marvell.com/company/newsroom.html"
+                ]
+              },
+              {
+                "company": "Cambricon",
+                "stock_code": "688256",
+                "market": "SH",
+                "methods": [
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Moore Threads",
+                "stock_code": "688795",
+                "market": "SH",
+                "methods": [
+                  "futu",
+                  "google_news"
+                ]
+              }
+            ],
+            "required": true,
+            "customizable": true,
+            "description": "List of company configurations. Each entry has 'company' name, optional 'stock_code' for HK-listed stocks, 'methods' list (regulatory, futu, press_release), and optional 'websites' for press_release method."
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "corporate_news.csv",
+          "columns": [
+            "Date",
+            "Company",
+            "Stock Code",
+            "Source",
+            "Headline",
+            "Link",
+            "Summary"
+          ]
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_corporate_news",
+        "module": "summarizers.corporate_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "corporate_news.csv",
+            "required": true
+          },
+          "company_names": {
+            "source": "inline",
+            "default": null,
+            "required": false,
+            "customizable": true,
+            "description": "Optional: List of company names to include in summary. If null, includes all companies."
+          },
+          "date_filter": {
+            "default": "today_or_yesterday",
+            "options": [
+              "today",
+              "today_or_yesterday",
+              "all"
+            ]
+          },
+          "section_title": {
+            "default": "Corporate News",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Corporate News"
+        }
+      },
+      "customization": {
+        "company_names": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter corporate news by specific company names"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Custom section title in newsletter"
+        }
+      }
+    },
+    "futu_stock_news": {
+      "name": "Futu Stock News",
+      "description": "Stock-specific news from Futu (futunn.com) for HK-listed stocks",
+      "crawler": {
+        "type": "futu_stock_news",
+        "function": "crawl_futu_stock_news_from_config",
+        "module": "crawlers.futu_stock_news_crawler",
+        "inputs": {
+          "stock_codes": {
+            "source": "inherit",
+            "inherit_from": "regulatory",
+            "description": "Uses same stock codes as regulatory component"
+          },
+          "date_filter_mode": {
+            "value": "today_or_yesterday",
+            "default": "today_or_yesterday",
+            "options": [
+              "none",
+              "today",
+              "today_or_yesterday"
+            ]
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "futu_stock_news.csv",
+          "columns": [
+            "Date",
+            "Stock Code",
+            "Company",
+            "Headline",
+            "Link",
+            "Summary"
+          ]
+        }
+      },
+      "summarizer": {
+        "type": "csv_based_filtered",
+        "function": "summarize_futu_stock_news",
+        "module": "summarizers.futu_stock_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "futu_stock_news.csv",
+            "required": true
+          },
+          "stock_codes": {
+            "source": "inline",
+            "default": null,
+            "required": false,
+            "customizable": true,
+            "description": "Optional: List of stock codes to include in summary. If null, includes all stocks."
+          },
+          "company_names": {
+            "source": "inline",
+            "default": null,
+            "required": false,
+            "customizable": true,
+            "description": "Optional: List of company names to include in summary. If provided, takes priority over stock_codes."
+          },
+          "section_title": {
+            "default": "Futu Stock News",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Futu Stock News"
+        }
+      },
+      "customization": {
+        "stock_codes": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter news by specific stock codes"
+        },
+        "company_names": {
+          "can_customize": true,
+          "method": "filter",
+          "description": "Filter news by specific company names (takes priority over stock_codes)"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Custom section title in newsletter"
+        }
+      }
+    },
+    "semi_ai_corporate_news": {
+      "name": "Semi/AI Corporate News",
+      "description": "Corporate news filtered for Semiconductor / AI newsletter - includes only specific companies (TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic)",
+      "crawler": {
+        "type": "corporate_news",
+        "function": "crawl_corporate_news_from_config",
+        "module": "crawlers.corporate_news_crawler",
+        "inputs": {
+          "company_configs": {
+            "source": "inherit",
+            "inherit_from": "corporate_news",
+            "description": "Uses same company configs as corporate_news component"
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "corporate_news.csv",
+          "description": "Shares the same CSV as corporate_news - filtering happens at summarizer level"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based_filtered",
+        "function": "summarize_semi_ai_corporate_news",
+        "module": "summarizers.semi_ai_corporate_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "corporate_news.csv",
+            "required": true
+          },
+          "section_title": {
+            "default": "Semiconductor / AI Corporate News",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "Semiconductor / AI Corporate News"
+        }
+      }
+    }
+  },
+  "component_metadata": {
+    "crawler_types": {
+      "generic_news": "Uses generic_news_crawler with config from component_config.json",
+      "corporate_news": "Master corporate news crawler - orchestrates regulatory, Futu, and press release sources",
+      "market_snapshot": "Fetches market data from yfinance API",
+      "regulatory": "Fetches HKEX announcements via hkex_listedco",
+      "futu_stock_news": "Crawls stock-specific news from Futu (futunn.com) for HK-listed stocks",
+      "hk_ipo": "Fetches IPO news from AAStocks via aastocks_ipo",
+      "global_news": "Crawls sources from Google Sheets Countries tab"
+    },
+    "summarizer_types": {
+      "csv_based": "Reads from CSV file and uses LLM to summarize",
+      "json_based": "Reads from JSON file and formats as markdown table",
+      "google_sheets_based": "Reads from Google Sheets and uses LLM to summarize"
+    },
+    "customization_methods": {
+      "replace": "Completely replace default value with custom value",
+      "merge": "Merge custom value with default value",
+      "merge_or_replace": "Replace if user specifies, otherwise merge",
+      "filter": "Filter data based on custom criteria",
+      "include_exclude": "Include or exclude specific items from list"
+    }
+  }
+}

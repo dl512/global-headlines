@@ -1,0 +1,3 @@
+## Regulatory Announcements
+
+- **Leapmotor Updates on Domestic Share Subscription with Jinyi High-Tech as Independent Investor**: Zhejiang Leapmotor Technology provided additional details on its domestic share subscription involving Jinyi High-Tech, confirming the investor’s independence and no disclosure of financial terms. (Source: [Leapmotor Announcement](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0130/2026013000424.pdf))

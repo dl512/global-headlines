@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/09863-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306432897/leapmotor-monthly-return-of-equity-issuer-on-movements-in-securities",
+    "https://news.futunn.com/hk/notice/306395315/leapmotor-supplemental-announcement-on-subscription-of-newdomestic-shares-under-general",
+    "https://news.futunn.com/hk/notice/306606644/leapmotor-monthly-return-of-equity-issuer-on-movements-in-securities"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306432897/leapmotor-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "零跑汽車：截至2026年1月31日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:31:00.836338",
+      "last_seen": "2026-02-09T21:31:00.836346"
+    },
+    "https://news.futunn.com/hk/notice/306395315/leapmotor-supplemental-announcement-on-subscription-of-newdomestic-shares-under-general": {
+      "headline": "零跑汽車：根據一般授權認購新內資股之補充公告",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:56:48.690692",
+      "last_seen": "2026-02-10T10:56:48.690710"
+    },
+    "https://news.futunn.com/hk/notice/306606644/leapmotor-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "零跑汽車：截至2026年2月28日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:38:00.279526",
+      "last_seen": "2026-03-06T11:38:00.279540"
+    }
+  }
+}

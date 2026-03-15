@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morning Coffee - Newsletter Demo</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Morning Coffee</h1>
+            <p class="subtitle">Transform your information consumption with AI-powered personalized newsletters</p>
+        </header>
+
+        <div class="split-layout">
+            <!-- Left Side: Input and Progress -->
+            <div class="left-panel">
+                <div class="input-section">
+                    <h2>Enter Your Newsletter Request</h2>
+                    <textarea 
+                        id="promptInput" 
+                        placeholder="Example: Hi, I'd like to receive a daily newsletter that covers:
+1. Financial news - I want to stay updated on global markets and economic developments
+2. Tech news - Keep me informed about the latest in technology, startups, and innovation
+3. Market snapshot for these specific stocks:
+   - Apple (AAPL)
+   - Microsoft (MSFT)
+   - Tesla (TSLA)
+   - Nvidia (NVDA)
+   - S&P 500 index
+
+I prefer English content. Thanks!"></textarea>
+                    
+                    <button id="generateBtn" onclick="generateNewsletter()">Generate Newsletter</button>
+                </div>
+
+                <div class="progress-section" id="progressSection" style="display: none;">
+                    <h2>Generation Progress</h2>
+                    <div class="progress-container">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressFill"></div>
+                        </div>
+                        <div class="progress-text" id="progressText">Starting...</div>
+                    </div>
+                    <div class="log-container" id="logContainer">
+                        <!-- Progress logs will appear here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Side: Newsletter -->
+            <div class="right-panel">
+                <div class="newsletter-section" id="newsletterSection">
+                    <div class="newsletter-header">
+                        <h2>Your Newsletter</h2>
+                        <div class="newsletter-placeholder" id="newsletterPlaceholder">
+                            <p>Your personalized newsletter will appear here once generation is complete.</p>
+                        </div>
+                    </div>
+                    <div class="newsletter-content" id="newsletterContent" style="display: none;">
+                        <!-- Newsletter content will appear here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,140 @@
+{
+  "website": "https://news.broadcom.com/releases",
+  "links": [
+    "https://news.broadcom.com/releases/ing-selects-vmware-vcf-9-private-cloud-modernization",
+    "https://news.broadcom.com/releases/broadcom-vcf-nec",
+    "https://news.broadcom.com/releases/ing-selects-vmware-vcf-9-for-private-cloud-modernization",
+    "https://news.broadcom.com/releases/vcf-open-ecosystem",
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9-for-private-cloud-modernization",
+    "https://www.broadcom.com/company/news/product-releases/63641",
+    "https://www.broadcom.com/company/news/product-releases/63626",
+    "https://www.broadcom.com/company/news/product-releases/63621",
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9-0-as-strategic-platform-for-private-cloud-modernization",
+    "https://news.broadcom.com/releases/vmware-explore-2025-vmware-cloud-foundation-ai-native",
+    "https://news.broadcom.com/releases/vmware-explore-2025-vcf-cyber-resilience",
+    "https://news.broadcom.com/releases/vmware-explore-2025-tanzu",
+    "https://news.broadcom.com/releases/vmware-explore-2025-walmart-vcf",
+    "https://news.broadcom.com/releases/vmware-telco-cloud-platform-9",
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9",
+    "https://news.broadcom.com/releases/lloyds-banking-group-broadcom",
+    "https://news.broadcom.com/releases/broadcom-accelerates-ai-innovation-in-the-modern-private-cloud-with-nvidia",
+    "https://news.broadcom.com/releases/ing-selects-vcf-9",
+    "https://news.broadcom.com/company/news/product-releases/63621-delivers-the-future-of-ai-infrastructure-with-end-to-end-ai-networking-solutions-at-2025-ocp-global-summit"
+  ],
+  "metadata": {
+    "https://news.broadcom.com/releases/ing-selects-vmware-vcf-9-private-cloud-modernization": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:55:14.711308",
+      "last_seen": "2026-02-09T21:55:14.711321"
+    },
+    "https://news.broadcom.com/releases/broadcom-vcf-nec": {
+      "headline": "Broadcom Strengthens Strategic Partnership with NEC to Drive Modern Private Cloud with VMware Cloud Foundation",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:55:18.913215",
+      "last_seen": "2026-02-09T21:55:18.913222"
+    },
+    "https://news.broadcom.com/releases/ing-selects-vmware-vcf-9-for-private-cloud-modernization": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:17:55.542560",
+      "last_seen": "2026-02-10T11:17:55.542578"
+    },
+    "https://news.broadcom.com/releases/vcf-open-ecosystem": {
+      "headline": "Broadcom Advances Open Ecosystem for VMware Cloud Foundation",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:18:01.199531",
+      "last_seen": "2026-02-10T11:18:01.199545"
+    },
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9-for-private-cloud-modernization": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:58:02.142845",
+      "last_seen": "2026-02-11T11:58:02.142860"
+    },
+    "https://www.broadcom.com/company/news/product-releases/63641": {
+      "headline": "Broadcom Introduces Industry’s First 800G AI Ethernet NIC",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:58:07.690373",
+      "last_seen": "2026-02-11T11:58:07.690390"
+    },
+    "https://www.broadcom.com/company/news/product-releases/63626": {
+      "headline": "Broadcom Announces Tomahawk® 6 – Davisson, the Industry’s First 102.4-Tbps Ethernet Switch with Co-Packaged Optics",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:28:23.978325",
+      "last_seen": "2026-02-11T13:28:23.978342"
+    },
+    "https://www.broadcom.com/company/news/product-releases/63621": {
+      "headline": "Broadcom Delivers the Future of AI Infrastructure with End-to-End AI Networking Solutions at 2025 OCP Global Summit",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:48:35.490235",
+      "last_seen": "2026-02-12T12:48:35.490250"
+    },
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9-0-as-strategic-platform-for-private-cloud-modernization": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T13:16:53.725277",
+      "last_seen": "2026-02-13T13:16:53.725292"
+    },
+    "https://news.broadcom.com/releases/vmware-explore-2025-vmware-cloud-foundation-ai-native": {
+      "headline": "Broadcom Makes VMware Cloud Foundation an AI Native Platform and Accelerates Developer Productivity",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:17:04.608557",
+      "last_seen": "2026-02-13T13:17:04.608565"
+    },
+    "https://news.broadcom.com/releases/vmware-explore-2025-vcf-cyber-resilience": {
+      "headline": "VMware Cloud Foundation Elevates Cyber Resilience, Compliance, and Security for the Modern Private Cloud",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:32:15.491246",
+      "last_seen": "2026-02-16T11:32:15.491260"
+    },
+    "https://news.broadcom.com/releases/vmware-explore-2025-tanzu": {
+      "headline": "VMware Explore 2025: VMware Tanzu Delivers Speed, Security with AI-Ready Data and Application Platform to Drive Agentic AI Innovation",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:11:52.638483",
+      "last_seen": "2026-02-20T12:11:52.638496"
+    },
+    "https://news.broadcom.com/releases/vmware-explore-2025-walmart-vcf": {
+      "headline": "Broadcom Selected as Strategic Vendor for Virtualization Software Solutions for Walmart",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:22:43.670068",
+      "last_seen": "2026-02-25T13:22:43.670083"
+    },
+    "https://news.broadcom.com/releases/vmware-telco-cloud-platform-9": {
+      "headline": "Broadcom Announces VMware Telco Cloud Platform 9 to Drive Greater Hardware Efficiency for Sovereign-Ready Telco Infrastructure",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:20:44.465178",
+      "last_seen": "2026-03-03T14:20:44.465192"
+    },
+    "https://news.broadcom.com/releases/ing-selects-vmware-cloud-foundation-9": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:20:49.139183",
+      "last_seen": "2026-03-03T14:20:49.139197"
+    },
+    "https://news.broadcom.com/releases/lloyds-banking-group-broadcom": {
+      "headline": "Lloyds Banking Group Extends Strategic Partnership with Broadcom to Accelerate Digital Transformation",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:21:00.820922",
+      "last_seen": "2026-03-03T14:21:00.820937"
+    },
+    "https://news.broadcom.com/releases/broadcom-accelerates-ai-innovation-in-the-modern-private-cloud-with-nvidia": {
+      "headline": "Broadcom Accelerates AI Innovation in the Modern Private Cloud with NVIDIA",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:06:10.432307",
+      "last_seen": "2026-03-04T14:06:10.432321"
+    },
+    "https://news.broadcom.com/releases/ing-selects-vcf-9": {
+      "headline": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:09:03.695075",
+      "last_seen": "2026-03-05T12:09:03.695090"
+    },
+    "https://news.broadcom.com/company/news/product-releases/63621-delivers-the-future-of-ai-infrastructure-with-end-to-end-ai-networking-solutions-at-2025-ocp-global-summit": {
+      "headline": "Broadcom Accelerates AI Innovation in the Modern Private Cloud with NVIDIA",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T13:07:50.841274",
+      "last_seen": "2026-03-09T13:07:50.841289"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+## Most Important Stories
+
+- **US President Donald Trump orders de-escalation in Minnesota after fatal shooting of Alex Pretti by federal agents**: Trump calls for an investigation and replaces local DHS leadership following protests and bipartisan criticism.
+- **US government faces possible partial shutdown over DHS funding dispute**: Democrats demand removal of DHS funding from the budget, risking agency closures if no agreement is reached.
+- **Congressional and legal fallout grows over Minnesota shooting and immigration enforcement**: House Democrats threaten DHS Secretary Kristi Noem with impeachment, and a federal judge orders ICE chief to court over enforcement violations.
+- **Spain to grant legal status to half a million undocumented migrants**: Move aims to improve integration and legal protections for migrants in Spain.
+- **China removes top general Zhang Youxia amid military probe, signaling Xi Jinping's power consolidation**: The purge highlights Xi's increasing control over the military hierarchy.
+- **UK Prime Minister Keir Starmer visits Beijing to reset UK-China relations**: Starmer's trip focuses on human rights, security, and economic ties, amid calls for caution.
+- **India and EU announce landmark free trade deal as US-China trade tensions persist**: The agreement aims to reduce tariffs, but its future may be affected by US President Donald Trump’s response.
+- **South Korea faces US tariff hikes on autos and pharmaceuticals after delays in trade deal approval**: Hyundai shares fall as Seoul scrambles to pass a US investment bill to avoid further penalties.
+- **Europe-US relations at 'lowest moment' amid diplomatic tensions and shifting alliances**: European leaders cite declining trust and diverging values under US President Donald Trump’s administration.
+- **US President Donald Trump praises British troops after downplaying NATO’s Afghanistan role**: His remarks spark outrage and highlight ongoing transatlantic tensions.
+- **US dollar suffers sharpest one-day drop since April 2025 after Trump comments**: Trump expresses confidence in the weaker dollar despite market concerns.
+- **Amazon inadvertently announces layoffs in cloud unit, signaling wider corporate job cuts**: The company prepares for significant workforce reductions across divisions.
+- **US missile strike off Venezuela prompts wrongful death lawsuit from families of Trinidadian victims**: The case challenges the legality of US strikes on alleged drug-smuggling vessels.
+- **Russian drone strike kills civilians on Ukrainian passenger train as attacks on infrastructure intensify**: Zelensky condemns the attack, with Ukraine facing severe winter hardships.
+- **First trilateral talks held between Ukraine, Russia, and US to address ongoing conflict**: Negotiators plan future meetings amid continued violence.
+- **Iran issues defiant warning to US as crackdown on protests leaves thousands dead**: Iranian leadership signals heightened tensions and ongoing repression.
+- **China maintains cautious stance amid US President Donald Trump’s tariff threats, prioritizing stability**: Beijing avoids escalation, awaiting the outcome of upcoming US-China meetings.
+- **South Korea's former first lady Kim Keon Hee faces trial for bribery and corruption**: Her indictment marks a historic first for a presidential spouse in South Korea.
+- **Deadly ferry disaster in the Philippines leaves at least 18 dead, hundreds rescued**: The incident highlights ongoing maritime safety concerns.
+- **Massive landslide hits Sicily after Storm Harry, causing widespread destruction**: Local communities face significant impacts from the natural disaster.
+- **Venezuelans use covert communication to avoid government surveillance amid crackdown on free speech**: Citizens increasingly speak in code and delete chats to evade phone checks.
+- **Texas governor halts new H-1B visa petitions by state agencies and universities**: The suspension aims to address concerns over visa abuse and federal review.
+- **Homebuyers in the US back out of deals at highest rate since 2017**: Rising costs and economic uncertainty drive increased cancellations.
+- **Bulletin of the Atomic Scientists moves Doomsday Clock closer to midnight, citing global risks**: The clock now stands at 85 seconds to midnight, the closest ever.
+- **Israel recovers body of last hostage in Gaza, ending 843-day wait**: The development marks a significant moment in the ongoing conflict.
+- **US carrier strike group arrives in Middle East amid heightened regional tensions**: Deployment reflects ongoing security concerns in the region.
+- **Mexico investigates deadly attack at soccer match as President Sheinbaum faces pressure to curb crime**: The incident underscores rising violence in Mexico.
+- **France puts ex-senator Joel Guerriau on trial for drugging and sexual assault**: The case draws attention to abuse of power in political circles.

@@ -1,0 +1,42 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02525-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306432716/hesai-w-monthly-return-of-equity-issuers-on-movements-in",
+    "https://news.futunn.com/hk/notice/306367944/hesai-w-notification-letter-to-non-registered-holders-of-shares",
+    "https://news.futunn.com/hk/notice/306588619/hesai-w-third-amended-and-restated-memorandum-and-articles-of",
+    "https://news.futunn.com/hk/notice/306588574/hesai-w-poll-results-of-the-extraordinary-general-meeting-andclass",
+    "https://news.futunn.com/hk/notice/306606615/hesai-w-monthly-return-of-equity-issuers-on-movements-in"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306432716/hesai-w-monthly-return-of-equity-issuers-on-movements-in": {
+      "headline": "禾賽-W：截至二零二六年一月三十一日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:34:18.721491",
+      "last_seen": "2026-02-09T21:34:18.721499"
+    },
+    "https://news.futunn.com/hk/notice/306367944/hesai-w-notification-letter-to-non-registered-holders-of-shares": {
+      "headline": "禾賽-W：致非登記持有人之通知信函及申請表格 - 以電子方式發佈公司通訊之安排",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:00:01.914133",
+      "last_seen": "2026-02-10T11:00:01.914148"
+    },
+    "https://news.futunn.com/hk/notice/306588619/hesai-w-third-amended-and-restated-memorandum-and-articles-of": {
+      "headline": "禾賽-W：第三次經修訂及重述組織章程大綱及章程細則",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:38:30.842721",
+      "last_seen": "2026-03-04T13:38:30.842733"
+    },
+    "https://news.futunn.com/hk/notice/306588574/hesai-w-poll-results-of-the-extraordinary-general-meeting-andclass": {
+      "headline": "禾賽-W：於2026年3月3日舉行的股東特別大會及類別股東大會的投票表決結果",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T13:38:31.567462",
+      "last_seen": "2026-03-04T13:38:31.567507"
+    },
+    "https://news.futunn.com/hk/notice/306606615/hesai-w-monthly-return-of-equity-issuers-on-movements-in": {
+      "headline": "禾賽-W：截至二零二六年二月二十八日止月份之股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:42:45.677296",
+      "last_seen": "2026-03-06T11:42:45.677311"
+    }
+  }
+}

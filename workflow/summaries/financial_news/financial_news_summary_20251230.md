@@ -1,0 +1,3 @@
+## Global Financial News
+
+- **Asia-Pacific Markets Decline Amid Tech Concerns**: Asia-Pacific markets mostly fell on December 29, 2025, due to ongoing worries over a tech sell-off in the U.S., notably impacting companies like Nvidia and SoftBank. Japan's Nikkei 225 decreased by 0.18%, while South Korea's Kospi managed a slight gain of 0.1%. Investors are also wary of China's military exercises around Taiwan, which could affect regional stability and market sentiment.

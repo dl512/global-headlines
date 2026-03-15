@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/02432-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306417738/dobot-grant-of-options-and-awards",
+    "https://news.futunn.com/hk/notice/306416033/dobot-monthly-return-of-equity-issuer-on-movements-in-securities",
+    "https://news.futunn.com/hk/notice/306607205/dobot-monthly-return-of-equity-issuer-on-movements-in-securities"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306417738/dobot-grant-of-options-and-awards": {
+      "headline": "越疆：授出購股權及獎勵",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:38:00.186867",
+      "last_seen": "2026-02-09T21:38:00.186875"
+    },
+    "https://news.futunn.com/hk/notice/306416033/dobot-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "越疆：截至二零二六年一月三十一日止股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:03:25.665619",
+      "last_seen": "2026-02-10T11:03:25.665634"
+    },
+    "https://news.futunn.com/hk/notice/306607205/dobot-monthly-return-of-equity-issuer-on-movements-in-securities": {
+      "headline": "越疆：截至二零二六年二月二十八日止股份發行人的證券變動月報表",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:47:31.039840",
+      "last_seen": "2026-03-06T11:47:31.039855"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "website": "https://newsroom.intel.com/",
+  "links": [
+    "https://newsroom.intel.com/intel-products/intel-launches-new-intel-xeon-600-processors-for-workstation",
+    "https://newsroom.intel.com/corporate/intel-reports-fourth-quarter-and-full-year-2025-financial-results",
+    "https://newsroom.intel.com/5g-wireless/ai-mobile-networks-intel-showcases-whats-next-at-mwc-2026",
+    "https://newsroom.intel.com/corporate/intel-to-match-federal-contributions-under-trump-accounts-program-for-employees-families",
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-intel-launches-series-3-cpus-with-200-laptop-designs",
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-robee-steals-the-spotlight-with-intel-core-ultra-series-3-edge-processors",
+    "https://newsroom.intel.com/client-computing/postcard-from-ces-2026-robee-steals-the-spotlight-with-intel-core-ultra-series-3-edge-processors",
+    "https://newsroom.intel.com/opinion/how-intel-optimized-openclaw-runs-securely-cost-efficiently-intel-based-ai-pcs",
+    "https://newsroom.intel.com/client-computing/from-building-bricks-to-brilliance-model-of-intel-series-3-processor-steals-the-show",
+    "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a",
+    "https://newsroom.intel.com/data-center/intel-and-sambanova-planning-multi-year-collaboration-for-xeon-based-ai-inference",
+    "https://newsroom.intel.com/tech101/explaining-common-chip-terms",
+    "https://newsroom.intel.com/tech101/what-is-artificial-intelligence",
+    "https://newsroom.intel.com/tech101/how-silicon-die-become-chip-packages",
+    "https://newsroom.intel.com/press-kit/press-kit-intel-at-mwc-barcelona-2026",
+    "https://newsroom.intel.com/opinion/smarter-5g-today-seamless-path-to-6g-intels-ai-ready-network-vision",
+    "https://newsroom.intel.com/artificial-intelligence/ericsson-and-intel-collaborate-to-accelerate-the-path-to-commercial-ai-native-6g",
+    "https://newsroom.intel.com/corporate/intel-to-participate-in-morgan-stanley-conference",
+    "https://newsroom.intel.com/corporate/intel-board-chair-frank-d-yeary-to-retire-following-annual-meeting-dr-craig-h-barratt-elected-as-chair",
+    "https://newsroom.intel.com/5g-wireless/postcard-from-mwc-2026-solid-5g-foundation-paves-path-to-6g",
+    "https://newsroom.intel.com/opinion/the-future-of-agentic-ai-workloads-lie-in-hybrid-ai",
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-intel-launches-series-3-cpus-200-laptop-designs",
+    "https://newsroom.intel.com/tech101/how-a-semiconductor-factory-works",
+    "https://newsroom.intel.com/press-kit/intel-at-mwc-barcelona-2026",
+    "https://newsroom.intel.com/client-computing/intel-launches-core-series-2-processors-expands-edge-ai-portfolio"
+  ],
+  "metadata": {
+    "https://newsroom.intel.com/intel-products/intel-launches-new-intel-xeon-600-processors-for-workstation": {
+      "headline": "Intel Launches new Intel® Xeon® 600 Processors for Workstation",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:49:14.050257",
+      "last_seen": "2026-02-09T21:49:14.050265"
+    },
+    "https://newsroom.intel.com/corporate/intel-reports-fourth-quarter-and-full-year-2025-financial-results": {
+      "headline": "Intel Reports Fourth-Quarter and Full-Year 2025 Financial Results",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T11:12:58.941295",
+      "last_seen": "2026-02-10T11:12:58.941308"
+    },
+    "https://newsroom.intel.com/5g-wireless/ai-mobile-networks-intel-showcases-whats-next-at-mwc-2026": {
+      "headline": "AI + Mobile Networks: Intel Showcases What’s Next at MWC 2026",
+      "was_relevant": true,
+      "first_seen": "2026-02-11T11:52:58.111290",
+      "last_seen": "2026-02-11T11:52:58.111307"
+    },
+    "https://newsroom.intel.com/corporate/intel-to-match-federal-contributions-under-trump-accounts-program-for-employees-families": {
+      "headline": "Intel to Match Federal Contributions Under Trump Accounts Program for Employees’ Families",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T11:53:03.564510",
+      "last_seen": "2026-02-11T11:53:03.564526"
+    },
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-intel-launches-series-3-cpus-with-200-laptop-designs": {
+      "headline": "Postcard from CES 2026: Intel Launches Series 3 CPUs With 200+ Laptop Designs Coming",
+      "was_relevant": false,
+      "first_seen": "2026-02-11T13:24:03.832434",
+      "last_seen": "2026-02-11T13:24:03.832448"
+    },
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-robee-steals-the-spotlight-with-intel-core-ultra-series-3-edge-processors": {
+      "headline": "RoBee Steals the Spotlight with Intel® Core™ Ultra Series 3 edge processors",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:42:35.752847",
+      "last_seen": "2026-02-12T12:42:35.752862"
+    },
+    "https://newsroom.intel.com/client-computing/postcard-from-ces-2026-robee-steals-the-spotlight-with-intel-core-ultra-series-3-edge-processors": {
+      "headline": "RoBee Steals the Spotlight with Intel® Core™ Ultra Series 3 edge processors",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T13:09:45.533335",
+      "last_seen": "2026-02-13T13:09:45.533346"
+    },
+    "https://newsroom.intel.com/opinion/how-intel-optimized-openclaw-runs-securely-cost-efficiently-intel-based-ai-pcs": {
+      "headline": "Learn how Intel Optimized OpenClaw to Run More Securely and Cost Efficiently on Intel-based AI PCs",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:25:52.301290",
+      "last_seen": "2026-02-16T11:25:52.301307"
+    },
+    "https://newsroom.intel.com/client-computing/from-building-bricks-to-brilliance-model-of-intel-series-3-processor-steals-the-show": {
+      "headline": "From Building Bricks to Brilliance: Model of Intel Series 3 Processor Steals the Show",
+      "was_relevant": false,
+      "first_seen": "2026-02-20T12:00:25.405334",
+      "last_seen": "2026-02-20T12:00:25.405348"
+    },
+    "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a": {
+      "headline": "CES 2026: Intel Core Ultra Series 3 Debut as First Built on Intel 18A",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:58:35.024945",
+      "last_seen": "2026-02-23T12:58:35.024963"
+    },
+    "https://newsroom.intel.com/data-center/intel-and-sambanova-planning-multi-year-collaboration-for-xeon-based-ai-inference": {
+      "headline": "Intel, SambaNova Planning Multi-Year Collaboration for Xeon-Based AI Inference",
+      "was_relevant": true,
+      "first_seen": "2026-02-25T13:09:58.876457",
+      "last_seen": "2026-02-25T13:09:58.876472"
+    },
+    "https://newsroom.intel.com/tech101/explaining-common-chip-terms": {
+      "headline": "Explaining Common Chip Terms",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T13:10:27.093852",
+      "last_seen": "2026-02-25T13:10:27.093867"
+    },
+    "https://newsroom.intel.com/tech101/what-is-artificial-intelligence": {
+      "headline": "What is Artificial Intelligence?",
+      "was_relevant": false,
+      "first_seen": "2026-02-26T11:17:58.690889",
+      "last_seen": "2026-02-26T11:17:58.690904"
+    },
+    "https://newsroom.intel.com/tech101/how-silicon-die-become-chip-packages": {
+      "headline": "How Silicon Die Become Chip Packages",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:30:07.489797",
+      "last_seen": "2026-02-27T12:30:07.489812"
+    },
+    "https://newsroom.intel.com/press-kit/press-kit-intel-at-mwc-barcelona-2026": {
+      "headline": "Press Kit: Intel at MWC Barcelona 2026",
+      "was_relevant": false,
+      "first_seen": "2026-03-02T10:23:57.662178",
+      "last_seen": "2026-03-02T10:23:57.662193"
+    },
+    "https://newsroom.intel.com/opinion/smarter-5g-today-seamless-path-to-6g-intels-ai-ready-network-vision": {
+      "headline": "Smarter 5G Today, Seamless Path to 6G: Intel’s AI-Ready Network Vision",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:12:30.441122",
+      "last_seen": "2026-03-03T14:12:30.441138"
+    },
+    "https://newsroom.intel.com/artificial-intelligence/ericsson-and-intel-collaborate-to-accelerate-the-path-to-commercial-ai-native-6g": {
+      "headline": "Ericsson and Intel collaborate to accelerate the path to commercial AI-native 6G",
+      "was_relevant": true,
+      "first_seen": "2026-03-03T14:12:35.363478",
+      "last_seen": "2026-03-03T14:12:35.363497"
+    },
+    "https://newsroom.intel.com/corporate/intel-to-participate-in-morgan-stanley-conference": {
+      "headline": "Intel Corporation to Participate in Upcoming Investor Conference",
+      "was_relevant": false,
+      "first_seen": "2026-03-03T14:12:44.227442",
+      "last_seen": "2026-03-03T14:12:44.227492"
+    },
+    "https://newsroom.intel.com/corporate/intel-board-chair-frank-d-yeary-to-retire-following-annual-meeting-dr-craig-h-barratt-elected-as-chair": {
+      "headline": "Intel Board Chair Frank D. Yeary to Retire Following Annual Meeting; Dr. Craig H. Barratt Elected as Chair",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:44.738336",
+      "last_seen": "2026-03-04T13:59:44.738352"
+    },
+    "https://newsroom.intel.com/5g-wireless/postcard-from-mwc-2026-solid-5g-foundation-paves-path-to-6g": {
+      "headline": "Postcard from MWC 2026: A Solid 5G Foundation Today Paves the Path to Seamless 6G Tomorrow",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:48.812405",
+      "last_seen": "2026-03-04T13:59:48.812419"
+    },
+    "https://newsroom.intel.com/opinion/the-future-of-agentic-ai-workloads-lie-in-hybrid-ai": {
+      "headline": "The future of agentic AI workloads lie in hybrid AI",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:59:59.576307",
+      "last_seen": "2026-03-04T13:59:59.576323"
+    },
+    "https://newsroom.intel.com/client-computing/postcard-ces-2026-intel-launches-series-3-cpus-200-laptop-designs": {
+      "headline": "Postcard from CES 2026: Intel Launches Series 3 CPUs With 200+ Laptop Designs Coming",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T14:00:07.076855",
+      "last_seen": "2026-03-04T14:00:07.076877"
+    },
+    "https://newsroom.intel.com/tech101/how-a-semiconductor-factory-works": {
+      "headline": "How a Semiconductor Factory Works",
+      "was_relevant": false,
+      "first_seen": "2026-03-04T14:00:14.058769",
+      "last_seen": "2026-03-04T14:00:14.058785"
+    },
+    "https://newsroom.intel.com/press-kit/intel-at-mwc-barcelona-2026": {
+      "headline": "Press Kit: Intel at MWC Barcelona 2026",
+      "was_relevant": false,
+      "first_seen": "2026-03-05T12:03:10.759094",
+      "last_seen": "2026-03-05T12:03:10.759110"
+    },
+    "https://newsroom.intel.com/client-computing/intel-launches-core-series-2-processors-expands-edge-ai-portfolio": {
+      "headline": "Intel Launches Core Series 2 Processor with Real-Time Performance and Expands Edge AI Portfolio",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:54:07.034723",
+      "last_seen": "2026-03-10T10:54:07.034740"
+    }
+  }
+}

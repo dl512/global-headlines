@@ -1,0 +1,28 @@
+{
+  "website": "https://www.futunn.com/hk/stock/01024-HK/announcement",
+  "links": [
+    "https://news.futunn.com/hk/notice/306350054/publication-of-the-offering-memorandum-kuaishou-technology-cny3500000000-2-450",
+    "https://news.futunn.com/hk/notice/306350046/publication-of-the-offering-memorandum-kuaishou-technology-us-600000000-4",
+    "https://news.futunn.com/hk/notice/306606597/monthly-return-of-equity-issuer-on-movements-in-securities-for"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/notice/306350054/publication-of-the-offering-memorandum-kuaishou-technology-cny3500000000-2-450": {
+      "headline": "快手-W (01024) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-02-09T21:19:52.540373",
+      "last_seen": "2026-02-09T21:19:52.540382"
+    },
+    "https://news.futunn.com/hk/notice/306350046/publication-of-the-offering-memorandum-kuaishou-technology-us-600000000-4": {
+      "headline": "快手科技 - 600,000,000美元於2031年到期的4.125%優先票據及900,000,000美元於2036年到期的4.750%優先票據",
+      "was_relevant": false,
+      "first_seen": "2026-02-10T10:47:26.316943",
+      "last_seen": "2026-02-10T10:47:26.316959"
+    },
+    "https://news.futunn.com/hk/notice/306606597/monthly-return-of-equity-issuer-on-movements-in-securities-for": {
+      "headline": "快手-W (01024) 最新新聞",
+      "was_relevant": false,
+      "first_seen": "2026-03-06T11:21:16.206620",
+      "last_seen": "2026-03-06T11:21:16.206636"
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "website": "https://www.futunn.com/hk/stock/00100-HK/news",
+  "links": [
+    "https://news.futunn.com/hk/post/68624553/guolian-minsheng-securities-in-the-agent-era-large-models-are",
+    "https://news.futunn.com/hk/post/68622312",
+    "https://news.futunn.com/hk/post/68613778/hong-kong-stock-market-midday-review-hang-seng-index-rose",
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong",
+    "https://news.futunn.com/hk/post/68609828/orient-securities-video-generation-enters-the-era-of-precise-control",
+    "https://news.futunn.com/hk/post/68603928",
+    "https://news.futunn.com/hk/post/68598202",
+    "https://news.futunn.com/hk/post/68553596",
+    "https://news.futunn.com/hk/post/68666654/the-mysterious-model-pony-alpha-has-sparked-market-expectations-driving",
+    "https://news.futunn.com/hk/post/68670152/stock-market-movements-ai-large-model-concept-gains-market-popularity",
+    "https://news.futunn.com/hk/post/68656739/cuty-ai-announces-the-end-of-tool-fragmentation-with-unified",
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming",
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will",
+    "https://news.futunn.com/hk/post/68801798/hong-kong-stocks-midday-review-hang-seng-index-fell-0",
+    "https://news.futunn.com/hk/post/68801923/jpmorgan-predicts-that-tencent-00700-hk-will-benefit-the-most",
+    "https://news.futunn.com/hk/post/68751669/hong-kong-stock-market-close-three-major-indices-continue-to",
+    "https://news.futunn.com/hk/post/68868719/minimax-released-the-m2-5-model-costing-1-dollar-to",
+    "https://news.futunn.com/hk/post/68873521/hong-kong-stock-market-midday-review-hang-seng-index-fell>",
+    "https://news.futunn.com/hk/post/68941995/the-two-leading-large-models-in-the-hong-kong-stock",
+    "https://news.futunn.com/hk/post/68946699/from-models-to-computing-power-and-application-scenarios-ai-illuminates",
+    "https://news.futunn.com/hk/post/68946654/hong-kong-stock-movement-minimax-wp-00100-surges-over-9",
+    "https://news.futunn.com/hk/post/68945786/hong-kong-stock-market-morning-review-major-indices-open-lower",
+    "https://news.futunn.com/hk/post/68940630/ai-meets-strongest-spring-festival-box-office-is-token-inflation",
+    "https://news.futunn.com/hk/post/68939703",
+    "https://news.futunn.com/hk/post/69090536/the-hang-seng-tech-index-in-hong-kong-rose-over",
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47",
+    "https://news.futunn.com/hk/post/69090606",
+    "https://news.futunn.com/hk/post/69089983",
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record",
+    "https://news.futunn.com/hk/post/69089883",
+    "https://news.futunn.com/hk/post/69087583",
+    "https://news.futunn.com/hk/post/69084402/defying-overseas-ai-panic-the-chinese-market-is-aggressively-speculating",
+    "https://news.futunn.com/hk/post/69197963",
+    "https://news.futunn.com/hk/post/69186138/the-amount-raised-through-hong-kong-ipos-surged-10-fold",
+    "https://news.futunn.com/hk/post/69148778/the-ai-doomsday-report-suggests-that-asian-tech-stocks-could",
+    "https://news.futunn.com/hk/post/69330417/after-minimax-became-the-top-choice-for-token-invocation-the",
+    "https://news.futunn.com/hk/post/69338351/hong-kong-stock-market-midday-review-all-three-major-indices",
+    "https://news.futunn.com/flash/19993524/the-two-major-models-of-hong-kong-stocks-rebounded-during",
+    "https://news.futunn.com/hk/post/69337574",
+    "https://news.futunn.com/hk/post/69336554",
+    "https://news.futunn.com/hk/post/69335398/2026%e3%80%81%e6%99%ba%e8%83%bd%e6%89%8b%e5%86%8c%e9%96%8b%e9%96%8b%e6%b7%98%e6%b1%82%e8%b3%bd%ef%bc%9f",
+    "https://news.futunn.com/hk/post/69334848/nvidia-s-sharp-decline-weighed-on-hong-kong-listed-artificial",
+    "https://news.futunn.com/hk/post/69574122",
+    "https://news.futunn.com/hk/post/69769769/driven-by-the-lobster-initiative-within-the-first-two-months",
+    "https://news.futunn.com/hk/post/69779775/shenzhen-longgang-offers-subsidies-of-up-to-2-million-rmb",
+    "https://news.futunn.com/hk/post/69779713/tencent-00700-hk-has-reportedly-started-internal-testing-of-qclaw",
+    "https://news.futunn.com/hk/post/69779284",
+    "https://news.futunn.com/hk/post/69778958/hong-kong-stock-market-midday-review-hang-seng-index-fell",
+    "https://news.futunn.com/hk/post/69779154",
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai",
+    "https://news.futunn.com/hk/post/69777110/minimax-s-growth-momentum-expands-as-the-shrimp-farming-craze",
+    "https://news.futunn.com/hk/post/69769912",
+    "https://news.futunn.com/hk/post/69832162/minimax-s-stock-price-surged-to-a-new-high-after",
+    "https://news.futunn.com/hk/post/69835061",
+    "https://news.futunn.com/hk/post/69832755/zhipu-02513-hk-launches-the-first-one-click-installation-of",
+    "https://news.futunn.com/hk/post/69832743",
+    "https://news.futunn.com/hk/post/69829659/ai-circle-selling-anxiety-has-been-too-extreme",
+    "https://news.futunn.com/hk/post/69828561/codebuddy-a-subsidiary-of-tencent-00700-hk-experienced-service-instability",
+    "https://news.futunn.com/hk/post/69833520"
+  ],
+  "metadata": {
+    "https://news.futunn.com/hk/post/68624553/guolian-minsheng-securities-in-the-agent-era-large-models-are": {
+      "headline": "國聯民生證券：Agent時代大模型正進化爲「自主員工」 建議關注MiniMax-WP(00100)和智譜(02513)",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:37.576646",
+      "last_seen": "2026-02-09T21:43:37.576654"
+    },
+    "https://news.futunn.com/hk/post/68622312": {
+      "headline": "AI概念強勢 智譜升37.7% 工信部部署推進國家算力互聯互通節點體系建設",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:40.960318",
+      "last_seen": "2026-02-09T21:43:40.960326"
+    },
+    "https://news.futunn.com/hk/post/68613778/hong-kong-stock-market-midday-review-hang-seng-index-rose": {
+      "headline": "港股午評|恒生指數早盤漲1.44% 太空光伏板塊全面走高",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:45.831661",
+      "last_seen": "2026-02-09T21:43:45.831668"
+    },
+    "https://news.futunn.com/hk/post/68609675/market-sentiment-towards-ai-applications-and-optical-communication-in-hong": {
+      "headline": "港股AI應用、光通訊情緒持續回暖，券商研報指明AI價值重構新路徑",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:49.492090",
+      "last_seen": "2026-02-09T21:43:49.492098"
+    },
+    "https://news.futunn.com/hk/post/68609828/orient-securities-video-generation-enters-the-era-of-precise-control": {
+      "headline": "東方證券：視頻生成進入精準控制時代 創作平權帶動BC兩端加速滲透",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:54.386756",
+      "last_seen": "2026-02-09T21:43:54.386764"
+    },
+    "https://news.futunn.com/hk/post/68603928": {
+      "headline": "產業母基金迎上市培育「開門紅」助力半導體+AI三巨頭密集敲鐘上市",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:43:59.063956",
+      "last_seen": "2026-02-09T21:43:59.063968"
+    },
+    "https://news.futunn.com/hk/post/68598202": {
+      "headline": "如果豆包能戀愛，誰還需要AI戀愛軟件？",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:44:05.084281",
+      "last_seen": "2026-02-09T21:44:05.084288"
+    },
+    "https://news.futunn.com/hk/post/68553596": {
+      "headline": "港股周跌3%終結三週連漲 恒指週五重挫325點至26560點",
+      "was_relevant": true,
+      "first_seen": "2026-02-09T21:44:10.574481",
+      "last_seen": "2026-02-09T21:44:10.574495"
+    },
+    "https://news.futunn.com/hk/post/68666654/the-mysterious-model-pony-alpha-has-sparked-market-expectations-driving": {
+      "headline": "神祕模型Pony Alpha引爆市場預期，智譜、MINIMAX-WP股價均走高",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:07:06.587197",
+      "last_seen": "2026-02-10T11:07:06.587213"
+    },
+    "https://news.futunn.com/hk/post/68670152/stock-market-movements-ai-large-model-concept-gains-market-popularity": {
+      "headline": "港股異動 | AI大模型概念受市場熱捧 迅策(03317)再漲超12% 公司專注於構建毫秒級AI Data Agent平台",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:07:12.678564",
+      "last_seen": "2026-02-10T11:07:12.678579"
+    },
+    "https://news.futunn.com/hk/post/68656739/cuty-ai-announces-the-end-of-tool-fragmentation-with-unified": {
+      "headline": "Cuty AI 宣佈通過統一的 AI 圖像和視頻創作工具，終結工具碎片化問題。",
+      "was_relevant": true,
+      "first_seen": "2026-02-10T11:07:21.749321",
+      "last_seen": "2026-02-10T11:07:21.749335"
+    },
+    "https://news.futunn.com/hk/post/68761581/is-a-new-deepseek-model-coming": {
+      "headline": "DeepSeek新模型來了？",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:33:51.507714",
+      "last_seen": "2026-02-12T12:33:51.507731"
+    },
+    "https://news.futunn.com/hk/post/68801690/renowned-hedge-fund-lone-pine-capital-the-ai-bubble-will": {
+      "headline": "知名對沖基金孤松資本：AI泡沫還要等到OpenAI上市，不博弈短期而是思考3-5年的世界格局",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:33:53.459634",
+      "last_seen": "2026-02-12T12:33:53.459649"
+    },
+    "https://news.futunn.com/hk/post/68801798/hong-kong-stocks-midday-review-hang-seng-index-fell-0": {
+      "headline": "港股午評|恒生指數早盤跌0.89% 智譜逆市飆升24%領漲AI大模型",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:33:54.193562",
+      "last_seen": "2026-02-12T12:33:54.193578"
+    },
+    "https://news.futunn.com/hk/post/68801923/jpmorgan-predicts-that-tencent-00700-hk-will-benefit-the-most": {
+      "headline": "《大行》摩通料騰訊(00700.HK)最受惠DeepSeek新版本迭代",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:33:54.921315",
+      "last_seen": "2026-02-12T12:33:54.921331"
+    },
+    "https://news.futunn.com/hk/post/68751669/hong-kong-stock-market-close-three-major-indices-continue-to": {
+      "headline": "港股收盤 | 三大指數繼續震盪 黃金股反彈表現亮眼",
+      "was_relevant": false,
+      "first_seen": "2026-02-12T12:33:55.672328",
+      "last_seen": "2026-02-12T12:33:55.672345"
+    },
+    "https://news.futunn.com/hk/post/68868719/minimax-released-the-m2-5-model-costing-1-dollar-to": {
+      "headline": "MiniMax發佈M2.5模型：1美元運行1小時，價格僅爲GPT-5的1/20，性能比肩Claude Opus",
+      "was_relevant": true,
+      "first_seen": "2026-02-13T12:58:19.879254",
+      "last_seen": "2026-02-13T12:58:19.879274"
+    },
+    "https://news.futunn.com/hk/post/68873521/hong-kong-stock-market-midday-review-hang-seng-index-fell>": {
+      "headline": "港股午評|恒生指數早盤跌1.79% 智譜續漲超11%市值破2000億",
+      "was_relevant": false,
+      "first_seen": "2026-02-13T12:58:20.789721",
+      "last_seen": "2026-02-13T12:58:20.789736"
+    },
+    "https://news.futunn.com/hk/post/68941995/the-two-leading-large-models-in-the-hong-kong-stock": {
+      "headline": "港股大模型「雙雄」延續強勢，馬斯克預言2026年底編程或將全面自動化，國產大模型春節競速AI編程",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:10.575924",
+      "last_seen": "2026-02-16T11:18:10.575940"
+    },
+    "https://news.futunn.com/hk/post/68946699/from-models-to-computing-power-and-application-scenarios-ai-illuminates": {
+      "headline": "從模型到算力再到場景 AI點亮上海年味|2026新春走基層",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:11.331333",
+      "last_seen": "2026-02-16T11:18:11.331349"
+    },
+    "https://news.futunn.com/hk/post/68946654/hong-kong-stock-movement-minimax-wp-00100-surges-over-9": {
+      "headline": "港股異動 | MINIMAX-WP(00100)漲超9%再破頂 近日上線最新旗艦編程模型MiniMax M2.5",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:12.129309",
+      "last_seen": "2026-02-16T11:18:12.129325"
+    },
+    "https://news.futunn.com/hk/post/68945786/hong-kong-stock-market-morning-review-major-indices-open-lower": {
+      "headline": "港股早評：港股三大指數集體低開 AI概念股走高",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:12.885785",
+      "last_seen": "2026-02-16T11:18:12.885801"
+    },
+    "https://news.futunn.com/hk/post/68940630/ai-meets-strongest-spring-festival-box-office-is-token-inflation": {
+      "headline": "AI遇上最強春節檔 Token通脹已成必然？",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:13.641004",
+      "last_seen": "2026-02-16T11:18:13.641020"
+    },
+    "https://news.futunn.com/hk/post/68939703": {
+      "headline": "國產AI編程新王者降臨！MiniMax M2.5 以1/20價格挑戰Claude Opus 4.6",
+      "was_relevant": false,
+      "first_seen": "2026-02-16T11:18:14.381492",
+      "last_seen": "2026-02-16T11:18:14.381508"
+    },
+    "https://news.futunn.com/hk/post/69090536/the-hang-seng-tech-index-in-hong-kong-rose-over": {
+      "headline": "港股恒生科指半日漲超3% 互聯網和有色金屬等板塊領漲",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:41.684375",
+      "last_seen": "2026-02-23T12:49:41.684391"
+    },
+    "https://news.futunn.com/hk/post/69087426/sino-us-ai-advancement-in-tandem-30-updates-in-47": {
+      "headline": "中美AI同步加速：47天30次更新，中國AI的最強主場究竟在哪？",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:42.353788",
+      "last_seen": "2026-02-23T12:49:42.353803"
+    },
+    "https://news.futunn.com/hk/post/69090606": {
+      "headline": "熱度第一、Tokens周調用破3T，MiniMax這個春節殺瘋了",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:43.055046",
+      "last_seen": "2026-02-23T12:49:43.055062"
+    },
+    "https://news.futunn.com/hk/post/69089983": {
+      "headline": "大模型概念逆市大跌 智譜致歉承認擴容滯後",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:43.758750",
+      "last_seen": "2026-02-23T12:49:43.758767"
+    },
+    "https://news.futunn.com/hk/post/69089682/taiwan-south-korea-and-singapore-stock-markets-all-hit-record": {
+      "headline": "台韓星股齊破頂 港股升逾700點重上兩萬七關 科技股領漲美團揚7% AI大模型半新股急吐",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:44.474505",
+      "last_seen": "2026-02-23T12:49:44.474522"
+    },
+    "https://news.futunn.com/hk/post/69089883": {
+      "headline": "港股周觀點 | 科技和週期耗材仍是清晰主線",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:45.179184",
+      "last_seen": "2026-02-23T12:49:45.179201"
+    },
+    "https://news.futunn.com/hk/post/69087583": {
+      "headline": "【開源海外科技|行業週報】春節成爲C端AI全民普及拐點，國產大模型躋身全球第一梯隊",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:45.836601",
+      "last_seen": "2026-02-23T12:49:45.836618"
+    },
+    "https://news.futunn.com/hk/post/69084402/defying-overseas-ai-panic-the-chinese-market-is-aggressively-speculating": {
+      "headline": "無視海外「AI恐慌」，中國市場狂炒AI贏家，港股大模型「雙雄」股價狂飆",
+      "was_relevant": false,
+      "first_seen": "2026-02-23T12:49:46.407580",
+      "last_seen": "2026-02-23T12:49:46.407596"
+    },
+    "https://news.futunn.com/hk/post/69197963": {
+      "headline": "無懼「AI逆風」？瑞銀唱好中國科技股",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:50:41.112264",
+      "last_seen": "2026-02-25T12:50:41.112282"
+    },
+    "https://news.futunn.com/hk/post/69186138/the-amount-raised-through-hong-kong-ipos-surged-10-fold": {
+      "headline": "港股IPO開年募資大增10倍，110家A股公司排隊港股上市",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:50:42.002943",
+      "last_seen": "2026-02-25T12:50:42.002993"
+    },
+    "https://news.futunn.com/hk/post/69148778/the-ai-doomsday-report-suggests-that-asian-tech-stocks-could": {
+      "headline": "「AI末日」報告暗示亞洲科技股有望成贏家，作者點名MiniMax與智譜",
+      "was_relevant": false,
+      "first_seen": "2026-02-25T12:50:43.212160",
+      "last_seen": "2026-02-25T12:50:43.212176"
+    },
+    "https://news.futunn.com/hk/post/69330417/after-minimax-became-the-top-choice-for-token-invocation-the": {
+      "headline": "MiniMax成Token調用第一之後 模型廠商的下一個必爭高地顯現",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:16.663989",
+      "last_seen": "2026-02-27T12:21:16.664007"
+    },
+    "https://news.futunn.com/hk/post/69338351/hong-kong-stock-market-midday-review-all-three-major-indices": {
+      "headline": "港股午評 | 三大指數齊漲，科指漲超1%；科網、AI應用股多股上行，金山雲漲超9%，商湯漲超6%，騰訊漲近3%；商業航天股鈞達股份暴漲近22%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:18.009488",
+      "last_seen": "2026-02-27T12:21:18.009504"
+    },
+    "https://news.futunn.com/flash/19993524/the-two-major-models-of-hong-kong-stocks-rebounded-during": {
+      "headline": "快訊 | 港股大模型「雙雄」盤中反彈，智譜現轉漲超1%，此前一度跌超13%；MINIMAX跌幅收窄至7%，此前一度跌超15%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:20.323243",
+      "last_seen": "2026-02-27T12:21:20.323259"
+    },
+    "https://news.futunn.com/hk/post/69337574": {
+      "headline": "AI四小龍再掀出海熱潮：Kimi靠「養龍蝦」暴富，MiniMax默賺老外錢",
+      "was_relevant": true,
+      "first_seen": "2026-02-27T12:21:25.680525",
+      "last_seen": "2026-02-27T12:21:25.680544"
+    },
+    "https://news.futunn.com/hk/post/69336554": {
+      "headline": "大模型雙雄一夜變「雙熊」，市值狂瀉千億港元",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:26.954150",
+      "last_seen": "2026-02-27T12:21:26.954183"
+    },
+    "https://news.futunn.com/hk/post/69335398/2026%e3%80%81%e6%99%ba%e8%83%bd%e6%89%8b%e5%86%8c%e9%96%8b%e9%96%8b%e6%b7%98%e6%b1%82%e8%b3%bd%ef%bc%9f": {
+      "headline": "2026，智能手機開啓淘汰賽？",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:28.332749",
+      "last_seen": "2026-02-27T12:21:28.332764"
+    },
+    "https://news.futunn.com/hk/post/69334848/nvidia-s-sharp-decline-weighed-on-hong-kong-listed-artificial": {
+      "headline": "英偉達重挫拖累港股人工智能和芯片股 MINIMAX跌近9%",
+      "was_relevant": false,
+      "first_seen": "2026-02-27T12:21:29.451456",
+      "last_seen": "2026-02-27T12:21:29.451474"
+    },
+    "https://news.futunn.com/hk/post/69574122": {
+      "headline": "MINIMAX-WP去年業績勝預期，評級「跑贏行業」目標價1109港元",
+      "was_relevant": true,
+      "first_seen": "2026-03-04T13:52:08.205117",
+      "last_seen": "2026-03-04T13:52:08.205139"
+    },
+    "https://news.futunn.com/hk/post/69769769/driven-by-the-lobster-initiative-within-the-first-two-months": {
+      "headline": "「龍蝦」刺激之下：開年2個月，MiniMax年化經常性收入（ARR）增長50%，M2模型Token用量增長6倍",
+      "was_relevant": true,
+      "first_seen": "2026-03-09T12:52:40.715304",
+      "last_seen": "2026-03-09T12:52:40.715318"
+    },
+    "https://news.futunn.com/hk/post/69779775/shenzhen-longgang-offers-subsidies-of-up-to-2-million-rmb": {
+      "headline": "深圳龍崗支持免費「養龍蝦」提供最多200萬人幣補貼 工信部提示OpenClaw安全隱患",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:41.957707",
+      "last_seen": "2026-03-09T12:52:41.957722"
+    },
+    "https://news.futunn.com/hk/post/69779713/tencent-00700-hk-has-reportedly-started-internal-testing-of-qclaw": {
+      "headline": "騰訊QClaw開始內測 可實現微信及QQ雙端接入",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:43.078186",
+      "last_seen": "2026-03-09T12:52:43.078205"
+    },
+    "https://news.futunn.com/hk/post/69779284": {
+      "headline": "海外行業週報：AI應用向Agent進化，Robotaxi市場化進程提速",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:43.788056",
+      "last_seen": "2026-03-09T12:52:43.788077"
+    },
+    "https://news.futunn.com/hk/post/69778958/hong-kong-stock-market-midday-review-hang-seng-index-fell": {
+      "headline": "港股午評|恒生指數早盤跌2.55% 油服工程、煤炭開採逆市走高",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:45.872034",
+      "last_seen": "2026-03-09T12:52:45.872049"
+    },
+    "https://news.futunn.com/hk/post/69779154": {
+      "headline": "對話MiniMax副總裁：AI爲什麼能成爲吸引外資的「金名片」？",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:46.747324",
+      "last_seen": "2026-03-09T12:52:46.747342"
+    },
+    "https://news.futunn.com/hk/post/69779004/ubs-group-china-s-tech-giants-are-focusing-their-ai": {
+      "headline": "瑞銀：內地科網巨擘AI戰略聚焦本土市場 新興AI企業著力境外業務",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:48.941803",
+      "last_seen": "2026-03-09T12:52:48.941821"
+    },
+    "https://news.futunn.com/hk/post/69777110/minimax-s-growth-momentum-expands-as-the-shrimp-farming-craze": {
+      "headline": "MiniMax漲幅擴大，「養蝦熱」點燃國產模型需求，公司商業化進入加速通道",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:50.277701",
+      "last_seen": "2026-03-09T12:52:50.277720"
+    },
+    "https://news.futunn.com/hk/post/69769912": {
+      "headline": "AWE2026參展結構劇變：科技企業主導黃金位，創新方向高度趨近CES",
+      "was_relevant": false,
+      "first_seen": "2026-03-09T12:52:51.547415",
+      "last_seen": "2026-03-09T12:52:51.547433"
+    },
+    "https://news.futunn.com/hk/post/69832162/minimax-s-stock-price-surged-to-a-new-high-after": {
+      "headline": "MINIMAX股價大漲再破頂 推出「龍蝦」新技能 MiniMax M2.5霸榜OpenRouter",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:45:48.664297",
+      "last_seen": "2026-03-10T10:45:48.664312"
+    },
+    "https://news.futunn.com/hk/post/69835061": {
+      "headline": "國信證券：給予MINIMAX優於大市評級",
+      "was_relevant": true,
+      "first_seen": "2026-03-10T10:45:51.369636",
+      "last_seen": "2026-03-10T10:45:51.369657"
+    },
+    "https://news.futunn.com/hk/post/69832755/zhipu-02513-hk-launches-the-first-one-click-installation-of": {
+      "headline": "智譜(02513.HK)推內地首個一鍵安裝本地OpenClaw應用模型",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:45:52.373516",
+      "last_seen": "2026-03-10T10:45:52.373533"
+    },
+    "https://news.futunn.com/hk/post/69832743": {
+      "headline": "國內巨頭爭相入局「養龍蝦」 英偉達也要來「摻一腳」，寧波建工豪取3連板",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:45:53.108722",
+      "last_seen": "2026-03-10T10:45:53.108735"
+    },
+    "https://news.futunn.com/hk/post/69829659/ai-circle-selling-anxiety-has-been-too-extreme": {
+      "headline": "AI圈販賣焦慮已經過於離譜了",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:45:54.616584",
+      "last_seen": "2026-03-10T10:45:54.616600"
+    },
+    "https://news.futunn.com/hk/post/69828561/codebuddy-a-subsidiary-of-tencent-00700-hk-experienced-service-instability": {
+      "headline": "騰訊(00700.HK)旗下CodeBuddy因流量激增而服務不穩定 現已修復完成",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:45:55.528338",
+      "last_seen": "2026-03-10T10:45:55.528354"
+    },
+    "https://news.futunn.com/hk/post/69833520": {
+      "headline": "【蓋世快訊】最高法明確醉酒後啓用輔助駕駛要承擔刑責；啓境首款智能獵裝車定名GT7",
+      "was_relevant": false,
+      "first_seen": "2026-03-10T10:45:56.289384",
+      "last_seen": "2026-03-10T10:45:56.289406"
+    }
+  }
+}

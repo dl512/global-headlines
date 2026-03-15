@@ -1,0 +1,32 @@
+## Tech News
+
+- **President Donald Trump Raises Tariffs on South Korea**: US President Donald Trump increased tariffs on South Korean chips, autos, and pharmaceuticals to 25%, citing trade agreement disputes and causing Hyundai shares to fall.
+- **Nvidia Invests $2 Billion in CoreWeave, Set to Surpass Apple as TSMC’s Top Customer**: Nvidia’s $2 billion investment in AI infrastructure company CoreWeave boosts its AI dominance, with Nvidia projected to become TSMC’s largest customer in 2026.
+- **Microsoft Unveils Maia 200 AI Chip and Expands Data Centers**: Microsoft launched its Maia 200 AI chip and received approval to build 15 new data centers in Wisconsin, strengthening its cloud and AI infrastructure.
+- **TikTok Faces Surge in App Deletions After US Joint Venture Announcement**: TikTok user uninstalls rose 150% amid privacy concerns following the company’s US joint venture and new data policy.
+- **Meta to Test Premium Subscriptions for Instagram, Facebook, and WhatsApp**: Meta will roll out premium subscription plans offering exclusive AI features and tools across its major platforms.
+- **AI Chip Startup Ricursive Hits $4 Billion Valuation Two Months After Launch**: Ricursive, founded by ex-Google researchers, raised $300 million and aims to accelerate AI chip development.
+- **Google Pays $68 Million to Settle Voice Assistant Privacy Lawsuit**: Google agreed to a $68 million settlement over claims its voice assistant illegally recorded users for advertising purposes.
+- **Anthropic Launches Interactive Claude Apps for Workplace Tools**: Anthropic introduced new Claude chatbot integrations for Slack, Canva, and other productivity platforms, targeting enterprise users.
+- **Chinese AI Coding Model Gains US Popularity**: Chinese startup Zhipu’s GLM 4.7 coding model is gaining traction in the US, rivaling American AI agents.
+- **DeepWay Raises 11.77 Billion Yuan in Pre-IPO Funding for Smart Trucks**: Chinese autonomous vehicle startup DeepWay secured major pre-IPO funding to accelerate electric and intelligent heavy truck development.
+- **Quantum Computing Firm TuringQ Completes Multi-Billion Yuan Series B Funding**: Shanghai-based TuringQ raised billions to advance practical quantum computers and expand industry applications.
+- **Xin Jing Zhi Yuan Secures Over 200 Million Yuan for Tumor Immunotherapy**: The biotech firm completed Series B financing to develop innovative TCR-T cell therapies for solid tumors.
+- **Jitai Smart Raises 75 Million Yuan, Plans IPO by 2029**: Robotics company Jitai Smart, specializing in high-risk climbing robots, completed a funding round and eyes a future IPO.
+- **US Treasury Cancels Booz Allen Contracts After Trump Tax Leak**: The US Treasury terminated all contracts with Booz Allen Hamilton after an employee leaked President Donald Trump’s tax records, causing a stock drop.
+- **ICE Deportation Tech and Controversy Over Alex Pretti Killing**: ICE’s use of advanced surveillance tech for deportations and the fatal shooting of ICU nurse Alex Pretti in Minneapolis sparked industry and political backlash.
+- **Tech CEOs Largely Silent on Pretti Killing, Workers Demand Action Against ICE**: Most top tech CEOs have not commented on the Pretti incident, while hundreds of tech workers urge leadership to oppose ICE.
+- **Saudi Satirist Wins Damages Over Pegasus Spyware Hacking**: A London court awarded over $4 million to Saudi activist Ghanem Al-Masarir after finding Saudi government-linked Pegasus spyware was used against him.
+- **AI Startup CVector Raises $5 Million for Industrial Optimization**: CVector secured seed funding to develop AI-powered industrial ‘nervous system’ technology for manufacturing and utilities.
+- **Rad Power Bikes Sells for $13.2 Million After Bankruptcy**: Once valued at $1.65 billion, Rad Power Bikes agreed to be acquired by Life Electric Vehicles Holdings following financial struggles.
+- **Nvidia Increases Investments in European AI Startups**: Nvidia doubled its European AI startup investments in 2025, reinforcing its global AI leadership.
+- **Memory Chip Shortage to Last Through 2027**: Synopsys CEO warns the global memory chip crunch, driven by AI demand, will persist for at least two more years.
+- **Zoom’s Investment in Anthropic Now Worth Up to $4 Billion**: Zoom’s early investment in AI startup Anthropic could yield substantial returns amid Anthropic’s soaring valuation.
+- **Obvious Ventures Raises $360 Million for Impact-Focused Fund**: Obvious Ventures closed its fifth fund, targeting investments in climate, health, and AI-driven innovation.
+- **Social Media Alternatives Surge as TikTok Faces US Uncertainty**: Apps like UpScrolled and Skylight see rapid user growth as TikTok’s US future remains uncertain.
+- **YouTubers Sue Snap Over Alleged AI Copyright Infringement**: Popular YouTubers filed a class-action lawsuit against Snap, alleging unauthorized use of their videos to train AI models.
+- **AI Startup SpotDraft Raises $8 Million to Scale On-Device Contract AI**: SpotDraft, backed by Qualcomm, is expanding its privacy-focused contract AI technology globally.
+- **NASA Mars Rock Discovery Suggests Ancient Life**: NASA announced a Mars rock sample shows the strongest evidence yet of ancient life on the planet.
+- **Black Hole Collision Confirms Einstein and Hawking Predictions**: Scientists observed a black hole collision that validates decades-old gravitational wave theories.
+- **Rare ‘Tooth-in-Eye’ Surgery Restores Man’s Vision**: A man regained sight after a rare procedure transplanting a tooth into his eye.
+- **Edenlux to Launch Eye Wellness Device in US**: South Korea’s Edenlux will debut its Eyeary device in the US to address screen-induced eye strain.

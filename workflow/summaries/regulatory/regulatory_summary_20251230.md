@@ -1,0 +1,9 @@
+## Regulatory Announcements
+
+- **Leapmotor's Shareholding Shake-Up**: Zhejiang Leapmotor Technology Co., Ltd. has announced changes in the shareholding of its largest shareholder group, following the release of shares from an employee incentive plan. The largest shareholder group now holds 23.45% of total issued shares, while a voluntary lock-up commitment remains intact. (Source: [Leapmotor Announcement](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1229/2025122902099.pdf))
+
+- **Dobot Plans IPO on Shenzhen Stock Exchange**: Shenzhen Dobot Corp Ltd is set to pursue an initial public offering (IPO) of RMB ordinary shares on the Shenzhen Stock Exchange. The IPO aims to bolster business development and competitiveness, although it remains subject to regulatory approvals. (Source: [Dobot Announcement](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1229/2025122902041.pdf))
+
+- **UBTECH's Lock-Up Commitment by CEO**: UBTECH Robotics Corp Ltd's Chairman and CEO, Mr. Zhou Jian, has committed to a 12-month lock-up of his 70,574,350 H shares, effective December 29, 2025. The company assures that this will not adversely affect operations. (Source: [UBTECH Announcement](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1229/2025122901709.pdf))
+
+- **SenseTime Completes Major Share Placement**: SenseTime Group Inc. has successfully placed 1.75 billion new Class B Shares at HK$1.80 each, raising approximately HK$3.146 billion. The funds will support core business development, R&D in Generative AI, and general working capital, maintaining a public float above 25%. (Source: [SenseTime Announcement](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1229/2025122901353.pdf))
