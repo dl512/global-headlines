@@ -665,26 +665,32 @@ async def main(user_id: str = None):
         recipients = newsletter_config.get("recipients", {})
         en_recipients = recipients.get("en", [])
         cn_recipients = recipients.get("cn", [])
-        
-        # Send English version
-        if "EN" in newsletters and en_recipients:
-            for recipient in en_recipients:
-                print(f"  Sending to {recipient} (EN)...")
-                success = await send_newsletter(newsletter_config, {"EN": newsletters["EN"]}, recipient=recipient)
-                if success:
-                    print(f"    ✓ Sent to {recipient}")
-                else:
-                    print(f"    ✗ Failed to send to {recipient}")
-        
-        # Send Chinese version
-        if "CN" in newsletters and cn_recipients:
-            for recipient in cn_recipients:
-                print(f"  Sending to {recipient} (CN)...")
-                success = await send_newsletter(newsletter_config, {"CN": newsletters["CN"]}, recipient=recipient)
-                if success:
-                    print(f"    ✓ Sent to {recipient}")
-                else:
-                    print(f"    ✗ Failed to send to {recipient}")
+        email_config = newsletter_config.get("email", {})
+
+        # Primary 'To' address: use from_email so everything else is BCC
+        primary_recipient = email_config.get("from_email") or (en_recipients[0] if en_recipients else None)
+
+        # Send English version: To = primary, BCC = all EN recipients
+        if "EN" in newsletters and en_recipients and primary_recipient:
+            print(f"  Sending EN to {primary_recipient} with BCC: {', '.join(en_recipients)}")
+            cfg_en = dict(newsletter_config)
+            cfg_en["recipients"] = {"en": en_recipients}
+            success = await send_newsletter(cfg_en, {"EN": newsletters["EN"]}, recipient=primary_recipient, language="EN")
+            if success:
+                print(f"    ✓ EN sent (primary: {primary_recipient})")
+            else:
+                print(f"    ✗ Failed to send EN (primary: {primary_recipient})")
+
+        # Send Chinese version: To = primary, BCC = all CN recipients
+        if "CN" in newsletters and cn_recipients and primary_recipient:
+            print(f"  Sending CN to {primary_recipient} with BCC: {', '.join(cn_recipients)}")
+            cfg_cn = dict(newsletter_config)
+            cfg_cn["recipients"] = {"cn": cn_recipients}
+            success = await send_newsletter(cfg_cn, {"CN": newsletters["CN"]}, recipient=primary_recipient, language="CN")
+            if success:
+                print(f"    ✓ CN sent (primary: {primary_recipient})")
+            else:
+                print(f"    ✗ Failed to send CN (primary: {primary_recipient})")
     
     print("\n" + "=" * 80)
     print("PIPELINE COMPLETE")
