@@ -581,10 +581,15 @@ async def send_newsletter(newsletter_config: Dict, newsletters: Dict[str, str], 
     # Remove primary recipient from BCC list
     bcc_recipients = [r for r in all_recipients if r != recipient]
     
+    # Replace {date} in subject with today's date
+    today = datetime.now()
+    date_str = today.strftime("%Y-%m-%d")
+    subject = (email_config.get("subject") or "").replace("{date}", date_str)
+    
     # Send email
     success = send_email(
         to_email=recipient,
-        subject=email_config["subject"],
+        subject=subject,
         html_content=html_content,
         from_email=email_config.get("from_email"),
         from_name=email_config.get("from_name"),
