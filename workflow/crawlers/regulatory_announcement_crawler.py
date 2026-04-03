@@ -15,7 +15,7 @@ from typing import List, Dict, Any, Optional
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common.csv_storage import save_regulatory_news_item_to_csv
 from crawlers.hkex_listedco import fetch_hkex_announcements
 
@@ -44,6 +44,7 @@ STOCK_CODES = [
     "09880",  # Ubtech
     "02026",  # Pony
     "00800",  # WeRide
+    "01021",  # Huayan Robotics
     "00100",  # Minimax
     "02513",  # Zhipu
     "01347",  # Hua Hong
@@ -81,8 +82,9 @@ Given the title of the announcement: {title}, please output only 'relevant' or '
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
         )
@@ -175,8 +177,9 @@ Avoid legal jargon. Be concise and clear.
         
         # Generate summary using LLM
         print(f"    Generating summary with LLM...")
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=800,

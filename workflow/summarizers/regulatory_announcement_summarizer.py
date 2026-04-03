@@ -13,7 +13,7 @@ from typing import Optional
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common.csv_storage import read_news_items_from_csv
 
 
@@ -152,8 +152,9 @@ FINAL CHECKLIST BEFORE OUTPUTTING:
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1",
+        response = await chat_completion_with_fallback(
+            client,
+            "main",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=1000,

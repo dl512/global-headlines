@@ -177,7 +177,7 @@ async def summarize_futu_stock_news(
     # Note: consolidate_and_summarize_from_csv expects (client, news_type, section_title)
     # But we have news_items list, so we need to create a custom summary
     import json
-    from common.openai_utils import initialize_openai_client
+    from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
     
     client = initialize_openai_client()
     
@@ -241,8 +241,9 @@ FINAL CHECKLIST BEFORE OUTPUTTING:
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1",
+        response = await chat_completion_with_fallback(
+            client,
+            "main",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=2000,

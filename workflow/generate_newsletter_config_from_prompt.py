@@ -13,7 +13,7 @@ from typing import Dict, Any
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 
 
 def load_component_config() -> Dict:
@@ -118,8 +118,9 @@ Generate the newsletter configuration JSON:"""
     
     try:
         # Client is AsyncOpenAI, so await the call
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt_full}

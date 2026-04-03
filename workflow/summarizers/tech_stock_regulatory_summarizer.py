@@ -15,7 +15,7 @@ from typing import Optional, List
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common.csv_storage import read_news_items_from_csv
 
 
@@ -134,7 +134,7 @@ async def summarize_tech_stock_regulatory_announcements(
                     "09988", "00700", "09888", "09618", "09999", "01024",
                     "03690", "01810", "01211", "09866", "09868", "02015",
                     "09863", "00020", "09660", "02525", "02665", "02498",
-                    "02590", "02432", "09880", "02026", "00800", "00100", "02513"
+                    "02590", "02432", "09880", "02026", "00800", "01021", "00100", "02513"
                 ]
             df_filtered = filter_by_stock_codes(df_filtered, stock_codes)
             print(f"Found {len(df_filtered)} announcements matching stock codes")
@@ -165,6 +165,7 @@ async def summarize_tech_stock_regulatory_announcements(
                 "09880",  # Ubtech
                 "02026",  # Pony
                 "00800",  # WeRide
+                "01021",  # Huayan Robotics
                 "00100",  # Minimax
                 "02513",  # Zhipu
                 # Excluded: "01347" (Hua Hong), "00981" (SMIC), "06082" (Biren)
@@ -252,8 +253,9 @@ FINAL CHECKLIST BEFORE OUTPUTTING:
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1",
+        response = await chat_completion_with_fallback(
+            client,
+            "main",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=1000,

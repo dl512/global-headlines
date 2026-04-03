@@ -10,7 +10,7 @@ from typing import Optional
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 
 
 async def is_news_about_company(client, headline: str, url: str, html_content: str, company: str, stock_code: Optional[str] = None) -> bool:
@@ -158,8 +158,9 @@ Return ONLY "YES" if the article is primarily about {company}'s business activit
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.1,
         )

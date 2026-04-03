@@ -12,7 +12,7 @@ import gspread
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 
 
 def initialize_google_sheet_sheet4():
@@ -219,8 +219,9 @@ FINAL CHECKLIST BEFORE OUTPUTTING:
 """
     
     print("Generating consolidated summary...")
-    response = await client.chat.completions.create(
-        model="openai/gpt-4.1",
+    response = await chat_completion_with_fallback(
+        client,
+        "main",
         messages=[
             {"role": "user", "content": summary_prompt}
         ],

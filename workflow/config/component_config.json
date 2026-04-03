@@ -456,6 +456,11 @@
                 "is_index": false
               },
               {
+                "name": "Huayan Robotics",
+                "ticker": "1021.HK",
+                "is_index": false
+              },
+              {
                 "name": "Minimax",
                 "ticker": "0100.HK",
                 "is_index": false
@@ -544,6 +549,7 @@
               "09880",
               "02026",
               "00800",
+              "01021",
               "00100",
               "02513",
               "01347",
@@ -653,6 +659,7 @@
               "09880",
               "02026",
               "00800",
+              "01021",
               "00100",
               "02513"
             ],
@@ -1018,6 +1025,15 @@
               {
                 "company": "WeRide",
                 "stock_code": "00800",
+                "methods": [
+                  "regulatory",
+                  "futu",
+                  "google_news"
+                ]
+              },
+              {
+                "company": "Huayan Robotics",
+                "stock_code": "01021",
                 "methods": [
                   "regulatory",
                   "futu",
@@ -1395,7 +1411,7 @@
     },
     "semi_ai_corporate_news": {
       "name": "Semi/AI Corporate News",
-      "description": "Corporate news filtered for Semiconductor / AI newsletter - includes only specific companies (TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic)",
+      "description": "Corporate news filtered for Semiconductor / AI newsletter - includes only specific companies (TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic, Huayan Robotics)",
       "crawler": {
         "type": "corporate_news",
         "function": "crawl_corporate_news_from_config",

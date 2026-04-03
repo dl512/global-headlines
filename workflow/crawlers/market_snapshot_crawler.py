@@ -44,6 +44,7 @@ ASSETS = [
     {"name": "Ubtech", "ticker": "9880.HK", "is_index": False},
     {"name": "Pony", "ticker": "2026.HK", "is_index": False},
     {"name": "WeRide", "ticker": "0800.HK", "is_index": False},
+    {"name": "Huayan Robotics", "ticker": "1021.HK", "is_index": False},
     {"name": "Minimax", "ticker": "0100.HK", "is_index": False},
     {"name": "Zhipu", "ticker": "2513.HK", "is_index": False},
 ]

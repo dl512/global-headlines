@@ -42,6 +42,7 @@ STOCK_CODE_TO_COMPANY = {
     "09880": "Ubtech",
     "02026": "Pony",
     "00800": "WeRide",
+    "01021": "Huayan Robotics",
     "00100": "Minimax",
     "02513": "Zhipu",
     "01347": "Hua Hong",

@@ -8,21 +8,9 @@ from typing import Optional
 from dotenv import load_dotenv
 from openai import AsyncOpenAI
 
+from .openai_utils import chat_completion_with_fallback, initialize_openai_client
+
 load_dotenv(override=True)
-
-
-def initialize_openai_client() -> AsyncOpenAI:
-    """Initialize and return OpenAI client"""
-    openai_api_key = os.getenv('OPENAI_API_KEY')
-    openai_base_url = os.getenv('BASE_URL')
-    
-    if not openai_api_key:
-        raise ValueError("OPENAI_API_KEY not found in environment variables")
-    
-    return AsyncOpenAI(
-        base_url=openai_base_url,
-        api_key=openai_api_key,
-    )
 
 async def translate_to_chinese(text: str, client: Optional[AsyncOpenAI] = None) -> str:
     """Translate English text to Traditional Chinese (繁體中文)
@@ -48,8 +36,9 @@ English content:
 Translated Traditional Chinese content:"""
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=8000,

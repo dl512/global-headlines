@@ -16,7 +16,7 @@ from urllib.parse import urljoin, urlparse
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from common.google_sheets import get_sources_list, get_news_worksheet, find_first_empty_row, batch_save_news_items
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common import extract_html
 from common.csv_storage import batch_save_global_news_to_csv
 
@@ -70,8 +70,9 @@ IMPORTANT: The output must be 100% in English. If you cannot find or translate a
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=200,
@@ -110,8 +111,9 @@ Do not output any html tags e.g., '<a href=', '</a>'
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=500,
@@ -187,8 +189,9 @@ If you cannot determine the content from the headline alone, write: "Summary not
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=300,

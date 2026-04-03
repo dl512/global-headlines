@@ -18,7 +18,7 @@ from urllib.parse import urljoin, urlparse
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common.csv_storage import batch_save_news_items_to_csv
 from common import extract_html
 from common.link_cache import is_link_seen, save_seen_link
@@ -480,8 +480,9 @@ Do not include any explanations, markdown, or extra text.
 If there are fewer than 20 prominent headlines, return all of them.
 """
     
-    response = await client.chat.completions.create(
-        model="openai/gpt-4.1-nano",
+    response = await chat_completion_with_fallback(
+        client,
+        "light",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
         max_tokens=2500,
@@ -588,8 +589,9 @@ If no matching article URL is found, return "NO_LINK_FOUND".
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=500,
@@ -1075,8 +1077,9 @@ Look for publication date information in the article. This could be:
         return True
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.1,
         )
@@ -1196,8 +1199,9 @@ If you cannot find a date, return "NOT_FOUND".
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.1,
         )
@@ -1309,8 +1313,9 @@ CRITICAL: Do NOT invent any numbers, facts, or details that are not explicitly s
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1-nano",
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
             max_tokens=300,

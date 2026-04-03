@@ -15,7 +15,7 @@ import pandas as pd
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client
+from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
 from common.csv_storage import read_news_items_from_csv
 
 
@@ -40,7 +40,7 @@ async def summarize_semi_ai_corporate_news(
     section_title: Optional[str] = None
 ) -> str:
     """Summarize corporate news from CSV for Semi/AI newsletter
-    Filters by specific company list: TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic
+    Filters by specific company list: TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic, Huayan Robotics
     
     Args:
         date: Optional date to filter news (defaults to today)
@@ -79,7 +79,9 @@ async def summarize_semi_ai_corporate_news(
         "Cambricon",
         "Moore Threads",
         "Biren",
-        "Anthropic"
+        "Anthropic",
+        "Huayan Robotics",
+        "Huayan",
     ]
     
     date_formats = get_today_dates(date)
@@ -197,8 +199,9 @@ FINAL CHECKLIST BEFORE OUTPUTTING:
 """
     
     try:
-        response = await client.chat.completions.create(
-            model="openai/gpt-4.1",
+        response = await chat_completion_with_fallback(
+            client,
+            "main",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=12000,
