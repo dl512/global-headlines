@@ -18,10 +18,85 @@ from urllib.parse import urljoin, urlparse
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
+from common.openai_utils import (
+    initialize_openai_client,
+    chat_completion_with_fallback,
+    extract_json_text_from_llm_response,
+)
 from common.csv_storage import batch_save_news_items_to_csv
 from common import extract_html
 from common.link_cache import is_link_seen, save_seen_link
+
+
+def heuristic_match_headline_to_link(headline: str, links_on_page: str, website: str) -> Optional[str]:
+    """
+    Match headline to a markdown [text](url) on the page by title overlap / keywords.
+    Used when LLM providers reject the prompt (e.g. content policy) or return NO_LINK_FOUND.
+    """
+    if not headline or not links_on_page:
+        return None
+    is_futu = "futunn.com" in website or "futu" in website.lower()
+    headline_lower = headline.strip().lower()
+    headline_words = [w for w in re.findall(r"[a-z0-9]+", headline_lower) if len(w) > 3][:12]
+
+    candidate_links: List[Dict[str, Any]] = []
+    for match in re.finditer(r"\[([^\]]+)\]\(([^\)]+)\)", links_on_page):
+        link_text = match.group(1)
+        link_url = match.group(2)
+        link_text_lower = link_text.lower()
+        link_url_lower = link_url.lower()
+
+        lt_norm = re.sub(r"\s+", " ", link_text_lower.strip())
+        hl_norm = re.sub(r"\s+", " ", headline_lower)
+        title_bonus = 0
+        if hl_norm == lt_norm:
+            title_bonus = 200
+        elif len(hl_norm) >= 24 and hl_norm in lt_norm:
+            title_bonus = 150
+        elif len(lt_norm) >= 24 and lt_norm in hl_norm:
+            title_bonus = 150
+
+        matches = sum(1 for word in headline_words if word in link_text_lower or word in link_url_lower)
+        if title_bonus == 0 and matches == 0:
+            continue
+
+        priority = title_bonus
+        if is_futu and ("/en/post/" in link_url or "/post/" in link_url):
+            priority += 100
+        elif is_futu and ("/en/main" in link_url or "/main/" in link_url):
+            priority -= 10
+
+        candidate_links.append(
+            {
+                "url": link_url,
+                "text": link_text,
+                "matches": matches + (title_bonus // 50),
+                "priority": priority,
+            }
+        )
+
+    candidate_links.sort(key=lambda x: (x["priority"], x["matches"]), reverse=True)
+    if not candidate_links:
+        return None
+
+    best_match = candidate_links[0]
+    print(
+        f"    DEBUG: Heuristic best: {best_match['url'][:80]}... "
+        f"(matches≈{best_match['matches']}, priority={best_match['priority']})"
+    )
+
+    if is_futu:
+        if urlparse(best_match["url"]).path in ["/en/main", "/en/main/", "/main", "/main/"]:
+            return None
+        if "/en/post/" in best_match["url"] or "/post/" in best_match["url"]:
+            return best_match["url"]
+        if any(p in best_match["url"] for p in ["/menu/", "/select/", "/watchlist/"]):
+            return None
+        return best_match["url"]
+
+    if any(p in best_match["url"] for p in ["/main/", "/markets/"]):
+        return None
+    return best_match["url"]
 
 
 # Pydantic models
@@ -489,9 +564,10 @@ If there are fewer than 20 prominent headlines, return all of them.
     )
     
     raw_content = response.choices[0].message.content.strip()
-    
+    json_text = extract_json_text_from_llm_response(raw_content)
+
     try:
-        data = json.loads(raw_content)
+        data = json.loads(json_text)
         top_headlines = Headlines(**data)
         
         print(f"Extracted {len(top_headlines.headlines)} headlines from {website}")
@@ -499,11 +575,11 @@ If there are fewer than 20 prominent headlines, return all of them.
         
     except json.JSONDecodeError as e:
         print(f"ERROR: LLM did not return valid JSON for {website}: {e}")
-        print(f"Raw output: {raw_content[:200]}...")
+        print(f"Raw output (after fence strip): {json_text[:200]}...")
         return []
     except ValidationError as e:
         print(f"ERROR: Validation error for {website}: {e}")
-        print(f"Raw output: {raw_content[:200]}...")
+        print(f"Raw output: {json_text[:200]}...")
         return []
 
 
@@ -658,74 +734,20 @@ If no matching article URL is found, return "NO_LINK_FOUND".
                         url = best_slug_match
 
         if url == "NO_LINK_FOUND":
-            print(f"    DEBUG: LLM explicitly returned NO_LINK_FOUND")
-            # Try a fallback: search for headline keywords in links (prioritize article URLs)
-            headline_words = [w.lower() for w in headline.split() if len(w) > 3][:5]
-            print(f"    DEBUG: Attempting fallback search for keywords: {headline_words}")
-            
-            # Parse all links
-            candidate_links = []
-            for match in re.finditer(r'\[([^\]]+)\]\(([^\)]+)\)', links_on_page):
-                link_text = match.group(1)
-                link_url = match.group(2)
-                link_text_lower = link_text.lower()
-                link_url_lower = link_url.lower()
-                
-                # Count keyword matches
-                matches = sum(1 for word in headline_words if word in link_text_lower or word in link_url_lower)
-                if matches > 0:
-                    # Prioritize article URLs for Futu News
-                    priority = 0
-                    if is_futu and ('/en/post/' in link_url or '/post/' in link_url):
-                        priority = 100  # High priority for article URLs
-                    elif is_futu and ('/en/main' in link_url or '/main/' in link_url):
-                        priority = -10  # Low priority for section pages
-                    
-                    candidate_links.append({
-                        'url': link_url,
-                        'text': link_text,
-                        'matches': matches,
-                        'priority': priority
-                    })
-            
-            # Sort by priority (higher first) then by match count
-            candidate_links.sort(key=lambda x: (x['priority'], x['matches']), reverse=True)
-            
-            if candidate_links:
-                best_match = candidate_links[0]
-                print(f"    DEBUG: Fallback found {len(candidate_links)} candidate links")
-                print(f"    DEBUG: Best match: {best_match['url'][:80]}... (matches: {best_match['matches']}, priority: {best_match['priority']})")
-                # Validate it's not a section page (unless it's an article URL)
-                url_path = urlparse(best_match['url']).path
-                if is_futu:
-                    # For Futu, accept /en/post/ URLs and reject base pages
-                    if url_path in ['/en/main', '/en/main/', '/main', '/main/']:
-                        print(f"    DEBUG: Rejected - base page URL")
-                        return None
-                    # Accept article URLs
-                    if '/en/post/' in best_match['url'] or '/post/' in best_match['url']:
-                        return best_match['url']
-                    # Reject obvious section pages
-                    if any(pattern in best_match['url'] for pattern in ['/menu/', '/select/', '/watchlist/']):
-                        return None
-                else:
-                    # For other sites, reject section pages
-                    # Be conservative here: reject obvious non-article section pages,
-                    # but do NOT reject generic '/business/' paths outright, since
-                    # many sites (e.g. Nikkei) use them for article URLs.
-                    if any(pattern in best_match['url'] for pattern in ['/main/', '/markets/']):
-                        return None
-                
-                return best_match['url']
-            return None
-        
+            print(f"    DEBUG: LLM explicitly returned NO_LINK_FOUND; trying heuristic link match")
+            return heuristic_match_headline_to_link(headline, links_on_page, website)
+
         if not url.startswith("http"):
             print(f"    DEBUG: URL doesn't start with http: {url}")
             return None
         
         return url
     except Exception as e:
-        print(f"    WARNING: Error matching link: {e}")
+        print(f"    WARNING: Error matching link (LLM): {e}")
+        fb = heuristic_match_headline_to_link(headline, links_on_page, website)
+        if fb:
+            print(f"    DEBUG: Using heuristic link match after LLM failure")
+            return fb
         import traceback
         traceback.print_exc()
         return None

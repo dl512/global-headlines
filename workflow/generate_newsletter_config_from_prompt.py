@@ -13,7 +13,11 @@ from typing import Dict, Any
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from common.openai_utils import initialize_openai_client, chat_completion_with_fallback
+from common.openai_utils import (
+    initialize_openai_client,
+    chat_completion_with_fallback,
+    extract_json_text_from_llm_response,
+)
 
 
 def load_component_config() -> Dict:
@@ -128,18 +132,10 @@ Generate the newsletter configuration JSON:"""
             temperature=0.1
         )
         
-        response_text = response.choices[0].message.content.strip()
-        
-        # Extract JSON from response (handle markdown code blocks)
-        if "```json" in response_text:
-            json_start = response_text.find("```json") + 7
-            json_end = response_text.find("```", json_start)
-            response_text = response_text[json_start:json_end].strip()
-        elif "```" in response_text:
-            json_start = response_text.find("```") + 3
-            json_end = response_text.find("```", json_start)
-            response_text = response_text[json_start:json_end].strip()
-        
+        response_text = extract_json_text_from_llm_response(
+            response.choices[0].message.content.strip()
+        )
+
         # Parse JSON
         newsletter_config = json.loads(response_text)
         
