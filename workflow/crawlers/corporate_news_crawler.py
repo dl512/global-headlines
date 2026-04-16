@@ -20,7 +20,10 @@ from crawlers.google_news_crawler_helper import crawl_google_news_for_company
 from common.openai_utils import initialize_openai_client
 
 
-async def crawl_corporate_news(company_configs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+async def crawl_corporate_news(
+    company_configs: List[Dict[str, Any]],
+    google_news_simple_csv: Optional[str] = None,
+) -> List[Dict[str, Any]]:
     """Master corporate news crawler that orchestrates crawling from multiple sources
     
     Args:
@@ -29,7 +32,8 @@ async def crawl_corporate_news(company_configs: List[Dict[str, Any]]) -> List[Di
             - stock_code: Optional 5-digit stock code for HK-listed stocks (e.g., "09988")
             - methods: List of methods to use ["regulatory", "futu", "press_release"]
             - websites: Optional list of websites for press_release method
-    
+        google_news_simple_csv: If set, Google News hits are saved to this news_type CSV (4 columns) instead of corporate_news.
+
     Returns:
         List of all news items found
     """
@@ -47,6 +51,7 @@ async def crawl_corporate_news(company_configs: List[Dict[str, Any]]) -> List[Di
         stock_code = company_config.get("stock_code", None)
         methods = company_config.get("methods", [])
         websites = company_config.get("websites", [])
+        google_query = company_config.get("google_query", None)
         market = company_config.get("market", "HK")  # Default to HK, can be "SH" for A-shares
         
         if not company:
@@ -86,7 +91,13 @@ async def crawl_corporate_news(company_configs: List[Dict[str, Any]]) -> List[Di
                 
                 elif method == "google_news":
                     # Google News doesn't require any additional parameters
-                    items = await crawl_google_news_for_company(company, stock_code=stock_code, client=client)
+                    items = await crawl_google_news_for_company(
+                        company,
+                        stock_code=stock_code,
+                        client=client,
+                        search_query=google_query,
+                        simple_csv_news_type=google_news_simple_csv,
+                    )
                     all_news_items.extend(items)
                 
                 else:

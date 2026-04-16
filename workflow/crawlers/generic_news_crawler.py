@@ -23,7 +23,7 @@ from common.openai_utils import (
     chat_completion_with_fallback,
     extract_json_text_from_llm_response,
 )
-from common.csv_storage import batch_save_news_items_to_csv
+from common.csv_storage import batch_save_news_items_to_csv, get_csv_path
 from common import extract_html
 from common.link_cache import is_link_seen, save_seen_link
 
@@ -512,6 +512,34 @@ TARGET AUDIENCE: Investment professionals who need actionable intelligence on:
 - Market opportunities and risks
 
 Extract the top 20 most investment-relevant headlines.
+
+Return ONLY a JSON object that matches this exact schema:
+
+{{
+  "headlines": [
+    "headline 1",
+    "headline 2",
+    ...
+  ]
+}}
+
+Do not include any explanations, markdown, or extra text.
+"""
+    elif news_type == "ar_ai_glasses_news":
+        prompt = f"""
+You are a news analyst extracting headlines about augmented reality (AR) and AI glasses / smart glasses only from {website}.
+
+Here is the full HTML of {website}:
+
+```{html_string_input}```
+
+CRITICAL SCOPE — AR / AI GLASSES ONLY:
+- INCLUDE: AR glasses, smart glasses, optical see-through wearables, waveguides, microLED / micro-OLED near-eye displays,
+  on-device AI for glasses, spatial computing when clearly tied to glasses (e.g. Vision, Ray-Ban Meta, Android XR on headsets/glasses).
+- EXCLUDE: PC VR, console VR, VR game reviews, VR esports, general TV/streaming, non-wearable gaming, generic smartphone news
+  unless the story is clearly about AR glasses or smart glasses.
+
+Extract up to 20 headlines that best match AR / smart glasses / AI glasses hardware, platforms, or ecosystem. If fewer than 20 qualify, return only the qualifying ones.
 
 Return ONLY a JSON object that matches this exact schema:
 
@@ -1303,7 +1331,13 @@ INVESTMENT-FOCUSED SUMMARY REQUIREMENTS FOR HONG KONG NEWS:
 - Focus on cross-border implications (Mainland China-HK)
 - Mention social and political developments affecting investment climate
 """
-    
+    elif news_type == "ar_ai_glasses_news":
+        topic_instructions = """
+SUMMARY REQUIREMENTS — AR / AI GLASSES ONLY:
+- Focus on product, platform, optics, supply chain, partnerships, and regulation affecting AR glasses or smart glasses.
+- If the article is primarily about VR games, PC VR, or unrelated entertainment, state that briefly and note it is out of scope (still summarize the AR-relevant angle if any).
+"""
+
     prompt = f"""
 Given this news article:
 
@@ -1625,11 +1659,15 @@ async def process_news_site(client, website, date_filter_mode, special_handling=
     )
 
 
-async def crawl_news_from_config(config_key: str) -> List[Dict[str, Any]]:
+async def crawl_news_from_config(
+    config_key: str,
+    websites_override: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
     """Crawl news based on configuration key
     
     Args:
         config_key: Component key in component_config.json (e.g., "top_news", "tech_news", "financial_news")
+        websites_override: If set, replaces configured websites list (used by ar_ai_glasses_news, etc.)
     
     Returns:
         List of news items
@@ -1653,9 +1691,17 @@ async def crawl_news_from_config(config_key: str) -> List[Dict[str, Any]]:
     
     # Extract values (support both "value" and "default" keys)
     websites = inputs.get("websites", {}).get("value", inputs.get("websites", {}).get("default", []))
+    if websites_override is not None:
+        websites = websites_override
     date_filter_mode = inputs.get("date_filter_mode", {}).get("value", inputs.get("date_filter_mode", {}).get("default", "none"))
     global_special_handling = inputs.get("special_handling", {}).get("value", inputs.get("special_handling", {}).get("default", {}))
     news_type = config_key
+
+    # Dedicated AR newsletter CSV: start fresh each run so Google + site rows do not duplicate across days in one file
+    if config_key == "ar_ai_glasses_news":
+        ar_csv = get_csv_path("ar_ai_glasses_news")
+        if ar_csv.exists():
+            ar_csv.unlink()
     
     print(f"Starting {news_type} crawl...")
     print(f"Websites: {websites}")

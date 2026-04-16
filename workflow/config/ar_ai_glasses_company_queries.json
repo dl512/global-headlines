@@ -1,0 +1,97 @@
+[
+  {
+    "company": "Apple",
+    "methods": ["google_news"],
+    "google_query": "(Apple AND (\"Vision Pro\" OR Vision OR \"smart glasses\" OR \"AR glasses\" OR waveguide OR \"spatial computing\"))"
+  },
+  {
+    "company": "Meta",
+    "methods": ["google_news"],
+    "google_query": "(Meta AND (\"smart glasses\" OR \"Ray-Ban\" OR \"AR glasses\" OR \"display glasses\" OR Specs OR Orion))"
+  },
+  {
+    "company": "Google",
+    "methods": ["google_news"],
+    "google_query": "(Google AND (\"Android XR\" AND (\"smart glasses\" OR glasses OR AR)))"
+  },
+  {
+    "company": "Samsung",
+    "methods": ["google_news"],
+    "google_query": "(Samsung AND (\"Galaxy XR\" OR \"smart glasses\" OR \"AR glasses\"))"
+  },
+  {
+    "company": "Xiaomi",
+    "methods": ["google_news"],
+    "google_query": "((Xiaomi OR 小米) AND (AR OR \"smart glasses\" OR 智能眼镜))"
+  },
+  {
+    "company": "Huawei",
+    "methods": ["google_news"],
+    "google_query": "((Huawei OR 华为) AND (AR OR \"smart glasses\" OR 智能眼镜))"
+  },
+  {
+    "company": "Meizu",
+    "methods": ["google_news"],
+    "google_query": "((Meizu OR 魅族) AND (AR OR \"smart glasses\" OR 智能眼镜))"
+  },
+  {
+    "company": "OPPO",
+    "methods": ["google_news"],
+    "google_query": "(OPPO AND (AR OR \"smart glasses\" OR 智能眼镜))"
+  },
+  {
+    "company": "Alibaba",
+    "methods": ["google_news"],
+    "google_query": "((Alibaba OR 阿里巴巴) AND (AR OR \"smart glasses\" OR 智能眼镜))"
+  },
+  {
+    "company": "XREAL",
+    "methods": ["google_news"],
+    "google_query": "((XREAL OR Nreal) AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "RayNeo",
+    "methods": ["google_news"],
+    "google_query": "((RayNeo OR 雷鸟创新) AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Viture",
+    "methods": ["google_news"],
+    "google_query": "(Viture AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Rokid",
+    "methods": ["google_news"],
+    "google_query": "((Rokid OR 灵伴科技) AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Even Realities",
+    "methods": ["google_news"],
+    "google_query": "(\"Even Realities\" AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "INMO",
+    "methods": ["google_news"],
+    "google_query": "((INMO OR 影目科技) AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Solos AirGo",
+    "methods": ["google_news"],
+    "google_query": "((\"Solos AirGo\" OR Solos) AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Brilliant Labs",
+    "methods": ["google_news"],
+    "google_query": "(\"Brilliant Labs\" AND (glasses OR AR OR \"smart glasses\"))"
+  },
+  {
+    "company": "Qualcomm",
+    "methods": ["google_news"],
+    "google_query": "(Qualcomm AND (\"Snapdragon AR1\" OR waveguide OR glasses OR \"smart glasses\"))"
+  },
+  {
+    "company": "AR supply chain",
+    "methods": ["google_news"],
+    "google_query": "((Waveguide OR \"Micro-OLED\" OR microLED OR \"Snapdragon AR1\") AND (glasses OR headset OR \"near-eye\" OR AR))"
+  }
+]

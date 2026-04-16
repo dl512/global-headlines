@@ -363,6 +363,10 @@ def run_specific_component_crawler(component_key):
             print(f"Crawling {component_key} using futu_stock_news_crawler...")
             print("⚠ NOTE: futu_stock_news is now part of corporate_news. Consider using corporate_news instead.")
             asyncio.run(crawl_futu_stock_news_from_config())
+        elif crawler_type == 'ar_ai_glasses_news':
+            from crawlers.ar_ai_glasses_news_crawler import crawl_ar_ai_glasses_news
+            print(f"Crawling {component_key} using ar_ai_glasses_news_crawler...")
+            asyncio.run(crawl_ar_ai_glasses_news())
         else:
             print(f"❌ Unknown crawler type: {crawler_type}")
             return False
@@ -386,6 +390,7 @@ def check_crawler_data(required_components: set):
     Returns:
         Dict mapping component_key to (has_data: bool, data_count: int, details: str)
     """
+    import os
     import sys
     import json
     from pathlib import Path
@@ -541,11 +546,17 @@ def check_crawler_data(required_components: set):
 
 def run_crawlers():
     """Run all crawlers for required components"""
+    import os
     import asyncio
     import sys
     sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'workflow'))
     
-    from run_newsletter_pipeline import run_crawlers, load_newsletter_config, get_required_components, extract_component_customizations
+    from run_newsletter_pipeline import (
+        run_crawlers as pipeline_run_crawlers,
+        load_newsletter_config,
+        get_required_components,
+        extract_component_customizations,
+    )
     
     print()
     print("=" * 80)
@@ -567,7 +578,7 @@ def run_crawlers():
         print()
         
         # Run crawlers for required components
-        asyncio.run(run_crawlers(required_components, component_customizations))
+        asyncio.run(pipeline_run_crawlers(required_components, component_customizations))
         print()
         print("✅ Crawlers completed successfully!")
         
@@ -584,6 +595,7 @@ def run_crawlers():
 
 def run_summarizers():
     """Generate summaries for required components"""
+    import os
     import asyncio
     import sys
     sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'workflow'))

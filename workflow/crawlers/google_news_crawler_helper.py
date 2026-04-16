@@ -15,20 +15,29 @@ from urllib.parse import quote_plus
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from common.openai_utils import initialize_openai_client
-from common.csv_storage import save_corporate_news_item_to_csv
+from common.csv_storage import save_corporate_news_item_to_csv, save_news_item_to_csv
 from common import extract_html
 from crawlers.corporate_news_utils import is_news_about_company
 from crawlers.generic_news_crawler import generate_article_summary
 from common.link_cache import is_link_seen, save_seen_link
 
 
-async def crawl_google_news_for_company(company: str, stock_code: Optional[str] = None, client=None) -> List[Dict[str, Any]]:
+async def crawl_google_news_for_company(
+    company: str,
+    stock_code: Optional[str] = None,
+    client=None,
+    search_query: Optional[str] = None,
+    simple_csv_news_type: Optional[str] = None,
+) -> List[Dict[str, Any]]:
     """Crawl Google News RSS feed for a single company
     
     Args:
         company: Company name (e.g., "TSMC", "NVIDIA", "OpenAI")
         stock_code: Optional stock code (for context in relevance checking)
         client: Optional OpenAI client (will create if not provided)
+        search_query: Optional custom Google News query string (without when:1d)
+        simple_csv_news_type: If set (e.g. "ar_ai_glasses_news"), append rows as Date/Headline/Link/Summary
+            with Headline prefixed by company, instead of corporate_news.csv.
     
     Returns:
         List of news items with company information
@@ -39,11 +48,14 @@ async def crawl_google_news_for_company(company: str, stock_code: Optional[str] 
     all_news_items = []
     
     # Construct Google News RSS URL
-    # Format: https://news.google.com/rss/search?q=COMPANY+when:1d
-    query = quote_plus(f"{company} when:1d")
+    # Format: https://news.google.com/rss/search?q=QUERY+when:1d
+    query_text = search_query.strip() if search_query else company
+    query = quote_plus(f"{query_text} when:1d")
     rss_url = f"https://news.google.com/rss/search?q={query}"
     
     print(f"\n  Crawling Google News for: {company}")
+    if search_query:
+        print(f"  Query override: {query_text}")
     print(f"  RSS URL: {rss_url}")
     
     try:
@@ -121,15 +133,24 @@ async def crawl_google_news_for_company(company: str, stock_code: Optional[str] 
             date_obj = datetime.now()
             
             try:
-                save_corporate_news_item_to_csv(
-                    company=company,
-                    headline=title,
-                    url=link,
-                    summary=summary,
-                    date=date_obj,
-                    stock_code=stock_code,
-                    source="google_news"
-                )
+                if simple_csv_news_type:
+                    save_news_item_to_csv(
+                        simple_csv_news_type,
+                        headline=f"[{company}] {title}",
+                        url=link,
+                        summary=summary,
+                        date=date_obj,
+                    )
+                else:
+                    save_corporate_news_item_to_csv(
+                        company=company,
+                        headline=title,
+                        url=link,
+                        summary=summary,
+                        date=date_obj,
+                        stock_code=stock_code,
+                        source="google_news",
+                    )
                 title_display = title[:60] if len(title) > 60 else title
                 try:
                     print(f"      [OK] Saved: {title_display}...")

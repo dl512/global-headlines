@@ -1409,6 +1409,81 @@
         }
       }
     },
+    "ar_ai_glasses_news": {
+      "name": "AR / AI Glasses News",
+      "description": "AR and AI glasses: industry homepages plus targeted Google News in one CSV.",
+      "crawler": {
+        "type": "ar_ai_glasses_news",
+        "function": "crawl_ar_ai_glasses_news",
+        "module": "crawlers.ar_ai_glasses_news_crawler",
+        "inputs": {
+          "websites": {
+            "value": [
+              "https://glassalmanac.com/",
+              "https://arinsider.co/"
+            ],
+            "required": true,
+            "customizable": true,
+            "description": "AR-focused sites; VR-only outlets omitted by default"
+          },
+          "date_filter_mode": {
+            "value": "today_or_yesterday",
+            "default": "today_or_yesterday"
+          },
+          "special_handling": {
+            "value": {},
+            "default": {}
+          },
+          "company_configs": {
+            "value": [],
+            "required": false,
+            "customizable": true,
+            "description": "Google News rows; if empty, uses workflow/config/ar_ai_glasses_company_queries.json"
+          }
+        },
+        "output": {
+          "type": "csv",
+          "file": "ar_ai_glasses_news.csv"
+        }
+      },
+      "summarizer": {
+        "type": "csv_based",
+        "function": "summarize_ar_ai_glasses_news",
+        "module": "summarizers.ar_ai_glasses_news_summarizer",
+        "inputs": {
+          "data_source": {
+            "type": "csv",
+            "file": "ar_ai_glasses_news.csv",
+            "required": true
+          },
+          "section_title": {
+            "default": "AR / AI Glasses",
+            "customizable": true
+          }
+        },
+        "output": {
+          "format": "markdown",
+          "section_title": "AR / AI Glasses"
+        }
+      },
+      "customization": {
+        "websites": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Replace default industry websites"
+        },
+        "company_configs": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Replace Google News query list"
+        },
+        "section_title": {
+          "can_customize": true,
+          "method": "replace",
+          "description": "Newsletter section title"
+        }
+      }
+    },
     "semi_ai_corporate_news": {
       "name": "Semi/AI Corporate News",
       "description": "Corporate news filtered for Semiconductor / AI newsletter - includes only specific companies (TSMC, UMC, Intel, Nvidia, Samsung, SK Hynix, Micron, AMD, OpenAI, Globalfoundries, Marvell, Broadcom, ASML, SMIC, Hua Hong, Mediatek, Cambricon, Moore Threads, Biren, Anthropic, Huayan Robotics)",
@@ -1459,7 +1534,8 @@
       "regulatory": "Fetches HKEX announcements via hkex_listedco",
       "futu_stock_news": "Crawls stock-specific news from Futu (futunn.com) for HK-listed stocks",
       "hk_ipo": "Fetches IPO news from AAStocks via aastocks_ipo",
-      "global_news": "Crawls sources from Google Sheets Countries tab"
+      "global_news": "Crawls sources from Google Sheets Countries tab",
+      "ar_ai_glasses_news": "Industry sites (generic crawl) plus Google News into ar_ai_glasses_news.csv"
     },
     "summarizer_types": {
       "csv_based": "Reads from CSV file and uses LLM to summarize",

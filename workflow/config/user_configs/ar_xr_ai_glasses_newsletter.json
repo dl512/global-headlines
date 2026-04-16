@@ -1,0 +1,28 @@
+{
+  "email_intro": "Hi,\n\nHere's your newsletter for today.\n\n",
+  "newsletters": [
+    {
+      "name": "ar_xr_ai_glasses_newsletter",
+      "components": [
+        "ar_ai_glasses_news"
+      ],
+      "component_customizations": {
+        "ar_ai_glasses_news": {
+          "section_title": "AR / AI Glasses"
+        }
+      },
+      "recipients": {
+        "en": [
+          "davidlau512@gmail.com"
+        ]
+      },
+      "email": {
+        "from_email": "david@xplorehk.com",
+        "from_name": "AR / AI Glasses Newsletter",
+        "subject": "AR / AI Glasses Newsletter - {date}"
+      },
+      "language": "EN",
+      "translate": false
+    }
+  ]
+}
