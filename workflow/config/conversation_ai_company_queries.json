@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Topic: Conversational AI",
+    "methods": ["google_news"],
+    "google_query": "(\"conversational AI\" OR \"conversation AI\") AND (enterprise OR startup OR funding OR product OR launch OR platform)"
+  },
+  {
+    "company": "Topic: AI support agents",
+    "methods": ["google_news"],
+    "google_query": "(\"AI agent\" OR agentic OR copilot) AND (\"customer support\" OR \"customer service\" OR \"help desk\" OR ticket OR \"contact center\" OR chatbot)"
+  },
+  {
+    "company": "Topic: Contact center AI",
+    "methods": ["google_news"],
+    "google_query": "(\"contact center\" OR \"contact centre\" OR \"call center\" OR call centre) AND (AI OR LLM OR \"generative AI\" OR automation OR chatbot OR voice)"
+  },
+  {
+    "company": "Topic: CX automation",
+    "methods": ["google_news"],
+    "google_query": "(\"customer experience\" OR CX) AND (AI OR automation OR LLM) AND (support OR service OR engagement OR loyalty)"
+  },
+  {
+    "company": "Topic: Business messaging AI",
+    "methods": ["google_news"],
+    "google_query": "(WhatsApp Business OR \"business messaging\" OR \"messaging API\") AND (AI OR chatbot OR automation OR CX)"
+  },
+  {
+    "company": "Topic: Voice virtual agents",
+    "methods": ["google_news"],
+    "google_query": "(\"virtual agent\" OR \"voice AI\" OR \"voice bot\" OR IVR) AND (customer OR support OR \"contact center\" OR service)"
+  },
+  {
+    "company": "Decagon",
+    "methods": ["google_news"],
+    "google_query": "(Decagon AND (\"AI agent\" OR \"customer support\" OR \"conversational AI\" OR CX OR chatbot OR startup))"
+  },
+  {
+    "company": "SleekFlow",
+    "methods": ["google_news"],
+    "google_query": "(SleekFlow AND (WhatsApp OR \"social commerce\" OR \"customer engagement\" OR inbox OR CRM OR SaaS))"
+  },
+  {
+    "company": "Wati",
+    "methods": ["google_news"],
+    "google_query": "((Wati.io OR Wati) AND (WhatsApp OR \"customer support\" OR chatbot OR SaaS OR automation))"
+  }
+]

@@ -21,7 +21,8 @@ workflow/
 │   │   ├── tech_news.csv
 │   │   ├── financial_news.csv
 │   │   ├── regulatory.csv
-│   │   └── hk_ipo.csv
+│   │   ├── hk_ipo.csv
+│   │   └── conversation_ai_news.csv
 │   └── market_snapshot/               # Market data JSON
 │       └── market_data.json
 ├── summaries/                         # Generated summaries
@@ -31,6 +32,7 @@ workflow/
 └── newsletter/                        # Generated newsletters
     ├── global_newsletter/
     ├── market_briefing/
+    ├── conversation_ai_newsletter/
     └── ...
 ```
 

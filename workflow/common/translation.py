@@ -5,12 +5,9 @@ Common utilities for translating newsletters
 import os
 import asyncio
 from typing import Optional
-from dotenv import load_dotenv
 from openai import AsyncOpenAI
 
 from .openai_utils import chat_completion_with_fallback, initialize_openai_client
-
-load_dotenv(override=True)
 
 async def translate_to_chinese(text: str, client: Optional[AsyncOpenAI] = None) -> str:
     """Translate English text to Traditional Chinese (繁體中文)

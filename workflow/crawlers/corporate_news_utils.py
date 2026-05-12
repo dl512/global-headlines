@@ -173,3 +173,45 @@ Return ONLY "YES" if the article is primarily about {company}'s business activit
         # But log the error so we know something went wrong
         return True
 
+
+async def is_article_matching_search_theme(
+    client,
+    headline: str,
+    url: str,
+    html_content: str,
+    search_query: str,
+) -> bool:
+    """Use LLM to decide if an article matches a Google News *topic* query (not a single company)."""
+    content_sample = html_content[:2000] if html_content else ""
+    prompt = f"""
+You are screening news for a professional digest on conversational AI, AI customer support, and CX automation.
+
+Google News search theme (boolean-style query the user ran):
+{search_query}
+
+Article headline: {headline}
+URL: {url}
+Article sample: {content_sample}
+
+Return YES only if the article is SUBSTANTIVELY about this theme — e.g. conversational AI, AI agents for support,
+contact center automation, CX / messaging automation, chatbots for business, voice/virtual agents for service,
+or closely related B2B product/funding/partnership news.
+
+Return NO if it is primarily: stock price or trading noise, unrelated consumer tech, generic big-tech earnings with no CX/AI angle,
+sports/entertainment, or only a passing mention of AI with no support/CX focus.
+
+Return ONLY the word YES or NO.
+"""
+    try:
+        response = await chat_completion_with_fallback(
+            client,
+            "light",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1,
+        )
+        result = response.choices[0].message.content.strip().upper()
+        return result.startswith("YES")
+    except Exception as e:
+        print(f"      WARNING: Error checking topic relevance: {e}")
+        return True
+

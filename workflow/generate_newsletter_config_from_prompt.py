@@ -71,6 +71,7 @@ CRITICAL INSTRUCTIONS:
   * "global news" or "regional news" or "local news" → "global_news"
   * "IPO" or "initial public offering" or "HK IPO" → "hk_ipo"
   * "regulatory" or "announcements" or "HKEX" → "regulatory"
+  * "conversation AI" or "conversational AI" or "CX AI" or "customer support AI" or "AI agents for support" → "conversation_ai_news"
 - If the user mentions "financial news", use ONLY "financial_news" component, NOT "top_news" or "global_news"
 - If the user mentions "tech news", use ONLY "tech_news" component, NOT "top_news" or "global_news"
 - Be precise and minimal - only include what the user explicitly requests

@@ -553,6 +553,35 @@ Return ONLY a JSON object that matches this exact schema:
 
 Do not include any explanations, markdown, or extra text.
 """
+    elif news_type == "conversation_ai_news":
+        prompt = f"""
+You are a news analyst extracting headlines about conversational AI, AI agents for customer support,
+and customer experience (CX) automation from {website}.
+
+Here is the full HTML of {website}:
+
+```{html_string_input}```
+
+CRITICAL SCOPE — CONVERSATION / CX AI ONLY:
+- INCLUDE: AI chatbots and voice agents for support, contact center automation, messaging/WhatsApp business tooling,
+  LLM copilots for agents, CX SaaS, customer service automation, agentic workflows in support.
+- EXCLUDE: Generic consumer gadget reviews, unrelated B2B software with no customer-contact angle,
+  pure semiconductor/hardware supply chain unless clearly tied to inference for CX products.
+
+Extract up to 20 headlines that best match conversational AI / CX automation. If fewer than 20 qualify, return only the qualifying ones.
+
+Return ONLY a JSON object that matches this exact schema:
+
+{{
+  "headlines": [
+    "headline 1",
+    "headline 2",
+    ...
+  ]
+}}
+
+Do not include any explanations, markdown, or extra text.
+"""
     else:
         # Standard prompt for other sites (top_news, etc.)
         prompt = f"""
@@ -1337,6 +1366,12 @@ SUMMARY REQUIREMENTS — AR / AI GLASSES ONLY:
 - Focus on product, platform, optics, supply chain, partnerships, and regulation affecting AR glasses or smart glasses.
 - If the article is primarily about VR games, PC VR, or unrelated entertainment, state that briefly and note it is out of scope (still summarize the AR-relevant angle if any).
 """
+    elif news_type == "conversation_ai_news":
+        topic_instructions = """
+SUMMARY REQUIREMENTS — CONVERSATION / CX AI ONLY:
+- Focus on AI agents, chatbots, contact center automation, messaging channels, CX SaaS, enterprise deployments, and partnerships.
+- If the story is only loosely related, still summarize but keep the CX / support angle explicit.
+"""
 
     prompt = f"""
 Given this news article:
@@ -1667,7 +1702,7 @@ async def crawl_news_from_config(
     
     Args:
         config_key: Component key in component_config.json (e.g., "top_news", "tech_news", "financial_news")
-        websites_override: If set, replaces configured websites list (used by ar_ai_glasses_news, etc.)
+        websites_override: If set, replaces configured websites list (used by ar_ai_glasses_news, conversation_ai_news, etc.)
     
     Returns:
         List of news items
@@ -1697,11 +1732,11 @@ async def crawl_news_from_config(
     global_special_handling = inputs.get("special_handling", {}).get("value", inputs.get("special_handling", {}).get("default", {}))
     news_type = config_key
 
-    # Dedicated AR newsletter CSV: start fresh each run so Google + site rows do not duplicate across days in one file
-    if config_key == "ar_ai_glasses_news":
-        ar_csv = get_csv_path("ar_ai_glasses_news")
-        if ar_csv.exists():
-            ar_csv.unlink()
+    # Dedicated vertical CSVs: start fresh each run so Google + site rows do not duplicate across days in one file
+    if config_key in ("ar_ai_glasses_news", "conversation_ai_news"):
+        dedicated_csv = get_csv_path(config_key)
+        if dedicated_csv.exists():
+            dedicated_csv.unlink()
     
     print(f"Starting {news_type} crawl...")
     print(f"Websites: {websites}")

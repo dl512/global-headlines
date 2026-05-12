@@ -6,24 +6,13 @@ import os
 import sys
 from typing import Optional, List
 from mailjet_rest import Client
-from dotenv import load_dotenv
 
-# Find project root (where .env file should be)
-# This file is in workflow/common/, so go up 2 levels
-current_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.dirname(os.path.dirname(current_dir))
-env_path = os.path.join(project_root, '.env')
+try:
+    from .env_loader import load_project_dotenv
+except ImportError:
+    from common.env_loader import load_project_dotenv
 
-# Load .env file from project root
-# Try multiple approaches to ensure we find the .env file
-if os.path.exists(env_path):
-    load_dotenv(env_path, override=True)
-elif os.path.exists('.env'):
-    # If running from project root
-    load_dotenv('.env', override=True)
-else:
-    # Fallback: try to find .env in current directory or parent directories
-    load_dotenv(override=True)
+load_project_dotenv()
 
 
 def send_email(

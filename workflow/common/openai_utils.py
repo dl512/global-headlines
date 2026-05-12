@@ -6,10 +6,14 @@ import logging
 import os
 from typing import Any, Literal
 
-from dotenv import load_dotenv
 from openai import AsyncOpenAI
 
-load_dotenv(override=True)
+try:
+    from .env_loader import load_project_dotenv
+except ImportError:
+    from common.env_loader import load_project_dotenv
+
+load_project_dotenv()
 
 logger = logging.getLogger(__name__)
 

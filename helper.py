@@ -40,6 +40,8 @@ def print_menu():
     print()
     print("  5. Run Full Pipeline (Load config → Crawl → Summarize → Generate → Send)")
     print()
+    print("  Tip: 1a / 2a let you crawl or summarize one component only (e.g. conversation_ai_news).")
+    print()
     print("  0. Exit")
     print()
 
@@ -367,6 +369,10 @@ def run_specific_component_crawler(component_key):
             from crawlers.ar_ai_glasses_news_crawler import crawl_ar_ai_glasses_news
             print(f"Crawling {component_key} using ar_ai_glasses_news_crawler...")
             asyncio.run(crawl_ar_ai_glasses_news())
+        elif crawler_type == 'conversation_ai_news':
+            from crawlers.conversation_ai_news_crawler import crawl_conversation_ai_news
+            print(f"Crawling {component_key} using conversation_ai_news_crawler...")
+            asyncio.run(crawl_conversation_ai_news())
         else:
             print(f"❌ Unknown crawler type: {crawler_type}")
             return False

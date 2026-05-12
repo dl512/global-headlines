@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from common.openai_utils import initialize_openai_client
 from common.csv_storage import save_corporate_news_item_to_csv, save_news_item_to_csv
 from common import extract_html
-from crawlers.corporate_news_utils import is_news_about_company
+from crawlers.corporate_news_utils import is_news_about_company, is_article_matching_search_theme
 from crawlers.generic_news_crawler import generate_article_summary
 from common.link_cache import is_link_seen, save_seen_link
 
@@ -36,8 +36,8 @@ async def crawl_google_news_for_company(
         stock_code: Optional stock code (for context in relevance checking)
         client: Optional OpenAI client (will create if not provided)
         search_query: Optional custom Google News query string (without when:1d)
-        simple_csv_news_type: If set (e.g. "ar_ai_glasses_news"), append rows as Date/Headline/Link/Summary
-            with Headline prefixed by company, instead of corporate_news.csv.
+        simple_csv_news_type: If set (e.g. "ar_ai_glasses_news", "conversation_ai_news"), append rows as
+            Date/Headline/Link/Summary with Headline prefixed by company, instead of corporate_news.csv.
     
     Returns:
         List of news items with company information
@@ -105,12 +105,26 @@ async def crawl_google_news_for_company(
                 save_seen_link(rss_url, link, title, was_relevant=False)
                 continue
             
-            # Check if news is about this company
+            # Relevance: company-specific vs topic-style (Google keyword digest rows use "Topic: ..." + custom query)
             print(f"      Checking relevance for: {title[:60]}...")
-            is_relevant = await is_news_about_company(client, title, link, html_content, company, stock_code=stock_code)
-            
+            is_topic_row = bool(
+                simple_csv_news_type
+                and search_query
+                and company.strip().lower().startswith("topic:")
+            )
+            if is_topic_row:
+                is_relevant = await is_article_matching_search_theme(
+                    client, title, link, html_content, search_query
+                )
+            else:
+                is_relevant = await is_news_about_company(
+                    client, title, link, html_content, company, stock_code=stock_code
+                )
+
             if not is_relevant:
-                print(f"      ✗ SKIPPED: Not primarily about {company}")
+                print(
+                    f"      ✗ SKIPPED: Not relevant ({'theme' if is_topic_row else 'company'}: {company})"
+                )
                 # Save to cache (not relevant)
                 save_seen_link(rss_url, link, title, was_relevant=False)
                 continue
@@ -120,7 +134,13 @@ async def crawl_google_news_for_company(
             # Generate summary from article HTML
             summary = ""
             try:
-                summary = await generate_article_summary(client, title, link, html_content)
+                summary = await generate_article_summary(
+                    client,
+                    title,
+                    link,
+                    html_content,
+                    news_type=simple_csv_news_type,
+                )
                 if not summary:
                     summary = "Summary not available"
                 else:

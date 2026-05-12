@@ -1,0 +1,28 @@
+{
+  "email_intro": "Hi,\n\nHere's your conversation & CX AI digest.\n\n",
+  "newsletters": [
+    {
+      "name": "conversation_ai_newsletter",
+      "components": [
+        "conversation_ai_news"
+      ],
+      "component_customizations": {
+        "conversation_ai_news": {
+          "section_title": "Conversation & CX AI"
+        }
+      },
+      "recipients": {
+        "en": [
+          "davidlau512@gmail.com"
+        ]
+      },
+      "email": {
+        "from_email": "david@xplorehk.com",
+        "from_name": "Conversation & CX AI",
+        "subject": "Conversation & CX AI - {date}"
+      },
+      "language": "EN",
+      "translate": false
+    }
+  ]
+}

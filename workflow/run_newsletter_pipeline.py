@@ -28,6 +28,7 @@ from crawlers.market_snapshot_crawler import crawl_market_snapshot
 from crawlers.regulatory_announcement_crawler import crawl_regulatory_announcements
 from crawlers.corporate_news_crawler import crawl_corporate_news_from_config
 from crawlers.ar_ai_glasses_news_crawler import crawl_ar_ai_glasses_news
+from crawlers.conversation_ai_news_crawler import crawl_conversation_ai_news
 from crawlers.futu_stock_news_crawler import crawl_futu_stock_news_from_config
 from crawlers.hk_ipo_news_crawler import crawl_hk_ipo_news
 
@@ -45,6 +46,7 @@ from summarizers.semi_ai_corporate_news_summarizer import summarize_semi_ai_corp
 from summarizers.futu_stock_news_summarizer import summarize_futu_stock_news
 from summarizers.hk_ipo_news_summarizer import summarize_hk_ipo_news
 from summarizers.ar_ai_glasses_news_summarizer import summarize_ar_ai_glasses_news
+from summarizers.conversation_ai_news_summarizer import summarize_conversation_ai_news
 
 
 # Mapping of component names to summarizer functions
@@ -62,6 +64,7 @@ SUMMARIZERS = {
     "futu_stock_news": summarize_futu_stock_news,
     "hk_ipo": summarize_hk_ipo_news,
     "ar_ai_glasses_news": summarize_ar_ai_glasses_news,
+    "conversation_ai_news": summarize_conversation_ai_news,
 }
 
 
@@ -189,6 +192,7 @@ CRAWLERS = {
     "futu_stock_news": crawl_futu_stock_news_from_config,
     "hk_ipo": crawl_hk_ipo_news,
     "ar_ai_glasses_news": crawl_ar_ai_glasses_news,
+    "conversation_ai_news": crawl_conversation_ai_news,
 }
 
 
@@ -215,7 +219,7 @@ async def run_crawlers(required_components: set, component_customizations: Dict[
     
     # Run only required crawlers
     component_order = ["global_news", "top_news", "hk_news", "financial_news", "market_snapshot",
-                       "tech_news", "ar_ai_glasses_news", "regulatory", "corporate_news", "futu_stock_news", "hk_ipo"]
+                       "tech_news", "ar_ai_glasses_news", "conversation_ai_news", "regulatory", "corporate_news", "futu_stock_news", "hk_ipo"]
     
     for i, component in enumerate(component_order, 1):
         if component in required_components:
@@ -242,6 +246,17 @@ async def run_crawlers(required_components: set, component_customizations: Dict[
                         else:
                             results[component] = crawler_func()
                     elif component == "ar_ai_glasses_news":
+                        if asyncio.iscoroutinefunction(crawler_func):
+                            results[component] = await crawler_func(
+                                websites=customization.get("websites"),
+                                company_configs=customization.get("company_configs"),
+                            )
+                        else:
+                            results[component] = crawler_func(
+                                websites=customization.get("websites"),
+                                company_configs=customization.get("company_configs"),
+                            )
+                    elif component == "conversation_ai_news":
                         if asyncio.iscoroutinefunction(crawler_func):
                             results[component] = await crawler_func(
                                 websites=customization.get("websites"),
@@ -452,6 +467,25 @@ async def generate_summaries(required_components: set, component_customizations:
                     else:
                         summary = summarizer_func(section_title=section_title)
                 elif component == "ar_ai_glasses_news":
+                    config_path = os.path.join(
+                        os.path.dirname(os.path.abspath(__file__)),
+                        "config",
+                        "component_config.json",
+                    )
+                    with open(config_path, "r", encoding="utf-8") as f:
+                        component_config_data = json.load(f)
+                    component_config = component_config_data.get("components", {}).get(component, {})
+                    summarizer_config = component_config.get("summarizer", {})
+                    inputs = summarizer_config.get("inputs", {})
+                    section_title_config = inputs.get("section_title", {})
+                    section_title = customization.get("section_title") or section_title_config.get(
+                        "default", None
+                    )
+                    if asyncio.iscoroutinefunction(summarizer_func):
+                        summary = await summarizer_func(section_title=section_title)
+                    else:
+                        summary = summarizer_func(section_title=section_title)
+                elif component == "conversation_ai_news":
                     config_path = os.path.join(
                         os.path.dirname(os.path.abspath(__file__)),
                         "config",
